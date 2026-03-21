@@ -12,17 +12,12 @@ interface CategoryCardProps {
 }
 
 /*
- * Color alternation from Stitch reference:
- *   NEW       → yellow progress, cyan 3D button bottom/right border
- *   ACTIVE    → cyan progress,   yellow 3D button bottom/right border
- *   COMPLETED → yellow progress, yellow 3D button bottom/right border
+ * NeoPOP / CRED style — light from upper-left, hard shadow offset bottom-right.
  *
- * Badge fills:
- *   NEW       → subtle dark bg, light text
- *   ACTIVE    → solid cyan fill, dark text
- *   COMPLETED → solid yellow fill, dark text
- *
- * Button 3D: thick colored bottom+right border (slab effect)
+ * Color alternation:
+ *   NEW       → yellow progress bar, cyan shadow on CTA
+ *   ACTIVE    → cyan progress bar,   yellow shadow on CTA
+ *   COMPLETED → yellow progress bar, yellow shadow on CTA
  */
 
 const statusStyles = {
@@ -30,24 +25,21 @@ const statusStyles = {
     badge: 'bg-surface-container-highest text-on-surface',
     badgeLabel: 'NEW',
     progressColor: 'secondary' as const,
-    // Cyan 3D slab: thick bottom+right border
-    buttonBorder: 'border-b-[4px] border-r-[4px] border-b-[#81ecff] border-r-[#81ecff] border-t-2 border-l-2 border-t-surface-container-lowest border-l-surface-container-lowest',
+    buttonShadow: '4px 4px 0px 0px #81ecff',   // cyan
     cta: 'Start Module',
   },
   active: {
     badge: 'bg-tertiary text-on-tertiary',
     badgeLabel: 'ACTIVE',
     progressColor: 'tertiary' as const,
-    // Yellow 3D slab: thick bottom+right border
-    buttonBorder: 'border-b-[4px] border-r-[4px] border-b-[#f5ce53] border-r-[#f5ce53] border-t-2 border-l-2 border-t-surface-container-lowest border-l-surface-container-lowest',
+    buttonShadow: '4px 4px 0px 0px #f5ce53',   // yellow
     cta: 'Continue',
   },
   completed: {
     badge: 'bg-secondary text-on-secondary',
     badgeLabel: 'COMPLETED',
     progressColor: 'secondary' as const,
-    // Yellow 3D slab
-    buttonBorder: 'border-b-[4px] border-r-[4px] border-b-[#f5ce53] border-r-[#f5ce53] border-t-2 border-l-2 border-t-surface-container-lowest border-l-surface-container-lowest',
+    buttonShadow: '4px 4px 0px 0px #f5ce53',   // yellow
     cta: 'Review',
   },
 }
@@ -110,9 +102,10 @@ export function CategoryCard({
           </div>
         </div>
 
-        {/* CTA — white button with colored bottom+right 3D slab border */}
+        {/* CTA — NeoPOP raised button: colored hard shadow offset to bottom-right */}
         <div
-          className={`neo-push bg-primary text-surface-container-lowest ${styles.buttonBorder} font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none`}
+          className="neo-push bg-primary text-surface-container-lowest border-2 border-surface-container-lowest font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none"
+          style={{ boxShadow: styles.buttonShadow }}
         >
           {styles.cta}
         </div>
