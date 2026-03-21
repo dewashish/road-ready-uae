@@ -7,10 +7,21 @@ import { NeoCard } from '@/components/ui/NeoCard'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
 import { useProgress } from '@/context/ProgressContext'
 
+const ALL_MODULE_SLUGS = [
+  'road-signs', 'traffic-rules', 'hazard-perception',
+  'driving-conditions', 'critical-situations', 'driving-behavior', 'vehicle-maintenance',
+]
+
 export default function HomePage() {
   const { progress } = useProgress()
   const dailyDone = progress.dailyChallenge?.completed ?? 0
   const dailyTarget = progress.dailyChallenge?.target ?? 10
+
+  // Count how many of the 7 modules the user has completed at least once
+  const completedModuleCount = ALL_MODULE_SLUGS.filter(
+    (slug) => (progress.modules[slug]?.completionCount ?? 0) > 0
+  ).length
+  const hasStarted = completedModuleCount > 0
 
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
@@ -21,7 +32,7 @@ export default function HomePage() {
             Theory <span className="text-secondary">Mastery</span>
           </h2>
           <p className="text-on-surface-variant text-base sm:text-lg max-w-xl">
-            Master the UAE driving theory test with 390+ practice questions,
+            Master the UAE driving theory test with 570+ practice questions,
             smart learning paths, and mock exams.
           </p>
         </div>
@@ -29,7 +40,7 @@ export default function HomePage() {
         <div className="grid grid-cols-3 gap-3 mb-8">
           <NeoCard level={1} shadow="none" className="text-center !p-4">
             <span className="material-symbols-outlined text-secondary mb-1" style={{ fontSize: 24 }}>quiz</span>
-            <p className="font-headline text-xl font-bold text-primary">390+</p>
+            <p className="font-headline text-xl font-bold text-primary">570+</p>
             <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">Questions</p>
           </NeoCard>
           <NeoCard level={1} shadow="none" className="text-center !p-4">
@@ -51,7 +62,12 @@ export default function HomePage() {
           </div>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {VEHICLE_CATEGORIES.map((category) => (
-              <CategoryCard key={category.type} category={category} />
+              <CategoryCard
+                key={category.type}
+                category={category}
+                completedModules={completedModuleCount}
+                status={completedModuleCount >= 7 ? 'completed' : hasStarted ? 'active' : 'new'}
+              />
             ))}
           </div>
         </div>
