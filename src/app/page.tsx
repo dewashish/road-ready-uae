@@ -75,7 +75,7 @@ export default function HomePage() {
                   key={category.type}
                   category={category}
                   completedModules={completed}
-                  status={completed >= 7 ? 'completed' : completed > 0 ? 'active' : 'new'}
+                  status={category.type === 'F' ? 'coming_soon' : completed >= 7 ? 'completed' : completed > 0 ? 'active' : 'new'}
                   index={idx}
                 />
               )

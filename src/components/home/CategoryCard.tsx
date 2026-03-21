@@ -3,12 +3,14 @@ import { NeoCard } from '@/components/ui/NeoCard'
 import { ProgressBar } from '@/components/ui/ProgressBar'
 import type { VehicleCategory } from '@/types/quiz'
 
+export type CardStatus = 'new' | 'active' | 'completed' | 'coming_soon'
+
 interface CategoryCardProps {
   category: VehicleCategory
   progress?: number
   totalModules?: number
   completedModules?: number
-  status?: 'new' | 'active' | 'completed'
+  status?: CardStatus
   index?: number
 }
 
@@ -20,27 +22,31 @@ interface CategoryCardProps {
  *   Odd  index (1, 3, 5…) → cyan button shadow   + yellow progress bar
  *
  * Exception — COMPLETED: everything yellow (button shadow + progress bar).
+ * Exception — COMING_SOON: greyed out, no shadow, unavailable CTA.
  */
 
 const SHADOW_YELLOW = '4px 4px 0px 0px #f5ce53'
 const SHADOW_CYAN = '4px 4px 0px 0px #81ecff'
 
-const badgeStyles = {
+const badgeStyles: Record<CardStatus, string> = {
   new: 'bg-surface-container-highest text-on-surface',
   active: 'bg-tertiary text-on-tertiary',
   completed: 'bg-secondary text-on-secondary',
+  coming_soon: 'bg-surface-container-highest text-outline',
 }
 
-const badgeLabels = {
+const badgeLabels: Record<CardStatus, string> = {
   new: 'NEW',
   active: 'IN PROGRESS',
   completed: 'COMPLETED',
+  coming_soon: 'COMING SOON',
 }
 
-const ctaLabels = {
+const ctaLabels: Record<CardStatus, string> = {
   new: 'Start Module',
   active: 'Continue',
   completed: 'Review',
+  coming_soon: 'Unavailable',
 }
 
 export function CategoryCard({
@@ -51,54 +57,67 @@ export function CategoryCard({
   index = 0,
 }: CategoryCardProps) {
   const percent = Math.round((completedModules / totalModules) * 100)
+  const isComingSoon = status === 'coming_soon'
 
   // Completed → all yellow
+  // Coming soon → no shadow
   // Otherwise alternate: even index = yellow shadow + cyan bar, odd = cyan shadow + yellow bar
   const isCompleted = status === 'completed'
   const isEven = index % 2 === 0
 
-  const buttonShadow = isCompleted
-    ? SHADOW_YELLOW
-    : isEven ? SHADOW_YELLOW : SHADOW_CYAN
+  const buttonShadow = isComingSoon
+    ? 'none'
+    : isCompleted
+      ? SHADOW_YELLOW
+      : isEven ? SHADOW_YELLOW : SHADOW_CYAN
 
   const progressColor: 'secondary' | 'tertiary' = isCompleted
     ? 'secondary'
     : isEven ? 'tertiary' : 'secondary'
 
-  return (
-    <Link href={`/quiz/${category.type}`}>
-      <NeoCard
-        level={2}
-        shadow="default"
-        className="neo-hover cursor-pointer group h-full !p-6"
-      >
-        {/* Top: icon + badge */}
-        <div className="flex items-start justify-between mb-5">
-          {/* Icon — inverts on hover: dark bg + yellow icon → yellow bg + dark icon */}
-          <div className="w-14 h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center transition-colors group-hover:bg-secondary">
-            <span
-              className="material-symbols-outlined text-secondary transition-colors group-hover:text-surface-container-lowest"
-              style={{ fontSize: 28 }}
-            >
-              {category.icon}
-            </span>
-          </div>
-          <span className={`inline-block px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${badgeStyles[status]}`}>
-            {badgeLabels[status]}
+  const card = (
+    <NeoCard
+      level={isComingSoon ? 1 : 2}
+      shadow={isComingSoon ? 'none' : 'default'}
+      className={`group h-full !p-6 ${isComingSoon ? 'opacity-40' : 'neo-hover cursor-pointer'}`}
+    >
+      {/* Top: icon + badge */}
+      <div className="flex items-start justify-between mb-5">
+        <div className={`w-14 h-14 border-2 flex items-center justify-center transition-colors ${
+          isComingSoon
+            ? 'bg-surface-container-lowest border-surface-container-lowest'
+            : 'bg-surface-container-lowest border-surface-container-lowest group-hover:bg-secondary'
+        }`}>
+          <span
+            className={`material-symbols-outlined transition-colors ${
+              isComingSoon ? 'text-outline' : 'text-secondary group-hover:text-surface-container-lowest'
+            }`}
+            style={{ fontSize: 28 }}
+          >
+            {category.icon}
           </span>
         </div>
+        <span className={`inline-block px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${badgeStyles[status]}`}>
+          {badgeLabels[status]}
+        </span>
+      </div>
 
-        {/* Title */}
-        <h3 className="font-headline text-lg font-bold text-primary uppercase tracking-wider mb-1.5">
-          {category.name}
-        </h3>
+      {/* Title */}
+      <h3 className={`font-headline text-lg font-bold uppercase tracking-wider mb-1.5 ${
+        isComingSoon ? 'text-outline' : 'text-primary'
+      }`}>
+        {category.name}
+      </h3>
 
-        {/* Description */}
-        <p className="text-sm text-on-surface-variant leading-relaxed mb-5">
-          {category.description}
-        </p>
+      {/* Description */}
+      <p className={`text-sm leading-relaxed mb-5 ${
+        isComingSoon ? 'text-outline' : 'text-on-surface-variant'
+      }`}>
+        {category.description}
+      </p>
 
-        {/* Progress bar — color alternates opposite to button shadow */}
+      {/* Progress bar */}
+      {!isComingSoon && (
         <div className="mb-5">
           <div className="flex items-center gap-3">
             <ProgressBar
@@ -113,15 +132,29 @@ export function CategoryCard({
             </span>
           </div>
         </div>
+      )}
 
-        {/* CTA — NeoPOP raised button: colored hard shadow offset to bottom-right */}
-        <div
-          className="neo-push bg-primary text-surface-container-lowest border-2 border-surface-container-lowest font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none"
-          style={{ boxShadow: buttonShadow }}
-        >
-          {ctaLabels[status]}
-        </div>
-      </NeoCard>
+      {/* CTA */}
+      <div
+        className={`font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none border-2 ${
+          isComingSoon
+            ? 'bg-surface-container-high text-outline border-outline-variant cursor-not-allowed'
+            : 'neo-push bg-primary text-surface-container-lowest border-surface-container-lowest'
+        }`}
+        style={{ boxShadow: buttonShadow }}
+      >
+        {ctaLabels[status]}
+      </div>
+    </NeoCard>
+  )
+
+  if (isComingSoon) {
+    return <div className="h-full">{card}</div>
+  }
+
+  return (
+    <Link href={`/quiz/${category.type}`} className="h-full">
+      {card}
     </Link>
   )
 }
