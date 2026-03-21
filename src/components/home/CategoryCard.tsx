@@ -12,32 +12,42 @@ interface CategoryCardProps {
 }
 
 /*
- * Alternating color scheme:
- *   NEW       → yellow progress bar, cyan 3D button shadow
- *   ACTIVE    → cyan progress bar,   yellow 3D button shadow
- *   COMPLETED → yellow progress bar, yellow 3D button shadow (all gold)
+ * Color alternation from Stitch reference:
+ *   NEW       → yellow progress, cyan 3D button bottom/right border
+ *   ACTIVE    → cyan progress,   yellow 3D button bottom/right border
+ *   COMPLETED → yellow progress, yellow 3D button bottom/right border
+ *
+ * Badge fills:
+ *   NEW       → subtle dark bg, light text
+ *   ACTIVE    → solid cyan fill, dark text
+ *   COMPLETED → solid yellow fill, dark text
+ *
+ * Button 3D: thick colored bottom+right border (slab effect)
  */
 
 const statusStyles = {
   new: {
-    badge: 'bg-tertiary text-on-tertiary',
+    badge: 'bg-surface-container-highest text-on-surface',
     badgeLabel: 'NEW',
     progressColor: 'secondary' as const,
-    buttonShadow: 'neo-shadow-tertiary',
+    // Cyan 3D slab: thick bottom+right border
+    buttonBorder: 'border-b-[4px] border-r-[4px] border-b-[#81ecff] border-r-[#81ecff] border-t-2 border-l-2 border-t-surface-container-lowest border-l-surface-container-lowest',
     cta: 'Start Module',
   },
   active: {
-    badge: 'bg-secondary text-on-secondary',
+    badge: 'bg-tertiary text-on-tertiary',
     badgeLabel: 'ACTIVE',
     progressColor: 'tertiary' as const,
-    buttonShadow: 'neo-shadow-secondary',
+    // Yellow 3D slab: thick bottom+right border
+    buttonBorder: 'border-b-[4px] border-r-[4px] border-b-[#f5ce53] border-r-[#f5ce53] border-t-2 border-l-2 border-t-surface-container-lowest border-l-surface-container-lowest',
     cta: 'Continue',
   },
   completed: {
     badge: 'bg-secondary text-on-secondary',
     badgeLabel: 'COMPLETED',
     progressColor: 'secondary' as const,
-    buttonShadow: 'neo-shadow-secondary',
+    // Yellow 3D slab
+    buttonBorder: 'border-b-[4px] border-r-[4px] border-b-[#f5ce53] border-r-[#f5ce53] border-t-2 border-l-2 border-t-surface-container-lowest border-l-surface-container-lowest',
     cta: 'Review',
   },
 }
@@ -60,9 +70,10 @@ export function CategoryCard({
       >
         {/* Top: icon + badge */}
         <div className="flex items-start justify-between mb-5">
-          <div className="w-14 h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center group-hover:border-secondary transition-colors">
+          {/* Icon — inverts on hover: dark bg + yellow icon → yellow bg + dark icon */}
+          <div className="w-14 h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center transition-colors group-hover:bg-secondary">
             <span
-              className="material-symbols-outlined text-secondary"
+              className="material-symbols-outlined text-secondary transition-colors group-hover:text-surface-container-lowest"
               style={{ fontSize: 28 }}
             >
               {category.icon}
@@ -83,7 +94,7 @@ export function CategoryCard({
           {category.description}
         </p>
 
-        {/* Progress bar — thicker, alternating color */}
+        {/* Progress bar — alternating color */}
         <div className="mb-5">
           <div className="flex items-center gap-3">
             <ProgressBar
@@ -99,9 +110,9 @@ export function CategoryCard({
           </div>
         </div>
 
-        {/* CTA — white button with colored 3D shadow offset */}
+        {/* CTA — white button with colored bottom+right 3D slab border */}
         <div
-          className={`neo-push bg-primary text-surface-container-lowest border-2 border-surface-container-lowest ${styles.buttonShadow} font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none`}
+          className={`neo-push bg-primary text-surface-container-lowest ${styles.buttonBorder} font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none`}
         >
           {styles.cta}
         </div>
