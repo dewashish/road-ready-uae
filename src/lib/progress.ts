@@ -24,14 +24,14 @@ export interface UserProgress {
 
 const STORAGE_KEY = 'road-ready-uae-progress'
 
-const DEFAULT_PROGRESS: UserProgress = {
+export const DEFAULT_PROGRESS: UserProgress = {
   totalXp: 0,
   currentStreak: 0,
   longestStreak: 0,
   lastActiveDate: null,
   modules: {},
   dailyChallenge: {
-    date: new Date().toISOString().split('T')[0],
+    date: '',
     completed: 0,
     target: 10,
   },

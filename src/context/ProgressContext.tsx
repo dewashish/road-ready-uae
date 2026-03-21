@@ -4,6 +4,7 @@ import { createContext, useContext, useState, useEffect, useCallback, type React
 import {
   getProgress,
   recordModuleCompletion,
+  DEFAULT_PROGRESS,
   type UserProgress,
   type ModuleProgress,
 } from '@/lib/progress'
@@ -63,10 +64,12 @@ function saveStoredHistory(history: QuizSessionRecord[]): void {
 }
 
 export function ProgressProvider({ children }: { children: ReactNode }) {
-  const [progress, setProgress] = useState<UserProgress>(getProgress())
+  const [progress, setProgress] = useState<UserProgress>(DEFAULT_PROGRESS)
+  const [hydrated, setHydrated] = useState(false)
 
   useEffect(() => {
     setProgress(getProgress())
+    setHydrated(true)
   }, [])
 
   const refreshProgress = useCallback(() => {
