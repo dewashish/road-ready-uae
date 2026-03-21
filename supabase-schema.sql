@@ -299,3 +299,35 @@ create trigger set_rr_user_module_progress_updated_at
 create trigger set_rr_user_question_stats_updated_at
   before update on public.rr_user_question_stats
   for each row execute procedure public.handle_rr_updated_at();
+
+-- --------------------------------------------------------------------------
+-- 11. SESSION HISTORY (lightweight sync for cross-device quiz history)
+-- --------------------------------------------------------------------------
+-- Stores quiz session records as structured columns + JSONB answers.
+-- Used by the client-side ProgressContext to sync history across devices.
+-- --------------------------------------------------------------------------
+create table if not exists public.rr_session_history (
+  id              text not null,
+  user_id         uuid not null references auth.users(id) on delete cascade,
+  module_slug     text not null,
+  module_title    text not null,
+  vehicle_type    text not null default 'B',
+  score           integer not null,
+  total           integer not null,
+  percent         integer not null,
+  passed          boolean not null,
+  xp_earned       integer not null default 0,
+  completed_at    timestamptz not null,
+  answers         jsonb not null default '[]'::jsonb,
+  created_at      timestamptz not null default now(),
+  primary key (user_id, id)
+);
+
+alter table public.rr_session_history enable row level security;
+
+create policy "Users can view own session history"
+  on public.rr_session_history for select using (auth.uid() = user_id);
+create policy "Users can insert own session history"
+  on public.rr_session_history for insert with check (auth.uid() = user_id);
+create policy "Users can update own session history"
+  on public.rr_session_history for update using (auth.uid() = user_id);

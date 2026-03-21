@@ -1,9 +1,11 @@
 'use client'
 
+import { useState, useRef, useEffect } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { clsx } from 'clsx'
 import { useProgress } from '@/context/ProgressContext'
+import { useAuth } from '@/hooks/useAuth'
 
 const NAV_LINKS = [
   { href: '/', label: 'Home', icon: 'home' },
@@ -19,7 +21,23 @@ interface HeaderProps {
 
 export function Header({ showBack, backHref = '/', title }: HeaderProps) {
   const { progress } = useProgress()
+  const { user, loading, signOut } = useAuth()
   const pathname = usePathname()
+  const [showUserMenu, setShowUserMenu] = useState(false)
+  const menuRef = useRef<HTMLDivElement>(null)
+
+  // Close menu when clicking outside
+  useEffect(() => {
+    function handleClickOutside(e: MouseEvent) {
+      if (menuRef.current && !menuRef.current.contains(e.target as Node)) {
+        setShowUserMenu(false)
+      }
+    }
+    if (showUserMenu) {
+      document.addEventListener('mousedown', handleClickOutside)
+      return () => document.removeEventListener('mousedown', handleClickOutside)
+    }
+  }, [showUserMenu])
 
   return (
     <header className="sticky top-0 z-50 bg-surface/80 backdrop-blur-xl border-b-2 border-surface-container-lowest">
@@ -88,6 +106,59 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
             </span>
             <span className="font-label text-xs font-bold text-tertiary">{progress.totalXp} XP</span>
           </div>
+
+          {/* Auth indicator */}
+          {!loading && (
+            user ? (
+              <div className="relative" ref={menuRef}>
+                <button
+                  onClick={() => setShowUserMenu(!showUserMenu)}
+                  className="neo-push flex items-center gap-2 bg-secondary/10 border-2 border-secondary px-3 py-1.5 transition-colors hover:bg-secondary/20"
+                >
+                  <span className="material-symbols-outlined text-secondary" style={{ fontSize: 18 }}>
+                    person
+                  </span>
+                  <span className="font-label text-xs font-bold text-secondary hidden sm:inline max-w-[120px] truncate">
+                    {user.email?.split('@')[0]}
+                  </span>
+                  <span className="material-symbols-outlined text-secondary" style={{ fontSize: 16 }}>
+                    {showUserMenu ? 'expand_less' : 'expand_more'}
+                  </span>
+                </button>
+
+                {showUserMenu && (
+                  <div className="absolute right-0 top-full mt-2 w-56 bg-surface border-2 border-surface-container-lowest neo-shadow-lg z-50">
+                    <div className="px-4 py-3 border-b-2 border-surface-container-lowest">
+                      <p className="font-label text-xs text-on-surface-variant uppercase tracking-wider">Signed in as</p>
+                      <p className="font-body text-sm text-primary font-semibold truncate mt-0.5">{user.email}</p>
+                    </div>
+                    <button
+                      onClick={async () => {
+                        setShowUserMenu(false)
+                        await signOut()
+                      }}
+                      className="w-full flex items-center gap-3 px-4 py-3 text-left hover:bg-error/10 transition-colors"
+                    >
+                      <span className="material-symbols-outlined text-error" style={{ fontSize: 18 }}>logout</span>
+                      <span className="font-label text-sm font-bold text-error">Sign Out</span>
+                    </button>
+                  </div>
+                )}
+              </div>
+            ) : (
+              <Link
+                href="/auth"
+                className="neo-push flex items-center gap-2 bg-surface-container px-3 py-1.5 border-2 border-surface-container-lowest transition-colors hover:border-secondary"
+              >
+                <span className="material-symbols-outlined text-on-surface-variant" style={{ fontSize: 18 }}>
+                  login
+                </span>
+                <span className="font-label text-xs font-bold text-on-surface-variant hidden sm:inline">
+                  Sign In
+                </span>
+              </Link>
+            )
+          )}
         </div>
       </div>
     </header>
