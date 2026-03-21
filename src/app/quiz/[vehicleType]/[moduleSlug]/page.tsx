@@ -19,10 +19,13 @@ import drivingBehaviorData from '@/data/questions/driving-behavior.json'
 import vehicleMaintenanceData from '@/data/questions/vehicle-maintenance.json'
 import supplementaryData from '@/data/questions/supplementary.json'
 import supplementary2Data from '@/data/questions/supplementary-2.json'
+import supplementary3Data from '@/data/questions/supplementary-3.json'
+import supplementary4Data from '@/data/questions/supplementary-4.json'
+import supplementary5Data from '@/data/questions/supplementary-5.json'
 
 // Merge supplementary questions into their respective modules
 function mergeByModule(moduleKey: string, primary: Question[]): Question[] {
-  const sup = [...(supplementaryData as Question[]), ...(supplementary2Data as Question[])]
+  const sup = [...(supplementaryData as Question[]), ...(supplementary2Data as Question[]), ...(supplementary3Data as Question[]), ...(supplementary4Data as Question[]), ...(supplementary5Data as Question[])]
   const matching = sup.filter((q) => q.module === moduleKey)
   return [...primary, ...matching]
 }

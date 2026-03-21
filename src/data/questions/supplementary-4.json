@@ -1,0 +1,686 @@
+[
+  {
+    "id": "sup4-001",
+    "question_text": "What percentage of our visual field is in full focus (central vision)?",
+    "explanation": "Only about 2% of what we see is in full focus through our central visual field. The rest is detected by peripheral vision, which has much lower acuity. This is why systematic scanning while driving is essential.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["vision", "central_vision", "hazard_awareness"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-001-a", "question_id": "sup4-001", "answer_text": "About 2%", "is_correct": true, "display_order": 1},
+      {"id": "sup4-001-b", "question_id": "sup4-001", "answer_text": "About 25%", "is_correct": false, "display_order": 2},
+      {"id": "sup4-001-c", "question_id": "sup4-001", "answer_text": "About 50%", "is_correct": false, "display_order": 3},
+      {"id": "sup4-001-d", "question_id": "sup4-001", "answer_text": "About 75%", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-002",
+    "question_text": "What is the acuity of peripheral vision on the visual acuity scale?",
+    "explanation": "Peripheral vision has an acuity of less than 0.1 on the visual acuity scale. It can detect movement and shapes but cannot identify details. This is why drivers must turn their heads to check blind spots rather than relying on peripheral vision alone.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["vision", "peripheral_vision", "acuity"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-002-a", "question_id": "sup4-002", "answer_text": "About 0.5", "is_correct": false, "display_order": 1},
+      {"id": "sup4-002-b", "question_id": "sup4-002", "answer_text": "Less than 0.1", "is_correct": true, "display_order": 2},
+      {"id": "sup4-002-c", "question_id": "sup4-002", "answer_text": "About 0.3", "is_correct": false, "display_order": 3},
+      {"id": "sup4-002-d", "question_id": "sup4-002", "answer_text": "About 1.0", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-003",
+    "question_text": "How do experienced drivers differ from novice drivers in the way they observe the road?",
+    "explanation": "Research shows that experienced drivers scan the road more systematically, looking further ahead and checking mirrors regularly. Novice drivers tend to focus on stationary objects close to their vehicle, which limits their ability to anticipate hazards.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["observation", "scanning", "novice_vs_experienced"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-003-a", "question_id": "sup4-003", "answer_text": "Experienced drivers scan more systematically; novice drivers fixate on stationary objects near their vehicle", "is_correct": true, "display_order": 1},
+      {"id": "sup4-003-b", "question_id": "sup4-003", "answer_text": "Novice drivers scan more because they are more cautious", "is_correct": false, "display_order": 2},
+      {"id": "sup4-003-c", "question_id": "sup4-003", "answer_text": "There is no measurable difference between the two groups", "is_correct": false, "display_order": 3},
+      {"id": "sup4-003-d", "question_id": "sup4-003", "answer_text": "Experienced drivers focus mainly on road signs while novice drivers watch other vehicles", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-004",
+    "question_text": "What percentage of all information needed for driving is provided by the eyes?",
+    "explanation": "The eyes provide approximately 90% of all information needed for safe driving. This is why good eyesight and proper scanning techniques are critical for road safety.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["vision", "driving_information", "senses"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-004-a", "question_id": "sup4-004", "answer_text": "About 50%", "is_correct": false, "display_order": 1},
+      {"id": "sup4-004-b", "question_id": "sup4-004", "answer_text": "About 70%", "is_correct": false, "display_order": 2},
+      {"id": "sup4-004-c", "question_id": "sup4-004", "answer_text": "About 90%", "is_correct": true, "display_order": 3},
+      {"id": "sup4-004-d", "question_id": "sup4-004", "answer_text": "About 100%", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-005",
+    "question_text": "Why do collisions frequently occur when traffic is queuing in lanes?",
+    "explanation": "When traffic is queuing, collisions commonly occur because vehicles are travelling too close together and too fast for the conditions. Drivers should maintain a safe following distance even in slow-moving traffic.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["queuing", "following_distance", "collisions"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-005-a", "question_id": "sup4-005", "answer_text": "Because vehicles are too close and too fast", "is_correct": true, "display_order": 1},
+      {"id": "sup4-005-b", "question_id": "sup4-005", "answer_text": "Because drivers use their horns too much", "is_correct": false, "display_order": 2},
+      {"id": "sup4-005-c", "question_id": "sup4-005", "answer_text": "Because all vehicles brake at the same time", "is_correct": false, "display_order": 3},
+      {"id": "sup4-005-d", "question_id": "sup4-005", "answer_text": "Because road markings are unclear in queuing areas", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-006",
+    "question_text": "What must you ensure when changing lanes?",
+    "explanation": "When changing lanes, you must not cause hindrance to other road users. You should check your mirrors and blind spot, and signal your intention before moving. Failing to do so is a common cause of accidents.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_changing", "mirrors", "blind_spot", "signalling"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-006-a", "question_id": "sup4-006", "answer_text": "Flash your headlights to warn other drivers", "is_correct": false, "display_order": 1},
+      {"id": "sup4-006-b", "question_id": "sup4-006", "answer_text": "Check mirrors and blind spot, signal, and do not cause hindrance", "is_correct": true, "display_order": 2},
+      {"id": "sup4-006-c", "question_id": "sup4-006", "answer_text": "Move quickly so other drivers can react", "is_correct": false, "display_order": 3},
+      {"id": "sup4-006-d", "question_id": "sup4-006", "answer_text": "Only check the rear-view mirror before moving", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-007",
+    "question_text": "What is the correct sequence for changing lanes safely?",
+    "explanation": "The safe lane-change procedure is: adapt your speed, check mirrors, check blind spot, signal your intention, glance over your shoulder, and then move smoothly into the new lane. Skipping any step increases the risk of a collision.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_changing", "procedure", "safe_driving"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-007-a", "question_id": "sup4-007", "answer_text": "Signal, accelerate, move into the lane, then check mirrors", "is_correct": false, "display_order": 1},
+      {"id": "sup4-007-b", "question_id": "sup4-007", "answer_text": "Adapt speed, check mirrors, check blind spot, signal, glance over shoulder, move smoothly", "is_correct": true, "display_order": 2},
+      {"id": "sup4-007-c", "question_id": "sup4-007", "answer_text": "Check mirrors, move into the lane, then signal", "is_correct": false, "display_order": 3},
+      {"id": "sup4-007-d", "question_id": "sup4-007", "answer_text": "Slow down, honk the horn, and move into the lane", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-008",
+    "question_text": "What distinguishes a controlled pedestrian crossing from an uncontrolled one?",
+    "explanation": "A controlled pedestrian crossing is one regulated by police officers or traffic lights. All other pedestrian crossings, including those with flashing amber lights, are considered uncontrolled. At uncontrolled crossings, drivers must give way to pedestrians.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["pedestrian_crossing", "controlled", "uncontrolled", "traffic_lights"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-008-a", "question_id": "sup4-008", "answer_text": "A controlled crossing is regulated by police or traffic lights; all others including flashing amber are uncontrolled", "is_correct": true, "display_order": 1},
+      {"id": "sup4-008-b", "question_id": "sup4-008", "answer_text": "A controlled crossing has zebra stripes; an uncontrolled one does not", "is_correct": false, "display_order": 2},
+      {"id": "sup4-008-c", "question_id": "sup4-008", "answer_text": "Controlled crossings are only found on motorways", "is_correct": false, "display_order": 3},
+      {"id": "sup4-008-d", "question_id": "sup4-008", "answer_text": "Flashing amber lights always indicate a controlled crossing", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-009",
+    "question_text": "How should you respond when you see elderly or disabled pedestrians near the road?",
+    "explanation": "Elderly and disabled pedestrians may have invisible disabilities that affect their mobility, hearing, or vision. You should slow down and give way, as they may take longer to cross and may not be aware of approaching traffic.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["pedestrians", "elderly", "disabled", "vulnerable_road_users"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-009-a", "question_id": "sup4-009", "answer_text": "Honk to alert them to your presence", "is_correct": false, "display_order": 1},
+      {"id": "sup4-009-b", "question_id": "sup4-009", "answer_text": "Slow down and give way, as they may have invisible disabilities", "is_correct": true, "display_order": 2},
+      {"id": "sup4-009-c", "question_id": "sup4-009", "answer_text": "Maintain your speed as they should wait for a gap", "is_correct": false, "display_order": 3},
+      {"id": "sup4-009-d", "question_id": "sup4-009", "answer_text": "Only give way if they are using a wheelchair", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-010",
+    "question_text": "Why are children especially at risk in traffic?",
+    "explanation": "Children are at high risk because they are small and difficult to see, their eyesight is not fully developed until age 15, they are impulsive, they are poor judges of speed and distance, and they are generally not considered safe in traffic until ages 9-12.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["children", "vulnerable_road_users", "hazard_awareness"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-010-a", "question_id": "sup4-010", "answer_text": "They are small, impulsive, have undeveloped eyesight, and are poor judges of speed and distance", "is_correct": true, "display_order": 1},
+      {"id": "sup4-010-b", "question_id": "sup4-010", "answer_text": "They always run across roads without looking", "is_correct": false, "display_order": 2},
+      {"id": "sup4-010-c", "question_id": "sup4-010", "answer_text": "They are only at risk when unaccompanied by adults", "is_correct": false, "display_order": 3},
+      {"id": "sup4-010-d", "question_id": "sup4-010", "answer_text": "They cannot hear traffic noise", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-011",
+    "question_text": "According to the EDCAD handbook, how should a driver treat a child near the road?",
+    "explanation": "The EDCAD handbook states that a child should be treated as 'a living warning sign.' Drivers must be extra cautious because children are unpredictable and may suddenly run into the road.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["children", "warning", "hazard_awareness"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-011-a", "question_id": "sup4-011", "answer_text": "As a living warning sign", "is_correct": true, "display_order": 1},
+      {"id": "sup4-011-b", "question_id": "sup4-011", "answer_text": "As a minor inconvenience that will pass", "is_correct": false, "display_order": 2},
+      {"id": "sup4-011-c", "question_id": "sup4-011", "answer_text": "The same as an adult pedestrian", "is_correct": false, "display_order": 3},
+      {"id": "sup4-011-d", "question_id": "sup4-011", "answer_text": "As someone who knows the rules of the road", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-012",
+    "question_text": "Where is overtaking prohibited?",
+    "explanation": "Overtaking is prohibited just before and at junctions, and wherever your view is obstructed, such as at the brow of a hill or on a bend. Attempting to overtake in these situations greatly increases the risk of a head-on collision.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["overtaking", "junctions", "restricted_view"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-012-a", "question_id": "sup4-012", "answer_text": "Only on motorways", "is_correct": false, "display_order": 1},
+      {"id": "sup4-012-b", "question_id": "sup4-012", "answer_text": "Just before or at junctions, and where the view is obstructed such as brow of a hill or a bend", "is_correct": true, "display_order": 2},
+      {"id": "sup4-012-c", "question_id": "sup4-012", "answer_text": "Only in residential areas", "is_correct": false, "display_order": 3},
+      {"id": "sup4-012-d", "question_id": "sup4-012", "answer_text": "On any road with a speed limit below 80 km/h", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-013",
+    "question_text": "When approaching a bend, what is the correct technique?",
+    "explanation": "You should slow down before the bend, then use the accelerator to maintain a steady speed through the bend. Braking while in a bend causes instability and can lead to a skid, as the tyres are already under lateral stress from cornering.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["bends", "braking", "cornering", "skid_prevention"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-013-a", "question_id": "sup4-013", "answer_text": "Slow down before the bend, then maintain speed through it using the accelerator", "is_correct": true, "display_order": 1},
+      {"id": "sup4-013-b", "question_id": "sup4-013", "answer_text": "Brake firmly while going through the bend", "is_correct": false, "display_order": 2},
+      {"id": "sup4-013-c", "question_id": "sup4-013", "answer_text": "Accelerate into the bend to improve traction", "is_correct": false, "display_order": 3},
+      {"id": "sup4-013-d", "question_id": "sup4-013", "answer_text": "Coast through the bend in neutral gear", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-014",
+    "question_text": "What are the main causes of skidding?",
+    "explanation": "Skidding is caused by three main driver errors: too much braking, too much acceleration, or steering too sharply. The three contributing factors are the driver, the vehicle condition, and road conditions. All three interact to determine whether a skid will occur.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["skidding", "braking", "acceleration", "steering"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-014-a", "question_id": "sup4-014", "answer_text": "Too much braking, too much acceleration, or steering too sharply", "is_correct": true, "display_order": 1},
+      {"id": "sup4-014-b", "question_id": "sup4-014", "answer_text": "Driving too slowly in wet conditions", "is_correct": false, "display_order": 2},
+      {"id": "sup4-014-c", "question_id": "sup4-014", "answer_text": "Using the handbrake on a straight road", "is_correct": false, "display_order": 3},
+      {"id": "sup4-014-d", "question_id": "sup4-014", "answer_text": "Only poor road conditions cause skidding", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-015",
+    "question_text": "How do you apply the three-second rule for following distance?",
+    "explanation": "To apply the three-second rule, pick a fixed reference point on the road ahead. When the vehicle in front passes it, count 'one hundred and one, one hundred and two, one hundred and three.' If you reach the point before finishing, you are too close.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["following_distance", "three_second_rule", "safe_distance"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-015-a", "question_id": "sup4-015", "answer_text": "Measure three car lengths between you and the vehicle ahead", "is_correct": false, "display_order": 1},
+      {"id": "sup4-015-b", "question_id": "sup4-015", "answer_text": "Pick a reference point and count 'one hundred and one, one hundred and two, one hundred and three' after the vehicle ahead passes it", "is_correct": true, "display_order": 2},
+      {"id": "sup4-015-c", "question_id": "sup4-015", "answer_text": "Wait three seconds before pulling away after the vehicle ahead moves", "is_correct": false, "display_order": 3},
+      {"id": "sup4-015-d", "question_id": "sup4-015", "answer_text": "Count to three before changing lanes", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-016",
+    "question_text": "What is 'speed blindness' and how can it affect you?",
+    "explanation": "Speed blindness occurs after driving at high speed for a prolonged period. When you slow down, lower speeds feel much slower than they actually are — for example, 60 km/h can feel like a standstill. You should check your speedometer regularly to counteract this effect.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_blindness", "perception", "speedometer"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-016-a", "question_id": "sup4-016", "answer_text": "After high-speed driving, 60 km/h can feel like a standstill; check the speedometer regularly", "is_correct": true, "display_order": 1},
+      {"id": "sup4-016-b", "question_id": "sup4-016", "answer_text": "Your eyesight deteriorates permanently from driving fast", "is_correct": false, "display_order": 2},
+      {"id": "sup4-016-c", "question_id": "sup4-016", "answer_text": "You cannot see objects moving at high speed", "is_correct": false, "display_order": 3},
+      {"id": "sup4-016-d", "question_id": "sup4-016", "answer_text": "The speedometer stops working at high speeds", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-017",
+    "question_text": "What happens to your visual field as your speed increases?",
+    "explanation": "As speed increases, the visual field narrows — this is known as tunnel vision. At high speeds, your peripheral vision is greatly reduced, making it harder to detect hazards at the sides of the road. You can counteract this by actively scanning your surroundings.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tunnel_vision", "speed", "visual_field", "scanning"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-017-a", "question_id": "sup4-017", "answer_text": "Your visual field widens to compensate for the speed", "is_correct": false, "display_order": 1},
+      {"id": "sup4-017-b", "question_id": "sup4-017", "answer_text": "Your visual field narrows (tunnel vision); counteract by scanning", "is_correct": true, "display_order": 2},
+      {"id": "sup4-017-c", "question_id": "sup4-017", "answer_text": "Your visual field remains unchanged", "is_correct": false, "display_order": 3},
+      {"id": "sup4-017-d", "question_id": "sup4-017", "answer_text": "Only your rear vision is affected", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-018",
+    "question_text": "How should you drive through road works?",
+    "explanation": "When approaching road works, you should slow down in good time and show consideration for road workers. They are in a vulnerable position close to moving traffic, and conditions may change rapidly with temporary signs and altered road layout.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["road_works", "speed_reduction", "road_workers"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-018-a", "question_id": "sup4-018", "answer_text": "Slow down in good time and show consideration for road workers", "is_correct": true, "display_order": 1},
+      {"id": "sup4-018-b", "question_id": "sup4-018", "answer_text": "Maintain your speed to avoid causing delays", "is_correct": false, "display_order": 2},
+      {"id": "sup4-018-c", "question_id": "sup4-018", "answer_text": "Only slow down if a flagman signals you", "is_correct": false, "display_order": 3},
+      {"id": "sup4-018-d", "question_id": "sup4-018", "answer_text": "Speed up to clear the area quickly", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-019",
+    "question_text": "What is the correct way to enter a motorway from a slip road?",
+    "explanation": "When entering a motorway, you should use the slip road to adjust your speed to match the traffic already on the motorway. Give priority to traffic already on the motorway and avoid stopping at the end of the slip road, as this makes merging dangerous.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["motorway", "slip_road", "merging"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-019-a", "question_id": "sup4-019", "answer_text": "Stop at the end of the slip road and wait for a gap", "is_correct": false, "display_order": 1},
+      {"id": "sup4-019-b", "question_id": "sup4-019", "answer_text": "Adjust speed to match traffic, give priority to motorway traffic, and avoid stopping on the slip road", "is_correct": true, "display_order": 2},
+      {"id": "sup4-019-c", "question_id": "sup4-019", "answer_text": "Enter at any speed and expect motorway traffic to make room", "is_correct": false, "display_order": 3},
+      {"id": "sup4-019-d", "question_id": "sup4-019", "answer_text": "Flash your headlights to signal you are joining", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-020",
+    "question_text": "Which of the following is prohibited on a motorway?",
+    "explanation": "On a motorway it is prohibited to: drive below 60 km/h, stop, park, reverse, make a U-turn, walk, or cycle. These activities are dangerous due to the high speeds of motorway traffic.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["motorway", "prohibited_actions", "rules"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-020-a", "question_id": "sup4-020", "answer_text": "Driving below 60 km/h, stopping, reversing, making U-turns, walking, and cycling", "is_correct": true, "display_order": 1},
+      {"id": "sup4-020-b", "question_id": "sup4-020", "answer_text": "Overtaking on the left", "is_correct": false, "display_order": 2},
+      {"id": "sup4-020-c", "question_id": "sup4-020", "answer_text": "Driving above 100 km/h", "is_correct": false, "display_order": 3},
+      {"id": "sup4-020-d", "question_id": "sup4-020", "answer_text": "Using the hard shoulder for overtaking", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-021",
+    "question_text": "What is the correct lane discipline on a motorway?",
+    "explanation": "On a motorway, the left lane is for overtaking only. After completing an overtaking manoeuvre, you must return to the right lane. Staying in the overtaking lane without overtaking blocks faster traffic and is against the rules.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["motorway", "lane_discipline", "overtaking"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-021-a", "question_id": "sup4-021", "answer_text": "Drive in whichever lane has the least traffic", "is_correct": false, "display_order": 1},
+      {"id": "sup4-021-b", "question_id": "sup4-021", "answer_text": "Use the left lane for overtaking only and return to the right lane after overtaking", "is_correct": true, "display_order": 2},
+      {"id": "sup4-021-c", "question_id": "sup4-021", "answer_text": "Stay in the left lane at all times for safety", "is_correct": false, "display_order": 3},
+      {"id": "sup4-021-d", "question_id": "sup4-021", "answer_text": "Use the right lane only for slow vehicles", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-022",
+    "question_text": "What should you be aware of when leaving a motorway?",
+    "explanation": "When leaving a motorway, beware of speed blindness — your sense of speed may be distorted after driving fast, so check your speedometer. Also use your mirrors and signal early, and do not cut across lanes at the last moment.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["motorway", "exiting", "speed_blindness"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-022-a", "question_id": "sup4-022", "answer_text": "Check your speed (speed blindness risk), use mirrors, signal early, and don't cut across lanes", "is_correct": true, "display_order": 1},
+      {"id": "sup4-022-b", "question_id": "sup4-022", "answer_text": "Slow down while still on the motorway and signal at the exit", "is_correct": false, "display_order": 2},
+      {"id": "sup4-022-c", "question_id": "sup4-022", "answer_text": "Move to the exit lane only at the last moment to avoid slowing traffic", "is_correct": false, "display_order": 3},
+      {"id": "sup4-022-d", "question_id": "sup4-022", "answer_text": "Stop on the hard shoulder before the exit to check your route", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-023",
+    "question_text": "What rules apply when driving on a dirt road?",
+    "explanation": "On dirt roads you should drive slowly, keep a safe distance from other vehicles, and expect the unexpected. Speed limits and all normal traffic rules still apply on dirt roads, just as they do on paved roads.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["dirt_road", "speed", "distance", "rules"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-023-a", "question_id": "sup4-023", "answer_text": "Normal traffic rules do not apply on unpaved roads", "is_correct": false, "display_order": 1},
+      {"id": "sup4-023-b", "question_id": "sup4-023", "answer_text": "Drive slowly, keep distance, expect the unexpected; speed limits and rules still apply", "is_correct": true, "display_order": 2},
+      {"id": "sup4-023-c", "question_id": "sup4-023", "answer_text": "Drive fast to avoid getting stuck in sand or gravel", "is_correct": false, "display_order": 3},
+      {"id": "sup4-023-d", "question_id": "sup4-023", "answer_text": "Only 4x4 vehicles are permitted on dirt roads", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-024",
+    "question_text": "What is aquaplaning and how should you respond?",
+    "explanation": "Aquaplaning occurs when water builds up between the tyres and the road surface, causing the steering to feel light. You should ease off the accelerator and never brake or change direction suddenly. Worn tyre treads and high speed increase the risk. At 80 km/h, tyres must force away 25 litres of water per second.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["aquaplaning", "wet_road", "tyre_safety", "speed"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-024-a", "question_id": "sup4-024", "answer_text": "Brake hard to regain control", "is_correct": false, "display_order": 1},
+      {"id": "sup4-024-b", "question_id": "sup4-024", "answer_text": "Turn the steering wheel sharply to find grip", "is_correct": false, "display_order": 2},
+      {"id": "sup4-024-c", "question_id": "sup4-024", "answer_text": "Ease off the accelerator; do not brake or change direction", "is_correct": true, "display_order": 3},
+      {"id": "sup4-024-d", "question_id": "sup4-024", "answer_text": "Accelerate to push through the water", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-025",
+    "question_text": "What is the principal cause of more than half of all road accidents in the UAE?",
+    "explanation": "Speeding is the principal cause of more than half of all road accidents in the UAE. Excessive speed reduces reaction time, increases stopping distance, and makes collisions far more severe.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speeding", "accidents", "uae_statistics"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-025-a", "question_id": "sup4-025", "answer_text": "Distracted driving", "is_correct": false, "display_order": 1},
+      {"id": "sup4-025-b", "question_id": "sup4-025", "answer_text": "Speeding", "is_correct": true, "display_order": 2},
+      {"id": "sup4-025-c", "question_id": "sup4-025", "answer_text": "Driving under the influence of alcohol", "is_correct": false, "display_order": 3},
+      {"id": "sup4-025-d", "question_id": "sup4-025", "answer_text": "Poor vehicle maintenance", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-026",
+    "question_text": "What is the most common type of accident on main roads outside built-up areas?",
+    "explanation": "Single vehicle accidents are the most common type on main roads outside built-up areas. These often occur when a driver loses control due to excessive speed, fatigue, or poor road conditions.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["single_vehicle_accident", "main_roads", "outside_built_up"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-026-a", "question_id": "sup4-026", "answer_text": "Rear-end collisions", "is_correct": false, "display_order": 1},
+      {"id": "sup4-026-b", "question_id": "sup4-026", "answer_text": "Head-on collisions", "is_correct": false, "display_order": 2},
+      {"id": "sup4-026-c", "question_id": "sup4-026", "answer_text": "Single vehicle accidents", "is_correct": true, "display_order": 3},
+      {"id": "sup4-026-d", "question_id": "sup4-026", "answer_text": "Pedestrian accidents", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-027",
+    "question_text": "What are common causes of crossroad accidents?",
+    "explanation": "Crossroad accidents are commonly caused by: ignoring traffic rules, not noticing signs or signals, driving too fast, failing to look properly, or assuming that a green light means the way is clear without checking.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["crossroads", "intersections", "accident_causes"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-027-a", "question_id": "sup4-027", "answer_text": "Ignoring rules, not noticing signs, driving too fast, failing to look, and assuming green means clear", "is_correct": true, "display_order": 1},
+      {"id": "sup4-027-b", "question_id": "sup4-027", "answer_text": "Only running red lights causes crossroad accidents", "is_correct": false, "display_order": 2},
+      {"id": "sup4-027-c", "question_id": "sup4-027", "answer_text": "Poorly designed road layouts are the only cause", "is_correct": false, "display_order": 3},
+      {"id": "sup4-027-d", "question_id": "sup4-027", "answer_text": "Crossroad accidents are always caused by pedestrians", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-028",
+    "question_text": "What are common causes of head-on collisions?",
+    "explanation": "Head-on collisions are commonly caused by misjudging an overtaking manoeuvre, cutting across a left-hand bend into the oncoming lane, or locking the wheels from hard braking which causes the vehicle to slide into oncoming traffic.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["head_on_collision", "overtaking", "braking"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-028-a", "question_id": "sup4-028", "answer_text": "Misjudged overtaking, cutting across left-hand bends, and locked wheels from hard braking", "is_correct": true, "display_order": 1},
+      {"id": "sup4-028-b", "question_id": "sup4-028", "answer_text": "Driving too slowly on a dual carriageway", "is_correct": false, "display_order": 2},
+      {"id": "sup4-028-c", "question_id": "sup4-028", "answer_text": "Failing to use hazard warning lights", "is_correct": false, "display_order": 3},
+      {"id": "sup4-028-d", "question_id": "sup4-028", "answer_text": "Using high beam headlights at night", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-029",
+    "question_text": "What causes overtaking accidents?",
+    "explanation": "Overtaking accidents are caused by having a restricted view of the road ahead, misjudging the speed or distance of oncoming vehicles, and overestimating your vehicle's acceleration capability.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["overtaking", "accident_causes", "speed_misjudgement"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-029-a", "question_id": "sup4-029", "answer_text": "Restricted view, misjudged speed/distance, and overestimated acceleration", "is_correct": true, "display_order": 1},
+      {"id": "sup4-029-b", "question_id": "sup4-029", "answer_text": "Signalling too early before overtaking", "is_correct": false, "display_order": 2},
+      {"id": "sup4-029-c", "question_id": "sup4-029", "answer_text": "Only overtaking on the right causes accidents", "is_correct": false, "display_order": 3},
+      {"id": "sup4-029-d", "question_id": "sup4-029", "answer_text": "Overtaking is always safe if the road is straight", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-030",
+    "question_text": "How should you react to camels or large animals on the road?",
+    "explanation": "You should slow to crawling speed and stay behind the camel. Watch for camel warning signs in desert areas. Dawn and dusk are the most dangerous times as camels are harder to see. Camels are large enough to cause extremely serious collisions.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["camels", "animals", "desert_driving", "dawn_dusk"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-030-a", "question_id": "sup4-030", "answer_text": "Honk loudly to scare the animal off the road", "is_correct": false, "display_order": 1},
+      {"id": "sup4-030-b", "question_id": "sup4-030", "answer_text": "Slow to crawling speed and stay behind the camel; be extra cautious at dawn and dusk", "is_correct": true, "display_order": 2},
+      {"id": "sup4-030-c", "question_id": "sup4-030", "answer_text": "Speed up and overtake the animal quickly", "is_correct": false, "display_order": 3},
+      {"id": "sup4-030-d", "question_id": "sup4-030", "answer_text": "Flash your headlights to warn the animal", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-031",
+    "question_text": "What should you do if a small animal appears on the road ahead?",
+    "explanation": "If a small animal appears on the road, do not overreact or slam on the brakes, as this could cause a more serious accident with other vehicles. In some cases, it may be necessary to run over the small animal to avoid injuring yourself or other road users.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["animals", "emergency_response", "braking"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-031-a", "question_id": "sup4-031", "answer_text": "Swerve sharply to avoid the animal at all costs", "is_correct": false, "display_order": 1},
+      {"id": "sup4-031-b", "question_id": "sup4-031", "answer_text": "Slam the brakes immediately", "is_correct": false, "display_order": 2},
+      {"id": "sup4-031-c", "question_id": "sup4-031", "answer_text": "Do not overreact; it may be safer to continue than to risk a collision with other vehicles", "is_correct": true, "display_order": 3},
+      {"id": "sup4-031-d", "question_id": "sup4-031", "answer_text": "Stop the vehicle and move the animal off the road", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-032",
+    "question_text": "How can you avoid critical driving situations?",
+    "explanation": "To avoid critical situations: maintain good vision by scanning ahead, be alert at all times, wear your seatbelt, check mirrors regularly, watch brake lights of vehicles ahead, and maintain a safe following distance.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["prevention", "safe_driving", "awareness"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-032-a", "question_id": "sup4-032", "answer_text": "Drive as fast as possible to spend less time on the road", "is_correct": false, "display_order": 1},
+      {"id": "sup4-032-b", "question_id": "sup4-032", "answer_text": "Maintain vision, be alert, wear seatbelt, check mirrors, watch brake lights ahead, and maintain distance", "is_correct": true, "display_order": 2},
+      {"id": "sup4-032-c", "question_id": "sup4-032", "answer_text": "Only drive during daylight hours", "is_correct": false, "display_order": 3},
+      {"id": "sup4-032-d", "question_id": "sup4-032", "answer_text": "Follow the vehicle ahead closely to see what they do", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-033",
+    "question_text": "What three elements are needed to create an accident-free road environment?",
+    "explanation": "An accident-free environment requires all three: better road behavior from drivers, safer road design and infrastructure, and safer vehicles. Improving only one or two is not sufficient — all three must work together.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["road_safety", "accident_prevention", "vision_zero"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-033-a", "question_id": "sup4-033", "answer_text": "Better road behavior, safer roads, and safer vehicles", "is_correct": true, "display_order": 1},
+      {"id": "sup4-033-b", "question_id": "sup4-033", "answer_text": "More traffic police, more speed cameras, and higher fines", "is_correct": false, "display_order": 2},
+      {"id": "sup4-033-c", "question_id": "sup4-033", "answer_text": "Only better driver education is needed", "is_correct": false, "display_order": 3},
+      {"id": "sup4-033-d", "question_id": "sup4-033", "answer_text": "Wider roads, fewer roundabouts, and more traffic lights", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-034",
+    "question_text": "What should you do when you arrive at the scene of an accident?",
+    "explanation": "At an accident scene: switch on hazard warning lights, display a warning triangle, call 999 for emergency services, and do not move casualties unless there is an immediate risk of fire or further collision.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_scene", "emergency", "first_response", "999"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-034-a", "question_id": "sup4-034", "answer_text": "Move all casualties to the side of the road immediately", "is_correct": false, "display_order": 1},
+      {"id": "sup4-034-b", "question_id": "sup4-034", "answer_text": "Switch on hazard lights, display warning triangle, call 999, and don't move casualties unless fire or further collision risk", "is_correct": true, "display_order": 2},
+      {"id": "sup4-034-c", "question_id": "sup4-034", "answer_text": "Drive past quickly to avoid causing more congestion", "is_correct": false, "display_order": 3},
+      {"id": "sup4-034-d", "question_id": "sup4-034", "answer_text": "Take photos for insurance purposes before doing anything else", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-035",
+    "question_text": "What should you do if your vehicle catches fire?",
+    "explanation": "For a small fire, use the vehicle's fire extinguisher. For a serious fire, get clear of the vehicle immediately and wait for the fire brigade — fire can spread with alarming speed. Never attempt to fight a serious vehicle fire yourself.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["vehicle_fire", "emergency", "fire_extinguisher"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-035-a", "question_id": "sup4-035", "answer_text": "Always try to extinguish the fire regardless of its size", "is_correct": false, "display_order": 1},
+      {"id": "sup4-035-b", "question_id": "sup4-035", "answer_text": "Use the extinguisher for small fires only; for serious fires, get clear and wait for the fire brigade", "is_correct": true, "display_order": 2},
+      {"id": "sup4-035-c", "question_id": "sup4-035", "answer_text": "Open the bonnet immediately to assess the fire", "is_correct": false, "display_order": 3},
+      {"id": "sup4-035-d", "question_id": "sup4-035", "answer_text": "Drive to the nearest petrol station for help", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup4-036",
+    "question_text": "Where do rear-end collisions most commonly occur and what is a frequent cause?",
+    "explanation": "Rear-end collisions are most common inside the city, often caused by sudden stops (for example by taxis picking up passengers) and insufficient following distance. Maintaining the recommended following distance gives you time to react to sudden stops ahead.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["rear_end_collision", "city_driving", "following_distance", "taxis"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup4-036-a", "question_id": "sup4-036", "answer_text": "On motorways, caused by lane changing without signalling", "is_correct": false, "display_order": 1},
+      {"id": "sup4-036-b", "question_id": "sup4-036", "answer_text": "Inside the city, often caused by sudden stops (e.g. taxis) and insufficient following distance", "is_correct": true, "display_order": 2},
+      {"id": "sup4-036-c", "question_id": "sup4-036", "answer_text": "In parking lots, caused by reversing without looking", "is_correct": false, "display_order": 3},
+      {"id": "sup4-036-d", "question_id": "sup4-036", "answer_text": "On rural roads, caused by slow-moving farm vehicles", "is_correct": false, "display_order": 4}
+    ]
+  }
+]

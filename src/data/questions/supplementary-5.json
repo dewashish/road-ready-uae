@@ -1,0 +1,705 @@
+[
+  {
+    "id": "sup5-001",
+    "question_text": "What is the minimum age to obtain a driving license in the UAE?",
+    "explanation": "The minimum age for obtaining a driving license in the UAE is 18 years. At this age, a person is assumed to be sufficiently mature to handle the responsibilities of driving.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["license_age", "legal_requirements"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-001-a", "question_id": "sup5-001", "answer_text": "16 years", "is_correct": false, "display_order": 1},
+      {"id": "sup5-001-b", "question_id": "sup5-001", "answer_text": "17 years", "is_correct": false, "display_order": 2},
+      {"id": "sup5-001-c", "question_id": "sup5-001", "answer_text": "18 years", "is_correct": true, "display_order": 3},
+      {"id": "sup5-001-d", "question_id": "sup5-001", "answer_text": "21 years", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-002",
+    "question_text": "What are the three stages of moral development relevant to driving behavior?",
+    "explanation": "Moral development progresses through three stages: the ego stage (self-centered), the rule stage (following rules), and the community stage (considering the well-being of all road users).",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["moral_development", "psychology"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-002-a", "question_id": "sup5-002", "answer_text": "Ego stage, rule stage, community stage", "is_correct": true, "display_order": 1},
+      {"id": "sup5-002-b", "question_id": "sup5-002", "answer_text": "Fear stage, confidence stage, mastery stage", "is_correct": false, "display_order": 2},
+      {"id": "sup5-002-c", "question_id": "sup5-002", "answer_text": "Beginner stage, intermediate stage, expert stage", "is_correct": false, "display_order": 3},
+      {"id": "sup5-002-d", "question_id": "sup5-002", "answer_text": "Awareness stage, skill stage, safety stage", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-003",
+    "question_text": "Why do young male drivers contribute disproportionately to accident statistics?",
+    "explanation": "Many young male drivers see the car as an instrument of power and authority, leading to risk-taking behavior. This immaturity significantly boosts accident statistics for this demographic.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["young_drivers", "risk_behavior", "immaturity"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-003-a", "question_id": "sup5-003", "answer_text": "They have slower reaction times than other drivers", "is_correct": false, "display_order": 1},
+      {"id": "sup5-003-b", "question_id": "sup5-003", "answer_text": "They see the car as an instrument of power and authority", "is_correct": true, "display_order": 2},
+      {"id": "sup5-003-c", "question_id": "sup5-003", "answer_text": "They drive older, less safe vehicles", "is_correct": false, "display_order": 3},
+      {"id": "sup5-003-d", "question_id": "sup5-003", "answer_text": "They drive more kilometers than other age groups", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-004",
+    "question_text": "What does 'weak identity' in young drivers lead to in traffic?",
+    "explanation": "Young people with weak identity go through an experimental phase where they test limits, including wanting to see what the car can 'do.' This identity-seeking behavior leads to dangerous risk-taking on the road.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["identity", "young_drivers", "risk_behavior"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-004-a", "question_id": "sup5-004", "answer_text": "They become overly cautious and hesitant", "is_correct": false, "display_order": 1},
+      {"id": "sup5-004-b", "question_id": "sup5-004", "answer_text": "They test limits and want to see what the car can do", "is_correct": true, "display_order": 2},
+      {"id": "sup5-004-c", "question_id": "sup5-004", "answer_text": "They refuse to drive in unfamiliar areas", "is_correct": false, "display_order": 3},
+      {"id": "sup5-004-d", "question_id": "sup5-004", "answer_text": "They always follow the speed limit strictly", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-005",
+    "question_text": "How does poor self-control affect driving?",
+    "explanation": "Uncontrolled aggression is disastrous on the road. Aggressiveness impairs a driver's ability to assess traffic situations correctly, leading to dangerous decisions and increased accident risk.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["self_control", "aggression", "risk_behavior"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-005-a", "question_id": "sup5-005", "answer_text": "It only affects driving in bad weather", "is_correct": false, "display_order": 1},
+      {"id": "sup5-005-b", "question_id": "sup5-005", "answer_text": "It makes the driver more alert and focused", "is_correct": false, "display_order": 2},
+      {"id": "sup5-005-c", "question_id": "sup5-005", "answer_text": "Aggressiveness impairs the ability to assess traffic correctly", "is_correct": true, "display_order": 3},
+      {"id": "sup5-005-d", "question_id": "sup5-005", "answer_text": "It has no significant effect on driving performance", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-006",
+    "question_text": "How do experienced drivers differ from inexperienced drivers when scanning the road?",
+    "explanation": "Experienced drivers scan the road more systematically, maintain better control in crisis situations, and keep a more constant speed. Inexperienced drivers tend to look off to the right and take longer to react.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["experience", "scanning", "observation"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-006-a", "question_id": "sup5-006", "answer_text": "Experienced drivers scan more systematically and react faster", "is_correct": true, "display_order": 1},
+      {"id": "sup5-006-b", "question_id": "sup5-006", "answer_text": "There is no measurable difference between them", "is_correct": false, "display_order": 2},
+      {"id": "sup5-006-c", "question_id": "sup5-006", "answer_text": "Inexperienced drivers scan more carefully because they are cautious", "is_correct": false, "display_order": 3},
+      {"id": "sup5-006-d", "question_id": "sup5-006", "answer_text": "Experienced drivers only focus on the road directly ahead", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-007",
+    "question_text": "What is a common difference between young male and young female drivers regarding self-assessment?",
+    "explanation": "Research shows that young male drivers tend to overestimate their driving abilities, while young female drivers tend to underestimate theirs. Both tendencies can lead to problems on the road.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["self_assessment", "gender_differences", "young_drivers"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-007-a", "question_id": "sup5-007", "answer_text": "Males underestimate and females overestimate their abilities", "is_correct": false, "display_order": 1},
+      {"id": "sup5-007-b", "question_id": "sup5-007", "answer_text": "Males overestimate and females underestimate their abilities", "is_correct": true, "display_order": 2},
+      {"id": "sup5-007-c", "question_id": "sup5-007", "answer_text": "Both genders equally overestimate their abilities", "is_correct": false, "display_order": 3},
+      {"id": "sup5-007-d", "question_id": "sup5-007", "answer_text": "Both genders equally underestimate their abilities", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-008",
+    "question_text": "What driving adjustments should elderly drivers consider?",
+    "explanation": "Elderly drivers are often courteous, considerate, and critical of their own performance. However, they must adapt to physical changes by avoiding driving at night and in heavy traffic when possible.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["elderly_drivers", "adaptation", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-008-a", "question_id": "sup5-008", "answer_text": "They should drive faster to reduce time on the road", "is_correct": false, "display_order": 1},
+      {"id": "sup5-008-b", "question_id": "sup5-008", "answer_text": "They should avoid night driving and heavy traffic", "is_correct": true, "display_order": 2},
+      {"id": "sup5-008-c", "question_id": "sup5-008", "answer_text": "They do not need to make any adjustments", "is_correct": false, "display_order": 3},
+      {"id": "sup5-008-d", "question_id": "sup5-008", "answer_text": "They should only drive on highways", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-009",
+    "question_text": "What does 'impulsiveness' mean in the context of driving?",
+    "explanation": "Impulsiveness means acting first and thinking later. In traffic, this is extremely dangerous because split-second decisions without thinking can lead to accidents.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["impulsiveness", "psychology", "risk_behavior"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-009-a", "question_id": "sup5-009", "answer_text": "Thinking carefully before every action", "is_correct": false, "display_order": 1},
+      {"id": "sup5-009-b", "question_id": "sup5-009", "answer_text": "Acting first and thinking later", "is_correct": true, "display_order": 2},
+      {"id": "sup5-009-c", "question_id": "sup5-009", "answer_text": "Driving very slowly out of caution", "is_correct": false, "display_order": 3},
+      {"id": "sup5-009-d", "question_id": "sup5-009", "answer_text": "Following the vehicle ahead too closely", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-010",
+    "question_text": "What is 'probability conditioning' in driving behavior?",
+    "explanation": "Probability conditioning occurs when bad habits are reinforced because the bad behavior does not result in an accident. For example, a driver who repeatedly speeds through a familiar junction without incident begins to believe it is safe.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["probability_conditioning", "bad_habits", "psychology"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-010-a", "question_id": "sup5-010", "answer_text": "Learning to calculate the probability of an accident", "is_correct": false, "display_order": 1},
+      {"id": "sup5-010-b", "question_id": "sup5-010", "answer_text": "Bad habits reinforced when risky behavior doesn't result in an accident", "is_correct": true, "display_order": 2},
+      {"id": "sup5-010-c", "question_id": "sup5-010", "answer_text": "Training to react to probable hazards", "is_correct": false, "display_order": 3},
+      {"id": "sup5-010-d", "question_id": "sup5-010", "answer_text": "Adjusting speed based on weather probability forecasts", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-011",
+    "question_text": "Learning by imitation can be both positive and negative. Which is an example of negative imitation?",
+    "explanation": "Learning by imitation is positive when copying good behavior (e.g., from a driving instructor) but negative when copying bad habits from other drivers, such as tailgating or running amber lights.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["learning", "imitation", "bad_habits"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-011-a", "question_id": "sup5-011", "answer_text": "Copying the mirror-signal-manoeuvre routine from your instructor", "is_correct": false, "display_order": 1},
+      {"id": "sup5-011-b", "question_id": "sup5-011", "answer_text": "Copying bad habits like tailgating from other drivers", "is_correct": true, "display_order": 2},
+      {"id": "sup5-011-c", "question_id": "sup5-011", "answer_text": "Practicing lane discipline as shown in training", "is_correct": false, "display_order": 3},
+      {"id": "sup5-011-d", "question_id": "sup5-011", "answer_text": "Following proper hand signals demonstrated by traffic police", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-012",
+    "question_text": "Why is 'superficial learning' insufficient for safe driving?",
+    "explanation": "Just knowing the rules is not enough for safe driving. A driver must understand the traffic mechanism as a whole — the interactions between road users, vehicles, and the environment — to make safe decisions.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["learning", "understanding", "traffic_mechanism"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-012-a", "question_id": "sup5-012", "answer_text": "Because rules change too frequently to memorize", "is_correct": false, "display_order": 1},
+      {"id": "sup5-012-b", "question_id": "sup5-012", "answer_text": "Because knowing rules alone is not enough; you must understand traffic as a whole", "is_correct": true, "display_order": 2},
+      {"id": "sup5-012-c", "question_id": "sup5-012", "answer_text": "Because the driving test requires practical skills only", "is_correct": false, "display_order": 3},
+      {"id": "sup5-012-d", "question_id": "sup5-012", "answer_text": "Because superficial learning is only for motorcycle riders", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-013",
+    "question_text": "What does 'overlearning' mean in driving education?",
+    "explanation": "Overlearning means practicing skills beyond the point of mastery until they become automatic. Even after passing the driving test, you should consider yourself a beginner and continue developing your skills.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["overlearning", "practice", "skill_development"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-013-a", "question_id": "sup5-013", "answer_text": "Studying too much theory without practical driving", "is_correct": false, "display_order": 1},
+      {"id": "sup5-013-b", "question_id": "sup5-013", "answer_text": "Practicing skills beyond mastery until they become automatic", "is_correct": true, "display_order": 2},
+      {"id": "sup5-013-c", "question_id": "sup5-013", "answer_text": "Taking the driving test multiple times", "is_correct": false, "display_order": 3},
+      {"id": "sup5-013-d", "question_id": "sup5-013", "answer_text": "Driving excessively long distances each day", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-014",
+    "question_text": "Which of the following is a common distraction that impairs driving?",
+    "explanation": "Mobile phones, SMS, eating, smoking, adjusting the radio or GPS, and interacting with passengers or children are all common distractions. Using a hands-free device for phone calls is required by law in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["distractions", "mobile_phone", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-014-a", "question_id": "sup5-014", "answer_text": "Checking mirrors regularly", "is_correct": false, "display_order": 1},
+      {"id": "sup5-014-b", "question_id": "sup5-014", "answer_text": "Using a mobile phone, eating, or adjusting the GPS while driving", "is_correct": true, "display_order": 2},
+      {"id": "sup5-014-c", "question_id": "sup5-014", "answer_text": "Signalling before turning", "is_correct": false, "display_order": 3},
+      {"id": "sup5-014-d", "question_id": "sup5-014", "answer_text": "Scanning the road ahead for hazards", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-015",
+    "question_text": "Why is a phone conversation while driving NOT the same as talking to a passenger?",
+    "explanation": "A passenger can see the traffic situation and will naturally adjust their conversation when the driver needs to concentrate. A person on the phone cannot see the traffic and will continue talking regardless of the driving demands.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["phone_use", "distraction", "passenger"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-015-a", "question_id": "sup5-015", "answer_text": "There is no difference; both are equally distracting", "is_correct": false, "display_order": 1},
+      {"id": "sup5-015-b", "question_id": "sup5-015", "answer_text": "A passenger adjusts conversation to the traffic situation; a phone caller cannot", "is_correct": true, "display_order": 2},
+      {"id": "sup5-015-c", "question_id": "sup5-015", "answer_text": "Phone conversations are shorter than passenger conversations", "is_correct": false, "display_order": 3},
+      {"id": "sup5-015-d", "question_id": "sup5-015", "answer_text": "Passengers are always more distracting than phone callers", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-016",
+    "question_text": "What happens when driving demands exceed a driver's ability?",
+    "explanation": "When demands exceed a driver's ability, stress occurs. Stress converts mental energy into anxiety, impairing decision-making. However, a moderate level of stress can actually improve driving performance.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["stress", "mental_state", "performance"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-016-a", "question_id": "sup5-016", "answer_text": "The driver automatically becomes more skilled", "is_correct": false, "display_order": 1},
+      {"id": "sup5-016-b", "question_id": "sup5-016", "answer_text": "Stress occurs, converting mental energy to anxiety", "is_correct": true, "display_order": 2},
+      {"id": "sup5-016-c", "question_id": "sup5-016", "answer_text": "The vehicle's safety systems compensate automatically", "is_correct": false, "display_order": 3},
+      {"id": "sup5-016-d", "question_id": "sup5-016", "answer_text": "Nothing happens; all drivers can handle any situation", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-017",
+    "question_text": "How should a driver handle group pressure from passengers?",
+    "explanation": "Passengers can influence a driver to take risks, such as speeding or overtaking dangerously. The driver should note their own reactions and withstand negative demands from passengers.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["group_pressure", "passengers", "risk_behavior"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-017-a", "question_id": "sup5-017", "answer_text": "Give in to passenger demands to maintain harmony", "is_correct": false, "display_order": 1},
+      {"id": "sup5-017-b", "question_id": "sup5-017", "answer_text": "Note your own reactions and withstand negative demands", "is_correct": true, "display_order": 2},
+      {"id": "sup5-017-c", "question_id": "sup5-017", "answer_text": "Ask passengers to leave the vehicle immediately", "is_correct": false, "display_order": 3},
+      {"id": "sup5-017-d", "question_id": "sup5-017", "answer_text": "Ignore all passengers and focus only on the speedometer", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-018",
+    "question_text": "What is the most effective countermeasure against fatigue while driving?",
+    "explanation": "Fatigue progresses through stages: disconnection, slow reactions, yawning, and finally an irresistible urge to sleep. The most effective countermeasure is to stop and take a short nap rather than trying to push through.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fatigue", "drowsiness", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-018-a", "question_id": "sup5-018", "answer_text": "Open the window and turn up the radio", "is_correct": false, "display_order": 1},
+      {"id": "sup5-018-b", "question_id": "sup5-018", "answer_text": "Drink coffee and continue driving", "is_correct": false, "display_order": 2},
+      {"id": "sup5-018-c", "question_id": "sup5-018", "answer_text": "Stop and take a short nap", "is_correct": true, "display_order": 3},
+      {"id": "sup5-018-d", "question_id": "sup5-018", "answer_text": "Drive faster to reach the destination sooner", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-019",
+    "question_text": "What are the four main functions of engine oil?",
+    "explanation": "Engine oil serves four essential functions: lubrication (reducing friction between moving parts), cooling (absorbing heat), sealing (filling gaps between piston rings and cylinder walls), and cleaning (carrying away debris).",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["engine_oil", "engine", "maintenance"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-019-a", "question_id": "sup5-019", "answer_text": "Lubrication, cooling, sealing, and cleaning", "is_correct": true, "display_order": 1},
+      {"id": "sup5-019-b", "question_id": "sup5-019", "answer_text": "Lubrication, heating, filtering, and fueling", "is_correct": false, "display_order": 2},
+      {"id": "sup5-019-c", "question_id": "sup5-019", "answer_text": "Cooling, fueling, sealing, and polishing", "is_correct": false, "display_order": 3},
+      {"id": "sup5-019-d", "question_id": "sup5-019", "answer_text": "Lubrication, cooling, fueling, and cleaning", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-020",
+    "question_text": "What should you do if the engine overheats while driving?",
+    "explanation": "If the engine overheats, you should stop immediately. Never fill a hot radiator with cold water, as the sudden temperature change can crack the cylinder block, causing severe engine damage.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["overheating", "cooling_system", "emergency"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-020-a", "question_id": "sup5-020", "answer_text": "Continue driving slowly until you reach a garage", "is_correct": false, "display_order": 1},
+      {"id": "sup5-020-b", "question_id": "sup5-020", "answer_text": "Stop immediately; never fill a hot radiator with cold water", "is_correct": true, "display_order": 2},
+      {"id": "sup5-020-c", "question_id": "sup5-020", "answer_text": "Immediately pour cold water into the radiator to cool it down", "is_correct": false, "display_order": 3},
+      {"id": "sup5-020-d", "question_id": "sup5-020", "answer_text": "Turn the heater off and accelerate to increase airflow", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-021",
+    "question_text": "Why should you turn off the air conditioning when driving up a steep hill?",
+    "explanation": "The air conditioning system places an additional load on the engine. When driving up a steep hill, the engine is already under heavy load, and running the A/C can cause it to overheat.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["air_conditioning", "overheating", "steep_hill"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-021-a", "question_id": "sup5-021", "answer_text": "To save fuel only", "is_correct": false, "display_order": 1},
+      {"id": "sup5-021-b", "question_id": "sup5-021", "answer_text": "To prevent the engine from overheating", "is_correct": true, "display_order": 2},
+      {"id": "sup5-021-c", "question_id": "sup5-021", "answer_text": "To improve the sound system quality", "is_correct": false, "display_order": 3},
+      {"id": "sup5-021-d", "question_id": "sup5-021", "answer_text": "It is not necessary to turn off the A/C on hills", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-022",
+    "question_text": "What are the three grades of unleaded petrol available in the UAE?",
+    "explanation": "The UAE offers three grades of unleaded petrol: E Plus (Red, 91 octane), Special (Green, 95 octane), and Super (Blue, 98 octane). Modern vehicles use electronic fuel injection rather than carburetors.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fuel", "petrol_grades", "UAE"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-022-a", "question_id": "sup5-022", "answer_text": "E Plus Red 91, Special Green 95, Super Blue 98", "is_correct": true, "display_order": 1},
+      {"id": "sup5-022-b", "question_id": "sup5-022", "answer_text": "Regular 87, Plus 89, Premium 93", "is_correct": false, "display_order": 2},
+      {"id": "sup5-022-c", "question_id": "sup5-022", "answer_text": "Bronze 90, Silver 95, Gold 100", "is_correct": false, "display_order": 3},
+      {"id": "sup5-022-d", "question_id": "sup5-022", "answer_text": "Standard 91, Premium 95, Ultra 99", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-023",
+    "question_text": "What dangerous gas does a car exhaust system produce?",
+    "explanation": "The exhaust system produces carbon monoxide (CO), which is colorless, odorless, and highly poisonous. A catalytic converter helps convert harmful compounds into less dangerous substances.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["exhaust", "carbon_monoxide", "emissions"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-023-a", "question_id": "sup5-023", "answer_text": "Oxygen", "is_correct": false, "display_order": 1},
+      {"id": "sup5-023-b", "question_id": "sup5-023", "answer_text": "Carbon monoxide — colorless, odorless, and poisonous", "is_correct": true, "display_order": 2},
+      {"id": "sup5-023-c", "question_id": "sup5-023", "answer_text": "Nitrogen — easily detectable by smell", "is_correct": false, "display_order": 3},
+      {"id": "sup5-023-d", "question_id": "sup5-023", "answer_text": "Water vapor only", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-024",
+    "question_text": "What type of fuel must cars with catalytic converters use?",
+    "explanation": "Cars equipped with catalytic converters must use unleaded petrol only. Leaded petrol damages the catalytic converter and renders it ineffective at reducing harmful emissions.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["catalytic_converter", "unleaded", "fuel"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-024-a", "question_id": "sup5-024", "answer_text": "Leaded petrol for better performance", "is_correct": false, "display_order": 1},
+      {"id": "sup5-024-b", "question_id": "sup5-024", "answer_text": "Diesel fuel only", "is_correct": false, "display_order": 2},
+      {"id": "sup5-024-c", "question_id": "sup5-024", "answer_text": "Unleaded petrol only", "is_correct": true, "display_order": 3},
+      {"id": "sup5-024-d", "question_id": "sup5-024", "answer_text": "Any type of fuel is acceptable", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-025",
+    "question_text": "Why should you never run a car engine in a garage or enclosed space?",
+    "explanation": "Running an engine in an enclosed space causes a dangerous buildup of carbon monoxide, which is colorless and odorless and can be fatal. Even driving with the boot open may suck CO into the cabin.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["carbon_monoxide", "safety", "enclosed_space"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-025-a", "question_id": "sup5-025", "answer_text": "It wastes fuel unnecessarily", "is_correct": false, "display_order": 1},
+      {"id": "sup5-025-b", "question_id": "sup5-025", "answer_text": "Carbon monoxide can build up and cause fatal poisoning", "is_correct": true, "display_order": 2},
+      {"id": "sup5-025-c", "question_id": "sup5-025", "answer_text": "It damages the garage walls from vibrations", "is_correct": false, "display_order": 3},
+      {"id": "sup5-025-d", "question_id": "sup5-025", "answer_text": "The noise may disturb neighbors", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-026",
+    "question_text": "What happens if the drive belt connected to the generator becomes loose?",
+    "explanation": "The generator (alternator) is connected by a drive belt and produces electrical power stored in the battery. If the drive belt becomes loose, a warning lamp on the dashboard lights up to alert the driver.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["electrical_system", "drive_belt", "generator"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-026-a", "question_id": "sup5-026", "answer_text": "The engine will immediately stop", "is_correct": false, "display_order": 1},
+      {"id": "sup5-026-b", "question_id": "sup5-026", "answer_text": "A warning lamp on the dashboard lights up", "is_correct": true, "display_order": 2},
+      {"id": "sup5-026-c", "question_id": "sup5-026", "answer_text": "The headlights become brighter", "is_correct": false, "display_order": 3},
+      {"id": "sup5-026-d", "question_id": "sup5-026", "answer_text": "The air conditioning starts automatically", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-027",
+    "question_text": "When jump starting a car, where should the last black cable be connected?",
+    "explanation": "The correct jump starting sequence: red to positive of weak battery, red to positive of good battery, black to negative of good battery, and the last black cable to a ground point on the engine block — NOT to the negative terminal of the weak battery, to avoid sparks near the battery.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["jump_starting", "battery", "electrical_system"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-027-a", "question_id": "sup5-027", "answer_text": "To the negative terminal of the weak battery", "is_correct": false, "display_order": 1},
+      {"id": "sup5-027-b", "question_id": "sup5-027", "answer_text": "To the positive terminal of the good battery", "is_correct": false, "display_order": 2},
+      {"id": "sup5-027-c", "question_id": "sup5-027", "answer_text": "To a ground point on the engine block (not the weak battery's negative)", "is_correct": true, "display_order": 3},
+      {"id": "sup5-027-d", "question_id": "sup5-027", "answer_text": "To the car's body near the fuel tank", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-028",
+    "question_text": "What should you do when replacing a blown fuse?",
+    "explanation": "Fuses protect the electrical system from damage caused by excessive current. When replacing a blown fuse, always use one with the same ampere rating to ensure proper protection.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fuses", "electrical_system", "maintenance"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-028-a", "question_id": "sup5-028", "answer_text": "Replace it with any available fuse", "is_correct": false, "display_order": 1},
+      {"id": "sup5-028-b", "question_id": "sup5-028", "answer_text": "Replace it with a higher ampere fuse for better protection", "is_correct": false, "display_order": 2},
+      {"id": "sup5-028-c", "question_id": "sup5-028", "answer_text": "Replace it with a fuse of the same ampere rating", "is_correct": true, "display_order": 3},
+      {"id": "sup5-028-d", "question_id": "sup5-028", "answer_text": "Use aluminium foil as a temporary replacement", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-029",
+    "question_text": "What is the requirement for dipped headlights?",
+    "explanation": "Vehicle lights include headlights (full beam and dipped beam), parking lights, indicators, and fog lights. Dipped headlights must be adjusted so they do not dazzle oncoming drivers.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["headlights", "dipped_beam", "vehicle_lights"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-029-a", "question_id": "sup5-029", "answer_text": "They must illuminate as far as possible ahead", "is_correct": false, "display_order": 1},
+      {"id": "sup5-029-b", "question_id": "sup5-029", "answer_text": "They must not dazzle oncoming drivers", "is_correct": true, "display_order": 2},
+      {"id": "sup5-029-c", "question_id": "sup5-029", "answer_text": "They must flash automatically when braking", "is_correct": false, "display_order": 3},
+      {"id": "sup5-029-d", "question_id": "sup5-029", "answer_text": "They must be yellow in color", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-030",
+    "question_text": "What color are reversing lights on a vehicle?",
+    "explanation": "Rear lights include: tail lights (red), reversing lights (white), brake lights (red), rear fog lights (red), and rear reflectors (red). White reversing lights help illuminate the area behind the vehicle and signal to others that the vehicle is reversing.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["rear_lights", "reversing", "vehicle_lights"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-030-a", "question_id": "sup5-030", "answer_text": "Red", "is_correct": false, "display_order": 1},
+      {"id": "sup5-030-b", "question_id": "sup5-030", "answer_text": "White", "is_correct": true, "display_order": 2},
+      {"id": "sup5-030-c", "question_id": "sup5-030", "answer_text": "Amber", "is_correct": false, "display_order": 3},
+      {"id": "sup5-030-d", "question_id": "sup5-030", "answer_text": "Blue", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-031",
+    "question_text": "What color is the high-beam indicator light on the dashboard?",
+    "explanation": "Dashboard warning lights use specific colors: oil pressure (red), ignition (red), ABS (yellow), and high-beam indicator (blue). The blue high-beam light reminds the driver to dip headlights for oncoming traffic.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["dashboard", "warning_lights", "high_beam"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-031-a", "question_id": "sup5-031", "answer_text": "Red", "is_correct": false, "display_order": 1},
+      {"id": "sup5-031-b", "question_id": "sup5-031", "answer_text": "Yellow", "is_correct": false, "display_order": 2},
+      {"id": "sup5-031-c", "question_id": "sup5-031", "answer_text": "Green", "is_correct": false, "display_order": 3},
+      {"id": "sup5-031-d", "question_id": "sup5-031", "answer_text": "Blue", "is_correct": true, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-032",
+    "question_text": "What is the function of the clutch in a manual transmission vehicle?",
+    "explanation": "The clutch decouples the engine from the drive wheels, allowing the driver to change gears smoothly. Manual gearboxes typically have 5 or more gears. Automatic vehicles do not have a clutch pedal.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["clutch", "transmission", "manual_gearbox"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-032-a", "question_id": "sup5-032", "answer_text": "It applies the brakes to slow the vehicle", "is_correct": false, "display_order": 1},
+      {"id": "sup5-032-b", "question_id": "sup5-032", "answer_text": "It decouples the engine from the drive wheels for gear changes", "is_correct": true, "display_order": 2},
+      {"id": "sup5-032-c", "question_id": "sup5-032", "answer_text": "It increases engine power for overtaking", "is_correct": false, "display_order": 3},
+      {"id": "sup5-032-d", "question_id": "sup5-032", "answer_text": "It controls the steering system", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-033",
+    "question_text": "A vehicle has two independent brake systems. What are they?",
+    "explanation": "Vehicles have two independent braking systems: the main brake (hydraulic, operating on all four wheels via the foot pedal) and the parking brake (mechanical, usually operating on the rear wheels via a hand lever or foot pedal).",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["brakes", "hydraulic", "parking_brake"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-033-a", "question_id": "sup5-033", "answer_text": "Front brakes and rear brakes operating on the same system", "is_correct": false, "display_order": 1},
+      {"id": "sup5-033-b", "question_id": "sup5-033", "answer_text": "Main brake (hydraulic, all 4 wheels) and parking brake (mechanical)", "is_correct": true, "display_order": 2},
+      {"id": "sup5-033-c", "question_id": "sup5-033", "answer_text": "ABS brake and engine brake", "is_correct": false, "display_order": 3},
+      {"id": "sup5-033-d", "question_id": "sup5-033", "answer_text": "Disc brakes and air brakes", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-034",
+    "question_text": "What does the ABS (Anti-lock Braking System) do?",
+    "explanation": "ABS prevents wheel locking during hard braking, which preserves the driver's ability to steer. If the ABS fails, a yellow warning light illuminates on the dashboard.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ABS", "braking", "safety_systems"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-034-a", "question_id": "sup5-034", "answer_text": "It reduces braking distance on all surfaces", "is_correct": false, "display_order": 1},
+      {"id": "sup5-034-b", "question_id": "sup5-034", "answer_text": "It prevents wheel locking and preserves steering control during hard braking", "is_correct": true, "display_order": 2},
+      {"id": "sup5-034-c", "question_id": "sup5-034", "answer_text": "It automatically applies the brakes in an emergency", "is_correct": false, "display_order": 3},
+      {"id": "sup5-034-d", "question_id": "sup5-034", "answer_text": "It locks all four wheels simultaneously for maximum stopping power", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-035",
+    "question_text": "What is the minimum legal tread depth for tyres, and what indicates it?",
+    "explanation": "The minimum legal tread depth is 1.6mm, indicated by the tread wear indicator (TWI) built into the tyre. Tyre pressure should be checked when cold. Under-inflation increases fuel consumption, and tyres wear twice as fast at 120 km/h compared to 80 km/h.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tyres", "tread_depth", "TWI", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-035-a", "question_id": "sup5-035", "answer_text": "1.0mm, indicated by the sidewall markings", "is_correct": false, "display_order": 1},
+      {"id": "sup5-035-b", "question_id": "sup5-035", "answer_text": "1.6mm, indicated by the tread wear indicator (TWI)", "is_correct": true, "display_order": 2},
+      {"id": "sup5-035-c", "question_id": "sup5-035", "answer_text": "2.0mm, indicated by the valve stem color", "is_correct": false, "display_order": 3},
+      {"id": "sup5-035-d", "question_id": "sup5-035", "answer_text": "3.0mm, indicated by the tyre pressure label", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-036",
+    "question_text": "What information does the tyre date code on the sidewall provide?",
+    "explanation": "The tyre date code on the sidewall shows the week and year of manufacture (e.g., '2519' means week 25 of 2019). The main tread of a new tyre is approximately 9mm deep.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tyres", "date_code", "sidewall"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-036-a", "question_id": "sup5-036", "answer_text": "The maximum speed rating of the tyre", "is_correct": false, "display_order": 1},
+      {"id": "sup5-036-b", "question_id": "sup5-036", "answer_text": "The week and year of manufacture", "is_correct": true, "display_order": 2},
+      {"id": "sup5-036-c", "question_id": "sup5-036", "answer_text": "The country of origin only", "is_correct": false, "display_order": 3},
+      {"id": "sup5-036-d", "question_id": "sup5-036", "answer_text": "The recommended tyre pressure", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup5-037",
+    "question_text": "What is the relationship between speed and braking distance?",
+    "explanation": "Stopping distance equals thinking distance plus braking distance. At 40 km/h, thinking distance is approximately 12 meters. Doubling the speed quadruples the braking distance because kinetic energy increases with the square of speed.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["stopping_distance", "braking_distance", "speed"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup5-037-a", "question_id": "sup5-037", "answer_text": "Doubling speed doubles the braking distance", "is_correct": false, "display_order": 1},
+      {"id": "sup5-037-b", "question_id": "sup5-037", "answer_text": "Doubling speed triples the braking distance", "is_correct": false, "display_order": 2},
+      {"id": "sup5-037-c", "question_id": "sup5-037", "answer_text": "Doubling speed quadruples the braking distance", "is_correct": true, "display_order": 3},
+      {"id": "sup5-037-d", "question_id": "sup5-037", "answer_text": "Speed has no effect on braking distance", "is_correct": false, "display_order": 4}
+    ]
+  }
+]
