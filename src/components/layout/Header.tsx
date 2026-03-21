@@ -1,7 +1,15 @@
 'use client'
 
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
+import { clsx } from 'clsx'
 import { useProgress } from '@/context/ProgressContext'
+
+const NAV_LINKS = [
+  { href: '/', label: 'Home', icon: 'home' },
+  { href: '/history', label: 'History', icon: 'history' },
+  { href: '/progress', label: 'Progress', icon: 'bar_chart' },
+]
 
 interface HeaderProps {
   showBack?: boolean
@@ -11,6 +19,7 @@ interface HeaderProps {
 
 export function Header({ showBack, backHref = '/', title }: HeaderProps) {
   const { progress } = useProgress()
+  const pathname = usePathname()
 
   return (
     <header className="sticky top-0 z-50 bg-surface/80 backdrop-blur-xl border-b-2 border-surface-container-lowest">
@@ -43,6 +52,29 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
             </span>
           </>
         )}
+
+        {/* Desktop Nav Links */}
+        <nav className="hidden sm:flex items-center gap-1 ml-6">
+          {NAV_LINKS.map((link) => {
+            const isActive = link.href === '/' ? pathname === '/' : pathname.startsWith(link.href)
+            return (
+              <Link
+                key={link.href}
+                href={link.href}
+                className={clsx(
+                  'flex items-center gap-1.5 px-3 py-1.5 font-label text-xs font-bold uppercase tracking-wider transition-colors',
+                  isActive
+                    ? 'text-secondary bg-secondary/10 border-b-2 border-secondary'
+                    : 'text-on-surface-variant hover:text-primary'
+                )}
+              >
+                <span className="material-symbols-outlined" style={{ fontSize: 16 }}>{link.icon}</span>
+                {link.label}
+              </Link>
+            )
+          })}
+        </nav>
+
         <div className="ml-auto flex items-center gap-3">
           <div className="flex items-center gap-2 bg-surface-container px-3 py-1.5 border-2 border-surface-container-lowest">
             <span className="material-symbols-outlined text-secondary" style={{ fontSize: 18 }}>
