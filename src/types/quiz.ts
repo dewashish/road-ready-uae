@@ -83,6 +83,7 @@ export type QuizAction =
   | { type: 'COMPLETE' }
   | { type: 'TICK_TIMER' }
   | { type: 'SET_QUESTIONS'; questions: Question[] }
+  | { type: 'START_MOCK_EXAM'; questions: Question[]; timeLimit: number }
 
 export interface UserModuleProgress {
   module_id: string

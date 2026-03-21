@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useEffect, useState, useRef } from 'react'
 import { useParams, useRouter } from 'next/navigation'
 import { Header } from '@/components/layout/Header'
 import { QuestionCard } from '@/components/quiz/QuestionCard'
@@ -10,6 +10,7 @@ import { useQuiz } from '@/hooks/useQuiz'
 import { useProgress } from '@/context/ProgressContext'
 import type { Question } from '@/types/quiz'
 import { buildWrongCountMap, buildSeenSet, selectWeightedQuestions } from '@/lib/questions/selectWeightedQuestions'
+import { playCorrect, playWrong } from '@/lib/sounds'
 
 // Import all question data
 import roadSignsData from '@/data/questions/road-signs.json'
@@ -81,6 +82,21 @@ export default function QuizPage() {
       startQuiz(withShuffledAnswers)
     }
   }, [moduleSlug, vehicleType, startQuiz])
+
+  // Play correct/wrong sounds
+  const prevIsAnsweredRef = useRef(false)
+  useEffect(() => {
+    if (state.isAnswered && !prevIsAnsweredRef.current) {
+      const currentQ = state.questions[state.currentIndex]
+      if (currentQ) {
+        const answer = state.answers[currentQ.id]
+        if (answer) {
+          answer.isCorrect ? playCorrect() : playWrong()
+        }
+      }
+    }
+    prevIsAnsweredRef.current = state.isAnswered
+  }, [state.isAnswered, state.currentIndex, state.questions, state.answers])
 
   if (state.status === 'loading' || !currentQuestion) {
     return (

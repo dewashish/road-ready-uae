@@ -18,6 +18,7 @@ export interface QuizState {
 
 export type QuizAction =
   | { type: 'SET_QUESTIONS'; questions: Question[] }
+  | { type: 'START_MOCK_EXAM'; questions: Question[]; timeLimit: number }
   | { type: 'SELECT_ANSWER'; answerId: string }
   | { type: 'CHECK_ANSWER' }
   | { type: 'NEXT_QUESTION' }
@@ -50,6 +51,14 @@ function quizReducer(state: QuizState, action: QuizAction): QuizState {
         selectedAnswerId: null,
         isAnswered: false,
         sessionAnswers: [],
+      }
+
+    case 'START_MOCK_EXAM':
+      return {
+        ...initialState,
+        questions: action.questions,
+        status: 'active',
+        timeRemaining: action.timeLimit,
       }
 
     case 'SELECT_ANSWER':
@@ -155,6 +164,10 @@ export function useQuiz() {
     dispatch({ type: 'SET_QUESTIONS', questions })
   }, [])
 
+  const startMockExam = useCallback((questions: Question[], timeLimit: number) => {
+    dispatch({ type: 'START_MOCK_EXAM', questions, timeLimit })
+  }, [])
+
   const selectAnswer = useCallback((answerId: string) => {
     dispatch({ type: 'SELECT_ANSWER', answerId })
   }, [])
@@ -177,6 +190,7 @@ export function useQuiz() {
     state,
     currentQuestion,
     startQuiz,
+    startMockExam,
     selectAnswer,
     checkAnswer,
     nextQuestion,

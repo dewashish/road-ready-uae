@@ -10,43 +10,31 @@ import { Badge } from '@/components/ui/Badge'
 import { ProgressBar } from '@/components/ui/ProgressBar'
 import { useProgress } from '@/context/ProgressContext'
 import type { QuizAnswerRecord } from '@/context/ProgressContext'
+import { MOCK_EXAMS, MOCK_EXAM_XP, MOCK_EXAM_PASS_PERCENT } from '@/lib/questions/mockExamConfig'
 import { playPass, playFail } from '@/lib/sounds'
 import { firePassConfetti } from '@/lib/confetti'
 
-const MODULE_XP: Record<string, number> = {
-  'road-signs': 100,
-  'traffic-rules': 100,
-  'hazard-perception': 120,
-  'driving-conditions': 80,
-  'critical-situations': 120,
-  'driving-behavior': 80,
-  'vehicle-maintenance': 60,
+function formatTimeSpent(seconds: number): string {
+  const m = Math.floor(seconds / 60)
+  const s = seconds % 60
+  return `${m}m ${s}s`
 }
 
-const MODULE_TITLES: Record<string, string> = {
-  'road-signs': 'Traffic Signs',
-  'traffic-rules': 'Road Rules',
-  'hazard-perception': 'Hazard Perception',
-  'driving-conditions': 'Driving Conditions',
-  'critical-situations': 'Critical Situations',
-  'driving-behavior': 'Safe Driving',
-  'vehicle-maintenance': 'Vehicle Knowledge',
-}
-
-export default function ResultsPage() {
+export default function MockExamResultsPage() {
   const params = useParams()
   const searchParams = useSearchParams()
   const vehicleType = params.vehicleType as string
-  const moduleSlug = params.moduleSlug as string
+  const examId = params.examId as string
   const { recordCompletion, saveQuizSession } = useProgress()
 
+  const exam = MOCK_EXAMS.find((e) => e.id === examId)
   const score = parseInt(searchParams.get('score') ?? '0', 10)
-  const total = parseInt(searchParams.get('total') ?? '30', 10)
+  const total = parseInt(searchParams.get('total') ?? '45', 10)
+  const timeSpent = parseInt(searchParams.get('time') ?? '0', 10)
   const percent = Math.round((score / total) * 100)
-  const passed = percent >= 71
+  const passed = percent >= MOCK_EXAM_PASS_PERCENT
 
-  const baseXp = MODULE_XP[moduleSlug] ?? 80
-  const xpEarned = Math.round((score / total) * baseXp)
+  const xpEarned = Math.round((score / total) * MOCK_EXAM_XP)
 
   const [saved, setSaved] = useState(false)
   const [showWrongAnswers, setShowWrongAnswers] = useState(false)
@@ -54,8 +42,8 @@ export default function ResultsPage() {
 
   useEffect(() => {
     if (!saved) {
-      // Record completion scoped to vehicle type (e.g. "B:road-signs")
-      recordCompletion(`${vehicleType}:${moduleSlug}`, score, total, xpEarned)
+      // Record completion
+      recordCompletion(`${vehicleType}:mock-exam-${examId}`, score, total, xpEarned)
 
       // Load session answers from localStorage
       try {
@@ -63,11 +51,10 @@ export default function ResultsPage() {
         const answers: QuizAnswerRecord[] = stored ? JSON.parse(stored) : []
         setSessionAnswers(answers)
 
-        // Save full session to history
         saveQuizSession({
-          id: `${moduleSlug}-${Date.now()}`,
-          moduleSlug,
-          moduleTitle: MODULE_TITLES[moduleSlug] ?? moduleSlug,
+          id: `mock-exam-${examId}-${Date.now()}`,
+          moduleSlug: `mock-exam-${examId}`,
+          moduleTitle: exam?.title ?? `Mock Test ${examId}`,
           vehicleType,
           score,
           total,
@@ -89,13 +76,13 @@ export default function ResultsPage() {
 
       setSaved(true)
     }
-  }, [saved, moduleSlug, score, total, xpEarned, percent, passed, vehicleType, recordCompletion, saveQuizSession])
+  }, [saved, examId, score, total, xpEarned, percent, passed, vehicleType, exam, recordCompletion, saveQuizSession])
 
   const wrongAnswers = sessionAnswers.filter((a) => !a.isCorrect)
 
   return (
     <div className="min-h-dvh bg-background">
-      <Header showBack backHref={`/quiz/${vehicleType}`} title="Results" />
+      <Header showBack backHref={`/quiz/${vehicleType}/mock-exam`} title={`${exam?.title ?? 'Mock Test'} Results`} />
       <main className="max-w-2xl mx-auto px-4 sm:px-6 py-8">
         {/* Score Display */}
         <NeoCard level={2} shadow={passed ? 'secondary' : 'default'} className="text-center mb-6">
@@ -116,12 +103,14 @@ export default function ResultsPage() {
           <p className="font-headline text-lg text-tertiary font-bold mb-4">{percent}% Accuracy</p>
           <ProgressBar value={percent} max={100} color={passed ? 'success' : 'error'} size="lg" />
           <p className="mt-3 text-sm text-on-surface-variant">
-            {passed ? 'Great job! You passed this module.' : 'You need 71% to pass. Keep practicing!'}
+            {passed
+              ? 'Excellent! You passed the mock exam!'
+              : `You need ${MOCK_EXAM_PASS_PERCENT}% to pass. Keep practicing!`}
           </p>
         </NeoCard>
 
         {/* Stats Grid */}
-        <div className="grid grid-cols-3 gap-3 mb-6">
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
           <NeoCard level={1} shadow="none" className="text-center !p-4">
             <span className="material-symbols-outlined text-secondary mb-1" style={{ fontSize: 24 }}>star</span>
             <p className="font-headline text-lg font-bold text-primary">+{xpEarned}</p>
@@ -136,6 +125,11 @@ export default function ResultsPage() {
             <span className="material-symbols-outlined text-error mb-1" style={{ fontSize: 24 }}>cancel</span>
             <p className="font-headline text-lg font-bold text-error">{total - score}</p>
             <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">Wrong</p>
+          </NeoCard>
+          <NeoCard level={1} shadow="none" className="text-center !p-4">
+            <span className="material-symbols-outlined text-tertiary mb-1" style={{ fontSize: 24 }}>timer</span>
+            <p className="font-headline text-lg font-bold text-tertiary">{formatTimeSpent(timeSpent)}</p>
+            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">Time Spent</p>
           </NeoCard>
         </div>
 
@@ -185,9 +179,14 @@ export default function ResultsPage() {
 
         {/* Action Buttons */}
         <div className="space-y-3">
-          <Link href={`/quiz/${vehicleType}/${moduleSlug}`}>
+          <Link href={`/quiz/${vehicleType}/mock-exam/${examId}`}>
             <NeoButton variant={passed ? 'tertiary' : 'primary'} size="lg" icon="replay" fullWidth>
               {passed ? 'Practice Again' : 'Try Again'}
+            </NeoButton>
+          </Link>
+          <Link href={`/quiz/${vehicleType}/mock-exam`}>
+            <NeoButton variant="secondary" size="lg" icon="list" fullWidth className="mt-3">
+              Try Another Test
             </NeoButton>
           </Link>
           <Link href={`/quiz/${vehicleType}`}>

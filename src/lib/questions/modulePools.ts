@@ -31,7 +31,7 @@ function mergeByModule(moduleKey: string, primary: Question[]): Question[] {
 }
 
 /** Full merged question pools per module (all vehicle types) */
-const MODULE_POOLS: Record<string, Question[]> = {
+export const MODULE_POOLS: Record<string, Question[]> = {
   'road-signs': mergeByModule('road_signs', roadSignsData as Question[]),
   'traffic-rules': mergeByModule('traffic_rules', trafficRulesData as Question[]),
   'hazard-perception': mergeByModule('hazard_perception', hazardPerceptionData as Question[]),

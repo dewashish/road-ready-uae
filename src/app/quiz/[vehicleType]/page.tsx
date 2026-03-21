@@ -34,6 +34,9 @@ export default function ModulePathPage() {
     (m) => (progress.modules[`${vehicleType}:${m.slug}`]?.completionCount ?? 0) > 0
   )
 
+  const mockAttempts = [1,2,3,4].reduce((sum, id) => sum + (progress.modules[`${vehicleType}:mock-exam-${id}`]?.completionCount ?? 0), 0)
+  const mockBest = Math.max(0, ...[1,2,3,4].map(id => progress.modules[`${vehicleType}:mock-exam-${id}`]?.bestPercent ?? 0))
+
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
       <Header showBack backHref="/" title={categoryName} />
@@ -149,12 +152,24 @@ export default function ModulePathPage() {
                     </div>
                     <div className="flex-1">
                       <div className="flex items-center gap-2 mb-1">
-                        <h3 className="font-headline text-base font-bold text-secondary">Mock Exam</h3>
-                        <Badge variant="warning">Unlocked</Badge>
+                        <h3 className="font-headline text-base font-bold text-secondary">Mock Exams</h3>
+                        {mockAttempts > 0 ? (
+                          <Badge variant={mockBest >= 71 ? 'success' : 'info'}>{mockAttempts}x Done</Badge>
+                        ) : (
+                          <Badge variant="warning">Unlocked</Badge>
+                        )}
                       </div>
                       <p className="text-sm text-on-surface-variant">
-                        45 questions, 30 minutes - just like the real test
+                        4 tests · 45 questions · 30 minutes each
                       </p>
+                      {mockAttempts > 0 && (
+                        <div className="flex items-center gap-3 mt-2">
+                          <ProgressBar value={mockBest} max={100} color={mockBest >= 71 ? 'success' : 'tertiary'} size="sm" className="flex-1" />
+                          <span className="font-label text-[10px] text-success font-bold whitespace-nowrap">
+                            Best: {mockBest}%
+                          </span>
+                        </div>
+                      )}
                     </div>
                     <span className="material-symbols-outlined text-secondary" style={{ fontSize: 20 }}>
                       chevron_right
