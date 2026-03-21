@@ -9,6 +9,7 @@ import { Badge } from '@/components/ui/Badge'
 import { ProgressBar } from '@/components/ui/ProgressBar'
 import { useProgress } from '@/context/ProgressContext'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
+import { getModuleSeenStats } from '@/lib/questions/modulePools'
 
 const MODULES = [
   { slug: 'road-signs', title: 'Traffic Signs', description: 'Learn regulatory, warning, and informational signs', icon: 'signpost', questionCount: 30, xp: 100 },
@@ -26,7 +27,8 @@ export default function ModulePathPage() {
   const category = VEHICLE_CATEGORIES.find((c) => c.type === vehicleType)
   const categoryName = category?.name ?? 'Vehicle'
 
-  const { progress } = useProgress()
+  const { progress, getQuizHistory } = useProgress()
+  const history = getQuizHistory()
 
   const allModulesCompleted = MODULES.every(
     (m) => (progress.modules[`${vehicleType}:${m.slug}`]?.completionCount ?? 0) > 0
@@ -63,6 +65,7 @@ export default function ModulePathPage() {
             const modProgress = progress.modules[`${vehicleType}:${mod.slug}`]
             const completions = modProgress?.completionCount ?? 0
             const bestPercent = modProgress?.bestPercent ?? 0
+            const seenStats = getModuleSeenStats(mod.slug, vehicleType, history)
 
             return (
               <div key={mod.slug} className="relative">
@@ -116,6 +119,11 @@ export default function ModulePathPage() {
                             +{mod.xp} XP
                           </span>
                         </div>
+                        {seenStats.total > 0 && (
+                          <p className="font-label text-[10px] text-on-surface-variant mt-1">
+                            {seenStats.seen}/{seenStats.total} questions seen ({seenStats.percent}%)
+                          </p>
+                        )}
                       </div>
                       <span className="material-symbols-outlined text-on-surface-variant" style={{ fontSize: 20 }}>
                         chevron_right

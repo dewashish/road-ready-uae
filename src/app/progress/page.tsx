@@ -6,6 +6,7 @@ import { NeoCard } from '@/components/ui/NeoCard'
 import { ProgressBar } from '@/components/ui/ProgressBar'
 import { useProgress } from '@/context/ProgressContext'
 import { getTotalStats, type ModuleProgress } from '@/lib/progress'
+import { getModuleSeenStats } from '@/lib/questions/modulePools'
 
 const MODULE_INFO = [
   { slug: 'road-signs', title: 'Traffic Signs', icon: 'signpost' },
@@ -18,6 +19,24 @@ const MODULE_INFO = [
 ]
 
 const VEHICLE_TYPES = ['A', 'B', 'C', 'D', 'E']
+
+/** Aggregate seen stats across all vehicle types for a module */
+function getAggregatedSeenStats(
+  slug: string,
+  history: { moduleSlug: string; vehicleType: string; answers: { questionId: string }[] }[]
+): { seen: number; total: number; percent: number } {
+  let totalSeen = 0
+  let totalPool = 0
+  for (const vt of VEHICLE_TYPES) {
+    const stats = getModuleSeenStats(slug, vt, history as Parameters<typeof getModuleSeenStats>[2])
+    if (stats.total > 0) {
+      totalSeen += stats.seen
+      totalPool += stats.total
+    }
+  }
+  if (totalPool === 0) return { seen: 0, total: 0, percent: 0 }
+  return { seen: totalSeen, total: totalPool, percent: Math.round((totalSeen / totalPool) * 100) }
+}
 
 /** Aggregate a module's progress across all vehicle types (and legacy unscoped keys) */
 function getAggregatedModuleProgress(
@@ -44,8 +63,9 @@ function getAggregatedModuleProgress(
 }
 
 export default function ProgressPage() {
-  const { progress } = useProgress()
+  const { progress, getQuizHistory } = useProgress()
   const stats = getTotalStats(progress)
+  const history = getQuizHistory()
 
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
@@ -78,6 +98,7 @@ export default function ProgressPage() {
         <div className="grid gap-3 sm:grid-cols-2">
           {MODULE_INFO.map((mod) => {
             const { bestPercent, completions } = getAggregatedModuleProgress(progress.modules, mod.slug)
+            const seenStats = getAggregatedSeenStats(mod.slug, history)
             return (
               <NeoCard key={mod.slug} level={1} shadow="none">
                 <div className="flex items-center gap-3 mb-3">
@@ -91,6 +112,11 @@ export default function ProgressPage() {
                   <span className="font-headline text-sm font-bold text-tertiary">{bestPercent}%</span>
                 </div>
                 <ProgressBar value={bestPercent} max={100} color={bestPercent >= 71 ? 'success' : 'tertiary'} size="sm" />
+                {seenStats.total > 0 && (
+                  <p className="font-label text-[10px] text-on-surface-variant mt-2">
+                    {seenStats.seen}/{seenStats.total} questions seen ({seenStats.percent}%)
+                  </p>
+                )}
               </NeoCard>
             )
           })}
