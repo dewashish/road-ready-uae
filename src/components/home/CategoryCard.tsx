@@ -33,7 +33,7 @@ const badgeStyles = {
 
 const badgeLabels = {
   new: 'NEW',
-  active: 'ACTIVE',
+  active: 'IN PROGRESS',
   completed: 'COMPLETED',
 }
 
