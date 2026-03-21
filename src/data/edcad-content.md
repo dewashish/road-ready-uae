@@ -1,7 +1,6 @@
 # EDCAD E-Learning Content - UAE Light Vehicle Training Course
 
 > Extracted from https://elearning.edcad.ae - Official EDC E-Learning Portal
-> Note: Slide 1 (Part 01) content extracted for each lesson. Remaining slides (Parts 02-04) are behind video timers and require manual progression.
 
 ---
 
@@ -91,6 +90,172 @@ Whenever you are about to deal with the junction ahead choose the correct lane f
 - For going straight continue in the extreme right lane (which is considered the safest lane).
 - For turning left move to the extreme left lane.
 - U turn is only permitted from the Extreme left lane.
+
+### Part 02 (Slide 2 of 3)
+
+**ROUNDABOUT**
+
+- Give Way to all vehicles inside the roundabout.
+- Use your right hand indicator while leaving the roundabout.
+
+- While entering to the roundabout priority should be given to the vehicles approaching from left
+- For turning right choose the extreme right lane, Use right indicator and join the same lane (Extreme right)
+- For going straight be in the extreme right lane, do not use any indicator while entering
+- While turning left and making U turn choose the extreme left lane and use left indicator while entering for both.
+- In the roundabouts there is an additional rule known as "Exit Rule" according to the exit rule whenever you are about to leave the roundabout, right indicator should be used
+- Inside the roundabout, lane changing, reversing, stopping **and overtaking are** not allowed.
+
+Use your right hand indicator while leaving the roundabout.
+
+**BEWARE OF LONG VEHICLES IN ROUNDABOUT**
+
+Long vehicles are supposed to stick to their lanes, but in the roundabouts due to their turning radius they cannot continue with the same lane, as they will hit the curbstone with the rear wheels, to avoid hitting the curbstones heavy vehicle drivers join the second lane inside the roundabouts.
+
+So DO not Enter the roundabout if the heavy vehicles have already entered.
+
+**SCANNING TECHNIQUE**
+
+Your eyes provide you with 90% of all the information you need to manage your car in traffic.
+
+If the driver doesn't shift the gaze to the sides while driving, a very limited vision will be resulted.
+
+So this is very important to keep checking the mirrors and keep shifting your gaze in order to have a clearer vision.
+
+**Lane changing RIGHT & LEFT**
+
+- It could be dangerous for other road users.
+- Potential cause of accidents.
+- Bad example to others.
+
+Frequent lane changing on left and right is very dangerous.
+
+**Jumping the queues**
+
+What does this behavior reflect?
+
+- Irresponsible aggressive personality.
+- Careless personality.
+- It also endangers the driver himself and the other road users.
+
+**Driving in lanes in congestion**
+
+- Be patient.
+- Keep SAFE distance.
+- Scan well.
+
+**Do not change lanes without a good reason.**
+
+- Usually in **traffic congestion** multiple collisions are very common, so lane discipline is very essential.
+- Do not lose your patience while waiting in queues.
+- Do not jump to other lanes impulsively as it could cause accidents.
+- Keep scanning your surrounding **as other** impulsive drivers could be jumping to **your** lanes.
+- It is strongly suggested to check the mirrors after each 5 seconds of interval.
+
+**CHANGING LANES AND BEING OVERTAKEN**
+
+Statistics indicate a high number of incidents due to over speeding and changing the tracks without warning others.
+
+While changing lane or if you are overtaking another vehicle you have to scan properly.
+
+The scanning sequence has to be as follow:
+
+- Check the center view mirror.
+- Check the side mirror.
+- Look over your shoulder.
+- Turn on indicator.
+- Check again the center view mirror and then start moving to the other lane smoothly.
+
+- If someone is changing lane towards your lane then show positive attitude, slow down and allow them.
+- If you are being overtaken then maintain the same speed (if required slow down), do not accelerate as it could cause hazards.
+
+**Note: overtaking is only allowed from left side.**
+
+### Part 03 (Slide 3 of 3)
+
+**Driver's behavior while changing lanes**
+
+If another road user wants to enter in your lane, adjust your speed accordingly.
+
+Whenever someone **turns** on the indicator to change lane towards your lane, adapt your speed and accommodate them.
+
+**Never overtake**
+
+- Before or on an uncontrolled pedestrian crossing.
+- Before or while crossing a junction or intersection.
+- At places where your view of the road is obstructed.
+- Never overtake a vehicle if it is turning on the road or before at any uncontrolled junction, pedestrian crossing or intersection.
+- You may overtake from right side if:
+
+- The vehicle in front of you has clearly indicated by visual signal and its position on the road that it is about to turn left.
+- At a cross road controlled by a traffic light.
+
+- Usually while driving on uphill the vision will be restricted, that's **why** such **roads** are marked with the combination of solid continuous lines along with broken lines. Do not overtake if the solid line is on your side.
+
+**Elderly and disabled pedestrians**
+
+Being inside the car, the shell **or** the body of the car is protecting us. But pedestrians, children and cyclist are unprotected road users.
+
+This is our responsibility to protect them. Respect disabled and elderly people.
+
+**Children and traffic**
+
+Children playing in or near the road may not be thinking about the traffic.
+
+when the ball is seen, watch out for the child.
+
+Give extra care to children because:
+
+- Children are always playing.
+- They are impulsive.
+- Their eye sight is not fully devolved yet.
+- Inside city watch for the children.
+
+**Stopping and parking**
+
+**You are not allowed to stop or park your car on the road at:**
+
+- Junctions.
+- Hilly roads.
+- Turns or bends.
+- The private entrances.
+
+Never stop your car at a place where it might obstruct the view for others.
+
+**Stopping and parking**
+
+- Never park or stop in places where you might cause danger to other vehicles.
+- Stopping or parking is prohibited in front of fire hydrants.
+- Never park or stop your vehicles along with the curbs, if the color of the curb stone is red.
+- **This area is meant for** firefighting engines to attach the hose pipes with fire hydrants.
+
+**No waiting, No Parking and Stopping**
+
+- Stopping means: To stop for certain time to pick or drop someone.
+- Waiting means: To stop the vehicle and wait for some time, waiting **should never be too long**.
+- Parking means: To park your car at a legal and designated places.
+
+**Parking up hill and down hill**
+
+- While parking uphill the wheels should be towards the road, so it would prevent vehicle from going down.
+- If the car is parked downhill the wheels should be steered towards the curb stone for the same purpose.
+
+**Changing direction by using U-turn and reverse**
+
+- Turn at a place where other road users can see you.
+- Watch out for children while reversing.
+- U-Turn is permitted only from the left lane.
+
+**U-turn in one way traffic has** to be made from the extreme left lane only.
+
+If you **are driving** on two-way traffic and you **want** to change direction or make a U turn, you can reverse your car for changing the direction.
+
+**Things to remember when you leave your car**
+
+- Never stop or park where you might cause danger.
+- Apply the parking brake firmly.
+- Take the key out of the ignition & lock your car.
+
+Park your car at a proper parking place.
 
 ---
 

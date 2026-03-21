@@ -17,15 +17,24 @@ import drivingConditionsData from '@/data/questions/driving-conditions.json'
 import criticalSituationsData from '@/data/questions/critical-situations.json'
 import drivingBehaviorData from '@/data/questions/driving-behavior.json'
 import vehicleMaintenanceData from '@/data/questions/vehicle-maintenance.json'
+import supplementaryData from '@/data/questions/supplementary.json'
+import supplementary2Data from '@/data/questions/supplementary-2.json'
+
+// Merge supplementary questions into their respective modules
+function mergeByModule(moduleKey: string, primary: Question[]): Question[] {
+  const sup = [...(supplementaryData as Question[]), ...(supplementary2Data as Question[])]
+  const matching = sup.filter((q) => q.module === moduleKey)
+  return [...primary, ...matching]
+}
 
 const MODULE_DATA: Record<string, { questions: Question[]; title: string }> = {
-  'road-signs': { questions: roadSignsData as Question[], title: 'Traffic Signs' },
-  'traffic-rules': { questions: trafficRulesData as Question[], title: 'Road Rules' },
-  'hazard-perception': { questions: hazardPerceptionData as Question[], title: 'Hazard Perception' },
-  'driving-conditions': { questions: drivingConditionsData as Question[], title: 'Driving Conditions' },
-  'critical-situations': { questions: criticalSituationsData as Question[], title: 'Critical Situations' },
-  'driving-behavior': { questions: drivingBehaviorData as Question[], title: 'Safe Driving' },
-  'vehicle-maintenance': { questions: vehicleMaintenanceData as Question[], title: 'Vehicle Knowledge' },
+  'road-signs': { questions: mergeByModule('road_signs', roadSignsData as Question[]), title: 'Traffic Signs' },
+  'traffic-rules': { questions: mergeByModule('traffic_rules', trafficRulesData as Question[]), title: 'Road Rules' },
+  'hazard-perception': { questions: mergeByModule('hazard_perception', hazardPerceptionData as Question[]), title: 'Hazard Perception' },
+  'driving-conditions': { questions: mergeByModule('driving_conditions', drivingConditionsData as Question[]), title: 'Driving Conditions' },
+  'critical-situations': { questions: mergeByModule('critical_situations', criticalSituationsData as Question[]), title: 'Critical Situations' },
+  'driving-behavior': { questions: mergeByModule('driving_behavior', drivingBehaviorData as Question[]), title: 'Safe Driving' },
+  'vehicle-maintenance': { questions: mergeByModule('vehicle_maintenance', vehicleMaintenanceData as Question[]), title: 'Vehicle Knowledge' },
 }
 
 export default function QuizPage() {
