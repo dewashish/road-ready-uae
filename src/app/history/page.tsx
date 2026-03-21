@@ -1,15 +1,19 @@
 'use client'
 
 import { useState } from 'react'
+import Link from 'next/link'
 import { Header } from '@/components/layout/Header'
 import { BottomNav } from '@/components/layout/BottomNav'
 import { NeoCard } from '@/components/ui/NeoCard'
+import { NeoButton } from '@/components/ui/NeoButton'
 import { Badge } from '@/components/ui/Badge'
 import { useProgress } from '@/context/ProgressContext'
+import { useAuth } from '@/hooks/useAuth'
 import type { QuizSessionRecord } from '@/context/ProgressContext'
 
 export default function HistoryPage() {
   const { getQuizHistory } = useProgress()
+  const { user, loading } = useAuth()
   const history = getQuizHistory()
   const [expandedId, setExpandedId] = useState<string | null>(null)
 
@@ -21,15 +25,54 @@ export default function HistoryPage() {
           Quiz <span className="text-secondary">History</span>
         </h2>
 
+        {/* Sign-in CTA */}
+        {!loading && !user && (
+          <NeoCard level={2} shadow="secondary" className="mb-6 border-secondary/40">
+            <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-6">
+              <div className="flex-shrink-0 w-14 h-14 bg-secondary/15 border-2 border-secondary flex items-center justify-center">
+                <span className="material-symbols-outlined text-secondary" style={{ fontSize: 28 }}>
+                  cloud_sync
+                </span>
+              </div>
+              <div className="flex-1 text-center sm:text-left">
+                <h3 className="font-headline text-base font-bold text-primary mb-1">
+                  Save Your Progress Permanently
+                </h3>
+                <p className="text-sm text-on-surface-variant">
+                  Sign in to keep your quiz history, XP, and streaks saved across all your devices. Without an account, your history is only stored on this browser.
+                </p>
+              </div>
+              <div className="flex flex-col gap-2 w-full sm:w-auto">
+                <Link href="/auth">
+                  <NeoButton variant="secondary" size="md" icon="login" fullWidth>
+                    Sign In
+                  </NeoButton>
+                </Link>
+                <Link href="/auth">
+                  <NeoButton variant="ghost" size="sm" fullWidth className="!text-xs">
+                    Create Account
+                  </NeoButton>
+                </Link>
+              </div>
+            </div>
+          </NeoCard>
+        )}
+
+        {/* History list */}
         {history.length === 0 ? (
           <NeoCard level={1} shadow="none" className="text-center !py-16">
             <span className="material-symbols-outlined text-outline" style={{ fontSize: 48 }}>
               history
             </span>
             <h3 className="mt-4 font-headline text-lg font-bold text-primary">No History Yet</h3>
-            <p className="mt-2 text-on-surface-variant">
+            <p className="mt-2 text-on-surface-variant mb-6">
               Complete a quiz to see your attempt history here.
             </p>
+            <Link href="/">
+              <NeoButton variant="tertiary" size="md" icon="play_arrow">
+                Start a Quiz
+              </NeoButton>
+            </Link>
           </NeoCard>
         ) : (
           <div className="space-y-3">
@@ -128,38 +171,23 @@ function SessionCard({
               <div
                 key={idx}
                 className="bg-surface-container-lowest p-3 border-l-4 border-l-error"
+                onClick={(e) => e.stopPropagation()}
               >
                 <p className="font-body text-sm text-primary mb-2">
                   {answer.questionText}
                 </p>
                 {answer.selectedAnswerText !== '(Skipped)' && (
                   <div className="flex items-center gap-2 mb-1">
-                    <span
-                      className="material-symbols-outlined text-error"
-                      style={{ fontSize: 14 }}
-                    >
-                      close
-                    </span>
-                    <span className="text-xs text-error line-through">
-                      {answer.selectedAnswerText}
-                    </span>
+                    <span className="material-symbols-outlined text-error" style={{ fontSize: 14 }}>close</span>
+                    <span className="text-xs text-error line-through">{answer.selectedAnswerText}</span>
                   </div>
                 )}
                 <div className="flex items-center gap-2">
-                  <span
-                    className="material-symbols-outlined text-success"
-                    style={{ fontSize: 14 }}
-                  >
-                    check
-                  </span>
-                  <span className="text-xs text-success font-semibold">
-                    {answer.correctAnswerText}
-                  </span>
+                  <span className="material-symbols-outlined text-success" style={{ fontSize: 14 }}>check</span>
+                  <span className="text-xs text-success font-semibold">{answer.correctAnswerText}</span>
                 </div>
                 {answer.explanation && (
-                  <p className="mt-2 text-xs text-on-surface-variant italic">
-                    {answer.explanation}
-                  </p>
+                  <p className="mt-2 text-xs text-on-surface-variant italic">{answer.explanation}</p>
                 )}
               </div>
             ))}
@@ -169,9 +197,7 @@ function SessionCard({
 
       {isExpanded && wrongAnswers.length === 0 && (
         <div className="mt-4 pt-4 border-t-2 border-surface-container-lowest text-center">
-          <span className="material-symbols-outlined text-success" style={{ fontSize: 32 }}>
-            celebration
-          </span>
+          <span className="material-symbols-outlined text-success" style={{ fontSize: 32 }}>celebration</span>
           <p className="text-sm text-success font-bold mt-1">Perfect score! No wrong answers.</p>
         </div>
       )}
