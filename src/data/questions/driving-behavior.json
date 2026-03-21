@@ -1,0 +1,534 @@
+[
+  {
+    "id": "db-001",
+    "question_text": "What is the core principle of defensive driving?",
+    "explanation": "Defensive driving means anticipating potential hazards and taking proactive measures to avoid them. It involves staying alert, maintaining safe distances, being aware of other road users, and being prepared for the unexpected actions of others.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["defensive_driving", "anticipation", "safe_driving"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-001-a", "question_id": "db-001", "answer_text": "Anticipating hazards and driving proactively to avoid potential dangers", "is_correct": true, "display_order": 1},
+      {"id": "db-001-b", "question_id": "db-001", "answer_text": "Driving faster than other traffic to avoid being caught in dangerous situations", "is_correct": false, "display_order": 2},
+      {"id": "db-001-c", "question_id": "db-001", "answer_text": "Always driving in the left lane to have more escape routes", "is_correct": false, "display_order": 3},
+      {"id": "db-001-d", "question_id": "db-001", "answer_text": "Following the car ahead closely to stay in their safe zone", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-002",
+    "question_text": "What is the best way to deal with an aggressive driver tailgating you on a UAE highway?",
+    "explanation": "If someone is tailgating you, do not brake suddenly or speed up. Safely move to the right lane to let them pass. Engaging with aggressive drivers by braking suddenly or gesturing can escalate the situation and lead to road rage incidents.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tailgating", "road_rage", "defensive_driving"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-002-a", "question_id": "db-002", "answer_text": "Safely move to the right lane and let them pass without engaging", "is_correct": true, "display_order": 1},
+      {"id": "db-002-b", "question_id": "db-002", "answer_text": "Brake suddenly to teach them a lesson", "is_correct": false, "display_order": 2},
+      {"id": "db-002-c", "question_id": "db-002", "answer_text": "Speed up to create distance between you and the tailgater", "is_correct": false, "display_order": 3},
+      {"id": "db-002-d", "question_id": "db-002", "answer_text": "Make angry gestures to show your displeasure", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-003",
+    "question_text": "What are the warning signs of driver fatigue?",
+    "explanation": "Warning signs of fatigue include frequent yawning, heavy eyelids, drifting between lanes, missing exits or signs, difficulty focusing, and inability to recall the last few kilometers driven. If you experience these, stop and rest immediately.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fatigue", "drowsy_driving", "warning_signs"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-003-a", "question_id": "db-003", "answer_text": "Frequent yawning, heavy eyelids, lane drifting, and inability to recall recent driving", "is_correct": true, "display_order": 1},
+      {"id": "db-003-b", "question_id": "db-003", "answer_text": "Increased alertness and sharp focus", "is_correct": false, "display_order": 2},
+      {"id": "db-003-c", "question_id": "db-003", "answer_text": "Feeling hungry and thirsty", "is_correct": false, "display_order": 3},
+      {"id": "db-003-d", "question_id": "db-003", "answer_text": "Driving faster than usual", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-004",
+    "question_text": "When is it appropriate to use the horn in the UAE?",
+    "explanation": "In the UAE, the horn should only be used to warn other road users of danger or to alert them to your presence when necessary for safety. Using the horn out of frustration, to express anger, or unnecessarily in residential areas is illegal and can result in a fine.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["horn_usage", "uae_law", "courtesy"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-004-a", "question_id": "db-004", "answer_text": "Only to warn of danger or alert others to your presence for safety", "is_correct": true, "display_order": 1},
+      {"id": "db-004-b", "question_id": "db-004", "answer_text": "To express frustration in traffic jams", "is_correct": false, "display_order": 2},
+      {"id": "db-004-c", "question_id": "db-004", "answer_text": "To greet friends on the road", "is_correct": false, "display_order": 3},
+      {"id": "db-004-d", "question_id": "db-004", "answer_text": "To signal the car ahead to move faster at a green light", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-005",
+    "question_text": "What should you do if you feel road rage building up while driving?",
+    "explanation": "If you feel anger building up, take deep breaths, avoid eye contact with the other driver, do not respond to provocations, and focus on reaching your destination safely. If necessary, pull over safely and take a break to calm down.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["road_rage", "emotional_control", "safe_driving"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-005-a", "question_id": "db-005", "answer_text": "Take deep breaths, avoid engaging with the other driver, and pull over if needed to calm down", "is_correct": true, "display_order": 1},
+      {"id": "db-005-b", "question_id": "db-005", "answer_text": "Confront the other driver at the next traffic light", "is_correct": false, "display_order": 2},
+      {"id": "db-005-c", "question_id": "db-005", "answer_text": "Speed up and drive aggressively to release tension", "is_correct": false, "display_order": 3},
+      {"id": "db-005-d", "question_id": "db-005", "answer_text": "Honk repeatedly and flash your lights at the other driver", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-006",
+    "question_text": "Why is tailgating (following too closely) particularly dangerous on UAE highways?",
+    "explanation": "At highway speeds of 120 km/h, a vehicle covers about 33 meters per second. Tailgating leaves no time to react to sudden stops, debris, or lane changes by the vehicle ahead. Multiple-vehicle pileups on UAE highways are often caused by tailgating.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tailgating", "highway_safety", "following_distance"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-006-a", "question_id": "db-006", "answer_text": "At high speeds there is no time to react; it is a leading cause of multi-vehicle pileups", "is_correct": true, "display_order": 1},
+      {"id": "db-006-b", "question_id": "db-006", "answer_text": "Tailgating is only dangerous in wet conditions", "is_correct": false, "display_order": 2},
+      {"id": "db-006-c", "question_id": "db-006", "answer_text": "Modern vehicles have systems that make tailgating safe", "is_correct": false, "display_order": 3},
+      {"id": "db-006-d", "question_id": "db-006", "answer_text": "Tailgating is acceptable if you are in the fast lane", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-007",
+    "question_text": "What is the safest approach when another driver makes a mistake on the road?",
+    "explanation": "Everyone makes mistakes while driving. The safest response is to remain calm, give the other driver space, and adjust your driving to maintain safety. Retaliating or getting angry puts both you and others at risk.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["courtesy", "defensive_driving", "road_rage"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-007-a", "question_id": "db-007", "answer_text": "Stay calm, give them space, and adjust your driving to maintain safety", "is_correct": true, "display_order": 1},
+      {"id": "db-007-b", "question_id": "db-007", "answer_text": "Honk and flash your lights to show your displeasure", "is_correct": false, "display_order": 2},
+      {"id": "db-007-c", "question_id": "db-007", "answer_text": "Follow them closely and confront them at the next stop", "is_correct": false, "display_order": 3},
+      {"id": "db-007-d", "question_id": "db-007", "answer_text": "Report them to police immediately by calling while driving", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-008",
+    "question_text": "What is the recommended maximum continuous driving time before taking a rest break?",
+    "explanation": "It is recommended to take a break of at least 15-20 minutes for every 2 hours of continuous driving. On long UAE highway journeys (such as Abu Dhabi to Al Ain), plan rest stops to avoid fatigue.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fatigue", "rest_breaks", "long_distance_driving"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-008-a", "question_id": "db-008", "answer_text": "Take a 15-20 minute break every 2 hours of driving", "is_correct": true, "display_order": 1},
+      {"id": "db-008-b", "question_id": "db-008", "answer_text": "Drive for 5 hours before taking a break", "is_correct": false, "display_order": 2},
+      {"id": "db-008-c", "question_id": "db-008", "answer_text": "Rest breaks are only needed for professional drivers", "is_correct": false, "display_order": 3},
+      {"id": "db-008-d", "question_id": "db-008", "answer_text": "Coffee eliminates the need for rest breaks", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-009",
+    "question_text": "What is the UAE's policy on using a mobile phone while driving?",
+    "explanation": "Using a handheld mobile phone while driving is strictly prohibited in the UAE. This includes making calls, texting, browsing, and using social media. Violations result in a fine of AED 800 and 4 black points. Hands-free devices are permitted.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["mobile_phone", "distracted_driving", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-009-a", "question_id": "db-009", "answer_text": "Handheld phone use is strictly prohibited; only hands-free devices are allowed", "is_correct": true, "display_order": 1},
+      {"id": "db-009-b", "question_id": "db-009", "answer_text": "Phone calls are allowed but texting is not", "is_correct": false, "display_order": 2},
+      {"id": "db-009-c", "question_id": "db-009", "answer_text": "Phone use is allowed when stopped at traffic lights", "is_correct": false, "display_order": 3},
+      {"id": "db-009-d", "question_id": "db-009", "answer_text": "Phone use is only prohibited on highways", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-010",
+    "question_text": "What is the UAE's alcohol tolerance policy for drivers?",
+    "explanation": "The UAE has a zero alcohol tolerance policy for drivers. Any amount of alcohol in a driver's blood is illegal. Driving under the influence can result in heavy fines, imprisonment, vehicle impoundment, and license revocation.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["alcohol", "zero_tolerance", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-010-a", "question_id": "db-010", "answer_text": "Zero tolerance — any amount of alcohol while driving is illegal", "is_correct": true, "display_order": 1},
+      {"id": "db-010-b", "question_id": "db-010", "answer_text": "The legal limit is 0.05% blood alcohol content", "is_correct": false, "display_order": 2},
+      {"id": "db-010-c", "question_id": "db-010", "answer_text": "One drink is permitted if you wait 30 minutes before driving", "is_correct": false, "display_order": 3},
+      {"id": "db-010-d", "question_id": "db-010", "answer_text": "Alcohol is only tested after an accident occurs", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-011",
+    "question_text": "How should you behave when approaching a school bus that has stopped to pick up or drop off children in the UAE?",
+    "explanation": "In the UAE, all vehicles must stop when a school bus has its stop sign extended and lights flashing. Do not overtake or pass the bus until the stop sign is retracted and lights stop flashing. This applies to both directions of traffic on undivided roads.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["school_bus", "children_safety", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-011-a", "question_id": "db-011", "answer_text": "Stop and wait until the bus retracts its stop sign and lights stop flashing", "is_correct": true, "display_order": 1},
+      {"id": "db-011-b", "question_id": "db-011", "answer_text": "Slow down and carefully pass the bus", "is_correct": false, "display_order": 2},
+      {"id": "db-011-c", "question_id": "db-011", "answer_text": "Honk to warn children and continue driving", "is_correct": false, "display_order": 3},
+      {"id": "db-011-d", "question_id": "db-011", "answer_text": "You only need to stop if you are directly behind the bus", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-012",
+    "question_text": "What is the proper etiquette for using headlight flashing in the UAE?",
+    "explanation": "In the UAE, flashing headlights is commonly used to signal that you are about to overtake or to request the vehicle ahead to move to the right lane. However, excessive or aggressive flashing is considered rude and can be fined. Use it sparingly and politely.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["headlight_flashing", "uae_etiquette", "courtesy"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-012-a", "question_id": "db-012", "answer_text": "A brief flash to signal overtaking intent; excessive aggressive flashing can be fined", "is_correct": true, "display_order": 1},
+      {"id": "db-012-b", "question_id": "db-012", "answer_text": "Flash repeatedly to make slower drivers move", "is_correct": false, "display_order": 2},
+      {"id": "db-012-c", "question_id": "db-012", "answer_text": "Headlight flashing is illegal in the UAE", "is_correct": false, "display_order": 3},
+      {"id": "db-012-d", "question_id": "db-012", "answer_text": "Flash to greet other drivers you know", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-013",
+    "question_text": "What effect does fatigue have on driving ability?",
+    "explanation": "Fatigue significantly impairs reaction time, decision-making, attention, and coordination — effects similar to alcohol impairment. A fatigued driver is as dangerous as a drunk driver. Studies show being awake for 17 hours equals 0.05% BAC impairment.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fatigue", "impairment", "reaction_time"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-013-a", "question_id": "db-013", "answer_text": "It significantly impairs reaction time, decision-making, and coordination, similar to alcohol", "is_correct": true, "display_order": 1},
+      {"id": "db-013-b", "question_id": "db-013", "answer_text": "It only affects night-time driving ability", "is_correct": false, "display_order": 2},
+      {"id": "db-013-c", "question_id": "db-013", "answer_text": "Fatigue has minimal effect on experienced drivers", "is_correct": false, "display_order": 3},
+      {"id": "db-013-d", "question_id": "db-013", "answer_text": "It makes drivers more cautious and therefore safer", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-014",
+    "question_text": "What should you do when merging and another driver gives you space to enter?",
+    "explanation": "A polite wave or gesture of thanks when another driver lets you in is a common courtesy in the UAE and worldwide. It promotes goodwill and positive driving behavior. Courtesy on the road helps reduce road rage incidents.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 6,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["courtesy", "merging", "uae_etiquette"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-014-a", "question_id": "db-014", "answer_text": "Acknowledge them with a polite wave or gesture of thanks", "is_correct": true, "display_order": 1},
+      {"id": "db-014-b", "question_id": "db-014", "answer_text": "Flash your hazard lights rapidly as thanks", "is_correct": false, "display_order": 2},
+      {"id": "db-014-c", "question_id": "db-014", "answer_text": "No acknowledgment is needed; just merge quickly", "is_correct": false, "display_order": 3},
+      {"id": "db-014-d", "question_id": "db-014", "answer_text": "Honk your horn as a thank you", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-015",
+    "question_text": "Why should you avoid eating, drinking, or grooming while driving?",
+    "explanation": "Eating, drinking, or grooming while driving are forms of distracted driving. They take your hands off the wheel, your eyes off the road, and your mind off driving. In the UAE, distracted driving can result in fines and contributes to many accidents.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["distracted_driving", "safe_driving", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-015-a", "question_id": "db-015", "answer_text": "They distract your hands, eyes, and attention from driving", "is_correct": true, "display_order": 1},
+      {"id": "db-015-b", "question_id": "db-015", "answer_text": "It is only dangerous at high speeds", "is_correct": false, "display_order": 2},
+      {"id": "db-015-c", "question_id": "db-015", "answer_text": "It is only illegal on highways", "is_correct": false, "display_order": 3},
+      {"id": "db-015-d", "question_id": "db-015", "answer_text": "Eating while driving is acceptable if you use one hand", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-016",
+    "question_text": "What should you do if you feel too tired to drive safely?",
+    "explanation": "If you feel too tired to drive, the only safe solution is to stop driving. Pull over at a safe location such as a rest area or petrol station and take a nap of at least 15-20 minutes. Opening windows or turning up music are not effective substitutes for rest.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fatigue", "rest_breaks", "safe_driving"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-016-a", "question_id": "db-016", "answer_text": "Stop at a safe location and take a short nap or rest break", "is_correct": true, "display_order": 1},
+      {"id": "db-016-b", "question_id": "db-016", "answer_text": "Open the windows and turn up the radio to stay awake", "is_correct": false, "display_order": 2},
+      {"id": "db-016-c", "question_id": "db-016", "answer_text": "Drink energy drinks and continue driving", "is_correct": false, "display_order": 3},
+      {"id": "db-016-d", "question_id": "db-016", "answer_text": "Drive faster to reach your destination sooner", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-017",
+    "question_text": "What is the correct behavior when approaching a pedestrian crossing where people are waiting to cross?",
+    "explanation": "In the UAE, pedestrians have the right of way at marked crossings. Slow down and stop to allow pedestrians to cross. Do not honk at them to hurry. Be especially careful for elderly, disabled, or child pedestrians who may take longer.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["pedestrian_crossing", "courtesy", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-017-a", "question_id": "db-017", "answer_text": "Slow down, stop, and let pedestrians cross without rushing them", "is_correct": true, "display_order": 1},
+      {"id": "db-017-b", "question_id": "db-017", "answer_text": "Honk to alert them and continue driving", "is_correct": false, "display_order": 2},
+      {"id": "db-017-c", "question_id": "db-017", "answer_text": "Drive through quickly if no one has started crossing yet", "is_correct": false, "display_order": 3},
+      {"id": "db-017-d", "question_id": "db-017", "answer_text": "Pedestrians must wait for all vehicles to pass before crossing", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-018",
+    "question_text": "What is the fine in the UAE for driving while using a handheld mobile phone?",
+    "explanation": "In the UAE, using a handheld mobile phone while driving results in a fine of AED 800 and 4 black points on your license. If black points accumulate, your license can be suspended. This applies to all roads and all types of phone use.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["mobile_phone", "fines", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-018-a", "question_id": "db-018", "answer_text": "AED 800 fine and 4 black points", "is_correct": true, "display_order": 1},
+      {"id": "db-018-b", "question_id": "db-018", "answer_text": "AED 200 fine with no black points", "is_correct": false, "display_order": 2},
+      {"id": "db-018-c", "question_id": "db-018", "answer_text": "AED 500 fine and 2 black points", "is_correct": false, "display_order": 3},
+      {"id": "db-018-d", "question_id": "db-018", "answer_text": "Only a verbal warning for the first offense", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-019",
+    "question_text": "What is the recommended technique for dealing with stress while driving in heavy UAE traffic?",
+    "explanation": "In heavy traffic, plan your journey to allow extra time, listen to calming music or podcasts, practice patience, and accept that delays happen. Avoid aggressive maneuvers and remember that arriving safely is more important than arriving quickly.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["stress", "patience", "emotional_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-019-a", "question_id": "db-019", "answer_text": "Allow extra time, stay patient, and focus on arriving safely rather than quickly", "is_correct": true, "display_order": 1},
+      {"id": "db-019-b", "question_id": "db-019", "answer_text": "Use the hard shoulder to bypass traffic", "is_correct": false, "display_order": 2},
+      {"id": "db-019-c", "question_id": "db-019", "answer_text": "Weave through traffic to reduce your commute time", "is_correct": false, "display_order": 3},
+      {"id": "db-019-d", "question_id": "db-019", "answer_text": "Tailgate the car ahead to encourage them to move faster", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "db-020",
+    "question_text": "What is a key principle of UAE-specific road courtesy?",
+    "explanation": "In the UAE, key courtesy principles include giving way to vehicles entering from side roads when safe, not blocking intersections (yellow box junctions), yielding to emergency vehicles, respecting pedestrians at crossings, and not using the horn unnecessarily. Respect and patience promote road safety.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["courtesy", "uae_etiquette", "road_safety"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "db-020-a", "question_id": "db-020", "answer_text": "Be patient, yield to others when safe, respect pedestrians, and avoid unnecessary horn use", "is_correct": true, "display_order": 1},
+      {"id": "db-020-b", "question_id": "db-020", "answer_text": "Drive assertively and never let other vehicles merge in front of you", "is_correct": false, "display_order": 2},
+      {"id": "db-020-c", "question_id": "db-020", "answer_text": "Use your horn frequently to communicate with other drivers", "is_correct": false, "display_order": 3},
+      {"id": "db-020-d", "question_id": "db-020", "answer_text": "Flash headlights continuously to clear your path", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-db-001",
+    "question_text": "According to EDCAD, what is the minimum driving age in the UAE?",
+    "explanation": "EDCAD Lesson 6 states that the minimum driving age in the UAE is 18 years old. This is based on the maturity requirement, as driving requires sufficient physical and mental development.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["minimum_age", "maturity", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-db-001-a", "question_id": "ed-db-001", "answer_text": "18 years old", "is_correct": true, "display_order": 1},
+      {"id": "ed-db-001-b", "question_id": "ed-db-001", "answer_text": "16 years old", "is_correct": false, "display_order": 2},
+      {"id": "ed-db-001-c", "question_id": "ed-db-001", "answer_text": "21 years old", "is_correct": false, "display_order": 3},
+      {"id": "ed-db-001-d", "question_id": "ed-db-001", "answer_text": "17 years old", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-db-002",
+    "question_text": "According to EDCAD, what are the three stages of moral development for a driver?",
+    "explanation": "EDCAD Lesson 6 describes three stages of moral development: the Ego stage (self-centered driving), the Rule stage (following rules), and the Community stage (considering others and contributing to road safety).",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["moral_development", "maturity_stages", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-db-002-a", "question_id": "ed-db-002", "answer_text": "Ego stage, Rule stage, Community stage", "is_correct": true, "display_order": 1},
+      {"id": "ed-db-002-b", "question_id": "ed-db-002", "answer_text": "Beginner, Intermediate, Expert", "is_correct": false, "display_order": 2},
+      {"id": "ed-db-002-c", "question_id": "ed-db-002", "answer_text": "Learning, Practicing, Mastering", "is_correct": false, "display_order": 3},
+      {"id": "ed-db-002-d", "question_id": "ed-db-002", "answer_text": "Fear stage, Confidence stage, Relaxation stage", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-db-003",
+    "question_text": "According to EDCAD, how does an immature driver view their car?",
+    "explanation": "EDCAD Lesson 6 warns that an immature driver sees the car as a source of power. This ego-driven attitude leads to dangerous behaviors like speeding, showing off, and treating driving as a competition rather than a responsibility.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["immature_driver", "ego", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-db-003-a", "question_id": "ed-db-003", "answer_text": "As a source of power", "is_correct": true, "display_order": 1},
+      {"id": "ed-db-003-b", "question_id": "ed-db-003", "answer_text": "As a tool for safe transportation", "is_correct": false, "display_order": 2},
+      {"id": "ed-db-003-c", "question_id": "ed-db-003", "answer_text": "As a responsibility to the community", "is_correct": false, "display_order": 3},
+      {"id": "ed-db-003-d", "question_id": "ed-db-003", "answer_text": "As a way to help others commute", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-db-004",
+    "question_text": "According to EDCAD, what characterizes a safe and mature driver?",
+    "explanation": "EDCAD Lesson 6 describes a safe driver as one who adapts to other people's mistakes rather than being irritated by them. A mature driver understands that everyone makes errors and responds calmly rather than aggressively.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["safe_driver", "maturity", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-db-004-a", "question_id": "ed-db-004", "answer_text": "They adapt to others' mistakes without becoming irritated", "is_correct": true, "display_order": 1},
+      {"id": "ed-db-004-b", "question_id": "ed-db-004", "answer_text": "They always drive faster than other traffic", "is_correct": false, "display_order": 2},
+      {"id": "ed-db-004-c", "question_id": "ed-db-004", "answer_text": "They confront other drivers who make mistakes", "is_correct": false, "display_order": 3},
+      {"id": "ed-db-004-d", "question_id": "ed-db-004", "answer_text": "They never make any mistakes themselves", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-db-005",
+    "question_text": "According to EDCAD, what negative influence do advertising and films have on driving behavior?",
+    "explanation": "EDCAD Lesson 6 warns that advertising and films create a false sense of invulnerability in drivers, especially young ones. They portray reckless driving as exciting and consequence-free, which encourages dangerous behavior on the road.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["role_models", "false_invulnerability", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-db-005-a", "question_id": "ed-db-005", "answer_text": "They create a false sense of invulnerability", "is_correct": true, "display_order": 1},
+      {"id": "ed-db-005-b", "question_id": "ed-db-005", "answer_text": "They teach proper driving techniques", "is_correct": false, "display_order": 2},
+      {"id": "ed-db-005-c", "question_id": "ed-db-005", "answer_text": "They have no influence on driving behavior", "is_correct": false, "display_order": 3},
+      {"id": "ed-db-005-d", "question_id": "ed-db-005", "answer_text": "They encourage drivers to take professional courses", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-db-006",
+    "question_text": "According to EDCAD, at which stage of moral development does a driver follow rules simply because they exist?",
+    "explanation": "EDCAD Lesson 6 describes the Rule stage as the phase where a driver follows traffic rules because they understand they must. This is the middle stage between the selfish Ego stage and the socially responsible Community stage.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["rule_stage", "moral_development", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-db-006-a", "question_id": "ed-db-006", "answer_text": "The Rule stage", "is_correct": true, "display_order": 1},
+      {"id": "ed-db-006-b", "question_id": "ed-db-006", "answer_text": "The Ego stage", "is_correct": false, "display_order": 2},
+      {"id": "ed-db-006-c", "question_id": "ed-db-006", "answer_text": "The Community stage", "is_correct": false, "display_order": 3},
+      {"id": "ed-db-006-d", "question_id": "ed-db-006", "answer_text": "The Learning stage", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-db-007",
+    "question_text": "According to EDCAD, what is the highest level of driver moral development?",
+    "explanation": "EDCAD Lesson 6 identifies the Community stage as the highest level of moral development. At this stage, a driver considers the safety and well-being of all road users, not just themselves, and actively contributes to road safety.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["community_stage", "moral_development", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-db-007-a", "question_id": "ed-db-007", "answer_text": "The Community stage — considering the safety of all road users", "is_correct": true, "display_order": 1},
+      {"id": "ed-db-007-b", "question_id": "ed-db-007", "answer_text": "The Ego stage — focusing on personal driving pleasure", "is_correct": false, "display_order": 2},
+      {"id": "ed-db-007-c", "question_id": "ed-db-007", "answer_text": "The Rule stage — following all traffic laws", "is_correct": false, "display_order": 3},
+      {"id": "ed-db-007-d", "question_id": "ed-db-007", "answer_text": "The Expert stage — driving at the highest skill level", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-db-008",
+    "question_text": "According to EDCAD, why is the minimum driving age set at 18 in the UAE?",
+    "explanation": "EDCAD Lesson 6 explains that the minimum driving age of 18 is based on the maturity requirement. Younger individuals may lack the emotional stability, judgment, and responsibility needed to operate a vehicle safely in traffic.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["minimum_age", "maturity_requirement", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-db-008-a", "question_id": "ed-db-008", "answer_text": "Because sufficient physical and emotional maturity is required for safe driving", "is_correct": true, "display_order": 1},
+      {"id": "ed-db-008-b", "question_id": "ed-db-008", "answer_text": "Because insurance companies require it", "is_correct": false, "display_order": 2},
+      {"id": "ed-db-008-c", "question_id": "ed-db-008", "answer_text": "Because 18 is the age of legal employment", "is_correct": false, "display_order": 3},
+      {"id": "ed-db-008-d", "question_id": "ed-db-008", "answer_text": "It is an arbitrary age with no specific reason", "is_correct": false, "display_order": 4}
+    ]
+  }
+]

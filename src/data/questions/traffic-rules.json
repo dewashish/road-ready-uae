@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "tr-001",
+    "question_text": "What is the maximum speed limit on most highways in the UAE?",
+    "explanation": "The maximum speed limit on most highways in the UAE is 120 km/h, though some highways may have lower limits as posted.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": "speed_limit_120",
+    "image_url": null,
+    "tags": ["speed_limit", "highway"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-001-a", "question_id": "tr-001", "answer_text": "140 km/h", "is_correct": false, "display_order": 1 },
+      { "id": "tr-001-b", "question_id": "tr-001", "answer_text": "120 km/h", "is_correct": true, "display_order": 2 },
+      { "id": "tr-001-c", "question_id": "tr-001", "answer_text": "100 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "tr-001-d", "question_id": "tr-001", "answer_text": "160 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-002",
+    "question_text": "What is the typical speed limit in residential areas within UAE cities?",
+    "explanation": "In residential areas within UAE cities, the typical speed limit is 40 km/h to ensure safety of pedestrians and residents.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": "speed_limit_40",
+    "image_url": null,
+    "tags": ["speed_limit", "residential", "urban"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-002-a", "question_id": "tr-002", "answer_text": "60 km/h", "is_correct": false, "display_order": 1 },
+      { "id": "tr-002-b", "question_id": "tr-002", "answer_text": "40 km/h", "is_correct": true, "display_order": 2 },
+      { "id": "tr-002-c", "question_id": "tr-002", "answer_text": "80 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "tr-002-d", "question_id": "tr-002", "answer_text": "30 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-003",
+    "question_text": "What is the speed limit near schools in the UAE when children are present?",
+    "explanation": "The speed limit near schools in the UAE is typically 40 km/h, and drivers must reduce speed further when children are entering or leaving school. Some school zones may post 20-30 km/h limits.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": "school_zone",
+    "image_url": null,
+    "tags": ["speed_limit", "school_zone", "pedestrian_safety"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-003-a", "question_id": "tr-003", "answer_text": "60 km/h", "is_correct": false, "display_order": 1 },
+      { "id": "tr-003-b", "question_id": "tr-003", "answer_text": "80 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "tr-003-c", "question_id": "tr-003", "answer_text": "40 km/h or less as posted", "is_correct": true, "display_order": 3 },
+      { "id": "tr-003-d", "question_id": "tr-003", "answer_text": "50 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-004",
+    "question_text": "What speed limit applies in construction zones in the UAE?",
+    "explanation": "In construction zones, the speed limit is reduced and clearly posted with temporary signs. Drivers must follow the posted limit, which is typically between 40-60 km/h depending on the zone.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": "construction_zone",
+    "image_url": null,
+    "tags": ["speed_limit", "construction_zone"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-004-a", "question_id": "tr-004", "answer_text": "You may maintain the regular speed limit", "is_correct": false, "display_order": 1 },
+      { "id": "tr-004-b", "question_id": "tr-004", "answer_text": "You must follow the reduced speed limit posted on temporary signs", "is_correct": true, "display_order": 2 },
+      { "id": "tr-004-c", "question_id": "tr-004", "answer_text": "The speed limit is always 20 km/h in construction zones", "is_correct": false, "display_order": 3 },
+      { "id": "tr-004-d", "question_id": "tr-004", "answer_text": "You only need to slow down if workers are visible", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-005",
+    "question_text": "What is the typical speed limit on main roads within UAE cities?",
+    "explanation": "Main roads within UAE cities typically have speed limits of 60-80 km/h, depending on the specific road and emirate. Always follow posted speed signs.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": "speed_limit_60",
+    "image_url": null,
+    "tags": ["speed_limit", "urban", "city_roads"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-005-a", "question_id": "tr-005", "answer_text": "40-50 km/h", "is_correct": false, "display_order": 1 },
+      { "id": "tr-005-b", "question_id": "tr-005", "answer_text": "100-120 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "tr-005-c", "question_id": "tr-005", "answer_text": "60-80 km/h", "is_correct": true, "display_order": 3 },
+      { "id": "tr-005-d", "question_id": "tr-005", "answer_text": "90-100 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-006",
+    "question_text": "What happens if you exceed the speed limit by more than 60 km/h in the UAE?",
+    "explanation": "Exceeding the speed limit by more than 60 km/h in the UAE results in a fine of AED 3,000, 23 black points, vehicle impounding for 60 days, and licence suspension for 6 months. It is considered a very serious offence.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limit", "penalties", "fines"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-006-a", "question_id": "tr-006", "answer_text": "A warning only", "is_correct": false, "display_order": 1 },
+      { "id": "tr-006-b", "question_id": "tr-006", "answer_text": "A small fine of AED 300", "is_correct": false, "display_order": 2 },
+      { "id": "tr-006-c", "question_id": "tr-006", "answer_text": "Heavy fine, black points, vehicle impounding, and licence suspension", "is_correct": true, "display_order": 3 },
+      { "id": "tr-006-d", "question_id": "tr-006", "answer_text": "A fine of AED 1,000 only", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-007",
+    "question_text": "On a highway with a minimum speed limit sign showing 100 km/h, what must you do?",
+    "explanation": "When a minimum speed limit is posted, you must drive at or above that speed unless traffic or road conditions require otherwise. Driving too slowly on a highway is dangerous and illegal.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 7,
+    "svg_illustration_key": "minimum_speed_100",
+    "image_url": null,
+    "tags": ["speed_limit", "highway", "minimum_speed"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-007-a", "question_id": "tr-007", "answer_text": "You may drive at any speed you wish", "is_correct": false, "display_order": 1 },
+      { "id": "tr-007-b", "question_id": "tr-007", "answer_text": "You must not drive below 100 km/h unless conditions require it", "is_correct": true, "display_order": 2 },
+      { "id": "tr-007-c", "question_id": "tr-007", "answer_text": "You must drive at exactly 100 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "tr-007-d", "question_id": "tr-007", "answer_text": "The sign is advisory and not mandatory", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-008",
+    "question_text": "What is the speed limit for heavy trucks on UAE highways unless otherwise posted?",
+    "explanation": "Heavy trucks and buses typically have a lower speed limit than cars on UAE highways, usually 100 km/h, and must stay in the right lanes. Always follow posted signs for specific vehicle categories.",
+    "module": "traffic_rules",
+    "vehicle_types": ["D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limit", "highway", "trucks"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-008-a", "question_id": "tr-008", "answer_text": "120 km/h, same as light vehicles", "is_correct": false, "display_order": 1 },
+      { "id": "tr-008-b", "question_id": "tr-008", "answer_text": "100 km/h", "is_correct": true, "display_order": 2 },
+      { "id": "tr-008-c", "question_id": "tr-008", "answer_text": "80 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "tr-008-d", "question_id": "tr-008", "answer_text": "60 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-009",
+    "question_text": "When driving in fog or heavy rain on a UAE highway, what should you do about speed?",
+    "explanation": "In poor visibility conditions such as fog or heavy rain, you must reduce your speed significantly below the posted limit, use low-beam headlights, and increase following distance. UAE law requires you to adjust speed to conditions.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limit", "weather", "fog", "safety"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-009-a", "question_id": "tr-009", "answer_text": "Maintain the posted speed limit", "is_correct": false, "display_order": 1 },
+      { "id": "tr-009-b", "question_id": "tr-009", "answer_text": "Reduce speed, use low-beam headlights, and increase following distance", "is_correct": true, "display_order": 2 },
+      { "id": "tr-009-c", "question_id": "tr-009", "answer_text": "Use high-beam headlights and drive faster to get through quickly", "is_correct": false, "display_order": 3 },
+      { "id": "tr-009-d", "question_id": "tr-009", "answer_text": "Stop on the highway and wait for conditions to improve", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-010",
+    "question_text": "What is the speed limit on internal roads within parking areas and compounds in the UAE?",
+    "explanation": "Within parking areas, compounds, and internal roads, the speed limit is typically 20-30 km/h. Drivers must be extra cautious due to pedestrians and vehicles reversing out of spaces.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 6,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limit", "parking", "internal_roads"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-010-a", "question_id": "tr-010", "answer_text": "40 km/h", "is_correct": false, "display_order": 1 },
+      { "id": "tr-010-b", "question_id": "tr-010", "answer_text": "20-30 km/h", "is_correct": true, "display_order": 2 },
+      { "id": "tr-010-c", "question_id": "tr-010", "answer_text": "50 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "tr-010-d", "question_id": "tr-010", "answer_text": "No speed limit applies inside parking areas", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-011",
+    "question_text": "At an uncontrolled intersection (no traffic lights or signs), who has the right of way in the UAE?",
+    "explanation": "At an uncontrolled intersection in the UAE, the vehicle approaching from the right has the right of way. This is known as the 'priority to the right' rule.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["right_of_way", "intersection"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-011-a", "question_id": "tr-011", "answer_text": "The vehicle coming from the left", "is_correct": false, "display_order": 1 },
+      { "id": "tr-011-b", "question_id": "tr-011", "answer_text": "The vehicle coming from the right", "is_correct": true, "display_order": 2 },
+      { "id": "tr-011-c", "question_id": "tr-011", "answer_text": "The larger vehicle always has priority", "is_correct": false, "display_order": 3 },
+      { "id": "tr-011-d", "question_id": "tr-011", "answer_text": "The vehicle that arrives first, regardless of direction", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-012",
+    "question_text": "When entering a roundabout in the UAE, who has the right of way?",
+    "explanation": "In the UAE, vehicles already inside the roundabout have the right of way. You must yield to traffic circulating in the roundabout before entering.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": "roundabout",
+    "image_url": null,
+    "tags": ["right_of_way", "roundabout"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-012-a", "question_id": "tr-012", "answer_text": "The vehicle entering the roundabout", "is_correct": false, "display_order": 1 },
+      { "id": "tr-012-b", "question_id": "tr-012", "answer_text": "Vehicles already inside the roundabout", "is_correct": true, "display_order": 2 },
+      { "id": "tr-012-c", "question_id": "tr-012", "answer_text": "The vehicle on the right", "is_correct": false, "display_order": 3 },
+      { "id": "tr-012-d", "question_id": "tr-012", "answer_text": "The larger vehicle", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-013",
+    "question_text": "What must you do when you hear or see an emergency vehicle (ambulance, police, fire) approaching from behind with sirens on?",
+    "explanation": "In the UAE, you must immediately move to the right side of the road and stop if necessary to allow emergency vehicles to pass. Failing to give way to emergency vehicles is a serious offence with heavy fines and black points.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["right_of_way", "emergency_vehicles"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-013-a", "question_id": "tr-013", "answer_text": "Continue at the same speed and let them go around you", "is_correct": false, "display_order": 1 },
+      { "id": "tr-013-b", "question_id": "tr-013", "answer_text": "Speed up to get out of the way", "is_correct": false, "display_order": 2 },
+      { "id": "tr-013-c", "question_id": "tr-013", "answer_text": "Move to the right side of the road and stop if necessary to let them pass", "is_correct": true, "display_order": 3 },
+      { "id": "tr-013-d", "question_id": "tr-013", "answer_text": "Move to the left side of the road", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-014",
+    "question_text": "At a pedestrian crossing with no traffic signal, who has the right of way?",
+    "explanation": "Pedestrians have the right of way at designated pedestrian crossings (zebra crossings) in the UAE. Drivers must stop and allow pedestrians to cross safely.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": "pedestrian_crossing",
+    "image_url": null,
+    "tags": ["right_of_way", "pedestrian", "crossing"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-014-a", "question_id": "tr-014", "answer_text": "The driver, because there is no signal", "is_correct": false, "display_order": 1 },
+      { "id": "tr-014-b", "question_id": "tr-014", "answer_text": "The pedestrian has the right of way", "is_correct": true, "display_order": 2 },
+      { "id": "tr-014-c", "question_id": "tr-014", "answer_text": "Whoever arrives first", "is_correct": false, "display_order": 3 },
+      { "id": "tr-014-d", "question_id": "tr-014", "answer_text": "Pedestrians must always wait for all cars to pass", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-015",
+    "question_text": "When two vehicles arrive at a four-way stop at the same time, who goes first?",
+    "explanation": "When two vehicles arrive at a four-way stop simultaneously, the vehicle on the right has priority. If facing each other, the vehicle going straight has priority over the one turning.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["right_of_way", "intersection", "stop_sign"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-015-a", "question_id": "tr-015", "answer_text": "The vehicle on the left", "is_correct": false, "display_order": 1 },
+      { "id": "tr-015-b", "question_id": "tr-015", "answer_text": "The vehicle on the right", "is_correct": true, "display_order": 2 },
+      { "id": "tr-015-c", "question_id": "tr-015", "answer_text": "The faster vehicle", "is_correct": false, "display_order": 3 },
+      { "id": "tr-015-d", "question_id": "tr-015", "answer_text": "The larger vehicle", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-016",
+    "question_text": "What should you do when a school bus stops to pick up or drop off children?",
+    "explanation": "In the UAE, you must stop when a school bus displays its stop sign and flashing lights to pick up or drop off children. You must not pass the bus until the stop sign is retracted and the bus begins moving.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["right_of_way", "school_bus", "children"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-016-a", "question_id": "tr-016", "answer_text": "Slow down and pass carefully", "is_correct": false, "display_order": 1 },
+      { "id": "tr-016-b", "question_id": "tr-016", "answer_text": "Stop and wait until the bus retracts its stop sign and moves", "is_correct": true, "display_order": 2 },
+      { "id": "tr-016-c", "question_id": "tr-016", "answer_text": "Honk to warn children and continue driving", "is_correct": false, "display_order": 3 },
+      { "id": "tr-016-d", "question_id": "tr-016", "answer_text": "Only stop if you are directly behind the bus", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-017",
+    "question_text": "When exiting a driveway or side road onto a main road, who has the right of way?",
+    "explanation": "Vehicles on the main road have the right of way. When exiting a driveway or side road, you must yield to all traffic on the main road before entering.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["right_of_way", "main_road", "junction"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-017-a", "question_id": "tr-017", "answer_text": "The vehicle exiting the driveway", "is_correct": false, "display_order": 1 },
+      { "id": "tr-017-b", "question_id": "tr-017", "answer_text": "The vehicle on the main road", "is_correct": true, "display_order": 2 },
+      { "id": "tr-017-c", "question_id": "tr-017", "answer_text": "Whoever flashes their lights first", "is_correct": false, "display_order": 3 },
+      { "id": "tr-017-d", "question_id": "tr-017", "answer_text": "The vehicle that is going straight", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-018",
+    "question_text": "When making a left turn at an intersection, who should you give way to?",
+    "explanation": "When turning left at an intersection, you must yield to oncoming traffic going straight or turning right. You must also yield to pedestrians crossing the road you are turning into.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["right_of_way", "intersection", "turning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-018-a", "question_id": "tr-018", "answer_text": "No one, the turning vehicle has priority", "is_correct": false, "display_order": 1 },
+      { "id": "tr-018-b", "question_id": "tr-018", "answer_text": "Only pedestrians", "is_correct": false, "display_order": 2 },
+      { "id": "tr-018-c", "question_id": "tr-018", "answer_text": "Oncoming traffic and pedestrians", "is_correct": true, "display_order": 3 },
+      { "id": "tr-018-d", "question_id": "tr-018", "answer_text": "Only vehicles coming from the right", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-019",
+    "question_text": "In which direction does traffic flow in a roundabout in the UAE?",
+    "explanation": "In the UAE, traffic flows in a counter-clockwise direction (to the right) in roundabouts, as the country drives on the right side of the road.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": "roundabout",
+    "image_url": null,
+    "tags": ["right_of_way", "roundabout", "direction"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-019-a", "question_id": "tr-019", "answer_text": "Clockwise (to the left)", "is_correct": false, "display_order": 1 },
+      { "id": "tr-019-b", "question_id": "tr-019", "answer_text": "Counter-clockwise (to the right)", "is_correct": true, "display_order": 2 },
+      { "id": "tr-019-c", "question_id": "tr-019", "answer_text": "Either direction depending on the roundabout", "is_correct": false, "display_order": 3 },
+      { "id": "tr-019-d", "question_id": "tr-019", "answer_text": "It depends on the time of day", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-020",
+    "question_text": "What is the penalty for not giving way to an emergency vehicle in the UAE?",
+    "explanation": "Failing to give way to emergency vehicles in the UAE results in a fine of AED 1,000 and 6 black points. This is a serious offence as it could endanger lives.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["right_of_way", "emergency_vehicles", "penalties"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-020-a", "question_id": "tr-020", "answer_text": "A verbal warning only", "is_correct": false, "display_order": 1 },
+      { "id": "tr-020-b", "question_id": "tr-020", "answer_text": "AED 200 fine", "is_correct": false, "display_order": 2 },
+      { "id": "tr-020-c", "question_id": "tr-020", "answer_text": "AED 1,000 fine and 6 black points", "is_correct": true, "display_order": 3 },
+      { "id": "tr-020-d", "question_id": "tr-020", "answer_text": "No penalty, it is just a recommendation", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-021",
+    "question_text": "On which side is it legal to overtake another vehicle in the UAE?",
+    "explanation": "In the UAE, overtaking must be done from the left side. Overtaking from the right side is illegal and carries a fine of AED 600 and 6 black points.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_discipline", "overtaking"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-021-a", "question_id": "tr-021", "answer_text": "From the right side", "is_correct": false, "display_order": 1 },
+      { "id": "tr-021-b", "question_id": "tr-021", "answer_text": "From the left side", "is_correct": true, "display_order": 2 },
+      { "id": "tr-021-c", "question_id": "tr-021", "answer_text": "From either side", "is_correct": false, "display_order": 3 },
+      { "id": "tr-021-d", "question_id": "tr-021", "answer_text": "From the right side only on highways", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-022",
+    "question_text": "What must you do before changing lanes?",
+    "explanation": "Before changing lanes, you must check mirrors, check your blind spot, signal your intention using indicators, and ensure the lane is clear. Sudden lane changes without signaling are dangerous and illegal.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_discipline", "changing_lanes", "indicators"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-022-a", "question_id": "tr-022", "answer_text": "Just check the rearview mirror and move", "is_correct": false, "display_order": 1 },
+      { "id": "tr-022-b", "question_id": "tr-022", "answer_text": "Check mirrors, blind spot, signal, and ensure the lane is clear", "is_correct": true, "display_order": 2 },
+      { "id": "tr-022-c", "question_id": "tr-022", "answer_text": "Honk the horn to alert other drivers and move", "is_correct": false, "display_order": 3 },
+      { "id": "tr-022-d", "question_id": "tr-022", "answer_text": "Flash your headlights and move quickly", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-023",
+    "question_text": "What is the purpose of the leftmost lane (fast lane) on a UAE highway?",
+    "explanation": "The leftmost lane on UAE highways is designated for overtaking and faster traffic. You should not stay in the left lane if you are driving at or below the speed of traffic in other lanes. Driving slowly in the fast lane is fineable.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_discipline", "fast_lane", "highway"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-023-a", "question_id": "tr-023", "answer_text": "For any vehicle to drive at any speed", "is_correct": false, "display_order": 1 },
+      { "id": "tr-023-b", "question_id": "tr-023", "answer_text": "For overtaking and faster-moving traffic", "is_correct": true, "display_order": 2 },
+      { "id": "tr-023-c", "question_id": "tr-023", "answer_text": "Only for emergency vehicles", "is_correct": false, "display_order": 3 },
+      { "id": "tr-023-d", "question_id": "tr-023", "answer_text": "For heavy trucks to use", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-024",
+    "question_text": "When merging onto a highway from an on-ramp, what should you do?",
+    "explanation": "When merging onto a highway, you should match the speed of highway traffic while on the ramp, use your indicator, check mirrors and blind spots, and merge smoothly when there is a safe gap.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_discipline", "merging", "highway"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-024-a", "question_id": "tr-024", "answer_text": "Stop at the end of the ramp and wait for a gap", "is_correct": false, "display_order": 1 },
+      { "id": "tr-024-b", "question_id": "tr-024", "answer_text": "Match highway speed, signal, check mirrors and blind spots, and merge when safe", "is_correct": true, "display_order": 2 },
+      { "id": "tr-024-c", "question_id": "tr-024", "answer_text": "Enter at any speed and force your way in", "is_correct": false, "display_order": 3 },
+      { "id": "tr-024-d", "question_id": "tr-024", "answer_text": "Drive slowly onto the highway so others can see you", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-025",
+    "question_text": "Is it legal to cross a solid white line to change lanes in the UAE?",
+    "explanation": "No, crossing a solid white line to change lanes is illegal in the UAE. Solid white lines indicate that lane changing is prohibited in that area. You may only change lanes where there are broken/dashed lines.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_discipline", "road_markings", "solid_line"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-025-a", "question_id": "tr-025", "answer_text": "Yes, it is always allowed", "is_correct": false, "display_order": 1 },
+      { "id": "tr-025-b", "question_id": "tr-025", "answer_text": "No, it is illegal to cross a solid white line", "is_correct": true, "display_order": 2 },
+      { "id": "tr-025-c", "question_id": "tr-025", "answer_text": "Yes, but only during daytime", "is_correct": false, "display_order": 3 },
+      { "id": "tr-025-d", "question_id": "tr-025", "answer_text": "Yes, if you signal first", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-026",
+    "question_text": "What is tailgating and why is it dangerous?",
+    "explanation": "Tailgating means driving too close to the vehicle in front, leaving insufficient stopping distance. It is extremely dangerous as it reduces reaction time and is a major cause of accidents in the UAE. It carries a fine of AED 400 and 4 black points.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_discipline", "tailgating", "following_distance"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-026-a", "question_id": "tr-026", "answer_text": "Driving alongside another vehicle; it blocks traffic flow", "is_correct": false, "display_order": 1 },
+      { "id": "tr-026-b", "question_id": "tr-026", "answer_text": "Following too closely behind another vehicle; it reduces reaction time", "is_correct": true, "display_order": 2 },
+      { "id": "tr-026-c", "question_id": "tr-026", "answer_text": "Driving too far behind another vehicle; it wastes road space", "is_correct": false, "display_order": 3 },
+      { "id": "tr-026-d", "question_id": "tr-026", "answer_text": "Driving in the lane next to a truck; it is in the truck's blind spot", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-027",
+    "question_text": "When is it permitted to overtake on the right side in the UAE?",
+    "explanation": "Overtaking from the right is generally prohibited in the UAE. However, it may be permitted in specific situations such as when the vehicle ahead is signaling a left turn, or on one-way streets with multiple lanes where traffic flow allows it.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_discipline", "overtaking", "exceptions"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-027-a", "question_id": "tr-027", "answer_text": "Whenever the left lane is busy", "is_correct": false, "display_order": 1 },
+      { "id": "tr-027-b", "question_id": "tr-027", "answer_text": "It is never permitted under any circumstances", "is_correct": false, "display_order": 2 },
+      { "id": "tr-027-c", "question_id": "tr-027", "answer_text": "When the vehicle ahead is turning left, or on certain one-way multi-lane roads", "is_correct": true, "display_order": 3 },
+      { "id": "tr-027-d", "question_id": "tr-027", "answer_text": "Only at night when traffic is light", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-028",
+    "question_text": "What is the safe following distance rule recommended in the UAE?",
+    "explanation": "The UAE recommends following the 2-second rule under normal conditions: maintain at least 2 seconds of distance behind the vehicle ahead. In wet or foggy conditions, this should be increased to 4 seconds or more.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_discipline", "following_distance", "safety"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-028-a", "question_id": "tr-028", "answer_text": "At least 2 seconds behind the vehicle ahead in normal conditions", "is_correct": true, "display_order": 1 },
+      { "id": "tr-028-b", "question_id": "tr-028", "answer_text": "Stay as close as possible to prevent others from cutting in", "is_correct": false, "display_order": 2 },
+      { "id": "tr-028-c", "question_id": "tr-028", "answer_text": "1 car length for every 10 km/h of speed", "is_correct": false, "display_order": 3 },
+      { "id": "tr-028-d", "question_id": "tr-028", "answer_text": "At least 10 seconds behind the vehicle ahead", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-029",
+    "question_text": "Where is it illegal to park your vehicle in the UAE?",
+    "explanation": "It is illegal to park on bridges, in tunnels, near fire hydrants, on pedestrian crossings, at bus stops, in front of entrances/exits, on sidewalks, and in no-parking zones marked with signs or yellow curb markings.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": "no_parking",
+    "image_url": null,
+    "tags": ["parking", "no_parking", "restrictions"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-029-a", "question_id": "tr-029", "answer_text": "Only in areas with no-parking signs", "is_correct": false, "display_order": 1 },
+      { "id": "tr-029-b", "question_id": "tr-029", "answer_text": "On bridges, tunnels, near fire hydrants, pedestrian crossings, and no-parking zones", "is_correct": true, "display_order": 2 },
+      { "id": "tr-029-c", "question_id": "tr-029", "answer_text": "Only on the highway", "is_correct": false, "display_order": 3 },
+      { "id": "tr-029-d", "question_id": "tr-029", "answer_text": "You can park anywhere as long as hazard lights are on", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-030",
+    "question_text": "What does a yellow curb marking indicate in the UAE?",
+    "explanation": "A yellow curb marking indicates a no-parking zone. You may not park or stop your vehicle along a yellow-painted curb.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "curb_markings", "no_parking"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-030-a", "question_id": "tr-030", "answer_text": "Free parking is available", "is_correct": false, "display_order": 1 },
+      { "id": "tr-030-b", "question_id": "tr-030", "answer_text": "Parking is reserved for taxis", "is_correct": false, "display_order": 2 },
+      { "id": "tr-030-c", "question_id": "tr-030", "answer_text": "No parking or stopping allowed", "is_correct": true, "display_order": 3 },
+      { "id": "tr-030-d", "question_id": "tr-030", "answer_text": "Short-term parking up to 15 minutes is allowed", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-031",
+    "question_text": "What is the penalty for parking in a disabled parking space without a valid permit?",
+    "explanation": "Parking in a disabled parking space without a valid permit is a serious offence in the UAE, resulting in a fine of AED 1,000. These spaces are reserved for people with disabilities who hold valid permits.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "disabled_parking", "penalties"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-031-a", "question_id": "tr-031", "answer_text": "A verbal warning", "is_correct": false, "display_order": 1 },
+      { "id": "tr-031-b", "question_id": "tr-031", "answer_text": "AED 1,000 fine", "is_correct": true, "display_order": 2 },
+      { "id": "tr-031-c", "question_id": "tr-031", "answer_text": "AED 100 fine", "is_correct": false, "display_order": 3 },
+      { "id": "tr-031-d", "question_id": "tr-031", "answer_text": "No penalty, it is just a courtesy", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-032",
+    "question_text": "When parallel parking, how far should your vehicle be from the curb?",
+    "explanation": "When parallel parking in the UAE, your vehicle should be no more than 30-40 cm from the curb. Parking too far from the curb can obstruct traffic and is considered improper parking.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 6,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "parallel_parking"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-032-a", "question_id": "tr-032", "answer_text": "No more than 30-40 cm from the curb", "is_correct": true, "display_order": 1 },
+      { "id": "tr-032-b", "question_id": "tr-032", "answer_text": "At least 1 metre from the curb", "is_correct": false, "display_order": 2 },
+      { "id": "tr-032-c", "question_id": "tr-032", "answer_text": "Distance from the curb does not matter", "is_correct": false, "display_order": 3 },
+      { "id": "tr-032-d", "question_id": "tr-032", "answer_text": "At least 50 cm but no more than 1 metre", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-033",
+    "question_text": "What should you do if your vehicle breaks down on a highway in the UAE?",
+    "explanation": "If your vehicle breaks down on a highway, you should turn on hazard lights, move the vehicle to the hard shoulder if possible, place a warning triangle at least 100 metres behind the vehicle, and call for roadside assistance. Stay away from the road.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "breakdown", "highway", "safety"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-033-a", "question_id": "tr-033", "answer_text": "Stay in the lane and wait for help", "is_correct": false, "display_order": 1 },
+      { "id": "tr-033-b", "question_id": "tr-033", "answer_text": "Turn on hazard lights, move to shoulder, place warning triangle, and call assistance", "is_correct": true, "display_order": 2 },
+      { "id": "tr-033-c", "question_id": "tr-033", "answer_text": "Try to fix the vehicle in the lane", "is_correct": false, "display_order": 3 },
+      { "id": "tr-033-d", "question_id": "tr-033", "answer_text": "Leave the vehicle and walk to the nearest exit", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-034",
+    "question_text": "Who must wear a seatbelt in a vehicle in the UAE?",
+    "explanation": "In the UAE, all occupants of a vehicle must wear seatbelts, including front and rear passengers. The driver is responsible for ensuring all passengers wear their seatbelts. Failure to wear a seatbelt results in a fine of AED 400 and 4 black points.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["seatbelt", "safety", "passengers"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-034-a", "question_id": "tr-034", "answer_text": "Only the driver", "is_correct": false, "display_order": 1 },
+      { "id": "tr-034-b", "question_id": "tr-034", "answer_text": "Only front seat occupants", "is_correct": false, "display_order": 2 },
+      { "id": "tr-034-c", "question_id": "tr-034", "answer_text": "All occupants including rear passengers", "is_correct": true, "display_order": 3 },
+      { "id": "tr-034-d", "question_id": "tr-034", "answer_text": "Seatbelts are optional in the UAE", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-035",
+    "question_text": "At what age can a child sit in the front seat of a vehicle in the UAE?",
+    "explanation": "In the UAE, children under 10 years of age (or shorter than 145 cm) are not allowed to sit in the front seat. They must be seated in the rear with appropriate restraints.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["seatbelt", "child_safety", "front_seat"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-035-a", "question_id": "tr-035", "answer_text": "Any age with a seatbelt", "is_correct": false, "display_order": 1 },
+      { "id": "tr-035-b", "question_id": "tr-035", "answer_text": "10 years or older (or taller than 145 cm)", "is_correct": true, "display_order": 2 },
+      { "id": "tr-035-c", "question_id": "tr-035", "answer_text": "12 years or older", "is_correct": false, "display_order": 3 },
+      { "id": "tr-035-d", "question_id": "tr-035", "answer_text": "5 years or older", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-036",
+    "question_text": "What type of car seat is required for infants under 1 year old in the UAE?",
+    "explanation": "Infants under 1 year old must be placed in a rear-facing child seat in the back of the vehicle. This provides the best protection for the baby's head, neck, and spine in case of a collision.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["seatbelt", "child_safety", "car_seat", "infant"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-036-a", "question_id": "tr-036", "answer_text": "A forward-facing car seat in the front", "is_correct": false, "display_order": 1 },
+      { "id": "tr-036-b", "question_id": "tr-036", "answer_text": "A rear-facing car seat in the back of the vehicle", "is_correct": true, "display_order": 2 },
+      { "id": "tr-036-c", "question_id": "tr-036", "answer_text": "A booster seat with the regular seatbelt", "is_correct": false, "display_order": 3 },
+      { "id": "tr-036-d", "question_id": "tr-036", "answer_text": "No car seat is required if held by an adult", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-037",
+    "question_text": "What is the fine for not securing children properly in a vehicle in the UAE?",
+    "explanation": "In the UAE, failing to properly secure children in an appropriate child restraint system results in a fine of AED 400 and 4 black points. Child safety in vehicles is taken very seriously.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["seatbelt", "child_safety", "penalties"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-037-a", "question_id": "tr-037", "answer_text": "A warning only", "is_correct": false, "display_order": 1 },
+      { "id": "tr-037-b", "question_id": "tr-037", "answer_text": "AED 400 fine and 4 black points", "is_correct": true, "display_order": 2 },
+      { "id": "tr-037-c", "question_id": "tr-037", "answer_text": "AED 50 fine", "is_correct": false, "display_order": 3 },
+      { "id": "tr-037-d", "question_id": "tr-037", "answer_text": "No penalty exists for this", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-038",
+    "question_text": "Is it safe for a child to be held on a passenger's lap during a car journey in the UAE?",
+    "explanation": "No, it is extremely dangerous and illegal for a child to be held on a passenger's lap during a car journey. In a collision, even at low speeds, the child could be crushed or thrown. Children must always be properly restrained in appropriate car seats.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["seatbelt", "child_safety", "lap"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-038-a", "question_id": "tr-038", "answer_text": "Yes, if the passenger is wearing a seatbelt", "is_correct": false, "display_order": 1 },
+      { "id": "tr-038-b", "question_id": "tr-038", "answer_text": "Yes, for short journeys only", "is_correct": false, "display_order": 2 },
+      { "id": "tr-038-c", "question_id": "tr-038", "answer_text": "No, it is dangerous and illegal; children must be in proper car seats", "is_correct": true, "display_order": 3 },
+      { "id": "tr-038-d", "question_id": "tr-038", "answer_text": "Yes, if the child is under 2 years old", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-039",
+    "question_text": "Is it legal to use a mobile phone while driving in the UAE?",
+    "explanation": "Using a handheld mobile phone while driving is illegal in the UAE. This includes making calls, texting, browsing, or any other use. Hands-free devices are permitted. The fine is AED 800 and 4 black points.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["mobile_phone", "distracted_driving"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-039-a", "question_id": "tr-039", "answer_text": "Yes, as long as you use one hand on the wheel", "is_correct": false, "display_order": 1 },
+      { "id": "tr-039-b", "question_id": "tr-039", "answer_text": "No, using a handheld phone while driving is illegal", "is_correct": true, "display_order": 2 },
+      { "id": "tr-039-c", "question_id": "tr-039", "answer_text": "Yes, but only for making calls", "is_correct": false, "display_order": 3 },
+      { "id": "tr-039-d", "question_id": "tr-039", "answer_text": "Yes, at traffic lights when the car is stationary", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-040",
+    "question_text": "What is the fine for using a mobile phone while driving in the UAE?",
+    "explanation": "The fine for using a handheld mobile phone while driving in the UAE is AED 800 and 4 black points. Distracted driving is a leading cause of accidents.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["mobile_phone", "penalties", "fines"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-040-a", "question_id": "tr-040", "answer_text": "AED 200", "is_correct": false, "display_order": 1 },
+      { "id": "tr-040-b", "question_id": "tr-040", "answer_text": "AED 800 and 4 black points", "is_correct": true, "display_order": 2 },
+      { "id": "tr-040-c", "question_id": "tr-040", "answer_text": "AED 400", "is_correct": false, "display_order": 3 },
+      { "id": "tr-040-d", "question_id": "tr-040", "answer_text": "A verbal warning for the first offence", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-041",
+    "question_text": "Which of the following is permitted while driving in the UAE?",
+    "explanation": "Using a hands-free system (Bluetooth, car speaker system) for calls is permitted while driving in the UAE. Handheld phone use of any kind is prohibited.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["mobile_phone", "hands_free"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-041-a", "question_id": "tr-041", "answer_text": "Texting at a red traffic light", "is_correct": false, "display_order": 1 },
+      { "id": "tr-041-b", "question_id": "tr-041", "answer_text": "Using a hands-free Bluetooth system for calls", "is_correct": true, "display_order": 2 },
+      { "id": "tr-041-c", "question_id": "tr-041", "answer_text": "Holding the phone to your ear for a quick call", "is_correct": false, "display_order": 3 },
+      { "id": "tr-041-d", "question_id": "tr-041", "answer_text": "Browsing social media while in slow traffic", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-042",
+    "question_text": "What is the legal blood alcohol limit for drivers in the UAE?",
+    "explanation": "The UAE has a zero-tolerance policy for drink driving. Any detectable level of alcohol in a driver's blood is illegal. Penalties include imprisonment, heavy fines, and deportation for expatriates.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["drunk_driving", "alcohol", "zero_tolerance"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-042-a", "question_id": "tr-042", "answer_text": "0.05% BAC", "is_correct": false, "display_order": 1 },
+      { "id": "tr-042-b", "question_id": "tr-042", "answer_text": "0.08% BAC", "is_correct": false, "display_order": 2 },
+      { "id": "tr-042-c", "question_id": "tr-042", "answer_text": "Zero tolerance - any detectable alcohol is illegal", "is_correct": true, "display_order": 3 },
+      { "id": "tr-042-d", "question_id": "tr-042", "answer_text": "0.02% BAC", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-043",
+    "question_text": "What are the penalties for driving under the influence of alcohol in the UAE?",
+    "explanation": "Driving under the influence of alcohol in the UAE can result in imprisonment, heavy fines, vehicle confiscation, licence suspension, and deportation for expatriates. The UAE has among the strictest drink-driving laws in the world.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["drunk_driving", "penalties", "alcohol"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-043-a", "question_id": "tr-043", "answer_text": "A small fine only", "is_correct": false, "display_order": 1 },
+      { "id": "tr-043-b", "question_id": "tr-043", "answer_text": "A warning for the first offence", "is_correct": false, "display_order": 2 },
+      { "id": "tr-043-c", "question_id": "tr-043", "answer_text": "Imprisonment, heavy fines, vehicle confiscation, and possible deportation", "is_correct": true, "display_order": 3 },
+      { "id": "tr-043-d", "question_id": "tr-043", "answer_text": "Licence suspension for 1 month only", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-044",
+    "question_text": "Is it legal to drive in the UAE after taking prescription medication that causes drowsiness?",
+    "explanation": "Driving under the influence of any substance that impairs driving ability, including prescription drugs that cause drowsiness, is illegal in the UAE. Drivers must check medication side effects and avoid driving if impaired.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["drunk_driving", "medication", "impaired_driving"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-044-a", "question_id": "tr-044", "answer_text": "Yes, prescription medication is always allowed", "is_correct": false, "display_order": 1 },
+      { "id": "tr-044-b", "question_id": "tr-044", "answer_text": "No, driving while impaired by any substance including medications is illegal", "is_correct": true, "display_order": 2 },
+      { "id": "tr-044-c", "question_id": "tr-044", "answer_text": "Yes, as long as you have the prescription with you", "is_correct": false, "display_order": 3 },
+      { "id": "tr-044-d", "question_id": "tr-044", "answer_text": "Yes, but only during daytime", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-045",
+    "question_text": "What is the minimum age to obtain a driving licence for a light vehicle in the UAE?",
+    "explanation": "The minimum age to obtain a driving licence for a light vehicle (car) in the UAE is 18 years. Learner permits can be obtained at 17 years and 6 months in some emirates to begin training.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["licence", "age_requirement"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-045-a", "question_id": "tr-045", "answer_text": "16 years", "is_correct": false, "display_order": 1 },
+      { "id": "tr-045-b", "question_id": "tr-045", "answer_text": "18 years", "is_correct": true, "display_order": 2 },
+      { "id": "tr-045-c", "question_id": "tr-045", "answer_text": "21 years", "is_correct": false, "display_order": 3 },
+      { "id": "tr-045-d", "question_id": "tr-045", "answer_text": "17 years", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-046",
+    "question_text": "How many black points lead to licence suspension in the UAE?",
+    "explanation": "Accumulating 24 black points within one year leads to licence suspension in the UAE. The suspension period depends on the number of times points have been accumulated. For a first offence, suspension is 3 months; second offence, 6 months; third offence, 1 year; and for a fourth offence, the licence is permanently revoked.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["licence", "black_points", "suspension"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-046-a", "question_id": "tr-046", "answer_text": "12 black points", "is_correct": false, "display_order": 1 },
+      { "id": "tr-046-b", "question_id": "tr-046", "answer_text": "24 black points", "is_correct": true, "display_order": 2 },
+      { "id": "tr-046-c", "question_id": "tr-046", "answer_text": "36 black points", "is_correct": false, "display_order": 3 },
+      { "id": "tr-046-d", "question_id": "tr-046", "answer_text": "48 black points", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-047",
+    "question_text": "What must you carry with you at all times while driving in the UAE?",
+    "explanation": "In the UAE, you must always carry your valid driving licence, vehicle registration card (Mulkiya), and valid vehicle insurance while driving. Failure to produce these when requested by police is an offence.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["licence", "documents", "registration"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-047-a", "question_id": "tr-047", "answer_text": "Only your driving licence", "is_correct": false, "display_order": 1 },
+      { "id": "tr-047-b", "question_id": "tr-047", "answer_text": "Driving licence, vehicle registration card, and valid insurance", "is_correct": true, "display_order": 2 },
+      { "id": "tr-047-c", "question_id": "tr-047", "answer_text": "Only your Emirates ID", "is_correct": false, "display_order": 3 },
+      { "id": "tr-047-d", "question_id": "tr-047", "answer_text": "No documents are required; everything is digital", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-048",
+    "question_text": "What is the maximum load height allowed for vehicles on UAE roads without a special permit?",
+    "explanation": "The maximum load height for vehicles on UAE roads is 4.5 metres from the ground without a special permit. Loads exceeding this height require special authorization and escort vehicles.",
+    "module": "traffic_rules",
+    "vehicle_types": ["C", "D", "E"],
+    "difficulty": 4,
+    "relevance_rank": 5,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["towing", "loading", "height_restriction"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-048-a", "question_id": "tr-048", "answer_text": "3.0 metres", "is_correct": false, "display_order": 1 },
+      { "id": "tr-048-b", "question_id": "tr-048", "answer_text": "4.5 metres from the ground", "is_correct": true, "display_order": 2 },
+      { "id": "tr-048-c", "question_id": "tr-048", "answer_text": "6.0 metres", "is_correct": false, "display_order": 3 },
+      { "id": "tr-048-d", "question_id": "tr-048", "answer_text": "There is no height restriction", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-049",
+    "question_text": "When towing a vehicle in the UAE, what must be displayed on the towed vehicle?",
+    "explanation": "When towing a vehicle in the UAE, the towed vehicle must have its hazard warning lights on (if operational), and a warning sign or triangle must be displayed. The tow connection must be secure and visible.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 5,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["towing", "warning_signs", "safety"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-049-a", "question_id": "tr-049", "answer_text": "Nothing special is required", "is_correct": false, "display_order": 1 },
+      { "id": "tr-049-b", "question_id": "tr-049", "answer_text": "Hazard warning lights and a warning sign or triangle", "is_correct": true, "display_order": 2 },
+      { "id": "tr-049-c", "question_id": "tr-049", "answer_text": "Only a white flag", "is_correct": false, "display_order": 3 },
+      { "id": "tr-049-d", "question_id": "tr-049", "answer_text": "Only low-beam headlights", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "tr-050",
+    "question_text": "Is it legal for a load to extend beyond the rear of a vehicle in the UAE?",
+    "explanation": "A load may extend beyond the rear of a vehicle, but it must not exceed the permitted overhang (typically no more than 1 metre for light vehicles). The extended load must be clearly marked with a red flag or light, and must not obstruct the driver's view or endanger other road users.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 5,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["towing", "loading", "overhang"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "tr-050-a", "question_id": "tr-050", "answer_text": "No, the load must never extend beyond the vehicle", "is_correct": false, "display_order": 1 },
+      { "id": "tr-050-b", "question_id": "tr-050", "answer_text": "Yes, without any restrictions", "is_correct": false, "display_order": 2 },
+      { "id": "tr-050-c", "question_id": "tr-050", "answer_text": "Yes, but within limits and marked with a red flag or light", "is_correct": true, "display_order": 3 },
+      { "id": "tr-050-d", "question_id": "tr-050", "answer_text": "Only if the vehicle is a truck", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-001",
+    "question_text": "According to EDCAD, what is the correct order of traffic precedence?",
+    "explanation": "EDCAD Lesson 1 teaches the Order of Traffic Precedence: 1) Police Officer, 2) Traffic Lights, 3) Signs and Markings, 4) Road Rules. A police officer's direction overrides all other traffic controls.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["traffic_precedence", "edcad", "priority"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-001-a", "question_id": "ed-tr-001", "answer_text": "Police Officer, Traffic Lights, Signs and Markings, Road Rules", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-001-b", "question_id": "ed-tr-001", "answer_text": "Traffic Lights, Signs and Markings, Police Officer, Road Rules", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-001-c", "question_id": "ed-tr-001", "answer_text": "Road Rules, Signs and Markings, Traffic Lights, Police Officer", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-001-d", "question_id": "ed-tr-001", "answer_text": "Signs and Markings, Road Rules, Traffic Lights, Police Officer", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-002",
+    "question_text": "If a police officer is directing traffic and the traffic light is green, who should you obey according to EDCAD?",
+    "explanation": "EDCAD Lesson 1 makes clear that a police officer has the highest precedence in traffic control. Even if the traffic light is green, you must follow the police officer's directions, as they override all other traffic controls.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["police_precedence", "edcad", "traffic_control"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-002-a", "question_id": "ed-tr-002", "answer_text": "The police officer — their directions override all other traffic controls", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-002-b", "question_id": "ed-tr-002", "answer_text": "The traffic light — green always means go", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-002-c", "question_id": "ed-tr-002", "answer_text": "Whichever is easier to see at the time", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-002-d", "question_id": "ed-tr-002", "answer_text": "Road signs take precedence over both", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-003",
+    "question_text": "According to EDCAD, which side of the road should you keep to when driving in two-way traffic?",
+    "explanation": "EDCAD Lesson 2 teaches that in the UAE, when driving in two-way traffic, you should keep to the RIGHT side of the road. This is the basic positioning rule for all driving in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["positioning", "two_way_traffic", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-003-a", "question_id": "ed-tr-003", "answer_text": "Keep to the right", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-003-b", "question_id": "ed-tr-003", "answer_text": "Keep to the left", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-003-c", "question_id": "ed-tr-003", "answer_text": "Drive in the center of the road", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-003-d", "question_id": "ed-tr-003", "answer_text": "Choose whichever side has less traffic", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-004",
+    "question_text": "According to EDCAD, how should you position your vehicle when preparing to turn right in two-way traffic?",
+    "explanation": "EDCAD Lesson 2 states that when turning right in two-way traffic, you should move your vehicle as far to the right as possible to allow other traffic to pass on your left.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["turning_right", "positioning", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-004-a", "question_id": "ed-tr-004", "answer_text": "Move as far right as possible", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-004-b", "question_id": "ed-tr-004", "answer_text": "Move towards the centerline", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-004-c", "question_id": "ed-tr-004", "answer_text": "Stay in the center of your lane", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-004-d", "question_id": "ed-tr-004", "answer_text": "Move to the left side of the road", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-005",
+    "question_text": "According to EDCAD, how should you position your vehicle when preparing to turn left in two-way traffic?",
+    "explanation": "EDCAD Lesson 2 teaches that when turning left in two-way traffic, you should move towards the centerline of the road so you can turn across the oncoming traffic lane when safe.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["turning_left", "positioning", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-005-a", "question_id": "ed-tr-005", "answer_text": "Move towards the centerline", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-005-b", "question_id": "ed-tr-005", "answer_text": "Move as far right as possible", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-005-c", "question_id": "ed-tr-005", "answer_text": "Stay in the right lane", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-005-d", "question_id": "ed-tr-005", "answer_text": "Stop and wait for all traffic to clear before positioning", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-006",
+    "question_text": "According to EDCAD, on a one-way road, which lane should you use for turning left or making a U-turn?",
+    "explanation": "EDCAD Lesson 2 teaches that on one-way traffic roads, the left lane should be used for turning left and making U-turns, while the right lane should be used for going straight or turning right.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["one_way_traffic", "lane_usage", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-006-a", "question_id": "ed-tr-006", "answer_text": "The left lane", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-006-b", "question_id": "ed-tr-006", "answer_text": "The right lane", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-006-c", "question_id": "ed-tr-006", "answer_text": "Any lane you prefer", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-006-d", "question_id": "ed-tr-006", "answer_text": "The center lane only", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-007",
+    "question_text": "According to EDCAD, from which lane must a U-turn be made?",
+    "explanation": "EDCAD Lesson 2 states that a U-turn must only be made from the extreme left lane. Making a U-turn from any other lane is dangerous and illegal.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["u_turn", "lane_rules", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-007-a", "question_id": "ed-tr-007", "answer_text": "The extreme left lane only", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-007-b", "question_id": "ed-tr-007", "answer_text": "Any lane is acceptable", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-007-c", "question_id": "ed-tr-007", "answer_text": "The right lane only", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-007-d", "question_id": "ed-tr-007", "answer_text": "The center lane", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-008",
+    "question_text": "According to EDCAD, why should you make eye contact with other drivers at junctions?",
+    "explanation": "EDCAD Lesson 2 emphasizes making eye contact with other drivers at junctions to confirm they have seen you and to understand their intentions. This helps prevent misunderstandings and collisions at intersections.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["eye_contact", "junctions", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-008-a", "question_id": "ed-tr-008", "answer_text": "To confirm they have seen you and to understand their intentions", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-008-b", "question_id": "ed-tr-008", "answer_text": "It is a courtesy but has no safety purpose", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-008-c", "question_id": "ed-tr-008", "answer_text": "To show that you have the right of way", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-008-d", "question_id": "ed-tr-008", "answer_text": "Eye contact is not recommended as it distracts from driving", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-009",
+    "question_text": "What helps you choose the correct lane at junctions according to EDCAD?",
+    "explanation": "EDCAD Lesson 2 teaches that road markings help drivers choose the correct lane at junctions. Lane arrows, road markings, and signs guide drivers into the proper lane for their intended direction.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["road_markings", "junctions", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-009-a", "question_id": "ed-tr-009", "answer_text": "Road markings and lane arrows", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-009-b", "question_id": "ed-tr-009", "answer_text": "Following the car in front of you", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-009-c", "question_id": "ed-tr-009", "answer_text": "Always using the right lane at all junctions", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-009-d", "question_id": "ed-tr-009", "answer_text": "GPS navigation only", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-010",
+    "question_text": "According to EDCAD, on a one-way road, which lane should you use for going straight or turning right?",
+    "explanation": "EDCAD Lesson 2 states that on one-way traffic roads, the right lane should be used for going straight or turning right, while the left lane is reserved for turning left and U-turns.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["one_way_traffic", "lane_usage", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-010-a", "question_id": "ed-tr-010", "answer_text": "The right lane", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-010-b", "question_id": "ed-tr-010", "answer_text": "The left lane", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-010-c", "question_id": "ed-tr-010", "answer_text": "Any lane you choose", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-010-d", "question_id": "ed-tr-010", "answer_text": "You must always stay in the middle lane", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-011",
+    "question_text": "According to EDCAD, what is the speed limit in built-up areas?",
+    "explanation": "EDCAD Lesson 3 teaches that the speed limit in built-up areas is 80 km/h unless otherwise posted. Outside city limits it increases to 100 km/h, on major roads 140 km/h, and some roads allow up to 160 km/h.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limits", "built_up_areas", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-011-a", "question_id": "ed-tr-011", "answer_text": "80 km/h", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-011-b", "question_id": "ed-tr-011", "answer_text": "60 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-011-c", "question_id": "ed-tr-011", "answer_text": "100 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-011-d", "question_id": "ed-tr-011", "answer_text": "120 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-012",
+    "question_text": "According to EDCAD, what is the speed limit outside city limits?",
+    "explanation": "EDCAD Lesson 3 states that outside city limits the speed limit is 100 km/h. Built-up areas have a limit of 80 km/h, major roads allow 140 km/h, and some roads permit up to 160 km/h.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limits", "outside_city", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-012-a", "question_id": "ed-tr-012", "answer_text": "100 km/h", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-012-b", "question_id": "ed-tr-012", "answer_text": "80 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-012-c", "question_id": "ed-tr-012", "answer_text": "120 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-012-d", "question_id": "ed-tr-012", "answer_text": "140 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-013",
+    "question_text": "According to EDCAD, what is the recommended following distance rule for normal driving conditions?",
+    "explanation": "EDCAD Lesson 3 teaches the three-second rule for maintaining a safe following distance. Pick a fixed point ahead, and when the vehicle in front passes it, count at least three seconds before you reach the same point.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["following_distance", "three_second_rule", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-013-a", "question_id": "ed-tr-013", "answer_text": "The three-second rule", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-013-b", "question_id": "ed-tr-013", "answer_text": "The one-car-length rule", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-013-c", "question_id": "ed-tr-013", "answer_text": "Stay as close as possible to see the road ahead", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-013-d", "question_id": "ed-tr-013", "answer_text": "The ten-second rule", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-014",
+    "question_text": "According to EDCAD, what factors should you consider when adapting your speed?",
+    "explanation": "EDCAD Lesson 3 lists six factors to consider when adapting speed: traffic conditions, weather, visibility, load weight, road condition, and your own abilities. Speed should always be adjusted based on these factors.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_adaptation", "driving_factors", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-014-a", "question_id": "ed-tr-014", "answer_text": "Traffic, weather, visibility, load weight, road condition, and your abilities", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-014-b", "question_id": "ed-tr-014", "answer_text": "Only the posted speed limit sign", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-014-c", "question_id": "ed-tr-014", "answer_text": "The type of vehicle you are driving only", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-014-d", "question_id": "ed-tr-014", "answer_text": "How late you are to your destination", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-tr-015",
+    "question_text": "According to EDCAD, what is the maximum speed limit on some major roads in the UAE?",
+    "explanation": "EDCAD Lesson 3 states that some major roads in the UAE allow speeds of up to 160 km/h. The hierarchy is: built-up 80 km/h, outside city 100 km/h, major roads 140 km/h, and some roads 160 km/h.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limits", "major_roads", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-tr-015-a", "question_id": "ed-tr-015", "answer_text": "160 km/h", "is_correct": true, "display_order": 1 },
+      { "id": "ed-tr-015-b", "question_id": "ed-tr-015", "answer_text": "140 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "ed-tr-015-c", "question_id": "ed-tr-015", "answer_text": "200 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "ed-tr-015-d", "question_id": "ed-tr-015", "answer_text": "120 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  }
+]

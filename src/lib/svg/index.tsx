@@ -1,0 +1,63 @@
+import type { FC, SVGProps } from 'react'
+import {
+  StopSign,
+  SpeedLimit60,
+  SpeedLimit80,
+  SpeedLimit100,
+  SpeedLimit120,
+  NoEntry,
+  NoParking,
+  NoPassing,
+  NoUTurn,
+  NoHorn,
+  GiveWay,
+  Roundabout,
+  PedestrianCrossing,
+  SchoolZone,
+  TrafficLight,
+  RoadNarrows,
+  SharpCurveRight,
+  SharpCurveLeft,
+  SteepHill,
+  SlipperyRoad,
+  MergeLanes,
+  SpeedBump,
+  OneWay,
+  ParkingSign,
+  HospitalSign,
+  FuelStation,
+} from './traffic-signs'
+
+const SVG_MAP: Record<string, FC> = {
+  sign_stop: StopSign,
+  sign_speed_limit_60: SpeedLimit60,
+  sign_speed_limit_80: SpeedLimit80,
+  sign_speed_limit_100: SpeedLimit100,
+  sign_speed_limit_120: SpeedLimit120,
+  sign_no_entry: NoEntry,
+  sign_no_parking: NoParking,
+  sign_no_passing: NoPassing,
+  sign_no_u_turn: NoUTurn,
+  sign_no_horn: NoHorn,
+  sign_give_way: GiveWay,
+  sign_roundabout: Roundabout,
+  sign_pedestrian_crossing: PedestrianCrossing,
+  sign_school_zone: SchoolZone,
+  sign_traffic_light: TrafficLight,
+  sign_road_narrows: RoadNarrows,
+  sign_sharp_curve_right: SharpCurveRight,
+  sign_sharp_curve_left: SharpCurveLeft,
+  sign_steep_hill: SteepHill,
+  sign_slippery_road: SlipperyRoad,
+  sign_merge_lanes: MergeLanes,
+  sign_speed_bump: SpeedBump,
+  sign_one_way: OneWay,
+  sign_parking: ParkingSign,
+  sign_hospital: HospitalSign,
+  sign_fuel_station: FuelStation,
+}
+
+export function getQuestionIllustration(key: string | null): FC | null {
+  if (!key) return null
+  return SVG_MAP[key] ?? null
+}

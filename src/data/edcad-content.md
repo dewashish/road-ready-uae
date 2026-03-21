@@ -1,0 +1,649 @@
+# EDCAD E-Learning Content - UAE Light Vehicle Training Course
+
+> Extracted from https://elearning.edcad.ae - Official EDC E-Learning Portal
+> Note: Slide 1 (Part 01) content extracted for each lesson. Remaining slides (Parts 02-04) are behind video timers and require manual progression.
+
+---
+
+## LESSON 2 - DRIVING INSIDE CITY LIMITS
+
+### Part 01 (Slide 1 of 3)
+
+**DRIVING INSIDE CITY LIMITS**
+
+**Inside city limits**
+
+While driving inside cities driver will have to deal with:
+
+- Junctions.
+- Intersections.
+- Roundabouts.
+- Traffic lights.
+- Pedestrians crossings.
+
+And most importantly driver should know the basic position while dealing with one-way traffic and two-way traffic.
+
+**BASIC POSITIONING WHILE GOING STRAIGHT**
+
+**IN TWO WAY TRAFFIC**
+
+Keep to the right, leaving plenty of space for overtaking cars.
+
+While dealing with two way traffic the basic position of the vehicles should be towards right, by keeping right, driver would provide sufficient gap for the behind road users if they tend to overtake.
+
+Moreover, by keeping right, driver will have sufficient distance with the oncoming vehicles too.
+
+**BASIC POSITIONING WHILE CONTINUING STRAIGHT AHEAD**
+
+**AND THERE ARE PARKED CARS ON THE ROAD**
+
+While dealing with two-way traffic for going straight the basic position has to be towards right. Even though you are negotiating with parked cars.
+
+If in case there are parked cars on the right side of the road, check the mirrors, blind spots, turn on the left indicator and overtake, if there are no oncoming vehicles. once you have overtaken then you need to move back to the right side of the road in order to maintain the basic position for going straight.
+
+**BASIC POSITIONING WHEN TURNING RIGHT**
+
+- Position your car and turn off, keeping as far to the right as possible.
+- This not only makes it easier for the vehicles to your left but also prevents drivers from creeping up on your right.
+
+Whenever you tend to turn right from the junction, you will have to move towards right, so that you could show your intentions by your positioning to other road users.
+
+**BASIC POSITIONING WHEN TURNING LEFT**
+
+Drivers intending to turn left on two-way roads should keep their vehicles close to the center-line.
+
+While turning left in any **two-way road** junction ahead the driver should move the vehicle towards the centerline.
+
+While turning left the turning rule is applicable, which means that you have to stop and give way to the oncoming vehicles, **if there is any**. Then the **following drivers** who are continuing straight would have sufficient space for passing from right, along with that your position could clear your intentions of turning left as well.
+
+**POSITIONING WHEN TURNING RIGHT OR LEFT**
+
+To avoid accidents, you must position your car correctly.
+
+While dealing with one-way traffic in serval lanes you should always keep your car in the center of the Lane.
+
+For going straight and turning right the extreme right lane should be **preferred**.
+
+For turning left and making U turns the extreme left lane should be used.
+
+Road markings (arrows) help you to choose the correct lane for different directions **at** junctions.
+
+**POSITIONING IN ONE-WAY TRAFFIC**
+
+On one-way traffic you only drive in one direction.
+
+- To turn left from a one-way street, keep to the extreme left lane.
+
+In one-way traffic if you have intended to change direction in a short distance then you should position your vehicle in the correct lane well in advance.
+
+If you have intended to continue straight, then join the extreme right lane.
+
+**POSITIONING YOUR VEHICLE**
+
+- In such junction where two vehicles are turning left at a time and the space is not wide enough for both of them to turn left, you should have an eye contact with the other drivers, and allow them to turn first.
+- If your view is not clear, then don't take risk of turning.
+
+**POSITIONING YOUR VEHICLE IN SEVERAL LANES**
+
+Whenever you are about to deal with the junction ahead choose the correct lane for your desired direction well in advance.
+
+- For turning right be in the extreme right lane.
+- For going straight continue in the extreme right lane (which is considered the safest lane).
+- For turning left move to the extreme left lane.
+- U turn is only permitted from the Extreme left lane.
+
+---
+
+## LESSON 3 - DRIVING OUTSIDE CITY LIMITS
+
+### Part 01 (Slide 1 of 3)
+
+**DRIVING OUTSIDE CITY LIMITS.**
+
+When you intend to drive for a long distance outside city, you will drive on highway and motorway. The points given below are to be considered before and during the journey till you reach your destination.
+
+- Speed Limits.
+- Speed blindness.
+- Tunnel vision.
+- Safety distance.
+- Entering and exiting highways.
+- Overtaking.
+- Dirt roads & off roads.
+
+**Safety check before traveling**
+
+Check your car systematically, and Take in your account:
+
+- The weather, destination & state of the road.
+- Driver's manual gives advices & instructions.
+- You should make a systematic check before traveling by memorizing the acronym "POWER" (Petrol, Oil, Water, Electric and Rubber).
+- Consider other factors that could affect your journey.
+
+**Things to consider**
+
+- Speed limits.
+- Adapting your speed.
+- Speed blindness.
+- Tunnel vision.
+- Road markings.
+- Positioning.
+- Bends.
+
+Three seconds rule.
+
+whenever driving outside city limits.
+
+**Speed limits**
+
+Never exceed the speed limit:
+
+- In built up areas it is usually 80 km/h.
+- In outside built up areas is 100 km/h.
+- Speed limit on major roads is 140 km/h.
+
+**Some roads in UAE have 160 km/h speed limit**
+
+The maximum speed limit is 140 km/h, but on some roads the speed limit could be 160, so follow the speed limit signs.
+
+**Adapting your speed**
+
+You must adapt your speed according to:
+
+- Hidden dangers.
+- The vehicle.
+- The roads.
+- Driver's limitations.
+
+1) Adapt your speed according to:
+
+- The state of the traffic.
+- The weather.
+- The visibility.
+- The weight of your load.
+- The condition of the road and your vehicle.
+- Your abilities.
+
+2) Hidden dangers:
+
+You should be able to avoid dangers on the road whether potential or real.
+
+3) Driver's limitations:
+
+Do not overestimate your driving abilities.
+
+Keep your car in control at all times.
+
+4) The vehicle:
+
+If you borrow a vehicle, you will be unfamiliar with it, so drive with more concentration.
+
+5) The road:
+
+Adapt your speed according to the condition of the road.
+
+On gravel roads braking distance is much longer than on asphalt roads.
+
+If you drive on wet asphalt road, reduce your speed.
+
+**Speed blindness**
+
+Speed blindness is the tendency to underestimate your speed of travel.
+
+To avoid:
+
+the speed blindness keep on checking the speedometer.
+
+- While driving inside cities you won't be able to drive in a constant speed, but being outside cities as there are no obstacles to affect your vehicle speed, you mostly drive in a constant speed. As you drive on, you get used to the high speed and, at times, you may drive faster unwittingly, or when you need to slow down you apply the brake, the speed seems to be reduced enough, but when you look at the speed meter it shows a higher speed than what you imagined. These conditions are known as speed blindness.
+- To avoid speed blindness, the driver should keep on checking the speed meter.
+
+---
+
+## LESSON 4 - DRIVING UNDER DIFFICULT CONDITIONS
+
+### Part 01 (Slide 1 of 3)
+
+**DRIVING UNDER**
+
+**DIFFICULT CONDITIONS**
+
+Adverse weather is considered always difficult in driving, such as;
+
+- Hot climate.
+- Fogy condition.
+- Rainy day.
+- High wind.
+- Driving at dark.
+
+**Driving under sunshine in hot weather**
+
+Your vehicle:
+
+Check tires inflation.
+
+Correct inflation.
+
+Under inflation.
+
+Over inflation
+
+Keep the windscreen clean.
+
+Precautions before starting to drive.
+
+- Tires inflation should be checked before you start your journey, when they are 'cold'.
+- Check the level in the windscreen washer reservoir and top up if necessary.
+- Keep the windscreen clean.
+- Vision will be seriously impaired if your wipers are worn out.
+- Oil and water can make the hot surface of the road slippery and dangerous, particularly if there is a sudden rain shower after a long dry spell. Take extra care: watch your speed and keep your distance.
+
+**Dealing with the extreme summer (Heat & sunshine)**
+
+- Avoid looking directly into the sun.
+- Take plenty of breaks and refreshments on long trips.
+- If you feel sleepy stop and rest where it's safe.
+
+How to drive safely in heat and sun?
+
+- Constant sun in your eyes can be exhausting on a long journey and may ill affect your concentration.
+- Even if you do not feel the need, the correct sunglasses can reduce the glare and keep your eyes efficient for longer.
+- Never stop on the hard shoulder of a motorway to take rest. Instead, use the service areas or get off the hard shoulder.
+
+**A large mid-day meal**
+
+After a large mid-day meal take rest or sleep before starting the long drive.
+
+- Do not eat a heavy meal before a long drive.
+- Have a light meal or you can have snacks and refreshments.
+- Heavy meal will make you feel drowsy and sleepy.
+
+**Things to avoid while driving**
+
+- Smoking.
+- Driving when feeling sleepy.
+- Eating.
+- Looking directly into the sun.
+
+Smoking deposits a thin film on the windows of the car, which makes a glare on the windscreen and obstruct your vision.
+
+If the ash fell off, it will distract you and can cause a collision.
+
+Smoking acts as a physical distraction while driving, as the driver removes his hands from the steering wheel.
+
+**Driving safely in the dark**
+
+Driving in the dark requires more concentration because visibility is restricted.
+
+It is important to be more alert while driving in the dark.
+
+**Your eyes and speed at night**
+
+- Humans are much more limited by conditions at night.
+- You can't see as far as you can in daylight.
+- Less information available.
+- At night it's easy to misjudge speed and distances.
+- **Remember:**
+- driving at night is not like driving in daytime.
+
+Don't drive fast.
+
+Limitation of vision at night:
+
+- Humans do not have the visual acuity of a hawks, nor can they see at night, the way cats can.
+- Give your eyes a minute or two to adjust to the darkness, particularly when you are coming out of a brightly lit area or building.
+- If you cannot stop safely within the range of your lights, you are going too fast.
+
+**Vehicle's position when driving in dark**
+
+- Drive closer to the centerline.
+- If you meet an oncoming vehicle, drive halfway between the center and the edge line.
+- Don't drive on the hard shoulder.
+
+**Always expect:**
+
+- Pedestrians.
+- Cyclists.
+- Children.
+- Other unprotected road users.
+
+While driving on two way traffic, the oncoming vehicle head lights may dazzle you.
+
+---
+
+## LESSON 5 - SOME CRITICAL SITUATIONS
+
+### Part 01 (Slide 1 of 3)
+
+**Some critical situations**
+
+In UAE the roads are smooth and the vehicles are also in very good condition, but still accidents are happening in numbers.
+
+Most of the accidents take place due to the immature behavior of drivers, The Drivers are responsible for most of the road traffic accidents.
+
+**What are the main causes of traffic accidents**
+
+- **Speed.**
+- **Carelessness.**
+- **Lack of road manners.**
+
+Speeding is considered to be the principal cause of more than half of all road accidents in the UAE.
+
+The second main cause of road traffic accidents is carelessness; carelessness means to keep yourself busy with anything else instead of paying attention to the driving.
+
+The third main cause of road traffic accidents is lack of adherence to the rules of the road. For example, motorists get killed because they do not fasten their seat belts, do not consider other road users, ignore the speed limits or lack of road courtesy to other drivers.
+
+Some Drivers are not aware of the limits to their own freedoms on the road, and as a result drive recklessly and end up hurting others. The attitude of some motorists is that it is their right to drive the way they want to, forgetting that the road is not their private property.
+
+**DIFFERENT TYPES OF ACCIDENT**
+
+**Single vehicle accidents**
+
+They account for the most serious injuries as compared with other types of road accident.
+
+- In a single vehicle accident, the driver will be held responsible.
+- Mainly single accident takes place due to high speed. Carelessness and lack of road manners could also be the factors behind it.
+
+**Crossroad accidents**
+
+The causes of accidents at an intersection or junction are **usually because** one or **both of the drivers did** the following:
+
+- Ignored the rules of the road.
+- Failed to notice road signs.
+- Was driving too fast for the circumstances.
+- Expected others to abide by the rules of the road and was therefore unprepared for a crisis.
+- Failed to look out for other road users.
+- Misjudged the distance to the junction.
+
+**Turning accidents**
+
+**Common causes of a collision between two vehicles while turning are because one or both of the drivers did the following:**
+
+- Misjudged the distance of an oncoming vehicle.
+- Failed to follow the road rules.
+
+Accidents between motor vehicles are accounted for more than one fourth of all accidents with personal injuries.
+
+**Oncoming traffic accidents**
+
+**Common causes of a head-on collision are because one or both of the drivers did the following:**
+
+- Was not expecting to meet another vehicle and braked so hard that the wheels got locked.
+- Was driving too fast.
+- Not maintaining the basic position.
+
+**Overtaking accidents**
+
+**Common causes of an overtaking accident are because the driver involved did the following:**
+
+- Decided to overtake even though his or her view of the road ahead was restricted.
+- Misjudged the speed and distance of the oncoming vehicle.
+- Overestimated his or her own car's acceleration capacity and forgot that the other driver might also decide to accelerate.
+- Unexpectedly encountered an oncoming vehicle when trying to pass a long-bodied lorry or trailer.
+- Misjudged the state of the road.
+
+**Pedestrian crossing accidents**
+
+**Common causes of accidents involving pedestrians are because the driver did the following:**
+
+- Did not notice or ignored the pedestrian on the other side of the crossing.
+- Had his or her view obstructed, perhaps by the doorpost or blind spot of the car.
+- Was travelling too fast.
+- Neglected to scan the road.
+- Was overtaking a vehicle that had stopped to allow a pedestrian to cross the street.
+
+---
+
+## LESSON 6 - DRIVING BEHAVIOR / HUMAN ROAD MANNERS
+
+### Part 01 (Slide 1 of 4)
+
+**Driving behavior or human road manners**
+
+- You cannot **get a driver's license** until **the** age **of** 18 **because people below 18 are not assumed to be sufficiently matured.**
+- The purpose of this lesson is to know the consequences **of negative** attitude while driving.
+
+**EMOTIONAL MATURITY**
+
+- Young, inexperienced drivers are involved in road accidents more often than their older more practiced colleagues.
+- This is because newly fledged drivers have insufficient experience and are insufficiently mature.
+
+- Good driving requires experience and a good deal of skill.
+- The driver must put himself or herself in the place of other road users, and must be resourceful and foresighted.
+- But it takes only a small mistake for everything to go wrong, just a little too much pressure on the accelerator and the driver's capacity is overreached - and he/she makes a mistake.
+- The young people generally find it more difficult to rectify their mistakes.
+
+**DEVELOPMENT OF MORAL CONDUCT**
+
+- The ego stage.
+- The rule stage.
+- The community stage.
+
+- Most children think primarily of themselves and pay little attention to the desires and needs of others. This is known as the ego stage of development.
+- As the child grows up, egoism gives way to an understanding that for human society to function properly there must be a set of rules. The child accepts and tries to abide by these rules. This is called the rule stage.
+- Later, with experience, it is possible to reach an even higher level: a level characterized by an increased respect for and understanding of other people. This is called the community stage.
+
+**Immaturity**
+
+- An immature driver sees his car as a source of power that would strengthen his personality.
+
+Immaturity helps boost the accident statistics. It makes accidents more frequent and often more severe.
+
+An immature driver, who wants to demonstrate the 'authority' or 'superiority', takes the car as a kind of instrument with vast resources of power that will enhance the personality,
+
+**ROLE MODELS**
+
+- For many young people it is hard to see the difference between the reality of every day's life & the exciting world of fantasy.
+
+Since a young driver's outlook and behavior are to a large extent fashioned by their ideals it is essential that young drivers also understand the basics of acceptable social behavior, responsibility, tolerance, and consideration for others.
+
+Today advertising, films and comic strips, deceptive and distortive as they often are, have made it difficult for many people to distinguish between the realities of everyday life and the exciting world of fantasy.
+
+Sadly, for many young people the hero always wins. And once young people believe themselves to be invulnerable, they tend to disregard the risks they run in traffic.
+
+**RESPONSIBILITY**
+
+A safe driver is not irritated by other people's mistakes instead, he adapts to them.
+
+- Bear in mind that other road users beside ourselves can sometimes make mistakes.
+- In today's society we enjoy a number of rights; but we have many obligations as well and if society is to function properly as a whole, each individual must maintain a sense of responsibility and show respect for other people.
+- How will would the traffic flow if everyone drove according to their own rules and without regard for other road users?
+
+---
+
+## LESSON 7 - GETTING TO KNOW YOUR CAR
+
+### Part 01 (Slide 1 of 4)
+
+**The basic - Getting to know your car**
+
+**The driver must know what the basic components in the car are**
+
+- The body
+- Chassis
+- The engine
+- The transmission system
+- The braking system
+- The wheels
+- Other auxiliaries systems
+
+How these components work together in order to keep all these parts maintained in good condition for the safety of drivers and passengers.
+
+**Driver's manual**
+
+*The driver's manual gives you advice and instructions on how to:*
+
+- Read the information on the dashboard.
+- Adjust the heating and ventilation.
+- Locate the fuses.
+- Check your tire size and pressure.
+- Change wheels.
+- Carry out service and maintenance.
+- Select the correct type of fuel.
+
+- Most car owners ignore the driver's manual and simply expect the car to take care of itself, or expect technicians to take care of it.
+- To keep your car safe, comfortable and environmentally sound, you will need to have it serviced at regular intervals.
+- If you do not follow the manufacturer's recommendations, you may end up with a large bill for repairs.
+
+**Use your senses**
+
+- HEAR.
+- SEE.
+- SMELL.
+- FEEL.
+
+- If you hear noise emanating from the brakes or the engine while it is idling, it is an indication that there is a problem.
+- In terms of seeing, there is the instrument panel on the dashboard, the condition of the tires and fluid levels under the hood.
+- You can also feel vibration in the car as a shock or a jerk when you are shifting gears, you may feel it when you are traveling at high speeds, or you may feel a vibration in the steering wheel when you brake.
+- A fuel leak can be detected by the smell.
+
+**VEHICLES COMPONENTS**
+
+- Car Body
+- Engine
+- Light
+- Front Suspension
+- Gear Box
+- Brake Pads
+- Steering
+- Rear Axle
+- Exhaust System
+- Fuel Tank
+
+The engine, the powerhouse of the vehicle, is usually mounted at the front and runs on petrol, diesel or gas. Most passenger cars run on petrol. Although other types of fuel do exist, most are still in the experimental stage and are not in common use.
+
+**Lubrication system**
+
+Oil functions:
+
+- Lubrication.
+- Cooling.
+- Cleaning.
+- Sealing.
+
+- **Lubrication** reduces friction and prevents the parts from wearing down.
+- **Cooling**: The oil absorbs the heat and radiates it to the outside, cooling the engine down.
+- **Sealing**: The coating of oil between the cylinder walls and the pistons seals the combustion chamber to prevent any leaking or loss of power.
+- **Cleaning**: The oil washes the sludge and soot that sticks to the interior surfaces of the engine, keeping it clean at all times.
+- Check the oil with the dipstick and top it up if necessary.
+- Change the oil and oil filter as instructed in the driver's manual.
+
+**The cooling system**
+
+**Function:**
+
+To keep the engine at correct temperature by removing excess heat.
+
+**Coolant prevents rust inside the engine**
+
+- The basic parts in the cooling system and how it works.
+- A coolant liquid of glycol and water also helps prevent rust inside the engine.
+- An engine running at the correct temperature will also save on fuel.
+
+**What to do if the engine overheats?**
+
+- Stop the car.
+- Switch off the engine or leave it in idling as per the condition
+- Wait until temperature goes down.
+- Be careful when opening the radiator cap.
+
+Remedy the fault
+
+- Check and adjust the drive-belt.
+- Change the fuse of the electric cooling fan.
+- Fill the radiator with warm water.
+
+- Top up the radiator with warm water as filling a hot radiator with cold water can easily crack the cylinder block.
+- If you need to add water while the engine is still hot, pour slowly while the engine is running in neutral or park.
+
+---
+
+## LESSON 8 - SAFETY WHEN DRIVING
+
+### Part 01 (Slide 1 of 2)
+
+**Safety when driving**
+
+Many drivers do not know the proper use of built-in safety systems in modern cars. The purpose of this lesson is to explain the proper use of all the safety equipment.
+
+**Car Safety**
+
+**Vehicle's shell as a protector.**
+
+The front and back sections of the bodywork will have deformation zones, which absorb much of the force of an impact in the event of an accident.
+
+The impact of a collision on the occupants of a modern car will therefore be lower than it will be for older models, or even for big 4x4 cars.
+
+Nevertheless, injuries to the upper body and head in the case of rollover accidents.
+
+**How to adjust the car seat?**
+
+Adjust your seat in such a way that you can drive in comfort and be able to maneuver the car effortlessly.
+
+- When you adjust the seat, make sure that your knees and elbows are slightly bent to use the car-controls with ease.
+- Your shoulders should be touching the back of the seat when you turn the steering wheel.
+
+Adjusting the car seat properly will help in minimizing the injuries in the event of collision where your car is hit from behind.
+
+**How to adjust the head restraint?**
+
+The head restraint should reach to the top of your head.
+
+The head restraint is designed to reduce the risk of head and neck injury.
+
+- Adjusting the head restraint will **protect you from** whiplash injuries.
+- Sit close to the backrest and head restraint.
+
+**Seat-belts save lives**
+
+- Seatbelt should be tight-fitting.
+- Make sure that it's not twisted.
+- It should run smoothly across the chest and shoulder.
+- It should not constrict the throat or neck.
+- Across the hips rather than the stomach.
+
+Seatbelts are absolutely the most important piece of safety equipment in the car, both in the front and back seats.
+
+Also, it is important for backseat passengers to wear their seatbelts. In an accident, rear seat passengers are liable to be hurled forwards, injuring not only themselves, but the driver and front seat passenger as well.
+
+The driver has the responsibility of ensuring that all children wear their seatbelts or have some other form of protection.
+
+Tighten the seatbelt. When it is tightened properly, it will give better protection.
+
+**Air bags save lives**
+
+**SRS (supplementary restraint system)**
+
+- Together with seatbelts it gives extra protection against injuries.
+- Children in the front seat can be seriously injured or killed when airbag comes out in a crash.
+- A passenger in the front, must be at least 145 cm tall and wearing a seatbelt to sit safely in front of an air-bag.
+
+An airbag is not a soft, billowy pillow.
+
+To do its important job, an airbag comes out faster than the blink of an eye.
+
+**How to load your car?**
+
+- Never let heavy objects lie loose in the car.
+- Place cargo as low as possible and use the seat belt to secure your cargo on the back seat.
+- Put your cargo in the boot.
+
+Whenever you brake, due to moment the objects lying lose will be thrown forward.
+
+**Would you dare to do this?**
+
+- What might be the consequences if anybody is falling down from 1.5 meters' height, Same injuries we can expect if we are travelling with a speed of 7 km/h.
+- If you are driving at 50 km/h, the impact will be same as you are falling from 3 storey building.
+- As the speed increases, the force of impact increases serval time more.
+
+---
+
+## REMAINING SLIDES (Not Yet Extracted)
+
+The following slides require watching the full video on each slide before the "Next" button becomes enabled. They need to be extracted manually or with JavaScript evaluation permissions:
+
+- **Lesson 2**: Slides 2-3 (Parts 02-03)
+- **Lesson 3**: Slides 2-3 (Parts 02-03)
+- **Lesson 4**: Slides 2-3 (Parts 02-03)
+- **Lesson 5**: Slides 2-3 (Parts 02-03)
+- **Lesson 6**: Slides 2-4 (Parts 02-04)
+- **Lesson 7**: Slides 2-4 (Parts 02-04)
+- **Lesson 8**: Slide 2 (Part 02)

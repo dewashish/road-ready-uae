@@ -1,0 +1,1237 @@
+[
+  {
+    "id": "rs-001",
+    "question_text": "What must you do when you see a red octagonal STOP sign at an intersection?",
+    "explanation": "A STOP sign requires you to come to a complete stop before the stop line, check for traffic and pedestrians, and proceed only when it is safe. Rolling through a stop sign is a traffic violation in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": "sign_stop",
+    "image_url": null,
+    "tags": ["stop", "regulatory", "intersection"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-001-a", "question_id": "rs-001", "answer_text": "Come to a complete stop, check for traffic, then proceed when safe", "is_correct": true, "display_order": 1 },
+      { "id": "rs-001-b", "question_id": "rs-001", "answer_text": "Slow down and proceed if no vehicles are visible", "is_correct": false, "display_order": 2 },
+      { "id": "rs-001-c", "question_id": "rs-001", "answer_text": "Stop only if there are vehicles approaching from the right", "is_correct": false, "display_order": 3 },
+      { "id": "rs-001-d", "question_id": "rs-001", "answer_text": "Flash your headlights and proceed without stopping", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-002",
+    "question_text": "What does a circular sign with a red border and the number 60 inside indicate?",
+    "explanation": "A circular sign with a red border displaying a number is a speed limit sign. The number 60 means the maximum permitted speed on that road is 60 km/h. Exceeding this limit will result in a fine and black points in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": "sign_speed_limit_60",
+    "image_url": null,
+    "tags": ["speed_limit", "regulatory"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-002-a", "question_id": "rs-002", "answer_text": "Maximum speed limit is 60 km/h", "is_correct": true, "display_order": 1 },
+      { "id": "rs-002-b", "question_id": "rs-002", "answer_text": "Minimum speed limit is 60 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "rs-002-c", "question_id": "rs-002", "answer_text": "Recommended speed is 60 km/h but you may go faster", "is_correct": false, "display_order": 3 },
+      { "id": "rs-002-d", "question_id": "rs-002", "answer_text": "The road is 60 meters wide", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-003",
+    "question_text": "What does a white circular sign with a red border and the number 80 indicate on a UAE road?",
+    "explanation": "This is a speed limit sign indicating the maximum speed allowed is 80 km/h. The 80 km/h speed limit is commonly found on urban arterial roads in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_speed_limit_80",
+    "image_url": null,
+    "tags": ["speed_limit", "regulatory"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-003-a", "question_id": "rs-003", "answer_text": "Maximum speed limit is 80 km/h", "is_correct": true, "display_order": 1 },
+      { "id": "rs-003-b", "question_id": "rs-003", "answer_text": "You must maintain exactly 80 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "rs-003-c", "question_id": "rs-003", "answer_text": "Minimum speed limit is 80 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "rs-003-d", "question_id": "rs-003", "answer_text": "Speed cameras are located 80 meters ahead", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-004",
+    "question_text": "What does a circular sign with a white horizontal bar on a red background mean?",
+    "explanation": "This is the 'No Entry' sign. It prohibits all vehicles from entering the road or area. It is commonly placed at one-way street exits and restricted areas in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": "sign_no_entry",
+    "image_url": null,
+    "tags": ["no_entry", "regulatory", "prohibition"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-004-a", "question_id": "rs-004", "answer_text": "No entry for any vehicle in this direction", "is_correct": true, "display_order": 1 },
+      { "id": "rs-004-b", "question_id": "rs-004", "answer_text": "No parking allowed on this road", "is_correct": false, "display_order": 2 },
+      { "id": "rs-004-c", "question_id": "rs-004", "answer_text": "Road closed for maintenance", "is_correct": false, "display_order": 3 },
+      { "id": "rs-004-d", "question_id": "rs-004", "answer_text": "No stopping allowed", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-005",
+    "question_text": "What does a circular sign with a red border, blue background, and a red diagonal line over the letter 'P' indicate?",
+    "explanation": "This is the 'No Parking' sign. It means parking is prohibited in the area where the sign is posted. Violating this in the UAE can result in fines and your vehicle being towed.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_no_parking",
+    "image_url": null,
+    "tags": ["no_parking", "regulatory", "prohibition"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-005-a", "question_id": "rs-005", "answer_text": "No parking allowed in this area", "is_correct": true, "display_order": 1 },
+      { "id": "rs-005-b", "question_id": "rs-005", "answer_text": "Parking available ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-005-c", "question_id": "rs-005", "answer_text": "Paid parking zone", "is_correct": false, "display_order": 3 },
+      { "id": "rs-005-d", "question_id": "rs-005", "answer_text": "No stopping at any time", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-006",
+    "question_text": "What does a circular sign with a red border showing two cars side by side, with the one on the left in red, mean?",
+    "explanation": "This is the 'No Passing' or 'No Overtaking' sign. It prohibits overtaking other vehicles. In the UAE, overtaking from the wrong side or where prohibited carries heavy fines and black points.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_no_passing",
+    "image_url": null,
+    "tags": ["no_passing", "no_overtaking", "regulatory", "prohibition"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-006-a", "question_id": "rs-006", "answer_text": "No overtaking or passing other vehicles allowed", "is_correct": true, "display_order": 1 },
+      { "id": "rs-006-b", "question_id": "rs-006", "answer_text": "Two lanes merge ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-006-c", "question_id": "rs-006", "answer_text": "Dual carriageway ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-006-d", "question_id": "rs-006", "answer_text": "Overtaking allowed from the left side only", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-007",
+    "question_text": "What does a circular sign with a red border showing a U-turn arrow crossed out mean?",
+    "explanation": "This is the 'No U-Turn' sign. It prohibits making a U-turn at that location. Making an illegal U-turn in the UAE is a serious violation that can result in fines and black points.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_no_u_turn",
+    "image_url": null,
+    "tags": ["no_u_turn", "regulatory", "prohibition"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-007-a", "question_id": "rs-007", "answer_text": "U-turns are prohibited at this location", "is_correct": true, "display_order": 1 },
+      { "id": "rs-007-b", "question_id": "rs-007", "answer_text": "No left turn allowed", "is_correct": false, "display_order": 2 },
+      { "id": "rs-007-c", "question_id": "rs-007", "answer_text": "No right turn allowed", "is_correct": false, "display_order": 3 },
+      { "id": "rs-007-d", "question_id": "rs-007", "answer_text": "Road curves ahead, reduce speed", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-008",
+    "question_text": "What does a circular sign with a red border showing a horn symbol crossed out indicate?",
+    "explanation": "This is the 'No Horn' or 'No Honking' sign. It prohibits the use of vehicle horns in that area. These signs are commonly found near hospitals, residential areas, and schools in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": "sign_no_horn",
+    "image_url": null,
+    "tags": ["no_horn", "regulatory", "prohibition"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-008-a", "question_id": "rs-008", "answer_text": "Use of vehicle horn is prohibited in this area", "is_correct": true, "display_order": 1 },
+      { "id": "rs-008-b", "question_id": "rs-008", "answer_text": "No loud music allowed while driving", "is_correct": false, "display_order": 2 },
+      { "id": "rs-008-c", "question_id": "rs-008", "answer_text": "Emergency vehicles only zone", "is_correct": false, "display_order": 3 },
+      { "id": "rs-008-d", "question_id": "rs-008", "answer_text": "Sound your horn to warn other drivers", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-009",
+    "question_text": "What is the maximum speed limit commonly posted on major UAE highways such as Sheikh Zayed Road?",
+    "explanation": "Major highways in the UAE, such as Sheikh Zayed Road, typically have speed limits of 100-120 km/h. The 120 km/h limit is the most common on major inter-city highways. Always observe posted speed limit signs as they may vary by section.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_speed_limit_120",
+    "image_url": null,
+    "tags": ["speed_limit", "regulatory", "highway"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-009-a", "question_id": "rs-009", "answer_text": "120 km/h", "is_correct": true, "display_order": 1 },
+      { "id": "rs-009-b", "question_id": "rs-009", "answer_text": "140 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "rs-009-c", "question_id": "rs-009", "answer_text": "160 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "rs-009-d", "question_id": "rs-009", "answer_text": "100 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-010",
+    "question_text": "What does a speed limit sign showing 100 inside a red circle on a UAE highway indicate?",
+    "explanation": "A speed limit sign of 100 km/h means the maximum allowable speed on that section of road is 100 km/h. This is commonly seen on dual carriageways and some highway sections in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_speed_limit_100",
+    "image_url": null,
+    "tags": ["speed_limit", "regulatory", "highway"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-010-a", "question_id": "rs-010", "answer_text": "The maximum speed allowed is 100 km/h", "is_correct": true, "display_order": 1 },
+      { "id": "rs-010-b", "question_id": "rs-010", "answer_text": "The minimum speed on this road is 100 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "rs-010-c", "question_id": "rs-010", "answer_text": "You are 100 km from the next city", "is_correct": false, "display_order": 3 },
+      { "id": "rs-010-d", "question_id": "rs-010", "answer_text": "The recommended speed is 100 km/h but you may exceed it", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-011",
+    "question_text": "An inverted white triangle with a red border is which type of sign?",
+    "explanation": "The inverted triangle with a red border is the 'Give Way' (Yield) sign. It means you must slow down and give way to traffic on the road you are entering or crossing. You must stop if necessary.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": "sign_give_way",
+    "image_url": null,
+    "tags": ["give_way", "yield", "regulatory"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-011-a", "question_id": "rs-011", "answer_text": "Give Way (Yield) sign", "is_correct": true, "display_order": 1 },
+      { "id": "rs-011-b", "question_id": "rs-011", "answer_text": "Stop sign", "is_correct": false, "display_order": 2 },
+      { "id": "rs-011-c", "question_id": "rs-011", "answer_text": "No entry sign", "is_correct": false, "display_order": 3 },
+      { "id": "rs-011-d", "question_id": "rs-011", "answer_text": "Danger ahead warning sign", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-012",
+    "question_text": "What should you do when you see a Give Way sign at a junction?",
+    "explanation": "At a Give Way sign, you must slow down and give priority to traffic already on the main road. You should stop if necessary to let other traffic pass before entering the road safely.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_give_way",
+    "image_url": null,
+    "tags": ["give_way", "yield", "regulatory", "intersection"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-012-a", "question_id": "rs-012", "answer_text": "Slow down and give priority to traffic on the main road, stopping if necessary", "is_correct": true, "display_order": 1 },
+      { "id": "rs-012-b", "question_id": "rs-012", "answer_text": "Come to a complete stop and wait for 3 seconds before proceeding", "is_correct": false, "display_order": 2 },
+      { "id": "rs-012-c", "question_id": "rs-012", "answer_text": "Speed up to merge quickly with traffic", "is_correct": false, "display_order": 3 },
+      { "id": "rs-012-d", "question_id": "rs-012", "answer_text": "Flash your headlights to indicate your right of way", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-013",
+    "question_text": "What is the difference between a 'No Stopping' sign and a 'No Parking' sign in the UAE?",
+    "explanation": "A 'No Parking' sign (blue circle with red border and single red diagonal line) means you cannot park but may stop briefly to pick up or drop off passengers. A 'No Stopping' sign (blue circle with red border and red X) means you cannot stop at all, even momentarily.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": "sign_no_parking",
+    "image_url": null,
+    "tags": ["no_parking", "no_stopping", "regulatory", "prohibition"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-013-a", "question_id": "rs-013", "answer_text": "No Parking allows brief stops for passengers; No Stopping prohibits any stopping at all", "is_correct": true, "display_order": 1 },
+      { "id": "rs-013-b", "question_id": "rs-013", "answer_text": "They mean the same thing", "is_correct": false, "display_order": 2 },
+      { "id": "rs-013-c", "question_id": "rs-013", "answer_text": "No Stopping allows 5-minute stops; No Parking allows no stops", "is_correct": false, "display_order": 3 },
+      { "id": "rs-013-d", "question_id": "rs-013", "answer_text": "No Parking applies at night only; No Stopping applies all day", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-014",
+    "question_text": "A circular sign with a blue background and a white arrow pointing upward indicates what?",
+    "explanation": "A circular blue sign with a white upward arrow is a mandatory direction sign indicating that you must proceed straight ahead. Blue circular signs indicate mandatory instructions that drivers must follow.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["mandatory", "direction", "regulatory"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-014-a", "question_id": "rs-014", "answer_text": "You must go straight ahead (mandatory direction)", "is_correct": true, "display_order": 1 },
+      { "id": "rs-014-b", "question_id": "rs-014", "answer_text": "One-way street ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-014-c", "question_id": "rs-014", "answer_text": "Highway entrance ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-014-d", "question_id": "rs-014", "answer_text": "No turning allowed", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-015",
+    "question_text": "What color and shape are regulatory (prohibition) signs in the UAE?",
+    "explanation": "Regulatory prohibition signs in the UAE follow international standards: they are circular with a white background, red border, and often a red diagonal line through the prohibited action. This makes them easily distinguishable from warning and informational signs.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["regulatory", "prohibition", "sign_types"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-015-a", "question_id": "rs-015", "answer_text": "Circular with a white background and red border", "is_correct": true, "display_order": 1 },
+      { "id": "rs-015-b", "question_id": "rs-015", "answer_text": "Triangular with a yellow background", "is_correct": false, "display_order": 2 },
+      { "id": "rs-015-c", "question_id": "rs-015", "answer_text": "Rectangular with a blue background", "is_correct": false, "display_order": 3 },
+      { "id": "rs-015-d", "question_id": "rs-015", "answer_text": "Diamond-shaped with an orange background", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-016",
+    "question_text": "When you see a No Passing sign, when does the restriction end?",
+    "explanation": "The no passing restriction ends when you see an 'End of No Passing' sign (the same sign with grey lines instead of colored cars and often additional grey diagonal lines), or when you reach a new speed zone or intersection that changes the restriction.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 7,
+    "svg_illustration_key": "sign_no_passing",
+    "image_url": null,
+    "tags": ["no_passing", "regulatory", "prohibition"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-016-a", "question_id": "rs-016", "answer_text": "When you see an End of No Passing sign or reach a new zone/intersection", "is_correct": true, "display_order": 1 },
+      { "id": "rs-016-b", "question_id": "rs-016", "answer_text": "After driving 500 meters past the sign", "is_correct": false, "display_order": 2 },
+      { "id": "rs-016-c", "question_id": "rs-016", "answer_text": "Only when the road becomes a dual carriageway", "is_correct": false, "display_order": 3 },
+      { "id": "rs-016-d", "question_id": "rs-016", "answer_text": "The restriction never ends until you exit the road", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-017",
+    "question_text": "What does a circular blue sign with a white number 60 (without a red border) indicate?",
+    "explanation": "A circular blue sign with a white number indicates a minimum speed limit. This means you must not drive slower than 60 km/h on that road. Minimum speed signs are the opposite of maximum speed limit signs which have red borders.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limit", "minimum_speed", "regulatory", "mandatory"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-017-a", "question_id": "rs-017", "answer_text": "Minimum speed limit of 60 km/h", "is_correct": true, "display_order": 1 },
+      { "id": "rs-017-b", "question_id": "rs-017", "answer_text": "Maximum speed limit of 60 km/h", "is_correct": false, "display_order": 2 },
+      { "id": "rs-017-c", "question_id": "rs-017", "answer_text": "Recommended speed of 60 km/h", "is_correct": false, "display_order": 3 },
+      { "id": "rs-017-d", "question_id": "rs-017", "answer_text": "Speed camera zone set to 60 km/h", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-018",
+    "question_text": "In the UAE, what does a circular sign with a red border showing a truck symbol indicate?",
+    "explanation": "A circular sign with a red border showing a truck symbol means trucks or heavy vehicles are prohibited from entering that road. This is common in residential areas and certain urban roads in the UAE to manage traffic flow.",
+    "module": "road_signs",
+    "vehicle_types": ["C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["no_trucks", "regulatory", "prohibition", "heavy_vehicles"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-018-a", "question_id": "rs-018", "answer_text": "Trucks and heavy vehicles are prohibited from using this road", "is_correct": true, "display_order": 1 },
+      { "id": "rs-018-b", "question_id": "rs-018", "answer_text": "Truck parking area ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-018-c", "question_id": "rs-018", "answer_text": "Trucks must use the right lane only", "is_correct": false, "display_order": 3 },
+      { "id": "rs-018-d", "question_id": "rs-018", "answer_text": "Truck weighing station ahead", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-019",
+    "question_text": "What does a circular sign with a red border and a bicycle symbol crossed by a red line mean?",
+    "explanation": "This sign prohibits bicycles from using that particular road. In the UAE, certain highways and major roads do not permit bicycle traffic for safety reasons. Cyclists must use designated cycling lanes or alternative routes.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 6,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["no_bicycles", "regulatory", "prohibition"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-019-a", "question_id": "rs-019", "answer_text": "Bicycles are prohibited on this road", "is_correct": true, "display_order": 1 },
+      { "id": "rs-019-b", "question_id": "rs-019", "answer_text": "Bicycle lane ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-019-c", "question_id": "rs-019", "answer_text": "Bicycle rental station nearby", "is_correct": false, "display_order": 3 },
+      { "id": "rs-019-d", "question_id": "rs-019", "answer_text": "Share the road with bicycles", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-020",
+    "question_text": "A circular sign with a red border showing a left turn arrow crossed out means what?",
+    "explanation": "This sign prohibits left turns at that location. Drivers must continue straight or turn right. Ignoring this sign and making a left turn is a traffic violation in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["no_left_turn", "regulatory", "prohibition"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-020-a", "question_id": "rs-020", "answer_text": "No left turn allowed at this location", "is_correct": true, "display_order": 1 },
+      { "id": "rs-020-b", "question_id": "rs-020", "answer_text": "Left turn only", "is_correct": false, "display_order": 2 },
+      { "id": "rs-020-c", "question_id": "rs-020", "answer_text": "No U-turn allowed", "is_correct": false, "display_order": 3 },
+      { "id": "rs-020-d", "question_id": "rs-020", "answer_text": "Left lane ends ahead", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-021",
+    "question_text": "What does a triangular warning sign with a curve arrow pointing right indicate?",
+    "explanation": "This warning sign indicates a sharp curve or bend to the right ahead. Drivers should reduce speed before entering the curve and maintain a safe speed throughout. In the UAE, many desert highways have curves that require attention.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": "sign_sharp_curve_right",
+    "image_url": null,
+    "tags": ["curve", "warning", "sharp_curve"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-021-a", "question_id": "rs-021", "answer_text": "Sharp curve to the right ahead, reduce speed", "is_correct": true, "display_order": 1 },
+      { "id": "rs-021-b", "question_id": "rs-021", "answer_text": "Right turn only ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-021-c", "question_id": "rs-021", "answer_text": "Road merges from the right", "is_correct": false, "display_order": 3 },
+      { "id": "rs-021-d", "question_id": "rs-021", "answer_text": "Move to the right lane", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-022",
+    "question_text": "What does a triangular warning sign with a curve arrow pointing left indicate?",
+    "explanation": "This warning sign indicates a sharp curve or bend to the left ahead. Drivers should slow down before entering the curve. Maintaining a safe speed on curves is critical to prevent accidents, especially in wet conditions.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": "sign_sharp_curve_left",
+    "image_url": null,
+    "tags": ["curve", "warning", "sharp_curve"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-022-a", "question_id": "rs-022", "answer_text": "Sharp curve to the left ahead, reduce speed", "is_correct": true, "display_order": 1 },
+      { "id": "rs-022-b", "question_id": "rs-022", "answer_text": "Left turn mandatory", "is_correct": false, "display_order": 2 },
+      { "id": "rs-022-c", "question_id": "rs-022", "answer_text": "Left lane closed ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-022-d", "question_id": "rs-022", "answer_text": "Overtaking permitted from the left", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-023",
+    "question_text": "What does a triangular warning sign showing a cross-shaped intersection symbol mean?",
+    "explanation": "This warning sign indicates a crossroads or intersection ahead. Drivers should be prepared to slow down, watch for cross traffic, and be ready to give way or stop as required by other signs or signals at the intersection.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["intersection", "crossroads", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-023-a", "question_id": "rs-023", "answer_text": "Crossroads or intersection ahead, be prepared to slow down", "is_correct": true, "display_order": 1 },
+      { "id": "rs-023-b", "question_id": "rs-023", "answer_text": "Railway crossing ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-023-c", "question_id": "rs-023", "answer_text": "Hospital or first aid station nearby", "is_correct": false, "display_order": 3 },
+      { "id": "rs-023-d", "question_id": "rs-023", "answer_text": "No entry from any direction", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-024",
+    "question_text": "What does a triangular warning sign with a pedestrian symbol indicate?",
+    "explanation": "This sign warns of a pedestrian crossing ahead. Drivers must slow down and be prepared to stop for pedestrians. In the UAE, failing to give way to pedestrians at a marked crossing is a serious offence carrying fines and black points.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_pedestrian_crossing",
+    "image_url": null,
+    "tags": ["pedestrian", "crossing", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-024-a", "question_id": "rs-024", "answer_text": "Pedestrian crossing ahead, slow down and be prepared to stop", "is_correct": true, "display_order": 1 },
+      { "id": "rs-024-b", "question_id": "rs-024", "answer_text": "Pedestrians are prohibited from crossing here", "is_correct": false, "display_order": 2 },
+      { "id": "rs-024-c", "question_id": "rs-024", "answer_text": "Pedestrian bridge ahead, no need to slow down", "is_correct": false, "display_order": 3 },
+      { "id": "rs-024-d", "question_id": "rs-024", "answer_text": "Pedestrian walkway only, vehicles cannot enter", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-025",
+    "question_text": "What does a triangular warning sign showing children near a school building indicate?",
+    "explanation": "This is a School Zone warning sign. Drivers must reduce speed significantly (usually to 40 km/h or as posted) and be extremely cautious. Children may be crossing the road. School zone speed limits are strictly enforced in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_school_zone",
+    "image_url": null,
+    "tags": ["school_zone", "children", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-025-a", "question_id": "rs-025", "answer_text": "School zone ahead, reduce speed and watch for children", "is_correct": true, "display_order": 1 },
+      { "id": "rs-025-b", "question_id": "rs-025", "answer_text": "Playground area, children at play but no speed change required", "is_correct": false, "display_order": 2 },
+      { "id": "rs-025-c", "question_id": "rs-025", "answer_text": "School bus stop only", "is_correct": false, "display_order": 3 },
+      { "id": "rs-025-d", "question_id": "rs-025", "answer_text": "Children are prohibited from crossing the road here", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-026",
+    "question_text": "What does a triangular warning sign showing a road narrowing from both sides indicate?",
+    "explanation": "This sign warns that the road narrows ahead from both sides. Drivers should reduce speed, be prepared to merge, and give way to oncoming traffic if the road becomes too narrow for two vehicles to pass safely.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": "sign_road_narrows",
+    "image_url": null,
+    "tags": ["road_narrows", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-026-a", "question_id": "rs-026", "answer_text": "Road narrows ahead from both sides, reduce speed and prepare to merge", "is_correct": true, "display_order": 1 },
+      { "id": "rs-026-b", "question_id": "rs-026", "answer_text": "Bridge ahead with weight restrictions", "is_correct": false, "display_order": 2 },
+      { "id": "rs-026-c", "question_id": "rs-026", "answer_text": "Dual carriageway ends", "is_correct": false, "display_order": 3 },
+      { "id": "rs-026-d", "question_id": "rs-026", "answer_text": "Tunnel ahead, switch on headlights", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-027",
+    "question_text": "What does a triangular warning sign showing a car with wavy skid marks beneath it indicate?",
+    "explanation": "This is the 'Slippery Road' warning sign. It warns that the road surface may be slippery, especially when wet. Drivers should reduce speed, avoid sudden braking or steering, and increase following distance. In the UAE, roads can become very slippery when it rains due to oil buildup on the surface.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": "sign_slippery_road",
+    "image_url": null,
+    "tags": ["slippery_road", "warning", "wet_road"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-027-a", "question_id": "rs-027", "answer_text": "Slippery road ahead, reduce speed and avoid sudden braking", "is_correct": true, "display_order": 1 },
+      { "id": "rs-027-b", "question_id": "rs-027", "answer_text": "Car wash ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-027-c", "question_id": "rs-027", "answer_text": "Winding road ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-027-d", "question_id": "rs-027", "answer_text": "Vehicle inspection area ahead", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-028",
+    "question_text": "What does a triangular warning sign showing a bump in the road indicate?",
+    "explanation": "This sign warns of a speed bump or raised road section ahead. Drivers must slow down considerably before reaching the bump to avoid damage to the vehicle and ensure passenger comfort and safety. Speed bumps are very common in residential areas throughout the UAE.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_speed_bump",
+    "image_url": null,
+    "tags": ["speed_bump", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-028-a", "question_id": "rs-028", "answer_text": "Speed bump ahead, slow down significantly", "is_correct": true, "display_order": 1 },
+      { "id": "rs-028-b", "question_id": "rs-028", "answer_text": "Uneven road surface, maintain current speed", "is_correct": false, "display_order": 2 },
+      { "id": "rs-028-c", "question_id": "rs-028", "answer_text": "Hill ahead, prepare to shift gears", "is_correct": false, "display_order": 3 },
+      { "id": "rs-028-d", "question_id": "rs-028", "answer_text": "Road construction ahead", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-029",
+    "question_text": "What does a triangular warning sign showing a steep downhill slope indicate?",
+    "explanation": "This sign warns of a steep hill or downgrade ahead. Drivers should use a lower gear to control speed, especially heavy vehicles. Avoid relying solely on brakes on long downhill stretches as they may overheat and become less effective.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": "sign_steep_hill",
+    "image_url": null,
+    "tags": ["steep_hill", "downhill", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-029-a", "question_id": "rs-029", "answer_text": "Steep hill ahead, use lower gear and control speed", "is_correct": true, "display_order": 1 },
+      { "id": "rs-029-b", "question_id": "rs-029", "answer_text": "Road rises steeply, increase speed to climb", "is_correct": false, "display_order": 2 },
+      { "id": "rs-029-c", "question_id": "rs-029", "answer_text": "Landslide-prone area", "is_correct": false, "display_order": 3 },
+      { "id": "rs-029-d", "question_id": "rs-029", "answer_text": "Mountain pass ahead, chains required", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-030",
+    "question_text": "What does a triangular warning sign showing a traffic signal symbol indicate?",
+    "explanation": "This sign warns that traffic signals (traffic lights) are ahead. Drivers should be prepared to stop. This sign is especially useful on high-speed roads where signals may not be immediately visible.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": "sign_traffic_light",
+    "image_url": null,
+    "tags": ["traffic_light", "traffic_signal", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-030-a", "question_id": "rs-030", "answer_text": "Traffic signals ahead, be prepared to stop", "is_correct": true, "display_order": 1 },
+      { "id": "rs-030-b", "question_id": "rs-030", "answer_text": "Traffic signals out of order", "is_correct": false, "display_order": 2 },
+      { "id": "rs-030-c", "question_id": "rs-030", "answer_text": "Road is signal-free from this point", "is_correct": false, "display_order": 3 },
+      { "id": "rs-030-d", "question_id": "rs-030", "answer_text": "Slow traffic ahead, use alternative route", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-031",
+    "question_text": "What does a triangular warning sign showing two lanes merging into one indicate?",
+    "explanation": "This sign warns that lanes merge ahead. Drivers should be prepared to merge, adjust their speed, and cooperate with other drivers. Use the zipper merge technique when approaching the merge point.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": "sign_merge_lanes",
+    "image_url": null,
+    "tags": ["merge", "lanes", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-031-a", "question_id": "rs-031", "answer_text": "Lanes merge ahead, prepare to merge with other traffic", "is_correct": true, "display_order": 1 },
+      { "id": "rs-031-b", "question_id": "rs-031", "answer_text": "Road splits into two lanes ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-031-c", "question_id": "rs-031", "answer_text": "Overtaking lane ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-031-d", "question_id": "rs-031", "answer_text": "Dual carriageway begins", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-032",
+    "question_text": "A triangular warning sign showing rocks falling from a cliff edge warns of what hazard?",
+    "explanation": "This sign warns of falling rocks or a landslide-prone area ahead. Drivers should be extra cautious, avoid stopping in the area if possible, and watch for debris on the road. This sign is seen on mountainous roads in the UAE such as those in Ras Al Khaimah and Fujairah.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 6,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["falling_rocks", "warning", "mountain_road"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-032-a", "question_id": "rs-032", "answer_text": "Falling rocks ahead, proceed with caution and avoid stopping in the area", "is_correct": true, "display_order": 1 },
+      { "id": "rs-032-b", "question_id": "rs-032", "answer_text": "Quarry entrance ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-032-c", "question_id": "rs-032", "answer_text": "Scenic viewpoint ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-032-d", "question_id": "rs-032", "answer_text": "Construction zone with heavy machinery", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-033",
+    "question_text": "What should you do when you see a warning sign for a double curve (first to the right, then to the left)?",
+    "explanation": "A double curve warning sign indicates a series of curves ahead, first bending to the right and then to the left. You should reduce speed before entering the first curve and maintain a controlled speed throughout both curves.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": "sign_sharp_curve_right",
+    "image_url": null,
+    "tags": ["curve", "double_curve", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-033-a", "question_id": "rs-033", "answer_text": "Reduce speed before the first curve and maintain controlled speed through both curves", "is_correct": true, "display_order": 1 },
+      { "id": "rs-033-b", "question_id": "rs-033", "answer_text": "Accelerate through the curves to maintain momentum", "is_correct": false, "display_order": 2 },
+      { "id": "rs-033-c", "question_id": "rs-033", "answer_text": "Stop and wait for oncoming traffic to pass first", "is_correct": false, "display_order": 3 },
+      { "id": "rs-033-d", "question_id": "rs-033", "answer_text": "Move to the opposite lane to straighten the curves", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-034",
+    "question_text": "A triangular warning sign showing a T-shaped junction symbol warns about what?",
+    "explanation": "This sign warns that you are approaching a T-junction where the road you are on ends and you must turn either left or right. You should reduce speed and prepare to give way to traffic on the crossing road.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["t_junction", "intersection", "warning"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-034-a", "question_id": "rs-034", "answer_text": "T-junction ahead, prepare to turn left or right and give way", "is_correct": true, "display_order": 1 },
+      { "id": "rs-034-b", "question_id": "rs-034", "answer_text": "Dead end road, no through traffic", "is_correct": false, "display_order": 2 },
+      { "id": "rs-034-c", "question_id": "rs-034", "answer_text": "Traffic light ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-034-d", "question_id": "rs-034", "answer_text": "One-way road begins", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-035",
+    "question_text": "What does a triangular warning sign showing a camel symbol indicate in the UAE?",
+    "explanation": "This sign warns that camels may cross the road in this area. It is unique to Gulf countries and desert regions. Drivers should reduce speed and be watchful, especially at dawn and dusk when camels are harder to see. Collisions with camels can be fatal.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["camel_crossing", "animal", "warning", "uae_specific"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-035-a", "question_id": "rs-035", "answer_text": "Camels may cross the road, reduce speed and be watchful", "is_correct": true, "display_order": 1 },
+      { "id": "rs-035-b", "question_id": "rs-035", "answer_text": "Camel racing track ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-035-c", "question_id": "rs-035", "answer_text": "Desert area begins, four-wheel drive recommended", "is_correct": false, "display_order": 3 },
+      { "id": "rs-035-d", "question_id": "rs-035", "answer_text": "Zoo or animal reserve entrance", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-036",
+    "question_text": "What does a rectangular blue sign with a white letter 'P' on it indicate?",
+    "explanation": "This is a Parking sign indicating that parking is permitted in this area. The blue background with white P is an informational sign. Additional plates below may indicate time limits, fees, or specific conditions for parking.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": "sign_parking",
+    "image_url": null,
+    "tags": ["parking", "informational"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-036-a", "question_id": "rs-036", "answer_text": "Parking area available", "is_correct": true, "display_order": 1 },
+      { "id": "rs-036-b", "question_id": "rs-036", "answer_text": "Police station ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-036-c", "question_id": "rs-036", "answer_text": "Petrol station ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-036-d", "question_id": "rs-036", "answer_text": "Pedestrian zone ahead", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-037",
+    "question_text": "What does a rectangular blue sign with a white 'H' or hospital symbol indicate?",
+    "explanation": "This informational sign indicates that a hospital is nearby or in the direction indicated. It is important for drivers to know hospital locations in case of emergencies. Near hospitals, horn use is typically prohibited.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 7,
+    "svg_illustration_key": "sign_hospital",
+    "image_url": null,
+    "tags": ["hospital", "informational", "medical"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-037-a", "question_id": "rs-037", "answer_text": "Hospital nearby or in the direction shown", "is_correct": true, "display_order": 1 },
+      { "id": "rs-037-b", "question_id": "rs-037", "answer_text": "Helicopter landing zone", "is_correct": false, "display_order": 2 },
+      { "id": "rs-037-c", "question_id": "rs-037", "answer_text": "Hotel accommodation available", "is_correct": false, "display_order": 3 },
+      { "id": "rs-037-d", "question_id": "rs-037", "answer_text": "Road hazard ahead", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-038",
+    "question_text": "What does a rectangular blue sign with a fuel pump symbol indicate?",
+    "explanation": "This informational sign indicates that a fuel/petrol station is available ahead or in the direction shown. These signs are especially important on long desert highways in the UAE where fuel stations may be spaced far apart.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 7,
+    "svg_illustration_key": "sign_fuel_station",
+    "image_url": null,
+    "tags": ["fuel_station", "petrol", "informational"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-038-a", "question_id": "rs-038", "answer_text": "Fuel/petrol station ahead or in the direction shown", "is_correct": true, "display_order": 1 },
+      { "id": "rs-038-b", "question_id": "rs-038", "answer_text": "Fire station ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-038-c", "question_id": "rs-038", "answer_text": "Vehicle service center ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-038-d", "question_id": "rs-038", "answer_text": "Electric vehicle charging station", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-039",
+    "question_text": "What does a rectangular sign with a white arrow on a blue background pointing to the right indicate?",
+    "explanation": "This is a One Way sign indicating that traffic on the road flows in one direction only, which is to the right. Drivers must not travel in the opposite direction on a one-way road.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": "sign_one_way",
+    "image_url": null,
+    "tags": ["one_way", "informational", "direction"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-039-a", "question_id": "rs-039", "answer_text": "One-way road, traffic flows to the right only", "is_correct": true, "display_order": 1 },
+      { "id": "rs-039-b", "question_id": "rs-039", "answer_text": "Turn right at the next intersection", "is_correct": false, "display_order": 2 },
+      { "id": "rs-039-c", "question_id": "rs-039", "answer_text": "Keep right to let faster traffic pass", "is_correct": false, "display_order": 3 },
+      { "id": "rs-039-d", "question_id": "rs-039", "answer_text": "Right lane must exit", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-040",
+    "question_text": "What does a green rectangular sign with white text displaying city names and distances indicate?",
+    "explanation": "Green rectangular signs are highway direction and distance signs. They provide information about destinations and distances in kilometers. In the UAE, these signs are written in both Arabic and English to assist all drivers.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["highway", "direction", "informational", "distance"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-040-a", "question_id": "rs-040", "answer_text": "Highway direction and distance information to destinations", "is_correct": true, "display_order": 1 },
+      { "id": "rs-040-b", "question_id": "rs-040", "answer_text": "Emergency exit routes", "is_correct": false, "display_order": 2 },
+      { "id": "rs-040-c", "question_id": "rs-040", "answer_text": "Tourist attraction information", "is_correct": false, "display_order": 3 },
+      { "id": "rs-040-d", "question_id": "rs-040", "answer_text": "Speed limit advisory for the next section", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-041",
+    "question_text": "What do brown rectangular signs with white text typically indicate in the UAE?",
+    "explanation": "Brown rectangular signs are used to indicate tourist attractions, heritage sites, and points of interest in the UAE. These signs guide drivers to locations such as museums, historical sites, and natural attractions.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 5,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tourist", "informational", "heritage"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-041-a", "question_id": "rs-041", "answer_text": "Tourist attractions, heritage sites, and points of interest", "is_correct": true, "display_order": 1 },
+      { "id": "rs-041-b", "question_id": "rs-041", "answer_text": "Construction zones and detour routes", "is_correct": false, "display_order": 2 },
+      { "id": "rs-041-c", "question_id": "rs-041", "answer_text": "Military zones and restricted areas", "is_correct": false, "display_order": 3 },
+      { "id": "rs-041-d", "question_id": "rs-041", "answer_text": "Highway rest areas and service stations", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-042",
+    "question_text": "What does a blue rectangular sign showing a highway symbol with an upward arrow indicate?",
+    "explanation": "This sign indicates the beginning of a highway or motorway. Drivers should prepare to accelerate to highway speeds and follow highway-specific rules such as no stopping, no reversing, and using entry ramps to merge safely.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["highway", "motorway", "informational"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-042-a", "question_id": "rs-042", "answer_text": "Highway/motorway begins, prepare for highway driving rules", "is_correct": true, "display_order": 1 },
+      { "id": "rs-042-b", "question_id": "rs-042", "answer_text": "Airport ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-042-c", "question_id": "rs-042", "answer_text": "Elevated road or bridge ahead", "is_correct": false, "display_order": 3 },
+      { "id": "rs-042-d", "question_id": "rs-042", "answer_text": "Toll road ahead, payment required", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-043",
+    "question_text": "What type of information does a rectangular blue sign with a bed symbol provide?",
+    "explanation": "A blue rectangular sign with a bed symbol indicates that accommodation or a rest area/hotel is available nearby. These informational signs help long-distance drivers find places to rest along UAE highways.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 5,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accommodation", "rest_area", "informational"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-043-a", "question_id": "rs-043", "answer_text": "Accommodation or rest area/hotel available nearby", "is_correct": true, "display_order": 1 },
+      { "id": "rs-043-b", "question_id": "rs-043", "answer_text": "Hospital with emergency beds ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-043-c", "question_id": "rs-043", "answer_text": "Rest stop required for truck drivers", "is_correct": false, "display_order": 3 },
+      { "id": "rs-043-d", "question_id": "rs-043", "answer_text": "Speed bump ahead, slow down", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-044",
+    "question_text": "What information does a rectangular blue sign with a telephone receiver symbol provide?",
+    "explanation": "This informational sign indicates that a public telephone or emergency telephone is available nearby. On UAE highways, emergency phones are positioned at regular intervals for drivers who need to report breakdowns or accidents.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 5,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["telephone", "emergency", "informational"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-044-a", "question_id": "rs-044", "answer_text": "Public or emergency telephone available nearby", "is_correct": true, "display_order": 1 },
+      { "id": "rs-044-b", "question_id": "rs-044", "answer_text": "Mobile phone usage permitted in this zone", "is_correct": false, "display_order": 2 },
+      { "id": "rs-044-c", "question_id": "rs-044", "answer_text": "Telecommunications tower ahead, possible signal interference", "is_correct": false, "display_order": 3 },
+      { "id": "rs-044-d", "question_id": "rs-044", "answer_text": "Call center for roadside assistance is open", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-045",
+    "question_text": "What does a dead-end sign (rectangular sign showing a road ending) indicate?",
+    "explanation": "A dead-end or cul-de-sac sign indicates that the road ahead does not have an outlet. You will need to turn around at the end. This helps drivers avoid entering roads that do not lead to their destination.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 6,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["dead_end", "no_through_road", "informational"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-045-a", "question_id": "rs-045", "answer_text": "The road ahead is a dead end with no outlet; you must turn around", "is_correct": true, "display_order": 1 },
+      { "id": "rs-045-b", "question_id": "rs-045", "answer_text": "Road under construction, find alternative route", "is_correct": false, "display_order": 2 },
+      { "id": "rs-045-c", "question_id": "rs-045", "answer_text": "Road temporarily closed", "is_correct": false, "display_order": 3 },
+      { "id": "rs-045-d", "question_id": "rs-045", "answer_text": "Restricted area, authorized vehicles only", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-046",
+    "question_text": "What does a circular sign with a blue background showing three white circular arrows (roundabout symbol) indicate?",
+    "explanation": "This is the roundabout sign. In the UAE, vehicles already inside the roundabout have priority (right of way) unless otherwise indicated by signs or signals. Drivers entering the roundabout must give way to traffic already circulating.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": "sign_roundabout",
+    "image_url": null,
+    "tags": ["roundabout", "uae_specific", "regulatory"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-046-a", "question_id": "rs-046", "answer_text": "Roundabout ahead, give way to traffic already in the roundabout", "is_correct": true, "display_order": 1 },
+      { "id": "rs-046-b", "question_id": "rs-046", "answer_text": "Circular parking area ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-046-c", "question_id": "rs-046", "answer_text": "U-turn permitted at this location", "is_correct": false, "display_order": 3 },
+      { "id": "rs-046-d", "question_id": "rs-046", "answer_text": "Traffic circle with traffic lights, stop and wait for green", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-047",
+    "question_text": "In the UAE, who has the right of way at a roundabout without traffic signals?",
+    "explanation": "In the UAE, vehicles already circulating inside the roundabout have priority over vehicles entering. Drivers approaching a roundabout must give way to traffic on their left that is already in the roundabout. Always signal before exiting the roundabout.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": "sign_roundabout",
+    "image_url": null,
+    "tags": ["roundabout", "right_of_way", "uae_specific"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-047-a", "question_id": "rs-047", "answer_text": "Vehicles already inside the roundabout have priority", "is_correct": true, "display_order": 1 },
+      { "id": "rs-047-b", "question_id": "rs-047", "answer_text": "Vehicles entering from the right have priority", "is_correct": false, "display_order": 2 },
+      { "id": "rs-047-c", "question_id": "rs-047", "answer_text": "The larger vehicle always has priority", "is_correct": false, "display_order": 3 },
+      { "id": "rs-047-d", "question_id": "rs-047", "answer_text": "The first vehicle to arrive has priority", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-048",
+    "question_text": "What does a 'Salik' toll gate sign on a Dubai road indicate?",
+    "explanation": "Salik is Dubai's electronic road toll system. When you see a Salik sign, it means you are approaching a toll gate where a fee will be automatically deducted from your prepaid Salik tag. Vehicles must have a registered Salik tag to pass through these gates.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["salik", "toll", "uae_specific", "dubai"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-048-a", "question_id": "rs-048", "answer_text": "Electronic toll gate ahead, a fee will be deducted from your Salik tag", "is_correct": true, "display_order": 1 },
+      { "id": "rs-048-b", "question_id": "rs-048", "answer_text": "Speed camera zone, reduce speed", "is_correct": false, "display_order": 2 },
+      { "id": "rs-048-c", "question_id": "rs-048", "answer_text": "Restricted road, special permit required", "is_correct": false, "display_order": 3 },
+      { "id": "rs-048-d", "question_id": "rs-048", "answer_text": "Fuel station operated by Salik", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-049",
+    "question_text": "What does a sign showing a camera symbol on a UAE road typically indicate?",
+    "explanation": "A camera symbol sign warns drivers that a speed camera or radar is installed ahead. In the UAE, speed cameras (radars) are used extensively to enforce speed limits. Being caught exceeding the speed limit results in fines and black points on your driving record.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_camera", "radar", "uae_specific"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-049-a", "question_id": "rs-049", "answer_text": "Speed camera or radar ahead, observe the speed limit", "is_correct": true, "display_order": 1 },
+      { "id": "rs-049-b", "question_id": "rs-049", "answer_text": "Scenic photography spot ahead", "is_correct": false, "display_order": 2 },
+      { "id": "rs-049-c", "question_id": "rs-049", "answer_text": "CCTV surveillance for security purposes only", "is_correct": false, "display_order": 3 },
+      { "id": "rs-049-d", "question_id": "rs-049", "answer_text": "Traffic monitoring center, no speed enforcement", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "rs-050",
+    "question_text": "In the UAE, what should you do when approaching a roundabout with multiple lanes?",
+    "explanation": "When approaching a multi-lane roundabout in the UAE, you should choose the correct lane before entering based on your intended exit. Use the left lane for turning left or making a U-turn, the right lane for turning right or taking the first exit, and either lane for going straight, depending on the specific roundabout markings.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": "sign_roundabout",
+    "image_url": null,
+    "tags": ["roundabout", "lane_selection", "uae_specific"],
+    "is_edcad_style": false,
+    "answers": [
+      { "id": "rs-050-a", "question_id": "rs-050", "answer_text": "Choose the correct lane before entering based on your intended exit", "is_correct": true, "display_order": 1 },
+      { "id": "rs-050-b", "question_id": "rs-050", "answer_text": "Always enter from the right lane regardless of your exit", "is_correct": false, "display_order": 2 },
+      { "id": "rs-050-c", "question_id": "rs-050", "answer_text": "Enter from any lane and change lanes inside the roundabout", "is_correct": false, "display_order": 3 },
+      { "id": "rs-050-d", "question_id": "rs-050", "answer_text": "Stop in the roundabout to decide which exit to take", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-001",
+    "question_text": "According to EDCAD, what are the four main groups of traffic signs?",
+    "explanation": "EDCAD Lesson 1 teaches that the four main sign groups are: Warning (triangle with red and white), Prohibitive (circle with red border), Regulatory (circle with blue background), and Direction (rectangle). Two additional groups are Supplementary and Temporary signs.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["sign_groups", "edcad", "classification"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-001-a", "question_id": "ed-rs-001", "answer_text": "Warning, Prohibitive, Regulatory, and Direction", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-001-b", "question_id": "ed-rs-001", "answer_text": "Stop, Yield, Speed, and Information", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-001-c", "question_id": "ed-rs-001", "answer_text": "Red, Blue, Green, and Yellow", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-001-d", "question_id": "ed-rs-001", "answer_text": "Mandatory, Optional, Advisory, and Emergency", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-002",
+    "question_text": "What shape and color are warning signs according to EDCAD?",
+    "explanation": "EDCAD Lesson 1 states that warning signs are triangular in shape with a red border and white background. They alert drivers to potential hazards ahead such as curves, intersections, or road works.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["warning_signs", "edcad", "sign_shapes"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-002-a", "question_id": "ed-rs-002", "answer_text": "Triangle with red border and white background", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-002-b", "question_id": "ed-rs-002", "answer_text": "Circle with blue background", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-002-c", "question_id": "ed-rs-002", "answer_text": "Rectangle with green background", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-002-d", "question_id": "ed-rs-002", "answer_text": "Octagon with red background", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-003",
+    "question_text": "What shape and color are prohibitive signs according to EDCAD?",
+    "explanation": "EDCAD Lesson 1 teaches that prohibitive signs are circular with a red border. They indicate actions that are not allowed, such as no entry, no overtaking, or speed limits.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["prohibitive_signs", "edcad", "sign_shapes"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-003-a", "question_id": "ed-rs-003", "answer_text": "Circular with a red border", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-003-b", "question_id": "ed-rs-003", "answer_text": "Triangular with a yellow background", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-003-c", "question_id": "ed-rs-003", "answer_text": "Rectangular with a blue background", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-003-d", "question_id": "ed-rs-003", "answer_text": "Diamond-shaped with an orange background", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-004",
+    "question_text": "What shape and color are regulatory (mandatory) signs according to EDCAD?",
+    "explanation": "EDCAD Lesson 1 states that regulatory signs are circular with a blue background. They indicate mandatory actions such as direction of travel, minimum speed, or required lane usage.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["regulatory_signs", "edcad", "sign_shapes"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-004-a", "question_id": "ed-rs-004", "answer_text": "Circular with a blue background", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-004-b", "question_id": "ed-rs-004", "answer_text": "Circular with a red border", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-004-c", "question_id": "ed-rs-004", "answer_text": "Triangular with a red border", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-004-d", "question_id": "ed-rs-004", "answer_text": "Rectangular with a white background", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-005",
+    "question_text": "What shape are direction signs according to EDCAD?",
+    "explanation": "EDCAD Lesson 1 teaches that direction signs are rectangular in shape. They provide information about destinations, distances, and routes to help drivers navigate.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["direction_signs", "edcad", "sign_shapes"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-005-a", "question_id": "ed-rs-005", "answer_text": "Rectangular", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-005-b", "question_id": "ed-rs-005", "answer_text": "Circular", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-005-c", "question_id": "ed-rs-005", "answer_text": "Triangular", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-005-d", "question_id": "ed-rs-005", "answer_text": "Octagonal", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-006",
+    "question_text": "What color are temporary construction/road works signs according to EDCAD?",
+    "explanation": "EDCAD Lesson 1 identifies temporary signs used during construction or road works as having an orange background. These signs take precedence over permanent signs in the area where work is being carried out.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["temporary_signs", "construction", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-006-a", "question_id": "ed-rs-006", "answer_text": "Orange", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-006-b", "question_id": "ed-rs-006", "answer_text": "Yellow", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-006-c", "question_id": "ed-rs-006", "answer_text": "Red", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-006-d", "question_id": "ed-rs-006", "answer_text": "Green", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-007",
+    "question_text": "What is the unique shape of a STOP sign, and what does EDCAD say you must do at one?",
+    "explanation": "EDCAD Lesson 1 states the stop sign is an octagon (8-sided). At a stop sign, your wheels MUST come to a complete stop first before you check for traffic and proceed when safe. This is different from a give way sign.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": "sign_stop",
+    "image_url": null,
+    "tags": ["stop_sign", "octagon", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-007-a", "question_id": "ed-rs-007", "answer_text": "Octagon — wheels must come to a complete stop before proceeding", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-007-b", "question_id": "ed-rs-007", "answer_text": "Circle — slow down and proceed with caution", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-007-c", "question_id": "ed-rs-007", "answer_text": "Triangle — yield to traffic from the right", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-007-d", "question_id": "ed-rs-007", "answer_text": "Rectangle — stop only if traffic is approaching", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-008",
+    "question_text": "What is the shape of a Give Way sign, and how does it differ from a Stop sign according to EDCAD?",
+    "explanation": "EDCAD Lesson 1 teaches that the give way sign is an inverted triangle. Unlike the stop sign where wheels must stop completely, at a give way sign you may slow down and proceed without stopping if the way is clear.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": "sign_give_way",
+    "image_url": null,
+    "tags": ["give_way", "inverted_triangle", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-008-a", "question_id": "ed-rs-008", "answer_text": "Inverted triangle — you may slow down and proceed without stopping if clear", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-008-b", "question_id": "ed-rs-008", "answer_text": "Octagon — you must stop completely just like at a stop sign", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-008-c", "question_id": "ed-rs-008", "answer_text": "Circle — you must give way only to traffic from the left", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-008-d", "question_id": "ed-rs-008", "answer_text": "Diamond — you have priority over other traffic", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-009",
+    "question_text": "What does a flashing amber light mean according to EDCAD?",
+    "explanation": "EDCAD Lesson 1 states that a flashing amber light means you should slow down, look for other road users, and give way. It is commonly found at pedestrian crossings, free exits, and road works areas.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["flashing_amber", "traffic_lights", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-009-a", "question_id": "ed-rs-009", "answer_text": "Slow down, look for road users, and give way", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-009-b", "question_id": "ed-rs-009", "answer_text": "Stop completely and wait for the light to change", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-009-c", "question_id": "ed-rs-009", "answer_text": "Proceed without slowing down as it means go", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-009-d", "question_id": "ed-rs-009", "answer_text": "The traffic light is broken and not working", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-010",
+    "question_text": "According to EDCAD, what does a steady amber traffic light mean?",
+    "explanation": "EDCAD Lesson 1 teaches that a steady amber light means STOP if you can do so safely. If you are too close to the intersection and cannot stop safely, you may proceed with caution. It serves as a warning that the light is about to turn red.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["amber_light", "traffic_lights", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-010-a", "question_id": "ed-rs-010", "answer_text": "Stop if you can safely do so", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-010-b", "question_id": "ed-rs-010", "answer_text": "Speed up to clear the intersection before it turns red", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-010-c", "question_id": "ed-rs-010", "answer_text": "It means the same as a green light", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-010-d", "question_id": "ed-rs-010", "answer_text": "Only stop if there are pedestrians crossing", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-011",
+    "question_text": "According to EDCAD, what is the difference between a controlled and uncontrolled pedestrian crossing?",
+    "explanation": "EDCAD Lesson 1 explains that a controlled pedestrian crossing has traffic lights or signals that regulate when pedestrians can cross, while an uncontrolled crossing relies on drivers to give way to pedestrians without any signal control.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["pedestrian_crossing", "controlled", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-011-a", "question_id": "ed-rs-011", "answer_text": "Controlled has traffic lights or signals; uncontrolled relies on drivers to give way", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-011-b", "question_id": "ed-rs-011", "answer_text": "Controlled is only for school zones; uncontrolled is for all other areas", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-011-c", "question_id": "ed-rs-011", "answer_text": "There is no difference; both require traffic lights", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-011-d", "question_id": "ed-rs-011", "answer_text": "Controlled means police are present; uncontrolled means no police", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-012",
+    "question_text": "According to EDCAD, what does a police officer with a raised hand signal to traffic?",
+    "explanation": "EDCAD Lesson 1 states that when a police officer raises their hand, it signals ALL traffic to stop from all directions. A police officer's directions take the highest precedence over all other traffic controls.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["police_signals", "hand_signals", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-012-a", "question_id": "ed-rs-012", "answer_text": "All traffic must stop from all directions", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-012-b", "question_id": "ed-rs-012", "answer_text": "Only traffic facing the officer must stop", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-012-c", "question_id": "ed-rs-012", "answer_text": "Traffic may proceed with caution", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-012-d", "question_id": "ed-rs-012", "answer_text": "It is a greeting and does not affect traffic", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-013",
+    "question_text": "Besides the four main groups, what two additional sign categories does EDCAD identify?",
+    "explanation": "EDCAD Lesson 1 identifies two additional sign categories beyond the four main groups: Supplementary signs (which provide extra information below main signs) and Temporary signs (orange-colored signs used during construction or road works).",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["supplementary_signs", "temporary_signs", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-013-a", "question_id": "ed-rs-013", "answer_text": "Supplementary and Temporary signs", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-013-b", "question_id": "ed-rs-013", "answer_text": "Emergency and Advisory signs", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-013-c", "question_id": "ed-rs-013", "answer_text": "Priority and Information signs", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-013-d", "question_id": "ed-rs-013", "answer_text": "Motorway and Local road signs", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-014",
+    "question_text": "Where might you encounter flashing amber lights according to EDCAD?",
+    "explanation": "EDCAD Lesson 1 states that flashing amber lights are commonly found at pedestrian crossings, free exits from junctions, and road works areas. They indicate that drivers should slow down and be prepared to give way.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["flashing_amber", "locations", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-014-a", "question_id": "ed-rs-014", "answer_text": "At pedestrian crossings, free exits, and road works", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-014-b", "question_id": "ed-rs-014", "answer_text": "Only on highways and major motorways", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-014-c", "question_id": "ed-rs-014", "answer_text": "Only at railway level crossings", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-014-d", "question_id": "ed-rs-014", "answer_text": "Inside tunnels only", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "ed-rs-015",
+    "question_text": "According to EDCAD, what must you do at a stop sign that you do NOT have to do at a give way sign?",
+    "explanation": "EDCAD Lesson 1 emphasizes that at a stop sign, your wheels MUST come to a complete stop first before checking for traffic. At a give way sign, you may slow down and proceed without fully stopping if the road is clear.",
+    "module": "road_signs",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["stop_vs_give_way", "edcad", "intersection_rules"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "ed-rs-015-a", "question_id": "ed-rs-015", "answer_text": "Bring your wheels to a complete stop before proceeding", "is_correct": true, "display_order": 1 },
+      { "id": "ed-rs-015-b", "question_id": "ed-rs-015", "answer_text": "Flash your headlights before entering the intersection", "is_correct": false, "display_order": 2 },
+      { "id": "ed-rs-015-c", "question_id": "ed-rs-015", "answer_text": "Honk your horn to alert other road users", "is_correct": false, "display_order": 3 },
+      { "id": "ed-rs-015-d", "question_id": "ed-rs-015", "answer_text": "There is no difference; both require a complete stop", "is_correct": false, "display_order": 4 }
+    ]
+  }
+]

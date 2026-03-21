@@ -1,0 +1,667 @@
+[
+  {
+    "id": "cs-001",
+    "question_text": "What should you do if your brakes fail while driving?",
+    "explanation": "If brakes fail, pump the brake pedal rapidly to try to build pressure. Downshift through the gears to use engine braking. Use the handbrake (parking brake) gently and progressively. Look for a safe area to stop, such as an uphill slope or soft ground.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 4,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["brake_failure", "emergency", "vehicle_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-001-a", "question_id": "cs-001", "answer_text": "Pump the brake pedal, downshift to use engine braking, and apply the handbrake gently", "is_correct": true, "display_order": 1},
+      {"id": "cs-001-b", "question_id": "cs-001", "answer_text": "Turn off the engine immediately", "is_correct": false, "display_order": 2},
+      {"id": "cs-001-c", "question_id": "cs-001", "answer_text": "Shift to neutral and coast to a stop", "is_correct": false, "display_order": 3},
+      {"id": "cs-001-d", "question_id": "cs-001", "answer_text": "Swerve onto the sidewalk to use friction to stop", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-002",
+    "question_text": "What is the correct response if you experience a tire blowout at high speed on a UAE highway?",
+    "explanation": "During a tire blowout, grip the steering wheel firmly, do not brake hard, and gradually ease off the accelerator. Let the vehicle slow down naturally while steering straight. Signal and carefully move to the hard shoulder once safe.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 4,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tire_blowout", "highway_emergency", "vehicle_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-002-a", "question_id": "cs-002", "answer_text": "Grip the wheel firmly, do not brake hard, ease off the accelerator, and steer straight to the shoulder", "is_correct": true, "display_order": 1},
+      {"id": "cs-002-b", "question_id": "cs-002", "answer_text": "Brake hard immediately to stop as quickly as possible", "is_correct": false, "display_order": 2},
+      {"id": "cs-002-c", "question_id": "cs-002", "answer_text": "Accelerate to maintain control of the vehicle", "is_correct": false, "display_order": 3},
+      {"id": "cs-002-d", "question_id": "cs-002", "answer_text": "Turn the steering wheel in the opposite direction of the blowout", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-003",
+    "question_text": "Your vehicle starts skidding on a wet road. What should you do?",
+    "explanation": "If your vehicle skids, take your foot off the accelerator and steer gently in the direction you want to go (steer into the skid). Do not brake hard as this will make the skid worse. Once you regain traction, gently straighten the wheel.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 4,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["skidding", "wet_roads", "vehicle_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-003-a", "question_id": "cs-003", "answer_text": "Ease off the accelerator and steer gently in the direction you want to go", "is_correct": true, "display_order": 1},
+      {"id": "cs-003-b", "question_id": "cs-003", "answer_text": "Brake hard and turn the wheel sharply in the opposite direction", "is_correct": false, "display_order": 2},
+      {"id": "cs-003-c", "question_id": "cs-003", "answer_text": "Accelerate to power out of the skid", "is_correct": false, "display_order": 3},
+      {"id": "cs-003-d", "question_id": "cs-003", "answer_text": "Take your hands off the wheel and let the car correct itself", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-004",
+    "question_text": "What should you do if smoke or flames appear from under your vehicle's hood while driving?",
+    "explanation": "If you notice smoke or flames from the engine: signal and pull over safely, turn off the engine, get all occupants out and away from the vehicle (at least 30 meters), and call 999 for emergency services. Do not open the hood as oxygen can feed the flames.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 4,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["engine_fire", "emergency", "evacuation"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-004-a", "question_id": "cs-004", "answer_text": "Pull over, turn off engine, evacuate all occupants away from the vehicle, and call 999", "is_correct": true, "display_order": 1},
+      {"id": "cs-004-b", "question_id": "cs-004", "answer_text": "Open the hood immediately to check the source of the fire", "is_correct": false, "display_order": 2},
+      {"id": "cs-004-c", "question_id": "cs-004", "answer_text": "Continue driving to the nearest gas station for help", "is_correct": false, "display_order": 3},
+      {"id": "cs-004-d", "question_id": "cs-004", "answer_text": "Pour water from your bottle onto the engine while it is running", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-005",
+    "question_text": "What is the emergency number to call in the UAE for police assistance after a traffic accident?",
+    "explanation": "In the UAE, the emergency number for police is 999. For ambulance services, call 998. For fire services, call 997. After an accident, call 999 to report the incident and request police to document it.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_procedures", "emergency_numbers", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-005-a", "question_id": "cs-005", "answer_text": "999", "is_correct": true, "display_order": 1},
+      {"id": "cs-005-b", "question_id": "cs-005", "answer_text": "911", "is_correct": false, "display_order": 2},
+      {"id": "cs-005-c", "question_id": "cs-005", "answer_text": "112", "is_correct": false, "display_order": 3},
+      {"id": "cs-005-d", "question_id": "cs-005", "answer_text": "100", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-006",
+    "question_text": "After a minor traffic accident with no injuries in the UAE, what should you do with the vehicles?",
+    "explanation": "In the UAE, after a minor accident with no injuries, you should move vehicles to the side of the road to avoid blocking traffic. Use the accident reporting apps (like Dubai Police app) or call police for documentation. Leaving vehicles blocking the road can result in a fine.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_procedures", "uae_law", "minor_accidents"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-006-a", "question_id": "cs-006", "answer_text": "Move vehicles to the side of the road and report through the police app or call police", "is_correct": true, "display_order": 1},
+      {"id": "cs-006-b", "question_id": "cs-006", "answer_text": "Leave the vehicles exactly where they are until police arrive", "is_correct": false, "display_order": 2},
+      {"id": "cs-006-c", "question_id": "cs-006", "answer_text": "Exchange details and leave without reporting to police", "is_correct": false, "display_order": 3},
+      {"id": "cs-006-d", "question_id": "cs-006", "answer_text": "Drive to the nearest police station immediately", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-007",
+    "question_text": "What is the first thing you should do when arriving at the scene of an accident as a first responder?",
+    "explanation": "Safety is the priority. First, ensure the scene is safe for you and others. Turn on hazard lights, set up warning triangles if possible, and check for dangers like fire or fuel leaks. Then assess casualties and call emergency services.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_procedures", "first_aid", "scene_safety"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-007-a", "question_id": "cs-007", "answer_text": "Ensure the scene is safe, turn on hazard lights, and set up warning triangles", "is_correct": true, "display_order": 1},
+      {"id": "cs-007-b", "question_id": "cs-007", "answer_text": "Immediately move the injured persons out of the vehicles", "is_correct": false, "display_order": 2},
+      {"id": "cs-007-c", "question_id": "cs-007", "answer_text": "Take photos for evidence before doing anything else", "is_correct": false, "display_order": 3},
+      {"id": "cs-007-d", "question_id": "cs-007", "answer_text": "Direct traffic around the accident scene", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-008",
+    "question_text": "What should you NOT do when providing first aid to an accident victim with a suspected spinal injury?",
+    "explanation": "Never move a person with a suspected spinal injury unless there is immediate danger (like fire). Moving them can cause permanent paralysis. Keep them still, support their head and neck in the position found, and wait for emergency services.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["first_aid", "spinal_injury", "emergency"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-008-a", "question_id": "cs-008", "answer_text": "Move the person unless there is immediate danger like fire", "is_correct": true, "display_order": 1},
+      {"id": "cs-008-b", "question_id": "cs-008", "answer_text": "Call emergency services immediately", "is_correct": false, "display_order": 2},
+      {"id": "cs-008-c", "question_id": "cs-008", "answer_text": "Keep the person calm and still", "is_correct": false, "display_order": 3},
+      {"id": "cs-008-d", "question_id": "cs-008", "answer_text": "Support their head and neck in the position found", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-009",
+    "question_text": "How should you respond when an emergency vehicle approaches from behind with sirens and flashing lights on a two-lane road?",
+    "explanation": "In the UAE, you must give way to emergency vehicles. On a two-lane road, slow down and pull over to the right side to allow the emergency vehicle to pass. Do not stop suddenly or block the emergency vehicle's path.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["emergency_vehicles", "giving_way", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-009-a", "question_id": "cs-009", "answer_text": "Slow down and pull over to the right side to let the emergency vehicle pass", "is_correct": true, "display_order": 1},
+      {"id": "cs-009-b", "question_id": "cs-009", "answer_text": "Speed up to stay ahead of the emergency vehicle", "is_correct": false, "display_order": 2},
+      {"id": "cs-009-c", "question_id": "cs-009", "answer_text": "Stop immediately in your lane", "is_correct": false, "display_order": 3},
+      {"id": "cs-009-d", "question_id": "cs-009", "answer_text": "Continue at your current speed; the emergency vehicle will go around you", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-010",
+    "question_text": "What is the correct procedure if your accelerator pedal gets stuck while driving?",
+    "explanation": "If the accelerator sticks, shift to neutral (the engine will rev but the car will not accelerate), apply the brakes firmly, and steer to a safe location. Once stopped, turn off the engine. Do not turn off the engine while moving as you may lose power steering.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 4,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accelerator_stuck", "emergency", "vehicle_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-010-a", "question_id": "cs-010", "answer_text": "Shift to neutral, apply brakes firmly, and steer to a safe location", "is_correct": true, "display_order": 1},
+      {"id": "cs-010-b", "question_id": "cs-010", "answer_text": "Turn off the ignition immediately while driving", "is_correct": false, "display_order": 2},
+      {"id": "cs-010-c", "question_id": "cs-010", "answer_text": "Pump the accelerator pedal to try to free it", "is_correct": false, "display_order": 3},
+      {"id": "cs-010-d", "question_id": "cs-010", "answer_text": "Open the car door and jump out", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-011",
+    "question_text": "Where should you place a warning triangle after a breakdown on a UAE highway?",
+    "explanation": "UAE law requires placing a warning triangle at least 200 meters behind your vehicle on highways. On urban roads, place it at least 50 meters behind. This gives approaching drivers enough time and distance to react.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["breakdown", "warning_triangle", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-011-a", "question_id": "cs-011", "answer_text": "At least 200 meters behind the vehicle on highways", "is_correct": true, "display_order": 1},
+      {"id": "cs-011-b", "question_id": "cs-011", "answer_text": "Directly behind the vehicle, touching the bumper", "is_correct": false, "display_order": 2},
+      {"id": "cs-011-c", "question_id": "cs-011", "answer_text": "10 meters behind the vehicle", "is_correct": false, "display_order": 3},
+      {"id": "cs-011-d", "question_id": "cs-011", "answer_text": "Warning triangles are not required in the UAE", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-012",
+    "question_text": "What should you do if your vehicle's steering suddenly becomes very heavy while driving?",
+    "explanation": "Heavy steering usually indicates a power steering failure. Grip the wheel firmly with both hands, slow down gradually, signal, and carefully steer to a safe stopping place. The vehicle is still steerable but requires much more effort.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["steering_failure", "emergency", "vehicle_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-012-a", "question_id": "cs-012", "answer_text": "Grip the wheel firmly, slow down gradually, and steer carefully to a safe stopping place", "is_correct": true, "display_order": 1},
+      {"id": "cs-012-b", "question_id": "cs-012", "answer_text": "Let go of the steering wheel and brake hard", "is_correct": false, "display_order": 2},
+      {"id": "cs-012-c", "question_id": "cs-012", "answer_text": "Turn off the engine to reset the power steering system", "is_correct": false, "display_order": 3},
+      {"id": "cs-012-d", "question_id": "cs-012", "answer_text": "Continue driving; the steering will fix itself", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-013",
+    "question_text": "An injured person at an accident scene is bleeding heavily from an arm wound. What first aid should you provide?",
+    "explanation": "For heavy bleeding, apply direct pressure to the wound using a clean cloth or dressing. Elevate the injured arm above the level of the heart if possible. Maintain pressure until emergency services arrive. Do not apply a tourniquet unless trained.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["first_aid", "bleeding", "emergency"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-013-a", "question_id": "cs-013", "answer_text": "Apply direct pressure with a clean cloth and elevate the arm above heart level", "is_correct": true, "display_order": 1},
+      {"id": "cs-013-b", "question_id": "cs-013", "answer_text": "Pour water on the wound to clean it first", "is_correct": false, "display_order": 2},
+      {"id": "cs-013-c", "question_id": "cs-013", "answer_text": "Apply a tourniquet as the first step", "is_correct": false, "display_order": 3},
+      {"id": "cs-013-d", "question_id": "cs-013", "answer_text": "Leave the wound open to air and wait for help", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-014",
+    "question_text": "What should you do if you witness an accident on a UAE highway but are not directly involved?",
+    "explanation": "If you witness an accident, do not stop on the highway unless you can safely pull over well ahead of the scene. Call 999 to report the accident, providing the location, number of vehicles, and whether there are injuries. Do not create a secondary accident by stopping unsafely.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_procedures", "reporting", "highway_safety"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-014-a", "question_id": "cs-014", "answer_text": "Call 999 to report the accident with location and details; only stop if you can do so safely", "is_correct": true, "display_order": 1},
+      {"id": "cs-014-b", "question_id": "cs-014", "answer_text": "Stop in the lane next to the accident to help immediately", "is_correct": false, "display_order": 2},
+      {"id": "cs-014-c", "question_id": "cs-014", "answer_text": "Continue driving; someone else will report it", "is_correct": false, "display_order": 3},
+      {"id": "cs-014-d", "question_id": "cs-014", "answer_text": "Slow down to record a video of the accident", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-015",
+    "question_text": "How should you react if your vehicle's hood suddenly flies open while driving?",
+    "explanation": "If the hood flies open, do not panic. Immediately slow down, look through the gap under the hood or use side windows to see the road. Signal and pull over safely. Do not brake suddenly or swerve, as you may cause a collision.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 4,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["emergency", "vehicle_malfunction", "vehicle_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-015-a", "question_id": "cs-015", "answer_text": "Slow down, look through any available gap or side windows, and pull over safely", "is_correct": true, "display_order": 1},
+      {"id": "cs-015-b", "question_id": "cs-015", "answer_text": "Brake hard and stop immediately", "is_correct": false, "display_order": 2},
+      {"id": "cs-015-c", "question_id": "cs-015", "answer_text": "Try to push the hood down while driving", "is_correct": false, "display_order": 3},
+      {"id": "cs-015-d", "question_id": "cs-015", "answer_text": "Continue driving; the hood will stay in the open position", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-016",
+    "question_text": "What is the recovery position, and when should it be used?",
+    "explanation": "The recovery position is placing an unconscious but breathing person on their side with the upper leg bent for stability. It keeps the airway clear and prevents choking on vomit. Use it for unconscious persons who are breathing normally.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["first_aid", "recovery_position", "unconscious_person"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-016-a", "question_id": "cs-016", "answer_text": "Placing an unconscious but breathing person on their side to keep the airway clear", "is_correct": true, "display_order": 1},
+      {"id": "cs-016-b", "question_id": "cs-016", "answer_text": "Sitting the person upright to help them breathe", "is_correct": false, "display_order": 2},
+      {"id": "cs-016-c", "question_id": "cs-016", "answer_text": "Laying the person flat on their back", "is_correct": false, "display_order": 3},
+      {"id": "cs-016-d", "question_id": "cs-016", "answer_text": "Elevating the person's feet above their head", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-017",
+    "question_text": "What should you do if your vehicle becomes submerged in water, such as during a flash flood?",
+    "explanation": "If your car is submerging, immediately unbuckle your seatbelt, unlock the doors, and try to open the door or window. If water pressure prevents the door from opening, wait until the water level inside nearly equals outside, then push the door open. Break the window as a last resort.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 5,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["flooding", "emergency", "vehicle_escape"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-017-a", "question_id": "cs-017", "answer_text": "Unbuckle seatbelt, open the window or door immediately, and escape the vehicle", "is_correct": true, "display_order": 1},
+      {"id": "cs-017-b", "question_id": "cs-017", "answer_text": "Stay in the car with windows closed and call for help", "is_correct": false, "display_order": 2},
+      {"id": "cs-017-c", "question_id": "cs-017", "answer_text": "Try to restart the engine and drive out", "is_correct": false, "display_order": 3},
+      {"id": "cs-017-d", "question_id": "cs-017", "answer_text": "Wait on the roof of the vehicle", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-018",
+    "question_text": "If you are involved in an accident in the UAE and someone is injured, what must you do before moving the vehicles?",
+    "explanation": "If there are injuries, do NOT move the vehicles. Call 999 immediately for police and 998 for ambulance. Provide first aid if you are able, secure the scene with hazard lights and warning triangles, and wait for emergency services.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_procedures", "injuries", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-018-a", "question_id": "cs-018", "answer_text": "Do not move the vehicles; call 999 and 998, provide first aid, and secure the scene", "is_correct": true, "display_order": 1},
+      {"id": "cs-018-b", "question_id": "cs-018", "answer_text": "Move the vehicles to the side immediately to clear traffic", "is_correct": false, "display_order": 2},
+      {"id": "cs-018-c", "question_id": "cs-018", "answer_text": "Drive the injured person to the nearest hospital", "is_correct": false, "display_order": 3},
+      {"id": "cs-018-d", "question_id": "cs-018", "answer_text": "Exchange insurance details and let the injured go to hospital on their own", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-019",
+    "question_text": "What is the correct technique for emergency braking in a vehicle with ABS (Anti-lock Braking System)?",
+    "explanation": "With ABS, press the brake pedal as hard as you can and hold it — do not pump the brakes. ABS prevents the wheels from locking, allowing you to steer while braking. You may feel a pulsation in the pedal, which is normal.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["emergency_braking", "abs", "vehicle_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-019-a", "question_id": "cs-019", "answer_text": "Press the brake pedal as hard as possible and hold it; do not pump the brakes", "is_correct": true, "display_order": 1},
+      {"id": "cs-019-b", "question_id": "cs-019", "answer_text": "Pump the brakes rapidly for maximum stopping power", "is_correct": false, "display_order": 2},
+      {"id": "cs-019-c", "question_id": "cs-019", "answer_text": "Apply light brake pressure to avoid activating the ABS", "is_correct": false, "display_order": 3},
+      {"id": "cs-019-d", "question_id": "cs-019", "answer_text": "Use the handbrake in combination with the foot brake", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-020",
+    "question_text": "You are driving and your windshield suddenly shatters. What should you do?",
+    "explanation": "If your windshield shatters, do not panic. Use the defroster or your fist to push out a small viewing area if needed. Slow down gradually, use your hazard lights, and look through any clear section or side windows to guide you to a safe stop.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 4,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["windshield", "emergency", "vehicle_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-020-a", "question_id": "cs-020", "answer_text": "Slow down gradually, use hazard lights, look through clear sections or side windows, and pull over safely", "is_correct": true, "display_order": 1},
+      {"id": "cs-020-b", "question_id": "cs-020", "answer_text": "Stop immediately in your lane", "is_correct": false, "display_order": 2},
+      {"id": "cs-020-c", "question_id": "cs-020", "answer_text": "Stick your head out the side window while driving at speed", "is_correct": false, "display_order": 3},
+      {"id": "cs-020-d", "question_id": "cs-020", "answer_text": "Continue driving; modern windshields hold together when shattered", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-021",
+    "question_text": "What is the penalty in the UAE for fleeing the scene of an accident (hit and run)?",
+    "explanation": "Fleeing the scene of an accident in the UAE is a serious criminal offense. Penalties include heavy fines, vehicle impoundment, license suspension, and even imprisonment, particularly if someone was injured. Always remain at the scene and report the accident.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["hit_and_run", "uae_law", "accident_procedures"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-021-a", "question_id": "cs-021", "answer_text": "Heavy fines, vehicle impoundment, license suspension, and possible imprisonment", "is_correct": true, "display_order": 1},
+      {"id": "cs-021-b", "question_id": "cs-021", "answer_text": "A small fine if you report to police within 24 hours", "is_correct": false, "display_order": 2},
+      {"id": "cs-021-c", "question_id": "cs-021", "answer_text": "No penalty if there were no injuries", "is_correct": false, "display_order": 3},
+      {"id": "cs-021-d", "question_id": "cs-021", "answer_text": "Only a warning for the first offense", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-022",
+    "question_text": "How should you handle a rear-wheel skid (oversteer) in a rear-wheel-drive vehicle?",
+    "explanation": "In a rear-wheel skid, the back end of the car slides outward. Take your foot off the accelerator and steer gently in the direction the rear of the car is sliding (the direction you want to go). Avoid braking hard. Once the car straightens, gently accelerate.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B"],
+    "difficulty": 4,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["skidding", "oversteer", "vehicle_control"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-022-a", "question_id": "cs-022", "answer_text": "Ease off the accelerator and steer in the direction the rear is sliding", "is_correct": true, "display_order": 1},
+      {"id": "cs-022-b", "question_id": "cs-022", "answer_text": "Steer in the opposite direction of the skid and accelerate", "is_correct": false, "display_order": 2},
+      {"id": "cs-022-c", "question_id": "cs-022", "answer_text": "Brake hard and hold the steering wheel straight", "is_correct": false, "display_order": 3},
+      {"id": "cs-022-d", "question_id": "cs-022", "answer_text": "Shift to neutral and let the car spin to a stop", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-023",
+    "question_text": "What is the UAE ambulance emergency number?",
+    "explanation": "In the UAE, the ambulance emergency number is 998. Police can be reached at 999 and fire services at 997. Save these numbers in your phone for quick access during emergencies.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["emergency_numbers", "ambulance", "uae_law"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-023-a", "question_id": "cs-023", "answer_text": "998", "is_correct": true, "display_order": 1},
+      {"id": "cs-023-b", "question_id": "cs-023", "answer_text": "999", "is_correct": false, "display_order": 2},
+      {"id": "cs-023-c", "question_id": "cs-023", "answer_text": "997", "is_correct": false, "display_order": 3},
+      {"id": "cs-023-d", "question_id": "cs-023", "answer_text": "911", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-024",
+    "question_text": "What should you do if your vehicle catches fire and you cannot open the door?",
+    "explanation": "If trapped in a burning vehicle, use the window breaker tool (if available) or kick out the side window. Side windows are tempered glass and will shatter into small pieces. Do not try to break the windshield as it is laminated and harder to break.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 5,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["engine_fire", "vehicle_escape", "emergency"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-024-a", "question_id": "cs-024", "answer_text": "Break a side window using a window breaker tool or by kicking it", "is_correct": true, "display_order": 1},
+      {"id": "cs-024-b", "question_id": "cs-024", "answer_text": "Try to break the windshield to escape", "is_correct": false, "display_order": 2},
+      {"id": "cs-024-c", "question_id": "cs-024", "answer_text": "Stay inside and wait for firefighters", "is_correct": false, "display_order": 3},
+      {"id": "cs-024-d", "question_id": "cs-024", "answer_text": "Try to put out the fire from inside the vehicle", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "cs-025",
+    "question_text": "What information should you collect after being involved in a traffic accident in the UAE?",
+    "explanation": "After an accident, collect: names and contact details of all parties, license plate numbers, driving license numbers, insurance details, vehicle registration (Mulkiya), photos of the damage and scene, and names of witnesses. This information is needed for insurance claims and police reports.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_procedures", "documentation", "insurance"],
+    "is_edcad_style": false,
+    "answers": [
+      {"id": "cs-025-a", "question_id": "cs-025", "answer_text": "Names, contact details, license plates, driving licenses, insurance, registration, photos, and witness details", "is_correct": true, "display_order": 1},
+      {"id": "cs-025-b", "question_id": "cs-025", "answer_text": "Only the other driver's phone number", "is_correct": false, "display_order": 2},
+      {"id": "cs-025-c", "question_id": "cs-025", "answer_text": "Just take a photo and leave the rest to the insurance company", "is_correct": false, "display_order": 3},
+      {"id": "cs-025-d", "question_id": "cs-025", "answer_text": "No information is needed; police handle all documentation", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-001",
+    "question_text": "According to EDCAD, what are the three main causes of road accidents?",
+    "explanation": "EDCAD Lesson 5 identifies the three main causes of accidents as: 1) Speed, 2) Carelessness, and 3) Lack of road manners. Speed is cited as the principal cause of more than half of all UAE road accidents.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_causes", "speed", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-001-a", "question_id": "ed-cs-001", "answer_text": "Speed, carelessness, and lack of road manners", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-001-b", "question_id": "ed-cs-001", "answer_text": "Vehicle defects, road conditions, and weather", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-001-c", "question_id": "ed-cs-001", "answer_text": "Distracted driving, drunk driving, and fatigue", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-001-d", "question_id": "ed-cs-001", "answer_text": "Poor road design, old vehicles, and lack of signs", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-002",
+    "question_text": "According to EDCAD, what proportion of UAE road accidents is caused by speeding?",
+    "explanation": "EDCAD Lesson 5 states that speeding is the principal cause of more than HALF of all road accidents in the UAE. This makes speed the single most dangerous factor in UAE road safety.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speeding", "accident_statistics", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-002-a", "question_id": "ed-cs-002", "answer_text": "More than half of all road accidents", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-002-b", "question_id": "ed-cs-002", "answer_text": "About 10% of accidents", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-002-c", "question_id": "ed-cs-002", "answer_text": "About 25% of accidents", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-002-d", "question_id": "ed-cs-002", "answer_text": "Less than 5% of accidents", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-003",
+    "question_text": "According to EDCAD, who is always responsible in a single vehicle accident?",
+    "explanation": "EDCAD Lesson 5 states that in single vehicle accidents, the driver is ALWAYS responsible. These are considered the most serious type of accident in terms of injuries, as the vehicle often leaves the road or hits a fixed object at speed.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["single_vehicle_accident", "driver_responsibility", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-003-a", "question_id": "ed-cs-003", "answer_text": "The driver is always responsible", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-003-b", "question_id": "ed-cs-003", "answer_text": "The road authority is responsible for poor road design", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-003-c", "question_id": "ed-cs-003", "answer_text": "The vehicle manufacturer if it is a mechanical failure", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-003-d", "question_id": "ed-cs-003", "answer_text": "No one is responsible in a single vehicle accident", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-004",
+    "question_text": "According to EDCAD, why are single vehicle accidents considered the most serious?",
+    "explanation": "EDCAD Lesson 5 states that single vehicle accidents result in the most serious injuries. This is because the vehicle often hits a fixed object (such as a pole, barrier, or tree) or rolls over at high speed with no other vehicle to absorb the impact.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["single_vehicle_accident", "serious_injuries", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-004-a", "question_id": "ed-cs-004", "answer_text": "They result in the most serious injuries due to hitting fixed objects at speed", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-004-b", "question_id": "ed-cs-004", "answer_text": "They are rarely serious because only one vehicle is involved", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-004-c", "question_id": "ed-cs-004", "answer_text": "They are only serious when involving pedestrians", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-004-d", "question_id": "ed-cs-004", "answer_text": "Single vehicle accidents rarely result in injuries", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-005",
+    "question_text": "According to EDCAD, what is a common UAE-specific road hazard on desert roads?",
+    "explanation": "EDCAD Lesson 5 specifically identifies camels and animals crossing roads as a UAE-specific hazard. Camels are large animals that are particularly dangerous because they are difficult to see at night and a collision can be fatal.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["camels", "desert_roads", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-005-a", "question_id": "ed-cs-005", "answer_text": "Camels and animals crossing the road", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-005-b", "question_id": "ed-cs-005", "answer_text": "Sand dunes blocking the entire road", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-005-c", "question_id": "ed-cs-005", "answer_text": "Desert plants growing on the road surface", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-005-d", "question_id": "ed-cs-005", "answer_text": "Underground water pipes bursting on the road", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-006",
+    "question_text": "According to EDCAD, what type of accident is specifically caused by ignoring rules, failing to notice signs, and driving too fast?",
+    "explanation": "EDCAD Lesson 5 identifies crossroad accidents as being caused by ignoring rules, failing to notice signs, and driving too fast through intersections. Proper observation and adherence to junction rules prevent these collisions.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["crossroad_accidents", "intersection_rules", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-006-a", "question_id": "ed-cs-006", "answer_text": "Crossroad accidents", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-006-b", "question_id": "ed-cs-006", "answer_text": "Rear-end collisions", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-006-c", "question_id": "ed-cs-006", "answer_text": "Parking lot accidents", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-006-d", "question_id": "ed-cs-006", "answer_text": "Highway pile-ups", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-007",
+    "question_text": "According to EDCAD, what are the two main factors that cause overtaking accidents?",
+    "explanation": "EDCAD Lesson 5 identifies two main causes of overtaking accidents: restricted view of oncoming traffic and misjudging the speed or distance of approaching vehicles. Both result in the overtaking driver pulling into the path of oncoming traffic.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["overtaking_accidents", "misjudgment", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-007-a", "question_id": "ed-cs-007", "answer_text": "Restricted view and misjudging speed or distance", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-007-b", "question_id": "ed-cs-007", "answer_text": "Not using indicators and poor mirror checks", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-007-c", "question_id": "ed-cs-007", "answer_text": "Engine power limitations and tire grip", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-007-d", "question_id": "ed-cs-007", "answer_text": "Road width and number of lanes", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-008",
+    "question_text": "According to EDCAD, which cause of accidents is listed as number one?",
+    "explanation": "EDCAD Lesson 5 lists the main causes of accidents in order: 1) SPEED, 2) Carelessness, 3) Lack of road manners. Speed is the number one cause, responsible for more than half of all UAE road accidents.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed", "number_one_cause", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-008-a", "question_id": "ed-cs-008", "answer_text": "Speed", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-008-b", "question_id": "ed-cs-008", "answer_text": "Distracted driving", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-008-c", "question_id": "ed-cs-008", "answer_text": "Drunk driving", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-008-d", "question_id": "ed-cs-008", "answer_text": "Vehicle mechanical failure", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-009",
+    "question_text": "According to EDCAD, what factors contribute to pedestrian accidents?",
+    "explanation": "EDCAD Lesson 5 lists the factors contributing to pedestrian accidents: not noticing the pedestrian, blind spots obstructing the driver's view, driving too fast to stop, and not scanning the road ahead properly.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["pedestrian_accidents", "blind_spots", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-009-a", "question_id": "ed-cs-009", "answer_text": "Not noticing pedestrians, blind spots, driving too fast, and not scanning", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-009-b", "question_id": "ed-cs-009", "answer_text": "Pedestrians are always at fault in accidents", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-009-c", "question_id": "ed-cs-009", "answer_text": "Poor street lighting is the only factor", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-009-d", "question_id": "ed-cs-009", "answer_text": "Lack of pedestrian crossings", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "ed-cs-010",
+    "question_text": "According to EDCAD, what is the impact equivalent of a crash at 50 km/h?",
+    "explanation": "EDCAD Lesson 8 states that at 50 km/h, the impact of a crash is equivalent to falling from a 3-storey building. This illustrates why seatbelts and safety equipment are essential even at relatively low speeds.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["impact_force", "speed_danger", "edcad"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "ed-cs-010-a", "question_id": "ed-cs-010", "answer_text": "Falling from a 3-storey building", "is_correct": true, "display_order": 1},
+      {"id": "ed-cs-010-b", "question_id": "ed-cs-010", "answer_text": "Falling from a 1-storey building", "is_correct": false, "display_order": 2},
+      {"id": "ed-cs-010-c", "question_id": "ed-cs-010", "answer_text": "Falling from a 10-storey building", "is_correct": false, "display_order": 3},
+      {"id": "ed-cs-010-d", "question_id": "ed-cs-010", "answer_text": "The impact is negligible at that speed", "is_correct": false, "display_order": 4}
+    ]
+  }
+]
