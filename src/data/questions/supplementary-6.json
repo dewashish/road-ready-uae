@@ -1,0 +1,1484 @@
+[
+  {
+    "id": "sup6-001",
+    "question_text": "Within what distance of a junction, crossing, or pedestrian crossing is stopping and parking prohibited?",
+    "explanation": "Stopping and parking are prohibited within 15 metres of a junction, crossing, or pedestrian crossing to maintain visibility and traffic flow.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "junctions", "distance_rules"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-001-a", "question_id": "sup6-001", "answer_text": "5 metres", "is_correct": false, "display_order": 1},
+      {"id": "sup6-001-b", "question_id": "sup6-001", "answer_text": "10 metres", "is_correct": false, "display_order": 2},
+      {"id": "sup6-001-c", "question_id": "sup6-001", "answer_text": "15 metres", "is_correct": true, "display_order": 3},
+      {"id": "sup6-001-d", "question_id": "sup6-001", "answer_text": "20 metres", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-002",
+    "question_text": "What is the difference between 'stopping' and 'parking' according to UAE traffic rules?",
+    "explanation": "Stopping means pulling up the vehicle; waiting means you remain behind the wheel; parking means you have left the car. These distinctions affect which rules apply.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "stopping", "definitions"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-002-a", "question_id": "sup6-002", "answer_text": "Stopping means pulling up; parking means you have left the car", "is_correct": true, "display_order": 1},
+      {"id": "sup6-002-b", "question_id": "sup6-002", "answer_text": "They mean the same thing", "is_correct": false, "display_order": 2},
+      {"id": "sup6-002-c", "question_id": "sup6-002", "answer_text": "Stopping is for less than 5 minutes; parking is for more than 5 minutes", "is_correct": false, "display_order": 3},
+      {"id": "sup6-002-d", "question_id": "sup6-002", "answer_text": "Stopping is on the road; parking is off the road", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-003",
+    "question_text": "What does 'waiting' mean in the context of stopping, waiting, and parking?",
+    "explanation": "Waiting means the driver remains behind the wheel while the vehicle is stationary. This is different from stopping (pulling up) and parking (leaving the car).",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["waiting", "definitions", "parking"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-003-a", "question_id": "sup6-003", "answer_text": "The driver has left the vehicle temporarily", "is_correct": false, "display_order": 1},
+      {"id": "sup6-003-b", "question_id": "sup6-003", "answer_text": "The driver remains behind the wheel while stationary", "is_correct": true, "display_order": 2},
+      {"id": "sup6-003-c", "question_id": "sup6-003", "answer_text": "The vehicle is stopped at a red traffic light", "is_correct": false, "display_order": 3},
+      {"id": "sup6-003-d", "question_id": "sup6-003", "answer_text": "The vehicle is in a designated parking space", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-004",
+    "question_text": "When parking downhill, which direction should you turn the front wheels?",
+    "explanation": "When parking downhill, turn the front wheels TOWARD the curb. If the car rolls, the wheels will steer it into the curb rather than into traffic.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "hill_parking", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-004-a", "question_id": "sup6-004", "answer_text": "Toward the curb", "is_correct": true, "display_order": 1},
+      {"id": "sup6-004-b", "question_id": "sup6-004", "answer_text": "Away from the curb", "is_correct": false, "display_order": 2},
+      {"id": "sup6-004-c", "question_id": "sup6-004", "answer_text": "Straight ahead", "is_correct": false, "display_order": 3},
+      {"id": "sup6-004-d", "question_id": "sup6-004", "answer_text": "It does not matter", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-005",
+    "question_text": "When parking downhill with a manual transmission, which gear should you leave the car in?",
+    "explanation": "When parking downhill, leave the car in REVERSE gear. This provides engine resistance against the car rolling forward down the hill.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "hill_parking", "manual_transmission"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-005-a", "question_id": "sup6-005", "answer_text": "First gear", "is_correct": false, "display_order": 1},
+      {"id": "sup6-005-b", "question_id": "sup6-005", "answer_text": "Reverse gear", "is_correct": true, "display_order": 2},
+      {"id": "sup6-005-c", "question_id": "sup6-005", "answer_text": "Neutral", "is_correct": false, "display_order": 3},
+      {"id": "sup6-005-d", "question_id": "sup6-005", "answer_text": "Third gear", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-006",
+    "question_text": "When parking uphill, which direction should you turn the front wheels?",
+    "explanation": "When parking uphill, turn the front wheels AWAY from the curb. If the car rolls backward, the wheels will steer it into the curb rather than into traffic.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "hill_parking", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-006-a", "question_id": "sup6-006", "answer_text": "Toward the curb", "is_correct": false, "display_order": 1},
+      {"id": "sup6-006-b", "question_id": "sup6-006", "answer_text": "Away from the curb", "is_correct": true, "display_order": 2},
+      {"id": "sup6-006-c", "question_id": "sup6-006", "answer_text": "Straight ahead", "is_correct": false, "display_order": 3},
+      {"id": "sup6-006-d", "question_id": "sup6-006", "answer_text": "At a 45-degree angle to the left", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-007",
+    "question_text": "When parking uphill with a manual transmission, which gear should you leave the car in?",
+    "explanation": "When parking uphill, leave the car in FIRST gear. This provides engine resistance against the car rolling backward down the hill.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["parking", "hill_parking", "manual_transmission"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-007-a", "question_id": "sup6-007", "answer_text": "First gear", "is_correct": true, "display_order": 1},
+      {"id": "sup6-007-b", "question_id": "sup6-007", "answer_text": "Reverse gear", "is_correct": false, "display_order": 2},
+      {"id": "sup6-007-c", "question_id": "sup6-007", "answer_text": "Neutral", "is_correct": false, "display_order": 3},
+      {"id": "sup6-007-d", "question_id": "sup6-007", "answer_text": "Second gear", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-008",
+    "question_text": "During what hours is using a horn prohibited in residential areas?",
+    "explanation": "Horn use is prohibited in residential areas from midnight to 6:00 AM, except when necessary to avert danger.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["horn", "residential", "noise"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-008-a", "question_id": "sup6-008", "answer_text": "10:00 PM to 6:00 AM", "is_correct": false, "display_order": 1},
+      {"id": "sup6-008-b", "question_id": "sup6-008", "answer_text": "Midnight to 6:00 AM", "is_correct": true, "display_order": 2},
+      {"id": "sup6-008-c", "question_id": "sup6-008", "answer_text": "11:00 PM to 7:00 AM", "is_correct": false, "display_order": 3},
+      {"id": "sup6-008-d", "question_id": "sup6-008", "answer_text": "9:00 PM to 5:00 AM", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-009",
+    "question_text": "How is a one-way street marked at each end?",
+    "explanation": "A one-way street is marked with a one-way sign at the entry end and a No Entry sign at the opposite end to prevent vehicles from entering against the flow.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["one_way", "signs", "road_markings"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-009-a", "question_id": "sup6-009", "answer_text": "One-way sign at entry; No Entry sign at the opposite end", "is_correct": true, "display_order": 1},
+      {"id": "sup6-009-b", "question_id": "sup6-009", "answer_text": "No Entry signs at both ends", "is_correct": false, "display_order": 2},
+      {"id": "sup6-009-c", "question_id": "sup6-009", "answer_text": "One-way signs at both ends", "is_correct": false, "display_order": 3},
+      {"id": "sup6-009-d", "question_id": "sup6-009", "answer_text": "Only road markings, no signs", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-010",
+    "question_text": "From which lane must a U-turn be made?",
+    "explanation": "U-turns must only be made from the left lane (nearest to the center of the road), and only if it is safe and will not cause hindrance to other road users.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["u_turn", "lane_discipline"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-010-a", "question_id": "sup6-010", "answer_text": "The right lane", "is_correct": false, "display_order": 1},
+      {"id": "sup6-010-b", "question_id": "sup6-010", "answer_text": "The left lane", "is_correct": true, "display_order": 2},
+      {"id": "sup6-010-c", "question_id": "sup6-010", "answer_text": "Any lane, as long as it is safe", "is_correct": false, "display_order": 3},
+      {"id": "sup6-010-d", "question_id": "sup6-010", "answer_text": "The middle lane", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-011",
+    "question_text": "When reversing near a junction, you should always reverse into which type of road?",
+    "explanation": "When reversing, always reverse into the MINOR road. This keeps the vehicle's front facing the major road for better visibility of oncoming traffic.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["reversing", "junctions", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-011-a", "question_id": "sup6-011", "answer_text": "The major road", "is_correct": false, "display_order": 1},
+      {"id": "sup6-011-b", "question_id": "sup6-011", "answer_text": "The minor road", "is_correct": true, "display_order": 2},
+      {"id": "sup6-011-c", "question_id": "sup6-011", "answer_text": "Whichever road is wider", "is_correct": false, "display_order": 3},
+      {"id": "sup6-011-d", "question_id": "sup6-011", "answer_text": "The road with less traffic at that moment", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-012",
+    "question_text": "When turning at a junction, what should you be aware of regarding pedestrian lights?",
+    "explanation": "When turning at a junction, the pedestrian lights may be green at the same time. Drivers must give way to pedestrians who are crossing.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["pedestrians", "traffic_lights", "junctions"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-012-a", "question_id": "sup6-012", "answer_text": "Pedestrian lights are always red when your signal is green", "is_correct": false, "display_order": 1},
+      {"id": "sup6-012-b", "question_id": "sup6-012", "answer_text": "Pedestrian lights may be green — you must give way to pedestrians", "is_correct": true, "display_order": 2},
+      {"id": "sup6-012-c", "question_id": "sup6-012", "answer_text": "Pedestrians must always wait for vehicles to pass first", "is_correct": false, "display_order": 3},
+      {"id": "sup6-012-d", "question_id": "sup6-012", "answer_text": "Pedestrian crossings are deactivated during turning phases", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-013",
+    "question_text": "When is the use of full beam headlights prohibited?",
+    "explanation": "Full beam headlights are prohibited in built-up areas that have adequate street lighting, as they can dazzle other road users.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["headlights", "full_beam", "built_up_areas"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-013-a", "question_id": "sup6-013", "answer_text": "On motorways at night", "is_correct": false, "display_order": 1},
+      {"id": "sup6-013-b", "question_id": "sup6-013", "answer_text": "In built-up areas with adequate street lighting", "is_correct": true, "display_order": 2},
+      {"id": "sup6-013-c", "question_id": "sup6-013", "answer_text": "On rural roads at night", "is_correct": false, "display_order": 3},
+      {"id": "sup6-013-d", "question_id": "sup6-013", "answer_text": "During daytime only", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-014",
+    "question_text": "What do alternately flashing red lights outside a fire station mean?",
+    "explanation": "Alternately flashing red lights at a fire station mean you must STOP. Fire engines may be about to emerge.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fire_station", "flashing_lights", "emergency"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-014-a", "question_id": "sup6-014", "answer_text": "Slow down and proceed with caution", "is_correct": false, "display_order": 1},
+      {"id": "sup6-014-b", "question_id": "sup6-014", "answer_text": "Stop", "is_correct": true, "display_order": 2},
+      {"id": "sup6-014-c", "question_id": "sup6-014", "answer_text": "Speed up to clear the area quickly", "is_correct": false, "display_order": 3},
+      {"id": "sup6-014-d", "question_id": "sup6-014", "answer_text": "Move to the left lane", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-015",
+    "question_text": "On a motorway, what does a red cross displayed above a lane indicate?",
+    "explanation": "Lane control signs use a red cross to indicate the lane is closed, and a green arrow to indicate the lane is open for use.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lane_control", "motorway", "signs"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-015-a", "question_id": "sup6-015", "answer_text": "The lane is open for use", "is_correct": false, "display_order": 1},
+      {"id": "sup6-015-b", "question_id": "sup6-015", "answer_text": "The lane is closed", "is_correct": true, "display_order": 2},
+      {"id": "sup6-015-c", "question_id": "sup6-015", "answer_text": "Emergency vehicles only", "is_correct": false, "display_order": 3},
+      {"id": "sup6-015-d", "question_id": "sup6-015", "answer_text": "The lane is for heavy vehicles only", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-016",
+    "question_text": "What is the purpose of school crossing patrols?",
+    "explanation": "School crossing patrols help children cross busy streets and alert drivers to the presence of children on the road.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["school_crossing", "children", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-016-a", "question_id": "sup6-016", "answer_text": "To direct general traffic flow near schools", "is_correct": false, "display_order": 1},
+      {"id": "sup6-016-b", "question_id": "sup6-016", "answer_text": "To help children cross and alert drivers to children on the road", "is_correct": true, "display_order": 2},
+      {"id": "sup6-016-c", "question_id": "sup6-016", "answer_text": "To issue fines to speeding drivers", "is_correct": false, "display_order": 3},
+      {"id": "sup6-016-d", "question_id": "sup6-016", "answer_text": "To replace traffic lights during school hours", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-017",
+    "question_text": "What is the maximum speed limit on some UAE roads?",
+    "explanation": "The maximum speed limit in the UAE is 140 km/h on some roads (with certain roads allowing up to 160 km/h). City speed limit is typically 80 km/h and outside built-up areas is 100 km/h.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limits", "uae_roads"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-017-a", "question_id": "sup6-017", "answer_text": "120 km/h", "is_correct": false, "display_order": 1},
+      {"id": "sup6-017-b", "question_id": "sup6-017", "answer_text": "140 km/h (some roads up to 160 km/h)", "is_correct": true, "display_order": 2},
+      {"id": "sup6-017-c", "question_id": "sup6-017", "answer_text": "100 km/h", "is_correct": false, "display_order": 3},
+      {"id": "sup6-017-d", "question_id": "sup6-017", "answer_text": "180 km/h", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-018",
+    "question_text": "What is the typical speed limit within cities in the UAE?",
+    "explanation": "The typical speed limit within cities in the UAE is 80 km/h, while outside built-up areas it is 100 km/h.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["speed_limits", "city_driving"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-018-a", "question_id": "sup6-018", "answer_text": "60 km/h", "is_correct": false, "display_order": 1},
+      {"id": "sup6-018-b", "question_id": "sup6-018", "answer_text": "80 km/h", "is_correct": true, "display_order": 2},
+      {"id": "sup6-018-c", "question_id": "sup6-018", "answer_text": "100 km/h", "is_correct": false, "display_order": 3},
+      {"id": "sup6-018-d", "question_id": "sup6-018", "answer_text": "120 km/h", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-019",
+    "question_text": "Approximately how far does it take to stop at 60 km/h on a dry road?",
+    "explanation": "At 60 km/h on a dry road, the total stopping distance is approximately 35 metres. At 120 km/h, it increases dramatically to about 110 metres.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["stopping_distance", "speed"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-019-a", "question_id": "sup6-019", "answer_text": "About 20 metres", "is_correct": false, "display_order": 1},
+      {"id": "sup6-019-b", "question_id": "sup6-019", "answer_text": "About 35 metres", "is_correct": true, "display_order": 2},
+      {"id": "sup6-019-c", "question_id": "sup6-019", "answer_text": "About 50 metres", "is_correct": false, "display_order": 3},
+      {"id": "sup6-019-d", "question_id": "sup6-019", "answer_text": "About 70 metres", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-020",
+    "question_text": "At 120 km/h on a dry road, approximately how far does it take to stop?",
+    "explanation": "At 120 km/h on a dry road, the total stopping distance is approximately 110 metres. This is why higher speeds are so much more dangerous.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["stopping_distance", "high_speed"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-020-a", "question_id": "sup6-020", "answer_text": "About 70 metres", "is_correct": false, "display_order": 1},
+      {"id": "sup6-020-b", "question_id": "sup6-020", "answer_text": "About 90 metres", "is_correct": false, "display_order": 2},
+      {"id": "sup6-020-c", "question_id": "sup6-020", "answer_text": "About 110 metres", "is_correct": true, "display_order": 3},
+      {"id": "sup6-020-d", "question_id": "sup6-020", "answer_text": "About 150 metres", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-021",
+    "question_text": "At 80 km/h, approximately how far does a car travel during the driver's 1-second reaction time?",
+    "explanation": "Reaction time is approximately 1 second. At 80 km/h the car covers about 22 metres before the driver even begins to brake. At 60 km/h it is 17m and at 120 km/h it is 33m.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["reaction_time", "thinking_distance", "speed"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-021-a", "question_id": "sup6-021", "answer_text": "About 10 metres", "is_correct": false, "display_order": 1},
+      {"id": "sup6-021-b", "question_id": "sup6-021", "answer_text": "About 17 metres", "is_correct": false, "display_order": 2},
+      {"id": "sup6-021-c", "question_id": "sup6-021", "answer_text": "About 22 metres", "is_correct": true, "display_order": 3},
+      {"id": "sup6-021-d", "question_id": "sup6-021", "answer_text": "About 33 metres", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-022",
+    "question_text": "When turning onto a major road where traffic moves at 80 km/h, what minimum gap in traffic do you need?",
+    "explanation": "At 80 km/h, a car covers about 22 metres per second. Since a turn takes 5-6 seconds, you need at least 300 metres of clear road to turn safely.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["gap_judgment", "turning", "major_road"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-022-a", "question_id": "sup6-022", "answer_text": "At least 100 metres", "is_correct": false, "display_order": 1},
+      {"id": "sup6-022-b", "question_id": "sup6-022", "answer_text": "At least 200 metres", "is_correct": false, "display_order": 2},
+      {"id": "sup6-022-c", "question_id": "sup6-022", "answer_text": "At least 300 metres", "is_correct": true, "display_order": 3},
+      {"id": "sup6-022-d", "question_id": "sup6-022", "answer_text": "At least 500 metres", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-023",
+    "question_text": "What are the three stages of overtaking?",
+    "explanation": "The three stages of overtaking are: (1) check road, mirrors, and blind spot, (2) overtake quickly without exceeding the speed limit, (3) return to the right when the overtaken vehicle is visible in your center mirror.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["overtaking", "procedure"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-023-a", "question_id": "sup6-023", "answer_text": "Check mirrors/road/blind spot, overtake quickly, return right when overtaken vehicle visible in center mirror", "is_correct": true, "display_order": 1},
+      {"id": "sup6-023-b", "question_id": "sup6-023", "answer_text": "Signal, accelerate, return to lane immediately", "is_correct": false, "display_order": 2},
+      {"id": "sup6-023-c", "question_id": "sup6-023", "answer_text": "Flash headlights, overtake, signal right", "is_correct": false, "display_order": 3},
+      {"id": "sup6-023-d", "question_id": "sup6-023", "answer_text": "Sound horn, pass quickly, cut in front", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-024",
+    "question_text": "Why should you not fully trust an oncoming vehicle's turn indicator?",
+    "explanation": "The driver might have forgotten to cancel the indicator, or the oncoming vehicle may be hiding another vehicle behind it. Never rely solely on another driver's indicator.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["indicators", "hazard_awareness", "overtaking"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-024-a", "question_id": "sup6-024", "answer_text": "They might have forgotten it on, or another vehicle may be hidden behind", "is_correct": true, "display_order": 1},
+      {"id": "sup6-024-b", "question_id": "sup6-024", "answer_text": "Indicators are unreliable in hot weather", "is_correct": false, "display_order": 2},
+      {"id": "sup6-024-c", "question_id": "sup6-024", "answer_text": "The indicator light may not be visible in daytime", "is_correct": false, "display_order": 3},
+      {"id": "sup6-024-d", "question_id": "sup6-024", "answer_text": "Indicators have a different meaning in the UAE", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-025",
+    "question_text": "When being overtaken, what should you do?",
+    "explanation": "When being overtaken, keep to the right and do not speed up. Keep full beam headlights on until the overtaking car is to your left, then dip them.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["overtaking", "being_overtaken", "courtesy"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-025-a", "question_id": "sup6-025", "answer_text": "Speed up to prevent the overtake", "is_correct": false, "display_order": 1},
+      {"id": "sup6-025-b", "question_id": "sup6-025", "answer_text": "Keep right and do not speed up", "is_correct": true, "display_order": 2},
+      {"id": "sup6-025-c", "question_id": "sup6-025", "answer_text": "Move to the left lane", "is_correct": false, "display_order": 3},
+      {"id": "sup6-025-d", "question_id": "sup6-025", "answer_text": "Brake immediately to let them pass", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-026",
+    "question_text": "What should you do during a Shamal (sandstorm)?",
+    "explanation": "During a Shamal or sandstorm, you should pull over and stop until the storm passes. After the storm, watch for sand spits (accumulations of sand) on the road.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["sandstorm", "shamal", "uae_conditions"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-026-a", "question_id": "sup6-026", "answer_text": "Continue driving slowly with hazard lights on", "is_correct": false, "display_order": 1},
+      {"id": "sup6-026-b", "question_id": "sup6-026", "answer_text": "Pull over and stop until the storm passes", "is_correct": true, "display_order": 2},
+      {"id": "sup6-026-c", "question_id": "sup6-026", "answer_text": "Speed up to drive through the storm quickly", "is_correct": false, "display_order": 3},
+      {"id": "sup6-026-d", "question_id": "sup6-026", "answer_text": "Turn around and drive in the opposite direction", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-027",
+    "question_text": "Which lights should you use when driving in fog?",
+    "explanation": "In fog, use dipped headlights and front fog lights. Rear fog lights should ONLY be used in seriously reduced visibility. Never use full beam in fog as it reflects off water droplets.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fog", "headlights", "visibility"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-027-a", "question_id": "sup6-027", "answer_text": "Full beam headlights", "is_correct": false, "display_order": 1},
+      {"id": "sup6-027-b", "question_id": "sup6-027", "answer_text": "Dipped headlights and fog lights", "is_correct": true, "display_order": 2},
+      {"id": "sup6-027-c", "question_id": "sup6-027", "answer_text": "Parking lights only", "is_correct": false, "display_order": 3},
+      {"id": "sup6-027-d", "question_id": "sup6-027", "answer_text": "Hazard warning lights", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-028",
+    "question_text": "When should rear fog lights be used?",
+    "explanation": "Rear fog lights should ONLY be used in seriously reduced visibility conditions. Using them in normal conditions can dazzle drivers behind you.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fog_lights", "rear_fog", "visibility"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-028-a", "question_id": "sup6-028", "answer_text": "Whenever it rains", "is_correct": false, "display_order": 1},
+      {"id": "sup6-028-b", "question_id": "sup6-028", "answer_text": "Only in seriously reduced visibility", "is_correct": true, "display_order": 2},
+      {"id": "sup6-028-c", "question_id": "sup6-028", "answer_text": "At all times during night driving", "is_correct": false, "display_order": 3},
+      {"id": "sup6-028-d", "question_id": "sup6-028", "answer_text": "Whenever dipped headlights are on", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-029",
+    "question_text": "At night, why is it generally safer to drive near the centerline rather than close to the right side of the road?",
+    "explanation": "At night, it is safer to position near the centerline because pedestrians wearing dark clothing may be walking near the right verge and would be very difficult to see.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["night_driving", "positioning", "pedestrians"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-029-a", "question_id": "sup6-029", "answer_text": "The road surface is smoother near the center", "is_correct": false, "display_order": 1},
+      {"id": "sup6-029-b", "question_id": "sup6-029", "answer_text": "Pedestrians in dark clothing may be near the right verge", "is_correct": true, "display_order": 2},
+      {"id": "sup6-029-c", "question_id": "sup6-029", "answer_text": "Oncoming headlights provide better visibility near the center", "is_correct": false, "display_order": 3},
+      {"id": "sup6-029-d", "question_id": "sup6-029", "answer_text": "Road markings are more visible near the center", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-030",
+    "question_text": "At night, at which type of bend should you dip your headlights earlier?",
+    "explanation": "At a right-hand bend, you should dip headlights earlier because the lights cut across oncoming traffic. At a left-hand bend, you may not need to dip as early.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["night_driving", "headlights", "bends"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-030-a", "question_id": "sup6-030", "answer_text": "A right-hand bend — lights cut across oncoming traffic", "is_correct": true, "display_order": 1},
+      {"id": "sup6-030-b", "question_id": "sup6-030", "answer_text": "A left-hand bend — lights shine into oncoming lane", "is_correct": false, "display_order": 2},
+      {"id": "sup6-030-c", "question_id": "sup6-030", "answer_text": "Both bends equally", "is_correct": false, "display_order": 3},
+      {"id": "sup6-030-d", "question_id": "sup6-030", "answer_text": "Neither — full beam is always acceptable on bends", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-031",
+    "question_text": "What should you do with your headlights when parking at night?",
+    "explanation": "When parking at night, switch OFF headlights (it is an offence to leave them on) and switch ON parking lights so other road users can see your vehicle.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["night_parking", "headlights", "parking_lights"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-031-a", "question_id": "sup6-031", "answer_text": "Leave headlights on so others can see you", "is_correct": false, "display_order": 1},
+      {"id": "sup6-031-b", "question_id": "sup6-031", "answer_text": "Switch off headlights and switch on parking lights", "is_correct": true, "display_order": 2},
+      {"id": "sup6-031-c", "question_id": "sup6-031", "answer_text": "Switch off all lights completely", "is_correct": false, "display_order": 3},
+      {"id": "sup6-031-d", "question_id": "sup6-031", "answer_text": "Use hazard warning lights instead", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-032",
+    "question_text": "Why should you keep noise to a minimum when driving at night?",
+    "explanation": "At night, noise carries further and disturbs residents. Avoid revving the engine unnecessarily and close doors quietly in residential areas.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["night_driving", "noise", "courtesy"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-032-a", "question_id": "sup6-032", "answer_text": "Noise damages the engine at night", "is_correct": false, "display_order": 1},
+      {"id": "sup6-032-b", "question_id": "sup6-032", "answer_text": "Noise carries further at night and disturbs residents", "is_correct": true, "display_order": 2},
+      {"id": "sup6-032-c", "question_id": "sup6-032", "answer_text": "Police patrol more frequently at night", "is_correct": false, "display_order": 3},
+      {"id": "sup6-032-d", "question_id": "sup6-032", "answer_text": "Noise frightens animals that may run onto the road", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-033",
+    "question_text": "What is a crawler (climbing) lane on a motorway?",
+    "explanation": "A crawler or climbing lane is an extra lane on steep hills designed for heavy vehicles that cannot maintain speed on the gradient.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["motorway", "crawler_lane", "heavy_vehicles"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-033-a", "question_id": "sup6-033", "answer_text": "A lane for emergency vehicles on steep hills", "is_correct": false, "display_order": 1},
+      {"id": "sup6-033-b", "question_id": "sup6-033", "answer_text": "An extra lane on steep hills for heavy vehicles that cannot maintain speed", "is_correct": true, "display_order": 2},
+      {"id": "sup6-033-c", "question_id": "sup6-033", "answer_text": "A breakdown lane on the motorway hard shoulder", "is_correct": false, "display_order": 3},
+      {"id": "sup6-033-d", "question_id": "sup6-033", "answer_text": "A lane designated for vehicles travelling under 40 km/h", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-034",
+    "question_text": "On a motorway with chevron markings, how many chevrons should you keep between you and the vehicle ahead?",
+    "explanation": "On motorways with chevron markings, keep at least 2 chevrons between you and the vehicle ahead to maintain a safe following distance.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["chevrons", "following_distance", "motorway"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-034-a", "question_id": "sup6-034", "answer_text": "At least 1 chevron", "is_correct": false, "display_order": 1},
+      {"id": "sup6-034-b", "question_id": "sup6-034", "answer_text": "At least 2 chevrons", "is_correct": true, "display_order": 2},
+      {"id": "sup6-034-c", "question_id": "sup6-034", "answer_text": "At least 3 chevrons", "is_correct": false, "display_order": 3},
+      {"id": "sup6-034-d", "question_id": "sup6-034", "answer_text": "At least 4 chevrons", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-035",
+    "question_text": "Why is tailgating especially dangerous on motorways?",
+    "explanation": "Tailgating is a very dangerous practice, especially on motorways where speeds are high. It is one of the most common causes of serious accidents because there is no time to react.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tailgating", "motorway", "following_distance"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-035-a", "question_id": "sup6-035", "answer_text": "At high speeds there is no time to react if the vehicle ahead brakes", "is_correct": true, "display_order": 1},
+      {"id": "sup6-035-b", "question_id": "sup6-035", "answer_text": "It causes the vehicle ahead to slow down", "is_correct": false, "display_order": 2},
+      {"id": "sup6-035-c", "question_id": "sup6-035", "answer_text": "It increases fuel consumption", "is_correct": false, "display_order": 3},
+      {"id": "sup6-035-d", "question_id": "sup6-035", "answer_text": "It blocks the view for vehicles behind you", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-036",
+    "question_text": "Where should you preferably stop on a highway?",
+    "explanation": "On a highway, preferably stop at lay-bys or designated parking places. A car stopped on the highway side is always a potential hazard to other traffic.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["lay_by", "highway_stopping", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-036-a", "question_id": "sup6-036", "answer_text": "On the hard shoulder", "is_correct": false, "display_order": 1},
+      {"id": "sup6-036-b", "question_id": "sup6-036", "answer_text": "At lay-bys or designated parking places", "is_correct": true, "display_order": 2},
+      {"id": "sup6-036-c", "question_id": "sup6-036", "answer_text": "On the right side of the road", "is_correct": false, "display_order": 3},
+      {"id": "sup6-036-d", "question_id": "sup6-036", "answer_text": "Under any bridge or overpass", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-037",
+    "question_text": "What is the minimum number of vehicles you should travel with when driving off-road or on sand dunes?",
+    "explanation": "When driving off-road or on sand dunes, never drive alone. Always travel with at least 2 other vehicles (3 total) and inform family or friends of your intentions.",
+    "module": "driving_conditions",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["off_road", "sand_dunes", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-037-a", "question_id": "sup6-037", "answer_text": "You can drive alone if you have a GPS", "is_correct": false, "display_order": 1},
+      {"id": "sup6-037-b", "question_id": "sup6-037", "answer_text": "At least 1 other vehicle", "is_correct": false, "display_order": 2},
+      {"id": "sup6-037-c", "question_id": "sup6-037", "answer_text": "At least 2 other vehicles", "is_correct": true, "display_order": 3},
+      {"id": "sup6-037-d", "question_id": "sup6-037", "answer_text": "At least 4 other vehicles", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-038",
+    "question_text": "According to Abu Dhabi accident statistics, what proportion of persons killed in traffic accidents are men?",
+    "explanation": "9 out of 10 persons killed in Abu Dhabi traffic accidents are men, making males significantly overrepresented in fatal accident statistics.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["statistics", "fatalities", "gender"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-038-a", "question_id": "sup6-038", "answer_text": "5 out of 10", "is_correct": false, "display_order": 1},
+      {"id": "sup6-038-b", "question_id": "sup6-038", "answer_text": "7 out of 10", "is_correct": false, "display_order": 2},
+      {"id": "sup6-038-c", "question_id": "sup6-038", "answer_text": "9 out of 10", "is_correct": true, "display_order": 3},
+      {"id": "sup6-038-d", "question_id": "sup6-038", "answer_text": "6 out of 10", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-039",
+    "question_text": "What percentage of UAE traffic fatalities are young male Emirati nationals?",
+    "explanation": "More than 70% of UAE traffic fatalities are young male Emirati nationals, highlighting the urgent need for road safety education among this demographic.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["statistics", "young_drivers", "fatalities"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-039-a", "question_id": "sup6-039", "answer_text": "More than 30%", "is_correct": false, "display_order": 1},
+      {"id": "sup6-039-b", "question_id": "sup6-039", "answer_text": "More than 50%", "is_correct": false, "display_order": 2},
+      {"id": "sup6-039-c", "question_id": "sup6-039", "answer_text": "More than 70%", "is_correct": true, "display_order": 3},
+      {"id": "sup6-039-d", "question_id": "sup6-039", "answer_text": "More than 90%", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-040",
+    "question_text": "What is a leading cause of fatalities among young male drivers in the UAE?",
+    "explanation": "Using mobile phones while driving is a leading cause of fatalities among young males in the UAE, causing dangerous distraction from the road.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["mobile_phone", "distraction", "young_drivers"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-040-a", "question_id": "sup6-040", "answer_text": "Driving without headlights", "is_correct": false, "display_order": 1},
+      {"id": "sup6-040-b", "question_id": "sup6-040", "answer_text": "Using mobile phones while driving", "is_correct": true, "display_order": 2},
+      {"id": "sup6-040-c", "question_id": "sup6-040", "answer_text": "Not wearing sunglasses", "is_correct": false, "display_order": 3},
+      {"id": "sup6-040-d", "question_id": "sup6-040", "answer_text": "Driving with expired registration", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-041",
+    "question_text": "What is the most common type of accident on main roads outside built-up areas?",
+    "explanation": "Single vehicle accidents are the most common type on main roads outside built-up areas, often caused by excessive speed or driver fatigue.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accidents", "rural_roads", "single_vehicle"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-041-a", "question_id": "sup6-041", "answer_text": "Head-on collisions", "is_correct": false, "display_order": 1},
+      {"id": "sup6-041-b", "question_id": "sup6-041", "answer_text": "Single vehicle accidents", "is_correct": true, "display_order": 2},
+      {"id": "sup6-041-c", "question_id": "sup6-041", "answer_text": "Rear-end collisions", "is_correct": false, "display_order": 3},
+      {"id": "sup6-041-d", "question_id": "sup6-041", "answer_text": "Pedestrian accidents", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-042",
+    "question_text": "Why are accidents at traffic light junctions often more severe than at roundabouts?",
+    "explanation": "Accidents at traffic light junctions are fewer in number but more severe because they often involve high speeds. Roundabouts are safer; accidents there are often not severe (typically sideswipe).",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["junctions", "roundabouts", "accident_severity"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-042-a", "question_id": "sup6-042", "answer_text": "High speeds are often involved at traffic light junctions", "is_correct": true, "display_order": 1},
+      {"id": "sup6-042-b", "question_id": "sup6-042", "answer_text": "Traffic lights are often ignored by drivers", "is_correct": false, "display_order": 2},
+      {"id": "sup6-042-c", "question_id": "sup6-042", "answer_text": "Traffic light junctions have more pedestrians", "is_correct": false, "display_order": 3},
+      {"id": "sup6-042-d", "question_id": "sup6-042", "answer_text": "Traffic light junctions are wider than roundabouts", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-043",
+    "question_text": "Which type of junction is considered the safest?",
+    "explanation": "Roundabouts are considered the safest type of junction. Accidents at roundabouts are often not severe, typically being sideswipe collisions at lower speeds.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabouts", "junction_safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-043-a", "question_id": "sup6-043", "answer_text": "Traffic light junctions", "is_correct": false, "display_order": 1},
+      {"id": "sup6-043-b", "question_id": "sup6-043", "answer_text": "Roundabouts", "is_correct": true, "display_order": 2},
+      {"id": "sup6-043-c", "question_id": "sup6-043", "answer_text": "Uncontrolled crossroads", "is_correct": false, "display_order": 3},
+      {"id": "sup6-043-d", "question_id": "sup6-043", "answer_text": "T-junctions", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-044",
+    "question_text": "What should you do when traffic lights at a junction are not working?",
+    "explanation": "When traffic lights are not working, proceed with extreme care and courtesy. These situations are very difficult to navigate safely.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["traffic_lights", "malfunction", "caution"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-044-a", "question_id": "sup6-044", "answer_text": "Treat it as a green light and proceed normally", "is_correct": false, "display_order": 1},
+      {"id": "sup6-044-b", "question_id": "sup6-044", "answer_text": "Proceed with extreme care and courtesy", "is_correct": true, "display_order": 2},
+      {"id": "sup6-044-c", "question_id": "sup6-044", "answer_text": "Stop and wait until the lights are repaired", "is_correct": false, "display_order": 3},
+      {"id": "sup6-044-d", "question_id": "sup6-044", "answer_text": "Turn around and find an alternative route", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-045",
+    "question_text": "What are common causes of motorcycle accidents?",
+    "explanation": "Motorcycle accidents are commonly caused by other drivers not seeing the motorcycle (it is smaller), unexpected speeds of motorcycles, and motorcyclists creating their own lane between traffic lines.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["motorcycles", "accident_causes", "visibility"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-045-a", "question_id": "sup6-045", "answer_text": "Not seeing the motorcycle, unexpected speed, and riding between traffic lines", "is_correct": true, "display_order": 1},
+      {"id": "sup6-045-b", "question_id": "sup6-045", "answer_text": "Motorcycles are mechanically unreliable", "is_correct": false, "display_order": 2},
+      {"id": "sup6-045-c", "question_id": "sup6-045", "answer_text": "Motorcyclists never use indicators", "is_correct": false, "display_order": 3},
+      {"id": "sup6-045-d", "question_id": "sup6-045", "answer_text": "Motorcycles have poor braking systems", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-046",
+    "question_text": "What offence may you commit if you leave an accident scene without providing your details?",
+    "explanation": "Leaving an accident scene without providing your name and phone number is a serious offence that may lead to prison. You must always exchange details at the scene.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_scene", "legal", "offence"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-046-a", "question_id": "sup6-046", "answer_text": "A minor traffic violation with a small fine", "is_correct": false, "display_order": 1},
+      {"id": "sup6-046-b", "question_id": "sup6-046", "answer_text": "A serious offence that may lead to prison", "is_correct": true, "display_order": 2},
+      {"id": "sup6-046-c", "question_id": "sup6-046", "answer_text": "A warning for first-time offenders", "is_correct": false, "display_order": 3},
+      {"id": "sup6-046-d", "question_id": "sup6-046", "answer_text": "No offence if no one was injured", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-047",
+    "question_text": "Why should you NOT slow down to look at an accident on the other side of the motorway?",
+    "explanation": "Slowing down to look at an accident on the other side of the motorway (rubbernecking) may cause another accident on your side as following drivers may not expect you to slow down.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["rubbernecking", "motorway", "secondary_accident"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-047-a", "question_id": "sup6-047", "answer_text": "It is illegal to look at accidents", "is_correct": false, "display_order": 1},
+      {"id": "sup6-047-b", "question_id": "sup6-047", "answer_text": "You may cause another accident on your side", "is_correct": true, "display_order": 2},
+      {"id": "sup6-047-c", "question_id": "sup6-047", "answer_text": "It delays emergency services", "is_correct": false, "display_order": 3},
+      {"id": "sup6-047-d", "question_id": "sup6-047", "answer_text": "You might be required to stop and give a statement", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-048",
+    "question_text": "In a vehicle fire involving a motorcyclist, should you remove their helmet?",
+    "explanation": "Do NOT remove a motorcyclist's helmet unless it is absolutely essential, such as when the person cannot breathe. Removing the helmet could worsen spinal injuries.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["first_aid", "motorcycle", "helmet"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-048-a", "question_id": "sup6-048", "answer_text": "Yes, always remove it immediately", "is_correct": false, "display_order": 1},
+      {"id": "sup6-048-b", "question_id": "sup6-048", "answer_text": "No, unless it is absolutely essential", "is_correct": true, "display_order": 2},
+      {"id": "sup6-048-c", "question_id": "sup6-048", "answer_text": "Yes, to check for head injuries", "is_correct": false, "display_order": 3},
+      {"id": "sup6-048-d", "question_id": "sup6-048", "answer_text": "Only if the motorcyclist asks you to", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-049",
+    "question_text": "Under what circumstances should casualties be moved at an accident scene?",
+    "explanation": "Casualties should NOT be moved unless there is a risk of fire, explosion, or being run over. Moving injured people incorrectly can worsen their injuries.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["first_aid", "casualties", "accident_scene"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-049-a", "question_id": "sup6-049", "answer_text": "Always move them to the side of the road immediately", "is_correct": false, "display_order": 1},
+      {"id": "sup6-049-b", "question_id": "sup6-049", "answer_text": "Only if there is risk of fire, explosion, or being run over", "is_correct": true, "display_order": 2},
+      {"id": "sup6-049-c", "question_id": "sup6-049", "answer_text": "Only if they are conscious", "is_correct": false, "display_order": 3},
+      {"id": "sup6-049-d", "question_id": "sup6-049", "answer_text": "Never move them under any circumstances", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-050",
+    "question_text": "Why is forgetting a child in a vehicle extremely dangerous?",
+    "explanation": "A child's body heats 3-5 times faster than an adult's. Being left in a hot vehicle can result in suffocation and death very quickly, especially in the UAE's extreme heat.",
+    "module": "critical_situations",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["children", "heat", "vehicle_safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-050-a", "question_id": "sup6-050", "answer_text": "Children might accidentally start the engine", "is_correct": false, "display_order": 1},
+      {"id": "sup6-050-b", "question_id": "sup6-050", "answer_text": "A child's body heats 3-5 times faster than an adult's, risking suffocation and death", "is_correct": true, "display_order": 2},
+      {"id": "sup6-050-c", "question_id": "sup6-050", "answer_text": "Children may unlock the doors and wander onto the road", "is_correct": false, "display_order": 3},
+      {"id": "sup6-050-d", "question_id": "sup6-050", "answer_text": "The car alarm may go off and flatten the battery", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-051",
+    "question_text": "In driving psychology, what does 'repression' mean as a defence mechanism?",
+    "explanation": "Repression means pushing unpleasant thoughts aside. For example, a driver keeps going without slowing despite poor visibility because getting home seems more important than the danger.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["psychology", "defence_mechanisms", "repression"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-051-a", "question_id": "sup6-051", "answer_text": "Pushing unpleasant thoughts aside — e.g., continuing to drive fast in poor visibility because getting home feels more important", "is_correct": true, "display_order": 1},
+      {"id": "sup6-051-b", "question_id": "sup6-051", "answer_text": "Deliberately driving slowly to annoy other drivers", "is_correct": false, "display_order": 2},
+      {"id": "sup6-051-c", "question_id": "sup6-051", "answer_text": "Refusing to let other drivers merge", "is_correct": false, "display_order": 3},
+      {"id": "sup6-051-d", "question_id": "sup6-051", "answer_text": "Blaming the road conditions for every near-miss", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-052",
+    "question_text": "What is 'reaction formation' in driving behavior?",
+    "explanation": "Reaction formation is when insecurity is manifested as aggressive rudeness. Timid people may try to show how bold they are behind the wheel, overcompensating for their insecurity.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["psychology", "reaction_formation", "aggression"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-052-a", "question_id": "sup6-052", "answer_text": "Insecurity manifested as aggressive rudeness — timid people trying to show how bold they are", "is_correct": true, "display_order": 1},
+      {"id": "sup6-052-b", "question_id": "sup6-052", "answer_text": "Reacting too quickly to road hazards", "is_correct": false, "display_order": 2},
+      {"id": "sup6-052-c", "question_id": "sup6-052", "answer_text": "Freezing at the wheel when faced with danger", "is_correct": false, "display_order": 3},
+      {"id": "sup6-052-d", "question_id": "sup6-052", "answer_text": "Following traffic rules only when police are visible", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-053",
+    "question_text": "What does 'prestige' mean as a driving psychology concept?",
+    "explanation": "Prestige refers to an immature motorist who demonstrates 'authority' by showing driving prowess, with exaggerated pride in their own abilities behind the wheel.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["psychology", "prestige", "immaturity"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-053-a", "question_id": "sup6-053", "answer_text": "An immature motorist demonstrating authority through driving prowess and exaggerated pride", "is_correct": true, "display_order": 1},
+      {"id": "sup6-053-b", "question_id": "sup6-053", "answer_text": "Buying an expensive car to impress others", "is_correct": false, "display_order": 2},
+      {"id": "sup6-053-c", "question_id": "sup6-053", "answer_text": "Always giving way to luxury vehicles", "is_correct": false, "display_order": 3},
+      {"id": "sup6-053-d", "question_id": "sup6-053", "answer_text": "Driving only brand-new vehicles", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-054",
+    "question_text": "How does 'self-assertion' as a driving trait increase accident risk?",
+    "explanation": "Self-assertion means insisting you are right at all costs and 'demanding an eye for an eye.' This attitude significantly increases accident likelihood by creating confrontation on the road.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["psychology", "self_assertion", "aggression"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-054-a", "question_id": "sup6-054", "answer_text": "Insisting you are right at all costs creates confrontation and increases accident likelihood", "is_correct": true, "display_order": 1},
+      {"id": "sup6-054-b", "question_id": "sup6-054", "answer_text": "Being too assertive at junctions causes delays", "is_correct": false, "display_order": 2},
+      {"id": "sup6-054-c", "question_id": "sup6-054", "answer_text": "Asserting your right of way makes other drivers nervous", "is_correct": false, "display_order": 3},
+      {"id": "sup6-054-d", "question_id": "sup6-054", "answer_text": "Self-assertive drivers tend to drive too slowly", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-055",
+    "question_text": "Why is making excuses and blaming others dangerous in driving?",
+    "explanation": "Making excuses and blaming others prevents learning from mistakes and leads to acquiring bad driving habits that are never corrected.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["psychology", "excuses", "learning"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-055-a", "question_id": "sup6-055", "answer_text": "It prevents learning from mistakes and leads to bad driving habits", "is_correct": true, "display_order": 1},
+      {"id": "sup6-055-b", "question_id": "sup6-055", "answer_text": "It results in higher insurance premiums", "is_correct": false, "display_order": 2},
+      {"id": "sup6-055-c", "question_id": "sup6-055", "answer_text": "It makes other drivers angry", "is_correct": false, "display_order": 3},
+      {"id": "sup6-055-d", "question_id": "sup6-055", "answer_text": "It is a traffic offence in the UAE", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-056",
+    "question_text": "How long does it take to become entirely alcohol-free after drinking 25cl of spirits (or 6 pints of beer)?",
+    "explanation": "After consuming 25cl of spirits or 6 pints of beer, it takes 12-15 hours to become entirely alcohol-free. Only about 2cl of 40% spirit is eliminated per hour.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["alcohol", "elimination_time", "impairment"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-056-a", "question_id": "sup6-056", "answer_text": "4-6 hours", "is_correct": false, "display_order": 1},
+      {"id": "sup6-056-b", "question_id": "sup6-056", "answer_text": "8-10 hours", "is_correct": false, "display_order": 2},
+      {"id": "sup6-056-c", "question_id": "sup6-056", "answer_text": "12-15 hours", "is_correct": true, "display_order": 3},
+      {"id": "sup6-056-d", "question_id": "sup6-056", "answer_text": "24 hours", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-057",
+    "question_text": "How does alcohol affect a driver's vision without them noticing?",
+    "explanation": "Alcohol affects peripheral vision (side vision) but people don't notice because their central vision seems unaffected. This creates a dangerous false sense of competence.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["alcohol", "vision", "impairment"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-057-a", "question_id": "sup6-057", "answer_text": "It affects peripheral vision while central vision seems unaffected", "is_correct": true, "display_order": 1},
+      {"id": "sup6-057-b", "question_id": "sup6-057", "answer_text": "It makes everything appear brighter", "is_correct": false, "display_order": 2},
+      {"id": "sup6-057-c", "question_id": "sup6-057", "answer_text": "It causes double vision immediately", "is_correct": false, "display_order": 3},
+      {"id": "sup6-057-d", "question_id": "sup6-057", "answer_text": "It only affects night vision, not daytime vision", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-058",
+    "question_text": "Which of the following is a traffic offence in the UAE?",
+    "explanation": "Traffic offences in the UAE include speeding, red light running, defective brakes/exhaust, no seat belt, crossing a prohibitory line, ignoring no overtaking signs, stopping in no-stop areas, and parking at bus stops or disabled spaces.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["traffic_offences", "legal", "fines"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-058-a", "question_id": "sup6-058", "answer_text": "Parking at a bus stop or disabled parking space without entitlement", "is_correct": true, "display_order": 1},
+      {"id": "sup6-058-b", "question_id": "sup6-058", "answer_text": "Driving with the window open", "is_correct": false, "display_order": 2},
+      {"id": "sup6-058-c", "question_id": "sup6-058", "answer_text": "Using the air conditioning while driving", "is_correct": false, "display_order": 3},
+      {"id": "sup6-058-d", "question_id": "sup6-058", "answer_text": "Driving a vehicle that is more than 10 years old", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-059",
+    "question_text": "What is the difference between disc brakes and drum brakes?",
+    "explanation": "Disc brakes use pads that press against a disc (rotor), while drum brakes use shoes that press against the inside of a rotating drum.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["brakes", "disc_brakes", "drum_brakes"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-059-a", "question_id": "sup6-059", "answer_text": "Disc brakes use pads against a disc; drum brakes use shoes against a rotating drum", "is_correct": true, "display_order": 1},
+      {"id": "sup6-059-b", "question_id": "sup6-059", "answer_text": "Disc brakes use air pressure; drum brakes use hydraulic fluid", "is_correct": false, "display_order": 2},
+      {"id": "sup6-059-c", "question_id": "sup6-059", "answer_text": "Disc brakes are only for front wheels; drum brakes are only for rear wheels", "is_correct": false, "display_order": 3},
+      {"id": "sup6-059-d", "question_id": "sup6-059", "answer_text": "There is no significant difference between them", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-060",
+    "question_text": "Why must you be careful when being towed with a servo (booster) braking system?",
+    "explanation": "A servo/booster braking system uses engine vacuum to multiply pedal force. It only works properly with the engine running, so when being towed (engine off), much more pedal pressure is needed.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["servo_brakes", "towing", "engine_vacuum"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-060-a", "question_id": "sup6-060", "answer_text": "The servo only works with the engine running — braking requires much more effort when towed", "is_correct": true, "display_order": 1},
+      {"id": "sup6-060-b", "question_id": "sup6-060", "answer_text": "The brakes overheat when the engine is off", "is_correct": false, "display_order": 2},
+      {"id": "sup6-060-c", "question_id": "sup6-060", "answer_text": "The steering locks when the engine is off", "is_correct": false, "display_order": 3},
+      {"id": "sup6-060-d", "question_id": "sup6-060", "answer_text": "The brake lights do not work without the engine", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-061",
+    "question_text": "What should you NEVER use instead of proper brake fluid?",
+    "explanation": "Never use engine oil instead of brake fluid. Brake fluid is a special incompressible liquid. The level should be checked regularly; a small drop indicates pad wear, a large drop indicates a leak.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["brake_fluid", "maintenance", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-061-a", "question_id": "sup6-061", "answer_text": "Engine oil", "is_correct": true, "display_order": 1},
+      {"id": "sup6-061-b", "question_id": "sup6-061", "answer_text": "Water", "is_correct": false, "display_order": 2},
+      {"id": "sup6-061-c", "question_id": "sup6-061", "answer_text": "Transmission fluid", "is_correct": false, "display_order": 3},
+      {"id": "sup6-061-d", "question_id": "sup6-061", "answer_text": "Coolant", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-062",
+    "question_text": "What type of oil does a power steering system use?",
+    "explanation": "Power steering uses automatic transmission oil (ATF), not engine oil. If the power steering system is defective, the vehicle should never be driven.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["power_steering", "fluids", "maintenance"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-062-a", "question_id": "sup6-062", "answer_text": "Engine oil", "is_correct": false, "display_order": 1},
+      {"id": "sup6-062-b", "question_id": "sup6-062", "answer_text": "Automatic transmission oil", "is_correct": true, "display_order": 2},
+      {"id": "sup6-062-c", "question_id": "sup6-062", "answer_text": "Brake fluid", "is_correct": false, "display_order": 3},
+      {"id": "sup6-062-d", "question_id": "sup6-062", "answer_text": "Coolant", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-063",
+    "question_text": "What problems can unbalanced wheels cause?",
+    "explanation": "Unbalanced wheels cause vibrations and lead to extra wear on tyres and steering components. Regular wheel balancing is important for vehicle safety and comfort.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["wheel_balancing", "tyres", "vibration"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-063-a", "question_id": "sup6-063", "answer_text": "Vibrations and extra tyre and steering wear", "is_correct": true, "display_order": 1},
+      {"id": "sup6-063-b", "question_id": "sup6-063", "answer_text": "Increased fuel efficiency", "is_correct": false, "display_order": 2},
+      {"id": "sup6-063-c", "question_id": "sup6-063", "answer_text": "Better grip in wet conditions", "is_correct": false, "display_order": 3},
+      {"id": "sup6-063-d", "question_id": "sup6-063", "answer_text": "Slower acceleration", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-064",
+    "question_text": "What should you expect when driving on a space-saver spare wheel?",
+    "explanation": "When using a space-saver spare wheel, follow the maximum speed given in the driver's manual and expect the car to behave in unexpected ways due to the smaller wheel size.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["spare_wheel", "space_saver", "handling"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-064-a", "question_id": "sup6-064", "answer_text": "Normal driving with no difference in handling", "is_correct": false, "display_order": 1},
+      {"id": "sup6-064-b", "question_id": "sup6-064", "answer_text": "The car may behave in unexpected ways; follow the maximum speed in the manual", "is_correct": true, "display_order": 2},
+      {"id": "sup6-064-c", "question_id": "sup6-064", "answer_text": "Better fuel economy due to less rolling resistance", "is_correct": false, "display_order": 3},
+      {"id": "sup6-064-d", "question_id": "sup6-064", "answer_text": "Improved braking performance", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-065",
+    "question_text": "Which of the following is a tip for economical driving?",
+    "explanation": "For economical driving: change to 2nd gear quickly, shift at 3000 rpm, keep throttle uniform at about 2000 rpm, use 5th gear when possible, don't idle for long, and use engine braking instead of foot brake.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["economical_driving", "fuel_efficiency", "gear_shifting"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-065-a", "question_id": "sup6-065", "answer_text": "Shift gears at around 3000 rpm and use 5th gear when possible", "is_correct": true, "display_order": 1},
+      {"id": "sup6-065-b", "question_id": "sup6-065", "answer_text": "Always drive in the lowest gear possible", "is_correct": false, "display_order": 2},
+      {"id": "sup6-065-c", "question_id": "sup6-065", "answer_text": "Rev the engine to 5000 rpm before shifting", "is_correct": false, "display_order": 3},
+      {"id": "sup6-065-d", "question_id": "sup6-065", "answer_text": "Coast in neutral to save fuel", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-066",
+    "question_text": "Why should you turn off the A/C when driving uphill?",
+    "explanation": "Turning off the air conditioning when driving uphill helps prevent engine overheating and provides extra power for the climb.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["uphill_driving", "air_conditioning", "overheating"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-066-a", "question_id": "sup6-066", "answer_text": "To prevent engine overheating and get extra power", "is_correct": true, "display_order": 1},
+      {"id": "sup6-066-b", "question_id": "sup6-066", "answer_text": "To reduce tyre wear", "is_correct": false, "display_order": 2},
+      {"id": "sup6-066-c", "question_id": "sup6-066", "answer_text": "To improve braking performance", "is_correct": false, "display_order": 3},
+      {"id": "sup6-066-d", "question_id": "sup6-066", "answer_text": "The A/C doesn't work uphill anyway", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-067",
+    "question_text": "How does towing a trailer or carrying a heavy load affect driving?",
+    "explanation": "A trailer or heavy load increases braking distance (especially downhill), takes longer to overtake, and requires checking tyres and adjusting lights.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["trailer", "heavy_load", "braking_distance"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-067-a", "question_id": "sup6-067", "answer_text": "It increases braking distance, takes longer to overtake, and requires tyre/light checks", "is_correct": true, "display_order": 1},
+      {"id": "sup6-067-b", "question_id": "sup6-067", "answer_text": "It has no significant effect on modern vehicles", "is_correct": false, "display_order": 2},
+      {"id": "sup6-067-c", "question_id": "sup6-067", "answer_text": "It only affects fuel consumption", "is_correct": false, "display_order": 3},
+      {"id": "sup6-067-d", "question_id": "sup6-067", "answer_text": "It improves stability due to extra weight", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-068",
+    "question_text": "How should a load be positioned on a roof rack?",
+    "explanation": "A roof rack load should be positioned against the front edge and secured firmly. Load placed above the centre of gravity increases the risk of rollover.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roof_rack", "load_securing", "rollover"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-068-a", "question_id": "sup6-068", "answer_text": "Against the front edge, secured firmly", "is_correct": true, "display_order": 1},
+      {"id": "sup6-068-b", "question_id": "sup6-068", "answer_text": "Against the rear edge for better aerodynamics", "is_correct": false, "display_order": 2},
+      {"id": "sup6-068-c", "question_id": "sup6-068", "answer_text": "Centred and loosely tied to allow movement", "is_correct": false, "display_order": 3},
+      {"id": "sup6-068-d", "question_id": "sup6-068", "answer_text": "On one side only to balance the driver's weight", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-069",
+    "question_text": "What do Vehicle Inspection Centres (VIC) provide?",
+    "explanation": "Vehicle Inspection Centres provide number plates and registration certificates. If a car fails the inspection, it must not be driven until the defects are repaired.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["vic", "inspection", "registration"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-069-a", "question_id": "sup6-069", "answer_text": "Number plates and registration certificates", "is_correct": true, "display_order": 1},
+      {"id": "sup6-069-b", "question_id": "sup6-069", "answer_text": "Driving licenses and insurance policies", "is_correct": false, "display_order": 2},
+      {"id": "sup6-069-c", "question_id": "sup6-069", "answer_text": "Vehicle repair services and spare parts", "is_correct": false, "display_order": 3},
+      {"id": "sup6-069-d", "question_id": "sup6-069", "answer_text": "Driver training and road test certificates", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-070",
+    "question_text": "What type of motor vehicle insurance is compulsory in the UAE?",
+    "explanation": "Third-party insurance is compulsory in the UAE. It does not cover your own vehicle, only damage to others. The contract term is usually 13 months.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["insurance", "third_party", "legal"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-070-a", "question_id": "sup6-070", "answer_text": "Third-party insurance", "is_correct": true, "display_order": 1},
+      {"id": "sup6-070-b", "question_id": "sup6-070", "answer_text": "Comprehensive insurance", "is_correct": false, "display_order": 2},
+      {"id": "sup6-070-c", "question_id": "sup6-070", "answer_text": "Collision-only insurance", "is_correct": false, "display_order": 3},
+      {"id": "sup6-070-d", "question_id": "sup6-070", "answer_text": "No insurance is compulsory", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-071",
+    "question_text": "Why should you never accept blame at an accident scene?",
+    "explanation": "You should never accept blame at an accident scene because you may be in shock and not thinking clearly. Anything you say may be used against you later.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["accident_scene", "liability", "legal"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-071-a", "question_id": "sup6-071", "answer_text": "You may be in shock; anything you say may be used against you", "is_correct": true, "display_order": 1},
+      {"id": "sup6-071-b", "question_id": "sup6-071", "answer_text": "It is always the other driver's fault", "is_correct": false, "display_order": 2},
+      {"id": "sup6-071-c", "question_id": "sup6-071", "answer_text": "The police will assign blame automatically", "is_correct": false, "display_order": 3},
+      {"id": "sup6-071-d", "question_id": "sup6-071", "answer_text": "Insurance companies do not accept verbal admissions", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-072",
+    "question_text": "From what age should children use a booster seat?",
+    "explanation": "Children should use a booster seat from age 4 to approximately age 10-12. Before age 4, a rearward-facing car seat is the safest option.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["child_safety", "booster_seat", "car_seat"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-072-a", "question_id": "sup6-072", "answer_text": "From age 4 to approximately age 10-12", "is_correct": true, "display_order": 1},
+      {"id": "sup6-072-b", "question_id": "sup6-072", "answer_text": "From birth to age 4", "is_correct": false, "display_order": 2},
+      {"id": "sup6-072-c", "question_id": "sup6-072", "answer_text": "From age 2 to age 6", "is_correct": false, "display_order": 3},
+      {"id": "sup6-072-d", "question_id": "sup6-072", "answer_text": "From age 6 to age 14", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-073",
+    "question_text": "According to UAE law, where must all children under 10 sit in a vehicle?",
+    "explanation": "UAE law requires all children under 10 to sit in the rear seat. They should never be held on an adult's lap while the vehicle is moving.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["child_safety", "rear_seat", "uae_law"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-073-a", "question_id": "sup6-073", "answer_text": "In the rear seat", "is_correct": true, "display_order": 1},
+      {"id": "sup6-073-b", "question_id": "sup6-073", "answer_text": "In the front seat with a seatbelt", "is_correct": false, "display_order": 2},
+      {"id": "sup6-073-c", "question_id": "sup6-073", "answer_text": "Anywhere as long as they wear a seatbelt", "is_correct": false, "display_order": 3},
+      {"id": "sup6-073-d", "question_id": "sup6-073", "answer_text": "On an adult's lap in the front seat", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-074",
+    "question_text": "What is the minimum height for a child to sit in front of an airbag?",
+    "explanation": "A child must be at least 145 cm tall to sit safely in front of an airbag. Below this height, the airbag can cause serious injury to the child.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["child_safety", "airbag", "height_requirement"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-074-a", "question_id": "sup6-074", "answer_text": "120 cm", "is_correct": false, "display_order": 1},
+      {"id": "sup6-074-b", "question_id": "sup6-074", "answer_text": "135 cm", "is_correct": false, "display_order": 2},
+      {"id": "sup6-074-c", "question_id": "sup6-074", "answer_text": "145 cm", "is_correct": true, "display_order": 3},
+      {"id": "sup6-074-d", "question_id": "sup6-074", "answer_text": "155 cm", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-075",
+    "question_text": "Why is side protection in vehicle design more difficult than front and rear protection?",
+    "explanation": "Deformation zones in the front and back of a car absorb collision force, but there is much less space for deformation zones on the sides, making side protection more difficult.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["deformation_zones", "side_impact", "vehicle_design"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-075-a", "question_id": "sup6-075", "answer_text": "There is much less space for deformation zones on the sides", "is_correct": true, "display_order": 1},
+      {"id": "sup6-075-b", "question_id": "sup6-075", "answer_text": "Side panels are made of lighter materials", "is_correct": false, "display_order": 2},
+      {"id": "sup6-075-c", "question_id": "sup6-075", "answer_text": "Side impacts never happen at high speeds", "is_correct": false, "display_order": 3},
+      {"id": "sup6-075-d", "question_id": "sup6-075", "answer_text": "Side airbags cannot be installed in most vehicles", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-076",
+    "question_text": "What does a seat belt pretensioner do?",
+    "explanation": "A seat belt pretensioner automatically tightens the belt in a crash, removing any slack instantly. The diagonal belt should cross the chest/shoulder, and the lap belt should sit over the hips, not the stomach.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["seatbelt", "pretensioner", "passive_safety"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-076-a", "question_id": "sup6-076", "answer_text": "Automatically tightens the belt in a crash", "is_correct": true, "display_order": 1},
+      {"id": "sup6-076-b", "question_id": "sup6-076", "answer_text": "Releases the belt automatically after a crash", "is_correct": false, "display_order": 2},
+      {"id": "sup6-076-c", "question_id": "sup6-076", "answer_text": "Alerts the driver with a warning sound if the belt is not fastened", "is_correct": false, "display_order": 3},
+      {"id": "sup6-076-d", "question_id": "sup6-076", "answer_text": "Adjusts the belt height automatically", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-077",
+    "question_text": "What happens to braking distance when you double your speed?",
+    "explanation": "Braking distance increases with the square of speed. Doubling speed means 4 times the braking distance; tripling speed means 9 times the braking distance. Stopping distance = thinking distance + braking distance.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["braking_distance", "speed", "physics"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-077-a", "question_id": "sup6-077", "answer_text": "It doubles", "is_correct": false, "display_order": 1},
+      {"id": "sup6-077-b", "question_id": "sup6-077", "answer_text": "It triples", "is_correct": false, "display_order": 2},
+      {"id": "sup6-077-c", "question_id": "sup6-077", "answer_text": "It quadruples (4 times)", "is_correct": true, "display_order": 3},
+      {"id": "sup6-077-d", "question_id": "sup6-077", "answer_text": "It stays the same with modern brakes", "is_correct": false, "display_order": 4}
+    ]
+  },
+  {
+    "id": "sup6-078",
+    "question_text": "What effect does centrifugal force have on a vehicle in a bend?",
+    "explanation": "Centrifugal force causes the vehicle to tend to travel straight rather than following the curve. Drivers should slow before the bend and accelerate gently out of it. A patch of wet leaves in a bend can be very slippery.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["centrifugal_force", "bends", "physics"],
+    "is_edcad_style": true,
+    "answers": [
+      {"id": "sup6-078-a", "question_id": "sup6-078", "answer_text": "The vehicle tends to travel straight instead of following the curve", "is_correct": true, "display_order": 1},
+      {"id": "sup6-078-b", "question_id": "sup6-078", "answer_text": "The vehicle is pulled toward the inside of the bend", "is_correct": false, "display_order": 2},
+      {"id": "sup6-078-c", "question_id": "sup6-078", "answer_text": "The vehicle's speed automatically decreases", "is_correct": false, "display_order": 3},
+      {"id": "sup6-078-d", "question_id": "sup6-078", "answer_text": "The vehicle's suspension absorbs all the force", "is_correct": false, "display_order": 4}
+    ]
+  }
+]
