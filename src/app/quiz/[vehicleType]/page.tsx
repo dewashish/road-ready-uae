@@ -29,7 +29,7 @@ export default function ModulePathPage() {
   const { progress } = useProgress()
 
   const allModulesCompleted = MODULES.every(
-    (m) => (progress.modules[m.slug]?.completionCount ?? 0) > 0
+    (m) => (progress.modules[`${vehicleType}:${m.slug}`]?.completionCount ?? 0) > 0
   )
 
   return (
@@ -60,7 +60,7 @@ export default function ModulePathPage() {
         {/* Module List - ALL UNLOCKED */}
         <div className="space-y-4">
           {MODULES.map((mod, idx) => {
-            const modProgress = progress.modules[mod.slug]
+            const modProgress = progress.modules[`${vehicleType}:${mod.slug}`]
             const completions = modProgress?.completionCount ?? 0
             const bestPercent = modProgress?.bestPercent ?? 0
 

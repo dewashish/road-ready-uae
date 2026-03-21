@@ -37,12 +37,35 @@ export const DEFAULT_PROGRESS: UserProgress = {
   },
 }
 
+const MODULE_SLUGS = [
+  'road-signs', 'traffic-rules', 'hazard-perception',
+  'driving-conditions', 'critical-situations', 'driving-behavior', 'vehicle-maintenance',
+]
+
+/** Migrate legacy unscoped module keys (e.g. "road-signs") to vehicle-scoped keys (e.g. "B:road-signs") */
+function migrateToVehicleScoped(progress: UserProgress): UserProgress {
+  let changed = false
+  for (const slug of MODULE_SLUGS) {
+    if (progress.modules[slug] && !progress.modules[`B:${slug}`]) {
+      // Move legacy key to B: (Light Vehicle) since that was the only option before
+      progress.modules[`B:${slug}`] = progress.modules[slug]
+      delete progress.modules[slug]
+      changed = true
+    }
+  }
+  if (changed) {
+    saveProgress(progress)
+  }
+  return progress
+}
+
 export function getProgress(): UserProgress {
   if (typeof window === 'undefined') return DEFAULT_PROGRESS
   try {
     const stored = localStorage.getItem(STORAGE_KEY)
     if (!stored) return DEFAULT_PROGRESS
-    return JSON.parse(stored) as UserProgress
+    const progress = JSON.parse(stored) as UserProgress
+    return migrateToVehicleScoped(progress)
   } catch {
     return DEFAULT_PROGRESS
   }

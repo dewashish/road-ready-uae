@@ -17,11 +17,18 @@ export default function HomePage() {
   const dailyDone = progress.dailyChallenge?.completed ?? 0
   const dailyTarget = progress.dailyChallenge?.target ?? 10
 
-  // Count how many of the 7 modules the user has completed at least once
-  const completedModuleCount = ALL_MODULE_SLUGS.filter(
-    (slug) => (progress.modules[slug]?.completionCount ?? 0) > 0
-  ).length
-  const hasStarted = completedModuleCount > 0
+  // Count completed modules per vehicle type (keys are "B:road-signs", etc.)
+  // Also checks legacy unscoped keys for backwards compatibility
+  function getVehicleProgress(vehicleType: string) {
+    const completed = ALL_MODULE_SLUGS.filter(
+      (slug) => {
+        const scoped = progress.modules[`${vehicleType}:${slug}`]?.completionCount ?? 0
+        const legacy = progress.modules[slug]?.completionCount ?? 0
+        return (vehicleType === 'B' ? (scoped > 0 || legacy > 0) : scoped > 0)
+      }
+    ).length
+    return completed
+  }
 
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
@@ -61,14 +68,17 @@ export default function HomePage() {
             <div className="flex-1 h-0.5 bg-surface-container-highest" />
           </div>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {VEHICLE_CATEGORIES.map((category) => (
-              <CategoryCard
-                key={category.type}
-                category={category}
-                completedModules={completedModuleCount}
-                status={completedModuleCount >= 7 ? 'completed' : hasStarted ? 'active' : 'new'}
-              />
-            ))}
+            {VEHICLE_CATEGORIES.map((category) => {
+              const completed = getVehicleProgress(category.type)
+              return (
+                <CategoryCard
+                  key={category.type}
+                  category={category}
+                  completedModules={completed}
+                  status={completed >= 7 ? 'completed' : completed > 0 ? 'active' : 'new'}
+                />
+              )
+            })}
           </div>
         </div>
 

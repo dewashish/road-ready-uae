@@ -5,7 +5,7 @@ import { BottomNav } from '@/components/layout/BottomNav'
 import { NeoCard } from '@/components/ui/NeoCard'
 import { ProgressBar } from '@/components/ui/ProgressBar'
 import { useProgress } from '@/context/ProgressContext'
-import { getTotalStats } from '@/lib/progress'
+import { getTotalStats, type ModuleProgress } from '@/lib/progress'
 
 const MODULE_INFO = [
   { slug: 'road-signs', title: 'Traffic Signs', icon: 'signpost' },
@@ -16,6 +16,32 @@ const MODULE_INFO = [
   { slug: 'driving-behavior', title: 'Safe Driving', icon: 'shield' },
   { slug: 'vehicle-maintenance', title: 'Vehicle Knowledge', icon: 'build' },
 ]
+
+const VEHICLE_TYPES = ['A', 'B', 'C', 'D', 'E']
+
+/** Aggregate a module's progress across all vehicle types (and legacy unscoped keys) */
+function getAggregatedModuleProgress(
+  modules: Record<string, ModuleProgress>,
+  slug: string
+): { bestPercent: number; completions: number } {
+  let bestPercent = 0
+  let completions = 0
+  // Check legacy unscoped key (e.g. "road-signs")
+  const legacy = modules[slug]
+  if (legacy) {
+    bestPercent = Math.max(bestPercent, legacy.bestPercent)
+    completions += legacy.completionCount
+  }
+  // Check vehicle-scoped keys (e.g. "B:road-signs")
+  for (const vt of VEHICLE_TYPES) {
+    const scoped = modules[`${vt}:${slug}`]
+    if (scoped) {
+      bestPercent = Math.max(bestPercent, scoped.bestPercent)
+      completions += scoped.completionCount
+    }
+  }
+  return { bestPercent, completions }
+}
 
 export default function ProgressPage() {
   const { progress } = useProgress()
@@ -51,9 +77,7 @@ export default function ProgressPage() {
         <h3 className="font-headline text-lg font-bold text-primary uppercase tracking-wider mb-4">Module Mastery</h3>
         <div className="grid gap-3 sm:grid-cols-2">
           {MODULE_INFO.map((mod) => {
-            const mp = progress.modules[mod.slug]
-            const bestPercent = mp?.bestPercent ?? 0
-            const completions = mp?.completionCount ?? 0
+            const { bestPercent, completions } = getAggregatedModuleProgress(progress.modules, mod.slug)
             return (
               <NeoCard key={mod.slug} level={1} shadow="none">
                 <div className="flex items-center gap-3 mb-3">

@@ -52,8 +52,8 @@ export default function ResultsPage() {
 
   useEffect(() => {
     if (!saved) {
-      // Record completion in context (updates localStorage + re-renders Header)
-      recordCompletion(moduleSlug, score, total, xpEarned)
+      // Record completion scoped to vehicle type (e.g. "B:road-signs")
+      recordCompletion(`${vehicleType}:${moduleSlug}`, score, total, xpEarned)
 
       // Load session answers from localStorage
       try {
