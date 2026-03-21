@@ -11,10 +11,35 @@ interface CategoryCardProps {
   status?: 'new' | 'active' | 'completed'
 }
 
-const statusConfig = {
-  new: { label: 'NEW', bg: 'bg-tertiary/20', text: 'text-tertiary', border: 'border-tertiary' },
-  active: { label: 'IN PROGRESS', bg: 'bg-secondary/20', text: 'text-secondary', border: 'border-secondary' },
-  completed: { label: 'COMPLETE', bg: 'bg-success/20', text: 'text-success', border: 'border-success' },
+/*
+ * Alternating color scheme:
+ *   NEW       → yellow progress bar, cyan 3D button shadow
+ *   ACTIVE    → cyan progress bar,   yellow 3D button shadow
+ *   COMPLETED → yellow progress bar, yellow 3D button shadow (all gold)
+ */
+
+const statusStyles = {
+  new: {
+    badge: 'bg-tertiary text-on-tertiary',
+    badgeLabel: 'NEW',
+    progressColor: 'secondary' as const,
+    buttonShadow: 'neo-shadow-tertiary',
+    cta: 'Start Module',
+  },
+  active: {
+    badge: 'bg-secondary text-on-secondary',
+    badgeLabel: 'ACTIVE',
+    progressColor: 'tertiary' as const,
+    buttonShadow: 'neo-shadow-secondary',
+    cta: 'Continue',
+  },
+  completed: {
+    badge: 'bg-secondary text-on-secondary',
+    badgeLabel: 'COMPLETED',
+    progressColor: 'secondary' as const,
+    buttonShadow: 'neo-shadow-secondary',
+    cta: 'Review',
+  },
 }
 
 export function CategoryCard({
@@ -24,8 +49,7 @@ export function CategoryCard({
   status = 'new',
 }: CategoryCardProps) {
   const percent = Math.round((completedModules / totalModules) * 100)
-  const badge = statusConfig[status]
-  const ctaLabel = status === 'completed' ? 'Review' : status === 'active' ? 'Continue' : 'Start Module'
+  const styles = statusStyles[status]
 
   return (
     <Link href={`/quiz/${category.type}`}>
@@ -44,8 +68,8 @@ export function CategoryCard({
               {category.icon}
             </span>
           </div>
-          <span className={`inline-block px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${badge.bg} ${badge.text} border ${badge.border}`}>
-            {badge.label}
+          <span className={`inline-block px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${styles.badge}`}>
+            {styles.badgeLabel}
           </span>
         </div>
 
@@ -59,13 +83,13 @@ export function CategoryCard({
           {category.description}
         </p>
 
-        {/* Progress bar (thicker, yellow when active) */}
+        {/* Progress bar — thicker, alternating color */}
         <div className="mb-5">
           <div className="flex items-center gap-3">
             <ProgressBar
               value={completedModules}
               max={totalModules}
-              color={status === 'completed' ? 'success' : 'secondary'}
+              color={styles.progressColor}
               size="md"
               className="flex-1"
             />
@@ -75,11 +99,11 @@ export function CategoryCard({
           </div>
         </div>
 
-        {/* CTA — 3D raised button with hard shadow */}
+        {/* CTA — white button with colored 3D shadow offset */}
         <div
-          className="neo-push bg-primary text-surface-container-lowest border-2 border-surface-container-lowest neo-shadow font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none"
+          className={`neo-push bg-primary text-surface-container-lowest border-2 border-surface-container-lowest ${styles.buttonShadow} font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none`}
         >
-          {ctaLabel}
+          {styles.cta}
         </div>
       </NeoCard>
     </Link>
