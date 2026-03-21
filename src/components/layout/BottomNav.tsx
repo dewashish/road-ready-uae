@@ -6,8 +6,8 @@ import { clsx } from 'clsx'
 
 const NAV_ITEMS = [
   { href: '/', icon: 'home', label: 'Home' },
+  { href: '/history', icon: 'history', label: 'History' },
   { href: '/progress', icon: 'bar_chart', label: 'Progress' },
-  { href: '/leaderboard', icon: 'leaderboard', label: 'Rank' },
 ]
 
 export function BottomNav() {

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Space_Grotesk, Manrope } from "next/font/google";
 import { Toaster } from "sonner";
+import { ProgressProvider } from "@/context/ProgressContext";
 import "./globals.css";
 
 const spaceGrotesk = Space_Grotesk({
@@ -41,7 +42,9 @@ export default function RootLayout({
         />
       </head>
       <body className="bg-surface text-on-surface min-h-dvh antialiased">
-        {children}
+        <ProgressProvider>
+          {children}
+        </ProgressProvider>
         <Toaster
           theme="dark"
           position="top-center"

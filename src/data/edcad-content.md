@@ -690,6 +690,219 @@ Limitation of vision at night:
 
 While driving on two way traffic, the oncoming vehicle head lights may dazzle you.
 
+### Part 02 (Slide 2 of 3)
+
+**Vehicle lights**
+
+Vehicle lights are the most important source of Information and communication with other road users.
+
+- You may find it best to put your lights on before dusk. Do not be afraid to be the first driver to switch on. It is better to see and to be seen.
+- At dawn the opposite applies. Do not switch off your lights until you are sure it is safe to drive without head lights.
+
+**Vehicle lights**
+
+Check That lights are:
+
+- Clean.
+- Not be broken.
+- working properly.
+- Adjusted properly.
+- The lights of the car should be clean and there should be no dust or stain on it.
+- The lights should not be broken, even a minor scratch will deflect the lights and you will not be able to see properly.
+- Low beam of the vehicles should be slightly down and towards right, full beam should provide straighten vision.
+
+**How to use the headlights**
+
+when Meeting oncoming vehicles.
+
+- On dark two way traffic both side vehicles should continue with full beam, as your car lights meet with the oncoming vehicle lights, turn it to low beam to avoid dazzling.
+- By the time you reach at the spot where your vehicle's lights are not dazzling the oncoming vehicle driver, turn it to full beam again to have clearer vision.
+
+**How to use the headlights**
+
+When overtaking.
+
+- In case of overtaking the leading vehicle should drive with full beam, but the vehicle at back should keep the lights to low beam, as the lights will reflect from the center view mirror and the side mirror, which will dazzle the driver.
+- Once the overtaking vehicle reaches at the spot where the lights will not blind the overtaken-car driver, switch back to full beam again and the overtaken vehicle should turn into the low beam.
+
+**How to use the headlights**
+
+When turning right and left.
+
+When you approach a right hand bend on a two-way road, you have to dip your headlights earlier. Your headlights will cut straight across the eyes of anyone coming towards you.
+
+When you approach a sharp left hand bend, you may not need to dip your lights at all.
+
+**Parking and emergency stop at night**
+
+**Parking:**
+
+- Switch off the headlights.
+- Switch on parking lights.
+
+**In case of emergency:**
+
+- Switch on the hazard lights.
+- Put a warning triangle at a proper distance.
+- While stopping the vehicle at night you should switch off your head lights and keep your parking lights on, to convoy the clear message "the vehicle is not moving".
+- In case of emergency switch on the hazard lights to warn rest of the road users.
+- Do not stop or park your car at bends.
+
+**Using your headlights in built-up areas**
+
+- Always use dipped headlights in built-up areas at night.
+- It helps others to see you!
+- In built-up areas with adequate street lighting, driving on full beam is prohibited.
+- In areas where streetlights cause patches of shadow use high beam, watch out for pedestrians who can be difficult to see.
+
+If we are driving on those roads, where the street light are giving us sufficient light to scan, full beam is prohibited.
+
+But in case we are driving in city limits where the lights are in working condition but not providing sufficient light to get enough information you can turn your full beam until you meet any oncoming vehicle or any unprotected road users.
+
+**Noise at night**
+
+- Keep all the noise to a minimum.
+- Do not rev your engine.
+- Close your car doors quietly.
+- Remember that neighbors and children might be asleep.
+- Take extra time setting and disarming anti-theft alarm on your vehicle.
+
+Keep all the noises to the minimum at night not to disturb the people who are sleeping.
+
+If you want to warn somebody at night, you can use headlight flasher instead of horn
+
+**Driving in fog**
+
+**Things to consider:**
+
+- You don't have clear vision.
+- It's very difficult to judge distances.
+- Your ability to anticipate is dangerously limited.
+
+- The risk of early morning fog can be frequent on major highways.
+- Poor visibility is frustrating and a strain on the eyes.
+- You must be able to stop well within the distance you can clearly see.
+- Overtaking in fog is dangerous.
+
+**PRECAUTIONS WHEN DRIVING IN FOG**
+
+- Keep enough safety distance.
+- Never park on a road in fog
+- Use front and rear fog lights
+- Use dipped headlights
+- Don't use hazard lights.
+
+- When driving in fog, use dipped headlights with fog lights and keep well back from the vehicle in front.
+- If your vehicle breaks down, or if you cannot continue due to the poor visibility, get off the road and do not stop or park at the hard shoulder.
+- If your car is fitted with high-intensity rear fog lights, use them in the fog, only when the visibility is seriously reduced.
+- In variable weather conditions such as fog, rain or wind, the speed limit is reduced automatically to 80km/h and displayed on smart information boards on the UAE roads.
+- Road users in the UAE are advised to follow the notifications on adverse weather conditions broadcasted by The Security Media Department through its audiovisual media.
+
+**Driving in high wind**
+
+Wind's effect on the vehicle
+
+- It can make vehicles unstable.
+- It can lift some vehicles off the road.
+- It can blow cyclists or motorcyclists away.
+- In deserts, high wind causes sand storms obscuring visibility.
+
+- The sand blowing near deserts can cause problems.
+- Some vehicles can become unstable in strong crosswinds, because of their large surface and comparatively low weights. This can happen particularly on exposed stretches of the motorway. The effect can vary from a simple pull on the steering wheel to a strong pull on the whole car, causing it to wobble, perhaps into the path of another vehicle. In very bad cases, the whole vehicle can be lifted up off the road, with very serious results.
+- In gusty conditions, watch for cyclists or motorcyclists being blown sideways and veering into your path. Allow extra room if overtaking.
+
+**Driving in high wind**
+
+It can cause danger when driving close to large or long vehicles.
+
+High winds can also cause problems when driving close to large vans and trucks. Do not stay alongside them or too close to them for longer than necessary. There will always be the chance, however small, that a strong gust could cause a large transporter to topple over onto your vehicle.
+
+### Part 03 (Slide 3 of 3)
+
+**Driving in rain**
+
+Light rain:
+
+Will make the roads very slippery, as the dirty surfaces turn into 'skid pans' and offer little grip to your tires.
+
+- Drive slower than normal.
+- Keep further back from the vehicles in front of you.
+
+Remember, the less grip your tires have, the greater the distance you will need to brake. Be aware of this and take the necessary precautions by driving slower than normal and keeping more safety distance from the vehicles in front of you to give yourselves more stopping room in case of emergency.
+
+**Heavy rain**
+
+- Heavy rainstorms will wash the slippery 'ghee' and this is a good result.
+- The spray from vehicles in front of you can blind you, even though your windscreen wipers are working at top speed.
+
+The drivers' visibility is seriously hampered by heavy rain. The spray from other vehicles contain elements of oil and grease as the roads are washed clean which create smears on the windscreen. Washer fluid helps to dissolve the oil smears.
+
+**Aquaplaning**
+
+- The tread pattern must be designed to drain away sufficient water to avoid aquaplaning, or hydroplaning which is the skidding of the car along the water surface on the road making it impossible to steer or brake.
+- High speed, worn treads and overly broad tires are other causes of aquaplaning.
+- Even with good tires, aquaplaning can occur at high travelling speed, so you need to slow down and keep more distance if the road is wet.
+- The more water on the road, the greater the risk of aquaplaning.
+- A clear indication of aquaplaning can be that the steering suddenly feels very light. When this happens, slow down by easing off the accelerator. Never brake or try to change direction, because when you are aquaplaning, you have no control at all over steering or braking.
+
+And remember, at 80 km/h the tires have to force away up to 25 liters of water per second when it is raining.
+
+**Precautions while driving in rain**
+
+- Check the tires(tread depth)
+- Check the wipers and their fluid.
+- In heavy rain you may use your fog lights.
+- Don't use hazard lights as an excuse to over speed.
+- Don't over speed, it will cause aquaplaning.
+
+**Causes of skids**
+
+Factors that cause skids:
+
+- The driver.
+- The vehicle.
+- Road's condition
+
+**Skids usually occur when**
+
+- The clutch is suddenly engaged or disengaged.
+- The brakes are applied too hard.
+- The vehicle accelerates too quickly.
+- The steering wheel is turned too sharp.
+
+- Applying the hard break while driving in high speed will cause the wheels to lock and the vehicles to skid.
+- Worn out or fully bald tires would cause skidding.
+- Slippery surface of the road causes skid too.
+
+**Car skidding**
+
+What should you do in case of skid?
+
+- Release the brake pedal fully.
+- Release the accelerator.
+- Turn the steering wheel in the same direction of the skid.
+- Do not oversteer that will lead to another skid in the opposite direction.
+
+- Skid occurs when the vehicle tires have insufficient grip with the road or no grip at all.
+- To regain the grip, the driver should let the tires rotate.
+
+**ABS - Anti-lock braking system**
+
+ABS prevents wheels from locking and helps you to keep steering while braking firmly.
+
+- In past, the drivers used to pump the brake pedal in order to avoid locking the wheels, but now a days as we have ABS in the vehicle's break system. It automatically releases the wheels to prevent them from locking.
+- ABS helps to keep steering while breaking as well.
+
+**Dealing with floods**
+
+- Stop and assess how deep the water.
+- If the water is shallow and not too deep and you decide to drive on through, drive as slowly as possible in first gear.
+- When you have driven safely through, test your brakes.
+
+When you have to pass through a flooded road, stop and assess how deep the water. If the water seems too deep for your vehicle, turn back and go around the flood by another road. It might take a little longer, but that is better than finding yourself stranded in a flood.
+
+But if you drive through, maintain a steady speed and be sure to keep to the shallowest part. Remember, because of the incline of the road, the water is probably deepest near the edge and shallowest at the crown, or center. When you have driven safely through, test your brakes. If they do not work properly, dry them out by pressing the brake pedal repeatedly while driving along slowly. Do not drive at normal speed until you are sure they are working normally
+
 ---
 
 ## LESSON 5 - SOME CRITICAL SITUATIONS
@@ -772,6 +985,180 @@ Accidents between motor vehicles are accounted for more than one fourth of all a
 - Was travelling too fast.
 - Neglected to scan the road.
 - Was overtaking a vehicle that had stopped to allow a pedestrian to cross the street.
+
+### Part 02 (Slide 2 of 3)
+
+**Cyclist accidents**
+
+**Common causes of accidents involving cyclists are because the driver did the following:**
+
+- Ignored the cyclist.
+- Misjudged the cyclist's speed and intention.
+- Was passing the cyclist in high speed.
+
+**Motorcycle accidents**
+
+Common causes of accidents involving four-wheel vehicles and motorcycles are because the driver:
+
+- Did not see the motorcycle because it is smaller and often approaches at unexpected speeds.
+- Neglected to watch out for motorcycles creating their own lane between lines of other vehicles.
+
+**Front to rear accidents**
+
+Rear-end collisions, when a vehicle drives into the rear of the vehicle in front, are usually the result of driving too close, otherwise known as tailgating. Always keep the correct distance between you and the vehicle driving in front of you.
+
+Rear-end collisions are most common inside the city limits and amongst taxi drivers.
+
+**Dark accidents**
+
+Common causes of accidents involving unprotected road users in the dark, are because the driver did the following:
+
+- Misjudged the speed and intention.
+- Was travelling too fast.
+- Did not consider the limited ability to see in the dark.
+
+**Vehicle Breakdown**
+
+**What should you do if your vehicle breakdown?**
+
+- Move the vehicle out of the way so that it is not a source of danger to other vehicles.
+- Turn on hazard light to warn the other road users.
+- Take out all passengers from the vehicle and stop at a sufficient distance from the road and prefer to stand behind the barriers of protection on the road.
+- If the area is dark, turn on the parking lights.
+- Call 999 for Road Support Service.
+
+**If you're involved in an accident or If you are the first to arrive**
+
+- Warn other traffic by using hazard light & warning triangle.
+- Call emergency.
+- Give help (if you know how to).
+
+Remember, further collisions can and do happen. Say you have been involved in a minor accident and do not appear to be injured.
+
+Warn other traffic by:
+
+- Switching on hazard warning lights or other lights.
+- Displaying an advance warning triangle.
+
+Call emergency services, and give full details of the location and casualties. Location details are marked on yellow signs located at regular intervals on the hard shoulder.
+
+Always check these before you make your call to be able tell the emergency services exactly where you are.
+
+- 998 is the number to call for an ambulance.
+- 999 is the number to call if you need to get in touch with the police.
+- 997 is the number to call for the fire brigade.
+
+Give whatever help you can to others involved. Persons who seem to be unhurt may be suffering from shock, and may in fact be unaware of their injuries.
+
+This includes you. If in doubt, get checked out at the hospital.
+
+**What to do when you are involved in an accident**
+
+- Leaving the scene of an accident without providing your details is a serious offence.
+- Insure moving the vehicle involved in an accident outside the road if possible.
+- If you damage a traffic sign, or devices used to control the traffic immediately restore it (if possible) and notify the concerned authorities.
+
+**What to do when you are involved in an accident**
+
+- If you run into a parked car notify the police immediately.
+- **Note any witnesses** and try to get their names and addresses.
+- Make a note of the numbers of any vehicles whose occupants might have witnessed the accident.
+
+- If you run into a parked car, try to get in touch with the owner. If you cannot, leave a message indicating your name and telephone number, and then notify the police.
+- Note any witnesses and try to make sure they do not go before you get their names and contact numbers. Make a note of the numbers of any vehicles whose occupants might have witnessed the accident.
+
+**Passing an accident scene**
+
+**If you are not one of the first to arrive** you should drive pass carefully and not become distracted by the accident.
+
+**If the accident is on the other side of a motorway**, do not slow down to look.
+
+**Always remember** to give way to emergency vehicles. Watch out for their flashing lights and listen for their warning sirens.
+
+If you are not one of the first to arrive at the scene of an accident and enough people have already stopped to give assistance, you should drive pass carefully and not become distracted by the accident.
+
+If the accident is on the other side of a motorway, do not slow down to look. You may cause another accident on your side of the road, or, at the very least, additional and unnecessary traffic congestion.
+
+Always remember to give way to emergency vehicles. Watch out for their flashing lights and listen for their warning sirens.
+
+### Part 03 (Slide 3 of 3)
+
+**Camels and other animals that we encounter on the road**
+
+While passing camels, always pass them from behind, as camels always continue in straight direction
+
+If being in high speed suddenly you encounter a small animal, do not get panic and neither apply the hard brake or sudden steer, hold the steering wheel firmly and apply the brake gently.
+
+**First-aid on the road**
+
+If you are certified to provide first-aid assistance, be prepared to do so as it could save someone's life.
+
+- Carry a first aid kit in your car which should be certified and updated.
+- Nobody knows the exact number of accident victims on Emirates roads that could have been saved by given them first aid, but it is perhaps as many as a quarter of all victims.
+
+**Dealing with those involved**
+
+- Injured people should not be moved unless there is a danger to their safety.
+- Do not remove the helmet of the motorcyclist unless it is essential to do so.
+- Remain as calm as possible.
+- Casualties should be taken to hospital in an ambulance.
+
+To help injured people you have to be able to give first aid.
+
+Casualties should under no circumstances be moved unless they could be run over by other vehicles on the road or if there is a risk of fire or explosion. And do not remove a motorcyclist's helmet unless it is essential to do so.
+
+Casualties should be taken to hospital in an ambulance; they should be moved as little as possible. The panic associated with accidents is often extremely stressful. If possible, one person should take charge of obtaining assistance and alerting other road users to the accident by setting out triangular hazard signs. Even though the situation may be totally confusing, try to remain as calm as possible.
+
+When an ambulance arrives, give the crew as many facts as you can, but no assumptions, diagnoses,
+
+**Vehicle fires**
+
+Carry a suitable fire extinguisher to put out a small fire.
+
+If the fire is big, evacuate the vehicle as quickly as possible, and move away of it.
+
+Carrying a suitable fire extinguisher in your vehicle may help you to put out a small fire. If the fire appears to be a serious one do not try to tackle it. Get well clear of the vehicle and leave it to the fire brigade. If you suspect a fire in the engine compartment, get all passengers out safely. And remember, fire can spread through a vehicle with alarming speed.
+
+If the fire is big, leave the vehicle and move away.
+
+**How to avoid accidents?**
+
+- Have a good vision.
+- Be alert and ready to respond to the unexpected.
+- Be secure in your mind by wearing your seatbelt.
+- Regularly check your rearview and wing mirrors.
+- Look for braking lights of front vehicles
+- Keep an eye out for people crossing the road.
+- Keep enough safe distances.
+- Keep within your lane.
+- On long journeys, take an enough break.
+
+Here are some ways of reducing the chances of finding yourself in a critical situation:
+
+- Always maintain good vision to the front and all around your vehicle.
+- Keep an eye out for people crossing the road at official crossing places and when driving by schools, shopping areas and other public gathering areas.
+- Keep to your lane, except when overtaking, and do not weave from lane to lane.
+- Do not look at maps, or eat food while driving. Stop at a layby and continue later.
+
+Many drivers do not approach driving as a serious exercise, one that could result in someone getting gravely injured or even killed due to a lapse of concentration or a failure of driving technique.
+
+It only takes a fraction of a second for things to start going wrong.
+
+**The Defensive Driving**
+
+Defensive driving requires practice, experience and a good deal of imagination.
+
+Defensive driving could be developed with time, experience and good skills of driving.
+
+**No accident environment**
+
+**Better road behavior.**
+
+**Safer roads.**
+
+**Safer vehicles.**
+
+This is impossible to make accident free environment, but by following the precautions of not speeding, while driving to be alert and following the rules of the road could take the critical situations out of the map.
 
 ---
 
@@ -1021,12 +1408,8 @@ Whenever you brake, due to moment the objects lying lose will be thrown forward.
 
 ## REMAINING SLIDES (Not Yet Extracted)
 
-The following slides require watching the full video on each slide before the "Next" button becomes enabled. They need to be extracted manually or with JavaScript evaluation permissions:
+The following slides require watching the full video (~8 min each) on each slide before the "Next" button becomes enabled. To extract, navigate to the lesson URL, play each video, wait 8 min, then click Next.
 
-- **Lesson 2**: Slides 2-3 (Parts 02-03)
-- **Lesson 3**: Slides 2-3 (Parts 02-03)
-- **Lesson 4**: Slides 2-3 (Parts 02-03)
-- **Lesson 5**: Slides 2-3 (Parts 02-03)
-- **Lesson 6**: Slides 2-4 (Parts 02-04)
-- **Lesson 7**: Slides 2-4 (Parts 02-04)
-- **Lesson 8**: Slide 2 (Part 02)
+- **Lesson 6**: Slides 2-4 (Parts 02-04) - 4 slides total
+- **Lesson 7**: Slides 2-4 (Parts 02-04) - 4 slides total
+- **Lesson 8**: Slide 2 (Part 02) - 2 slides total

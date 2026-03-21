@@ -1,7 +1,29 @@
 'use client'
 
 import { useReducer, useCallback } from 'react'
-import type { QuizState, QuizAction, Question } from '@/types/quiz'
+import type { Question } from '@/types/quiz'
+import type { QuizAnswerRecord } from '@/context/ProgressContext'
+
+export interface QuizState {
+  questions: Question[]
+  currentIndex: number
+  selectedAnswerId: string | null
+  isAnswered: boolean
+  answers: Record<string, { selectedId: string; isCorrect: boolean }>
+  score: number
+  status: 'loading' | 'active' | 'reviewing' | 'completed'
+  timeRemaining: number | null
+  sessionAnswers: QuizAnswerRecord[]
+}
+
+export type QuizAction =
+  | { type: 'SET_QUESTIONS'; questions: Question[] }
+  | { type: 'SELECT_ANSWER'; answerId: string }
+  | { type: 'CHECK_ANSWER' }
+  | { type: 'NEXT_QUESTION' }
+  | { type: 'SKIP' }
+  | { type: 'COMPLETE' }
+  | { type: 'TICK_TIMER' }
 
 const initialState: QuizState = {
   questions: [],
@@ -12,6 +34,7 @@ const initialState: QuizState = {
   score: 0,
   status: 'loading',
   timeRemaining: null,
+  sessionAnswers: [],
 }
 
 function quizReducer(state: QuizState, action: QuizAction): QuizState {
@@ -26,22 +49,29 @@ function quizReducer(state: QuizState, action: QuizAction): QuizState {
         score: 0,
         selectedAnswerId: null,
         isAnswered: false,
+        sessionAnswers: [],
       }
 
     case 'SELECT_ANSWER':
       if (state.isAnswered) return state
-      return {
-        ...state,
-        selectedAnswerId: action.answerId,
-      }
+      return { ...state, selectedAnswerId: action.answerId }
 
     case 'CHECK_ANSWER': {
       if (!state.selectedAnswerId || state.isAnswered) return state
-      const currentQuestion = state.questions[state.currentIndex]
-      const selectedAnswer = currentQuestion.answers.find(
-        (a) => a.id === state.selectedAnswerId
-      )
-      const isCorrect = selectedAnswer?.is_correct ?? false
+      const q = state.questions[state.currentIndex]
+      const selected = q.answers.find((a) => a.id === state.selectedAnswerId)
+      const correct = q.answers.find((a) => a.is_correct)
+      const isCorrect = selected?.is_correct ?? false
+
+      const answerRecord: QuizAnswerRecord = {
+        questionId: q.id,
+        questionText: q.question_text,
+        selectedAnswerText: selected?.answer_text ?? '',
+        correctAnswerText: correct?.answer_text ?? '',
+        isCorrect,
+        explanation: q.explanation,
+      }
+
       return {
         ...state,
         isAnswered: true,
@@ -49,11 +79,9 @@ function quizReducer(state: QuizState, action: QuizAction): QuizState {
         score: isCorrect ? state.score + 1 : state.score,
         answers: {
           ...state.answers,
-          [currentQuestion.id]: {
-            selectedId: state.selectedAnswerId,
-            isCorrect,
-          },
+          [q.id]: { selectedId: state.selectedAnswerId, isCorrect },
         },
+        sessionAnswers: [...state.sessionAnswers, answerRecord],
       }
     }
 
@@ -72,14 +100,29 @@ function quizReducer(state: QuizState, action: QuizAction): QuizState {
     }
 
     case 'SKIP': {
-      const currentQuestion = state.questions[state.currentIndex]
+      const q = state.questions[state.currentIndex]
+      const correct = q.answers.find((a) => a.is_correct)
+      const skipRecord: QuizAnswerRecord = {
+        questionId: q.id,
+        questionText: q.question_text,
+        selectedAnswerText: '(Skipped)',
+        correctAnswerText: correct?.answer_text ?? '',
+        isCorrect: false,
+        explanation: q.explanation,
+      }
+
       const nextIndex = state.currentIndex + 1
       const newAnswers = {
         ...state.answers,
-        [currentQuestion.id]: { selectedId: '', isCorrect: false },
+        [q.id]: { selectedId: '', isCorrect: false },
       }
       if (nextIndex >= state.questions.length) {
-        return { ...state, answers: newAnswers, status: 'completed' }
+        return {
+          ...state,
+          answers: newAnswers,
+          status: 'completed',
+          sessionAnswers: [...state.sessionAnswers, skipRecord],
+        }
       }
       return {
         ...state,
@@ -87,7 +130,7 @@ function quizReducer(state: QuizState, action: QuizAction): QuizState {
         selectedAnswerId: null,
         isAnswered: false,
         answers: newAnswers,
-        status: 'active',
+        sessionAnswers: [...state.sessionAnswers, skipRecord],
       }
     }
 
@@ -108,9 +151,8 @@ function quizReducer(state: QuizState, action: QuizAction): QuizState {
 export function useQuiz() {
   const [state, dispatch] = useReducer(quizReducer, initialState)
 
-  const startQuiz = useCallback((questions: Question[], timeLimitSecs?: number) => {
+  const startQuiz = useCallback((questions: Question[]) => {
     dispatch({ type: 'SET_QUESTIONS', questions })
-    // Timer would be set up separately if needed
   }, [])
 
   const selectAnswer = useCallback((answerId: string) => {

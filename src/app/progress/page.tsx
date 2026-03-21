@@ -1,11 +1,11 @@
 'use client'
 
-import { useEffect, useState } from 'react'
 import { Header } from '@/components/layout/Header'
 import { BottomNav } from '@/components/layout/BottomNav'
 import { NeoCard } from '@/components/ui/NeoCard'
 import { ProgressBar } from '@/components/ui/ProgressBar'
-import { getProgress, getTotalStats, type UserProgress } from '@/lib/progress'
+import { useProgress } from '@/context/ProgressContext'
+import { getTotalStats } from '@/lib/progress'
 
 const MODULE_INFO = [
   { slug: 'road-signs', title: 'Traffic Signs', icon: 'signpost' },
@@ -18,100 +18,64 @@ const MODULE_INFO = [
 ]
 
 export default function ProgressPage() {
-  const [progress, setProgress] = useState<UserProgress | null>(null)
-
-  useEffect(() => {
-    setProgress(getProgress())
-  }, [])
-
-  const stats = progress ? getTotalStats(progress) : { totalCompleted: 0, totalAnswered: 0, totalCorrect: 0, avgPercent: 0 }
-  const modulesWithProgress = MODULE_INFO.filter(
-    (m) => (progress?.modules[m.slug]?.completionCount ?? 0) > 0
-  ).length
+  const { progress } = useProgress()
+  const stats = getTotalStats(progress)
 
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
-      <Header title="Progress" xp={progress?.totalXp} streak={progress?.currentStreak} />
+      <Header title="Progress" />
       <main className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
         <h2 className="font-headline text-3xl font-bold text-primary mb-6">
           Your <span className="text-tertiary">Progress</span>
         </h2>
 
-        {/* Overall Stats */}
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-8">
           <NeoCard level={2} shadow="default" className="text-center !p-4">
-            <p className="font-headline text-3xl font-bold text-primary">{progress?.totalXp ?? 0}</p>
-            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider mt-1">
-              Total XP
-            </p>
+            <p className="font-headline text-3xl font-bold text-primary">{progress.totalXp}</p>
+            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider mt-1">Total XP</p>
           </NeoCard>
           <NeoCard level={2} shadow="default" className="text-center !p-4">
             <p className="font-headline text-3xl font-bold text-tertiary">{stats.avgPercent}%</p>
-            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider mt-1">
-              Avg Score
-            </p>
+            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider mt-1">Avg Score</p>
           </NeoCard>
           <NeoCard level={2} shadow="default" className="text-center !p-4">
             <p className="font-headline text-3xl font-bold text-success">{stats.totalCompleted}</p>
-            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider mt-1">
-              Quizzes Done
-            </p>
+            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider mt-1">Quizzes Done</p>
           </NeoCard>
           <NeoCard level={2} shadow="default" className="text-center !p-4">
-            <p className="font-headline text-3xl font-bold text-secondary">{progress?.currentStreak ?? 0}</p>
-            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider mt-1">
-              Day Streak
-            </p>
+            <p className="font-headline text-3xl font-bold text-secondary">{progress.currentStreak}</p>
+            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider mt-1">Day Streak</p>
           </NeoCard>
         </div>
 
-        {/* Module Mastery */}
-        <div className="mb-6">
-          <h3 className="font-headline text-lg font-bold text-primary uppercase tracking-wider mb-4">
-            Module Mastery
-          </h3>
-          <div className="grid gap-3 sm:grid-cols-2">
-            {MODULE_INFO.map((mod) => {
-              const mp = progress?.modules[mod.slug]
-              const bestPercent = mp?.bestPercent ?? 0
-              const completions = mp?.completionCount ?? 0
-              return (
-                <NeoCard key={mod.slug} level={1} shadow="none">
-                  <div className="flex items-center gap-3 mb-3">
-                    <span className="material-symbols-outlined text-secondary" style={{ fontSize: 24 }}>
-                      {mod.icon}
+        <h3 className="font-headline text-lg font-bold text-primary uppercase tracking-wider mb-4">Module Mastery</h3>
+        <div className="grid gap-3 sm:grid-cols-2">
+          {MODULE_INFO.map((mod) => {
+            const mp = progress.modules[mod.slug]
+            const bestPercent = mp?.bestPercent ?? 0
+            const completions = mp?.completionCount ?? 0
+            return (
+              <NeoCard key={mod.slug} level={1} shadow="none">
+                <div className="flex items-center gap-3 mb-3">
+                  <span className="material-symbols-outlined text-secondary" style={{ fontSize: 24 }}>{mod.icon}</span>
+                  <span className="font-headline text-sm font-bold text-primary flex-1">{mod.title}</span>
+                  {completions > 0 && (
+                    <span className="font-label text-[10px] text-on-surface-variant bg-surface-container-highest px-2 py-0.5">
+                      {completions}x
                     </span>
-                    <span className="font-headline text-sm font-bold text-primary flex-1">{mod.title}</span>
-                    {completions > 0 && (
-                      <span className="font-label text-[10px] text-on-surface-variant bg-surface-container-highest px-2 py-0.5">
-                        {completions}x
-                      </span>
-                    )}
-                    <span className="font-headline text-sm font-bold text-tertiary">
-                      {bestPercent}%
-                    </span>
-                  </div>
-                  <ProgressBar
-                    value={bestPercent}
-                    max={100}
-                    color={bestPercent >= 71 ? 'success' : bestPercent > 0 ? 'tertiary' : 'tertiary'}
-                    size="sm"
-                  />
-                </NeoCard>
-              )
-            })}
-          </div>
+                  )}
+                  <span className="font-headline text-sm font-bold text-tertiary">{bestPercent}%</span>
+                </div>
+                <ProgressBar value={bestPercent} max={100} color={bestPercent >= 71 ? 'success' : 'tertiary'} size="sm" />
+              </NeoCard>
+            )
+          })}
         </div>
 
-        {/* Empty state */}
         {stats.totalCompleted === 0 && (
-          <NeoCard level={1} shadow="none" className="text-center !py-12">
-            <span className="material-symbols-outlined text-outline" style={{ fontSize: 48 }}>
-              history
-            </span>
-            <p className="mt-3 text-on-surface-variant">
-              No activity yet. Start a quiz to see your progress!
-            </p>
+          <NeoCard level={1} shadow="none" className="text-center !py-12 mt-6">
+            <span className="material-symbols-outlined text-outline" style={{ fontSize: 48 }}>history</span>
+            <p className="mt-3 text-on-surface-variant">No activity yet. Start a quiz to see your progress!</p>
           </NeoCard>
         )}
       </main>

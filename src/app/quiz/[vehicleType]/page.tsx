@@ -1,6 +1,5 @@
 'use client'
 
-import { useEffect, useState } from 'react'
 import { useParams } from 'next/navigation'
 import Link from 'next/link'
 import { Header } from '@/components/layout/Header'
@@ -8,8 +7,8 @@ import { BottomNav } from '@/components/layout/BottomNav'
 import { NeoCard } from '@/components/ui/NeoCard'
 import { Badge } from '@/components/ui/Badge'
 import { ProgressBar } from '@/components/ui/ProgressBar'
+import { useProgress } from '@/context/ProgressContext'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
-import { getProgress, type UserProgress, type ModuleProgress } from '@/lib/progress'
 
 const MODULES = [
   { slug: 'road-signs', title: 'Traffic Signs', description: 'Learn regulatory, warning, and informational signs', icon: 'signpost', questionCount: 30, xp: 100 },
@@ -27,14 +26,10 @@ export default function ModulePathPage() {
   const category = VEHICLE_CATEGORIES.find((c) => c.type === vehicleType)
   const categoryName = category?.name ?? 'Vehicle'
 
-  const [progress, setProgress] = useState<UserProgress | null>(null)
-
-  useEffect(() => {
-    setProgress(getProgress())
-  }, [])
+  const { progress } = useProgress()
 
   const allModulesCompleted = MODULES.every(
-    (m) => (progress?.modules[m.slug]?.completionCount ?? 0) > 0
+    (m) => (progress.modules[m.slug]?.completionCount ?? 0) > 0
   )
 
   return (
@@ -65,7 +60,7 @@ export default function ModulePathPage() {
         {/* Module List - ALL UNLOCKED */}
         <div className="space-y-4">
           {MODULES.map((mod, idx) => {
-            const modProgress = progress?.modules[mod.slug]
+            const modProgress = progress.modules[mod.slug]
             const completions = modProgress?.completionCount ?? 0
             const bestPercent = modProgress?.bestPercent ?? 0
 

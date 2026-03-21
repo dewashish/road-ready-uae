@@ -87,9 +87,10 @@ export default function QuizPage() {
   }
 
   if (state.status === 'completed') {
-    const scorePercent = Math.round((state.score / state.questions.length) * 100)
-    const passed = scorePercent >= 71
-
+    // Store session answers for history before navigating
+    if (typeof window !== 'undefined') {
+      localStorage.setItem('road-ready-last-session', JSON.stringify(state.sessionAnswers))
+    }
     router.push(
       `/quiz/${vehicleType}/${moduleSlug}/results?score=${state.score}&total=${state.questions.length}`
     )
