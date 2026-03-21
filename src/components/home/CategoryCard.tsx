@@ -18,21 +18,24 @@ interface CategoryCardProps {
  * NeoPOP / CRED style — light from upper-left, hard shadow offset bottom-right.
  *
  * Alternation by card index:
- *   Even index (0, 2, 4…) → yellow button shadow + cyan progress bar
- *   Odd  index (1, 3, 5…) → cyan button shadow   + yellow progress bar
+ *   Even (0, 2, 4…) → yellow button shadow, yellow badge, cyan progress bar
+ *   Odd  (1, 3, 5…) → cyan button shadow,   cyan badge,   yellow progress bar
  *
- * Exception — COMPLETED: everything yellow (button shadow + progress bar).
- * Exception — COMING_SOON: greyed out, no shadow, unavailable CTA.
+ * Badge color = same as button shadow color (alternates together).
+ * Progress bar color = opposite of button shadow.
+ *
+ * COMPLETED: everything yellow.
+ * COMING_SOON: greyed out, no shadow, unavailable.
  */
 
 const SHADOW_YELLOW = '4px 4px 0px 0px #f5ce53'
 const SHADOW_CYAN = '4px 4px 0px 0px #81ecff'
 
-const badgeStyles: Record<CardStatus, string> = {
-  new: 'bg-surface-container-highest text-on-surface',
-  active: 'bg-tertiary text-on-tertiary',
-  completed: 'bg-secondary text-on-secondary',
-  coming_soon: 'bg-surface-container-highest text-outline',
+const ctaLabels: Record<CardStatus, string> = {
+  new: 'Start Module',
+  active: 'Continue',
+  completed: 'Review',
+  coming_soon: 'Unavailable',
 }
 
 const badgeLabels: Record<CardStatus, string> = {
@@ -40,13 +43,6 @@ const badgeLabels: Record<CardStatus, string> = {
   active: 'IN PROGRESS',
   completed: 'COMPLETED',
   coming_soon: 'COMING SOON',
-}
-
-const ctaLabels: Record<CardStatus, string> = {
-  new: 'Start Module',
-  active: 'Continue',
-  completed: 'Review',
-  coming_soon: 'Unavailable',
 }
 
 export function CategoryCard({
@@ -58,18 +54,22 @@ export function CategoryCard({
 }: CategoryCardProps) {
   const percent = Math.round((completedModules / totalModules) * 100)
   const isComingSoon = status === 'coming_soon'
-
-  // Completed → all yellow
-  // Coming soon → no shadow
-  // Otherwise alternate: even index = yellow shadow + cyan bar, odd = cyan shadow + yellow bar
   const isCompleted = status === 'completed'
   const isEven = index % 2 === 0
 
+  // Determine accent colors based on alternation
+  // Badge + button shadow share the same color; progress bar is the opposite
   const buttonShadow = isComingSoon
     ? 'none'
     : isCompleted
       ? SHADOW_YELLOW
       : isEven ? SHADOW_YELLOW : SHADOW_CYAN
+
+  const badgeStyle = isComingSoon
+    ? 'bg-surface-container-highest text-outline'
+    : isCompleted
+      ? 'bg-secondary text-on-secondary'
+      : isEven ? 'bg-secondary text-on-secondary' : 'bg-tertiary text-on-tertiary'
 
   const progressColor: 'secondary' | 'tertiary' = isCompleted
     ? 'secondary'
@@ -79,7 +79,7 @@ export function CategoryCard({
     <NeoCard
       level={isComingSoon ? 1 : 2}
       shadow={isComingSoon ? 'none' : 'default'}
-      className={`group h-full !p-6 ${isComingSoon ? 'opacity-40' : 'neo-hover cursor-pointer'}`}
+      className={`group h-full !p-6 flex flex-col ${isComingSoon ? 'opacity-40' : 'neo-hover cursor-pointer'}`}
     >
       {/* Top: icon + badge */}
       <div className="flex items-start justify-between mb-5">
@@ -97,7 +97,7 @@ export function CategoryCard({
             {category.icon}
           </span>
         </div>
-        <span className={`inline-block px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${badgeStyles[status]}`}>
+        <span className={`inline-block px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${badgeStyle}`}>
           {badgeLabels[status]}
         </span>
       </div>
@@ -116,9 +116,14 @@ export function CategoryCard({
         {category.description}
       </p>
 
-      {/* Progress bar */}
-      {!isComingSoon && (
-        <div className="mb-5">
+      {/* Spacer to push CTA to bottom */}
+      <div className="flex-1" />
+
+      {/* Progress bar — always render the space, hide content for coming_soon */}
+      <div className="mb-5">
+        {isComingSoon ? (
+          <div className="h-[24px]" />
+        ) : (
           <div className="flex items-center gap-3">
             <ProgressBar
               value={completedModules}
@@ -131,8 +136,8 @@ export function CategoryCard({
               {percent}%
             </span>
           </div>
-        </div>
-      )}
+        )}
+      </div>
 
       {/* CTA */}
       <div
