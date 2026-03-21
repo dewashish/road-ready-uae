@@ -4,18 +4,52 @@
     "question_text": "How often should you check your tire pressure, especially during the hot UAE summer?",
     "explanation": "Tire pressure should be checked at least once a month and before long trips. In the UAE summer, check more frequently as heat causes pressure to increase. Always check when tires are cold (in the morning) for an accurate reading.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tire_pressure", "summer_driving", "pre_drive_checks"],
+    "tags": [
+      "tire_pressure",
+      "summer_driving",
+      "pre_drive_checks"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-001-a", "question_id": "vm-001", "answer_text": "At least once a month, more frequently in summer, when tires are cold", "is_correct": true, "display_order": 1},
-      {"id": "vm-001-b", "question_id": "vm-001", "answer_text": "Only when the tire looks flat", "is_correct": false, "display_order": 2},
-      {"id": "vm-001-c", "question_id": "vm-001", "answer_text": "Once a year during vehicle inspection", "is_correct": false, "display_order": 3},
-      {"id": "vm-001-d", "question_id": "vm-001", "answer_text": "Only after driving for at least 30 minutes", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-001-a",
+        "question_id": "vm-001",
+        "answer_text": "At least once a month, more frequently in summer, when tires are cold",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-001-b",
+        "question_id": "vm-001",
+        "answer_text": "Only when the tire looks flat",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-001-c",
+        "question_id": "vm-001",
+        "answer_text": "Once a year during vehicle inspection",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-001-d",
+        "question_id": "vm-001",
+        "answer_text": "Only after driving for at least 30 minutes",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -23,18 +57,52 @@
     "question_text": "What is the minimum legal tire tread depth in the UAE?",
     "explanation": "The minimum legal tire tread depth in the UAE is 1.6 mm. However, for safety, especially on wet roads, it is recommended to replace tires when tread depth reaches 3 mm. Worn tires significantly increase braking distance and aquaplaning risk.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tire_pressure", "tread_depth", "uae_law"],
+    "tags": [
+      "tire_pressure",
+      "tread_depth",
+      "uae_law"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-002-a", "question_id": "vm-002", "answer_text": "1.6 mm", "is_correct": true, "display_order": 1},
-      {"id": "vm-002-b", "question_id": "vm-002", "answer_text": "3 mm", "is_correct": false, "display_order": 2},
-      {"id": "vm-002-c", "question_id": "vm-002", "answer_text": "0.5 mm", "is_correct": false, "display_order": 3},
-      {"id": "vm-002-d", "question_id": "vm-002", "answer_text": "5 mm", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-002-a",
+        "question_id": "vm-002",
+        "answer_text": "1.6 mm",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-002-b",
+        "question_id": "vm-002",
+        "answer_text": "3 mm",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-002-c",
+        "question_id": "vm-002",
+        "answer_text": "0.5 mm",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-002-d",
+        "question_id": "vm-002",
+        "answer_text": "5 mm",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -42,18 +110,52 @@
     "question_text": "Why is it important to check engine oil regularly in the UAE climate?",
     "explanation": "The extreme heat in the UAE causes engine oil to break down faster than in temperate climates. Oil lubricates, cools, and cleans engine parts. Low or degraded oil can lead to engine overheating and serious damage. Check the oil level at least monthly.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["oil_checks", "engine_maintenance", "heat"],
+    "tags": [
+      "oil_checks",
+      "engine_maintenance",
+      "heat"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-003-a", "question_id": "vm-003", "answer_text": "Extreme heat causes oil to degrade faster, risking engine overheating and damage", "is_correct": true, "display_order": 1},
-      {"id": "vm-003-b", "question_id": "vm-003", "answer_text": "Oil does not need checking between services in modern vehicles", "is_correct": false, "display_order": 2},
-      {"id": "vm-003-c", "question_id": "vm-003", "answer_text": "Oil levels only matter in cold climates", "is_correct": false, "display_order": 3},
-      {"id": "vm-003-d", "question_id": "vm-003", "answer_text": "Engine oil lasts indefinitely in hot weather", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-003-a",
+        "question_id": "vm-003",
+        "answer_text": "Extreme heat causes oil to degrade faster, risking engine overheating and damage",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-003-b",
+        "question_id": "vm-003",
+        "answer_text": "Oil does not need checking between services in modern vehicles",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-003-c",
+        "question_id": "vm-003",
+        "answer_text": "Oil levels only matter in cold climates",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-003-d",
+        "question_id": "vm-003",
+        "answer_text": "Engine oil lasts indefinitely in hot weather",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -61,18 +163,52 @@
     "question_text": "What should you check about your brake fluid?",
     "explanation": "Brake fluid should be checked regularly for its level and color. It should be between the MIN and MAX marks on the reservoir. Dark or cloudy brake fluid indicates it has absorbed moisture and should be replaced. Contaminated brake fluid reduces braking effectiveness.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["brake_fluid", "brakes", "fluid_checks"],
+    "tags": [
+      "brake_fluid",
+      "brakes",
+      "fluid_checks"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-004-a", "question_id": "vm-004", "answer_text": "The level should be between MIN and MAX; dark or cloudy fluid should be replaced", "is_correct": true, "display_order": 1},
-      {"id": "vm-004-b", "question_id": "vm-004", "answer_text": "Brake fluid never needs to be replaced or checked", "is_correct": false, "display_order": 2},
-      {"id": "vm-004-c", "question_id": "vm-004", "answer_text": "Only check brake fluid when the brakes feel different", "is_correct": false, "display_order": 3},
-      {"id": "vm-004-d", "question_id": "vm-004", "answer_text": "Brake fluid color does not indicate its condition", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-004-a",
+        "question_id": "vm-004",
+        "answer_text": "The level should be between MIN and MAX; dark or cloudy fluid should be replaced",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-004-b",
+        "question_id": "vm-004",
+        "answer_text": "Brake fluid never needs to be replaced or checked",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-004-c",
+        "question_id": "vm-004",
+        "answer_text": "Only check brake fluid when the brakes feel different",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-004-d",
+        "question_id": "vm-004",
+        "answer_text": "Brake fluid color does not indicate its condition",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -80,18 +216,52 @@
     "question_text": "Why is maintaining proper coolant levels especially critical in the UAE?",
     "explanation": "Coolant (antifreeze) regulates engine temperature. In the UAE's extreme heat, the cooling system works harder than in most climates. Low coolant levels can cause the engine to overheat rapidly, leading to severe and costly damage. Check coolant when the engine is cool.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["coolant", "engine_overheating", "heat"],
+    "tags": [
+      "coolant",
+      "engine_overheating",
+      "heat"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-005-a", "question_id": "vm-005", "answer_text": "Extreme heat puts extra strain on the cooling system; low coolant causes rapid overheating", "is_correct": true, "display_order": 1},
-      {"id": "vm-005-b", "question_id": "vm-005", "answer_text": "Coolant is only important in cold climates to prevent freezing", "is_correct": false, "display_order": 2},
-      {"id": "vm-005-c", "question_id": "vm-005", "answer_text": "Modern vehicles do not need coolant checks", "is_correct": false, "display_order": 3},
-      {"id": "vm-005-d", "question_id": "vm-005", "answer_text": "You can use water instead of coolant in the UAE since it does not freeze", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-005-a",
+        "question_id": "vm-005",
+        "answer_text": "Extreme heat puts extra strain on the cooling system; low coolant causes rapid overheating",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-005-b",
+        "question_id": "vm-005",
+        "answer_text": "Coolant is only important in cold climates to prevent freezing",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-005-c",
+        "question_id": "vm-005",
+        "answer_text": "Modern vehicles do not need coolant checks",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-005-d",
+        "question_id": "vm-005",
+        "answer_text": "You can use water instead of coolant in the UAE since it does not freeze",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -99,18 +269,52 @@
     "question_text": "How can you check if your headlights are properly aligned?",
     "explanation": "Park on a flat surface facing a wall. The light pattern should be even, with the beam cutoff slightly below the headlight height. Misaligned headlights can blind oncoming drivers and reduce your visibility. Have them adjusted at a service center if needed.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["headlight_maintenance", "alignment", "visibility"],
+    "tags": [
+      "headlight_maintenance",
+      "alignment",
+      "visibility"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-006-a", "question_id": "vm-006", "answer_text": "Park facing a wall; the beam cutoff should be slightly below headlight height and evenly distributed", "is_correct": true, "display_order": 1},
-      {"id": "vm-006-b", "question_id": "vm-006", "answer_text": "Headlight alignment is set at the factory and never changes", "is_correct": false, "display_order": 2},
-      {"id": "vm-006-c", "question_id": "vm-006", "answer_text": "Drive toward oncoming traffic and ask them if your lights are blinding", "is_correct": false, "display_order": 3},
-      {"id": "vm-006-d", "question_id": "vm-006", "answer_text": "Headlights only need checking during vehicle registration renewal", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-006-a",
+        "question_id": "vm-006",
+        "answer_text": "Park facing a wall; the beam cutoff should be slightly below headlight height and evenly distributed",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-006-b",
+        "question_id": "vm-006",
+        "answer_text": "Headlight alignment is set at the factory and never changes",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-006-c",
+        "question_id": "vm-006",
+        "answer_text": "Drive toward oncoming traffic and ask them if your lights are blinding",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-006-d",
+        "question_id": "vm-006",
+        "answer_text": "Headlights only need checking during vehicle registration renewal",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -118,18 +322,52 @@
     "question_text": "What does a red temperature warning light on the dashboard indicate?",
     "explanation": "A red temperature warning light means the engine is overheating. Stop driving as soon as safely possible, turn off the engine, and let it cool down. Do not open the radiator cap while hot. Check coolant levels once the engine is cool and call for assistance if needed.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dashboard_warning_lights", "engine_overheating", "emergency"],
+    "tags": [
+      "dashboard_warning_lights",
+      "engine_overheating",
+      "emergency"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-007-a", "question_id": "vm-007", "answer_text": "The engine is overheating — stop safely, turn off the engine, and let it cool", "is_correct": true, "display_order": 1},
-      {"id": "vm-007-b", "question_id": "vm-007", "answer_text": "The heater is on and working normally", "is_correct": false, "display_order": 2},
-      {"id": "vm-007-c", "question_id": "vm-007", "answer_text": "The air conditioning system needs a refill", "is_correct": false, "display_order": 3},
-      {"id": "vm-007-d", "question_id": "vm-007", "answer_text": "The engine has reached normal operating temperature", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-007-a",
+        "question_id": "vm-007",
+        "answer_text": "The engine is overheating — stop safely, turn off the engine, and let it cool",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-007-b",
+        "question_id": "vm-007",
+        "answer_text": "The heater is on and working normally",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-007-c",
+        "question_id": "vm-007",
+        "answer_text": "The air conditioning system needs a refill",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-007-d",
+        "question_id": "vm-007",
+        "answer_text": "The engine has reached normal operating temperature",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -137,18 +375,52 @@
     "question_text": "What does the oil pressure warning light (usually an oil can icon) mean when it illuminates while driving?",
     "explanation": "The oil pressure warning light indicates dangerously low oil pressure. Stop the vehicle immediately and safely, turn off the engine, and check the oil level. Continuing to drive can cause catastrophic engine damage within minutes. Do not restart until the issue is resolved.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dashboard_warning_lights", "oil_pressure", "engine_damage"],
+    "tags": [
+      "dashboard_warning_lights",
+      "oil_pressure",
+      "engine_damage"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-008-a", "question_id": "vm-008", "answer_text": "Dangerously low oil pressure — stop immediately and check oil level", "is_correct": true, "display_order": 1},
-      {"id": "vm-008-b", "question_id": "vm-008", "answer_text": "It is time for a routine oil change", "is_correct": false, "display_order": 2},
-      {"id": "vm-008-c", "question_id": "vm-008", "answer_text": "The oil is at the correct level", "is_correct": false, "display_order": 3},
-      {"id": "vm-008-d", "question_id": "vm-008", "answer_text": "You can continue driving until the next service appointment", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-008-a",
+        "question_id": "vm-008",
+        "answer_text": "Dangerously low oil pressure — stop immediately and check oil level",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-008-b",
+        "question_id": "vm-008",
+        "answer_text": "It is time for a routine oil change",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-008-c",
+        "question_id": "vm-008",
+        "answer_text": "The oil is at the correct level",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-008-d",
+        "question_id": "vm-008",
+        "answer_text": "You can continue driving until the next service appointment",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -156,18 +428,52 @@
     "question_text": "What pre-drive checks should you perform before starting a journey?",
     "explanation": "Before driving, check: tires (pressure, condition, tread depth), all lights, mirrors (adjust if needed), windshield wipers and washer fluid, fuel level, seatbelt function, and look for any fluid leaks under the vehicle. These checks take only a few minutes but can prevent breakdowns.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["pre_drive_checks", "vehicle_inspection", "safe_driving"],
+    "tags": [
+      "pre_drive_checks",
+      "vehicle_inspection",
+      "safe_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-009-a", "question_id": "vm-009", "answer_text": "Tires, lights, mirrors, wipers, fuel, seatbelts, and check for leaks under the vehicle", "is_correct": true, "display_order": 1},
-      {"id": "vm-009-b", "question_id": "vm-009", "answer_text": "Just check the fuel level and start driving", "is_correct": false, "display_order": 2},
-      {"id": "vm-009-c", "question_id": "vm-009", "answer_text": "Pre-drive checks are not necessary for modern vehicles", "is_correct": false, "display_order": 3},
-      {"id": "vm-009-d", "question_id": "vm-009", "answer_text": "Only check tires and mirrors", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-009-a",
+        "question_id": "vm-009",
+        "answer_text": "Tires, lights, mirrors, wipers, fuel, seatbelts, and check for leaks under the vehicle",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-009-b",
+        "question_id": "vm-009",
+        "answer_text": "Just check the fuel level and start driving",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-009-c",
+        "question_id": "vm-009",
+        "answer_text": "Pre-drive checks are not necessary for modern vehicles",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-009-d",
+        "question_id": "vm-009",
+        "answer_text": "Only check tires and mirrors",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -175,18 +481,52 @@
     "question_text": "What does the battery warning light indicate on the dashboard?",
     "explanation": "The battery warning light indicates a charging system problem. The alternator may not be charging the battery properly. The vehicle can still run temporarily on stored battery power, but you should drive to a service center promptly as the battery will eventually die.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dashboard_warning_lights", "battery", "charging_system"],
+    "tags": [
+      "dashboard_warning_lights",
+      "battery",
+      "charging_system"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-010-a", "question_id": "vm-010", "answer_text": "The charging system has a problem; the alternator may not be charging the battery", "is_correct": true, "display_order": 1},
-      {"id": "vm-010-b", "question_id": "vm-010", "answer_text": "The battery is fully charged and working correctly", "is_correct": false, "display_order": 2},
-      {"id": "vm-010-c", "question_id": "vm-010", "answer_text": "You need to replace the battery immediately before driving further", "is_correct": false, "display_order": 3},
-      {"id": "vm-010-d", "question_id": "vm-010", "answer_text": "The headlights are too bright and draining power", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-010-a",
+        "question_id": "vm-010",
+        "answer_text": "The charging system has a problem; the alternator may not be charging the battery",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-010-b",
+        "question_id": "vm-010",
+        "answer_text": "The battery is fully charged and working correctly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-010-c",
+        "question_id": "vm-010",
+        "answer_text": "You need to replace the battery immediately before driving further",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-010-d",
+        "question_id": "vm-010",
+        "answer_text": "The headlights are too bright and draining power",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -194,18 +534,52 @@
     "question_text": "How does the UAE heat affect your vehicle's battery?",
     "explanation": "Extreme heat accelerates the chemical reaction inside batteries, causing them to lose fluid through evaporation and corrode internally. UAE batteries typically last 2-3 years compared to 4-5 years in cooler climates. Check your battery condition regularly.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["battery", "heat", "uae_specific"],
+    "tags": [
+      "battery",
+      "heat",
+      "uae_specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-011-a", "question_id": "vm-011", "answer_text": "Heat causes fluid loss and internal corrosion, reducing battery life to 2-3 years", "is_correct": true, "display_order": 1},
-      {"id": "vm-011-b", "question_id": "vm-011", "answer_text": "Heat has no effect on battery performance or lifespan", "is_correct": false, "display_order": 2},
-      {"id": "vm-011-c", "question_id": "vm-011", "answer_text": "Heat improves battery performance by speeding up chemical reactions", "is_correct": false, "display_order": 3},
-      {"id": "vm-011-d", "question_id": "vm-011", "answer_text": "Only electric vehicle batteries are affected by heat", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-011-a",
+        "question_id": "vm-011",
+        "answer_text": "Heat causes fluid loss and internal corrosion, reducing battery life to 2-3 years",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-011-b",
+        "question_id": "vm-011",
+        "answer_text": "Heat has no effect on battery performance or lifespan",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-011-c",
+        "question_id": "vm-011",
+        "answer_text": "Heat improves battery performance by speeding up chemical reactions",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-011-d",
+        "question_id": "vm-011",
+        "answer_text": "Only electric vehicle batteries are affected by heat",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -213,18 +587,52 @@
     "question_text": "What does the ABS warning light indicate?",
     "explanation": "The ABS (Anti-lock Braking System) warning light means there is a fault with the ABS system. Normal braking will still work, but the ABS anti-lock feature may not function during emergency braking. Have the system checked as soon as possible.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dashboard_warning_lights", "abs", "brakes"],
+    "tags": [
+      "dashboard_warning_lights",
+      "abs",
+      "brakes"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-012-a", "question_id": "vm-012", "answer_text": "The ABS system has a fault; normal braking works but ABS may not activate", "is_correct": true, "display_order": 1},
-      {"id": "vm-012-b", "question_id": "vm-012", "answer_text": "All brakes have failed and you should stop immediately", "is_correct": false, "display_order": 2},
-      {"id": "vm-012-c", "question_id": "vm-012", "answer_text": "The ABS system is actively working and preventing wheel lock", "is_correct": false, "display_order": 3},
-      {"id": "vm-012-d", "question_id": "vm-012", "answer_text": "The brake pads need immediate replacement", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-012-a",
+        "question_id": "vm-012",
+        "answer_text": "The ABS system has a fault; normal braking works but ABS may not activate",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-012-b",
+        "question_id": "vm-012",
+        "answer_text": "All brakes have failed and you should stop immediately",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-012-c",
+        "question_id": "vm-012",
+        "answer_text": "The ABS system is actively working and preventing wheel lock",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-012-d",
+        "question_id": "vm-012",
+        "answer_text": "The brake pads need immediate replacement",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -232,18 +640,52 @@
     "question_text": "Why is it important to keep your windshield washer fluid topped up in the UAE?",
     "explanation": "Sand, dust, and insects frequently coat windshields in the UAE. Without washer fluid, you cannot clean the windshield effectively, which severely impairs visibility. Use washer fluid designed for hot climates, as water alone evaporates quickly and leaves smears.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["windshield", "washer_fluid", "visibility"],
+    "tags": [
+      "windshield",
+      "washer_fluid",
+      "visibility"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-013-a", "question_id": "vm-013", "answer_text": "Sand and dust frequently coat the windshield; washer fluid is needed to maintain clear visibility", "is_correct": true, "display_order": 1},
-      {"id": "vm-013-b", "question_id": "vm-013", "answer_text": "Washer fluid is not important in a desert climate", "is_correct": false, "display_order": 2},
-      {"id": "vm-013-c", "question_id": "vm-013", "answer_text": "Plain water works just as well as washer fluid", "is_correct": false, "display_order": 3},
-      {"id": "vm-013-d", "question_id": "vm-013", "answer_text": "Windshield wipers clean effectively without any fluid", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-013-a",
+        "question_id": "vm-013",
+        "answer_text": "Sand and dust frequently coat the windshield; washer fluid is needed to maintain clear visibility",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-013-b",
+        "question_id": "vm-013",
+        "answer_text": "Washer fluid is not important in a desert climate",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-013-c",
+        "question_id": "vm-013",
+        "answer_text": "Plain water works just as well as washer fluid",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-013-d",
+        "question_id": "vm-013",
+        "answer_text": "Windshield wipers clean effectively without any fluid",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -251,18 +693,52 @@
     "question_text": "What does the check engine light (usually an engine-shaped icon) mean?",
     "explanation": "The check engine light indicates a problem with the engine or emissions system. It can range from a loose fuel cap to a serious engine issue. If it is steady, schedule a diagnostic check soon. If it is flashing, it indicates a severe problem — reduce speed and go to a mechanic immediately.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dashboard_warning_lights", "check_engine", "diagnostics"],
+    "tags": [
+      "dashboard_warning_lights",
+      "check_engine",
+      "diagnostics"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-014-a", "question_id": "vm-014", "answer_text": "An engine or emissions system problem; flashing means severe — see a mechanic immediately", "is_correct": true, "display_order": 1},
-      {"id": "vm-014-b", "question_id": "vm-014", "answer_text": "The engine is running perfectly and at optimal performance", "is_correct": false, "display_order": 2},
-      {"id": "vm-014-c", "question_id": "vm-014", "answer_text": "It is just a reminder for your next service appointment", "is_correct": false, "display_order": 3},
-      {"id": "vm-014-d", "question_id": "vm-014", "answer_text": "The fuel tank is almost empty", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-014-a",
+        "question_id": "vm-014",
+        "answer_text": "An engine or emissions system problem; flashing means severe — see a mechanic immediately",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-014-b",
+        "question_id": "vm-014",
+        "answer_text": "The engine is running perfectly and at optimal performance",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-014-c",
+        "question_id": "vm-014",
+        "answer_text": "It is just a reminder for your next service appointment",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-014-d",
+        "question_id": "vm-014",
+        "answer_text": "The fuel tank is almost empty",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -270,170 +746,476 @@
     "question_text": "What is the recommended practice for checking your vehicle's air conditioning system in the UAE?",
     "explanation": "In the UAE, A/C is essential for driver comfort and alertness. Have the A/C system serviced annually, check for unusual smells (indicating mold in the system), ensure it cools effectively, and replace the cabin air filter regularly. A malfunctioning A/C in UAE summer heat can lead to heat exhaustion.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["air_conditioning", "uae_specific", "vehicle_comfort"],
+    "tags": [
+      "air_conditioning",
+      "uae_specific",
+      "vehicle_comfort"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "vm-015-a", "question_id": "vm-015", "answer_text": "Service annually, check for unusual smells, ensure effective cooling, and replace cabin air filter", "is_correct": true, "display_order": 1},
-      {"id": "vm-015-b", "question_id": "vm-015", "answer_text": "A/C only needs attention if it stops working completely", "is_correct": false, "display_order": 2},
-      {"id": "vm-015-c", "question_id": "vm-015", "answer_text": "Running the A/C on maximum at all times is the best maintenance", "is_correct": false, "display_order": 3},
-      {"id": "vm-015-d", "question_id": "vm-015", "answer_text": "A/C maintenance is not important for driving safety", "is_correct": false, "display_order": 4}
+      {
+        "id": "vm-015-a",
+        "question_id": "vm-015",
+        "answer_text": "Service annually, check for unusual smells, ensure effective cooling, and replace cabin air filter",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "vm-015-b",
+        "question_id": "vm-015",
+        "answer_text": "A/C only needs attention if it stops working completely",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "vm-015-c",
+        "question_id": "vm-015",
+        "answer_text": "Running the A/C on maximum at all times is the best maintenance",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "vm-015-d",
+        "question_id": "vm-015",
+        "answer_text": "A/C maintenance is not important for driving safety",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-vm-001",
-    "question_text": "According to EDCAD, what are the four functions of engine oil?",
+    "question_text": "What are the four functions of engine oil?",
     "explanation": "EDCAD Lesson 7 teaches that engine oil has four critical functions: Lubrication (reducing friction between moving parts), Cooling (carrying heat away from engine components), Cleaning (removing contaminants), and Sealing (maintaining compression in cylinders).",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["oil_functions", "engine_oil", "edcad"],
+    "tags": [
+      "oil_functions",
+      "engine_oil",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-vm-001-a", "question_id": "ed-vm-001", "answer_text": "Lubrication, Cooling, Cleaning, and Sealing", "is_correct": true, "display_order": 1},
-      {"id": "ed-vm-001-b", "question_id": "ed-vm-001", "answer_text": "Fueling, Heating, Filtering, and Pumping", "is_correct": false, "display_order": 2},
-      {"id": "ed-vm-001-c", "question_id": "ed-vm-001", "answer_text": "Lubrication only — the other functions are performed by coolant", "is_correct": false, "display_order": 3},
-      {"id": "ed-vm-001-d", "question_id": "ed-vm-001", "answer_text": "Starting, Running, Stopping, and Idling", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-vm-001-a",
+        "question_id": "ed-vm-001",
+        "answer_text": "Lubrication, Cooling, Cleaning, and Sealing",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-vm-001-b",
+        "question_id": "ed-vm-001",
+        "answer_text": "Fueling, Heating, Filtering, and Pumping",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-vm-001-c",
+        "question_id": "ed-vm-001",
+        "answer_text": "Lubrication only — the other functions are performed by coolant",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-vm-001-d",
+        "question_id": "ed-vm-001",
+        "answer_text": "Starting, Running, Stopping, and Idling",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-vm-002",
-    "question_text": "According to EDCAD, which senses should you use to detect vehicle problems?",
+    "question_text": "Which senses should you use to detect vehicle problems?",
     "explanation": "EDCAD Lesson 7 teaches drivers to use four senses to detect problems: HEAR (unusual brake or engine noises), SEE (dashboard warnings and tire condition), SMELL (fuel leaks), and FEEL (vibrations through the steering wheel or pedals).",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["senses", "vehicle_problems", "edcad"],
+    "tags": [
+      "senses",
+      "vehicle_problems",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-vm-002-a", "question_id": "ed-vm-002", "answer_text": "Hear, See, Smell, and Feel", "is_correct": true, "display_order": 1},
-      {"id": "ed-vm-002-b", "question_id": "ed-vm-002", "answer_text": "Only the dashboard warning lights", "is_correct": false, "display_order": 2},
-      {"id": "ed-vm-002-c", "question_id": "ed-vm-002", "answer_text": "Only visual inspection of the vehicle exterior", "is_correct": false, "display_order": 3},
-      {"id": "ed-vm-002-d", "question_id": "ed-vm-002", "answer_text": "Modern vehicles do not require sensory monitoring", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-vm-002-a",
+        "question_id": "ed-vm-002",
+        "answer_text": "Hear, See, Smell, and Feel",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-vm-002-b",
+        "question_id": "ed-vm-002",
+        "answer_text": "Only the dashboard warning lights",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-vm-002-c",
+        "question_id": "ed-vm-002",
+        "answer_text": "Only visual inspection of the vehicle exterior",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-vm-002-d",
+        "question_id": "ed-vm-002",
+        "answer_text": "Modern vehicles do not require sensory monitoring",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-vm-003",
-    "question_text": "According to EDCAD, what should you do if the engine overheats?",
+    "question_text": "What should you do if the engine overheats?",
     "explanation": "EDCAD Lesson 7 instructs that if the engine overheats, you should stop the vehicle, switch off the engine or let it idle, wait for the temperature to go down, and be very careful when opening the radiator cap as it will be under pressure.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["engine_overheating", "radiator", "edcad"],
+    "tags": [
+      "engine_overheating",
+      "radiator",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-vm-003-a", "question_id": "ed-vm-003", "answer_text": "Stop, switch off or idle, wait for temperature to drop, be careful opening the radiator cap", "is_correct": true, "display_order": 1},
-      {"id": "ed-vm-003-b", "question_id": "ed-vm-003", "answer_text": "Immediately open the radiator cap and add cold water", "is_correct": false, "display_order": 2},
-      {"id": "ed-vm-003-c", "question_id": "ed-vm-003", "answer_text": "Continue driving at high speed to cool the engine with air flow", "is_correct": false, "display_order": 3},
-      {"id": "ed-vm-003-d", "question_id": "ed-vm-003", "answer_text": "Turn on the air conditioning to maximum to cool the engine", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-vm-003-a",
+        "question_id": "ed-vm-003",
+        "answer_text": "Stop, switch off or idle, wait for temperature to drop, be careful opening the radiator cap",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-vm-003-b",
+        "question_id": "ed-vm-003",
+        "answer_text": "Immediately open the radiator cap and add cold water",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-vm-003-c",
+        "question_id": "ed-vm-003",
+        "answer_text": "Continue driving at high speed to cool the engine with air flow",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-vm-003-d",
+        "question_id": "ed-vm-003",
+        "answer_text": "Turn on the air conditioning to maximum to cool the engine",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-vm-004",
-    "question_text": "According to EDCAD, why should you fill a hot radiator with warm water only?",
+    "question_text": "Why should you fill a hot radiator with warm water only?",
     "explanation": "EDCAD Lesson 7 warns that filling a hot radiator with cold water can crack the cylinder block due to thermal shock. The sudden temperature change causes the metal to contract unevenly, potentially causing serious engine damage.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["radiator", "thermal_shock", "edcad"],
+    "tags": [
+      "radiator",
+      "thermal_shock",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-vm-004-a", "question_id": "ed-vm-004", "answer_text": "Cold water can crack the cylinder block due to thermal shock", "is_correct": true, "display_order": 1},
-      {"id": "ed-vm-004-b", "question_id": "ed-vm-004", "answer_text": "Warm water flows faster through the cooling system", "is_correct": false, "display_order": 2},
-      {"id": "ed-vm-004-c", "question_id": "ed-vm-004", "answer_text": "Cold water would freeze in the engine", "is_correct": false, "display_order": 3},
-      {"id": "ed-vm-004-d", "question_id": "ed-vm-004", "answer_text": "It makes no difference — you can use any temperature water", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-vm-004-a",
+        "question_id": "ed-vm-004",
+        "answer_text": "Cold water can crack the cylinder block due to thermal shock",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-vm-004-b",
+        "question_id": "ed-vm-004",
+        "answer_text": "Warm water flows faster through the cooling system",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-vm-004-c",
+        "question_id": "ed-vm-004",
+        "answer_text": "Cold water would freeze in the engine",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-vm-004-d",
+        "question_id": "ed-vm-004",
+        "answer_text": "It makes no difference — you can use any temperature water",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-vm-005",
-    "question_text": "According to EDCAD, where are the deformation zones in a vehicle?",
+    "question_text": "Where are the deformation zones in a vehicle?",
     "explanation": "EDCAD Lesson 8 teaches that deformation zones are located in the front and back of the vehicle. These zones are designed to crumple and absorb impact energy during a collision, protecting the occupants in the passenger compartment.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["deformation_zones", "vehicle_safety", "edcad"],
+    "tags": [
+      "deformation_zones",
+      "vehicle_safety",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-vm-005-a", "question_id": "ed-vm-005", "answer_text": "In the front and back of the vehicle, designed to absorb impact", "is_correct": true, "display_order": 1},
-      {"id": "ed-vm-005-b", "question_id": "ed-vm-005", "answer_text": "On the sides of the vehicle only", "is_correct": false, "display_order": 2},
-      {"id": "ed-vm-005-c", "question_id": "ed-vm-005", "answer_text": "In the passenger compartment", "is_correct": false, "display_order": 3},
-      {"id": "ed-vm-005-d", "question_id": "ed-vm-005", "answer_text": "Under the vehicle near the wheels", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-vm-005-a",
+        "question_id": "ed-vm-005",
+        "answer_text": "In the front and back of the vehicle, designed to absorb impact",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-vm-005-b",
+        "question_id": "ed-vm-005",
+        "answer_text": "On the sides of the vehicle only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-vm-005-c",
+        "question_id": "ed-vm-005",
+        "answer_text": "In the passenger compartment",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-vm-005-d",
+        "question_id": "ed-vm-005",
+        "answer_text": "Under the vehicle near the wheels",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-vm-006",
-    "question_text": "According to EDCAD, how should a head restraint be positioned?",
+    "question_text": "How should a head restraint be positioned?",
     "explanation": "EDCAD Lesson 8 states that the head restraint should reach the top of the head. It is designed to prevent whiplash injuries by supporting the head and neck during a rear-end collision.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["head_restraint", "whiplash", "edcad"],
+    "tags": [
+      "head_restraint",
+      "whiplash",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-vm-006-a", "question_id": "ed-vm-006", "answer_text": "It should reach the top of the head to prevent whiplash", "is_correct": true, "display_order": 1},
-      {"id": "ed-vm-006-b", "question_id": "ed-vm-006", "answer_text": "It should be level with the shoulders", "is_correct": false, "display_order": 2},
-      {"id": "ed-vm-006-c", "question_id": "ed-vm-006", "answer_text": "It should be as low as possible for comfort", "is_correct": false, "display_order": 3},
-      {"id": "ed-vm-006-d", "question_id": "ed-vm-006", "answer_text": "Head restraint position does not affect safety", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-vm-006-a",
+        "question_id": "ed-vm-006",
+        "answer_text": "It should reach the top of the head to prevent whiplash",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-vm-006-b",
+        "question_id": "ed-vm-006",
+        "answer_text": "It should be level with the shoulders",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-vm-006-c",
+        "question_id": "ed-vm-006",
+        "answer_text": "It should be as low as possible for comfort",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-vm-006-d",
+        "question_id": "ed-vm-006",
+        "answer_text": "Head restraint position does not affect safety",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-vm-007",
-    "question_text": "According to EDCAD, why should children never sit in front of an active airbag?",
+    "question_text": "Why should children never sit in front of an active airbag?",
     "explanation": "EDCAD Lesson 8 warns that children can be killed by a front airbag. The airbag deploys with tremendous force designed for adult bodies. Additionally, the front passenger must be at least 145 cm tall for the airbag to function safely.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["airbag", "children_safety", "edcad"],
+    "tags": [
+      "airbag",
+      "children_safety",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-vm-007-a", "question_id": "ed-vm-007", "answer_text": "The airbag deploys with force designed for adults and can kill a child", "is_correct": true, "display_order": 1},
-      {"id": "ed-vm-007-b", "question_id": "ed-vm-007", "answer_text": "Children are not affected by airbags", "is_correct": false, "display_order": 2},
-      {"id": "ed-vm-007-c", "question_id": "ed-vm-007", "answer_text": "Airbags are completely safe for all passengers", "is_correct": false, "display_order": 3},
-      {"id": "ed-vm-007-d", "question_id": "ed-vm-007", "answer_text": "Only rear-facing child seats are affected", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-vm-007-a",
+        "question_id": "ed-vm-007",
+        "answer_text": "The airbag deploys with force designed for adults and can kill a child",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-vm-007-b",
+        "question_id": "ed-vm-007",
+        "answer_text": "Children are not affected by airbags",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-vm-007-c",
+        "question_id": "ed-vm-007",
+        "answer_text": "Airbags are completely safe for all passengers",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-vm-007-d",
+        "question_id": "ed-vm-007",
+        "answer_text": "Only rear-facing child seats are affected",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-vm-008",
-    "question_text": "According to EDCAD, how should a seatbelt be worn correctly?",
+    "question_text": "How should a seatbelt be worn correctly?",
     "explanation": "EDCAD Lesson 8 states that a seatbelt must be tight-fitting, not twisted, worn across the chest and shoulder, and across the hips. It should never be worn across the stomach or throat, as this can cause internal injuries in a crash.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["seatbelt", "proper_wearing", "edcad"],
+    "tags": [
+      "seatbelt",
+      "proper_wearing",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-vm-008-a", "question_id": "ed-vm-008", "answer_text": "Tight-fitting, not twisted, across chest/shoulder and hips — not across stomach or throat", "is_correct": true, "display_order": 1},
-      {"id": "ed-vm-008-b", "question_id": "ed-vm-008", "answer_text": "Loosely fitted for comfort during long drives", "is_correct": false, "display_order": 2},
-      {"id": "ed-vm-008-c", "question_id": "ed-vm-008", "answer_text": "Only the lap belt needs to be fastened", "is_correct": false, "display_order": 3},
-      {"id": "ed-vm-008-d", "question_id": "ed-vm-008", "answer_text": "Worn under the arm for easier movement", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-vm-008-a",
+        "question_id": "ed-vm-008",
+        "answer_text": "Tight-fitting, not twisted, across chest/shoulder and hips — not across stomach or throat",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-vm-008-b",
+        "question_id": "ed-vm-008",
+        "answer_text": "Loosely fitted for comfort during long drives",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-vm-008-c",
+        "question_id": "ed-vm-008",
+        "answer_text": "Only the lap belt needs to be fastened",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-vm-008-d",
+        "question_id": "ed-vm-008",
+        "answer_text": "Worn under the arm for easier movement",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   }
 ]

@@ -4,18 +4,52 @@
     "question_text": "What should you do if you encounter a sandstorm while driving in the UAE?",
     "explanation": "During a sandstorm, visibility drops drastically. Pull off the road if possible, turn off your headlights (so other drivers don't mistake your lights for a moving vehicle), set your parking brake, and wait for the storm to pass.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["sandstorm", "desert_driving", "visibility"],
+    "tags": [
+      "sandstorm",
+      "desert_driving",
+      "visibility"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-001-a", "question_id": "dc-001", "answer_text": "Pull off the road, turn off headlights, set parking brake, and wait for the storm to pass", "is_correct": true, "display_order": 1},
-      {"id": "dc-001-b", "question_id": "dc-001", "answer_text": "Continue driving slowly with high beams on", "is_correct": false, "display_order": 2},
-      {"id": "dc-001-c", "question_id": "dc-001", "answer_text": "Speed up to get through the sandstorm quickly", "is_correct": false, "display_order": 3},
-      {"id": "dc-001-d", "question_id": "dc-001", "answer_text": "Stop in the middle of the road and turn on hazard lights", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-001-a",
+        "question_id": "dc-001",
+        "answer_text": "Pull off the road, turn off headlights, set parking brake, and wait for the storm to pass",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-001-b",
+        "question_id": "dc-001",
+        "answer_text": "Continue driving slowly with high beams on",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-001-c",
+        "question_id": "dc-001",
+        "answer_text": "Speed up to get through the sandstorm quickly",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-001-d",
+        "question_id": "dc-001",
+        "answer_text": "Stop in the middle of the road and turn on hazard lights",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -23,18 +57,52 @@
     "question_text": "Why is it dangerous to leave a water bottle or aerosol can in a car parked under direct sunlight in the UAE?",
     "explanation": "UAE summer temperatures inside parked cars can exceed 70°C (158°F). Aerosol cans may explode, water bottles can release harmful chemicals into the water, and lighters can ignite. Never leave pressurized containers in hot cars.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["heat", "vehicle_safety", "uae_specific"],
+    "tags": [
+      "heat",
+      "vehicle_safety",
+      "uae_specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-002-a", "question_id": "dc-002", "answer_text": "Extreme heat can cause aerosols to explode and release harmful chemicals from plastic bottles", "is_correct": true, "display_order": 1},
-      {"id": "dc-002-b", "question_id": "dc-002", "answer_text": "The items may melt and stain the car interior", "is_correct": false, "display_order": 2},
-      {"id": "dc-002-c", "question_id": "dc-002", "answer_text": "It is only a concern if the car has tinted windows", "is_correct": false, "display_order": 3},
-      {"id": "dc-002-d", "question_id": "dc-002", "answer_text": "It is not dangerous; modern vehicles are heat-resistant", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-002-a",
+        "question_id": "dc-002",
+        "answer_text": "Extreme heat can cause aerosols to explode and release harmful chemicals from plastic bottles",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-002-b",
+        "question_id": "dc-002",
+        "answer_text": "The items may melt and stain the car interior",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-002-c",
+        "question_id": "dc-002",
+        "answer_text": "It is only a concern if the car has tinted windows",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-002-d",
+        "question_id": "dc-002",
+        "answer_text": "It is not dangerous; modern vehicles are heat-resistant",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -42,18 +110,52 @@
     "question_text": "What is the main danger of driving through standing water on UAE roads after heavy rain?",
     "explanation": "Standing water can cause aquaplaning (hydroplaning), where the tires lose contact with the road surface and ride on a layer of water. The driver loses steering and braking control. Reduce speed and avoid sudden inputs.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["rain_driving", "aquaplaning", "road_surface"],
+    "tags": [
+      "rain_driving",
+      "aquaplaning",
+      "road_surface"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-003-a", "question_id": "dc-003", "answer_text": "Aquaplaning — tires lose contact with the road causing loss of steering and braking", "is_correct": true, "display_order": 1},
-      {"id": "dc-003-b", "question_id": "dc-003", "answer_text": "The engine may stall from water entering the exhaust", "is_correct": false, "display_order": 2},
-      {"id": "dc-003-c", "question_id": "dc-003", "answer_text": "Standing water only causes problems for motorcycles", "is_correct": false, "display_order": 3},
-      {"id": "dc-003-d", "question_id": "dc-003", "answer_text": "The car will rust if driven through water", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-003-a",
+        "question_id": "dc-003",
+        "answer_text": "Aquaplaning — tires lose contact with the road causing loss of steering and braking",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-003-b",
+        "question_id": "dc-003",
+        "answer_text": "The engine may stall from water entering the exhaust",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-003-c",
+        "question_id": "dc-003",
+        "answer_text": "Standing water only causes problems for motorcycles",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-003-d",
+        "question_id": "dc-003",
+        "answer_text": "The car will rust if driven through water",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -61,18 +163,52 @@
     "question_text": "When driving in fog in the UAE, which lights should you use?",
     "explanation": "In fog, use your low beam headlights and front fog lights if your vehicle has them. High beams reflect off the fog and reduce visibility further. Rear fog lights should also be used to help vehicles behind see you.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fog_driving", "headlights", "visibility"],
+    "tags": [
+      "fog_driving",
+      "headlights",
+      "visibility"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-004-a", "question_id": "dc-004", "answer_text": "Low beam headlights and fog lights", "is_correct": true, "display_order": 1},
-      {"id": "dc-004-b", "question_id": "dc-004", "answer_text": "High beam headlights for maximum visibility", "is_correct": false, "display_order": 2},
-      {"id": "dc-004-c", "question_id": "dc-004", "answer_text": "Hazard warning lights only", "is_correct": false, "display_order": 3},
-      {"id": "dc-004-d", "question_id": "dc-004", "answer_text": "No lights to avoid reflecting off the fog", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-004-a",
+        "question_id": "dc-004",
+        "answer_text": "Low beam headlights and fog lights",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-004-b",
+        "question_id": "dc-004",
+        "answer_text": "High beam headlights for maximum visibility",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-004-c",
+        "question_id": "dc-004",
+        "answer_text": "Hazard warning lights only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-004-d",
+        "question_id": "dc-004",
+        "answer_text": "No lights to avoid reflecting off the fog",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -80,18 +216,52 @@
     "question_text": "What is the speed limit on most UAE highways unless otherwise posted?",
     "explanation": "The default speed limit on most UAE highways is 120 km/h unless signs indicate otherwise. Some highways may have limits of 100 km/h or 140 km/h. Always observe posted speed limit signs.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["highway_driving", "speed_limits", "uae_law"],
+    "tags": [
+      "highway_driving",
+      "speed_limits",
+      "uae_law"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-005-a", "question_id": "dc-005", "answer_text": "120 km/h", "is_correct": true, "display_order": 1},
-      {"id": "dc-005-b", "question_id": "dc-005", "answer_text": "100 km/h", "is_correct": false, "display_order": 2},
-      {"id": "dc-005-c", "question_id": "dc-005", "answer_text": "140 km/h", "is_correct": false, "display_order": 3},
-      {"id": "dc-005-d", "question_id": "dc-005", "answer_text": "80 km/h", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-005-a",
+        "question_id": "dc-005",
+        "answer_text": "120 km/h",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-005-b",
+        "question_id": "dc-005",
+        "answer_text": "100 km/h",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-005-c",
+        "question_id": "dc-005",
+        "answer_text": "140 km/h",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-005-d",
+        "question_id": "dc-005",
+        "answer_text": "80 km/h",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -99,18 +269,52 @@
     "question_text": "How does extreme heat in the UAE affect tire pressure?",
     "explanation": "In extreme heat, air inside the tires expands, increasing tire pressure. Over-inflated tires have less contact with the road, reducing grip, and are more prone to blowouts. Check tire pressure when tires are cool, preferably in the morning.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["heat", "tire_pressure", "desert_driving"],
+    "tags": [
+      "heat",
+      "tire_pressure",
+      "desert_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-006-a", "question_id": "dc-006", "answer_text": "Heat causes air to expand, increasing pressure and risk of blowout", "is_correct": true, "display_order": 1},
-      {"id": "dc-006-b", "question_id": "dc-006", "answer_text": "Heat reduces tire pressure, causing flat tires", "is_correct": false, "display_order": 2},
-      {"id": "dc-006-c", "question_id": "dc-006", "answer_text": "Extreme heat has no significant effect on tire pressure", "is_correct": false, "display_order": 3},
-      {"id": "dc-006-d", "question_id": "dc-006", "answer_text": "Heat only affects tire pressure on heavy vehicles", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-006-a",
+        "question_id": "dc-006",
+        "answer_text": "Heat causes air to expand, increasing pressure and risk of blowout",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-006-b",
+        "question_id": "dc-006",
+        "answer_text": "Heat reduces tire pressure, causing flat tires",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-006-c",
+        "question_id": "dc-006",
+        "answer_text": "Extreme heat has no significant effect on tire pressure",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-006-d",
+        "question_id": "dc-006",
+        "answer_text": "Heat only affects tire pressure on heavy vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -118,18 +322,52 @@
     "question_text": "When driving on a multi-lane highway in the UAE, which lane should you normally drive in?",
     "explanation": "In the UAE, you should normally drive in the right lane or center lanes. The left lane is reserved for overtaking only. Driving slowly in the left lane is an offense and can result in a fine.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["highway_driving", "lane_discipline", "uae_law"],
+    "tags": [
+      "highway_driving",
+      "lane_discipline",
+      "uae_law"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-007-a", "question_id": "dc-007", "answer_text": "The right lane; the left lane is for overtaking only", "is_correct": true, "display_order": 1},
-      {"id": "dc-007-b", "question_id": "dc-007", "answer_text": "The left lane at all times for safety", "is_correct": false, "display_order": 2},
-      {"id": "dc-007-c", "question_id": "dc-007", "answer_text": "Any lane you prefer, regardless of speed", "is_correct": false, "display_order": 3},
-      {"id": "dc-007-d", "question_id": "dc-007", "answer_text": "The center lane only", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-007-a",
+        "question_id": "dc-007",
+        "answer_text": "The right lane; the left lane is for overtaking only",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-007-b",
+        "question_id": "dc-007",
+        "answer_text": "The left lane at all times for safety",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-007-c",
+        "question_id": "dc-007",
+        "answer_text": "Any lane you prefer, regardless of speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-007-d",
+        "question_id": "dc-007",
+        "answer_text": "The center lane only",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -137,18 +375,52 @@
     "question_text": "What precautions should you take when driving through a tunnel in the UAE?",
     "explanation": "When entering a tunnel, turn on your headlights (even during the day), remove sunglasses, maintain a safe following distance, do not change lanes unless necessary, and observe posted speed limits. UAE tunnels have speed cameras.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tunnel_driving", "headlights", "safe_driving"],
+    "tags": [
+      "tunnel_driving",
+      "headlights",
+      "safe_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-008-a", "question_id": "dc-008", "answer_text": "Turn on headlights, remove sunglasses, maintain safe distance, and follow speed limits", "is_correct": true, "display_order": 1},
-      {"id": "dc-008-b", "question_id": "dc-008", "answer_text": "Tunnels are well-lit so no special precautions are needed", "is_correct": false, "display_order": 2},
-      {"id": "dc-008-c", "question_id": "dc-008", "answer_text": "Speed up to exit the tunnel quickly", "is_correct": false, "display_order": 3},
-      {"id": "dc-008-d", "question_id": "dc-008", "answer_text": "Keep your sunglasses on to reduce glare from tunnel lighting", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-008-a",
+        "question_id": "dc-008",
+        "answer_text": "Turn on headlights, remove sunglasses, maintain safe distance, and follow speed limits",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-008-b",
+        "question_id": "dc-008",
+        "answer_text": "Tunnels are well-lit so no special precautions are needed",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-008-c",
+        "question_id": "dc-008",
+        "answer_text": "Speed up to exit the tunnel quickly",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-008-d",
+        "question_id": "dc-008",
+        "answer_text": "Keep your sunglasses on to reduce glare from tunnel lighting",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -156,18 +428,52 @@
     "question_text": "What should you do if your visibility drops to below 100 meters during fog in the UAE?",
     "explanation": "When visibility drops below 100 meters, reduce your speed to no more than 80 km/h, use fog lights and low beams, increase your following distance significantly, and avoid overtaking. If visibility is extremely poor, pull over safely.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fog_driving", "visibility", "speed_reduction"],
+    "tags": [
+      "fog_driving",
+      "visibility",
+      "speed_reduction"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-009-a", "question_id": "dc-009", "answer_text": "Reduce speed significantly, use fog lights, increase following distance, and avoid overtaking", "is_correct": true, "display_order": 1},
-      {"id": "dc-009-b", "question_id": "dc-009", "answer_text": "Continue at normal speed with hazard lights on", "is_correct": false, "display_order": 2},
-      {"id": "dc-009-c", "question_id": "dc-009", "answer_text": "Drive as close as possible to the car ahead to follow their lights", "is_correct": false, "display_order": 3},
-      {"id": "dc-009-d", "question_id": "dc-009", "answer_text": "Use high beams to see further through the fog", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-009-a",
+        "question_id": "dc-009",
+        "answer_text": "Reduce speed significantly, use fog lights, increase following distance, and avoid overtaking",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-009-b",
+        "question_id": "dc-009",
+        "answer_text": "Continue at normal speed with hazard lights on",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-009-c",
+        "question_id": "dc-009",
+        "answer_text": "Drive as close as possible to the car ahead to follow their lights",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-009-d",
+        "question_id": "dc-009",
+        "answer_text": "Use high beams to see further through the fog",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -175,18 +481,52 @@
     "question_text": "How does driving in extreme heat affect your vehicle's engine?",
     "explanation": "Extreme heat puts extra stress on the engine cooling system. The engine can overheat, especially in traffic jams. Monitor the temperature gauge, ensure coolant levels are adequate, and do not ignore an overheating warning. Pull over safely if the gauge rises.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["heat", "engine_overheating", "vehicle_maintenance"],
+    "tags": [
+      "heat",
+      "engine_overheating",
+      "vehicle_maintenance"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-010-a", "question_id": "dc-010", "answer_text": "The engine is more likely to overheat; monitor the temperature gauge and coolant levels", "is_correct": true, "display_order": 1},
-      {"id": "dc-010-b", "question_id": "dc-010", "answer_text": "Modern engines are unaffected by extreme heat", "is_correct": false, "display_order": 2},
-      {"id": "dc-010-c", "question_id": "dc-010", "answer_text": "The engine runs more efficiently in hot weather", "is_correct": false, "display_order": 3},
-      {"id": "dc-010-d", "question_id": "dc-010", "answer_text": "Running the air conditioning helps cool the engine down", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-010-a",
+        "question_id": "dc-010",
+        "answer_text": "The engine is more likely to overheat; monitor the temperature gauge and coolant levels",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-010-b",
+        "question_id": "dc-010",
+        "answer_text": "Modern engines are unaffected by extreme heat",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-010-c",
+        "question_id": "dc-010",
+        "answer_text": "The engine runs more efficiently in hot weather",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-010-d",
+        "question_id": "dc-010",
+        "answer_text": "Running the air conditioning helps cool the engine down",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -194,18 +534,52 @@
     "question_text": "What is the recommended action when driving through a wadi (dry riverbed) area during or after rain in the UAE?",
     "explanation": "Wadis can flood rapidly during and after rain in the UAE, even if it is not raining at your location. Never attempt to drive through a flooded wadi — the water depth and current can be deceptive. Turn around and find an alternate route.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["rain_driving", "wadi_flooding", "uae_specific"],
+    "tags": [
+      "rain_driving",
+      "wadi_flooding",
+      "uae_specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-011-a", "question_id": "dc-011", "answer_text": "Never drive through a flooded wadi — turn around and find an alternate route", "is_correct": true, "display_order": 1},
-      {"id": "dc-011-b", "question_id": "dc-011", "answer_text": "Drive through quickly before the water level rises further", "is_correct": false, "display_order": 2},
-      {"id": "dc-011-c", "question_id": "dc-011", "answer_text": "Wadis only flood in mountainous areas, not in city zones", "is_correct": false, "display_order": 3},
-      {"id": "dc-011-d", "question_id": "dc-011", "answer_text": "If the water level is below the tire center, it is safe to cross", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-011-a",
+        "question_id": "dc-011",
+        "answer_text": "Never drive through a flooded wadi — turn around and find an alternate route",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-011-b",
+        "question_id": "dc-011",
+        "answer_text": "Drive through quickly before the water level rises further",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-011-c",
+        "question_id": "dc-011",
+        "answer_text": "Wadis only flood in mountainous areas, not in city zones",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-011-d",
+        "question_id": "dc-011",
+        "answer_text": "If the water level is below the tire center, it is safe to cross",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -213,18 +587,52 @@
     "question_text": "At what speed does the risk of aquaplaning significantly increase?",
     "explanation": "Aquaplaning risk increases significantly at speeds above 80 km/h on wet roads. The risk also depends on tire tread depth, water depth, and tire pressure. Reduce speed well below 80 km/h in heavy rain.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["rain_driving", "aquaplaning", "speed"],
+    "tags": [
+      "rain_driving",
+      "aquaplaning",
+      "speed"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-012-a", "question_id": "dc-012", "answer_text": "Above 80 km/h on wet roads", "is_correct": true, "display_order": 1},
-      {"id": "dc-012-b", "question_id": "dc-012", "answer_text": "Above 140 km/h only", "is_correct": false, "display_order": 2},
-      {"id": "dc-012-c", "question_id": "dc-012", "answer_text": "Below 40 km/h", "is_correct": false, "display_order": 3},
-      {"id": "dc-012-d", "question_id": "dc-012", "answer_text": "Speed does not affect aquaplaning risk", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-012-a",
+        "question_id": "dc-012",
+        "answer_text": "Above 80 km/h on wet roads",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-012-b",
+        "question_id": "dc-012",
+        "answer_text": "Above 140 km/h only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-012-c",
+        "question_id": "dc-012",
+        "answer_text": "Below 40 km/h",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-012-d",
+        "question_id": "dc-012",
+        "answer_text": "Speed does not affect aquaplaning risk",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -232,18 +640,52 @@
     "question_text": "When driving at night on a well-lit UAE city road, what headlight setting should you use?",
     "explanation": "On well-lit city roads at night, use your low beam (dipped) headlights. High beams can dazzle other drivers in urban areas. Low beams ensure you are visible to other road users while not blinding them.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["night_driving", "headlights", "city_driving"],
+    "tags": [
+      "night_driving",
+      "headlights",
+      "city_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-013-a", "question_id": "dc-013", "answer_text": "Low beam (dipped) headlights", "is_correct": true, "display_order": 1},
-      {"id": "dc-013-b", "question_id": "dc-013", "answer_text": "High beam headlights for maximum visibility", "is_correct": false, "display_order": 2},
-      {"id": "dc-013-c", "question_id": "dc-013", "answer_text": "Parking lights only since the road is well-lit", "is_correct": false, "display_order": 3},
-      {"id": "dc-013-d", "question_id": "dc-013", "answer_text": "No headlights are needed on well-lit roads", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-013-a",
+        "question_id": "dc-013",
+        "answer_text": "Low beam (dipped) headlights",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-013-b",
+        "question_id": "dc-013",
+        "answer_text": "High beam headlights for maximum visibility",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-013-c",
+        "question_id": "dc-013",
+        "answer_text": "Parking lights only since the road is well-lit",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-013-d",
+        "question_id": "dc-013",
+        "answer_text": "No headlights are needed on well-lit roads",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -251,18 +693,52 @@
     "question_text": "What special precaution should you take when entering a tunnel from bright sunlight?",
     "explanation": "When entering a tunnel from bright sunlight, your eyes need several seconds to adjust to the reduced light. Reduce speed before entering, turn on headlights before the tunnel entrance, and remove sunglasses to help your eyes adapt faster.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tunnel_driving", "visibility", "eye_adaptation"],
+    "tags": [
+      "tunnel_driving",
+      "visibility",
+      "eye_adaptation"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-014-a", "question_id": "dc-014", "answer_text": "Reduce speed, turn on headlights before entry, and remove sunglasses for faster eye adaptation", "is_correct": true, "display_order": 1},
-      {"id": "dc-014-b", "question_id": "dc-014", "answer_text": "Maintain speed as tunnels have transition lighting", "is_correct": false, "display_order": 2},
-      {"id": "dc-014-c", "question_id": "dc-014", "answer_text": "Close one eye before entering so it is already adjusted to darkness", "is_correct": false, "display_order": 3},
-      {"id": "dc-014-d", "question_id": "dc-014", "answer_text": "Keep sunglasses on to reduce the contrast change", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-014-a",
+        "question_id": "dc-014",
+        "answer_text": "Reduce speed, turn on headlights before entry, and remove sunglasses for faster eye adaptation",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-014-b",
+        "question_id": "dc-014",
+        "answer_text": "Maintain speed as tunnels have transition lighting",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-014-c",
+        "question_id": "dc-014",
+        "answer_text": "Close one eye before entering so it is already adjusted to darkness",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-014-d",
+        "question_id": "dc-014",
+        "answer_text": "Keep sunglasses on to reduce the contrast change",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -270,18 +746,52 @@
     "question_text": "What is the correct lane usage when driving in a city with heavy traffic in the UAE?",
     "explanation": "In city traffic, use the lane that best serves your intended route. Stay in your lane, signal before changing lanes, and avoid weaving through traffic. In the UAE, undertaking (overtaking from the right) is illegal on highways.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["city_driving", "lane_discipline", "traffic"],
+    "tags": [
+      "city_driving",
+      "lane_discipline",
+      "traffic"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-015-a", "question_id": "dc-015", "answer_text": "Use the lane suited to your route, stay in lane, and signal before changing lanes", "is_correct": true, "display_order": 1},
-      {"id": "dc-015-b", "question_id": "dc-015", "answer_text": "Weave between lanes to find the fastest-moving traffic", "is_correct": false, "display_order": 2},
-      {"id": "dc-015-c", "question_id": "dc-015", "answer_text": "Always stay in the left lane in city traffic", "is_correct": false, "display_order": 3},
-      {"id": "dc-015-d", "question_id": "dc-015", "answer_text": "Use the hard shoulder when traffic is congested", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-015-a",
+        "question_id": "dc-015",
+        "answer_text": "Use the lane suited to your route, stay in lane, and signal before changing lanes",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-015-b",
+        "question_id": "dc-015",
+        "answer_text": "Weave between lanes to find the fastest-moving traffic",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-015-c",
+        "question_id": "dc-015",
+        "answer_text": "Always stay in the left lane in city traffic",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-015-d",
+        "question_id": "dc-015",
+        "answer_text": "Use the hard shoulder when traffic is congested",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -289,18 +799,52 @@
     "question_text": "How should you handle sand drifting across the road while driving?",
     "explanation": "Sand drifts across the road can reduce traction and obscure lane markings. Reduce speed gradually, hold the steering wheel firmly, and do not brake suddenly or make sharp turns. Drive through gently and steadily.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["sandstorm", "desert_driving", "road_surface"],
+    "tags": [
+      "sandstorm",
+      "desert_driving",
+      "road_surface"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-016-a", "question_id": "dc-016", "answer_text": "Reduce speed gradually, hold the wheel firmly, and avoid sudden braking or sharp turns", "is_correct": true, "display_order": 1},
-      {"id": "dc-016-b", "question_id": "dc-016", "answer_text": "Speed up to power through the sand drift", "is_correct": false, "display_order": 2},
-      {"id": "dc-016-c", "question_id": "dc-016", "answer_text": "Brake hard and stop before the sand", "is_correct": false, "display_order": 3},
-      {"id": "dc-016-d", "question_id": "dc-016", "answer_text": "Swerve to the opposite lane to avoid the sand", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-016-a",
+        "question_id": "dc-016",
+        "answer_text": "Reduce speed gradually, hold the wheel firmly, and avoid sudden braking or sharp turns",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-016-b",
+        "question_id": "dc-016",
+        "answer_text": "Speed up to power through the sand drift",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-016-c",
+        "question_id": "dc-016",
+        "answer_text": "Brake hard and stop before the sand",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-016-d",
+        "question_id": "dc-016",
+        "answer_text": "Swerve to the opposite lane to avoid the sand",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -308,18 +852,52 @@
     "question_text": "What is the minimum speed limit typically enforced on UAE highways?",
     "explanation": "Most UAE highways have a minimum speed limit of 60 km/h. Driving too slowly on a highway is dangerous and illegal, as it disrupts traffic flow and increases the risk of rear-end collisions.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["highway_driving", "speed_limits", "uae_law"],
+    "tags": [
+      "highway_driving",
+      "speed_limits",
+      "uae_law"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-017-a", "question_id": "dc-017", "answer_text": "60 km/h", "is_correct": true, "display_order": 1},
-      {"id": "dc-017-b", "question_id": "dc-017", "answer_text": "40 km/h", "is_correct": false, "display_order": 2},
-      {"id": "dc-017-c", "question_id": "dc-017", "answer_text": "80 km/h", "is_correct": false, "display_order": 3},
-      {"id": "dc-017-d", "question_id": "dc-017", "answer_text": "There is no minimum speed limit on UAE highways", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-017-a",
+        "question_id": "dc-017",
+        "answer_text": "60 km/h",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-017-b",
+        "question_id": "dc-017",
+        "answer_text": "40 km/h",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-017-c",
+        "question_id": "dc-017",
+        "answer_text": "80 km/h",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-017-d",
+        "question_id": "dc-017",
+        "answer_text": "There is no minimum speed limit on UAE highways",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -327,18 +905,52 @@
     "question_text": "How should you drive during a heavy rainstorm in the UAE?",
     "explanation": "UAE roads are not designed for heavy drainage as rain is infrequent. During heavy rain: reduce speed significantly, use low beams and fog lights, increase following distance to 6+ seconds, avoid sudden maneuvers, and do not use cruise control.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["rain_driving", "speed_reduction", "safe_driving"],
+    "tags": [
+      "rain_driving",
+      "speed_reduction",
+      "safe_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-018-a", "question_id": "dc-018", "answer_text": "Reduce speed, use low beams, increase following distance, and avoid cruise control", "is_correct": true, "display_order": 1},
-      {"id": "dc-018-b", "question_id": "dc-018", "answer_text": "Drive at normal speed since modern cars handle rain well", "is_correct": false, "display_order": 2},
-      {"id": "dc-018-c", "question_id": "dc-018", "answer_text": "Use cruise control to maintain a steady speed", "is_correct": false, "display_order": 3},
-      {"id": "dc-018-d", "question_id": "dc-018", "answer_text": "Drive in the left lane to avoid puddles on the right", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-018-a",
+        "question_id": "dc-018",
+        "answer_text": "Reduce speed, use low beams, increase following distance, and avoid cruise control",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-018-b",
+        "question_id": "dc-018",
+        "answer_text": "Drive at normal speed since modern cars handle rain well",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-018-c",
+        "question_id": "dc-018",
+        "answer_text": "Use cruise control to maintain a steady speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-018-d",
+        "question_id": "dc-018",
+        "answer_text": "Drive in the left lane to avoid puddles on the right",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -346,18 +958,52 @@
     "question_text": "When is fog most likely to occur in the UAE?",
     "explanation": "Fog in the UAE is most common during winter months (October to March), typically forming in the early morning hours and clearing by mid-morning. Coastal and inland desert areas are most affected. Check weather advisories before early morning drives.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fog_driving", "weather", "uae_specific"],
+    "tags": [
+      "fog_driving",
+      "weather",
+      "uae_specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-019-a", "question_id": "dc-019", "answer_text": "During winter months (October to March), especially in early morning hours", "is_correct": true, "display_order": 1},
-      {"id": "dc-019-b", "question_id": "dc-019", "answer_text": "During summer months when it is hottest", "is_correct": false, "display_order": 2},
-      {"id": "dc-019-c", "question_id": "dc-019", "answer_text": "Fog does not occur in the UAE due to the desert climate", "is_correct": false, "display_order": 3},
-      {"id": "dc-019-d", "question_id": "dc-019", "answer_text": "Only during the afternoon in coastal areas", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-019-a",
+        "question_id": "dc-019",
+        "answer_text": "During winter months (October to March), especially in early morning hours",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-019-b",
+        "question_id": "dc-019",
+        "answer_text": "During summer months when it is hottest",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-019-c",
+        "question_id": "dc-019",
+        "answer_text": "Fog does not occur in the UAE due to the desert climate",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-019-d",
+        "question_id": "dc-019",
+        "answer_text": "Only during the afternoon in coastal areas",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -365,18 +1011,52 @@
     "question_text": "What should you do if your vehicle starts to aquaplane?",
     "explanation": "If aquaplaning occurs, do not panic. Ease off the accelerator gently — do not brake hard or turn the steering wheel sharply. Keep the steering wheel straight and let the vehicle slow down naturally until the tires regain grip.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["aquaplaning", "rain_driving", "vehicle_control"],
+    "tags": [
+      "aquaplaning",
+      "rain_driving",
+      "vehicle_control"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-020-a", "question_id": "dc-020", "answer_text": "Ease off the accelerator gently, keep the wheel straight, and let the car slow naturally", "is_correct": true, "display_order": 1},
-      {"id": "dc-020-b", "question_id": "dc-020", "answer_text": "Brake hard to regain traction", "is_correct": false, "display_order": 2},
-      {"id": "dc-020-c", "question_id": "dc-020", "answer_text": "Turn the steering wheel sharply to find a dry patch", "is_correct": false, "display_order": 3},
-      {"id": "dc-020-d", "question_id": "dc-020", "answer_text": "Accelerate to power through the water", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-020-a",
+        "question_id": "dc-020",
+        "answer_text": "Ease off the accelerator gently, keep the wheel straight, and let the car slow naturally",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-020-b",
+        "question_id": "dc-020",
+        "answer_text": "Brake hard to regain traction",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-020-c",
+        "question_id": "dc-020",
+        "answer_text": "Turn the steering wheel sharply to find a dry patch",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-020-d",
+        "question_id": "dc-020",
+        "answer_text": "Accelerate to power through the water",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -384,18 +1064,52 @@
     "question_text": "What is a unique challenge of city driving in the UAE?",
     "explanation": "UAE cities feature a mix of modern multi-lane roads, frequent roundabouts, and diverse driver populations with varying driving styles and experience. Drivers must be alert to sudden lane changes, last-minute exits, and aggressive driving behaviors.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["city_driving", "uae_specific", "diverse_drivers"],
+    "tags": [
+      "city_driving",
+      "uae_specific",
+      "diverse_drivers"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-021-a", "question_id": "dc-021", "answer_text": "Diverse driving styles, sudden lane changes, and complex multi-lane road systems", "is_correct": true, "display_order": 1},
-      {"id": "dc-021-b", "question_id": "dc-021", "answer_text": "There are no unique challenges; UAE city driving is standard", "is_correct": false, "display_order": 2},
-      {"id": "dc-021-c", "question_id": "dc-021", "answer_text": "The only challenge is finding parking", "is_correct": false, "display_order": 3},
-      {"id": "dc-021-d", "question_id": "dc-021", "answer_text": "Roads in UAE cities are too narrow for modern vehicles", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-021-a",
+        "question_id": "dc-021",
+        "answer_text": "Diverse driving styles, sudden lane changes, and complex multi-lane road systems",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-021-b",
+        "question_id": "dc-021",
+        "answer_text": "There are no unique challenges; UAE city driving is standard",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-021-c",
+        "question_id": "dc-021",
+        "answer_text": "The only challenge is finding parking",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-021-d",
+        "question_id": "dc-021",
+        "answer_text": "Roads in UAE cities are too narrow for modern vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -403,18 +1117,52 @@
     "question_text": "Why should you avoid using cruise control in wet or foggy conditions?",
     "explanation": "Cruise control can be dangerous in wet or foggy conditions because it may maintain or increase speed when the car begins to aquaplane. Without cruise control, lifting your foot off the accelerator naturally helps slow the car. You also need full control to adjust speed frequently.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["rain_driving", "fog_driving", "cruise_control"],
+    "tags": [
+      "rain_driving",
+      "fog_driving",
+      "cruise_control"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-022-a", "question_id": "dc-022", "answer_text": "Cruise control may maintain speed during aquaplaning and delays your natural braking response", "is_correct": true, "display_order": 1},
-      {"id": "dc-022-b", "question_id": "dc-022", "answer_text": "Cruise control automatically adjusts for wet conditions", "is_correct": false, "display_order": 2},
-      {"id": "dc-022-c", "question_id": "dc-022", "answer_text": "Cruise control is fine to use in any weather condition", "is_correct": false, "display_order": 3},
-      {"id": "dc-022-d", "question_id": "dc-022", "answer_text": "It is only dangerous on gravel roads", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-022-a",
+        "question_id": "dc-022",
+        "answer_text": "Cruise control may maintain speed during aquaplaning and delays your natural braking response",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-022-b",
+        "question_id": "dc-022",
+        "answer_text": "Cruise control automatically adjusts for wet conditions",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-022-c",
+        "question_id": "dc-022",
+        "answer_text": "Cruise control is fine to use in any weather condition",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-022-d",
+        "question_id": "dc-022",
+        "answer_text": "It is only dangerous on gravel roads",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -422,18 +1170,52 @@
     "question_text": "What is the recommended action when exiting a tunnel into bright daylight?",
     "explanation": "When exiting a tunnel into bright light, your eyes need time to adjust. Reduce speed slightly before exiting, be prepared for temporary blindness, and keep headlights on briefly after exiting. Do not brake suddenly.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tunnel_driving", "visibility", "eye_adaptation"],
+    "tags": [
+      "tunnel_driving",
+      "visibility",
+      "eye_adaptation"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-023-a", "question_id": "dc-023", "answer_text": "Reduce speed, be prepared for temporary glare blindness, and avoid sudden braking", "is_correct": true, "display_order": 1},
-      {"id": "dc-023-b", "question_id": "dc-023", "answer_text": "Accelerate to clear the tunnel exit quickly", "is_correct": false, "display_order": 2},
-      {"id": "dc-023-c", "question_id": "dc-023", "answer_text": "Put on sunglasses while still in the tunnel to prepare", "is_correct": false, "display_order": 3},
-      {"id": "dc-023-d", "question_id": "dc-023", "answer_text": "Close your eyes briefly when exiting the tunnel", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-023-a",
+        "question_id": "dc-023",
+        "answer_text": "Reduce speed, be prepared for temporary glare blindness, and avoid sudden braking",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-023-b",
+        "question_id": "dc-023",
+        "answer_text": "Accelerate to clear the tunnel exit quickly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-023-c",
+        "question_id": "dc-023",
+        "answer_text": "Put on sunglasses while still in the tunnel to prepare",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-023-d",
+        "question_id": "dc-023",
+        "answer_text": "Close your eyes briefly when exiting the tunnel",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -441,18 +1223,52 @@
     "question_text": "When driving at night, what is the safe speed relative to your headlight visibility range?",
     "explanation": "You should always drive at a speed that allows you to stop within the distance illuminated by your headlights. This is especially important on unlit roads. If you cannot see far enough ahead, slow down.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["night_driving", "speed", "stopping_distance"],
+    "tags": [
+      "night_driving",
+      "speed",
+      "stopping_distance"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-024-a", "question_id": "dc-024", "answer_text": "Drive at a speed where you can stop within the distance your headlights illuminate", "is_correct": true, "display_order": 1},
-      {"id": "dc-024-b", "question_id": "dc-024", "answer_text": "Drive at the posted speed limit regardless of visibility", "is_correct": false, "display_order": 2},
-      {"id": "dc-024-c", "question_id": "dc-024", "answer_text": "Drive as fast as possible since roads are emptier at night", "is_correct": false, "display_order": 3},
-      {"id": "dc-024-d", "question_id": "dc-024", "answer_text": "There is no relationship between headlight range and safe speed", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-024-a",
+        "question_id": "dc-024",
+        "answer_text": "Drive at a speed where you can stop within the distance your headlights illuminate",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-024-b",
+        "question_id": "dc-024",
+        "answer_text": "Drive at the posted speed limit regardless of visibility",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-024-c",
+        "question_id": "dc-024",
+        "answer_text": "Drive as fast as possible since roads are emptier at night",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-024-d",
+        "question_id": "dc-024",
+        "answer_text": "There is no relationship between headlight range and safe speed",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -460,18 +1276,52 @@
     "question_text": "What effect does the UAE's intense sun glare have on driving, and how should you manage it?",
     "explanation": "Sun glare, especially during sunrise and sunset, can severely reduce visibility and cause temporary blindness. Use sun visors, wear polarized sunglasses, keep your windshield clean, and reduce speed. Be extra cautious at east-west oriented roads during these times.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["sun_glare", "visibility", "uae_specific"],
+    "tags": [
+      "sun_glare",
+      "visibility",
+      "uae_specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "dc-025-a", "question_id": "dc-025", "answer_text": "Use sun visors and polarized sunglasses, keep windshield clean, and reduce speed", "is_correct": true, "display_order": 1},
-      {"id": "dc-025-b", "question_id": "dc-025", "answer_text": "Turn on high beams to counter the glare", "is_correct": false, "display_order": 2},
-      {"id": "dc-025-c", "question_id": "dc-025", "answer_text": "Shield your eyes with your hand while driving", "is_correct": false, "display_order": 3},
-      {"id": "dc-025-d", "question_id": "dc-025", "answer_text": "Sun glare is not a significant issue in the UAE", "is_correct": false, "display_order": 4}
+      {
+        "id": "dc-025-a",
+        "question_id": "dc-025",
+        "answer_text": "Use sun visors and polarized sunglasses, keep windshield clean, and reduce speed",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "dc-025-b",
+        "question_id": "dc-025",
+        "answer_text": "Turn on high beams to counter the glare",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "dc-025-c",
+        "question_id": "dc-025",
+        "answer_text": "Shield your eyes with your hand while driving",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "dc-025-d",
+        "question_id": "dc-025",
+        "answer_text": "Sun glare is not a significant issue in the UAE",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -479,189 +1329,529 @@
     "question_text": "What does the POWER check stand for according to EDCAD?",
     "explanation": "EDCAD Lesson 3 teaches the POWER check as a pre-travel inspection: Petrol, Oil, Water, Electric, Rubber. This ensures your vehicle is ready for a journey, especially important before long-distance travel.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["power_check", "pre_travel", "edcad"],
+    "tags": [
+      "power_check",
+      "pre_travel",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-001-a", "question_id": "ed-dc-001", "answer_text": "Petrol, Oil, Water, Electric, Rubber", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-001-b", "question_id": "ed-dc-001", "answer_text": "Power, Operation, Warning, Engine, Radio", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-001-c", "question_id": "ed-dc-001", "answer_text": "Pressure, Oil, Wheels, Engine, Radiator", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-001-d", "question_id": "ed-dc-001", "answer_text": "Parking, Odometer, Wipers, Exhaust, Rims", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-001-a",
+        "question_id": "ed-dc-001",
+        "answer_text": "Petrol, Oil, Water, Electric, Rubber",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-001-b",
+        "question_id": "ed-dc-001",
+        "answer_text": "Power, Operation, Warning, Engine, Radio",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-001-c",
+        "question_id": "ed-dc-001",
+        "answer_text": "Pressure, Oil, Wheels, Engine, Radiator",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-001-d",
+        "question_id": "ed-dc-001",
+        "answer_text": "Parking, Odometer, Wipers, Exhaust, Rims",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-dc-002",
-    "question_text": "According to EDCAD, when should you check tire inflation?",
+    "question_text": "When should you check tire inflation?",
     "explanation": "EDCAD Lesson 4 states that tire inflation should be checked when tires are cold, before starting your journey. Hot tires give inaccurate pressure readings because air expands when heated.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tire_inflation", "cold_check", "edcad"],
+    "tags": [
+      "tire_inflation",
+      "cold_check",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-002-a", "question_id": "ed-dc-002", "answer_text": "When tires are cold, before starting the journey", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-002-b", "question_id": "ed-dc-002", "answer_text": "After driving for at least 30 minutes", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-002-c", "question_id": "ed-dc-002", "answer_text": "During the hottest part of the day", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-002-d", "question_id": "ed-dc-002", "answer_text": "It does not matter when you check them", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-002-a",
+        "question_id": "ed-dc-002",
+        "answer_text": "When tires are cold, before starting the journey",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-002-b",
+        "question_id": "ed-dc-002",
+        "answer_text": "After driving for at least 30 minutes",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-002-c",
+        "question_id": "ed-dc-002",
+        "answer_text": "During the hottest part of the day",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-002-d",
+        "question_id": "ed-dc-002",
+        "answer_text": "It does not matter when you check them",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-dc-003",
-    "question_text": "According to EDCAD, why do hot road surfaces become especially slippery after sudden rain?",
+    "question_text": "Why do hot road surfaces become especially slippery after sudden rain?",
     "explanation": "EDCAD Lesson 4 explains that oil and water on hot road surfaces create a slippery mixture, especially after sudden rain. The accumulated oil residue on the road mixes with rainwater to form a dangerous slick surface.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["slippery_roads", "rain", "edcad"],
+    "tags": [
+      "slippery_roads",
+      "rain",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-003-a", "question_id": "ed-dc-003", "answer_text": "Oil and water mix on the hot road surface creating a slippery layer", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-003-b", "question_id": "ed-dc-003", "answer_text": "The heat causes the tires to melt slightly", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-003-c", "question_id": "ed-dc-003", "answer_text": "Rain makes no difference on hot surfaces", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-003-d", "question_id": "ed-dc-003", "answer_text": "The road surface cracks in the heat allowing water to pool", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-003-a",
+        "question_id": "ed-dc-003",
+        "answer_text": "Oil and water mix on the hot road surface creating a slippery layer",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-003-b",
+        "question_id": "ed-dc-003",
+        "answer_text": "The heat causes the tires to melt slightly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-003-c",
+        "question_id": "ed-dc-003",
+        "answer_text": "Rain makes no difference on hot surfaces",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-003-d",
+        "question_id": "ed-dc-003",
+        "answer_text": "The road surface cracks in the heat allowing water to pool",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-dc-004",
-    "question_text": "According to EDCAD, how should you position your vehicle when driving at night?",
+    "question_text": "How should you position your vehicle when driving at night?",
     "explanation": "EDCAD Lesson 4 advises driving closer to the centerline at night. This positioning gives better visibility of the road ahead and helps avoid hazards on the road edges that are harder to see in darkness.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["night_driving", "positioning", "edcad"],
+    "tags": [
+      "night_driving",
+      "positioning",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-004-a", "question_id": "ed-dc-004", "answer_text": "Drive closer to the centerline for better visibility", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-004-b", "question_id": "ed-dc-004", "answer_text": "Drive closer to the road edge to stay out of oncoming traffic's way", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-004-c", "question_id": "ed-dc-004", "answer_text": "Position the same as during the day", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-004-d", "question_id": "ed-dc-004", "answer_text": "Drive in the center of the road", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-004-a",
+        "question_id": "ed-dc-004",
+        "answer_text": "Drive closer to the centerline for better visibility",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-004-b",
+        "question_id": "ed-dc-004",
+        "answer_text": "Drive closer to the road edge to stay out of oncoming traffic's way",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-004-c",
+        "question_id": "ed-dc-004",
+        "answer_text": "Position the same as during the day",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-004-d",
+        "question_id": "ed-dc-004",
+        "answer_text": "Drive in the center of the road",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-dc-005",
-    "question_text": "According to EDCAD, how long should you give your eyes to adjust when entering darkness?",
+    "question_text": "How long should you give your eyes to adjust when entering darkness?",
     "explanation": "EDCAD Lesson 4 states that you should give your eyes 1-2 minutes to adjust to darkness. During this time, your vision gradually improves as your pupils dilate and your eyes adapt to the lower light conditions.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["eye_adjustment", "darkness", "edcad"],
+    "tags": [
+      "eye_adjustment",
+      "darkness",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-005-a", "question_id": "ed-dc-005", "answer_text": "1-2 minutes", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-005-b", "question_id": "ed-dc-005", "answer_text": "10-15 seconds", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-005-c", "question_id": "ed-dc-005", "answer_text": "5-10 minutes", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-005-d", "question_id": "ed-dc-005", "answer_text": "Eyes adjust instantly to darkness", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-005-a",
+        "question_id": "ed-dc-005",
+        "answer_text": "1-2 minutes",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-005-b",
+        "question_id": "ed-dc-005",
+        "answer_text": "10-15 seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-005-c",
+        "question_id": "ed-dc-005",
+        "answer_text": "5-10 minutes",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-005-d",
+        "question_id": "ed-dc-005",
+        "answer_text": "Eyes adjust instantly to darkness",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-dc-006",
-    "question_text": "According to EDCAD, why should you never stop on the hard shoulder to rest?",
+    "question_text": "Why should you never stop on the hard shoulder to rest?",
     "explanation": "EDCAD Lesson 4 warns against stopping on the hard shoulder to rest. It is extremely dangerous as other vehicles may not see you in time. Instead, use designated service areas and rest stops for breaks.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["hard_shoulder", "rest_stops", "edcad"],
+    "tags": [
+      "hard_shoulder",
+      "rest_stops",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-006-a", "question_id": "ed-dc-006", "answer_text": "It is extremely dangerous; use service areas instead", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-006-b", "question_id": "ed-dc-006", "answer_text": "The hard shoulder is only for emergency vehicles", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-006-c", "question_id": "ed-dc-006", "answer_text": "It is acceptable as long as you turn on hazard lights", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-006-d", "question_id": "ed-dc-006", "answer_text": "You may stop on the hard shoulder during daytime only", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-006-a",
+        "question_id": "ed-dc-006",
+        "answer_text": "It is extremely dangerous; use service areas instead",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-006-b",
+        "question_id": "ed-dc-006",
+        "answer_text": "The hard shoulder is only for emergency vehicles",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-006-c",
+        "question_id": "ed-dc-006",
+        "answer_text": "It is acceptable as long as you turn on hazard lights",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-006-d",
+        "question_id": "ed-dc-006",
+        "answer_text": "You may stop on the hard shoulder during daytime only",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-dc-007",
-    "question_text": "According to EDCAD, why should you avoid eating a heavy meal before a long drive?",
+    "question_text": "Why should you avoid eating a heavy meal before a long drive?",
     "explanation": "EDCAD Lesson 4 warns that eating a heavy meal before driving can cause drowsiness. A full stomach diverts blood to the digestive system, making the driver feel sleepy and reducing alertness on long journeys.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["drowsiness", "heavy_meals", "edcad"],
+    "tags": [
+      "drowsiness",
+      "heavy_meals",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-007-a", "question_id": "ed-dc-007", "answer_text": "It causes drowsiness and reduces alertness while driving", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-007-b", "question_id": "ed-dc-007", "answer_text": "It makes you drive faster", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-007-c", "question_id": "ed-dc-007", "answer_text": "A heavy meal has no effect on driving ability", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-007-d", "question_id": "ed-dc-007", "answer_text": "It only matters if you are driving at night", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-007-a",
+        "question_id": "ed-dc-007",
+        "answer_text": "It causes drowsiness and reduces alertness while driving",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-007-b",
+        "question_id": "ed-dc-007",
+        "answer_text": "It makes you drive faster",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-007-c",
+        "question_id": "ed-dc-007",
+        "answer_text": "A heavy meal has no effect on driving ability",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-007-d",
+        "question_id": "ed-dc-007",
+        "answer_text": "It only matters if you are driving at night",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-dc-008",
-    "question_text": "According to EDCAD, how does smoking affect driving?",
+    "question_text": "How does smoking affect driving?",
     "explanation": "EDCAD Lesson 4 identifies two problems with smoking while driving: it deposits a film on the windscreen that reduces visibility, and it is a physical distraction as you handle the cigarette, lighter, and ash.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["smoking", "distraction", "edcad"],
+    "tags": [
+      "smoking",
+      "distraction",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-008-a", "question_id": "ed-dc-008", "answer_text": "It deposits a film on the windscreen and is a physical distraction", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-008-b", "question_id": "ed-dc-008", "answer_text": "Smoking has no impact on driving ability", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-008-c", "question_id": "ed-dc-008", "answer_text": "It only affects the driver's lungs, not driving", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-008-d", "question_id": "ed-dc-008", "answer_text": "Smoking helps keep drivers alert on long drives", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-008-a",
+        "question_id": "ed-dc-008",
+        "answer_text": "It deposits a film on the windscreen and is a physical distraction",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-008-b",
+        "question_id": "ed-dc-008",
+        "answer_text": "Smoking has no impact on driving ability",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-008-c",
+        "question_id": "ed-dc-008",
+        "answer_text": "It only affects the driver's lungs, not driving",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-008-d",
+        "question_id": "ed-dc-008",
+        "answer_text": "Smoking helps keep drivers alert on long drives",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-dc-009",
-    "question_text": "According to EDCAD, what should you avoid when dealing with sun glare while driving?",
+    "question_text": "What should you avoid when dealing with sun glare while driving?",
     "explanation": "EDCAD Lesson 4 advises drivers to avoid looking directly into the sun. Instead, use the correct type of sunglasses (polarized) and sun visors. Looking directly at the sun can cause temporary blindness and accidents.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["sun_glare", "sunglasses", "edcad"],
+    "tags": [
+      "sun_glare",
+      "sunglasses",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-009-a", "question_id": "ed-dc-009", "answer_text": "Looking directly into the sun — use correct sunglasses and sun visors", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-009-b", "question_id": "ed-dc-009", "answer_text": "Using sunglasses while driving is prohibited", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-009-c", "question_id": "ed-dc-009", "answer_text": "Shield your eyes with your hand while steering", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-009-d", "question_id": "ed-dc-009", "answer_text": "Sun glare is not a hazard for experienced drivers", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-009-a",
+        "question_id": "ed-dc-009",
+        "answer_text": "Looking directly into the sun — use correct sunglasses and sun visors",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-009-b",
+        "question_id": "ed-dc-009",
+        "answer_text": "Using sunglasses while driving is prohibited",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-009-c",
+        "question_id": "ed-dc-009",
+        "answer_text": "Shield your eyes with your hand while steering",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-009-d",
+        "question_id": "ed-dc-009",
+        "answer_text": "Sun glare is not a hazard for experienced drivers",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-dc-010",
-    "question_text": "According to EDCAD, what are the key limitations of driving at night?",
+    "question_text": "What are the key limitations of driving at night?",
     "explanation": "EDCAD Lesson 4 states that at night, humans cannot see as far as during the day and it is easy to misjudge speed and distances. These limitations make night driving inherently more dangerous and require reduced speed and increased caution.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["night_driving", "visibility_limits", "edcad"],
+    "tags": [
+      "night_driving",
+      "visibility_limits",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-dc-010-a", "question_id": "ed-dc-010", "answer_text": "Reduced visibility range and easy misjudgment of speed and distances", "is_correct": true, "display_order": 1},
-      {"id": "ed-dc-010-b", "question_id": "ed-dc-010", "answer_text": "Night driving is equally safe as daytime driving with headlights", "is_correct": false, "display_order": 2},
-      {"id": "ed-dc-010-c", "question_id": "ed-dc-010", "answer_text": "The only limitation is glare from oncoming vehicles", "is_correct": false, "display_order": 3},
-      {"id": "ed-dc-010-d", "question_id": "ed-dc-010", "answer_text": "Night driving is safer because there is less traffic", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-dc-010-a",
+        "question_id": "ed-dc-010",
+        "answer_text": "Reduced visibility range and easy misjudgment of speed and distances",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-dc-010-b",
+        "question_id": "ed-dc-010",
+        "answer_text": "Night driving is equally safe as daytime driving with headlights",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-dc-010-c",
+        "question_id": "ed-dc-010",
+        "answer_text": "The only limitation is glare from oncoming vehicles",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-dc-010-d",
+        "question_id": "ed-dc-010",
+        "answer_text": "Night driving is safer because there is less traffic",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   }
 ]

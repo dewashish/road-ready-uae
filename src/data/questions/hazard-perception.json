@@ -4,18 +4,52 @@
     "question_text": "You are driving on a busy urban road in Dubai and notice a ball rolling onto the road from between parked cars. What should you anticipate?",
     "explanation": "A ball rolling onto the road is a classic hazard indicator that a child may follow. Defensive drivers should immediately slow down and prepare to stop, scanning for children who may run into the road.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["pedestrian_hazards", "anticipation", "urban_driving"],
+    "tags": [
+      "pedestrian_hazards",
+      "anticipation",
+      "urban_driving"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-001-a", "question_id": "hp-001", "answer_text": "A child may run onto the road chasing the ball", "is_correct": true, "display_order": 1},
-      {"id": "hp-001-b", "question_id": "hp-001", "answer_text": "The ball is not a hazard and can be ignored", "is_correct": false, "display_order": 2},
-      {"id": "hp-001-c", "question_id": "hp-001", "answer_text": "You should swerve to avoid the ball only", "is_correct": false, "display_order": 3},
-      {"id": "hp-001-d", "question_id": "hp-001", "answer_text": "You should honk your horn continuously to warn everyone", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-001-a",
+        "question_id": "hp-001",
+        "answer_text": "A child may run onto the road chasing the ball",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-001-b",
+        "question_id": "hp-001",
+        "answer_text": "The ball is not a hazard and can be ignored",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-001-c",
+        "question_id": "hp-001",
+        "answer_text": "You should swerve to avoid the ball only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-001-d",
+        "question_id": "hp-001",
+        "answer_text": "You should honk your horn continuously to warn everyone",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -23,18 +57,52 @@
     "question_text": "What is the recommended safe following distance rule when driving in normal conditions in the UAE?",
     "explanation": "The 3-second rule is the standard minimum following distance in normal, dry conditions. Pick a fixed point on the road; when the vehicle ahead passes it, count at least 3 seconds before you reach the same point.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["following_distance", "3_second_rule", "safe_driving"],
+    "tags": [
+      "following_distance",
+      "3_second_rule",
+      "safe_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-002-a", "question_id": "hp-002", "answer_text": "At least 3 seconds behind the vehicle ahead", "is_correct": true, "display_order": 1},
-      {"id": "hp-002-b", "question_id": "hp-002", "answer_text": "At least 1 second behind the vehicle ahead", "is_correct": false, "display_order": 2},
-      {"id": "hp-002-c", "question_id": "hp-002", "answer_text": "As close as possible to the vehicle ahead", "is_correct": false, "display_order": 3},
-      {"id": "hp-002-d", "question_id": "hp-002", "answer_text": "At least 10 seconds behind the vehicle ahead", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-002-a",
+        "question_id": "hp-002",
+        "answer_text": "At least 3 seconds behind the vehicle ahead",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-002-b",
+        "question_id": "hp-002",
+        "answer_text": "At least 1 second behind the vehicle ahead",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-002-c",
+        "question_id": "hp-002",
+        "answer_text": "As close as possible to the vehicle ahead",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-002-d",
+        "question_id": "hp-002",
+        "answer_text": "At least 10 seconds behind the vehicle ahead",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -42,18 +110,52 @@
     "question_text": "When should you increase your following distance beyond the standard 3-second rule?",
     "explanation": "In adverse conditions such as rain, fog, sandstorms, or when driving at high speed on UAE highways, you should increase your following distance to 4-6 seconds or more to allow extra stopping time.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["following_distance", "adverse_conditions", "safe_driving"],
+    "tags": [
+      "following_distance",
+      "adverse_conditions",
+      "safe_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-003-a", "question_id": "hp-003", "answer_text": "In rain, fog, sandstorms, or at high speeds", "is_correct": true, "display_order": 1},
-      {"id": "hp-003-b", "question_id": "hp-003", "answer_text": "Only when driving in a school zone", "is_correct": false, "display_order": 2},
-      {"id": "hp-003-c", "question_id": "hp-003", "answer_text": "The 3-second rule is always sufficient regardless of conditions", "is_correct": false, "display_order": 3},
-      {"id": "hp-003-d", "question_id": "hp-003", "answer_text": "Only when driving a heavy vehicle", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-003-a",
+        "question_id": "hp-003",
+        "answer_text": "In rain, fog, sandstorms, or at high speeds",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-003-b",
+        "question_id": "hp-003",
+        "answer_text": "Only when driving in a school zone",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-003-c",
+        "question_id": "hp-003",
+        "answer_text": "The 3-second rule is always sufficient regardless of conditions",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-003-d",
+        "question_id": "hp-003",
+        "answer_text": "Only when driving a heavy vehicle",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -61,18 +163,49 @@
     "question_text": "Where are the blind spots typically located on a standard passenger car?",
     "explanation": "Blind spots are areas not visible in your mirrors. They are typically located on both sides of the vehicle, just behind and to the side of the driver. Always perform a shoulder check before changing lanes.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B"],
+    "vehicle_types": [
+      "A",
+      "B"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["blind_spots", "mirror_checks", "lane_changing"],
+    "tags": [
+      "blind_spots",
+      "mirror_checks",
+      "lane_changing"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-004-a", "question_id": "hp-004", "answer_text": "On both sides of the vehicle, just behind and beside the driver", "is_correct": true, "display_order": 1},
-      {"id": "hp-004-b", "question_id": "hp-004", "answer_text": "Directly in front of the vehicle only", "is_correct": false, "display_order": 2},
-      {"id": "hp-004-c", "question_id": "hp-004", "answer_text": "Only on the left side of the vehicle", "is_correct": false, "display_order": 3},
-      {"id": "hp-004-d", "question_id": "hp-004", "answer_text": "Blind spots do not exist if mirrors are properly adjusted", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-004-a",
+        "question_id": "hp-004",
+        "answer_text": "On both sides of the vehicle, just behind and beside the driver",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-004-b",
+        "question_id": "hp-004",
+        "answer_text": "Directly in front of the vehicle only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-004-c",
+        "question_id": "hp-004",
+        "answer_text": "Only on the left side of the vehicle",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-004-d",
+        "question_id": "hp-004",
+        "answer_text": "Blind spots do not exist if mirrors are properly adjusted",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -80,18 +213,52 @@
     "question_text": "You are approaching a pedestrian crossing near a school in Abu Dhabi and the traffic light turns amber. What should you do?",
     "explanation": "Near school zones in the UAE, extra caution is required. When the light turns amber, you should stop safely if you can. Children are unpredictable and may cross unexpectedly. UAE traffic law imposes heavy fines for endangering pedestrians in school zones.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["pedestrian_hazards", "school_zones", "traffic_lights"],
+    "tags": [
+      "pedestrian_hazards",
+      "school_zones",
+      "traffic_lights"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-005-a", "question_id": "hp-005", "answer_text": "Stop safely before the crossing if possible and scan for children", "is_correct": true, "display_order": 1},
-      {"id": "hp-005-b", "question_id": "hp-005", "answer_text": "Speed up to cross before the light turns red", "is_correct": false, "display_order": 2},
-      {"id": "hp-005-c", "question_id": "hp-005", "answer_text": "Maintain your speed since amber means proceed with caution", "is_correct": false, "display_order": 3},
-      {"id": "hp-005-d", "question_id": "hp-005", "answer_text": "Honk your horn to warn pedestrians and continue driving", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-005-a",
+        "question_id": "hp-005",
+        "answer_text": "Stop safely before the crossing if possible and scan for children",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-005-b",
+        "question_id": "hp-005",
+        "answer_text": "Speed up to cross before the light turns red",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-005-c",
+        "question_id": "hp-005",
+        "answer_text": "Maintain your speed since amber means proceed with caution",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-005-d",
+        "question_id": "hp-005",
+        "answer_text": "Honk your horn to warn pedestrians and continue driving",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -99,18 +266,52 @@
     "question_text": "What is the primary hazard of driving at night on an unlit road in the UAE desert?",
     "explanation": "Unlit desert roads in the UAE pose the danger of encountering camels or other animals crossing the road, which are hard to spot at night. Reduced visibility also means you cannot see road edges, sand drifts, or debris in time.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["night_driving", "desert_roads", "animal_crossings"],
+    "tags": [
+      "night_driving",
+      "desert_roads",
+      "animal_crossings"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-006-a", "question_id": "hp-006", "answer_text": "Camels or animals crossing the road that are hard to see", "is_correct": true, "display_order": 1},
-      {"id": "hp-006-b", "question_id": "hp-006", "answer_text": "The road surface is always wet at night", "is_correct": false, "display_order": 2},
-      {"id": "hp-006-c", "question_id": "hp-006", "answer_text": "Speed cameras are more active at night", "is_correct": false, "display_order": 3},
-      {"id": "hp-006-d", "question_id": "hp-006", "answer_text": "There is no special hazard on desert roads at night", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-006-a",
+        "question_id": "hp-006",
+        "answer_text": "Camels or animals crossing the road that are hard to see",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-006-b",
+        "question_id": "hp-006",
+        "answer_text": "The road surface is always wet at night",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-006-c",
+        "question_id": "hp-006",
+        "answer_text": "Speed cameras are more active at night",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-006-d",
+        "question_id": "hp-006",
+        "answer_text": "There is no special hazard on desert roads at night",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -118,18 +319,52 @@
     "question_text": "You are driving through a construction zone on Sheikh Zayed Road. What hazards should you be most aware of?",
     "explanation": "Construction zones on major UAE roads present multiple hazards: narrowed lanes, sudden lane shifts, construction workers near the road, debris, uneven surfaces, and reduced speed limits. Always follow posted signs and reduce speed.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["construction_zones", "highway_hazards", "road_workers"],
+    "tags": [
+      "construction_zones",
+      "highway_hazards",
+      "road_workers"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-007-a", "question_id": "hp-007", "answer_text": "Narrowed lanes, workers near the road, debris, and sudden lane changes", "is_correct": true, "display_order": 1},
-      {"id": "hp-007-b", "question_id": "hp-007", "answer_text": "Only the reduced speed limit", "is_correct": false, "display_order": 2},
-      {"id": "hp-007-c", "question_id": "hp-007", "answer_text": "Construction zones are fully separated from traffic and pose no risk", "is_correct": false, "display_order": 3},
-      {"id": "hp-007-d", "question_id": "hp-007", "answer_text": "You only need to watch for construction vehicles entering the road", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-007-a",
+        "question_id": "hp-007",
+        "answer_text": "Narrowed lanes, workers near the road, debris, and sudden lane changes",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-007-b",
+        "question_id": "hp-007",
+        "answer_text": "Only the reduced speed limit",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-007-c",
+        "question_id": "hp-007",
+        "answer_text": "Construction zones are fully separated from traffic and pose no risk",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-007-d",
+        "question_id": "hp-007",
+        "answer_text": "You only need to watch for construction vehicles entering the road",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -137,18 +372,52 @@
     "question_text": "How should you check your blind spots before changing lanes on a multi-lane highway?",
     "explanation": "Before changing lanes, you should check your mirrors first, then perform a quick shoulder check (head check) to the side you intend to move toward. This confirms no vehicle is in your blind spot that mirrors cannot show.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["blind_spots", "lane_changing", "mirror_checks"],
+    "tags": [
+      "blind_spots",
+      "lane_changing",
+      "mirror_checks"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-008-a", "question_id": "hp-008", "answer_text": "Check mirrors first, then do a quick shoulder check to the side you are moving toward", "is_correct": true, "display_order": 1},
-      {"id": "hp-008-b", "question_id": "hp-008", "answer_text": "Only check the rearview mirror", "is_correct": false, "display_order": 2},
-      {"id": "hp-008-c", "question_id": "hp-008", "answer_text": "Just signal and move; other drivers will make way", "is_correct": false, "display_order": 3},
-      {"id": "hp-008-d", "question_id": "hp-008", "answer_text": "Turn your head completely around to look behind you", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-008-a",
+        "question_id": "hp-008",
+        "answer_text": "Check mirrors first, then do a quick shoulder check to the side you are moving toward",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-008-b",
+        "question_id": "hp-008",
+        "answer_text": "Only check the rearview mirror",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-008-c",
+        "question_id": "hp-008",
+        "answer_text": "Just signal and move; other drivers will make way",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-008-d",
+        "question_id": "hp-008",
+        "answer_text": "Turn your head completely around to look behind you",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -156,18 +425,52 @@
     "question_text": "You notice a large truck ahead of you is swaying slightly on the highway. What hazard does this indicate?",
     "explanation": "A swaying truck may indicate an overloaded or improperly loaded vehicle, strong crosswinds, or a fatigued driver. You should increase your following distance and pass carefully when safe, keeping a wide margin.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["heavy_vehicles", "highway_hazards", "anticipation"],
+    "tags": [
+      "heavy_vehicles",
+      "highway_hazards",
+      "anticipation"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-009-a", "question_id": "hp-009", "answer_text": "The truck may be overloaded, affected by wind, or the driver may be fatigued — increase distance", "is_correct": true, "display_order": 1},
-      {"id": "hp-009-b", "question_id": "hp-009", "answer_text": "This is normal truck behavior and requires no action", "is_correct": false, "display_order": 2},
-      {"id": "hp-009-c", "question_id": "hp-009", "answer_text": "You should immediately overtake the truck on the left side", "is_correct": false, "display_order": 3},
-      {"id": "hp-009-d", "question_id": "hp-009", "answer_text": "Flash your headlights at the truck to alert the driver", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-009-a",
+        "question_id": "hp-009",
+        "answer_text": "The truck may be overloaded, affected by wind, or the driver may be fatigued — increase distance",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-009-b",
+        "question_id": "hp-009",
+        "answer_text": "This is normal truck behavior and requires no action",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-009-c",
+        "question_id": "hp-009",
+        "answer_text": "You should immediately overtake the truck on the left side",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-009-d",
+        "question_id": "hp-009",
+        "answer_text": "Flash your headlights at the truck to alert the driver",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -175,18 +478,52 @@
     "question_text": "What is the main danger when a vehicle stops suddenly at a pedestrian crossing ahead of you?",
     "explanation": "If a vehicle ahead stops suddenly at a crossing, there is likely a pedestrian you cannot see. You must stop as well and not attempt to overtake the stopped vehicle, as the pedestrian may be hidden from your view.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["pedestrian_hazards", "stopping", "hidden_hazards"],
+    "tags": [
+      "pedestrian_hazards",
+      "stopping",
+      "hidden_hazards"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-010-a", "question_id": "hp-010", "answer_text": "A pedestrian may be crossing that you cannot see — stop and do not overtake", "is_correct": true, "display_order": 1},
-      {"id": "hp-010-b", "question_id": "hp-010", "answer_text": "The vehicle ahead has broken down, so overtake it quickly", "is_correct": false, "display_order": 2},
-      {"id": "hp-010-c", "question_id": "hp-010", "answer_text": "The driver ahead is being overly cautious — pass them safely", "is_correct": false, "display_order": 3},
-      {"id": "hp-010-d", "question_id": "hp-010", "answer_text": "Honk to tell the vehicle ahead to keep moving", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-010-a",
+        "question_id": "hp-010",
+        "answer_text": "A pedestrian may be crossing that you cannot see — stop and do not overtake",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-010-b",
+        "question_id": "hp-010",
+        "answer_text": "The vehicle ahead has broken down, so overtake it quickly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-010-c",
+        "question_id": "hp-010",
+        "answer_text": "The driver ahead is being overly cautious — pass them safely",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-010-d",
+        "question_id": "hp-010",
+        "answer_text": "Honk to tell the vehicle ahead to keep moving",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -194,18 +531,52 @@
     "question_text": "When driving at night, what should you do when an oncoming vehicle has its high beams on and is blinding you?",
     "explanation": "If blinded by oncoming high beams, look toward the right edge of the road (or the road markings on your side) to guide your steering. Slow down and avoid looking directly at the headlights. Do not retaliate with your own high beams.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["night_driving", "glare", "oncoming_traffic"],
+    "tags": [
+      "night_driving",
+      "glare",
+      "oncoming_traffic"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-011-a", "question_id": "hp-011", "answer_text": "Look toward the right edge of the road, slow down, and avoid staring at the lights", "is_correct": true, "display_order": 1},
-      {"id": "hp-011-b", "question_id": "hp-011", "answer_text": "Switch on your own high beams to even out the lighting", "is_correct": false, "display_order": 2},
-      {"id": "hp-011-c", "question_id": "hp-011", "answer_text": "Close your eyes briefly until the vehicle passes", "is_correct": false, "display_order": 3},
-      {"id": "hp-011-d", "question_id": "hp-011", "answer_text": "Stop immediately in your lane", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-011-a",
+        "question_id": "hp-011",
+        "answer_text": "Look toward the right edge of the road, slow down, and avoid staring at the lights",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-011-b",
+        "question_id": "hp-011",
+        "answer_text": "Switch on your own high beams to even out the lighting",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-011-c",
+        "question_id": "hp-011",
+        "answer_text": "Close your eyes briefly until the vehicle passes",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-011-d",
+        "question_id": "hp-011",
+        "answer_text": "Stop immediately in your lane",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -213,18 +584,52 @@
     "question_text": "You are approaching a roundabout and see a cyclist on your left. What should you be cautious about?",
     "explanation": "Cyclists at roundabouts are vulnerable. They may need to move across lanes and may not be able to match traffic speed. Give them plenty of space and do not try to overtake them within the roundabout.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["cyclists", "roundabouts", "vulnerable_road_users"],
+    "tags": [
+      "cyclists",
+      "roundabouts",
+      "vulnerable_road_users"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-012-a", "question_id": "hp-012", "answer_text": "The cyclist may move across lanes; give them space and do not overtake within the roundabout", "is_correct": true, "display_order": 1},
-      {"id": "hp-012-b", "question_id": "hp-012", "answer_text": "Cyclists are not allowed on roundabouts, so they will stop", "is_correct": false, "display_order": 2},
-      {"id": "hp-012-c", "question_id": "hp-012", "answer_text": "Speed up to pass the cyclist before entering the roundabout", "is_correct": false, "display_order": 3},
-      {"id": "hp-012-d", "question_id": "hp-012", "answer_text": "Honk to make the cyclist aware of your presence", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-012-a",
+        "question_id": "hp-012",
+        "answer_text": "The cyclist may move across lanes; give them space and do not overtake within the roundabout",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-012-b",
+        "question_id": "hp-012",
+        "answer_text": "Cyclists are not allowed on roundabouts, so they will stop",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-012-c",
+        "question_id": "hp-012",
+        "answer_text": "Speed up to pass the cyclist before entering the roundabout",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-012-d",
+        "question_id": "hp-012",
+        "answer_text": "Honk to make the cyclist aware of your presence",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -232,18 +637,52 @@
     "question_text": "What is a common hazard when driving near parked vehicles on a residential street?",
     "explanation": "Parked vehicles can conceal hazards such as pedestrians stepping out, car doors opening suddenly, or vehicles pulling out without warning. Always reduce speed and maintain a safe distance from parked cars.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["parked_vehicles", "pedestrian_hazards", "residential_areas"],
+    "tags": [
+      "parked_vehicles",
+      "pedestrian_hazards",
+      "residential_areas"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-013-a", "question_id": "hp-013", "answer_text": "Doors opening suddenly, pedestrians stepping out, or vehicles pulling out", "is_correct": true, "display_order": 1},
-      {"id": "hp-013-b", "question_id": "hp-013", "answer_text": "Parked vehicles pose no hazard as they are stationary", "is_correct": false, "display_order": 2},
-      {"id": "hp-013-c", "question_id": "hp-013", "answer_text": "The only hazard is narrowing of the road", "is_correct": false, "display_order": 3},
-      {"id": "hp-013-d", "question_id": "hp-013", "answer_text": "Parked vehicles may roll into traffic due to heat", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-013-a",
+        "question_id": "hp-013",
+        "answer_text": "Doors opening suddenly, pedestrians stepping out, or vehicles pulling out",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-013-b",
+        "question_id": "hp-013",
+        "answer_text": "Parked vehicles pose no hazard as they are stationary",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-013-c",
+        "question_id": "hp-013",
+        "answer_text": "The only hazard is narrowing of the road",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-013-d",
+        "question_id": "hp-013",
+        "answer_text": "Parked vehicles may roll into traffic due to heat",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -251,18 +690,52 @@
     "question_text": "You are driving on a rural road and see a camel warning sign. How should you adjust your driving?",
     "explanation": "Camel warning signs in the UAE indicate areas where camels may cross the road. Camels are large, dark-colored animals that are very difficult to see at night. Reduce speed, stay alert, and be prepared to stop, especially between dusk and dawn.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["animal_crossings", "warning_signs", "desert_roads"],
+    "tags": [
+      "animal_crossings",
+      "warning_signs",
+      "desert_roads"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-014-a", "question_id": "hp-014", "answer_text": "Reduce speed, stay alert, and be prepared to stop, especially at dusk and dawn", "is_correct": true, "display_order": 1},
-      {"id": "hp-014-b", "question_id": "hp-014", "answer_text": "The sign is informational only; no change in driving is needed", "is_correct": false, "display_order": 2},
-      {"id": "hp-014-c", "question_id": "hp-014", "answer_text": "Honk your horn continuously to scare camels away", "is_correct": false, "display_order": 3},
-      {"id": "hp-014-d", "question_id": "hp-014", "answer_text": "Speed up to pass through the area quickly", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-014-a",
+        "question_id": "hp-014",
+        "answer_text": "Reduce speed, stay alert, and be prepared to stop, especially at dusk and dawn",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-014-b",
+        "question_id": "hp-014",
+        "answer_text": "The sign is informational only; no change in driving is needed",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-014-c",
+        "question_id": "hp-014",
+        "answer_text": "Honk your horn continuously to scare camels away",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-014-d",
+        "question_id": "hp-014",
+        "answer_text": "Speed up to pass through the area quickly",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -270,18 +743,52 @@
     "question_text": "What should you do if you see brake lights illuminating on several vehicles ahead of you on the highway?",
     "explanation": "Multiple brake lights ahead indicate slowing or stopped traffic. Begin slowing down early and check your mirrors for vehicles behind you. This gives you and following drivers more time to react and prevents chain-reaction collisions.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["highway_hazards", "braking", "anticipation"],
+    "tags": [
+      "highway_hazards",
+      "braking",
+      "anticipation"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-015-a", "question_id": "hp-015", "answer_text": "Begin slowing down early and check your mirrors for vehicles behind you", "is_correct": true, "display_order": 1},
-      {"id": "hp-015-b", "question_id": "hp-015", "answer_text": "Change lanes immediately to avoid slowing down", "is_correct": false, "display_order": 2},
-      {"id": "hp-015-c", "question_id": "hp-015", "answer_text": "Maintain your speed until you are close to the stopped traffic", "is_correct": false, "display_order": 3},
-      {"id": "hp-015-d", "question_id": "hp-015", "answer_text": "Use the hard shoulder to bypass the traffic", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-015-a",
+        "question_id": "hp-015",
+        "answer_text": "Begin slowing down early and check your mirrors for vehicles behind you",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-015-b",
+        "question_id": "hp-015",
+        "answer_text": "Change lanes immediately to avoid slowing down",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-015-c",
+        "question_id": "hp-015",
+        "answer_text": "Maintain your speed until you are close to the stopped traffic",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-015-d",
+        "question_id": "hp-015",
+        "answer_text": "Use the hard shoulder to bypass the traffic",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -289,18 +796,52 @@
     "question_text": "You are driving at 120 km/h on a UAE motorway. A vehicle ahead suddenly swerves to avoid an object on the road. What should you do?",
     "explanation": "When a vehicle ahead swerves unexpectedly, it usually indicates an obstacle on the road. Immediately ease off the accelerator, prepare to brake, and scan the road for the hazard. Do not swerve suddenly at high speed as this can cause loss of control.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["highway_hazards", "reaction", "obstacles"],
+    "tags": [
+      "highway_hazards",
+      "reaction",
+      "obstacles"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-016-a", "question_id": "hp-016", "answer_text": "Ease off the accelerator, prepare to brake, and scan the road ahead for the hazard", "is_correct": true, "display_order": 1},
-      {"id": "hp-016-b", "question_id": "hp-016", "answer_text": "Swerve in the same direction as the vehicle ahead", "is_correct": false, "display_order": 2},
-      {"id": "hp-016-c", "question_id": "hp-016", "answer_text": "Maintain speed; the hazard has already been avoided by the other driver", "is_correct": false, "display_order": 3},
-      {"id": "hp-016-d", "question_id": "hp-016", "answer_text": "Brake hard immediately to stop as quickly as possible", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-016-a",
+        "question_id": "hp-016",
+        "answer_text": "Ease off the accelerator, prepare to brake, and scan the road ahead for the hazard",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-016-b",
+        "question_id": "hp-016",
+        "answer_text": "Swerve in the same direction as the vehicle ahead",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-016-c",
+        "question_id": "hp-016",
+        "answer_text": "Maintain speed; the hazard has already been avoided by the other driver",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-016-d",
+        "question_id": "hp-016",
+        "answer_text": "Brake hard immediately to stop as quickly as possible",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -308,18 +849,52 @@
     "question_text": "When is a pedestrian most difficult to see while driving?",
     "explanation": "Pedestrians are hardest to see at dawn, dusk, and nighttime, especially if they are wearing dark clothing. Rain and fog further reduce visibility. Drivers should be extra vigilant for pedestrians during these times.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["pedestrian_hazards", "visibility", "night_driving"],
+    "tags": [
+      "pedestrian_hazards",
+      "visibility",
+      "night_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-017-a", "question_id": "hp-017", "answer_text": "At dawn, dusk, and night, especially when they wear dark clothing", "is_correct": true, "display_order": 1},
-      {"id": "hp-017-b", "question_id": "hp-017", "answer_text": "During midday when sunlight creates strong shadows", "is_correct": false, "display_order": 2},
-      {"id": "hp-017-c", "question_id": "hp-017", "answer_text": "Only during heavy rain", "is_correct": false, "display_order": 3},
-      {"id": "hp-017-d", "question_id": "hp-017", "answer_text": "Pedestrians are always equally visible at all times", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-017-a",
+        "question_id": "hp-017",
+        "answer_text": "At dawn, dusk, and night, especially when they wear dark clothing",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-017-b",
+        "question_id": "hp-017",
+        "answer_text": "During midday when sunlight creates strong shadows",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-017-c",
+        "question_id": "hp-017",
+        "answer_text": "Only during heavy rain",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-017-d",
+        "question_id": "hp-017",
+        "answer_text": "Pedestrians are always equally visible at all times",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -327,18 +902,52 @@
     "question_text": "You are driving and notice road workers ahead with a 'road narrows' sign. What is the safest action?",
     "explanation": "When approaching road works, reduce your speed as indicated by temporary signs, merge early if lane closures are ahead, and be aware of workers near the roadway. UAE law doubles fines for speeding in construction zones.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["construction_zones", "road_workers", "speed_reduction"],
+    "tags": [
+      "construction_zones",
+      "road_workers",
+      "speed_reduction"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-018-a", "question_id": "hp-018", "answer_text": "Reduce speed, merge early, and watch for workers near the road", "is_correct": true, "display_order": 1},
-      {"id": "hp-018-b", "question_id": "hp-018", "answer_text": "Maintain your speed and merge at the last moment", "is_correct": false, "display_order": 2},
-      {"id": "hp-018-c", "question_id": "hp-018", "answer_text": "Stop completely and wait for a worker to wave you through", "is_correct": false, "display_order": 3},
-      {"id": "hp-018-d", "question_id": "hp-018", "answer_text": "Use the opposite lane to bypass the construction", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-018-a",
+        "question_id": "hp-018",
+        "answer_text": "Reduce speed, merge early, and watch for workers near the road",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-018-b",
+        "question_id": "hp-018",
+        "answer_text": "Maintain your speed and merge at the last moment",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-018-c",
+        "question_id": "hp-018",
+        "answer_text": "Stop completely and wait for a worker to wave you through",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-018-d",
+        "question_id": "hp-018",
+        "answer_text": "Use the opposite lane to bypass the construction",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -346,18 +955,52 @@
     "question_text": "What is the danger of only relying on your mirrors when reversing?",
     "explanation": "Mirrors have blind spots and cannot show everything behind and around the vehicle, especially low objects and small children. Always turn your head to look directly behind and use all available views when reversing.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["blind_spots", "reversing", "children_safety"],
+    "tags": [
+      "blind_spots",
+      "reversing",
+      "children_safety"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-019-a", "question_id": "hp-019", "answer_text": "Mirrors have blind spots and cannot show low objects or small children behind the vehicle", "is_correct": true, "display_order": 1},
-      {"id": "hp-019-b", "question_id": "hp-019", "answer_text": "Mirrors are fully sufficient for safe reversing", "is_correct": false, "display_order": 2},
-      {"id": "hp-019-c", "question_id": "hp-019", "answer_text": "The only danger is hitting a wall or post", "is_correct": false, "display_order": 3},
-      {"id": "hp-019-d", "question_id": "hp-019", "answer_text": "Mirrors distort the distance of objects, making them appear closer", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-019-a",
+        "question_id": "hp-019",
+        "answer_text": "Mirrors have blind spots and cannot show low objects or small children behind the vehicle",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-019-b",
+        "question_id": "hp-019",
+        "answer_text": "Mirrors are fully sufficient for safe reversing",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-019-c",
+        "question_id": "hp-019",
+        "answer_text": "The only danger is hitting a wall or post",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-019-d",
+        "question_id": "hp-019",
+        "answer_text": "Mirrors distort the distance of objects, making them appear closer",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -365,18 +1008,52 @@
     "question_text": "You are driving in a residential area and see children playing near the curb. What should you anticipate?",
     "explanation": "Children are unpredictable and may run into the road without warning while playing. Slow down, cover the brake, and be prepared to stop immediately. In UAE residential areas, the speed limit is typically 40 km/h.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["pedestrian_hazards", "children_safety", "residential_areas"],
+    "tags": [
+      "pedestrian_hazards",
+      "children_safety",
+      "residential_areas"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-020-a", "question_id": "hp-020", "answer_text": "Children may run into the road unexpectedly — slow down and be ready to stop", "is_correct": true, "display_order": 1},
-      {"id": "hp-020-b", "question_id": "hp-020", "answer_text": "Children near the curb are safe and will not enter the road", "is_correct": false, "display_order": 2},
-      {"id": "hp-020-c", "question_id": "hp-020", "answer_text": "Honk your horn to alert them and maintain your speed", "is_correct": false, "display_order": 3},
-      {"id": "hp-020-d", "question_id": "hp-020", "answer_text": "Flash your headlights to warn the children", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-020-a",
+        "question_id": "hp-020",
+        "answer_text": "Children may run into the road unexpectedly — slow down and be ready to stop",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-020-b",
+        "question_id": "hp-020",
+        "answer_text": "Children near the curb are safe and will not enter the road",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-020-c",
+        "question_id": "hp-020",
+        "answer_text": "Honk your horn to alert them and maintain your speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-020-d",
+        "question_id": "hp-020",
+        "answer_text": "Flash your headlights to warn the children",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -384,18 +1061,52 @@
     "question_text": "What hazard does a wet road surface present after the first rainfall following a dry period in the UAE?",
     "explanation": "After a long dry spell (common in the UAE), the first rain mixes with oil, dust, and rubber residue on the road, creating an extremely slippery surface. This is more dangerous than continuous rain. Reduce speed significantly.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["rain_driving", "road_surface", "uae_specific"],
+    "tags": [
+      "rain_driving",
+      "road_surface",
+      "uae_specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-021-a", "question_id": "hp-021", "answer_text": "Oil and dust mix with rain creating an extremely slippery surface", "is_correct": true, "display_order": 1},
-      {"id": "hp-021-b", "question_id": "hp-021", "answer_text": "The road becomes easier to drive on as dust is washed away", "is_correct": false, "display_order": 2},
-      {"id": "hp-021-c", "question_id": "hp-021", "answer_text": "Rain in the UAE has no effect on road grip", "is_correct": false, "display_order": 3},
-      {"id": "hp-021-d", "question_id": "hp-021", "answer_text": "Only unpaved roads become slippery", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-021-a",
+        "question_id": "hp-021",
+        "answer_text": "Oil and dust mix with rain creating an extremely slippery surface",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-021-b",
+        "question_id": "hp-021",
+        "answer_text": "The road becomes easier to drive on as dust is washed away",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-021-c",
+        "question_id": "hp-021",
+        "answer_text": "Rain in the UAE has no effect on road grip",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-021-d",
+        "question_id": "hp-021",
+        "answer_text": "Only unpaved roads become slippery",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -403,18 +1114,52 @@
     "question_text": "You are merging onto a highway and notice vehicles in the lane you need to enter are moving at 100 km/h. What is the safest approach?",
     "explanation": "When merging onto a highway, use the acceleration lane to match the speed of traffic on the highway before merging. Signal early, check mirrors and blind spots, and merge smoothly into a safe gap.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["highway_merging", "speed_matching", "safe_driving"],
+    "tags": [
+      "highway_merging",
+      "speed_matching",
+      "safe_driving"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-022-a", "question_id": "hp-022", "answer_text": "Use the acceleration lane to match highway speed, signal, check blind spots, and merge into a gap", "is_correct": true, "display_order": 1},
-      {"id": "hp-022-b", "question_id": "hp-022", "answer_text": "Stop at the end of the slip road and wait for a gap", "is_correct": false, "display_order": 2},
-      {"id": "hp-022-c", "question_id": "hp-022", "answer_text": "Merge at whatever speed you are comfortable with", "is_correct": false, "display_order": 3},
-      {"id": "hp-022-d", "question_id": "hp-022", "answer_text": "Force your way into traffic; highway vehicles must give way to merging traffic", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-022-a",
+        "question_id": "hp-022",
+        "answer_text": "Use the acceleration lane to match highway speed, signal, check blind spots, and merge into a gap",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-022-b",
+        "question_id": "hp-022",
+        "answer_text": "Stop at the end of the slip road and wait for a gap",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-022-c",
+        "question_id": "hp-022",
+        "answer_text": "Merge at whatever speed you are comfortable with",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-022-d",
+        "question_id": "hp-022",
+        "answer_text": "Force your way into traffic; highway vehicles must give way to merging traffic",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -422,18 +1167,52 @@
     "question_text": "What is the hazard perception technique known as 'scanning'?",
     "explanation": "Scanning means continuously moving your eyes to check mirrors, the road ahead, sides, and blind spots. Effective scanning helps you detect hazards early and maintain situational awareness while driving.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["scanning", "observation", "defensive_driving"],
+    "tags": [
+      "scanning",
+      "observation",
+      "defensive_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-023-a", "question_id": "hp-023", "answer_text": "Continuously moving your eyes to check mirrors, the road ahead, sides, and blind spots", "is_correct": true, "display_order": 1},
-      {"id": "hp-023-b", "question_id": "hp-023", "answer_text": "Focusing your eyes on the car directly ahead of you", "is_correct": false, "display_order": 2},
-      {"id": "hp-023-c", "question_id": "hp-023", "answer_text": "Looking only at the road surface for potholes", "is_correct": false, "display_order": 3},
-      {"id": "hp-023-d", "question_id": "hp-023", "answer_text": "Checking your speedometer regularly", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-023-a",
+        "question_id": "hp-023",
+        "answer_text": "Continuously moving your eyes to check mirrors, the road ahead, sides, and blind spots",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-023-b",
+        "question_id": "hp-023",
+        "answer_text": "Focusing your eyes on the car directly ahead of you",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-023-c",
+        "question_id": "hp-023",
+        "answer_text": "Looking only at the road surface for potholes",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-023-d",
+        "question_id": "hp-023",
+        "answer_text": "Checking your speedometer regularly",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -441,18 +1220,52 @@
     "question_text": "A motorcyclist is filtering through slow-moving traffic ahead. What hazard does this create?",
     "explanation": "Motorcyclists filtering through traffic can appear suddenly in your blind spots or between lanes. Before changing lanes in slow traffic, always check mirrors and blind spots carefully, as a motorcycle may be approaching from behind.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["motorcyclists", "filtering", "blind_spots"],
+    "tags": [
+      "motorcyclists",
+      "filtering",
+      "blind_spots"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-024-a", "question_id": "hp-024", "answer_text": "The motorcyclist may appear suddenly in your blind spot when you change lanes", "is_correct": true, "display_order": 1},
-      {"id": "hp-024-b", "question_id": "hp-024", "answer_text": "Motorcyclists filtering are always visible in your mirrors", "is_correct": false, "display_order": 2},
-      {"id": "hp-024-c", "question_id": "hp-024", "answer_text": "Filtering is illegal so motorcyclists will not do it", "is_correct": false, "display_order": 3},
-      {"id": "hp-024-d", "question_id": "hp-024", "answer_text": "No hazard; motorcyclists are responsible for their own safety", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-024-a",
+        "question_id": "hp-024",
+        "answer_text": "The motorcyclist may appear suddenly in your blind spot when you change lanes",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-024-b",
+        "question_id": "hp-024",
+        "answer_text": "Motorcyclists filtering are always visible in your mirrors",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-024-c",
+        "question_id": "hp-024",
+        "answer_text": "Filtering is illegal so motorcyclists will not do it",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-024-d",
+        "question_id": "hp-024",
+        "answer_text": "No hazard; motorcyclists are responsible for their own safety",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -460,18 +1273,52 @@
     "question_text": "You see a bus stopped at a bus stop ahead. What hazards should you watch for?",
     "explanation": "When a bus is stopped, passengers may cross the road from in front of or behind the bus. The bus may also pull out suddenly. Slow down and be prepared for pedestrians to appear unexpectedly.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["buses", "pedestrian_hazards", "hidden_hazards"],
+    "tags": [
+      "buses",
+      "pedestrian_hazards",
+      "hidden_hazards"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-025-a", "question_id": "hp-025", "answer_text": "Pedestrians may cross from in front of or behind the bus, and the bus may pull out", "is_correct": true, "display_order": 1},
-      {"id": "hp-025-b", "question_id": "hp-025", "answer_text": "There is no hazard; passengers board and alight on the pavement side", "is_correct": false, "display_order": 2},
-      {"id": "hp-025-c", "question_id": "hp-025", "answer_text": "You only need to worry if the bus has its hazard lights on", "is_correct": false, "display_order": 3},
-      {"id": "hp-025-d", "question_id": "hp-025", "answer_text": "Pass the bus at normal speed on its right side", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-025-a",
+        "question_id": "hp-025",
+        "answer_text": "Pedestrians may cross from in front of or behind the bus, and the bus may pull out",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-025-b",
+        "question_id": "hp-025",
+        "answer_text": "There is no hazard; passengers board and alight on the pavement side",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-025-c",
+        "question_id": "hp-025",
+        "answer_text": "You only need to worry if the bus has its hazard lights on",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-025-d",
+        "question_id": "hp-025",
+        "answer_text": "Pass the bus at normal speed on its right side",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -479,18 +1326,52 @@
     "question_text": "What should you do when you see emergency vehicle lights flashing behind you on a UAE road?",
     "explanation": "UAE law requires drivers to give way to emergency vehicles. Move safely to the right side of the road and stop if necessary to allow the emergency vehicle to pass. Failure to give way can result in significant fines.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["emergency_vehicles", "uae_law", "giving_way"],
+    "tags": [
+      "emergency_vehicles",
+      "uae_law",
+      "giving_way"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-026-a", "question_id": "hp-026", "answer_text": "Move safely to the right and stop if necessary to let the emergency vehicle pass", "is_correct": true, "display_order": 1},
-      {"id": "hp-026-b", "question_id": "hp-026", "answer_text": "Speed up to get out of the way quickly", "is_correct": false, "display_order": 2},
-      {"id": "hp-026-c", "question_id": "hp-026", "answer_text": "Stop immediately wherever you are", "is_correct": false, "display_order": 3},
-      {"id": "hp-026-d", "question_id": "hp-026", "answer_text": "Move to the left lane to give way", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-026-a",
+        "question_id": "hp-026",
+        "answer_text": "Move safely to the right and stop if necessary to let the emergency vehicle pass",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-026-b",
+        "question_id": "hp-026",
+        "answer_text": "Speed up to get out of the way quickly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-026-c",
+        "question_id": "hp-026",
+        "answer_text": "Stop immediately wherever you are",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-026-d",
+        "question_id": "hp-026",
+        "answer_text": "Move to the left lane to give way",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -498,18 +1379,52 @@
     "question_text": "You notice sand accumulation on the road while driving through a desert area. What is the main hazard?",
     "explanation": "Sand on the road significantly reduces tire grip and can cause the vehicle to skid or slide, especially when braking or turning. Reduce speed and avoid sudden steering or braking maneuvers on sand-covered roads.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["desert_roads", "road_surface", "sand_hazards"],
+    "tags": [
+      "desert_roads",
+      "road_surface",
+      "sand_hazards"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-027-a", "question_id": "hp-027", "answer_text": "Reduced tire grip that can cause skidding, especially when braking or turning", "is_correct": true, "display_order": 1},
-      {"id": "hp-027-b", "question_id": "hp-027", "answer_text": "Sand improves traction like gravel does", "is_correct": false, "display_order": 2},
-      {"id": "hp-027-c", "question_id": "hp-027", "answer_text": "The only risk is sand scratching your paintwork", "is_correct": false, "display_order": 3},
-      {"id": "hp-027-d", "question_id": "hp-027", "answer_text": "Sand on the road is only a hazard for two-wheeled vehicles", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-027-a",
+        "question_id": "hp-027",
+        "answer_text": "Reduced tire grip that can cause skidding, especially when braking or turning",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-027-b",
+        "question_id": "hp-027",
+        "answer_text": "Sand improves traction like gravel does",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-027-c",
+        "question_id": "hp-027",
+        "answer_text": "The only risk is sand scratching your paintwork",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-027-d",
+        "question_id": "hp-027",
+        "answer_text": "Sand on the road is only a hazard for two-wheeled vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -517,18 +1432,52 @@
     "question_text": "How far ahead should you typically look when driving on a highway at 120 km/h?",
     "explanation": "At highway speeds, you should look 12 to 15 seconds ahead. At 120 km/h, this translates to roughly 400-500 meters ahead. This allows you to identify hazards early and plan your response in advance.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["highway_driving", "observation", "forward_planning"],
+    "tags": [
+      "highway_driving",
+      "observation",
+      "forward_planning"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-028-a", "question_id": "hp-028", "answer_text": "12 to 15 seconds ahead, roughly 400-500 meters", "is_correct": true, "display_order": 1},
-      {"id": "hp-028-b", "question_id": "hp-028", "answer_text": "2 to 3 seconds ahead, about 50 meters", "is_correct": false, "display_order": 2},
-      {"id": "hp-028-c", "question_id": "hp-028", "answer_text": "As far as you can see, regardless of speed", "is_correct": false, "display_order": 3},
-      {"id": "hp-028-d", "question_id": "hp-028", "answer_text": "Only to the vehicle directly ahead of you", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-028-a",
+        "question_id": "hp-028",
+        "answer_text": "12 to 15 seconds ahead, roughly 400-500 meters",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-028-b",
+        "question_id": "hp-028",
+        "answer_text": "2 to 3 seconds ahead, about 50 meters",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-028-c",
+        "question_id": "hp-028",
+        "answer_text": "As far as you can see, regardless of speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-028-d",
+        "question_id": "hp-028",
+        "answer_text": "Only to the vehicle directly ahead of you",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -536,18 +1485,52 @@
     "question_text": "You are driving past a side road and notice a vehicle waiting to turn onto your road. What should you be prepared for?",
     "explanation": "A vehicle at a side road may pull out in front of you, especially if the driver misjudges your speed or does not see you. Be prepared to slow down or stop, and watch the vehicle's wheels for signs of movement.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["junctions", "anticipation", "hidden_hazards"],
+    "tags": [
+      "junctions",
+      "anticipation",
+      "hidden_hazards"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "hp-029-a", "question_id": "hp-029", "answer_text": "The vehicle may pull out in front of you — watch its wheels for movement and be ready to stop", "is_correct": true, "display_order": 1},
-      {"id": "hp-029-b", "question_id": "hp-029", "answer_text": "The vehicle must wait for you to pass; no action is needed", "is_correct": false, "display_order": 2},
-      {"id": "hp-029-c", "question_id": "hp-029", "answer_text": "Flash your lights to give them permission to pull out", "is_correct": false, "display_order": 3},
-      {"id": "hp-029-d", "question_id": "hp-029", "answer_text": "Speed up to pass the junction quickly", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-029-a",
+        "question_id": "hp-029",
+        "answer_text": "The vehicle may pull out in front of you — watch its wheels for movement and be ready to stop",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-029-b",
+        "question_id": "hp-029",
+        "answer_text": "The vehicle must wait for you to pass; no action is needed",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-029-c",
+        "question_id": "hp-029",
+        "answer_text": "Flash your lights to give them permission to pull out",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-029-d",
+        "question_id": "hp-029",
+        "answer_text": "Speed up to pass the junction quickly",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -555,208 +1538,582 @@
     "question_text": "What is the hazard when driving close behind a large vehicle such as a truck or bus?",
     "explanation": "Following a large vehicle too closely severely restricts your forward visibility. You cannot see traffic conditions, signals, or hazards ahead. Additionally, if the large vehicle stops suddenly, you have very little time and space to react.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["following_distance", "heavy_vehicles", "visibility"],
+    "tags": [
+      "following_distance",
+      "heavy_vehicles",
+      "visibility"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "hp-030-a", "question_id": "hp-030", "answer_text": "Your forward visibility is severely restricted and you have less time to react to hazards", "is_correct": true, "display_order": 1},
-      {"id": "hp-030-b", "question_id": "hp-030", "answer_text": "The large vehicle protects you from wind, so it is safe to follow closely", "is_correct": false, "display_order": 2},
-      {"id": "hp-030-c", "question_id": "hp-030", "answer_text": "The only risk is that the truck may spray dirt onto your windshield", "is_correct": false, "display_order": 3},
-      {"id": "hp-030-d", "question_id": "hp-030", "answer_text": "Following closely helps you save fuel by drafting", "is_correct": false, "display_order": 4}
+      {
+        "id": "hp-030-a",
+        "question_id": "hp-030",
+        "answer_text": "Your forward visibility is severely restricted and you have less time to react to hazards",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hp-030-b",
+        "question_id": "hp-030",
+        "answer_text": "The large vehicle protects you from wind, so it is safe to follow closely",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hp-030-c",
+        "question_id": "hp-030",
+        "answer_text": "The only risk is that the truck may spray dirt onto your windshield",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hp-030-d",
+        "question_id": "hp-030",
+        "answer_text": "Following closely helps you save fuel by drafting",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-001",
-    "question_text": "According to EDCAD, what is the most common cause of crossroad accidents?",
+    "question_text": "What is the most common cause of crossroad accidents?",
     "explanation": "EDCAD Lesson 5 identifies the main causes of crossroad accidents as: ignoring rules, failing to notice signs, and driving too fast through intersections. Proper observation and following traffic signals are essential to prevent these collisions.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["crossroad_accidents", "intersection_hazards", "edcad"],
+    "tags": [
+      "crossroad_accidents",
+      "intersection_hazards",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-001-a", "question_id": "ed-hp-001", "answer_text": "Ignoring rules, failing to notice signs, and driving too fast", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-001-b", "question_id": "ed-hp-001", "answer_text": "Poor road surface conditions only", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-001-c", "question_id": "ed-hp-001", "answer_text": "Mechanical failures at intersections", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-001-d", "question_id": "ed-hp-001", "answer_text": "Bad weather conditions at crossroads", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-001-a",
+        "question_id": "ed-hp-001",
+        "answer_text": "Ignoring rules, failing to notice signs, and driving too fast",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-001-b",
+        "question_id": "ed-hp-001",
+        "answer_text": "Poor road surface conditions only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-001-c",
+        "question_id": "ed-hp-001",
+        "answer_text": "Mechanical failures at intersections",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-001-d",
+        "question_id": "ed-hp-001",
+        "answer_text": "Bad weather conditions at crossroads",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-002",
-    "question_text": "According to EDCAD, what are the main causes of overtaking accidents?",
+    "question_text": "What are the main causes of overtaking accidents?",
     "explanation": "EDCAD Lesson 5 states that overtaking accidents are mainly caused by a restricted view of oncoming traffic and misjudging the speed or distance of approaching vehicles. Always ensure you have a clear view before overtaking.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["overtaking_accidents", "restricted_view", "edcad"],
+    "tags": [
+      "overtaking_accidents",
+      "restricted_view",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-002-a", "question_id": "ed-hp-002", "answer_text": "Restricted view and misjudging speed or distance of approaching vehicles", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-002-b", "question_id": "ed-hp-002", "answer_text": "Using the indicator while overtaking", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-002-c", "question_id": "ed-hp-002", "answer_text": "Overtaking only on straight roads", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-002-d", "question_id": "ed-hp-002", "answer_text": "The vehicle being overtaken accelerating", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-002-a",
+        "question_id": "ed-hp-002",
+        "answer_text": "Restricted view and misjudging speed or distance of approaching vehicles",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-002-b",
+        "question_id": "ed-hp-002",
+        "answer_text": "Using the indicator while overtaking",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-002-c",
+        "question_id": "ed-hp-002",
+        "answer_text": "Overtaking only on straight roads",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-002-d",
+        "question_id": "ed-hp-002",
+        "answer_text": "The vehicle being overtaken accelerating",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-003",
-    "question_text": "According to EDCAD, what are the main causes of pedestrian accidents?",
+    "question_text": "What are the main causes of pedestrian accidents?",
     "explanation": "EDCAD Lesson 5 identifies the causes of pedestrian accidents as: not noticing the pedestrian, blind spots obstructing view, driving too fast, and not scanning the road ahead properly. Active scanning is essential near pedestrian areas.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["pedestrian_accidents", "scanning", "edcad"],
+    "tags": [
+      "pedestrian_accidents",
+      "scanning",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-003-a", "question_id": "ed-hp-003", "answer_text": "Not noticing pedestrians, blind spots, driving too fast, and not scanning", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-003-b", "question_id": "ed-hp-003", "answer_text": "Pedestrians always have right of way so accidents are their fault", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-003-c", "question_id": "ed-hp-003", "answer_text": "Only poor lighting conditions", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-003-d", "question_id": "ed-hp-003", "answer_text": "Pedestrians jaywalking is the only cause", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-003-a",
+        "question_id": "ed-hp-003",
+        "answer_text": "Not noticing pedestrians, blind spots, driving too fast, and not scanning",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-003-b",
+        "question_id": "ed-hp-003",
+        "answer_text": "Pedestrians always have right of way so accidents are their fault",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-003-c",
+        "question_id": "ed-hp-003",
+        "answer_text": "Only poor lighting conditions",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-003-d",
+        "question_id": "ed-hp-003",
+        "answer_text": "Pedestrians jaywalking is the only cause",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-004",
-    "question_text": "According to EDCAD, what is 'speed blindness'?",
+    "question_text": "What is 'speed blindness'?",
     "explanation": "EDCAD Lesson 3 describes speed blindness as the tendency to underestimate your speed after driving at high speed for a long period. Drivers should check their speedometer regularly to avoid this dangerous phenomenon.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["speed_blindness", "speed_awareness", "edcad"],
+    "tags": [
+      "speed_blindness",
+      "speed_awareness",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-004-a", "question_id": "ed-hp-004", "answer_text": "The tendency to underestimate your speed after driving fast for a long period", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-004-b", "question_id": "ed-hp-004", "answer_text": "Not being able to see speed limit signs at night", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-004-c", "question_id": "ed-hp-004", "answer_text": "Being unable to read the speedometer while driving", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-004-d", "question_id": "ed-hp-004", "answer_text": "A medical condition that affects vision at high speed", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-004-a",
+        "question_id": "ed-hp-004",
+        "answer_text": "The tendency to underestimate your speed after driving fast for a long period",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-004-b",
+        "question_id": "ed-hp-004",
+        "answer_text": "Not being able to see speed limit signs at night",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-004-c",
+        "question_id": "ed-hp-004",
+        "answer_text": "Being unable to read the speedometer while driving",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-004-d",
+        "question_id": "ed-hp-004",
+        "answer_text": "A medical condition that affects vision at high speed",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-005",
-    "question_text": "According to EDCAD, what is 'tunnel vision' and when does it occur?",
+    "question_text": "What is 'tunnel vision' and when does it occur?",
     "explanation": "EDCAD Lesson 3 describes tunnel vision as a narrowing of the visual field that occurs at high speeds. As speed increases, the driver's peripheral vision decreases, reducing the ability to see hazards to the sides of the road.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tunnel_vision", "high_speed", "edcad"],
+    "tags": [
+      "tunnel_vision",
+      "high_speed",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-005-a", "question_id": "ed-hp-005", "answer_text": "A narrowing of peripheral vision that occurs at high speeds", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-005-b", "question_id": "ed-hp-005", "answer_text": "Difficulty seeing in dark tunnels", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-005-c", "question_id": "ed-hp-005", "answer_text": "A condition that only affects long-distance truck drivers", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-005-d", "question_id": "ed-hp-005", "answer_text": "Blurred vision caused by fatigue", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-005-a",
+        "question_id": "ed-hp-005",
+        "answer_text": "A narrowing of peripheral vision that occurs at high speeds",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-005-b",
+        "question_id": "ed-hp-005",
+        "answer_text": "Difficulty seeing in dark tunnels",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-005-c",
+        "question_id": "ed-hp-005",
+        "answer_text": "A condition that only affects long-distance truck drivers",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-005-d",
+        "question_id": "ed-hp-005",
+        "answer_text": "Blurred vision caused by fatigue",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-006",
-    "question_text": "According to EDCAD, how should you combat speed blindness?",
+    "question_text": "How should you combat speed blindness?",
     "explanation": "EDCAD Lesson 3 recommends checking your speedometer regularly to combat speed blindness. After driving at high speed for extended periods, drivers tend to underestimate how fast they are going, making regular speedometer checks essential.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["speed_blindness", "speedometer", "edcad"],
+    "tags": [
+      "speed_blindness",
+      "speedometer",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-006-a", "question_id": "ed-hp-006", "answer_text": "Check your speedometer regularly", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-006-b", "question_id": "ed-hp-006", "answer_text": "Drive faster to sharpen your senses", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-006-c", "question_id": "ed-hp-006", "answer_text": "Follow the vehicle in front to gauge your speed", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-006-d", "question_id": "ed-hp-006", "answer_text": "Open the windows to feel the wind speed", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-006-a",
+        "question_id": "ed-hp-006",
+        "answer_text": "Check your speedometer regularly",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-006-b",
+        "question_id": "ed-hp-006",
+        "answer_text": "Drive faster to sharpen your senses",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-006-c",
+        "question_id": "ed-hp-006",
+        "answer_text": "Follow the vehicle in front to gauge your speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-006-d",
+        "question_id": "ed-hp-006",
+        "answer_text": "Open the windows to feel the wind speed",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-007",
-    "question_text": "According to EDCAD, why are single vehicle accidents considered the most serious?",
+    "question_text": "Why are single vehicle accidents considered the most serious?",
     "explanation": "EDCAD Lesson 5 states that single vehicle accidents result in the most serious injuries and the driver is always responsible. These occur when a vehicle leaves the road or hits a fixed object, often at high speed.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["single_vehicle_accidents", "serious_injuries", "edcad"],
+    "tags": [
+      "single_vehicle_accidents",
+      "serious_injuries",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-007-a", "question_id": "ed-hp-007", "answer_text": "They cause the most serious injuries and the driver is always responsible", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-007-b", "question_id": "ed-hp-007", "answer_text": "They always involve pedestrians", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-007-c", "question_id": "ed-hp-007", "answer_text": "They only happen on highways", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-007-d", "question_id": "ed-hp-007", "answer_text": "Insurance does not cover single vehicle accidents", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-007-a",
+        "question_id": "ed-hp-007",
+        "answer_text": "They cause the most serious injuries and the driver is always responsible",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-007-b",
+        "question_id": "ed-hp-007",
+        "answer_text": "They always involve pedestrians",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-007-c",
+        "question_id": "ed-hp-007",
+        "answer_text": "They only happen on highways",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-007-d",
+        "question_id": "ed-hp-007",
+        "answer_text": "Insurance does not cover single vehicle accidents",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-008",
-    "question_text": "According to EDCAD, why is it important to scan the road continuously for pedestrians?",
+    "question_text": "Why is it important to scan the road continuously for pedestrians?",
     "explanation": "EDCAD Lesson 5 emphasizes that pedestrian accidents occur due to not noticing pedestrians, blind spots, driving too fast, and failing to scan. Continuous scanning helps drivers detect pedestrians early and react in time.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["scanning", "pedestrian_safety", "edcad"],
+    "tags": [
+      "scanning",
+      "pedestrian_safety",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-008-a", "question_id": "ed-hp-008", "answer_text": "To detect pedestrians early and react in time, especially in blind spot areas", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-008-b", "question_id": "ed-hp-008", "answer_text": "Scanning is only necessary at marked crossings", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-008-c", "question_id": "ed-hp-008", "answer_text": "Pedestrians are always visible well in advance", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-008-d", "question_id": "ed-hp-008", "answer_text": "It is only important when driving in residential areas", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-008-a",
+        "question_id": "ed-hp-008",
+        "answer_text": "To detect pedestrians early and react in time, especially in blind spot areas",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-008-b",
+        "question_id": "ed-hp-008",
+        "answer_text": "Scanning is only necessary at marked crossings",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-008-c",
+        "question_id": "ed-hp-008",
+        "answer_text": "Pedestrians are always visible well in advance",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-008-d",
+        "question_id": "ed-hp-008",
+        "answer_text": "It is only important when driving in residential areas",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-009",
-    "question_text": "According to EDCAD, what hazard do camels and animals on UAE roads present?",
+    "question_text": "What hazard do camels and animals on UAE roads present?",
     "explanation": "EDCAD Lesson 5 identifies camels and animals on roads as a UAE-specific hazard. Camels are large, difficult to see at night (especially on unlit desert roads), and a collision can be fatal due to their size and weight.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["camels", "animal_hazards", "edcad"],
+    "tags": [
+      "camels",
+      "animal_hazards",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-009-a", "question_id": "ed-hp-009", "answer_text": "They are difficult to see at night, and collisions can be fatal due to their size", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-009-b", "question_id": "ed-hp-009", "answer_text": "Camels only cross roads during daytime", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-009-c", "question_id": "ed-hp-009", "answer_text": "Animals on roads are only found in rural farming areas", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-009-d", "question_id": "ed-hp-009", "answer_text": "They present no real danger to modern vehicles", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-009-a",
+        "question_id": "ed-hp-009",
+        "answer_text": "They are difficult to see at night, and collisions can be fatal due to their size",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-009-b",
+        "question_id": "ed-hp-009",
+        "answer_text": "Camels only cross roads during daytime",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-009-c",
+        "question_id": "ed-hp-009",
+        "answer_text": "Animals on roads are only found in rural farming areas",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-009-d",
+        "question_id": "ed-hp-009",
+        "answer_text": "They present no real danger to modern vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
     "id": "ed-hp-010",
-    "question_text": "According to EDCAD, at night, what should you be aware of regarding your ability to judge speed and distance?",
+    "question_text": "At night, what should you be aware of regarding your ability to judge speed and distance?",
     "explanation": "EDCAD Lesson 4 states that at night, humans cannot see as far and it is easy to misjudge speed and distances. Reduced visibility makes it harder to judge how fast other vehicles are approaching or how far away objects are.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["night_driving", "speed_distance_judgment", "edcad"],
+    "tags": [
+      "night_driving",
+      "speed_distance_judgment",
+      "edcad"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "ed-hp-010-a", "question_id": "ed-hp-010", "answer_text": "It is easy to misjudge speed and distances because you cannot see as far", "is_correct": true, "display_order": 1},
-      {"id": "ed-hp-010-b", "question_id": "ed-hp-010", "answer_text": "Night driving improves depth perception due to headlights", "is_correct": false, "display_order": 2},
-      {"id": "ed-hp-010-c", "question_id": "ed-hp-010", "answer_text": "Speed and distance judgment is the same day or night", "is_correct": false, "display_order": 3},
-      {"id": "ed-hp-010-d", "question_id": "ed-hp-010", "answer_text": "Only older drivers have trouble judging distance at night", "is_correct": false, "display_order": 4}
+      {
+        "id": "ed-hp-010-a",
+        "question_id": "ed-hp-010",
+        "answer_text": "It is easy to misjudge speed and distances because you cannot see as far",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "ed-hp-010-b",
+        "question_id": "ed-hp-010",
+        "answer_text": "Night driving improves depth perception due to headlights",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "ed-hp-010-c",
+        "question_id": "ed-hp-010",
+        "answer_text": "Speed and distance judgment is the same day or night",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "ed-hp-010-d",
+        "question_id": "ed-hp-010",
+        "answer_text": "Only older drivers have trouble judging distance at night",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   }
 ]

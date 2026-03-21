@@ -7,7 +7,9 @@ import { QuestionCard } from '@/components/quiz/QuestionCard'
 import { NeoButton } from '@/components/ui/NeoButton'
 import { ProgressBar } from '@/components/ui/ProgressBar'
 import { useQuiz } from '@/hooks/useQuiz'
+import { useProgress } from '@/context/ProgressContext'
 import type { Question } from '@/types/quiz'
+import { buildWrongCountMap, buildSeenSet, selectWeightedQuestions } from '@/lib/questions/selectWeightedQuestions'
 
 // Import all question data
 import roadSignsData from '@/data/questions/road-signs.json'
@@ -46,6 +48,7 @@ export default function QuizPage() {
   const router = useRouter()
   const vehicleType = params.vehicleType as string
   const moduleSlug = params.moduleSlug as string
+  const { getModuleHistory } = useProgress()
   const {
     state,
     currentQuestion,
@@ -59,11 +62,15 @@ export default function QuizPage() {
   useEffect(() => {
     const moduleInfo = MODULE_DATA[moduleSlug]
     if (moduleInfo) {
-      // Filter by vehicle type and shuffle
+      // Filter by vehicle type
       const filtered = moduleInfo.questions.filter(
         (q) => q.vehicle_types.includes(vehicleType) || q.vehicle_types.includes('B')
       )
-      const shuffled = [...filtered].sort(() => Math.random() - 0.5).slice(0, 30)
+      // Weighted selection: prioritize previously-wrong and unseen questions
+      const sessions = getModuleHistory(moduleSlug).filter(s => s.vehicleType === vehicleType)
+      const wrongCounts = buildWrongCountMap(sessions)
+      const seenIds = buildSeenSet(sessions)
+      const shuffled = selectWeightedQuestions(filtered, wrongCounts, seenIds, 30)
       // Shuffle answer order within each question
       const withShuffledAnswers = shuffled.map((q) => ({
         ...q,

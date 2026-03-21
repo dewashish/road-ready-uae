@@ -38,6 +38,12 @@ export function QuestionCard({
             Question {questionNumber} of {totalQuestions}
           </span>
           <div className="flex-1" />
+          {question.is_edcad_style && (
+            <span className="inline-flex items-center gap-1 bg-tertiary/10 px-2 py-0.5 font-label text-[10px] font-bold text-tertiary uppercase tracking-wider">
+              <span className="material-symbols-outlined" style={{ fontSize: 12 }}>verified</span>
+              EDCAD
+            </span>
+          )}
           <span className="font-label text-xs text-outline uppercase tracking-wider">
             {question.module.replace('_', ' ')}
           </span>
