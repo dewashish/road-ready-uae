@@ -68,7 +68,7 @@ export default function HomePage() {
             <div className="flex-1 h-0.5 bg-surface-container-highest" />
           </div>
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-            {VEHICLE_CATEGORIES.map((category) => {
+            {VEHICLE_CATEGORIES.map((category, idx) => {
               const completed = getVehicleProgress(category.type)
               return (
                 <CategoryCard
@@ -76,6 +76,7 @@ export default function HomePage() {
                   category={category}
                   completedModules={completed}
                   status={completed >= 7 ? 'completed' : completed > 0 ? 'active' : 'new'}
+                  index={idx}
                 />
               )
             })}

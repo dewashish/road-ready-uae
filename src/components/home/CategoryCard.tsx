@@ -9,39 +9,38 @@ interface CategoryCardProps {
   totalModules?: number
   completedModules?: number
   status?: 'new' | 'active' | 'completed'
+  index?: number
 }
 
 /*
  * NeoPOP / CRED style — light from upper-left, hard shadow offset bottom-right.
  *
- * Color alternation:
- *   NEW       → yellow progress bar, cyan shadow on CTA
- *   ACTIVE    → cyan progress bar,   yellow shadow on CTA
- *   COMPLETED → yellow progress bar, yellow shadow on CTA
+ * Alternation by card index:
+ *   Even index (0, 2, 4…) → yellow button shadow + cyan progress bar
+ *   Odd  index (1, 3, 5…) → cyan button shadow   + yellow progress bar
+ *
+ * Exception — COMPLETED: everything yellow (button shadow + progress bar).
  */
 
-const statusStyles = {
-  new: {
-    badge: 'bg-surface-container-highest text-on-surface',
-    badgeLabel: 'NEW',
-    progressColor: 'secondary' as const,
-    buttonShadow: '4px 4px 0px 0px #81ecff',   // cyan
-    cta: 'Start Module',
-  },
-  active: {
-    badge: 'bg-tertiary text-on-tertiary',
-    badgeLabel: 'ACTIVE',
-    progressColor: 'tertiary' as const,
-    buttonShadow: '4px 4px 0px 0px #f5ce53',   // yellow
-    cta: 'Continue',
-  },
-  completed: {
-    badge: 'bg-secondary text-on-secondary',
-    badgeLabel: 'COMPLETED',
-    progressColor: 'secondary' as const,
-    buttonShadow: '4px 4px 0px 0px #f5ce53',   // yellow
-    cta: 'Review',
-  },
+const SHADOW_YELLOW = '4px 4px 0px 0px #f5ce53'
+const SHADOW_CYAN = '4px 4px 0px 0px #81ecff'
+
+const badgeStyles = {
+  new: 'bg-surface-container-highest text-on-surface',
+  active: 'bg-tertiary text-on-tertiary',
+  completed: 'bg-secondary text-on-secondary',
+}
+
+const badgeLabels = {
+  new: 'NEW',
+  active: 'ACTIVE',
+  completed: 'COMPLETED',
+}
+
+const ctaLabels = {
+  new: 'Start Module',
+  active: 'Continue',
+  completed: 'Review',
 }
 
 export function CategoryCard({
@@ -49,9 +48,22 @@ export function CategoryCard({
   totalModules = 7,
   completedModules = 0,
   status = 'new',
+  index = 0,
 }: CategoryCardProps) {
   const percent = Math.round((completedModules / totalModules) * 100)
-  const styles = statusStyles[status]
+
+  // Completed → all yellow
+  // Otherwise alternate: even index = yellow shadow + cyan bar, odd = cyan shadow + yellow bar
+  const isCompleted = status === 'completed'
+  const isEven = index % 2 === 0
+
+  const buttonShadow = isCompleted
+    ? SHADOW_YELLOW
+    : isEven ? SHADOW_YELLOW : SHADOW_CYAN
+
+  const progressColor: 'secondary' | 'tertiary' = isCompleted
+    ? 'secondary'
+    : isEven ? 'tertiary' : 'secondary'
 
   return (
     <Link href={`/quiz/${category.type}`}>
@@ -71,8 +83,8 @@ export function CategoryCard({
               {category.icon}
             </span>
           </div>
-          <span className={`inline-block px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${styles.badge}`}>
-            {styles.badgeLabel}
+          <span className={`inline-block px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${badgeStyles[status]}`}>
+            {badgeLabels[status]}
           </span>
         </div>
 
@@ -86,13 +98,13 @@ export function CategoryCard({
           {category.description}
         </p>
 
-        {/* Progress bar — alternating color */}
+        {/* Progress bar — color alternates opposite to button shadow */}
         <div className="mb-5">
           <div className="flex items-center gap-3">
             <ProgressBar
               value={completedModules}
               max={totalModules}
-              color={styles.progressColor}
+              color={progressColor}
               size="md"
               className="flex-1"
             />
@@ -105,9 +117,9 @@ export function CategoryCard({
         {/* CTA — NeoPOP raised button: colored hard shadow offset to bottom-right */}
         <div
           className="neo-push bg-primary text-surface-container-lowest border-2 border-surface-container-lowest font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none"
-          style={{ boxShadow: styles.buttonShadow }}
+          style={{ boxShadow: buttonShadow }}
         >
-          {styles.cta}
+          {ctaLabels[status]}
         </div>
       </NeoCard>
     </Link>
