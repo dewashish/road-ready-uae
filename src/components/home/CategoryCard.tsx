@@ -14,7 +14,6 @@ interface CategoryCardProps {
 
 export function CategoryCard({
   category,
-  progress = 0,
   totalModules = 7,
   completedModules = 0,
   status = 'new',
@@ -25,15 +24,18 @@ export function CategoryCard({
     completed: { variant: 'success' as const, label: 'Complete' },
   }
 
+  const percent = Math.round((completedModules / totalModules) * 100)
+
   return (
     <Link href={`/quiz/${category.type}`}>
       <NeoCard
         level={2}
         shadow="default"
-        className="neo-hover cursor-pointer group"
+        className="neo-hover cursor-pointer group h-full"
       >
-        <div className="flex items-start gap-4">
-          <div className="flex-shrink-0 w-14 h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center group-hover:bg-secondary/10 transition-colors">
+        {/* Top row: icon + badge */}
+        <div className="flex items-start justify-between mb-4">
+          <div className="w-14 h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center group-hover:bg-secondary/10 transition-colors">
             <span
               className="material-symbols-outlined text-secondary"
               style={{ fontSize: 28 }}
@@ -41,33 +43,38 @@ export function CategoryCard({
               {category.icon}
             </span>
           </div>
-          <div className="flex-1 min-w-0">
-            <div className="flex items-center justify-between gap-2 mb-1">
-              <h3 className="font-headline text-base font-bold text-primary truncate">
-                {category.name}
-              </h3>
-              <Badge variant={statusBadge[status].variant}>
-                {statusBadge[status].label}
-              </Badge>
-            </div>
-            <p className="text-sm text-on-surface-variant mb-3">
-              {category.description}
-            </p>
-            <ProgressBar
-              value={completedModules}
-              max={totalModules}
-              color="tertiary"
-              size="sm"
-            />
-            <div className="flex items-center justify-between mt-2">
-              <span className="font-label text-xs text-on-surface-variant uppercase tracking-wider">
-                {completedModules}/{totalModules} Modules
-              </span>
-              <span className="font-label text-xs text-outline">
-                Min age: {category.minAge}
-              </span>
-            </div>
-          </div>
+          <Badge variant={statusBadge[status].variant}>
+            {statusBadge[status].label}
+          </Badge>
+        </div>
+
+        {/* Title */}
+        <h3 className="font-headline text-lg font-bold text-primary uppercase tracking-wider mb-1">
+          {category.name}
+        </h3>
+
+        {/* Description */}
+        <p className="text-sm text-on-surface-variant mb-4">
+          {category.description}
+        </p>
+
+        {/* Progress */}
+        <div className="flex items-center gap-3 mb-4">
+          <ProgressBar
+            value={completedModules}
+            max={totalModules}
+            color={status === 'completed' ? 'success' : 'secondary'}
+            size="sm"
+            className="flex-1"
+          />
+          <span className="font-label text-xs text-on-surface-variant font-bold whitespace-nowrap">
+            {percent}%
+          </span>
+        </div>
+
+        {/* CTA Button */}
+        <div className="neo-push bg-primary text-on-primary-container border-2 border-surface-container-lowest neo-shadow font-headline font-bold px-6 py-3 text-center uppercase tracking-wider text-sm">
+          {status === 'completed' ? 'Review' : status === 'active' ? 'Continue' : 'Start Module'}
         </div>
       </NeoCard>
     </Link>
