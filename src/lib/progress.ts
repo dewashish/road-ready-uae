@@ -147,6 +147,84 @@ export function recordModuleCompletion(
   return progress
 }
 
+/**
+ * Rebuild progress entirely from quiz session history.
+ * This ensures progress stays in sync across devices when history is cloud-synced.
+ */
+export function rebuildProgressFromHistory(
+  sessions: { moduleSlug: string; vehicleType: string; score: number; total: number; xpEarned: number; completedAt: string }[]
+): UserProgress {
+  const progress: UserProgress = {
+    totalXp: 0,
+    currentStreak: 0,
+    longestStreak: 0,
+    lastActiveDate: null,
+    modules: {},
+    dailyChallenge: { date: '', completed: 0, target: 10 },
+  }
+
+  // Sort sessions oldest-first so streak computation is chronological
+  const sorted = [...sessions].sort(
+    (a, b) => new Date(a.completedAt).getTime() - new Date(b.completedAt).getTime()
+  )
+
+  for (const session of sorted) {
+    const key = `${session.vehicleType}:${session.moduleSlug}`
+    const existing = progress.modules[key] ?? {
+      completionCount: 0,
+      bestScore: 0,
+      bestPercent: 0,
+      lastCompletedAt: null,
+      totalQuestionsAnswered: 0,
+      totalCorrect: 0,
+    }
+
+    const percent = Math.round((session.score / session.total) * 100)
+
+    progress.modules[key] = {
+      completionCount: existing.completionCount + 1,
+      bestScore: Math.max(existing.bestScore, session.score),
+      bestPercent: Math.max(existing.bestPercent, percent),
+      lastCompletedAt: session.completedAt,
+      totalQuestionsAnswered: existing.totalQuestionsAnswered + session.total,
+      totalCorrect: existing.totalCorrect + session.score,
+    }
+
+    progress.totalXp += session.xpEarned
+
+    // Update streak
+    const day = session.completedAt.split('T')[0]
+    if (progress.lastActiveDate !== day) {
+      const prevDate = progress.lastActiveDate
+      if (prevDate) {
+        const prev = new Date(prevDate).getTime()
+        const curr = new Date(day).getTime()
+        const diffDays = Math.round((curr - prev) / 86400000)
+        if (diffDays === 1) {
+          progress.currentStreak += 1
+        } else {
+          progress.currentStreak = 1
+        }
+      } else {
+        progress.currentStreak = 1
+      }
+      progress.longestStreak = Math.max(progress.longestStreak, progress.currentStreak)
+      progress.lastActiveDate = day
+    }
+  }
+
+  // Daily challenge for today
+  const today = new Date().toISOString().split('T')[0]
+  const todaySessions = sorted.filter((s) => s.completedAt.startsWith(today))
+  progress.dailyChallenge = {
+    date: today,
+    completed: todaySessions.reduce((sum, s) => sum + s.total, 0),
+    target: 10,
+  }
+
+  return progress
+}
+
 export function getTotalStats(progress: UserProgress) {
   const modules = Object.values(progress.modules)
   const totalCompleted = modules.reduce((sum, m) => sum + m.completionCount, 0)

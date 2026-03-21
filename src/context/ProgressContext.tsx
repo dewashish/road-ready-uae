@@ -3,7 +3,9 @@
 import { createContext, useContext, useState, useEffect, useCallback, type ReactNode } from 'react'
 import {
   getProgress,
+  saveProgress,
   recordModuleCompletion,
+  rebuildProgressFromHistory,
   DEFAULT_PROGRESS,
   type UserProgress,
 } from '@/lib/progress'
@@ -101,6 +103,11 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
       const merged = mergeHistories(local, cloud)
       saveStoredHistory(merged)
       setMergedHistory(merged)
+
+      // Rebuild progress stats from the merged history so they're consistent across devices
+      const rebuilt = rebuildProgressFromHistory(merged)
+      saveProgress(rebuilt)
+      setProgress(rebuilt)
     }
 
     syncOnLogin()
