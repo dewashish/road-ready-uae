@@ -1,13 +1,26 @@
+'use client'
+
+import { useEffect, useState } from 'react'
 import { Header } from '@/components/layout/Header'
 import { BottomNav } from '@/components/layout/BottomNav'
 import { CategoryCard } from '@/components/home/CategoryCard'
 import { NeoCard } from '@/components/ui/NeoCard'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
+import { getProgress, type UserProgress } from '@/lib/progress'
 
 export default function HomePage() {
+  const [progress, setProgress] = useState<UserProgress | null>(null)
+
+  useEffect(() => {
+    setProgress(getProgress())
+  }, [])
+
+  const dailyDone = progress?.dailyChallenge?.completed ?? 0
+  const dailyTarget = progress?.dailyChallenge?.target ?? 10
+
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
-      <Header />
+      <Header xp={progress?.totalXp} streak={progress?.currentStreak} />
       <main className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
         {/* Hero Section */}
         <div className="mb-10">
@@ -15,7 +28,7 @@ export default function HomePage() {
             Theory <span className="text-secondary">Mastery</span>
           </h2>
           <p className="text-on-surface-variant text-base sm:text-lg max-w-xl">
-            Master the UAE driving theory test with 500+ practice questions,
+            Master the UAE driving theory test with 390+ practice questions,
             smart learning paths, and mock exams.
           </p>
         </div>
@@ -26,7 +39,7 @@ export default function HomePage() {
             <span className="material-symbols-outlined text-secondary mb-1" style={{ fontSize: 24 }}>
               quiz
             </span>
-            <p className="font-headline text-xl font-bold text-primary">500+</p>
+            <p className="font-headline text-xl font-bold text-primary">390+</p>
             <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">
               Questions
             </p>
@@ -79,11 +92,11 @@ export default function HomePage() {
                 Daily Challenge
               </h4>
               <p className="text-sm text-on-surface-variant">
-                Answer 10 questions today to maintain your streak
+                Answer {dailyTarget} questions today to maintain your streak
               </p>
             </div>
             <div className="font-headline text-2xl font-bold text-secondary">
-              0/10
+              {Math.min(dailyDone, dailyTarget)}/{dailyTarget}
             </div>
           </div>
         </NeoCard>

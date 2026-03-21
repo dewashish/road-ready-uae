@@ -4,9 +4,11 @@ interface HeaderProps {
   showBack?: boolean
   backHref?: string
   title?: string
+  xp?: number
+  streak?: number
 }
 
-export function Header({ showBack, backHref = '/', title }: HeaderProps) {
+export function Header({ showBack, backHref = '/', title, xp, streak }: HeaderProps) {
   return (
     <header className="sticky top-0 z-50 bg-surface/80 backdrop-blur-xl border-b-2 border-surface-container-lowest">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 flex items-center gap-4">
@@ -43,13 +45,13 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
             <span className="material-symbols-outlined text-secondary" style={{ fontSize: 18 }}>
               local_fire_department
             </span>
-            <span className="font-label text-xs font-bold text-secondary">0</span>
+            <span className="font-label text-xs font-bold text-secondary">{streak ?? 0}</span>
           </div>
           <div className="hidden sm:flex items-center gap-2 bg-surface-container px-3 py-1.5 border-2 border-surface-container-lowest">
             <span className="material-symbols-outlined text-tertiary" style={{ fontSize: 18 }}>
               star
             </span>
-            <span className="font-label text-xs font-bold text-tertiary">0 XP</span>
+            <span className="font-label text-xs font-bold text-tertiary">{xp ?? 0} XP</span>
           </div>
         </div>
       </div>

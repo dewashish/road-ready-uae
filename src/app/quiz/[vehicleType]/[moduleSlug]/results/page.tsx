@@ -1,5 +1,6 @@
 'use client'
 
+import { useEffect, useState } from 'react'
 import { useParams, useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import { Header } from '@/components/layout/Header'
@@ -7,6 +8,17 @@ import { NeoCard } from '@/components/ui/NeoCard'
 import { NeoButton } from '@/components/ui/NeoButton'
 import { Badge } from '@/components/ui/Badge'
 import { ProgressBar } from '@/components/ui/ProgressBar'
+import { recordModuleCompletion, getModuleProgress } from '@/lib/progress'
+
+const MODULE_XP: Record<string, number> = {
+  'road-signs': 100,
+  'traffic-rules': 100,
+  'hazard-perception': 120,
+  'driving-conditions': 80,
+  'critical-situations': 120,
+  'driving-behavior': 80,
+  'vehicle-maintenance': 60,
+}
 
 export default function ResultsPage() {
   const params = useParams()
@@ -18,6 +30,20 @@ export default function ResultsPage() {
   const total = parseInt(searchParams.get('total') ?? '30', 10)
   const percent = Math.round((score / total) * 100)
   const passed = percent >= 71
+
+  const baseXp = MODULE_XP[moduleSlug] ?? 80
+  const xpEarned = Math.round((score / total) * baseXp)
+
+  const [saved, setSaved] = useState(false)
+  const [completionCount, setCompletionCount] = useState(0)
+
+  useEffect(() => {
+    if (!saved) {
+      const updated = recordModuleCompletion(moduleSlug, score, total, xpEarned)
+      setCompletionCount(updated.modules[moduleSlug]?.completionCount ?? 1)
+      setSaved(true)
+    }
+  }, [saved, moduleSlug, score, total, xpEarned])
 
   return (
     <div className="min-h-dvh bg-background">
@@ -55,63 +81,57 @@ export default function ResultsPage() {
           <p className="mt-3 text-sm text-on-surface-variant">
             {passed
               ? 'Great job! You passed this module.'
-              : `You need 71% to pass. Keep practicing!`}
+              : 'You need 71% to pass. Keep practicing!'}
           </p>
         </NeoCard>
 
         {/* Stats Grid */}
         <div className="grid grid-cols-3 gap-3 mb-6">
           <NeoCard level={1} shadow="none" className="text-center !p-4">
-            <span className="material-symbols-outlined text-tertiary mb-1" style={{ fontSize: 24 }}>
-              timer
+            <span className="material-symbols-outlined text-secondary mb-1" style={{ fontSize: 24 }}>
+              star
             </span>
-            <p className="font-headline text-lg font-bold text-primary">--</p>
+            <p className="font-headline text-lg font-bold text-primary">+{xpEarned}</p>
             <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">
-              Time
+              XP Earned
             </p>
           </NeoCard>
           <NeoCard level={1} shadow="none" className="text-center !p-4">
-            <span className="material-symbols-outlined text-secondary mb-1" style={{ fontSize: 24 }}>
-              local_fire_department
+            <span className="material-symbols-outlined text-tertiary mb-1" style={{ fontSize: 24 }}>
+              replay
             </span>
-            <p className="font-headline text-lg font-bold text-primary">{score}</p>
+            <p className="font-headline text-lg font-bold text-primary">{completionCount}</p>
             <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">
-              Best Streak
+              Times Done
             </p>
           </NeoCard>
           <NeoCard level={1} shadow="none" className="text-center !p-4">
             <span className="material-symbols-outlined text-success mb-1" style={{ fontSize: 24 }}>
-              star
+              verified
             </span>
-            <p className="font-headline text-lg font-bold text-primary">+{score * 10}</p>
+            <p className="font-headline text-lg font-bold text-primary">
+              {passed ? 'Yes' : 'No'}
+            </p>
             <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">
-              XP Earned
+              Passed
             </p>
           </NeoCard>
         </div>
 
         {/* Action Buttons */}
         <div className="space-y-3">
-          {passed && (
-            <Link href={`/quiz/${vehicleType}`}>
-              <NeoButton variant="secondary" size="lg" icon="arrow_forward" fullWidth>
-                Next Module
-              </NeoButton>
-            </Link>
-          )}
           <Link href={`/quiz/${vehicleType}/${moduleSlug}`}>
             <NeoButton
-              variant={passed ? 'ghost' : 'primary'}
+              variant={passed ? 'tertiary' : 'primary'}
               size="lg"
               icon="replay"
               fullWidth
-              className="mt-3"
             >
-              {passed ? 'Retake Quiz' : 'Try Again'}
+              {passed ? 'Practice Again' : 'Try Again'}
             </NeoButton>
           </Link>
           <Link href={`/quiz/${vehicleType}`}>
-            <NeoButton variant="ghost" size="lg" icon="home" fullWidth className="mt-3">
+            <NeoButton variant="ghost" size="lg" icon="arrow_back" fullWidth className="mt-3">
               Back to Modules
             </NeoButton>
           </Link>

@@ -361,6 +361,224 @@ the speed blindness keep on checking the speedometer.
 - While driving inside cities you won't be able to drive in a constant speed, but being outside cities as there are no obstacles to affect your vehicle speed, you mostly drive in a constant speed. As you drive on, you get used to the high speed and, at times, you may drive faster unwittingly, or when you need to slow down you apply the brake, the speed seems to be reduced enough, but when you look at the speed meter it shows a higher speed than what you imagined. These conditions are known as speed blindness.
 - To avoid speed blindness, the driver should keep on checking the speed meter.
 
+### Part 02 (Slide 2 of 3)
+
+**Tunnel vision**
+
+Tunnel vision causes the visual field to 'narrow' with increasing speed.
+
+To avoid:
+
+- Adapt your speed.
+- Keep shifting your vision.
+- Scan all parts of the road ahead.
+
+By focusing at one spot for more than few minutes, the central visual field starts to get narrow and you see the things in a small portion, it is known as tunnel vision
+
+The faster you drive, the farther on the road you will have to focus in order to react on time, which eventually causes tunnel vision.
+
+To avoid tunnel vision adapt a safe speed and keep on shifting your gaze for checking the surroundings.
+
+**Road markings**
+
+Road markings are used to:
+
+- clarify the rules.
+- Warn of dangers.
+- Divide the road into lanes.
+- Signal some sort of prohibitions.
+
+Separate a motor vehicle lane from cycle track or pedestrian way.
+
+- This is very important for the drivers to know about the Road Markings and their meaning.
+- A solid continuous line stands for prohibition.
+
+**How to deal with bends?**
+
+Bends could be single, double or series of bends. The traffic signs warn you well in advance of the bends ahead.
+
+While dealing with the bends, the centrifugal force may throw your car out of the bend, so always reduce your speed before approaching the bends.
+
+**How to deal with bends?**
+
+- The driver should judge the sharpness of the bends and adjust the speed and position accordingly.
+- The correct speed would depend on sharpness of the bend and other traffic.
+- The secret of dealing with a bend is to make sure the speed is appropriate before approaching the bend.
+- Too much acceleration can cause the vehicles to skid or lose their grip.
+- In two way traffic if the bend is towards left, the position of the vehicle has to be towards right.
+- In two way traffic if the bend is towards right, the position of the vehicle has to be in the center of the lane.
+
+**Three second rule**
+
+- To avoid hitting vehicle from behind the driver needs to have sufficient time to react and avoid the collision.
+- Three second distance is sufficient for this purpose.
+- In order to follow three seconds rule, pick any object on the road-side as a reference point, let the leading car gets parallel to the selected object. From that moment, count as "one thousand one, one thousand two and one thousand three". If your car has not passed the selected object before you finish counting, you have safe distance, if your car has passed it before completing the counting, you need to increase the distance.
+- It is an easy way to maintain safe distance from the vehicle in front of you on a main road.
+
+**Road works**
+
+At construction sites, be careful of heavy equipment and workers
+
+Be considerate to Road Workers
+
+**Steps of changing lanes**
+
+- Plan ahead.
+- Adapt your speed.
+- Scan the road.
+- check the mirrors.
+- Check the blind spot.
+- Use indicators.
+- move into other lane smoothly.
+
+While changing lane toward right side or left side according to your plan, you have to:
+
+- **Adjust the** speed by deceleration or acceleration according to the situation.
+- Scan the environment carefully.
+- Check the area you could not see in the mirrors **(Blind spot), by shoulder checking**
+- Indicate well **in** time.
+- Move smoothly to next lanes (Never jump in other lanes).
+
+**Overtaking**
+
+**Check the road**
+
+**Mirrors (center & side)**
+
+**(Check the blind spot then turn on indicator)**
+
+**(Check the road again)**
+
+**(Start overtaking)**
+
+**(Get back to the right lane when you see the overtaken car in the center view mirror)**
+
+While overtaking another vehicle you have to scan as you **do** for lane changing as follows:
+
+- Check the center view mirror.
+- Check the side mirror.
+- Look over your shoulder.
+- Turn on **left** indicator.
+- Check again the center view mirror and then start moving to the left lane smoothly.
+- Once you have overtaken a vehicle you have to get back to your right lane as the overtaken vehicle appears in your center view mirror.
+
+Remember: overtaking is only allowed from left side.
+
+### Part 03 (Slide 3 of 3)
+
+**Estimating the meeting point when overtaking**
+
+Point to consider while overtaking:
+
+- The distance between you and the oncoming vehicle.
+- The speed of the oncoming vehicle.
+- The distance required to overtake the vehicle ahead of you.
+- The point **where** you will meet the oncoming vehicle.
+- Whether you will be able to overtake the vehicle ahead in good time before meeting the oncoming vehicle.
+
+**Overtaking distance**
+
+Things to consider before overtaking:
+
+- Hidden dangers.
+- Speed differences.
+- Power of the engine.
+- Overtaking distance.
+- Traffic environment and state of the road.
+- Never overtake a heavy vehicle being too close, as your view will be blocked ahead.
+- Reduce your speed to increase the gap between you and the heavy vehicle ahead.
+- Move gradually towards the center line, if there is no bend and no any oncoming vehicle ahead, then you may start overtaking.
+
+**Overtaking rules on the main road**
+
+Do not overtake if:
+
+- The lane you intend to overtake is blocked.
+- A vehicle ahead signals a left-hand turn.
+- A vehicle behind begins to overtake.
+
+A general rule for not overtaking is that if you have doubt DO NOT overtake
+
+**Using lay-bys, stopping & parking**
+
+If you want to stop use lay-bys or parking places.
+
+- Stop and park at the **properly** indicated places such as parking areas, lay-bys or any rest area.
+- Parking on a Primary Road outside Built up Areas is prohibited.
+- While moving out from **lay-bys or parking,** scan well and indicate.
+
+**Driving on a motorway**
+
+**Do not:**
+
+- Drive less than 60 km/h.
+- Stop.
+- Park.
+- Walk or use a bicycle.
+- Reverse.
+- Turn around.
+
+The Minimum speed **on highways** is 60 km/h.
+
+**Driving on a motorway**
+
+**Joining a motorway**
+
+- Adjust your speed.
+- Give way.
+- Join in a suitable gap.
+- Avoid stopping at the end of the slip road.
+
+The Minimum speed **on motorways** is 60 km/h.
+
+While joining a motorway from a slip road consider the following:
+
+- Adapt your speed according to motorway road users.
+- Avoid stopping at the end of the slip road.
+- Give way to the vehicles on motorway.
+- Do not cut sharp to join the motorway.
+
+**Driving on a motorway**
+
+**Lane discipline**
+
+- To drive straight ahead keep into the right-hand lane.
+- The left-hand lane should be used only for overtaking.
+- Don't change lanes unnecessarily.
+- Keep your vehicle steady in the center of the lane.
+- Do not drive in the extreme left lane for a long time.
+- Maintain lane discipline.
+- Be aware of relative speeds of vehicles around you.
+- On a two or three lane road drive in the right most lane.
+- Watch out for other drivers changing lanes.
+
+**Leaving a motorway**
+
+- Move to the right lane.
+- Use indicators.
+- Check mirrors and adapt your speed.
+- Take the correct position and lane in time.
+- Watch your speed while exiting because there may be a sharp turn.
+- Use the slip road to slow down your speed.
+
+**Skidding**
+
+Exit roads sometimes curve sharply and are quiet short, so watch your speed
+
+If you are involved in skidding.
+
+- Release the accelerator.
+- Release the break.
+- Steer your car to the same direction of the skid.
+- Let the wheels rotate on the road, as it regain some of their grip back.
+
+**Dirt road driving and off-road driving**
+
+- While driving off roads 4 wheels drive should be used.
+- Drive slowly and never overtake when it is dusty.
+
+**you should attend one of the designated courses to help you on your way.**
+
 ---
 
 ## LESSON 4 - DRIVING UNDER DIFFICULT CONDITIONS
