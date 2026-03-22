@@ -52,6 +52,46 @@ export const MOCK_EXAMS: MockExamDef[] = [
       'driving-conditions': 6, 'critical-situations': 6, 'driving-behavior': 5, 'vehicle-maintenance': 4,
     },
   },
+  {
+    id: '5',
+    title: 'Mock Test 5',
+    subtitle: 'Heavy on penalties, fines & black points',
+    icon: 'gavel',
+    distribution: {
+      'road-signs': 6, 'traffic-rules': 13, 'hazard-perception': 7,
+      'driving-conditions': 5, 'critical-situations': 5, 'driving-behavior': 6, 'vehicle-maintenance': 3,
+    },
+  },
+  {
+    id: '6',
+    title: 'Mock Test 6',
+    subtitle: 'Focus on driving conditions & vehicle knowledge',
+    icon: 'directions_car',
+    distribution: {
+      'road-signs': 7, 'traffic-rules': 7, 'hazard-perception': 7,
+      'driving-conditions': 8, 'critical-situations': 6, 'driving-behavior': 5, 'vehicle-maintenance': 5,
+    },
+  },
+  {
+    id: '7',
+    title: 'Mock Test 7',
+    subtitle: 'Scenario-heavy — hazards & safe driving',
+    icon: 'shield',
+    distribution: {
+      'road-signs': 6, 'traffic-rules': 8, 'hazard-perception': 10,
+      'driving-conditions': 5, 'critical-situations': 6, 'driving-behavior': 7, 'vehicle-maintenance': 3,
+    },
+  },
+  {
+    id: '8',
+    title: 'Mock Test 8',
+    subtitle: 'Comprehensive — even spread across all topics',
+    icon: 'school',
+    distribution: {
+      'road-signs': 7, 'traffic-rules': 8, 'hazard-perception': 7,
+      'driving-conditions': 6, 'critical-situations': 6, 'driving-behavior': 6, 'vehicle-maintenance': 5,
+    },
+  },
 ]
 
 export const MOCK_EXAM_TIME_LIMIT = 30 * 60 // 30 minutes in seconds

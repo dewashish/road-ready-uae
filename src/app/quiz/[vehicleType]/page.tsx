@@ -10,6 +10,7 @@ import { ProgressBar } from '@/components/ui/ProgressBar'
 import { useProgress } from '@/context/ProgressContext'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
 import { getModuleSeenStats } from '@/lib/questions/modulePools'
+import { MOCK_EXAMS } from '@/lib/questions/mockExamConfig'
 
 const MODULES = [
   { slug: 'road-signs', title: 'Traffic Signs', description: 'Learn regulatory, warning, and informational signs', icon: 'signpost', questionCount: 30, xp: 100 },
@@ -34,8 +35,8 @@ export default function ModulePathPage() {
     (m) => (progress.modules[`${vehicleType}:${m.slug}`]?.completionCount ?? 0) > 0
   )
 
-  const mockAttempts = [1,2,3,4].reduce((sum, id) => sum + (progress.modules[`${vehicleType}:mock-exam-${id}`]?.completionCount ?? 0), 0)
-  const mockBest = Math.max(0, ...[1,2,3,4].map(id => progress.modules[`${vehicleType}:mock-exam-${id}`]?.bestPercent ?? 0))
+  const mockAttempts = MOCK_EXAMS.reduce((sum, e) => sum + (progress.modules[`${vehicleType}:mock-exam-${e.id}`]?.completionCount ?? 0), 0)
+  const mockBest = Math.max(0, ...MOCK_EXAMS.map(e => progress.modules[`${vehicleType}:mock-exam-${e.id}`]?.bestPercent ?? 0))
 
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
@@ -160,7 +161,7 @@ export default function ModulePathPage() {
                         )}
                       </div>
                       <p className="text-sm text-on-surface-variant">
-                        4 tests · 45 questions · 30 minutes each
+                        8 tests · 45 questions · 30 minutes each
                       </p>
                       {mockAttempts > 0 && (
                         <div className="flex items-center gap-3 mt-2">
@@ -194,7 +195,7 @@ export default function ModulePathPage() {
                       </Badge>
                     </div>
                     <p className="text-sm text-outline">
-                      45 questions, 30 minutes - complete all modules first
+                      8 tests, 45 questions, 30 minutes each - complete all modules first
                     </p>
                   </div>
                 </div>
