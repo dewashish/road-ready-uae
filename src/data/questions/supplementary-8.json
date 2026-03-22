@@ -1,0 +1,952 @@
+[
+  {
+    "id": "sup8-001",
+    "question_text": "Which vehicles are allowed to park in EV charging bays in the UAE?",
+    "explanation": "Only fully electric vehicles with green number plates may use EV charging bays. Hybrid vehicles (including plug-in hybrids) must use regular parking spaces.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ev", "charging", "green_plate", "parking"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-001-a", "question_id": "sup8-001", "answer_text": "Only fully electric vehicles with green plates", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-001-b", "question_id": "sup8-001", "answer_text": "Any hybrid or electric vehicle", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-001-c", "question_id": "sup8-001", "answer_text": "Any vehicle, as long as charging equipment is available", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-001-d", "question_id": "sup8-001", "answer_text": "Only Tesla vehicles registered in Dubai", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-002",
+    "question_text": "Can a plug-in hybrid vehicle park in an EV charging bay?",
+    "explanation": "No. Only fully electric vehicles (green plates) may use EV charging bays. Plug-in hybrids are not classified as fully electric and must park in regular spaces.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ev", "hybrid", "charging", "parking"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-002-a", "question_id": "sup8-002", "answer_text": "No, only fully electric vehicles may use EV charging bays", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-002-b", "question_id": "sup8-002", "answer_text": "Yes, plug-in hybrids are considered electric vehicles", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-002-c", "question_id": "sup8-002", "answer_text": "Yes, but only while actively charging", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-002-d", "question_id": "sup8-002", "answer_text": "Yes, if they display a green sticker", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-003",
+    "question_text": "What happens if you leave your electric vehicle parked at a charging station after it has finished charging?",
+    "explanation": "Leaving your EV at a charging station after charging is complete can result in a fine. The charging bay must be vacated so other EVs can charge.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ev", "charging", "fine", "parking"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-003-a", "question_id": "sup8-003", "answer_text": "You may be fined for occupying the bay after charging is complete", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-003-b", "question_id": "sup8-003", "answer_text": "Nothing, you are an EV owner so you can park there as long as needed", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-003-c", "question_id": "sup8-003", "answer_text": "You only need to move if someone asks you to", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-003-d", "question_id": "sup8-003", "answer_text": "You have a 24-hour grace period after charging completes", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-004",
+    "question_text": "What penalty can a non-electric vehicle receive for parking in an EV charging bay?",
+    "explanation": "Non-electric vehicles occupying EV charging bays can receive a fine. These bays are reserved exclusively for fully electric vehicles that need to charge.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ev", "charging", "fine", "parking"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-004-a", "question_id": "sup8-004", "answer_text": "A fine for illegally occupying an EV charging bay", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-004-b", "question_id": "sup8-004", "answer_text": "No penalty, the spots are advisory only", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-004-c", "question_id": "sup8-004", "answer_text": "A verbal warning from parking attendants", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-004-d", "question_id": "sup8-004", "answer_text": "Only a penalty if you stay more than 2 hours", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-005",
+    "question_text": "What identifies a fully electric vehicle in the UAE?",
+    "explanation": "Fully electric vehicles in the UAE are identified by green number plates. This distinguishes them from regular and hybrid vehicles for purposes like EV charging bay access and EV-only lanes.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ev", "green_plate", "identification"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-005-a", "question_id": "sup8-005", "answer_text": "Green number plates", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-005-b", "question_id": "sup8-005", "answer_text": "Blue number plates", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-005-c", "question_id": "sup8-005", "answer_text": "A special sticker on the windshield", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-005-d", "question_id": "sup8-005", "answer_text": "White number plates with a green border", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-006",
+    "question_text": "What are EV-only lanes introduced in the UAE in 2025?",
+    "explanation": "EV-only lanes are dedicated lanes on certain roads that can only be used by fully electric vehicles (green plates). They aim to encourage electric vehicle adoption.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ev", "lanes", "2025_rules"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-006-a", "question_id": "sup8-006", "answer_text": "Lanes reserved exclusively for fully electric vehicles", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-006-b", "question_id": "sup8-006", "answer_text": "Lanes where electric vehicles get priority but all vehicles can use them", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-006-c", "question_id": "sup8-006", "answer_text": "Lanes with built-in wireless charging for EVs", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-006-d", "question_id": "sup8-006", "answer_text": "High-speed lanes available to hybrids and electric vehicles", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-007",
+    "question_text": "Can a standard hybrid vehicle (non-plug-in) use EV-only lanes or EV charging bays?",
+    "explanation": "No. Standard hybrids are not fully electric vehicles. Only vehicles with green number plates (fully electric) may use EV-only lanes and EV charging bays.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ev", "hybrid", "lanes", "charging"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-007-a", "question_id": "sup8-007", "answer_text": "No, these are reserved for fully electric vehicles only", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-007-b", "question_id": "sup8-007", "answer_text": "Yes, hybrids qualify as electric vehicles", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-007-c", "question_id": "sup8-007", "answer_text": "Only during off-peak hours", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-007-d", "question_id": "sup8-007", "answer_text": "Yes, but only in Dubai emirate", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-008",
+    "question_text": "What colour number plate identifies an electric vehicle that can use EV charging bays?",
+    "explanation": "Green number plates are issued to fully electric vehicles in the UAE. Only vehicles with green plates may use EV charging bays and EV-only lanes.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ev", "green_plate", "charging"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-008-a", "question_id": "sup8-008", "answer_text": "Green", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-008-b", "question_id": "sup8-008", "answer_text": "Blue", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-008-c", "question_id": "sup8-008", "answer_text": "White", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-008-d", "question_id": "sup8-008", "answer_text": "Yellow", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-009",
+    "question_text": "On a two-lane roundabout, which lane should you use if you are taking the first exit (turning right)?",
+    "explanation": "On a two-lane roundabout, use the right (outer) lane if taking the first exit. The left (inner) lane is for going further around, such as the 3rd or 4th exit.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabout", "lane_discipline", "two_lane"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-009-a", "question_id": "sup8-009", "answer_text": "The right (outer) lane", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-009-b", "question_id": "sup8-009", "answer_text": "The left (inner) lane", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-009-c", "question_id": "sup8-009", "answer_text": "Either lane is acceptable", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-009-d", "question_id": "sup8-009", "answer_text": "You must stop and wait for the roundabout to clear first", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-010",
+    "question_text": "On a two-lane roundabout, which lane should you use if you are taking the third or fourth exit?",
+    "explanation": "For the 3rd or 4th exit on a two-lane roundabout, use the left (inner) lane. Signal right before your exit and move to the outer lane to exit safely.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabout", "lane_discipline", "two_lane"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-010-a", "question_id": "sup8-010", "answer_text": "The left (inner) lane", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-010-b", "question_id": "sup8-010", "answer_text": "The right (outer) lane", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-010-c", "question_id": "sup8-010", "answer_text": "Either lane, as long as you signal", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-010-d", "question_id": "sup8-010", "answer_text": "The middle lane", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-011",
+    "question_text": "Is it permitted to change lanes while inside a roundabout?",
+    "explanation": "You should never change lanes while inside a roundabout. Choose the correct lane before entering. Changing lanes inside a roundabout is dangerous and can cause collisions.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabout", "lane_change", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-011-a", "question_id": "sup8-011", "answer_text": "No, you must choose your lane before entering", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-011-b", "question_id": "sup8-011", "answer_text": "Yes, if you signal first", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-011-c", "question_id": "sup8-011", "answer_text": "Yes, as long as there is no traffic", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-011-d", "question_id": "sup8-011", "answer_text": "Yes, but only to move to the outer lane", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-012",
+    "question_text": "When should you signal right while navigating a roundabout?",
+    "explanation": "You must signal right before every exit on a roundabout to alert other drivers that you are about to leave. This applies regardless of which exit you are taking.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabout", "signalling", "exit"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-012-a", "question_id": "sup8-012", "answer_text": "Before every exit you intend to take", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-012-b", "question_id": "sup8-012", "answer_text": "Only when taking the first exit", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-012-c", "question_id": "sup8-012", "answer_text": "Signalling is not required on roundabouts", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-012-d", "question_id": "sup8-012", "answer_text": "Only when other vehicles are nearby", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-013",
+    "question_text": "Under the 2025 UAE rule, when must you stop for pedestrians at a roundabout exit?",
+    "explanation": "Under the 2025 rule, drivers must stop for pedestrians who are waiting to cross at roundabout exits, not just those already crossing. Failing to yield carries penalties.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabout", "pedestrian", "2025_rules", "yield"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-013-a", "question_id": "sup8-013", "answer_text": "When pedestrians are waiting to cross, not just those already crossing", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-013-b", "question_id": "sup8-013", "answer_text": "Only when pedestrians have already stepped onto the road", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-013-c", "question_id": "sup8-013", "answer_text": "Only at marked zebra crossings near roundabouts", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-013-d", "question_id": "sup8-013", "answer_text": "Only during school hours", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-014",
+    "question_text": "On a three-lane roundabout, which lane should you use for the first exit?",
+    "explanation": "On a three-lane roundabout, use the right (outermost) lane for the first exit. The middle lane is for the second exit, and the left (innermost) lane is for exits further around.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabout", "lane_discipline", "three_lane"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-014-a", "question_id": "sup8-014", "answer_text": "The right (outermost) lane", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-014-b", "question_id": "sup8-014", "answer_text": "The middle lane", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-014-c", "question_id": "sup8-014", "answer_text": "The left (innermost) lane", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-014-d", "question_id": "sup8-014", "answer_text": "Any lane, roundabouts have no lane rules", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-015",
+    "question_text": "On a two-lane roundabout, which lane should you use for the second exit (going straight)?",
+    "explanation": "For the second exit (straight ahead) on a two-lane roundabout, you may use either lane. However, if using the left lane, you must signal right and check mirrors before exiting.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabout", "lane_discipline", "two_lane"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-015-a", "question_id": "sup8-015", "answer_text": "Either lane, but signal right before exiting", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-015-b", "question_id": "sup8-015", "answer_text": "Only the left lane", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-015-c", "question_id": "sup8-015", "answer_text": "Only the right lane", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-015-d", "question_id": "sup8-015", "answer_text": "You do not need to signal for the second exit", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-016",
+    "question_text": "A driver entering a roundabout sees a vehicle already inside the roundabout approaching from the left. What should the entering driver do?",
+    "explanation": "Vehicles already inside the roundabout have right of way. You must give way to traffic approaching from your left (already in the roundabout) before entering.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabout", "right_of_way", "yield"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-016-a", "question_id": "sup8-016", "answer_text": "Give way and wait for the vehicle to pass before entering", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-016-b", "question_id": "sup8-016", "answer_text": "Enter quickly before the vehicle reaches you", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-016-c", "question_id": "sup8-016", "answer_text": "Flash headlights to signal your intention to enter", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-016-d", "question_id": "sup8-016", "answer_text": "Sound the horn to warn the other driver", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-017",
+    "question_text": "What is the required following distance behind an emergency vehicle with lights and sirens on a highway?",
+    "explanation": "On highways, you must maintain at least 500 metres behind an emergency vehicle with active lights and sirens. Following too closely can result in AED 3,000 fine and 6 black points.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["emergency_vehicle", "following_distance", "highway"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-017-a", "question_id": "sup8-017", "answer_text": "500 metres", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-017-b", "question_id": "sup8-017", "answer_text": "50 metres", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-017-c", "question_id": "sup8-017", "answer_text": "100 metres", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-017-d", "question_id": "sup8-017", "answer_text": "200 metres", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-018",
+    "question_text": "What is the required following distance behind an emergency vehicle in urban areas?",
+    "explanation": "In urban areas, you must maintain at least 100 metres behind an emergency vehicle with active lights and sirens. On highways, this increases to 500 metres.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["emergency_vehicle", "following_distance", "urban"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-018-a", "question_id": "sup8-018", "answer_text": "100 metres", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-018-b", "question_id": "sup8-018", "answer_text": "50 metres", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-018-c", "question_id": "sup8-018", "answer_text": "500 metres", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-018-d", "question_id": "sup8-018", "answer_text": "200 metres", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-019",
+    "question_text": "What is the penalty for tailgating an ambulance with active lights and sirens?",
+    "explanation": "Tailgating an ambulance (or any emergency vehicle) with active lights and sirens carries a fine of AED 3,000 and 6 black points. This is a serious offense that can obstruct emergency response.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["emergency_vehicle", "tailgating", "fine", "black_points"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-019-a", "question_id": "sup8-019", "answer_text": "AED 3,000 + 6 black points", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-019-b", "question_id": "sup8-019", "answer_text": "AED 500 + 2 black points", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-019-c", "question_id": "sup8-019", "answer_text": "AED 1,000 + 4 black points", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-019-d", "question_id": "sup8-019", "answer_text": "AED 400 with no black points", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-020",
+    "question_text": "An emergency vehicle with sirens and lights is approaching from behind on a highway. What should you do?",
+    "explanation": "When an emergency vehicle approaches with active lights and sirens, you must immediately move to the right lane or shoulder to clear a path, and maintain at least 500 metres distance on highways.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["emergency_vehicle", "yield", "highway"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-020-a", "question_id": "sup8-020", "answer_text": "Move to the right immediately and keep at least 500m distance", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-020-b", "question_id": "sup8-020", "answer_text": "Slow down and continue in your lane", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-020-c", "question_id": "sup8-020", "answer_text": "Follow the emergency vehicle to get through traffic faster", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-020-d", "question_id": "sup8-020", "answer_text": "Stop immediately wherever you are", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-021",
+    "question_text": "You have been following an ambulance at 50 metres on a highway. Is this acceptable?",
+    "explanation": "No. On highways, you must maintain at least 500 metres behind an emergency vehicle with active lights and sirens. 50 metres is far too close and is considered tailgating.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["emergency_vehicle", "following_distance", "highway", "trap_question"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-021-a", "question_id": "sup8-021", "answer_text": "No, you must keep at least 500 metres distance on a highway", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-021-b", "question_id": "sup8-021", "answer_text": "Yes, 50 metres is the standard following distance", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-021-c", "question_id": "sup8-021", "answer_text": "Yes, as long as you don't overtake", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-021-d", "question_id": "sup8-021", "answer_text": "No, you must keep at least 100 metres distance", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-022",
+    "question_text": "Can a driver remove black points from their licence in Dubai?",
+    "explanation": "Yes. Drivers can remove up to 8 black points by completing approved training programs offered by Dubai Police. This is voluntary and helps avoid reaching the suspension threshold.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["black_points", "removal", "training", "dubai_police"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-022-a", "question_id": "sup8-022", "answer_text": "Yes, up to 8 points can be removed through Dubai Police training programs", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-022-b", "question_id": "sup8-022", "answer_text": "No, black points cannot be removed once added", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-022-c", "question_id": "sup8-022", "answer_text": "Yes, all points are automatically removed after 1 year", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-022-d", "question_id": "sup8-022", "answer_text": "Yes, by paying a fee to the traffic department", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-023",
+    "question_text": "What happens when a driver reaches 24 black points for the first time?",
+    "explanation": "Upon reaching 24 black points for the first time, the driver's licence is suspended for 3 months. A second offense leads to 6 months, and a third to 1 year with mandatory retraining.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["black_points", "suspension", "first_offense"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-023-a", "question_id": "sup8-023", "answer_text": "Licence suspended for 3 months", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-023-b", "question_id": "sup8-023", "answer_text": "Licence suspended for 6 months", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-023-c", "question_id": "sup8-023", "answer_text": "Licence suspended for 1 year", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-023-d", "question_id": "sup8-023", "answer_text": "Licence cancelled permanently", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-024",
+    "question_text": "What happens on the second time a driver accumulates 24 black points?",
+    "explanation": "On the second accumulation of 24 black points, the licence is suspended for 6 months. The first time is 3 months and the third time is 1 year with mandatory retraining and retesting.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["black_points", "suspension", "second_offense"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-024-a", "question_id": "sup8-024", "answer_text": "Licence suspended for 6 months", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-024-b", "question_id": "sup8-024", "answer_text": "Licence suspended for 3 months", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-024-c", "question_id": "sup8-024", "answer_text": "Licence suspended for 1 year", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-024-d", "question_id": "sup8-024", "answer_text": "A warning letter is issued", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-025",
+    "question_text": "What happens on the third time a driver reaches 24 black points?",
+    "explanation": "On the third accumulation of 24 black points, the licence is suspended for 1 year. The driver must also complete mandatory retraining and pass a new driving test before reinstatement.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["black_points", "suspension", "third_offense", "retraining"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-025-a", "question_id": "sup8-025", "answer_text": "Licence suspended for 1 year + mandatory retraining and retesting", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-025-b", "question_id": "sup8-025", "answer_text": "Licence suspended for 6 months", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-025-c", "question_id": "sup8-025", "answer_text": "Licence cancelled permanently", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-025-d", "question_id": "sup8-025", "answer_text": "Licence suspended for 3 months with a fine", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-026",
+    "question_text": "How many black points can be removed through voluntary Dubai Police training programs?",
+    "explanation": "Dubai Police training programs allow drivers to remove up to 8 black points from their record. This is a voluntary program designed to promote safer driving.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["black_points", "removal", "training"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-026-a", "question_id": "sup8-026", "answer_text": "Up to 8 points", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-026-b", "question_id": "sup8-026", "answer_text": "Up to 4 points", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-026-c", "question_id": "sup8-026", "answer_text": "Up to 12 points", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-026-d", "question_id": "sup8-026", "answer_text": "All points can be removed", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-027",
+    "question_text": "What is the penalty for driving too slowly on a UAE road?",
+    "explanation": "Driving too slowly can obstruct traffic flow and is penalized with AED 400 and 4 black points. Drivers should maintain an appropriate speed for the road conditions.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fines", "slow_driving", "black_points"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-027-a", "question_id": "sup8-027", "answer_text": "AED 400 + 4 black points", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-027-b", "question_id": "sup8-027", "answer_text": "AED 200 + 2 black points", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-027-c", "question_id": "sup8-027", "answer_text": "No penalty, slow driving is always safe", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-027-d", "question_id": "sup8-027", "answer_text": "AED 1,000 + 6 black points", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-028",
+    "question_text": "What is the penalty for sudden lane swerving in the UAE?",
+    "explanation": "Sudden lane swerving (abruptly changing lanes without warning) carries a fine of AED 1,000 and 4 black points. This dangerous behaviour can cause serious accidents.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fines", "lane_swerving", "black_points"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-028-a", "question_id": "sup8-028", "answer_text": "AED 1,000 + 4 black points", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-028-b", "question_id": "sup8-028", "answer_text": "AED 400 + 2 black points", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-028-c", "question_id": "sup8-028", "answer_text": "AED 500 + 4 black points", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-028-d", "question_id": "sup8-028", "answer_text": "AED 200 with no black points", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-029",
+    "question_text": "What is the penalty for driving against the flow of traffic in the UAE?",
+    "explanation": "Driving against the flow of traffic (wrong way) carries a fine of AED 600 and 4 black points. This is extremely dangerous and can cause head-on collisions.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fines", "wrong_way", "black_points"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-029-a", "question_id": "sup8-029", "answer_text": "AED 600 + 4 black points", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-029-b", "question_id": "sup8-029", "answer_text": "AED 400 + 2 black points", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-029-c", "question_id": "sup8-029", "answer_text": "AED 1,000 + 6 black points", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-029-d", "question_id": "sup8-029", "answer_text": "AED 3,000 + 12 black points", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-030",
+    "question_text": "What is the penalty for riding a motorcycle without a helmet in the UAE?",
+    "explanation": "Riding a motorcycle without a helmet carries a fine of AED 500 and 4 black points. Helmets are mandatory for both riders and passengers on motorcycles.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fines", "motorcycle", "helmet", "black_points"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-030-a", "question_id": "sup8-030", "answer_text": "AED 500 + 4 black points", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-030-b", "question_id": "sup8-030", "answer_text": "AED 200 + 2 black points", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-030-c", "question_id": "sup8-030", "answer_text": "AED 1,000 + 6 black points", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-030-d", "question_id": "sup8-030", "answer_text": "AED 400 with no black points", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-031",
+    "question_text": "What penalties can a driver face for drunk driving in the UAE?",
+    "explanation": "Drunk driving in the UAE carries severe penalties: a fine of AED 20,000 or more, 23 black points, 60-day vehicle impoundment, and possible imprisonment. The UAE has zero tolerance for alcohol-impaired driving.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fines", "drunk_driving", "black_points", "impoundment"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-031-a", "question_id": "sup8-031", "answer_text": "AED 20,000+ fine, 23 black points, 60-day impound, and possible jail", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-031-b", "question_id": "sup8-031", "answer_text": "AED 5,000 fine and 12 black points", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-031-c", "question_id": "sup8-031", "answer_text": "AED 3,000 fine and licence suspension only", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-031-d", "question_id": "sup8-031", "answer_text": "AED 10,000 fine with a warning", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-032",
+    "question_text": "What is the penalty for not yielding to a bus re-entering traffic from a bus stop?",
+    "explanation": "Failing to yield to a bus re-entering traffic from a designated bus stop carries a fine of AED 500 and 4 black points. Buses have priority when signalling to rejoin traffic.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["fines", "bus", "yield", "black_points"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-032-a", "question_id": "sup8-032", "answer_text": "AED 500 + 4 black points", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-032-b", "question_id": "sup8-032", "answer_text": "AED 200 + 2 black points", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-032-c", "question_id": "sup8-032", "answer_text": "No penalty, buses must wait for traffic", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-032-d", "question_id": "sup8-032", "answer_text": "AED 1,000 + 6 black points", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-033",
+    "question_text": "A bus at a bus stop is signalling to re-enter traffic. What should you do?",
+    "explanation": "When a bus signals to rejoin traffic from a bus stop, you must yield and allow it to merge. Failing to do so carries AED 500 + 4 black points.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["bus", "yield", "right_of_way"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-033-a", "question_id": "sup8-033", "answer_text": "Slow down and let the bus merge into traffic", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-033-b", "question_id": "sup8-033", "answer_text": "Speed up to pass the bus before it moves", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-033-c", "question_id": "sup8-033", "answer_text": "Honk to let the bus know you are there", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-033-d", "question_id": "sup8-033", "answer_text": "Maintain your speed, the bus must wait for you", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-034",
+    "question_text": "What is the UAE's legal blood alcohol concentration (BAC) limit for driving?",
+    "explanation": "The UAE has a zero-tolerance policy for alcohol and driving. Any detectable blood alcohol level is illegal when operating a vehicle.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["drunk_driving", "alcohol", "zero_tolerance"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-034-a", "question_id": "sup8-034", "answer_text": "Zero — any detectable alcohol is illegal", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-034-b", "question_id": "sup8-034", "answer_text": "0.05% BAC", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-034-c", "question_id": "sup8-034", "answer_text": "0.08% BAC", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-034-d", "question_id": "sup8-034", "answer_text": "0.02% BAC", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-035",
+    "question_text": "When may you overtake a tram in the UAE?",
+    "explanation": "You may only overtake a tram when it is stationary AND the tram driver signals that it is safe to pass. Never overtake a moving tram.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tram", "overtaking", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-035-a", "question_id": "sup8-035", "answer_text": "Only when the tram is stationary and the driver signals it is safe", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-035-b", "question_id": "sup8-035", "answer_text": "Whenever the tram is moving slowly", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-035-c", "question_id": "sup8-035", "answer_text": "At any time, as long as you signal", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-035-d", "question_id": "sup8-035", "answer_text": "Only at designated overtaking zones", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-036",
+    "question_text": "What do solid yellow lines on the road near tram tracks indicate?",
+    "explanation": "Solid yellow lines near tram tracks indicate tram priority lanes. Vehicles must not cross or drive on these lanes — they are reserved for tram use only.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tram", "road_markings", "yellow_lines"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-036-a", "question_id": "sup8-036", "answer_text": "Tram priority lanes — vehicles must not cross or drive on them", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-036-b", "question_id": "sup8-036", "answer_text": "Parking is allowed on either side", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-036-c", "question_id": "sup8-036", "answer_text": "Speed reduction zone ahead", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-036-d", "question_id": "sup8-036", "answer_text": "Shared lane for trams and vehicles", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-037",
+    "question_text": "What should you do when approaching a tram that has stopped to let passengers on or off?",
+    "explanation": "When a tram stops for passengers, you must stop and wait until all passengers have boarded or alighted and the tram doors are closed. Do not attempt to pass.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tram", "passengers", "stop"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-037-a", "question_id": "sup8-037", "answer_text": "Stop and wait until passengers finish and doors close", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-037-b", "question_id": "sup8-037", "answer_text": "Slow down and carefully pass the tram", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-037-c", "question_id": "sup8-037", "answer_text": "Honk to warn passengers and continue", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-037-d", "question_id": "sup8-037", "answer_text": "Change to the opposite lane to overtake", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-038",
+    "question_text": "What is the penalty for not giving way to a tram in the UAE?",
+    "explanation": "Failing to give way to a tram carries a fine of AED 500 and 6 black points. Trams always have priority, and drivers must respect tram signals and road markings.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["tram", "fine", "right_of_way", "black_points"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-038-a", "question_id": "sup8-038", "answer_text": "AED 500 + 6 black points", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-038-b", "question_id": "sup8-038", "answer_text": "AED 200 + 2 black points", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-038-c", "question_id": "sup8-038", "answer_text": "AED 400 + 4 black points", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-038-d", "question_id": "sup8-038", "answer_text": "A verbal warning only", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-039",
+    "question_text": "What is the 3-second rule for following distance?",
+    "explanation": "The 3-second rule means you should maintain at least a 3-second gap between your vehicle and the one ahead at highway speeds. Pick a fixed point: when the car ahead passes it, count 3 seconds before you reach it.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["following_distance", "3_second_rule", "highway"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-039-a", "question_id": "sup8-039", "answer_text": "Keep at least a 3-second time gap behind the vehicle in front", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-039-b", "question_id": "sup8-039", "answer_text": "Wait 3 seconds before changing lanes", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-039-c", "question_id": "sup8-039", "answer_text": "Stop for 3 seconds at every intersection", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-039-d", "question_id": "sup8-039", "answer_text": "Signal for 3 seconds before turning", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-040",
+    "question_text": "How should you adjust the 3-second following distance rule in rain?",
+    "explanation": "In rain, you should double the following distance to at least 6 seconds. Wet roads increase braking distance significantly, so extra space is essential for safety.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["following_distance", "rain", "wet_roads"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-040-a", "question_id": "sup8-040", "answer_text": "Double it to at least 6 seconds", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-040-b", "question_id": "sup8-040", "answer_text": "Keep the same 3-second gap", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-040-c", "question_id": "sup8-040", "answer_text": "Increase to 4 seconds", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-040-d", "question_id": "sup8-040", "answer_text": "Reduce to 2 seconds and drive slower", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-041",
+    "question_text": "How should you adjust your following distance in foggy conditions?",
+    "explanation": "In fog, you should triple the following distance to at least 9 seconds. Visibility is greatly reduced, so you need much more time to react to hazards ahead.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["following_distance", "fog", "visibility"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-041-a", "question_id": "sup8-041", "answer_text": "Triple it to at least 9 seconds", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-041-b", "question_id": "sup8-041", "answer_text": "Double it to 6 seconds", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-041-c", "question_id": "sup8-041", "answer_text": "Keep the same 3-second gap and use fog lights", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-041-d", "question_id": "sup8-041", "answer_text": "Increase to 4 seconds", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-042",
+    "question_text": "When stopped at a traffic light behind another vehicle, how do you know you are at a safe distance?",
+    "explanation": "When stopped behind another vehicle at a traffic light, you should be able to see the rear wheels of the car in front touching the road. This ensures enough space to manoeuvre if needed.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["following_distance", "traffic_light", "stopped", "safe_gap"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-042-a", "question_id": "sup8-042", "answer_text": "You can see the rear wheels of the car ahead touching the road", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-042-b", "question_id": "sup8-042", "answer_text": "Your bumper is almost touching theirs", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-042-c", "question_id": "sup8-042", "answer_text": "You can see their number plate clearly", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-042-d", "question_id": "sup8-042", "answer_text": "You are at least 5 metres behind", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-043",
+    "question_text": "Why should you maintain a safe gap when stopped at traffic lights?",
+    "explanation": "Maintaining a safe gap when stopped allows you to steer around the car ahead if it stalls or if you need to move out of the way of an emergency vehicle. It also reduces the risk of rear-end chain collisions.",
+    "module": "driving_behavior",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["following_distance", "traffic_light", "safety"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-043-a", "question_id": "sup8-043", "answer_text": "To be able to manoeuvre if the car ahead stalls or an emergency vehicle needs to pass", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-043-b", "question_id": "sup8-043", "answer_text": "It is not necessary to leave a gap when stopped", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-043-c", "question_id": "sup8-043", "answer_text": "Only to prevent scratching the car ahead", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-043-d", "question_id": "sup8-043", "answer_text": "To allow motorcycles to pass between cars", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-044",
+    "question_text": "What are AI-based traffic monitoring systems used for in the UAE (2025)?",
+    "explanation": "AI-based traffic monitoring systems introduced in 2025 use cameras and artificial intelligence to detect violations such as lane swerving, tailgating, mobile phone use, and failure to wear seatbelts — even without a physical radar.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ai_monitoring", "2025_rules", "technology"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-044-a", "question_id": "sup8-044", "answer_text": "Detecting violations like tailgating, phone use, and seatbelt non-compliance using AI cameras", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-044-b", "question_id": "sup8-044", "answer_text": "Only monitoring speed limits", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-044-c", "question_id": "sup8-044", "answer_text": "Tracking vehicle GPS locations for taxation purposes", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-044-d", "question_id": "sup8-044", "answer_text": "Automatically issuing parking tickets", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-045",
+    "question_text": "Can AI traffic cameras detect mobile phone use while driving?",
+    "explanation": "Yes. AI-powered traffic cameras in the UAE can detect drivers using mobile phones, even if the phone is held below window level. Fines for phone use while driving are AED 800 + 4 black points.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ai_monitoring", "mobile_phone", "technology"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-045-a", "question_id": "sup8-045", "answer_text": "Yes, AI cameras can detect phone use even below window level", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-045-b", "question_id": "sup8-045", "answer_text": "No, only radar cameras are used in the UAE", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-045-c", "question_id": "sup8-045", "answer_text": "Only if the phone is held up to the ear", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-045-d", "question_id": "sup8-045", "answer_text": "AI cameras only detect speeding and red-light violations", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-046",
+    "question_text": "Do AI traffic monitoring cameras require a visible flash like traditional speed cameras?",
+    "explanation": "No. Unlike traditional radar cameras, AI monitoring systems operate continuously without a visible flash. They use advanced image recognition to detect multiple types of violations simultaneously.",
+    "module": "traffic_rules",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ai_monitoring", "technology", "cameras"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-046-a", "question_id": "sup8-046", "answer_text": "No, they operate without a visible flash and detect multiple violations", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-046-b", "question_id": "sup8-046", "answer_text": "Yes, all traffic cameras must use a flash", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-046-c", "question_id": "sup8-046", "answer_text": "They only work at night with infrared", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-046-d", "question_id": "sup8-046", "answer_text": "They only work at fixed locations marked with signs", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-047",
+    "question_text": "You are driving on a highway and notice the car ahead is braking. The road is dry. Using the 3-second rule, what should you do?",
+    "explanation": "If you are maintaining the 3-second rule gap, you have enough time to react safely. Begin braking gently and maintain your following distance. Do not swerve suddenly.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["following_distance", "braking", "hazard", "highway"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-047-a", "question_id": "sup8-047", "answer_text": "Begin braking gently while maintaining a safe following distance", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-047-b", "question_id": "sup8-047", "answer_text": "Swerve to the next lane immediately", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-047-c", "question_id": "sup8-047", "answer_text": "Flash your headlights to warn the car ahead", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-047-d", "question_id": "sup8-047", "answer_text": "Brake hard and stop as quickly as possible", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-048",
+    "question_text": "You approach a two-lane roundabout and need to make a U-turn (last exit). Which lane should you enter?",
+    "explanation": "For a U-turn (last exit) on a two-lane roundabout, enter using the left (inner) lane. Stay in the inner lane until your exit, then signal right and exit safely.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["roundabout", "u_turn", "lane_discipline"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-048-a", "question_id": "sup8-048", "answer_text": "The left (inner) lane", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-048-b", "question_id": "sup8-048", "answer_text": "The right (outer) lane", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-048-c", "question_id": "sup8-048", "answer_text": "Either lane is acceptable for a U-turn", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-048-d", "question_id": "sup8-048", "answer_text": "U-turns are not allowed at roundabouts", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-049",
+    "question_text": "A road sign shows a green number plate icon with a charging symbol. What does it indicate?",
+    "explanation": "This sign indicates an EV charging station or EV-only parking bay. Only fully electric vehicles with green number plates may use these facilities.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["ev", "sign", "charging", "green_plate"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-049-a", "question_id": "sup8-049", "answer_text": "EV charging station — only for fully electric vehicles", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-049-b", "question_id": "sup8-049", "answer_text": "Parking available for all vehicles", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-049-c", "question_id": "sup8-049", "answer_text": "Electric vehicle sales showroom ahead", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-049-d", "question_id": "sup8-049", "answer_text": "Battery disposal point", "is_correct": false, "display_order": 4 }
+    ]
+  },
+  {
+    "id": "sup8-050",
+    "question_text": "You notice the car ahead suddenly brakes in fog. You are following at a 3-second gap. What should you do?",
+    "explanation": "A 3-second gap is insufficient in fog — you should be at a 9-second gap (triple the normal distance). Brake gently, increase your distance, and turn on fog lights if not already on.",
+    "module": "hazard_perception",
+    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "difficulty": 3,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": ["following_distance", "fog", "hazard", "braking"],
+    "is_edcad_style": true,
+    "answers": [
+      { "id": "sup8-050-a", "question_id": "sup8-050", "answer_text": "Brake gently, increase your gap to 9 seconds, and use fog lights", "is_correct": true, "display_order": 1 },
+      { "id": "sup8-050-b", "question_id": "sup8-050", "answer_text": "Maintain the 3-second gap since it is standard", "is_correct": false, "display_order": 2 },
+      { "id": "sup8-050-c", "question_id": "sup8-050", "answer_text": "Use high beams to see better and maintain speed", "is_correct": false, "display_order": 3 },
+      { "id": "sup8-050-d", "question_id": "sup8-050", "answer_text": "Swerve to the next lane to avoid the car", "is_correct": false, "display_order": 4 }
+    ]
+  }
+]

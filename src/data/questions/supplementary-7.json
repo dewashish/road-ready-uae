@@ -372,7 +372,7 @@
   {
     "id": "sup7-011",
     "question_text": "What is the fine for parking in a disabled parking space without a permit in the UAE?",
-    "explanation": "Illegally parking in a space reserved for people of determination carries a fine of AED 1,000.",
+    "explanation": "Illegally parking in a space reserved for people of determination carries a fine of AED 1,000 and 6 black points.",
     "module": "traffic_rules",
     "vehicle_types": [
       "A",
@@ -395,28 +395,28 @@
       {
         "id": "sup7-011-a",
         "question_id": "sup7-011",
-        "answer_text": "AED 1,000",
+        "answer_text": "AED 1,000 + 6 black points",
         "is_correct": true,
         "display_order": 1
       },
       {
         "id": "sup7-011-b",
         "question_id": "sup7-011",
-        "answer_text": "AED 500",
+        "answer_text": "AED 500 + 4 black points",
         "is_correct": false,
         "display_order": 2
       },
       {
         "id": "sup7-011-c",
         "question_id": "sup7-011",
-        "answer_text": "AED 200",
+        "answer_text": "AED 1,000 with no black points",
         "is_correct": false,
         "display_order": 3
       },
       {
         "id": "sup7-011-d",
         "question_id": "sup7-011",
-        "answer_text": "AED 400",
+        "answer_text": "AED 400 + 2 black points",
         "is_correct": false,
         "display_order": 4
       }
