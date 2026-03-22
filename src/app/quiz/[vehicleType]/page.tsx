@@ -76,10 +76,10 @@ export default function ModulePathPage() {
                   <div className="absolute left-7 -top-4 w-0.5 h-4 bg-surface-container-highest" />
                 )}
                 <Link href={`/quiz/${vehicleType}/${mod.slug}`}>
-                  <NeoCard level={2} shadow="default" className="neo-hover cursor-pointer">
+                  <NeoCard level={2} shadow="default" className="group neo-hover cursor-pointer">
                     <div className="flex items-center gap-4">
-                      <div className="flex-shrink-0 w-14 h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center relative">
-                        <span className="material-symbols-outlined text-secondary" style={{ fontSize: 28 }}>
+                      <div className="flex-shrink-0 w-14 h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center relative transition-colors group-hover:bg-secondary">
+                        <span className="material-symbols-outlined text-secondary transition-colors group-hover:text-surface-container-lowest" style={{ fontSize: 28 }}>
                           {mod.icon}
                         </span>
                         {completions > 0 && (
