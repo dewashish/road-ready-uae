@@ -1,8 +1,11 @@
 'use client'
 
+import { useRef } from 'react'
+import { motion, useInView, useScroll, useTransform } from 'motion/react'
 import { Header } from '@/components/layout/Header'
 import { BottomNav } from '@/components/layout/BottomNav'
 import { CategoryCard } from '@/components/home/CategoryCard'
+import { HeroSection, VintageCar } from '@/components/home/HeroSection'
 import { NeoCard } from '@/components/ui/NeoCard'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
 import { useProgress } from '@/context/ProgressContext'
@@ -30,73 +33,96 @@ export default function HomePage() {
     return completed
   }
 
+  const vehicleSectionRef = useRef<HTMLDivElement>(null)
+  const vehicleInView = useInView(vehicleSectionRef, { once: true, margin: '-50px' })
+
+  // Car drives across the "road" (vehicle section) as it scrolls to the top
+  // "start 80%" = section top is 80% down viewport (just appearing), "start start" = reached top
+  const { scrollYProgress: sectionProgress } = useScroll({
+    target: vehicleSectionRef,
+    offset: ['start 80%', 'start start'],
+  })
+  const carLeft = useTransform(sectionProgress, [0, 1], ['-15%', '110%'])
+
+  const dailyChallengeRef = useRef<HTMLDivElement>(null)
+  const dailyInView = useInView(dailyChallengeRef, { once: true, margin: '-30px' })
+
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
       <Header />
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 py-8">
-        <div className="mb-10">
-          <h2 className="font-headline text-4xl sm:text-5xl font-bold tracking-tight text-primary mb-3">
-            Theory <span className="text-secondary">Mastery</span>
+      <HeroSection />
+      <main className="max-w-7xl mx-auto px-4 sm:px-6">
+        <div id="vehicle-section" className="relative z-30 mb-6 bg-background pt-6 -mt-[96vh]" ref={vehicleSectionRef}>
+          {/* Car driving on the "road" (this section) */}
+          <VintageCar leftPercent={carLeft} />
+
+          {/* App tagline — left-aligned, fills the gap */}
+          <h2 className="font-headline text-lg sm:text-xl font-bold uppercase tracking-wider mb-6">
+            <span style={{ WebkitTextStroke: '1px #f5ce53', color: 'transparent', paintOrder: 'stroke fill' }}>UAE&apos;s #1</span>{' '}
+            <span className="text-primary">Theory Test</span>{' '}
+            <span className="text-secondary">Platform</span>
           </h2>
-          <p className="text-on-surface-variant text-base sm:text-lg max-w-xl">
-            Master the UAE driving theory test with 740+ practice questions,
-            smart learning paths, and mock exams.
-          </p>
-        </div>
 
-        <div className="grid grid-cols-3 gap-3 mb-8">
-          <NeoCard level={1} shadow="none" className="text-center !p-4">
-            <span className="material-symbols-outlined text-secondary mb-1" style={{ fontSize: 24 }}>quiz</span>
-            <p className="font-headline text-xl font-bold text-primary">740+</p>
-            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">Questions</p>
-          </NeoCard>
-          <NeoCard level={1} shadow="none" className="text-center !p-4">
-            <span className="material-symbols-outlined text-tertiary mb-1" style={{ fontSize: 24 }}>category</span>
-            <p className="font-headline text-xl font-bold text-primary">7</p>
-            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">Modules</p>
-          </NeoCard>
-          <NeoCard level={1} shadow="none" className="text-center !p-4">
-            <span className="material-symbols-outlined text-success mb-1" style={{ fontSize: 24 }}>verified</span>
-            <p className="font-headline text-xl font-bold text-primary">71%</p>
-            <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">Pass Mark</p>
-          </NeoCard>
-        </div>
-
-        <div className="mb-6">
-          <div className="flex items-center gap-3 mb-4">
+          {/* Section heading flies in */}
+          <motion.div
+            className="flex items-center gap-3 mb-4"
+            initial={{ opacity: 0, x: -40 }}
+            animate={vehicleInView ? { opacity: 1, x: 0 } : {}}
+            transition={{ duration: 0.5, ease: [0.175, 0.885, 0.32, 1.275] }}
+          >
             <h3 className="font-headline text-xl font-bold text-primary uppercase tracking-wider">Choose Your Vehicle</h3>
             <div className="flex-1 h-0.5 bg-surface-container-highest" />
-          </div>
+          </motion.div>
+
+          {/* Cards fly in staggered from below */}
           <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
             {VEHICLE_CATEGORIES.map((category, idx) => {
               const completed = getVehicleProgress(category.type)
               return (
-                <CategoryCard
+                <motion.div
                   key={category.type}
-                  category={category}
-                  completedModules={completed}
-                  status={category.type === 'F' ? 'coming_soon' : completed >= 7 ? 'completed' : completed > 0 ? 'active' : 'new'}
-                  index={idx}
-                />
+                  initial={{ opacity: 0, y: 60, scale: 0.95 }}
+                  animate={vehicleInView ? { opacity: 1, y: 0, scale: 1 } : {}}
+                  transition={{
+                    duration: 0.5,
+                    delay: 0.15 + idx * 0.1,
+                    ease: [0.175, 0.885, 0.32, 1.275],
+                  }}
+                >
+                  <CategoryCard
+                    category={category}
+                    completedModules={completed}
+                    status={category.type === 'F' ? 'coming_soon' : completed >= 7 ? 'completed' : completed > 0 ? 'active' : 'new'}
+                    index={idx}
+                  />
+                </motion.div>
               )
             })}
           </div>
-        </div>
 
-        <NeoCard level={1} shadow="secondary" className="mt-8">
-          <div className="flex items-center gap-4">
-            <div className="flex-shrink-0 w-12 h-12 bg-secondary/20 border-2 border-secondary flex items-center justify-center">
-              <span className="material-symbols-outlined text-secondary" style={{ fontSize: 24 }}>local_fire_department</span>
-            </div>
-            <div className="flex-1">
-              <h4 className="font-headline text-base font-bold text-secondary">Daily Challenge</h4>
-              <p className="text-sm text-on-surface-variant">Answer {dailyTarget} questions today to maintain your streak</p>
-            </div>
-            <div className="font-headline text-2xl font-bold text-secondary">
-              {Math.min(dailyDone, dailyTarget)}/{dailyTarget}
-            </div>
-          </div>
-        </NeoCard>
+          {/* Daily challenge flies in */}
+          <motion.div
+            ref={dailyChallengeRef}
+            initial={{ opacity: 0, y: 40 }}
+            animate={dailyInView ? { opacity: 1, y: 0 } : {}}
+            transition={{ duration: 0.5, delay: 0.1, ease: [0.175, 0.885, 0.32, 1.275] }}
+          >
+            <NeoCard level={1} shadow="secondary" className="mt-8">
+              <div className="flex items-center gap-4">
+                <div className="flex-shrink-0 w-12 h-12 bg-secondary/20 border-2 border-secondary flex items-center justify-center">
+                  <span className="material-symbols-outlined text-secondary" style={{ fontSize: 24 }}>local_fire_department</span>
+                </div>
+                <div className="flex-1">
+                  <h4 className="font-headline text-base font-bold text-secondary">Daily Challenge</h4>
+                  <p className="text-sm text-on-surface-variant">Answer {dailyTarget} questions today to maintain your streak</p>
+                </div>
+                <div className="font-headline text-2xl font-bold text-secondary">
+                  {Math.min(dailyDone, dailyTarget)}/{dailyTarget}
+                </div>
+              </div>
+            </NeoCard>
+          </motion.div>
+        </div>
       </main>
       <BottomNav />
     </div>
