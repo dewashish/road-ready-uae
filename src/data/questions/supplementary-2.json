@@ -4,18 +4,51 @@
     "question_text": "What does a white dashed center line on the road indicate?",
     "explanation": "A white dashed center line means you may cross it to overtake or change lanes when it is safe to do so. Always check for oncoming traffic before crossing.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "overtaking"],
+    "tags": [
+      "road_markings",
+      "overtaking"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-051-a", "question_id": "sup-051", "answer_text": "You may cross it to overtake when safe", "is_correct": true, "display_order": 1},
-      {"id": "sup-051-b", "question_id": "sup-051", "answer_text": "You must not cross it under any circumstances", "is_correct": false, "display_order": 2},
-      {"id": "sup-051-c", "question_id": "sup-051", "answer_text": "It indicates a bus lane", "is_correct": false, "display_order": 3},
-      {"id": "sup-051-d", "question_id": "sup-051", "answer_text": "It marks a no-parking zone", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-051-a",
+        "question_id": "sup-051",
+        "answer_text": "You may cross it to overtake when safe",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-051-b",
+        "question_id": "sup-051",
+        "answer_text": "You must not cross it under any circumstances",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-051-c",
+        "question_id": "sup-051",
+        "answer_text": "It indicates a bus lane",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-051-d",
+        "question_id": "sup-051",
+        "answer_text": "It marks a no-parking zone",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -23,18 +56,51 @@
     "question_text": "What does a solid white line on the road mean?",
     "explanation": "A solid white line indicates that you must not cross or straddle it. It is used to separate lanes of traffic flowing in the same direction and to indicate areas where lane changing is prohibited.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "lane_discipline"],
+    "tags": [
+      "road_markings",
+      "lane_discipline"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-052-a", "question_id": "sup-052", "answer_text": "You may cross it only in emergencies", "is_correct": false, "display_order": 1},
-      {"id": "sup-052-b", "question_id": "sup-052", "answer_text": "Do not cross or straddle the line", "is_correct": true, "display_order": 2},
-      {"id": "sup-052-c", "question_id": "sup-052", "answer_text": "You may cross it to turn left", "is_correct": false, "display_order": 3},
-      {"id": "sup-052-d", "question_id": "sup-052", "answer_text": "It indicates a speed bump ahead", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-052-a",
+        "question_id": "sup-052",
+        "answer_text": "You may cross it only in emergencies",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-052-b",
+        "question_id": "sup-052",
+        "answer_text": "Do not cross or straddle the line",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-052-c",
+        "question_id": "sup-052",
+        "answer_text": "You may cross it to turn left",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-052-d",
+        "question_id": "sup-052",
+        "answer_text": "It indicates a speed bump ahead",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -42,18 +108,51 @@
     "question_text": "What do double solid white lines on the road indicate?",
     "explanation": "Double solid white lines mean that traffic from neither direction may cross the lines. They are used on roads where overtaking or crossing to the other side is extremely dangerous.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "no_crossing"],
+    "tags": [
+      "road_markings",
+      "no_crossing"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-053-a", "question_id": "sup-053", "answer_text": "Only heavy vehicles are prohibited from crossing", "is_correct": false, "display_order": 1},
-      {"id": "sup-053-b", "question_id": "sup-053", "answer_text": "You may cross if there is no oncoming traffic", "is_correct": false, "display_order": 2},
-      {"id": "sup-053-c", "question_id": "sup-053", "answer_text": "No crossing is allowed from either direction", "is_correct": true, "display_order": 3},
-      {"id": "sup-053-d", "question_id": "sup-053", "answer_text": "Only ambulances may cross", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-053-a",
+        "question_id": "sup-053",
+        "answer_text": "Only heavy vehicles are prohibited from crossing",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-053-b",
+        "question_id": "sup-053",
+        "answer_text": "You may cross if there is no oncoming traffic",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-053-c",
+        "question_id": "sup-053",
+        "answer_text": "No crossing is allowed from either direction",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-053-d",
+        "question_id": "sup-053",
+        "answer_text": "Only ambulances may cross",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -61,18 +160,51 @@
     "question_text": "What does a yellow painted curb indicate in the UAE?",
     "explanation": "A yellow painted curb in the UAE means no parking is allowed. You may briefly stop to pick up or drop off passengers, but you cannot leave your vehicle unattended.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "parking"],
+    "tags": [
+      "road_markings",
+      "parking"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-054-a", "question_id": "sup-054", "answer_text": "Parking is reserved for taxis only", "is_correct": false, "display_order": 1},
-      {"id": "sup-054-b", "question_id": "sup-054", "answer_text": "No parking is allowed", "is_correct": true, "display_order": 2},
-      {"id": "sup-054-c", "question_id": "sup-054", "answer_text": "Parking is allowed for a maximum of 30 minutes", "is_correct": false, "display_order": 3},
-      {"id": "sup-054-d", "question_id": "sup-054", "answer_text": "Parking is allowed only during daytime", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-054-a",
+        "question_id": "sup-054",
+        "answer_text": "Parking is reserved for taxis only",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-054-b",
+        "question_id": "sup-054",
+        "answer_text": "No parking is allowed",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-054-c",
+        "question_id": "sup-054",
+        "answer_text": "Parking is allowed for a maximum of 30 minutes",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-054-d",
+        "question_id": "sup-054",
+        "answer_text": "Parking is allowed only during daytime",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -80,18 +212,51 @@
     "question_text": "What does a black and white painted curb indicate in the UAE?",
     "explanation": "A black and white painted curb means no stopping at all. Unlike a yellow curb where brief stops may be allowed, a black and white curb prohibits any stopping, even momentarily.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "no_stopping"],
+    "tags": [
+      "road_markings",
+      "no_stopping"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-055-a", "question_id": "sup-055", "answer_text": "No stopping is allowed at any time", "is_correct": true, "display_order": 1},
-      {"id": "sup-055-b", "question_id": "sup-055", "answer_text": "Parking is allowed for residents only", "is_correct": false, "display_order": 2},
-      {"id": "sup-055-c", "question_id": "sup-055", "answer_text": "You may stop briefly to drop off passengers", "is_correct": false, "display_order": 3},
-      {"id": "sup-055-d", "question_id": "sup-055", "answer_text": "Stopping is allowed during off-peak hours", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-055-a",
+        "question_id": "sup-055",
+        "answer_text": "No stopping is allowed at any time",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-055-b",
+        "question_id": "sup-055",
+        "answer_text": "Parking is allowed for residents only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-055-c",
+        "question_id": "sup-055",
+        "answer_text": "You may stop briefly to drop off passengers",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-055-d",
+        "question_id": "sup-055",
+        "answer_text": "Stopping is allowed during off-peak hours",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -99,18 +264,51 @@
     "question_text": "What do zigzag lines near a pedestrian crossing mean?",
     "explanation": "Zigzag lines near a pedestrian crossing indicate that parking and stopping are strictly prohibited in that area. These lines ensure that the crossing remains visible to both drivers and pedestrians.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "pedestrian_crossing"],
+    "tags": [
+      "road_markings",
+      "pedestrian_crossing"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-056-a", "question_id": "sup-056", "answer_text": "Speed bumps are ahead", "is_correct": false, "display_order": 1},
-      {"id": "sup-056-b", "question_id": "sup-056", "answer_text": "The road surface is uneven", "is_correct": false, "display_order": 2},
-      {"id": "sup-056-c", "question_id": "sup-056", "answer_text": "No parking or stopping is allowed in this area", "is_correct": true, "display_order": 3},
-      {"id": "sup-056-d", "question_id": "sup-056", "answer_text": "You must change lanes", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-056-a",
+        "question_id": "sup-056",
+        "answer_text": "Speed bumps are ahead",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-056-b",
+        "question_id": "sup-056",
+        "answer_text": "The road surface is uneven",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-056-c",
+        "question_id": "sup-056",
+        "answer_text": "No parking or stopping is allowed in this area",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-056-d",
+        "question_id": "sup-056",
+        "answer_text": "You must change lanes",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -118,18 +316,51 @@
     "question_text": "What should you do when you see lane arrows painted on the road surface?",
     "explanation": "Lane arrows painted on the road surface indicate the direction(s) you must travel when in that lane. You should move into the correct lane well before the intersection and follow the arrow direction.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "lane_arrows"],
+    "tags": [
+      "road_markings",
+      "lane_arrows"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-057-a", "question_id": "sup-057", "answer_text": "They are advisory only and can be ignored", "is_correct": false, "display_order": 1},
-      {"id": "sup-057-b", "question_id": "sup-057", "answer_text": "Follow the direction indicated by the arrows in your lane", "is_correct": true, "display_order": 2},
-      {"id": "sup-057-c", "question_id": "sup-057", "answer_text": "Move to the lane with a straight arrow regardless of your destination", "is_correct": false, "display_order": 3},
-      {"id": "sup-057-d", "question_id": "sup-057", "answer_text": "Stop and wait for the arrow to change", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-057-a",
+        "question_id": "sup-057",
+        "answer_text": "They are advisory only and can be ignored",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-057-b",
+        "question_id": "sup-057",
+        "answer_text": "Follow the direction indicated by the arrows in your lane",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-057-c",
+        "question_id": "sup-057",
+        "answer_text": "Move to the lane with a straight arrow regardless of your destination",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-057-d",
+        "question_id": "sup-057",
+        "answer_text": "Stop and wait for the arrow to change",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -137,18 +368,51 @@
     "question_text": "What do chevron markings (diagonal white stripes) on the road indicate?",
     "explanation": "Chevron markings are diagonal white stripes painted in a V-shape on the road. They indicate an area that drivers should keep out of and not drive over. These are often found at road diverges and merges to provide a buffer zone.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "chevron"],
+    "tags": [
+      "road_markings",
+      "chevron"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-058-a", "question_id": "sup-058", "answer_text": "A bus stop area", "is_correct": false, "display_order": 1},
-      {"id": "sup-058-b", "question_id": "sup-058", "answer_text": "A parking zone for motorcycles", "is_correct": false, "display_order": 2},
-      {"id": "sup-058-c", "question_id": "sup-058", "answer_text": "Keep out of this area; do not drive over it", "is_correct": true, "display_order": 3},
-      {"id": "sup-058-d", "question_id": "sup-058", "answer_text": "A pedestrian waiting area", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-058-a",
+        "question_id": "sup-058",
+        "answer_text": "A bus stop area",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-058-b",
+        "question_id": "sup-058",
+        "answer_text": "A parking zone for motorcycles",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-058-c",
+        "question_id": "sup-058",
+        "answer_text": "Keep out of this area; do not drive over it",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-058-d",
+        "question_id": "sup-058",
+        "answer_text": "A pedestrian waiting area",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -156,18 +420,51 @@
     "question_text": "What is the purpose of rumble strips on UAE roads?",
     "explanation": "Rumble strips are raised or textured road markings that produce vibration and noise when driven over. They serve as a warning to alert drivers to slow down, often placed before toll gates, sharp curves, or intersections.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "rumble_strips"],
+    "tags": [
+      "road_markings",
+      "rumble_strips"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-059-a", "question_id": "sup-059", "answer_text": "To provide better grip in wet conditions", "is_correct": false, "display_order": 1},
-      {"id": "sup-059-b", "question_id": "sup-059", "answer_text": "To warn drivers to slow down through vibration and noise", "is_correct": true, "display_order": 2},
-      {"id": "sup-059-c", "question_id": "sup-059", "answer_text": "To mark bicycle lanes", "is_correct": false, "display_order": 3},
-      {"id": "sup-059-d", "question_id": "sup-059", "answer_text": "To indicate a change in speed limit", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-059-a",
+        "question_id": "sup-059",
+        "answer_text": "To provide better grip in wet conditions",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-059-b",
+        "question_id": "sup-059",
+        "answer_text": "To warn drivers to slow down through vibration and noise",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-059-c",
+        "question_id": "sup-059",
+        "answer_text": "To mark bicycle lanes",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-059-d",
+        "question_id": "sup-059",
+        "answer_text": "To indicate a change in speed limit",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -175,18 +472,51 @@
     "question_text": "What does a white circular sign with a black diagonal stripe across it mean?",
     "explanation": "This sign indicates the end of all previously imposed restrictions, such as speed limits or no-overtaking zones. After this sign, national or default road rules apply.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_signs", "end_restriction"],
+    "tags": [
+      "road_signs",
+      "end_restriction"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-060-a", "question_id": "sup-060", "answer_text": "No entry ahead", "is_correct": false, "display_order": 1},
-      {"id": "sup-060-b", "question_id": "sup-060", "answer_text": "End of all previously imposed restrictions", "is_correct": true, "display_order": 2},
-      {"id": "sup-060-c", "question_id": "sup-060", "answer_text": "Road closed ahead", "is_correct": false, "display_order": 3},
-      {"id": "sup-060-d", "question_id": "sup-060", "answer_text": "No U-turn allowed", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-060-a",
+        "question_id": "sup-060",
+        "answer_text": "No entry ahead",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-060-b",
+        "question_id": "sup-060",
+        "answer_text": "End of all previously imposed restrictions",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-060-c",
+        "question_id": "sup-060",
+        "answer_text": "Road closed ahead",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-060-d",
+        "question_id": "sup-060",
+        "answer_text": "No U-turn allowed",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -194,18 +524,51 @@
     "question_text": "What does a triangular sign showing two arrows pointing in opposite directions indicate?",
     "explanation": "This warning sign indicates that two-way traffic lies ahead. It is commonly placed on one-way streets or divided roads where the road is about to become a two-way road, alerting drivers to expect oncoming traffic.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_signs", "two_way_traffic"],
+    "tags": [
+      "road_signs",
+      "two_way_traffic"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-061-a", "question_id": "sup-061", "answer_text": "Two-way traffic ahead", "is_correct": true, "display_order": 1},
-      {"id": "sup-061-b", "question_id": "sup-061", "answer_text": "Road narrows from both sides", "is_correct": false, "display_order": 2},
-      {"id": "sup-061-c", "question_id": "sup-061", "answer_text": "Dual carriageway ends", "is_correct": false, "display_order": 3},
-      {"id": "sup-061-d", "question_id": "sup-061", "answer_text": "Overtaking is allowed from both sides", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-061-a",
+        "question_id": "sup-061",
+        "answer_text": "Two-way traffic ahead",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-061-b",
+        "question_id": "sup-061",
+        "answer_text": "Road narrows from both sides",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-061-c",
+        "question_id": "sup-061",
+        "answer_text": "Dual carriageway ends",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-061-d",
+        "question_id": "sup-061",
+        "answer_text": "Overtaking is allowed from both sides",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -213,18 +576,51 @@
     "question_text": "What does a blue circular sign with a white number (e.g., 30) indicate?",
     "explanation": "A blue circular sign with a white number indicates the minimum speed limit. Vehicles must travel at or above the displayed speed unless traffic or road conditions make it unsafe to do so.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_signs", "minimum_speed"],
+    "tags": [
+      "road_signs",
+      "minimum_speed"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-062-a", "question_id": "sup-062", "answer_text": "Maximum speed limit", "is_correct": false, "display_order": 1},
-      {"id": "sup-062-b", "question_id": "sup-062", "answer_text": "Recommended speed in km/h", "is_correct": false, "display_order": 2},
-      {"id": "sup-062-c", "question_id": "sup-062", "answer_text": "Minimum speed limit in km/h", "is_correct": true, "display_order": 3},
-      {"id": "sup-062-d", "question_id": "sup-062", "answer_text": "Distance to next exit in kilometers", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-062-a",
+        "question_id": "sup-062",
+        "answer_text": "Maximum speed limit",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-062-b",
+        "question_id": "sup-062",
+        "answer_text": "Recommended speed in km/h",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-062-c",
+        "question_id": "sup-062",
+        "answer_text": "Minimum speed limit in km/h",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-062-d",
+        "question_id": "sup-062",
+        "answer_text": "Distance to next exit in kilometers",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -232,18 +628,51 @@
     "question_text": "What color background do highway exit signs in the UAE typically have?",
     "explanation": "UAE highway exit signs use a green background with white text, following international standards. These signs provide advance notice of upcoming exits, including the exit name and distance.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_signs", "highway_signs"],
+    "tags": [
+      "road_signs",
+      "highway_signs"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-063-a", "question_id": "sup-063", "answer_text": "Blue background", "is_correct": false, "display_order": 1},
-      {"id": "sup-063-b", "question_id": "sup-063", "answer_text": "Green background", "is_correct": true, "display_order": 2},
-      {"id": "sup-063-c", "question_id": "sup-063", "answer_text": "Brown background", "is_correct": false, "display_order": 3},
-      {"id": "sup-063-d", "question_id": "sup-063", "answer_text": "Red background", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-063-a",
+        "question_id": "sup-063",
+        "answer_text": "Blue background",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-063-b",
+        "question_id": "sup-063",
+        "answer_text": "Green background",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-063-c",
+        "question_id": "sup-063",
+        "answer_text": "Brown background",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-063-d",
+        "question_id": "sup-063",
+        "answer_text": "Red background",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -251,18 +680,51 @@
     "question_text": "What do brown road signs in the UAE typically indicate?",
     "explanation": "Brown road signs in the UAE indicate tourist attractions, heritage sites, or points of cultural and historical interest. They guide visitors to museums, forts, natural reserves, and other landmarks.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_signs", "tourist_signs"],
+    "tags": [
+      "road_signs",
+      "tourist_signs"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-064-a", "question_id": "sup-064", "answer_text": "Construction zones ahead", "is_correct": false, "display_order": 1},
-      {"id": "sup-064-b", "question_id": "sup-064", "answer_text": "Hospital or medical facility directions", "is_correct": false, "display_order": 2},
-      {"id": "sup-064-c", "question_id": "sup-064", "answer_text": "Tourist attractions and heritage sites", "is_correct": true, "display_order": 3},
-      {"id": "sup-064-d", "question_id": "sup-064", "answer_text": "Petrol station directions", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-064-a",
+        "question_id": "sup-064",
+        "answer_text": "Construction zones ahead",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-064-b",
+        "question_id": "sup-064",
+        "answer_text": "Hospital or medical facility directions",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-064-c",
+        "question_id": "sup-064",
+        "answer_text": "Tourist attractions and heritage sites",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-064-d",
+        "question_id": "sup-064",
+        "answer_text": "Petrol station directions",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -270,18 +732,52 @@
     "question_text": "What are variable speed limit signs on UAE highways?",
     "explanation": "Variable speed limit signs are electronic signs that can change the displayed speed limit based on current traffic conditions, weather, or incidents. Drivers must follow the speed shown on these signs as they are legally enforceable.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_signs", "electronic_signs", "speed_limit"],
+    "tags": [
+      "road_signs",
+      "electronic_signs",
+      "speed_limit"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-065-a", "question_id": "sup-065", "answer_text": "Advisory signs that show suggested speeds but are not enforceable", "is_correct": false, "display_order": 1},
-      {"id": "sup-065-b", "question_id": "sup-065", "answer_text": "Electronic signs that display changing speed limits based on conditions and are legally enforceable", "is_correct": true, "display_order": 2},
-      {"id": "sup-065-c", "question_id": "sup-065", "answer_text": "Signs that only apply to trucks and buses", "is_correct": false, "display_order": 3},
-      {"id": "sup-065-d", "question_id": "sup-065", "answer_text": "Signs showing the average speed of traffic", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-065-a",
+        "question_id": "sup-065",
+        "answer_text": "Advisory signs that show suggested speeds but are not enforceable",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-065-b",
+        "question_id": "sup-065",
+        "answer_text": "Electronic signs that display changing speed limits based on conditions and are legally enforceable",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-065-c",
+        "question_id": "sup-065",
+        "answer_text": "Signs that only apply to trucks and buses",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-065-d",
+        "question_id": "sup-065",
+        "answer_text": "Signs showing the average speed of traffic",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -289,18 +785,51 @@
     "question_text": "What is the '3-second rule' in driving?",
     "explanation": "The 3-second rule is a method for maintaining a safe following distance. You should keep at least 3 seconds of travel time between your vehicle and the vehicle ahead. Pick a fixed point on the road and count 3 seconds after the car ahead passes it.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["following_distance", "defensive_driving"],
+    "tags": [
+      "following_distance",
+      "defensive_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-066-a", "question_id": "sup-066", "answer_text": "You must wait 3 seconds before moving after the traffic light turns green", "is_correct": false, "display_order": 1},
-      {"id": "sup-066-b", "question_id": "sup-066", "answer_text": "Maintain at least 3 seconds of following distance behind the vehicle ahead", "is_correct": true, "display_order": 2},
-      {"id": "sup-066-c", "question_id": "sup-066", "answer_text": "You must signal for 3 seconds before changing lanes", "is_correct": false, "display_order": 3},
-      {"id": "sup-066-d", "question_id": "sup-066", "answer_text": "You have 3 seconds to react to a yellow traffic light", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-066-a",
+        "question_id": "sup-066",
+        "answer_text": "You must wait 3 seconds before moving after the traffic light turns green",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-066-b",
+        "question_id": "sup-066",
+        "answer_text": "Maintain at least 3 seconds of following distance behind the vehicle ahead",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-066-c",
+        "question_id": "sup-066",
+        "answer_text": "You must signal for 3 seconds before changing lanes",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-066-d",
+        "question_id": "sup-066",
+        "answer_text": "You have 3 seconds to react to a yellow traffic light",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -308,18 +837,51 @@
     "question_text": "In wet or rainy conditions, what following distance should you maintain?",
     "explanation": "In wet conditions, you should increase your following distance to at least 4 seconds. Wet roads reduce tire grip and increase braking distances, so extra space is needed to stop safely.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["following_distance", "wet_conditions"],
+    "tags": [
+      "following_distance",
+      "wet_conditions"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-067-a", "question_id": "sup-067", "answer_text": "2 seconds, same as dry conditions", "is_correct": false, "display_order": 1},
-      {"id": "sup-067-b", "question_id": "sup-067", "answer_text": "3 seconds", "is_correct": false, "display_order": 2},
-      {"id": "sup-067-c", "question_id": "sup-067", "answer_text": "At least 4 seconds", "is_correct": true, "display_order": 3},
-      {"id": "sup-067-d", "question_id": "sup-067", "answer_text": "1 second per 10 km/h of speed", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-067-a",
+        "question_id": "sup-067",
+        "answer_text": "2 seconds, same as dry conditions",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-067-b",
+        "question_id": "sup-067",
+        "answer_text": "3 seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-067-c",
+        "question_id": "sup-067",
+        "answer_text": "At least 4 seconds",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-067-d",
+        "question_id": "sup-067",
+        "answer_text": "1 second per 10 km/h of speed",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -327,18 +889,51 @@
     "question_text": "How often should you check your mirrors while driving?",
     "explanation": "You should check your mirrors every 5 to 8 seconds while driving. Regular mirror checks help you stay aware of the traffic situation around your vehicle and detect potential hazards early.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["mirrors", "awareness"],
+    "tags": [
+      "mirrors",
+      "awareness"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-068-a", "question_id": "sup-068", "answer_text": "Only when changing lanes or turning", "is_correct": false, "display_order": 1},
-      {"id": "sup-068-b", "question_id": "sup-068", "answer_text": "Every 5 to 8 seconds", "is_correct": true, "display_order": 2},
-      {"id": "sup-068-c", "question_id": "sup-068", "answer_text": "Every 30 seconds", "is_correct": false, "display_order": 3},
-      {"id": "sup-068-d", "question_id": "sup-068", "answer_text": "Only when approaching intersections", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-068-a",
+        "question_id": "sup-068",
+        "answer_text": "Only when changing lanes or turning",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-068-b",
+        "question_id": "sup-068",
+        "answer_text": "Every 5 to 8 seconds",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-068-c",
+        "question_id": "sup-068",
+        "answer_text": "Every 30 seconds",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-068-d",
+        "question_id": "sup-068",
+        "answer_text": "Only when approaching intersections",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -346,18 +941,51 @@
     "question_text": "Before changing lanes, what essential check must you perform in addition to using your mirrors?",
     "explanation": "Before changing lanes, you must perform a blind spot check by briefly turning your head to look over your shoulder in the direction you intend to move. Mirrors have blind spots that may hide vehicles, motorcycles, or cyclists.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["blind_spot", "lane_change"],
+    "tags": [
+      "blind_spot",
+      "lane_change"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-069-a", "question_id": "sup-069", "answer_text": "Flash your headlights to warn other drivers", "is_correct": false, "display_order": 1},
-      {"id": "sup-069-b", "question_id": "sup-069", "answer_text": "Perform a blind spot check by looking over your shoulder", "is_correct": true, "display_order": 2},
-      {"id": "sup-069-c", "question_id": "sup-069", "answer_text": "Sound your horn to alert other road users", "is_correct": false, "display_order": 3},
-      {"id": "sup-069-d", "question_id": "sup-069", "answer_text": "Slow down to 40 km/h before changing", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-069-a",
+        "question_id": "sup-069",
+        "answer_text": "Flash your headlights to warn other drivers",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-069-b",
+        "question_id": "sup-069",
+        "answer_text": "Perform a blind spot check by looking over your shoulder",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-069-c",
+        "question_id": "sup-069",
+        "answer_text": "Sound your horn to alert other road users",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-069-d",
+        "question_id": "sup-069",
+        "answer_text": "Slow down to 40 km/h before changing",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -365,18 +993,51 @@
     "question_text": "How does driver fatigue affect driving ability?",
     "explanation": "Fatigue impairs driving ability similarly to alcohol intoxication. A fatigued driver has slower reaction times, reduced attention, impaired judgment, and may even fall asleep at the wheel. Studies show being awake for 18+ hours is comparable to a blood alcohol level of 0.05%.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fatigue", "impairment"],
+    "tags": [
+      "fatigue",
+      "impairment"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-070-a", "question_id": "sup-070", "answer_text": "It only affects long-distance truck drivers", "is_correct": false, "display_order": 1},
-      {"id": "sup-070-b", "question_id": "sup-070", "answer_text": "It can be overcome by opening the window or turning up the radio", "is_correct": false, "display_order": 2},
-      {"id": "sup-070-c", "question_id": "sup-070", "answer_text": "Its effects are similar to driving under the influence of alcohol", "is_correct": true, "display_order": 3},
-      {"id": "sup-070-d", "question_id": "sup-070", "answer_text": "It only becomes dangerous after driving for more than 8 hours", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-070-a",
+        "question_id": "sup-070",
+        "answer_text": "It only affects long-distance truck drivers",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-070-b",
+        "question_id": "sup-070",
+        "answer_text": "It can be overcome by opening the window or turning up the radio",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-070-c",
+        "question_id": "sup-070",
+        "answer_text": "Its effects are similar to driving under the influence of alcohol",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-070-d",
+        "question_id": "sup-070",
+        "answer_text": "It only becomes dangerous after driving for more than 8 hours",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -384,18 +1045,51 @@
     "question_text": "What should you do when confronted by an aggressive or road-rage driver?",
     "explanation": "When dealing with an aggressive driver, avoid engaging with them. Do not make eye contact, retaliate, or try to 'teach them a lesson.' Let them pass and maintain a safe distance. If you feel threatened, drive to a police station or busy public area.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_rage", "aggressive_driving"],
+    "tags": [
+      "road_rage",
+      "aggressive_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-071-a", "question_id": "sup-071", "answer_text": "Brake suddenly to warn them to back off", "is_correct": false, "display_order": 1},
-      {"id": "sup-071-b", "question_id": "sup-071", "answer_text": "Do not engage; let them pass and maintain distance", "is_correct": true, "display_order": 2},
-      {"id": "sup-071-c", "question_id": "sup-071", "answer_text": "Speed up so they cannot catch you", "is_correct": false, "display_order": 3},
-      {"id": "sup-071-d", "question_id": "sup-071", "answer_text": "Flash your lights and sound your horn repeatedly", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-071-a",
+        "question_id": "sup-071",
+        "answer_text": "Brake suddenly to warn them to back off",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-071-b",
+        "question_id": "sup-071",
+        "answer_text": "Do not engage; let them pass and maintain distance",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-071-c",
+        "question_id": "sup-071",
+        "answer_text": "Speed up so they cannot catch you",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-071-d",
+        "question_id": "sup-071",
+        "answer_text": "Flash your lights and sound your horn repeatedly",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -403,18 +1097,51 @@
     "question_text": "Which of the following is considered distracted driving?",
     "explanation": "Distracted driving includes any activity that diverts your attention from the road, such as eating, grooming, adjusting the GPS, reading messages, or using a mobile phone. All of these significantly increase the risk of a crash.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["distracted_driving", "safety"],
+    "tags": [
+      "distracted_driving",
+      "safety"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-072-a", "question_id": "sup-072", "answer_text": "Checking mirrors frequently", "is_correct": false, "display_order": 1},
-      {"id": "sup-072-b", "question_id": "sup-072", "answer_text": "Eating, grooming, or adjusting the GPS while driving", "is_correct": true, "display_order": 2},
-      {"id": "sup-072-c", "question_id": "sup-072", "answer_text": "Listening to the radio at a low volume", "is_correct": false, "display_order": 3},
-      {"id": "sup-072-d", "question_id": "sup-072", "answer_text": "Talking to a passenger briefly", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-072-a",
+        "question_id": "sup-072",
+        "answer_text": "Checking mirrors frequently",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-072-b",
+        "question_id": "sup-072",
+        "answer_text": "Eating, grooming, or adjusting the GPS while driving",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-072-c",
+        "question_id": "sup-072",
+        "answer_text": "Listening to the radio at a low volume",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-072-d",
+        "question_id": "sup-072",
+        "answer_text": "Talking to a passenger briefly",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -422,18 +1149,51 @@
     "question_text": "Why is peer pressure a significant risk factor for young drivers?",
     "explanation": "Young drivers are particularly susceptible to peer pressure, which can lead to speeding, reckless driving, or other dangerous behaviors to impress passengers. Studies show crash risk increases significantly when young drivers carry same-age passengers.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["young_drivers", "peer_pressure"],
+    "tags": [
+      "young_drivers",
+      "peer_pressure"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-073-a", "question_id": "sup-073", "answer_text": "It encourages them to practice driving more often", "is_correct": false, "display_order": 1},
-      {"id": "sup-073-b", "question_id": "sup-073", "answer_text": "It can lead to speeding and reckless driving to impress friends", "is_correct": true, "display_order": 2},
-      {"id": "sup-073-c", "question_id": "sup-073", "answer_text": "It only affects drivers under the age of 16", "is_correct": false, "display_order": 3},
-      {"id": "sup-073-d", "question_id": "sup-073", "answer_text": "It helps young drivers become more cautious", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-073-a",
+        "question_id": "sup-073",
+        "answer_text": "It encourages them to practice driving more often",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-073-b",
+        "question_id": "sup-073",
+        "answer_text": "It can lead to speeding and reckless driving to impress friends",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-073-c",
+        "question_id": "sup-073",
+        "answer_text": "It only affects drivers under the age of 16",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-073-d",
+        "question_id": "sup-073",
+        "answer_text": "It helps young drivers become more cautious",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -441,18 +1201,51 @@
     "question_text": "How can overconfidence be dangerous for experienced drivers?",
     "explanation": "Experienced drivers may become overconfident and take unnecessary risks such as tailgating, speeding, or not wearing a seatbelt because they overestimate their skills. Overconfidence reduces vigilance and leads to complacency on the road.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["overconfidence", "experienced_drivers"],
+    "tags": [
+      "overconfidence",
+      "experienced_drivers"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-074-a", "question_id": "sup-074", "answer_text": "Experienced drivers never have accidents", "is_correct": false, "display_order": 1},
-      {"id": "sup-074-b", "question_id": "sup-074", "answer_text": "It leads to taking unnecessary risks and reduced vigilance", "is_correct": true, "display_order": 2},
-      {"id": "sup-074-c", "question_id": "sup-074", "answer_text": "Overconfidence only affects drivers over the age of 60", "is_correct": false, "display_order": 3},
-      {"id": "sup-074-d", "question_id": "sup-074", "answer_text": "It makes drivers more careful on familiar roads", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-074-a",
+        "question_id": "sup-074",
+        "answer_text": "Experienced drivers never have accidents",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-074-b",
+        "question_id": "sup-074",
+        "answer_text": "It leads to taking unnecessary risks and reduced vigilance",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-074-c",
+        "question_id": "sup-074",
+        "answer_text": "Overconfidence only affects drivers over the age of 60",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-074-d",
+        "question_id": "sup-074",
+        "answer_text": "It makes drivers more careful on familiar roads",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -460,18 +1253,51 @@
     "question_text": "What is the main reason you should reduce speed when driving at night?",
     "explanation": "At night, your visibility is significantly reduced. Headlights illuminate only a limited distance ahead, so you cannot see hazards as far in advance as during daylight. You should drive at a speed that allows you to stop within the distance your headlights illuminate.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["night_driving", "visibility"],
+    "tags": [
+      "night_driving",
+      "visibility"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-075-a", "question_id": "sup-075", "answer_text": "There are more speed cameras active at night", "is_correct": false, "display_order": 1},
-      {"id": "sup-075-b", "question_id": "sup-075", "answer_text": "Your visibility is reduced and you cannot see hazards as far ahead", "is_correct": true, "display_order": 2},
-      {"id": "sup-075-c", "question_id": "sup-075", "answer_text": "Speed limits are automatically lower at night", "is_correct": false, "display_order": 3},
-      {"id": "sup-075-d", "question_id": "sup-075", "answer_text": "Tires have less grip at night due to cooler temperatures", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-075-a",
+        "question_id": "sup-075",
+        "answer_text": "There are more speed cameras active at night",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-075-b",
+        "question_id": "sup-075",
+        "answer_text": "Your visibility is reduced and you cannot see hazards as far ahead",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-075-c",
+        "question_id": "sup-075",
+        "answer_text": "Speed limits are automatically lower at night",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-075-d",
+        "question_id": "sup-075",
+        "answer_text": "Tires have less grip at night due to cooler temperatures",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -479,18 +1305,51 @@
     "question_text": "What is the typical reaction time for a driver before they begin to brake?",
     "explanation": "The average driver takes approximately 1 to 1.5 seconds to perceive a hazard and begin to apply the brakes. During this reaction time, the vehicle continues to travel at its current speed, covering significant distance before braking even begins.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["reaction_time", "braking"],
+    "tags": [
+      "reaction_time",
+      "braking"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-076-a", "question_id": "sup-076", "answer_text": "0.1 to 0.3 seconds", "is_correct": false, "display_order": 1},
-      {"id": "sup-076-b", "question_id": "sup-076", "answer_text": "1 to 1.5 seconds", "is_correct": true, "display_order": 2},
-      {"id": "sup-076-c", "question_id": "sup-076", "answer_text": "3 to 4 seconds", "is_correct": false, "display_order": 3},
-      {"id": "sup-076-d", "question_id": "sup-076", "answer_text": "5 seconds or more", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-076-a",
+        "question_id": "sup-076",
+        "answer_text": "0.1 to 0.3 seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-076-b",
+        "question_id": "sup-076",
+        "answer_text": "1 to 1.5 seconds",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-076-c",
+        "question_id": "sup-076",
+        "answer_text": "3 to 4 seconds",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-076-d",
+        "question_id": "sup-076",
+        "answer_text": "5 seconds or more",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -498,18 +1357,51 @@
     "question_text": "If you double your speed, what happens to your braking distance?",
     "explanation": "Braking distance increases with the square of speed. If you double your speed, your braking distance quadruples (increases by four times). For example, if braking distance at 50 km/h is 25 meters, at 100 km/h it would be approximately 100 meters.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["braking_distance", "speed"],
+    "tags": [
+      "braking_distance",
+      "speed"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-077-a", "question_id": "sup-077", "answer_text": "It doubles", "is_correct": false, "display_order": 1},
-      {"id": "sup-077-b", "question_id": "sup-077", "answer_text": "It triples", "is_correct": false, "display_order": 2},
-      {"id": "sup-077-c", "question_id": "sup-077", "answer_text": "It quadruples (increases four times)", "is_correct": true, "display_order": 3},
-      {"id": "sup-077-d", "question_id": "sup-077", "answer_text": "It stays the same if you have good brakes", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-077-a",
+        "question_id": "sup-077",
+        "answer_text": "It doubles",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-077-b",
+        "question_id": "sup-077",
+        "answer_text": "It triples",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-077-c",
+        "question_id": "sup-077",
+        "answer_text": "It quadruples (increases four times)",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-077-d",
+        "question_id": "sup-077",
+        "answer_text": "It stays the same if you have good brakes",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -517,18 +1409,51 @@
     "question_text": "What is the total stopping distance of a vehicle made up of?",
     "explanation": "Total stopping distance is the sum of thinking distance (the distance traveled during the driver's reaction time) and braking distance (the distance traveled while the brakes are applied until the vehicle stops). Both increase with speed.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["stopping_distance", "braking"],
+    "tags": [
+      "stopping_distance",
+      "braking"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-078-a", "question_id": "sup-078", "answer_text": "Braking distance only", "is_correct": false, "display_order": 1},
-      {"id": "sup-078-b", "question_id": "sup-078", "answer_text": "Thinking distance + braking distance", "is_correct": true, "display_order": 2},
-      {"id": "sup-078-c", "question_id": "sup-078", "answer_text": "Speed multiplied by reaction time", "is_correct": false, "display_order": 3},
-      {"id": "sup-078-d", "question_id": "sup-078", "answer_text": "Vehicle weight divided by speed", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-078-a",
+        "question_id": "sup-078",
+        "answer_text": "Braking distance only",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-078-b",
+        "question_id": "sup-078",
+        "answer_text": "Thinking distance + braking distance",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-078-c",
+        "question_id": "sup-078",
+        "answer_text": "Speed multiplied by reaction time",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-078-d",
+        "question_id": "sup-078",
+        "answer_text": "Vehicle weight divided by speed",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -536,37 +1461,51 @@
     "question_text": "How can medication affect your ability to drive safely?",
     "explanation": "Many medications, including over-the-counter drugs, can cause drowsiness, dizziness, blurred vision, or slower reaction times. Always read medication labels and consult your doctor or pharmacist about driving-related side effects before getting behind the wheel.",
     "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["medication", "impairment"],
+    "tags": [
+      "medication",
+      "impairment"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-079-a", "question_id": "sup-079", "answer_text": "Only prescription medications affect driving", "is_correct": false, "display_order": 1},
-      {"id": "sup-079-b", "question_id": "sup-079", "answer_text": "Medication never affects driving ability", "is_correct": false, "display_order": 2},
-      {"id": "sup-079-c", "question_id": "sup-079", "answer_text": "Many medications can cause drowsiness, dizziness, or slower reactions", "is_correct": true, "display_order": 3},
-      {"id": "sup-079-d", "question_id": "sup-079", "answer_text": "Only pain medications affect driving ability", "is_correct": false, "display_order": 4}
-    ]
-  },
-  {
-    "id": "sup-080",
-    "question_text": "When should you NOT use cruise control?",
-    "explanation": "Cruise control should not be used in wet, icy, or slippery conditions, in heavy traffic, on winding roads, or in hilly terrain. In these situations, you need full control of your speed to respond to changing conditions quickly.",
-    "module": "driving_behavior",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
-    "difficulty": 2,
-    "relevance_rank": 7,
-    "svg_illustration_key": null,
-    "image_url": null,
-    "tags": ["cruise_control", "driving_conditions"],
-    "is_edcad_style": false,
-    "answers": [
-      {"id": "sup-080-a", "question_id": "sup-080", "answer_text": "On straight, dry highways with light traffic", "is_correct": false, "display_order": 1},
-      {"id": "sup-080-b", "question_id": "sup-080", "answer_text": "In wet or slippery conditions, heavy traffic, or on winding roads", "is_correct": true, "display_order": 2},
-      {"id": "sup-080-c", "question_id": "sup-080", "answer_text": "During daytime driving only", "is_correct": false, "display_order": 3},
-      {"id": "sup-080-d", "question_id": "sup-080", "answer_text": "When driving above 80 km/h", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-079-a",
+        "question_id": "sup-079",
+        "answer_text": "Only prescription medications affect driving",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-079-b",
+        "question_id": "sup-079",
+        "answer_text": "Medication never affects driving ability",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-079-c",
+        "question_id": "sup-079",
+        "answer_text": "Many medications can cause drowsiness, dizziness, or slower reactions",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-079-d",
+        "question_id": "sup-079",
+        "answer_text": "Only pain medications affect driving ability",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -574,18 +1513,51 @@
     "question_text": "What should you do if the red oil pressure warning light comes on while driving?",
     "explanation": "A red oil pressure warning light indicates critically low oil pressure, which can cause severe engine damage within seconds. You should pull over safely and stop the engine immediately. Do not continue driving. Check the oil level and do not restart the engine until the problem is resolved.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dashboard_warning", "oil_pressure"],
+    "tags": [
+      "dashboard_warning",
+      "oil_pressure"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-081-a", "question_id": "sup-081", "answer_text": "Continue driving to the nearest garage", "is_correct": false, "display_order": 1},
-      {"id": "sup-081-b", "question_id": "sup-081", "answer_text": "Stop the vehicle safely and immediately turn off the engine", "is_correct": true, "display_order": 2},
-      {"id": "sup-081-c", "question_id": "sup-081", "answer_text": "Add water to the engine", "is_correct": false, "display_order": 3},
-      {"id": "sup-081-d", "question_id": "sup-081", "answer_text": "Increase speed to build up oil pressure", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-081-a",
+        "question_id": "sup-081",
+        "answer_text": "Continue driving to the nearest garage",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-081-b",
+        "question_id": "sup-081",
+        "answer_text": "Stop the vehicle safely and immediately turn off the engine",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-081-c",
+        "question_id": "sup-081",
+        "answer_text": "Add water to the engine",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-081-d",
+        "question_id": "sup-081",
+        "answer_text": "Increase speed to build up oil pressure",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -593,18 +1565,51 @@
     "question_text": "What does a high temperature gauge reading on your dashboard indicate?",
     "explanation": "A high temperature gauge reading indicates that your engine is overheating. This could be caused by low coolant, a faulty thermostat, or a broken water pump. You should pull over safely, turn off the engine, and allow it to cool before checking the coolant level.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dashboard_warning", "overheating"],
+    "tags": [
+      "dashboard_warning",
+      "overheating"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-082-a", "question_id": "sup-082", "answer_text": "The air conditioning is working too hard", "is_correct": false, "display_order": 1},
-      {"id": "sup-082-b", "question_id": "sup-082", "answer_text": "The engine is overheating and you should stop safely", "is_correct": true, "display_order": 2},
-      {"id": "sup-082-c", "question_id": "sup-082", "answer_text": "The outside temperature is very hot", "is_correct": false, "display_order": 3},
-      {"id": "sup-082-d", "question_id": "sup-082", "answer_text": "The heater is turned on", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-082-a",
+        "question_id": "sup-082",
+        "answer_text": "The air conditioning is working too hard",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-082-b",
+        "question_id": "sup-082",
+        "answer_text": "The engine is overheating and you should stop safely",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-082-c",
+        "question_id": "sup-082",
+        "answer_text": "The outside temperature is very hot",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-082-d",
+        "question_id": "sup-082",
+        "answer_text": "The heater is turned on",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -612,18 +1617,51 @@
     "question_text": "What does the battery warning light on your dashboard indicate?",
     "explanation": "The battery warning light indicates a fault in the vehicle's charging system, not necessarily a dead battery. The alternator may not be charging the battery properly. You should have the charging system inspected as soon as possible to avoid being stranded.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dashboard_warning", "battery"],
+    "tags": [
+      "dashboard_warning",
+      "battery"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-083-a", "question_id": "sup-083", "answer_text": "The battery is fully charged", "is_correct": false, "display_order": 1},
-      {"id": "sup-083-b", "question_id": "sup-083", "answer_text": "There is a fault in the charging system", "is_correct": true, "display_order": 2},
-      {"id": "sup-083-c", "question_id": "sup-083", "answer_text": "The headlights are on", "is_correct": false, "display_order": 3},
-      {"id": "sup-083-d", "question_id": "sup-083", "answer_text": "The battery needs water", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-083-a",
+        "question_id": "sup-083",
+        "answer_text": "The battery is fully charged",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-083-b",
+        "question_id": "sup-083",
+        "answer_text": "There is a fault in the charging system",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-083-c",
+        "question_id": "sup-083",
+        "answer_text": "The headlights are on",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-083-d",
+        "question_id": "sup-083",
+        "answer_text": "The battery needs water",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -631,37 +1669,52 @@
     "question_text": "What does the ABS warning light on your dashboard mean?",
     "explanation": "The ABS (Anti-lock Braking System) warning light indicates a problem with the anti-lock braking system. While your regular brakes should still work, the ABS may not function in an emergency stop, which means your wheels could lock up during hard braking. Have it inspected promptly.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dashboard_warning", "abs", "brakes"],
+    "tags": [
+      "dashboard_warning",
+      "abs",
+      "brakes"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-084-a", "question_id": "sup-084", "answer_text": "The brakes have completely failed", "is_correct": false, "display_order": 1},
-      {"id": "sup-084-b", "question_id": "sup-084", "answer_text": "There is an issue with the anti-lock braking system", "is_correct": true, "display_order": 2},
-      {"id": "sup-084-c", "question_id": "sup-084", "answer_text": "The parking brake is engaged", "is_correct": false, "display_order": 3},
-      {"id": "sup-084-d", "question_id": "sup-084", "answer_text": "The brake pads are brand new", "is_correct": false, "display_order": 4}
-    ]
-  },
-  {
-    "id": "sup-085",
-    "question_text": "What is the minimum legal tire tread depth in the UAE?",
-    "explanation": "The minimum legal tire tread depth in the UAE is 1.6 mm. Tires with less tread have significantly reduced grip, especially in wet conditions, and longer braking distances. Check tread depth regularly using a tread depth gauge or the wear indicators built into the tire.",
-    "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
-    "difficulty": 2,
-    "relevance_rank": 8,
-    "svg_illustration_key": null,
-    "image_url": null,
-    "tags": ["tires", "tread_depth"],
-    "is_edcad_style": false,
-    "answers": [
-      {"id": "sup-085-a", "question_id": "sup-085", "answer_text": "0.8 mm", "is_correct": false, "display_order": 1},
-      {"id": "sup-085-b", "question_id": "sup-085", "answer_text": "1.6 mm", "is_correct": true, "display_order": 2},
-      {"id": "sup-085-c", "question_id": "sup-085", "answer_text": "3.0 mm", "is_correct": false, "display_order": 3},
-      {"id": "sup-085-d", "question_id": "sup-085", "answer_text": "5.0 mm", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-084-a",
+        "question_id": "sup-084",
+        "answer_text": "The brakes have completely failed",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-084-b",
+        "question_id": "sup-084",
+        "answer_text": "There is an issue with the anti-lock braking system",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-084-c",
+        "question_id": "sup-084",
+        "answer_text": "The parking brake is engaged",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-084-d",
+        "question_id": "sup-084",
+        "answer_text": "The brake pads are brand new",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -669,18 +1722,51 @@
     "question_text": "When should you check your tire pressure?",
     "explanation": "Tire pressure should be checked when the tires are cold, before driving or after the vehicle has been stationary for at least three hours. Driving heats up tires and increases pressure, giving inaccurate readings. Check pressure at least once a month.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tires", "tire_pressure"],
+    "tags": [
+      "tires",
+      "tire_pressure"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-086-a", "question_id": "sup-086", "answer_text": "Immediately after a long drive when tires are warm", "is_correct": false, "display_order": 1},
-      {"id": "sup-086-b", "question_id": "sup-086", "answer_text": "When the tires are cold, before driving", "is_correct": true, "display_order": 2},
-      {"id": "sup-086-c", "question_id": "sup-086", "answer_text": "Only when the tire pressure warning light comes on", "is_correct": false, "display_order": 3},
-      {"id": "sup-086-d", "question_id": "sup-086", "answer_text": "During the hottest part of the day", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-086-a",
+        "question_id": "sup-086",
+        "answer_text": "Immediately after a long drive when tires are warm",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-086-b",
+        "question_id": "sup-086",
+        "answer_text": "When the tires are cold, before driving",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-086-c",
+        "question_id": "sup-086",
+        "answer_text": "Only when the tire pressure warning light comes on",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-086-d",
+        "question_id": "sup-086",
+        "answer_text": "During the hottest part of the day",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -688,18 +1774,51 @@
     "question_text": "How often should you check the spare tire?",
     "explanation": "The spare tire should have its pressure checked regularly, ideally every month along with your other tires. A flat or underinflated spare tire is useless in an emergency. Also check that the jack and wheel wrench are present and in working condition.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tires", "spare_tire"],
+    "tags": [
+      "tires",
+      "spare_tire"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-087-a", "question_id": "sup-087", "answer_text": "Only when you need to use it", "is_correct": false, "display_order": 1},
-      {"id": "sup-087-b", "question_id": "sup-087", "answer_text": "Once a year during vehicle inspection", "is_correct": false, "display_order": 2},
-      {"id": "sup-087-c", "question_id": "sup-087", "answer_text": "Regularly, checking pressure at least once a month", "is_correct": true, "display_order": 3},
-      {"id": "sup-087-d", "question_id": "sup-087", "answer_text": "Spare tires do not need to be checked", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-087-a",
+        "question_id": "sup-087",
+        "answer_text": "Only when you need to use it",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-087-b",
+        "question_id": "sup-087",
+        "answer_text": "Once a year during vehicle inspection",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-087-c",
+        "question_id": "sup-087",
+        "answer_text": "Regularly, checking pressure at least once a month",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-087-d",
+        "question_id": "sup-087",
+        "answer_text": "Spare tires do not need to be checked",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -707,18 +1826,51 @@
     "question_text": "What should you check regarding your brake fluid?",
     "explanation": "You should regularly check the brake fluid level in the reservoir and ensure it meets the manufacturer's recommended DOT rating. Low brake fluid can indicate worn brake pads or a leak in the braking system, both of which require immediate attention.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["brakes", "brake_fluid"],
+    "tags": [
+      "brakes",
+      "brake_fluid"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-088-a", "question_id": "sup-088", "answer_text": "Only the color of the fluid", "is_correct": false, "display_order": 1},
-      {"id": "sup-088-b", "question_id": "sup-088", "answer_text": "The fluid level and that it meets the correct DOT rating", "is_correct": true, "display_order": 2},
-      {"id": "sup-088-c", "question_id": "sup-088", "answer_text": "Brake fluid never needs to be checked", "is_correct": false, "display_order": 3},
-      {"id": "sup-088-d", "question_id": "sup-088", "answer_text": "Only the temperature of the fluid", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-088-a",
+        "question_id": "sup-088",
+        "answer_text": "Only the color of the fluid",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-088-b",
+        "question_id": "sup-088",
+        "answer_text": "The fluid level and that it meets the correct DOT rating",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-088-c",
+        "question_id": "sup-088",
+        "answer_text": "Brake fluid never needs to be checked",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-088-d",
+        "question_id": "sup-088",
+        "answer_text": "Only the temperature of the fluid",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -726,18 +1878,51 @@
     "question_text": "When should you replace your windshield wipers?",
     "explanation": "Windshield wipers should be replaced when they start streaking, smearing, or leaving areas of the windshield unwiped. In the UAE's hot climate, wiper rubber deteriorates faster due to sun exposure. Poor wipers severely reduce visibility during rain.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["wipers", "visibility"],
+    "tags": [
+      "wipers",
+      "visibility"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-089-a", "question_id": "sup-089", "answer_text": "Only during the annual vehicle inspection", "is_correct": false, "display_order": 1},
-      {"id": "sup-089-b", "question_id": "sup-089", "answer_text": "When they start streaking or smearing on the windshield", "is_correct": true, "display_order": 2},
-      {"id": "sup-089-c", "question_id": "sup-089", "answer_text": "Every 5 years regardless of condition", "is_correct": false, "display_order": 3},
-      {"id": "sup-089-d", "question_id": "sup-089", "answer_text": "Only when they completely fall off", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-089-a",
+        "question_id": "sup-089",
+        "answer_text": "Only during the annual vehicle inspection",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-089-b",
+        "question_id": "sup-089",
+        "answer_text": "When they start streaking or smearing on the windshield",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-089-c",
+        "question_id": "sup-089",
+        "answer_text": "Every 5 years regardless of condition",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-089-d",
+        "question_id": "sup-089",
+        "answer_text": "Only when they completely fall off",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -745,18 +1930,51 @@
     "question_text": "Why is headlight alignment important?",
     "explanation": "Misaligned headlights are dangerous, especially at night. If aimed too high, they blind oncoming drivers. If aimed too low or to the side, they fail to illuminate the road properly. Headlight alignment should be checked regularly and after any front-end collision.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["headlights", "night_driving"],
+    "tags": [
+      "headlights",
+      "night_driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-090-a", "question_id": "sup-090", "answer_text": "It only affects the vehicle's appearance", "is_correct": false, "display_order": 1},
-      {"id": "sup-090-b", "question_id": "sup-090", "answer_text": "Misaligned headlights can blind oncoming drivers or fail to illuminate the road", "is_correct": true, "display_order": 2},
-      {"id": "sup-090-c", "question_id": "sup-090", "answer_text": "Headlights are self-aligning and never need adjustment", "is_correct": false, "display_order": 3},
-      {"id": "sup-090-d", "question_id": "sup-090", "answer_text": "It only matters for vehicles with LED headlights", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-090-a",
+        "question_id": "sup-090",
+        "answer_text": "It only affects the vehicle's appearance",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-090-b",
+        "question_id": "sup-090",
+        "answer_text": "Misaligned headlights can blind oncoming drivers or fail to illuminate the road",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-090-c",
+        "question_id": "sup-090",
+        "answer_text": "Headlights are self-aligning and never need adjustment",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-090-d",
+        "question_id": "sup-090",
+        "answer_text": "It only matters for vehicles with LED headlights",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -764,18 +1982,51 @@
     "question_text": "When should you check the coolant level in your vehicle?",
     "explanation": "Coolant level should be checked when the engine is cold. Opening the radiator cap or coolant reservoir when the engine is hot can release pressurized steam and boiling coolant, causing severe burns. Check the level against the min/max markings on the reservoir.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["coolant", "engine_maintenance"],
+    "tags": [
+      "coolant",
+      "engine_maintenance"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-091-a", "question_id": "sup-091", "answer_text": "When the engine is hot for an accurate reading", "is_correct": false, "display_order": 1},
-      {"id": "sup-091-b", "question_id": "sup-091", "answer_text": "When the engine is cold to avoid burns from hot coolant", "is_correct": true, "display_order": 2},
-      {"id": "sup-091-c", "question_id": "sup-091", "answer_text": "While the engine is running", "is_correct": false, "display_order": 3},
-      {"id": "sup-091-d", "question_id": "sup-091", "answer_text": "Coolant does not need to be checked; it is sealed for life", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-091-a",
+        "question_id": "sup-091",
+        "answer_text": "When the engine is hot for an accurate reading",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-091-b",
+        "question_id": "sup-091",
+        "answer_text": "When the engine is cold to avoid burns from hot coolant",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-091-c",
+        "question_id": "sup-091",
+        "answer_text": "While the engine is running",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-091-d",
+        "question_id": "sup-091",
+        "answer_text": "Coolant does not need to be checked; it is sealed for life",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -783,18 +2034,51 @@
     "question_text": "What could heavy or difficult steering indicate?",
     "explanation": "Heavy or difficult steering can indicate low power steering fluid. The power steering system relies on hydraulic fluid to assist with turning the wheel. If the fluid is low, steering becomes much harder, especially at low speeds. Check the fluid level and look for leaks.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["steering", "power_steering"],
+    "tags": [
+      "steering",
+      "power_steering"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-092-a", "question_id": "sup-092", "answer_text": "The tires are overinflated", "is_correct": false, "display_order": 1},
-      {"id": "sup-092-b", "question_id": "sup-092", "answer_text": "Low power steering fluid or a power steering system fault", "is_correct": true, "display_order": 2},
-      {"id": "sup-092-c", "question_id": "sup-092", "answer_text": "The engine oil needs changing", "is_correct": false, "display_order": 3},
-      {"id": "sup-092-d", "question_id": "sup-092", "answer_text": "The vehicle needs a wheel alignment", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-092-a",
+        "question_id": "sup-092",
+        "answer_text": "The tires are overinflated",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-092-b",
+        "question_id": "sup-092",
+        "answer_text": "Low power steering fluid or a power steering system fault",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-092-c",
+        "question_id": "sup-092",
+        "answer_text": "The engine oil needs changing",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-092-d",
+        "question_id": "sup-092",
+        "answer_text": "The vehicle needs a wheel alignment",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -802,18 +2086,51 @@
     "question_text": "How often should you change your engine oil?",
     "explanation": "Engine oil should be changed according to the intervals specified in your vehicle's manufacturer manual. This varies by vehicle and oil type but is typically every 5,000 to 15,000 km. In the UAE's hot climate, more frequent changes may be recommended.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["engine_oil", "maintenance_schedule"],
+    "tags": [
+      "engine_oil",
+      "maintenance_schedule"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-093-a", "question_id": "sup-093", "answer_text": "Only when the oil warning light comes on", "is_correct": false, "display_order": 1},
-      {"id": "sup-093-b", "question_id": "sup-093", "answer_text": "According to the intervals in your vehicle's manufacturer manual", "is_correct": true, "display_order": 2},
-      {"id": "sup-093-c", "question_id": "sup-093", "answer_text": "Once every 3 years regardless of distance driven", "is_correct": false, "display_order": 3},
-      {"id": "sup-093-d", "question_id": "sup-093", "answer_text": "Engine oil never needs to be changed in modern vehicles", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-093-a",
+        "question_id": "sup-093",
+        "answer_text": "Only when the oil warning light comes on",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-093-b",
+        "question_id": "sup-093",
+        "answer_text": "According to the intervals in your vehicle's manufacturer manual",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-093-c",
+        "question_id": "sup-093",
+        "answer_text": "Once every 3 years regardless of distance driven",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-093-d",
+        "question_id": "sup-093",
+        "answer_text": "Engine oil never needs to be changed in modern vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -821,18 +2138,51 @@
     "question_text": "Why is proper wheel alignment important for your vehicle?",
     "explanation": "Proper wheel alignment ensures even tire wear, better fuel efficiency, and safe vehicle handling. Misaligned wheels cause the vehicle to pull to one side, result in uneven tire wear, and can make the vehicle harder to control, especially at high speeds.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 7,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["wheel_alignment", "tire_wear"],
+    "tags": [
+      "wheel_alignment",
+      "tire_wear"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-094-a", "question_id": "sup-094", "answer_text": "It only affects the vehicle's appearance", "is_correct": false, "display_order": 1},
-      {"id": "sup-094-b", "question_id": "sup-094", "answer_text": "It ensures even tire wear, fuel efficiency, and safe handling", "is_correct": true, "display_order": 2},
-      {"id": "sup-094-c", "question_id": "sup-094", "answer_text": "Wheel alignment only matters for racing vehicles", "is_correct": false, "display_order": 3},
-      {"id": "sup-094-d", "question_id": "sup-094", "answer_text": "It only needs to be done when buying new tires", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-094-a",
+        "question_id": "sup-094",
+        "answer_text": "It only affects the vehicle's appearance",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-094-b",
+        "question_id": "sup-094",
+        "answer_text": "It ensures even tire wear, fuel efficiency, and safe handling",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-094-c",
+        "question_id": "sup-094",
+        "answer_text": "Wheel alignment only matters for racing vehicles",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-094-d",
+        "question_id": "sup-094",
+        "answer_text": "It only needs to be done when buying new tires",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -840,18 +2190,51 @@
     "question_text": "For children under 2 years old, what type of car seat is recommended?",
     "explanation": "Children under 2 years old should be placed in a rear-facing car seat. In a collision, a rear-facing seat distributes crash forces across the child's entire back and head, protecting the fragile neck and spine. This is the safest position for infants and young toddlers.",
     "module": "vehicle_maintenance",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["child_safety", "car_seat"],
+    "tags": [
+      "child_safety",
+      "car_seat"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-095-a", "question_id": "sup-095", "answer_text": "A forward-facing car seat in the front passenger seat", "is_correct": false, "display_order": 1},
-      {"id": "sup-095-b", "question_id": "sup-095", "answer_text": "A rear-facing car seat", "is_correct": true, "display_order": 2},
-      {"id": "sup-095-c", "question_id": "sup-095", "answer_text": "A booster seat with the regular seatbelt", "is_correct": false, "display_order": 3},
-      {"id": "sup-095-d", "question_id": "sup-095", "answer_text": "Held securely on an adult's lap", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-095-a",
+        "question_id": "sup-095",
+        "answer_text": "A forward-facing car seat in the front passenger seat",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-095-b",
+        "question_id": "sup-095",
+        "answer_text": "A rear-facing car seat",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-095-c",
+        "question_id": "sup-095",
+        "answer_text": "A booster seat with the regular seatbelt",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-095-d",
+        "question_id": "sup-095",
+        "answer_text": "Held securely on an adult's lap",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -859,18 +2242,51 @@
     "question_text": "What is the speed limit near schools in the UAE?",
     "explanation": "The speed limit near schools in the UAE is typically 40 km/h during school hours. School zones are marked with special signs and road markings. Drivers must be extra vigilant for children who may cross the road unexpectedly.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["school_zone", "speed_limit"],
+    "tags": [
+      "school_zone",
+      "speed_limit"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-096-a", "question_id": "sup-096", "answer_text": "20 km/h", "is_correct": false, "display_order": 1},
-      {"id": "sup-096-b", "question_id": "sup-096", "answer_text": "40 km/h", "is_correct": true, "display_order": 2},
-      {"id": "sup-096-c", "question_id": "sup-096", "answer_text": "60 km/h", "is_correct": false, "display_order": 3},
-      {"id": "sup-096-d", "question_id": "sup-096", "answer_text": "80 km/h", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-096-a",
+        "question_id": "sup-096",
+        "answer_text": "20 km/h",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-096-b",
+        "question_id": "sup-096",
+        "answer_text": "40 km/h",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-096-c",
+        "question_id": "sup-096",
+        "answer_text": "60 km/h",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-096-d",
+        "question_id": "sup-096",
+        "answer_text": "80 km/h",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -878,18 +2294,51 @@
     "question_text": "How should you approach driving near elderly pedestrians?",
     "explanation": "Elderly pedestrians may walk more slowly, have limited hearing or vision, and take longer to cross the road. Give them extra time and space, be patient, and do not honk or rush them. Always be prepared to stop.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["elderly_pedestrians", "vulnerable_users"],
+    "tags": [
+      "elderly_pedestrians",
+      "vulnerable_users"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-097-a", "question_id": "sup-097", "answer_text": "Honk to alert them to move faster", "is_correct": false, "display_order": 1},
-      {"id": "sup-097-b", "question_id": "sup-097", "answer_text": "Give them extra time and be patient as they may be slower", "is_correct": true, "display_order": 2},
-      {"id": "sup-097-c", "question_id": "sup-097", "answer_text": "Flash your headlights so they can see you", "is_correct": false, "display_order": 3},
-      {"id": "sup-097-d", "question_id": "sup-097", "answer_text": "Drive around them quickly to avoid delay", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-097-a",
+        "question_id": "sup-097",
+        "answer_text": "Honk to alert them to move faster",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-097-b",
+        "question_id": "sup-097",
+        "answer_text": "Give them extra time and be patient as they may be slower",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-097-c",
+        "question_id": "sup-097",
+        "answer_text": "Flash your headlights so they can see you",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-097-d",
+        "question_id": "sup-097",
+        "answer_text": "Drive around them quickly to avoid delay",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -897,18 +2346,51 @@
     "question_text": "Why should drivers be extra cautious around children near roads?",
     "explanation": "Children are unpredictable and may suddenly run into the road without looking. They are smaller and harder to see, may not understand traffic rules, and often misjudge the speed and distance of approaching vehicles. Always slow down and be ready to stop in areas where children may be present.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["children", "vulnerable_users"],
+    "tags": [
+      "children",
+      "vulnerable_users"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-098-a", "question_id": "sup-098", "answer_text": "Children always follow traffic rules", "is_correct": false, "display_order": 1},
-      {"id": "sup-098-b", "question_id": "sup-098", "answer_text": "Children are unpredictable and may suddenly run into the road", "is_correct": true, "display_order": 2},
-      {"id": "sup-098-c", "question_id": "sup-098", "answer_text": "Children are only a concern near schools", "is_correct": false, "display_order": 3},
-      {"id": "sup-098-d", "question_id": "sup-098", "answer_text": "Drivers do not need to be extra cautious if children are on the sidewalk", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-098-a",
+        "question_id": "sup-098",
+        "answer_text": "Children always follow traffic rules",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-098-b",
+        "question_id": "sup-098",
+        "answer_text": "Children are unpredictable and may suddenly run into the road",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup-098-c",
+        "question_id": "sup-098",
+        "answer_text": "Children are only a concern near schools",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-098-d",
+        "question_id": "sup-098",
+        "answer_text": "Drivers do not need to be extra cautious if children are on the sidewalk",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -916,18 +2398,51 @@
     "question_text": "What is the recommended minimum distance to maintain when passing a cyclist?",
     "explanation": "When overtaking a cyclist, you should maintain a minimum passing distance of 1.5 meters (about 5 feet). Cyclists are vulnerable road users who can be destabilized by wind from passing vehicles, and they may need to swerve to avoid potholes or debris.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["cyclists", "passing_distance"],
+    "tags": [
+      "cyclists",
+      "passing_distance"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-099-a", "question_id": "sup-099", "answer_text": "0.5 meters", "is_correct": false, "display_order": 1},
-      {"id": "sup-099-b", "question_id": "sup-099", "answer_text": "1.0 meter", "is_correct": false, "display_order": 2},
-      {"id": "sup-099-c", "question_id": "sup-099", "answer_text": "1.5 meters", "is_correct": true, "display_order": 3},
-      {"id": "sup-099-d", "question_id": "sup-099", "answer_text": "3.0 meters", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-099-a",
+        "question_id": "sup-099",
+        "answer_text": "0.5 meters",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-099-b",
+        "question_id": "sup-099",
+        "answer_text": "1.0 meter",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-099-c",
+        "question_id": "sup-099",
+        "answer_text": "1.5 meters",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-099-d",
+        "question_id": "sup-099",
+        "answer_text": "3.0 meters",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -935,18 +2450,51 @@
     "question_text": "What should you do when driving through a construction or work zone?",
     "explanation": "In construction zones, you should slow down, follow the posted speed limits, obey instructions from flaggers or traffic controllers, and stay alert for workers and equipment on or near the road. Fines for violations in work zones are often doubled in the UAE.",
     "module": "hazard_perception",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["construction_zone", "work_zone"],
+    "tags": [
+      "construction_zone",
+      "work_zone"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-100-a", "question_id": "sup-100", "answer_text": "Maintain your normal speed if no workers are visible", "is_correct": false, "display_order": 1},
-      {"id": "sup-100-b", "question_id": "sup-100", "answer_text": "Speed up to get through the zone quickly", "is_correct": false, "display_order": 2},
-      {"id": "sup-100-c", "question_id": "sup-100", "answer_text": "Slow down, follow posted limits, and obey flaggers' instructions", "is_correct": true, "display_order": 3},
-      {"id": "sup-100-d", "question_id": "sup-100", "answer_text": "Only slow down if there is a police officer present", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-100-a",
+        "question_id": "sup-100",
+        "answer_text": "Maintain your normal speed if no workers are visible",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup-100-b",
+        "question_id": "sup-100",
+        "answer_text": "Speed up to get through the zone quickly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-100-c",
+        "question_id": "sup-100",
+        "answer_text": "Slow down, follow posted limits, and obey flaggers' instructions",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup-100-d",
+        "question_id": "sup-100",
+        "answer_text": "Only slow down if there is a police officer present",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   }
 ]

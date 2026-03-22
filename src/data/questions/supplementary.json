@@ -4,18 +4,51 @@
     "question_text": "What is the correct emergency number to call the police in the UAE?",
     "explanation": "In the UAE, 999 is the police emergency number, 998 is for ambulance services, and 997 is for the fire department. These numbers should be memorized by all drivers.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["emergency", "uae-specific"],
+    "tags": [
+      "emergency",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-001-a", "question_id": "sup-001", "answer_text": "999", "is_correct": true, "display_order": 1},
-      {"id": "sup-001-b", "question_id": "sup-001", "answer_text": "911", "is_correct": false, "display_order": 2},
-      {"id": "sup-001-c", "question_id": "sup-001", "answer_text": "112", "is_correct": false, "display_order": 3},
-      {"id": "sup-001-d", "question_id": "sup-001", "answer_text": "998", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-001-a",
+        "question_id": "sup-001",
+        "answer_text": "999",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-001-b",
+        "question_id": "sup-001",
+        "answer_text": "911",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-001-c",
+        "question_id": "sup-001",
+        "answer_text": "112",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-001-d",
+        "question_id": "sup-001",
+        "answer_text": "998",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -23,18 +56,52 @@
     "question_text": "How many black points lead to a driving license suspension in the UAE?",
     "explanation": "Under UAE traffic law, accumulating 24 black points within one year results in the suspension of your driving license. Black points are assigned for various traffic violations.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["black-points", "penalties", "uae-specific"],
+    "tags": [
+      "black-points",
+      "penalties",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-002-a", "question_id": "sup-002", "answer_text": "24 black points", "is_correct": true, "display_order": 1},
-      {"id": "sup-002-b", "question_id": "sup-002", "answer_text": "12 black points", "is_correct": false, "display_order": 2},
-      {"id": "sup-002-c", "question_id": "sup-002", "answer_text": "18 black points", "is_correct": false, "display_order": 3},
-      {"id": "sup-002-d", "question_id": "sup-002", "answer_text": "30 black points", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-002-a",
+        "question_id": "sup-002",
+        "answer_text": "24 black points",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-002-b",
+        "question_id": "sup-002",
+        "answer_text": "12 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-002-c",
+        "question_id": "sup-002",
+        "answer_text": "18 black points",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-002-d",
+        "question_id": "sup-002",
+        "answer_text": "30 black points",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -42,18 +109,53 @@
     "question_text": "What is the fine and penalty for running a red light in the UAE?",
     "explanation": "Running a red light in the UAE carries a fine of AED 1,000 and 12 black points. This is one of the most serious traffic offenses due to the extreme danger it poses to all road users.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fines", "red-light", "black-points", "uae-specific"],
+    "tags": [
+      "fines",
+      "red-light",
+      "black-points",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-003-a", "question_id": "sup-003", "answer_text": "AED 1,000 fine and 12 black points", "is_correct": true, "display_order": 1},
-      {"id": "sup-003-b", "question_id": "sup-003", "answer_text": "AED 500 fine and 6 black points", "is_correct": false, "display_order": 2},
-      {"id": "sup-003-c", "question_id": "sup-003", "answer_text": "AED 2,000 fine and 24 black points", "is_correct": false, "display_order": 3},
-      {"id": "sup-003-d", "question_id": "sup-003", "answer_text": "AED 800 fine and 8 black points", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-003-a",
+        "question_id": "sup-003",
+        "answer_text": "AED 1,000 fine and 12 black points",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-003-b",
+        "question_id": "sup-003",
+        "answer_text": "AED 500 fine and 6 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-003-c",
+        "question_id": "sup-003",
+        "answer_text": "AED 2,000 fine and 24 black points",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-003-d",
+        "question_id": "sup-003",
+        "answer_text": "AED 800 fine and 8 black points",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -61,18 +163,53 @@
     "question_text": "What is the penalty for using a mobile phone while driving in the UAE?",
     "explanation": "Using a mobile phone while driving in the UAE results in a fine of AED 800 and 4 black points. This includes texting, calling without hands-free, and browsing. Hands-free devices are permitted.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fines", "mobile-phone", "black-points", "uae-specific"],
+    "tags": [
+      "fines",
+      "mobile-phone",
+      "black-points",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-004-a", "question_id": "sup-004", "answer_text": "AED 800 fine and 4 black points", "is_correct": true, "display_order": 1},
-      {"id": "sup-004-b", "question_id": "sup-004", "answer_text": "AED 400 fine and 2 black points", "is_correct": false, "display_order": 2},
-      {"id": "sup-004-c", "question_id": "sup-004", "answer_text": "AED 1,000 fine and 6 black points", "is_correct": false, "display_order": 3},
-      {"id": "sup-004-d", "question_id": "sup-004", "answer_text": "AED 200 fine and no black points", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-004-a",
+        "question_id": "sup-004",
+        "answer_text": "AED 800 fine and 4 black points",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-004-b",
+        "question_id": "sup-004",
+        "answer_text": "AED 400 fine and 2 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-004-c",
+        "question_id": "sup-004",
+        "answer_text": "AED 1,000 fine and 6 black points",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-004-d",
+        "question_id": "sup-004",
+        "answer_text": "AED 200 fine and no black points",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -80,18 +217,53 @@
     "question_text": "What is the fine for not wearing a seatbelt in the UAE?",
     "explanation": "Not wearing a seatbelt in the UAE results in a fine of AED 400 and 4 black points. All passengers, including those in the rear seats, must wear seatbelts.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fines", "seatbelt", "black-points", "uae-specific"],
+    "tags": [
+      "fines",
+      "seatbelt",
+      "black-points",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-005-a", "question_id": "sup-005", "answer_text": "AED 400 fine and 4 black points", "is_correct": true, "display_order": 1},
-      {"id": "sup-005-b", "question_id": "sup-005", "answer_text": "AED 200 fine and 2 black points", "is_correct": false, "display_order": 2},
-      {"id": "sup-005-c", "question_id": "sup-005", "answer_text": "AED 600 fine and 6 black points", "is_correct": false, "display_order": 3},
-      {"id": "sup-005-d", "question_id": "sup-005", "answer_text": "AED 100 fine and no black points", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-005-a",
+        "question_id": "sup-005",
+        "answer_text": "AED 400 fine and 4 black points",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-005-b",
+        "question_id": "sup-005",
+        "answer_text": "AED 200 fine and 2 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-005-c",
+        "question_id": "sup-005",
+        "answer_text": "AED 600 fine and 6 black points",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-005-d",
+        "question_id": "sup-005",
+        "answer_text": "AED 100 fine and no black points",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -99,18 +271,53 @@
     "question_text": "What is the penalty for tailgating (following too closely) in the UAE?",
     "explanation": "Tailgating in the UAE carries a fine of AED 400 and 4 black points. Drivers must maintain a safe following distance to allow adequate stopping time. The recommended gap is at least 2 seconds behind the vehicle in front.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fines", "tailgating", "black-points", "uae-specific"],
+    "tags": [
+      "fines",
+      "tailgating",
+      "black-points",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-006-a", "question_id": "sup-006", "answer_text": "AED 400 fine and 4 black points", "is_correct": true, "display_order": 1},
-      {"id": "sup-006-b", "question_id": "sup-006", "answer_text": "AED 200 fine and 2 black points", "is_correct": false, "display_order": 2},
-      {"id": "sup-006-c", "question_id": "sup-006", "answer_text": "AED 800 fine and 8 black points", "is_correct": false, "display_order": 3},
-      {"id": "sup-006-d", "question_id": "sup-006", "answer_text": "Warning only, no fine", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-006-a",
+        "question_id": "sup-006",
+        "answer_text": "AED 400 fine and 4 black points",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-006-b",
+        "question_id": "sup-006",
+        "answer_text": "AED 200 fine and 2 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-006-c",
+        "question_id": "sup-006",
+        "answer_text": "AED 800 fine and 8 black points",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-006-d",
+        "question_id": "sup-006",
+        "answer_text": "Warning only, no fine",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -118,18 +325,53 @@
     "question_text": "What is the UAE's policy on driving under the influence of alcohol?",
     "explanation": "The UAE enforces a zero-tolerance policy for driving under the influence of alcohol. Any detectable amount of alcohol can result in heavy fines, vehicle impoundment, and imprisonment. There is no 'legal limit' — any trace of alcohol is illegal.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["alcohol", "dui", "zero-tolerance", "uae-specific"],
+    "tags": [
+      "alcohol",
+      "dui",
+      "zero-tolerance",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-007-a", "question_id": "sup-007", "answer_text": "Zero tolerance — any amount of alcohol can lead to imprisonment", "is_correct": true, "display_order": 1},
-      {"id": "sup-007-b", "question_id": "sup-007", "answer_text": "A blood alcohol level of 0.05% is the legal limit", "is_correct": false, "display_order": 2},
-      {"id": "sup-007-c", "question_id": "sup-007", "answer_text": "One standard drink is permitted before driving", "is_correct": false, "display_order": 3},
-      {"id": "sup-007-d", "question_id": "sup-007", "answer_text": "Only a fine is issued for first-time offenders", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-007-a",
+        "question_id": "sup-007",
+        "answer_text": "Zero tolerance — any amount of alcohol can lead to imprisonment",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-007-b",
+        "question_id": "sup-007",
+        "answer_text": "A blood alcohol level of 0.05% is the legal limit",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-007-c",
+        "question_id": "sup-007",
+        "answer_text": "One standard drink is permitted before driving",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-007-d",
+        "question_id": "sup-007",
+        "answer_text": "Only a fine is issued for first-time offenders",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -137,18 +379,52 @@
     "question_text": "At an unmarked intersection with no traffic signs or signals, who has the right of way?",
     "explanation": "In the UAE, the right-hand rule applies at unmarked intersections. You must give way to vehicles approaching from your right. This is a fundamental rule that applies when there are no signs, signals, or road markings to indicate priority.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["right-of-way", "intersections", "uae-specific"],
+    "tags": [
+      "right-of-way",
+      "intersections",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-008-a", "question_id": "sup-008", "answer_text": "The vehicle approaching from your right has priority", "is_correct": true, "display_order": 1},
-      {"id": "sup-008-b", "question_id": "sup-008", "answer_text": "The vehicle approaching from your left has priority", "is_correct": false, "display_order": 2},
-      {"id": "sup-008-c", "question_id": "sup-008", "answer_text": "The vehicle that arrives first has priority", "is_correct": false, "display_order": 3},
-      {"id": "sup-008-d", "question_id": "sup-008", "answer_text": "The larger vehicle always has priority", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-008-a",
+        "question_id": "sup-008",
+        "answer_text": "The vehicle approaching from your right has priority",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-008-b",
+        "question_id": "sup-008",
+        "answer_text": "The vehicle approaching from your left has priority",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-008-c",
+        "question_id": "sup-008",
+        "answer_text": "The vehicle that arrives first has priority",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-008-d",
+        "question_id": "sup-008",
+        "answer_text": "The larger vehicle always has priority",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -156,18 +432,52 @@
     "question_text": "When should you use hazard warning lights while driving in the UAE?",
     "explanation": "Hazard warning lights should only be used when your vehicle is broken down or in an emergency situation. Using them while driving in rain is incorrect and illegal in the UAE, as it confuses other drivers and masks your turn signals.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["hazard-lights", "breakdowns", "uae-specific"],
+    "tags": [
+      "hazard-lights",
+      "breakdowns",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-009-a", "question_id": "sup-009", "answer_text": "Only when your vehicle has broken down or in an emergency", "is_correct": true, "display_order": 1},
-      {"id": "sup-009-b", "question_id": "sup-009", "answer_text": "During heavy rain to increase visibility", "is_correct": false, "display_order": 2},
-      {"id": "sup-009-c", "question_id": "sup-009", "answer_text": "When driving slowly in the fast lane", "is_correct": false, "display_order": 3},
-      {"id": "sup-009-d", "question_id": "sup-009", "answer_text": "When double-parking temporarily", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-009-a",
+        "question_id": "sup-009",
+        "answer_text": "Only when your vehicle has broken down or in an emergency",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-009-b",
+        "question_id": "sup-009",
+        "answer_text": "During heavy rain to increase visibility",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-009-c",
+        "question_id": "sup-009",
+        "answer_text": "When driving slowly in the fast lane",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-009-d",
+        "question_id": "sup-009",
+        "answer_text": "When double-parking temporarily",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -175,18 +485,54 @@
     "question_text": "Which documents must a driver carry at all times while driving in the UAE?",
     "explanation": "UAE law requires all drivers to carry their valid driving license, vehicle registration card (mulkiya), and valid vehicle insurance at all times while driving. Failure to produce these when requested by authorities can result in fines.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["documents", "license", "registration", "insurance", "uae-specific"],
+    "tags": [
+      "documents",
+      "license",
+      "registration",
+      "insurance",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-010-a", "question_id": "sup-010", "answer_text": "Driving license, vehicle registration, and insurance", "is_correct": true, "display_order": 1},
-      {"id": "sup-010-b", "question_id": "sup-010", "answer_text": "Only a valid driving license", "is_correct": false, "display_order": 2},
-      {"id": "sup-010-c", "question_id": "sup-010", "answer_text": "Driving license and passport only", "is_correct": false, "display_order": 3},
-      {"id": "sup-010-d", "question_id": "sup-010", "answer_text": "Vehicle registration and Emirates ID only", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-010-a",
+        "question_id": "sup-010",
+        "answer_text": "Driving license, vehicle registration, and insurance",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-010-b",
+        "question_id": "sup-010",
+        "answer_text": "Only a valid driving license",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-010-c",
+        "question_id": "sup-010",
+        "answer_text": "Driving license and passport only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-010-d",
+        "question_id": "sup-010",
+        "answer_text": "Vehicle registration and Emirates ID only",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -194,18 +540,53 @@
     "question_text": "What should you do after a traffic accident with injuries in the UAE?",
     "explanation": "After an accident with injuries, do NOT move the vehicles. Call 999 (police) and 998 (ambulance) immediately. Moving injured persons or vehicles before authorities arrive can result in legal penalties and may worsen injuries.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["accidents", "emergency", "injuries", "uae-specific"],
+    "tags": [
+      "accidents",
+      "emergency",
+      "injuries",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-011-a", "question_id": "sup-011", "answer_text": "Do not move the vehicles, call 999 for police and 998 for ambulance", "is_correct": true, "display_order": 1},
-      {"id": "sup-011-b", "question_id": "sup-011", "answer_text": "Move vehicles to the side of the road, then call police", "is_correct": false, "display_order": 2},
-      {"id": "sup-011-c", "question_id": "sup-011", "answer_text": "Exchange insurance details and drive to the nearest hospital", "is_correct": false, "display_order": 3},
-      {"id": "sup-011-d", "question_id": "sup-011", "answer_text": "Take photos and report online within 24 hours", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-011-a",
+        "question_id": "sup-011",
+        "answer_text": "Do not move the vehicles, call 999 for police and 998 for ambulance",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-011-b",
+        "question_id": "sup-011",
+        "answer_text": "Move vehicles to the side of the road, then call police",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-011-c",
+        "question_id": "sup-011",
+        "answer_text": "Exchange insurance details and drive to the nearest hospital",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-011-d",
+        "question_id": "sup-011",
+        "answer_text": "Take photos and report online within 24 hours",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -213,18 +594,53 @@
     "question_text": "Is turning right on a red traffic light allowed in the UAE?",
     "explanation": "Turning right on a red light is NOT allowed in the UAE unless there is a specific green arrow signal permitting the turn. Unlike some other countries, a red light means a complete stop and no turning in any direction.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["red-light", "right-turn", "traffic-signals", "uae-specific"],
+    "tags": [
+      "red-light",
+      "right-turn",
+      "traffic-signals",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-012-a", "question_id": "sup-012", "answer_text": "No, unless there is a green arrow signal permitting the turn", "is_correct": true, "display_order": 1},
-      {"id": "sup-012-b", "question_id": "sup-012", "answer_text": "Yes, after stopping and checking for traffic", "is_correct": false, "display_order": 2},
-      {"id": "sup-012-c", "question_id": "sup-012", "answer_text": "Yes, it is always allowed in the UAE", "is_correct": false, "display_order": 3},
-      {"id": "sup-012-d", "question_id": "sup-012", "answer_text": "Only during off-peak hours", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-012-a",
+        "question_id": "sup-012",
+        "answer_text": "No, unless there is a green arrow signal permitting the turn",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-012-b",
+        "question_id": "sup-012",
+        "answer_text": "Yes, after stopping and checking for traffic",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-012-c",
+        "question_id": "sup-012",
+        "answer_text": "Yes, it is always allowed in the UAE",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-012-d",
+        "question_id": "sup-012",
+        "answer_text": "Only during off-peak hours",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -232,18 +648,53 @@
     "question_text": "What is the minimum distance you must maintain when parking near an intersection in the UAE?",
     "explanation": "In the UAE, you must park at least 10 meters away from an intersection. Parking too close to an intersection can obstruct the view of other drivers and create dangerous situations.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["parking", "intersections", "distance", "uae-specific"],
+    "tags": [
+      "parking",
+      "intersections",
+      "distance",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-013-a", "question_id": "sup-013", "answer_text": "10 meters", "is_correct": true, "display_order": 1},
-      {"id": "sup-013-b", "question_id": "sup-013", "answer_text": "5 meters", "is_correct": false, "display_order": 2},
-      {"id": "sup-013-c", "question_id": "sup-013", "answer_text": "20 meters", "is_correct": false, "display_order": 3},
-      {"id": "sup-013-d", "question_id": "sup-013", "answer_text": "15 meters", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-013-a",
+        "question_id": "sup-013",
+        "answer_text": "10 meters",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-013-b",
+        "question_id": "sup-013",
+        "answer_text": "5 meters",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-013-c",
+        "question_id": "sup-013",
+        "answer_text": "20 meters",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-013-d",
+        "question_id": "sup-013",
+        "answer_text": "15 meters",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -251,18 +702,53 @@
     "question_text": "At what distance should you place a warning triangle after a breakdown on a highway in the UAE?",
     "explanation": "In the UAE, a warning triangle must be placed at least 200 meters behind your vehicle on a highway, and at least 50 meters in urban areas. This gives approaching drivers sufficient time to see the warning and slow down.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["warning-triangle", "breakdown", "highway", "uae-specific"],
+    "tags": [
+      "warning-triangle",
+      "breakdown",
+      "highway",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-014-a", "question_id": "sup-014", "answer_text": "200 meters on a highway, 50 meters in the city", "is_correct": true, "display_order": 1},
-      {"id": "sup-014-b", "question_id": "sup-014", "answer_text": "100 meters on a highway, 25 meters in the city", "is_correct": false, "display_order": 2},
-      {"id": "sup-014-c", "question_id": "sup-014", "answer_text": "50 meters on a highway, 20 meters in the city", "is_correct": false, "display_order": 3},
-      {"id": "sup-014-d", "question_id": "sup-014", "answer_text": "300 meters on a highway, 100 meters in the city", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-014-a",
+        "question_id": "sup-014",
+        "answer_text": "200 meters on a highway, 50 meters in the city",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-014-b",
+        "question_id": "sup-014",
+        "answer_text": "100 meters on a highway, 25 meters in the city",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-014-c",
+        "question_id": "sup-014",
+        "answer_text": "50 meters on a highway, 20 meters in the city",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-014-d",
+        "question_id": "sup-014",
+        "answer_text": "300 meters on a highway, 100 meters in the city",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -270,18 +756,52 @@
     "question_text": "When should you use fog lights on your vehicle?",
     "explanation": "Fog lights should only be used during fog, heavy rain, or sandstorms when visibility is severely reduced. Using fog lights in normal conditions can dazzle other drivers and is a traffic offense in the UAE.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fog-lights", "visibility", "weather"],
+    "tags": [
+      "fog-lights",
+      "visibility",
+      "weather"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-015-a", "question_id": "sup-015", "answer_text": "Only during fog, heavy rain, or sandstorms with severely reduced visibility", "is_correct": true, "display_order": 1},
-      {"id": "sup-015-b", "question_id": "sup-015", "answer_text": "At all times during nighttime driving", "is_correct": false, "display_order": 2},
-      {"id": "sup-015-c", "question_id": "sup-015", "answer_text": "Whenever you want extra light on the road", "is_correct": false, "display_order": 3},
-      {"id": "sup-015-d", "question_id": "sup-015", "answer_text": "Only on highways at night", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-015-a",
+        "question_id": "sup-015",
+        "answer_text": "Only during fog, heavy rain, or sandstorms with severely reduced visibility",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-015-b",
+        "question_id": "sup-015",
+        "answer_text": "At all times during nighttime driving",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-015-c",
+        "question_id": "sup-015",
+        "answer_text": "Whenever you want extra light on the road",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-015-d",
+        "question_id": "sup-015",
+        "answer_text": "Only on highways at night",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -289,18 +809,52 @@
     "question_text": "Is lane splitting (riding between lanes) allowed for motorcycles in the UAE?",
     "explanation": "Lane splitting is not allowed for motorcycles in the UAE. Motorcyclists must follow the same lane discipline as other vehicles and are prohibited from riding between lanes of traffic, even in slow-moving or stationary traffic.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["motorcycles", "lane-splitting", "uae-specific"],
+    "tags": [
+      "motorcycles",
+      "lane-splitting",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-016-a", "question_id": "sup-016", "answer_text": "No, lane splitting is prohibited in the UAE", "is_correct": true, "display_order": 1},
-      {"id": "sup-016-b", "question_id": "sup-016", "answer_text": "Yes, it is allowed in slow-moving traffic", "is_correct": false, "display_order": 2},
-      {"id": "sup-016-c", "question_id": "sup-016", "answer_text": "Yes, but only on highways", "is_correct": false, "display_order": 3},
-      {"id": "sup-016-d", "question_id": "sup-016", "answer_text": "Yes, it is allowed at any time", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-016-a",
+        "question_id": "sup-016",
+        "answer_text": "No, lane splitting is prohibited in the UAE",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-016-b",
+        "question_id": "sup-016",
+        "answer_text": "Yes, it is allowed in slow-moving traffic",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-016-c",
+        "question_id": "sup-016",
+        "answer_text": "Yes, but only on highways",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-016-d",
+        "question_id": "sup-016",
+        "answer_text": "Yes, it is allowed at any time",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -308,18 +862,52 @@
     "question_text": "Is overtaking on the right side permitted in the UAE?",
     "explanation": "Overtaking on the right is prohibited in the UAE. Overtaking must always be done from the left side. Overtaking on the right is dangerous and carries a fine of AED 600 and 6 black points.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["overtaking", "lane-discipline", "uae-specific"],
+    "tags": [
+      "overtaking",
+      "lane-discipline",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-017-a", "question_id": "sup-017", "answer_text": "No, overtaking on the right is prohibited", "is_correct": true, "display_order": 1},
-      {"id": "sup-017-b", "question_id": "sup-017", "answer_text": "Yes, it is allowed on multi-lane roads", "is_correct": false, "display_order": 2},
-      {"id": "sup-017-c", "question_id": "sup-017", "answer_text": "Yes, if the vehicle ahead is turning left", "is_correct": false, "display_order": 3},
-      {"id": "sup-017-d", "question_id": "sup-017", "answer_text": "Yes, it is always permitted in the UAE", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-017-a",
+        "question_id": "sup-017",
+        "answer_text": "No, overtaking on the right is prohibited",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-017-b",
+        "question_id": "sup-017",
+        "answer_text": "Yes, it is allowed on multi-lane roads",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-017-c",
+        "question_id": "sup-017",
+        "answer_text": "Yes, if the vehicle ahead is turning left",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-017-d",
+        "question_id": "sup-017",
+        "answer_text": "Yes, it is always permitted in the UAE",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -327,18 +915,53 @@
     "question_text": "What restrictions apply to new drivers during the probationary period in the UAE?",
     "explanation": "New drivers in the UAE have a probationary period during which they must follow additional restrictions. They are not allowed to drive vehicles with engine capacities above specified limits, and accumulating black points can result in immediate license revocation rather than suspension.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["new-drivers", "probation", "restrictions", "uae-specific"],
+    "tags": [
+      "new-drivers",
+      "probation",
+      "restrictions",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-018-a", "question_id": "sup-018", "answer_text": "Restricted from high-powered vehicles and face stricter penalties for violations", "is_correct": true, "display_order": 1},
-      {"id": "sup-018-b", "question_id": "sup-018", "answer_text": "No restrictions apply during the probationary period", "is_correct": false, "display_order": 2},
-      {"id": "sup-018-c", "question_id": "sup-018", "answer_text": "They can only drive during daytime hours", "is_correct": false, "display_order": 3},
-      {"id": "sup-018-d", "question_id": "sup-018", "answer_text": "They must always have a licensed passenger with them", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-018-a",
+        "question_id": "sup-018",
+        "answer_text": "Restricted from high-powered vehicles and face stricter penalties for violations",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-018-b",
+        "question_id": "sup-018",
+        "answer_text": "No restrictions apply during the probationary period",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-018-c",
+        "question_id": "sup-018",
+        "answer_text": "They can only drive during daytime hours",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-018-d",
+        "question_id": "sup-018",
+        "answer_text": "They must always have a licensed passenger with them",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -346,18 +969,53 @@
     "question_text": "What is the minimum age for a child to sit in the front seat of a vehicle in the UAE?",
     "explanation": "In the UAE, children under 10 years of age are not allowed to sit in the front seat. They must be seated in the rear with appropriate child restraints. This law protects children from airbag injuries and provides safer positioning in case of an accident.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["children", "front-seat", "safety", "uae-specific"],
+    "tags": [
+      "children",
+      "front-seat",
+      "safety",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-019-a", "question_id": "sup-019", "answer_text": "10 years old", "is_correct": true, "display_order": 1},
-      {"id": "sup-019-b", "question_id": "sup-019", "answer_text": "8 years old", "is_correct": false, "display_order": 2},
-      {"id": "sup-019-c", "question_id": "sup-019", "answer_text": "12 years old", "is_correct": false, "display_order": 3},
-      {"id": "sup-019-d", "question_id": "sup-019", "answer_text": "6 years old", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-019-a",
+        "question_id": "sup-019",
+        "answer_text": "10 years old",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-019-b",
+        "question_id": "sup-019",
+        "answer_text": "8 years old",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-019-c",
+        "question_id": "sup-019",
+        "answer_text": "12 years old",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-019-d",
+        "question_id": "sup-019",
+        "answer_text": "6 years old",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -365,18 +1023,53 @@
     "question_text": "What are the requirements for towing another vehicle in the UAE?",
     "explanation": "In the UAE, towing must be done using proper towing equipment (rigid bar or approved tow rope). The towed vehicle must have its hazard lights on, the towing distance must not exceed 30 km/h, and it is recommended to use professional towing services for safety.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["towing", "breakdown", "requirements", "uae-specific"],
+    "tags": [
+      "towing",
+      "breakdown",
+      "requirements",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-020-a", "question_id": "sup-020", "answer_text": "Use proper towing equipment, hazard lights on, and maintain low speed", "is_correct": true, "display_order": 1},
-      {"id": "sup-020-b", "question_id": "sup-020", "answer_text": "Any rope or chain can be used, no speed limit applies", "is_correct": false, "display_order": 2},
-      {"id": "sup-020-c", "question_id": "sup-020", "answer_text": "Towing is completely prohibited — only professional recovery is allowed", "is_correct": false, "display_order": 3},
-      {"id": "sup-020-d", "question_id": "sup-020", "answer_text": "Only trucks and SUVs are allowed to tow other vehicles", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-020-a",
+        "question_id": "sup-020",
+        "answer_text": "Use proper towing equipment, hazard lights on, and maintain low speed",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-020-b",
+        "question_id": "sup-020",
+        "answer_text": "Any rope or chain can be used, no speed limit applies",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-020-c",
+        "question_id": "sup-020",
+        "answer_text": "Towing is completely prohibited — only professional recovery is allowed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-020-d",
+        "question_id": "sup-020",
+        "answer_text": "Only trucks and SUVs are allowed to tow other vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -384,18 +1077,52 @@
     "question_text": "Who has the right of way at a roundabout in the UAE?",
     "explanation": "In the UAE, vehicles already inside the roundabout have the right of way. Vehicles entering the roundabout must yield to traffic already circulating within it. Always check for vehicles coming from the left before entering.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "right-of-way", "uae-specific"],
+    "tags": [
+      "roundabout",
+      "right-of-way",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-021-a", "question_id": "sup-021", "answer_text": "Vehicles already inside the roundabout have priority", "is_correct": true, "display_order": 1},
-      {"id": "sup-021-b", "question_id": "sup-021", "answer_text": "Vehicles entering the roundabout have priority", "is_correct": false, "display_order": 2},
-      {"id": "sup-021-c", "question_id": "sup-021", "answer_text": "The largest vehicle always has priority", "is_correct": false, "display_order": 3},
-      {"id": "sup-021-d", "question_id": "sup-021", "answer_text": "The vehicle that arrives first has priority", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-021-a",
+        "question_id": "sup-021",
+        "answer_text": "Vehicles already inside the roundabout have priority",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-021-b",
+        "question_id": "sup-021",
+        "answer_text": "Vehicles entering the roundabout have priority",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-021-c",
+        "question_id": "sup-021",
+        "answer_text": "The largest vehicle always has priority",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-021-d",
+        "question_id": "sup-021",
+        "answer_text": "The vehicle that arrives first has priority",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -403,18 +1130,52 @@
     "question_text": "Which lane should you use when going straight through a two-lane roundabout?",
     "explanation": "When going straight through a two-lane roundabout (taking the second exit), you should use the right lane. The right lane is for going straight or taking the first exit, while the left lane is used for going further around or taking a later exit.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "lanes", "straight"],
+    "tags": [
+      "roundabout",
+      "lanes",
+      "straight"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-022-a", "question_id": "sup-022", "answer_text": "The right lane", "is_correct": true, "display_order": 1},
-      {"id": "sup-022-b", "question_id": "sup-022", "answer_text": "The left lane", "is_correct": false, "display_order": 2},
-      {"id": "sup-022-c", "question_id": "sup-022", "answer_text": "Either lane", "is_correct": false, "display_order": 3},
-      {"id": "sup-022-d", "question_id": "sup-022", "answer_text": "The center of both lanes", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-022-a",
+        "question_id": "sup-022",
+        "answer_text": "The right lane",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-022-b",
+        "question_id": "sup-022",
+        "answer_text": "The left lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-022-c",
+        "question_id": "sup-022",
+        "answer_text": "Either lane",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-022-d",
+        "question_id": "sup-022",
+        "answer_text": "The center of both lanes",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -422,18 +1183,52 @@
     "question_text": "Which lane should you use for taking the first exit (right turn) at a roundabout?",
     "explanation": "For taking the first exit or turning right at a roundabout, you should approach and stay in the right lane. Signal right as you approach the roundabout and maintain your position in the right lane throughout.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "lanes", "first-exit"],
+    "tags": [
+      "roundabout",
+      "lanes",
+      "first-exit"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-023-a", "question_id": "sup-023", "answer_text": "The right lane", "is_correct": true, "display_order": 1},
-      {"id": "sup-023-b", "question_id": "sup-023", "answer_text": "The left lane", "is_correct": false, "display_order": 2},
-      {"id": "sup-023-c", "question_id": "sup-023", "answer_text": "Either lane is acceptable", "is_correct": false, "display_order": 3},
-      {"id": "sup-023-d", "question_id": "sup-023", "answer_text": "The lane closest to the center of the roundabout", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-023-a",
+        "question_id": "sup-023",
+        "answer_text": "The right lane",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-023-b",
+        "question_id": "sup-023",
+        "answer_text": "The left lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-023-c",
+        "question_id": "sup-023",
+        "answer_text": "Either lane is acceptable",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-023-d",
+        "question_id": "sup-023",
+        "answer_text": "The lane closest to the center of the roundabout",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -441,18 +1236,52 @@
     "question_text": "Which lane should you use for turning left (taking the third exit) at a roundabout?",
     "explanation": "For turning left or taking the third exit at a roundabout, you should approach in the left lane. Stay in the inner lane as you navigate around the roundabout, then signal left and move to the outer lane when approaching your exit.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "lanes", "left-turn"],
+    "tags": [
+      "roundabout",
+      "lanes",
+      "left-turn"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-024-a", "question_id": "sup-024", "answer_text": "The left lane (inner lane)", "is_correct": true, "display_order": 1},
-      {"id": "sup-024-b", "question_id": "sup-024", "answer_text": "The right lane (outer lane)", "is_correct": false, "display_order": 2},
-      {"id": "sup-024-c", "question_id": "sup-024", "answer_text": "Either lane is acceptable", "is_correct": false, "display_order": 3},
-      {"id": "sup-024-d", "question_id": "sup-024", "answer_text": "Start in the right lane and switch to the left lane inside", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-024-a",
+        "question_id": "sup-024",
+        "answer_text": "The left lane (inner lane)",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-024-b",
+        "question_id": "sup-024",
+        "answer_text": "The right lane (outer lane)",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-024-c",
+        "question_id": "sup-024",
+        "answer_text": "Either lane is acceptable",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-024-d",
+        "question_id": "sup-024",
+        "answer_text": "Start in the right lane and switch to the left lane inside",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -460,18 +1289,52 @@
     "question_text": "When should you signal that you are leaving a roundabout?",
     "explanation": "You should signal left (indicating you are exiting) just after passing the exit before the one you intend to take. This gives drivers waiting to enter the roundabout advance notice that you are about to exit.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "signaling", "exiting"],
+    "tags": [
+      "roundabout",
+      "signaling",
+      "exiting"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-025-a", "question_id": "sup-025", "answer_text": "After passing the exit before your intended exit", "is_correct": true, "display_order": 1},
-      {"id": "sup-025-b", "question_id": "sup-025", "answer_text": "Before entering the roundabout", "is_correct": false, "display_order": 2},
-      {"id": "sup-025-c", "question_id": "sup-025", "answer_text": "No signaling is needed when exiting a roundabout", "is_correct": false, "display_order": 3},
-      {"id": "sup-025-d", "question_id": "sup-025", "answer_text": "Only when other vehicles are visible behind you", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-025-a",
+        "question_id": "sup-025",
+        "answer_text": "After passing the exit before your intended exit",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-025-b",
+        "question_id": "sup-025",
+        "answer_text": "Before entering the roundabout",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-025-c",
+        "question_id": "sup-025",
+        "answer_text": "No signaling is needed when exiting a roundabout",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-025-d",
+        "question_id": "sup-025",
+        "answer_text": "Only when other vehicles are visible behind you",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -479,18 +1342,52 @@
     "question_text": "What is the correct procedure for navigating a multi-lane roundabout?",
     "explanation": "In a multi-lane roundabout, choose your lane before entering based on your intended exit. Use the outer lanes for early exits and inner lanes for later exits. Always check mirrors and blind spots before changing lanes within the roundabout, and signal before exiting.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "multi-lane", "procedure"],
+    "tags": [
+      "roundabout",
+      "multi-lane",
+      "procedure"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-026-a", "question_id": "sup-026", "answer_text": "Choose the correct lane before entering, check mirrors before lane changes, and signal before exiting", "is_correct": true, "display_order": 1},
-      {"id": "sup-026-b", "question_id": "sup-026", "answer_text": "Always stay in the outer lane regardless of your exit", "is_correct": false, "display_order": 2},
-      {"id": "sup-026-c", "question_id": "sup-026", "answer_text": "Enter from any lane and change lanes freely inside the roundabout", "is_correct": false, "display_order": 3},
-      {"id": "sup-026-d", "question_id": "sup-026", "answer_text": "Always use the inner lane and exit directly from there", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-026-a",
+        "question_id": "sup-026",
+        "answer_text": "Choose the correct lane before entering, check mirrors before lane changes, and signal before exiting",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-026-b",
+        "question_id": "sup-026",
+        "answer_text": "Always stay in the outer lane regardless of your exit",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-026-c",
+        "question_id": "sup-026",
+        "answer_text": "Enter from any lane and change lanes freely inside the roundabout",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-026-d",
+        "question_id": "sup-026",
+        "answer_text": "Always use the inner lane and exit directly from there",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -498,18 +1395,51 @@
     "question_text": "What speed should you maintain inside a roundabout?",
     "explanation": "You should drive at a slow, controlled speed inside a roundabout, typically no more than 30-40 km/h. Reduce speed before entering and maintain a steady pace. Excessive speed in a roundabout reduces your ability to react to other vehicles and makes it harder to exit safely.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "speed"],
+    "tags": [
+      "roundabout",
+      "speed"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-027-a", "question_id": "sup-027", "answer_text": "A slow, controlled speed — reduce speed before entering", "is_correct": true, "display_order": 1},
-      {"id": "sup-027-b", "question_id": "sup-027", "answer_text": "Maintain the same speed as the road you were on", "is_correct": false, "display_order": 2},
-      {"id": "sup-027-c", "question_id": "sup-027", "answer_text": "Accelerate to merge with traffic inside the roundabout", "is_correct": false, "display_order": 3},
-      {"id": "sup-027-d", "question_id": "sup-027", "answer_text": "Drive as fast as possible to clear the roundabout quickly", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-027-a",
+        "question_id": "sup-027",
+        "answer_text": "A slow, controlled speed — reduce speed before entering",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-027-b",
+        "question_id": "sup-027",
+        "answer_text": "Maintain the same speed as the road you were on",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-027-c",
+        "question_id": "sup-027",
+        "answer_text": "Accelerate to merge with traffic inside the roundabout",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-027-d",
+        "question_id": "sup-027",
+        "answer_text": "Drive as fast as possible to clear the roundabout quickly",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -517,18 +1447,52 @@
     "question_text": "What must you do when approaching a roundabout that you wish to enter?",
     "explanation": "When approaching a roundabout, you must yield to all traffic already circulating inside the roundabout. Slow down, look to your left for vehicles already in the roundabout, and only enter when there is a safe gap in traffic.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "yielding", "entering"],
+    "tags": [
+      "roundabout",
+      "yielding",
+      "entering"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-028-a", "question_id": "sup-028", "answer_text": "Yield to traffic already in the roundabout and wait for a safe gap", "is_correct": true, "display_order": 1},
-      {"id": "sup-028-b", "question_id": "sup-028", "answer_text": "Enter immediately as vehicles inside must yield to you", "is_correct": false, "display_order": 2},
-      {"id": "sup-028-c", "question_id": "sup-028", "answer_text": "Stop completely and wait until the roundabout is empty", "is_correct": false, "display_order": 3},
-      {"id": "sup-028-d", "question_id": "sup-028", "answer_text": "Flash your headlights to signal your intention to enter", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-028-a",
+        "question_id": "sup-028",
+        "answer_text": "Yield to traffic already in the roundabout and wait for a safe gap",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-028-b",
+        "question_id": "sup-028",
+        "answer_text": "Enter immediately as vehicles inside must yield to you",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-028-c",
+        "question_id": "sup-028",
+        "answer_text": "Stop completely and wait until the roundabout is empty",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-028-d",
+        "question_id": "sup-028",
+        "answer_text": "Flash your headlights to signal your intention to enter",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -536,18 +1500,53 @@
     "question_text": "In which direction does traffic flow in UAE roundabouts?",
     "explanation": "Traffic in UAE roundabouts flows counterclockwise (anti-clockwise). This is because the UAE is a right-hand traffic country, so vehicles enter the roundabout to the right and circulate in a counterclockwise direction.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "direction", "counterclockwise", "uae-specific"],
+    "tags": [
+      "roundabout",
+      "direction",
+      "counterclockwise",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-029-a", "question_id": "sup-029", "answer_text": "Counterclockwise (anti-clockwise)", "is_correct": true, "display_order": 1},
-      {"id": "sup-029-b", "question_id": "sup-029", "answer_text": "Clockwise", "is_correct": false, "display_order": 2},
-      {"id": "sup-029-c", "question_id": "sup-029", "answer_text": "Either direction depending on the roundabout", "is_correct": false, "display_order": 3},
-      {"id": "sup-029-d", "question_id": "sup-029", "answer_text": "It depends on the time of day", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-029-a",
+        "question_id": "sup-029",
+        "answer_text": "Counterclockwise (anti-clockwise)",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-029-b",
+        "question_id": "sup-029",
+        "answer_text": "Clockwise",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-029-c",
+        "question_id": "sup-029",
+        "answer_text": "Either direction depending on the roundabout",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-029-d",
+        "question_id": "sup-029",
+        "answer_text": "It depends on the time of day",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -555,18 +1554,52 @@
     "question_text": "Which of the following is a common and dangerous mistake at roundabouts?",
     "explanation": "Changing lanes inside a roundabout without checking mirrors and blind spots is one of the most common and dangerous mistakes. Other frequent errors include failing to yield when entering, not signaling when exiting, and entering at excessive speed.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "mistakes", "safety"],
+    "tags": [
+      "roundabout",
+      "mistakes",
+      "safety"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-030-a", "question_id": "sup-030", "answer_text": "Changing lanes inside the roundabout without checking mirrors or blind spots", "is_correct": true, "display_order": 1},
-      {"id": "sup-030-b", "question_id": "sup-030", "answer_text": "Signaling before exiting the roundabout", "is_correct": false, "display_order": 2},
-      {"id": "sup-030-c", "question_id": "sup-030", "answer_text": "Slowing down before entering the roundabout", "is_correct": false, "display_order": 3},
-      {"id": "sup-030-d", "question_id": "sup-030", "answer_text": "Yielding to vehicles already inside the roundabout", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-030-a",
+        "question_id": "sup-030",
+        "answer_text": "Changing lanes inside the roundabout without checking mirrors or blind spots",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-030-b",
+        "question_id": "sup-030",
+        "answer_text": "Signaling before exiting the roundabout",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-030-c",
+        "question_id": "sup-030",
+        "answer_text": "Slowing down before entering the roundabout",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-030-d",
+        "question_id": "sup-030",
+        "answer_text": "Yielding to vehicles already inside the roundabout",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -574,18 +1607,52 @@
     "question_text": "What is the correct procedure when using a motorway acceleration lane?",
     "explanation": "When using a motorway acceleration lane, you should build up your speed to match the flow of traffic on the motorway. Check mirrors and blind spots, signal, and merge smoothly when there is a safe gap. Do not stop in the acceleration lane.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["motorway", "acceleration-lane", "merging"],
+    "tags": [
+      "motorway",
+      "acceleration-lane",
+      "merging"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-031-a", "question_id": "sup-031", "answer_text": "Build up speed to match traffic flow, check mirrors, signal, and merge into a safe gap", "is_correct": true, "display_order": 1},
-      {"id": "sup-031-b", "question_id": "sup-031", "answer_text": "Stop at the end of the lane and wait for traffic to clear", "is_correct": false, "display_order": 2},
-      {"id": "sup-031-c", "question_id": "sup-031", "answer_text": "Enter the motorway immediately at low speed", "is_correct": false, "display_order": 3},
-      {"id": "sup-031-d", "question_id": "sup-031", "answer_text": "Flash your headlights to force other drivers to make room", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-031-a",
+        "question_id": "sup-031",
+        "answer_text": "Build up speed to match traffic flow, check mirrors, signal, and merge into a safe gap",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-031-b",
+        "question_id": "sup-031",
+        "answer_text": "Stop at the end of the lane and wait for traffic to clear",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-031-c",
+        "question_id": "sup-031",
+        "answer_text": "Enter the motorway immediately at low speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-031-d",
+        "question_id": "sup-031",
+        "answer_text": "Flash your headlights to force other drivers to make room",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -593,18 +1660,52 @@
     "question_text": "When is it permitted to drive on the hard shoulder of a motorway?",
     "explanation": "The hard shoulder is strictly for emergency use only. It is used for breakdowns, emergencies, or by emergency vehicles. Driving on it to bypass traffic or for any non-emergency reason is illegal and carries heavy fines in the UAE.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["motorway", "hard-shoulder", "emergency"],
+    "tags": [
+      "motorway",
+      "hard-shoulder",
+      "emergency"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-032-a", "question_id": "sup-032", "answer_text": "Only in genuine emergencies such as a vehicle breakdown", "is_correct": true, "display_order": 1},
-      {"id": "sup-032-b", "question_id": "sup-032", "answer_text": "When traffic is heavy and moving slowly", "is_correct": false, "display_order": 2},
-      {"id": "sup-032-c", "question_id": "sup-032", "answer_text": "To overtake slow-moving vehicles", "is_correct": false, "display_order": 3},
-      {"id": "sup-032-d", "question_id": "sup-032", "answer_text": "During rush hour to ease congestion", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-032-a",
+        "question_id": "sup-032",
+        "answer_text": "Only in genuine emergencies such as a vehicle breakdown",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-032-b",
+        "question_id": "sup-032",
+        "answer_text": "When traffic is heavy and moving slowly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-032-c",
+        "question_id": "sup-032",
+        "answer_text": "To overtake slow-moving vehicles",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-032-d",
+        "question_id": "sup-032",
+        "answer_text": "During rush hour to ease congestion",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -612,18 +1713,53 @@
     "question_text": "What should you do if your vehicle breaks down on a motorway?",
     "explanation": "If your vehicle breaks down on a motorway, safely move to the hard shoulder if possible, turn on your hazard warning lights, place a warning triangle 200 meters behind the vehicle, and exit the vehicle from the side away from traffic (left side). Call for roadside assistance.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["motorway", "breakdown", "hard-shoulder", "hazard-lights"],
+    "tags": [
+      "motorway",
+      "breakdown",
+      "hard-shoulder",
+      "hazard-lights"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-033-a", "question_id": "sup-033", "answer_text": "Move to the hard shoulder, turn on hazard lights, place warning triangle, and exit from the left side", "is_correct": true, "display_order": 1},
-      {"id": "sup-033-b", "question_id": "sup-033", "answer_text": "Stop immediately in your lane and call for help", "is_correct": false, "display_order": 2},
-      {"id": "sup-033-c", "question_id": "sup-033", "answer_text": "Try to repair the vehicle in the driving lane", "is_correct": false, "display_order": 3},
-      {"id": "sup-033-d", "question_id": "sup-033", "answer_text": "Walk on the motorway to find the nearest exit", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-033-a",
+        "question_id": "sup-033",
+        "answer_text": "Move to the hard shoulder, turn on hazard lights, place warning triangle, and exit from the left side",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-033-b",
+        "question_id": "sup-033",
+        "answer_text": "Stop immediately in your lane and call for help",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-033-c",
+        "question_id": "sup-033",
+        "answer_text": "Try to repair the vehicle in the driving lane",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-033-d",
+        "question_id": "sup-033",
+        "answer_text": "Walk on the motorway to find the nearest exit",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -631,37 +1767,52 @@
     "question_text": "What precautions should you take when driving through a tunnel?",
     "explanation": "When driving through a tunnel, turn on your headlights (even during the day), remove sunglasses so your eyes can adjust, maintain a safe following distance, and do not change lanes unless necessary. Pay attention to posted speed limits and traffic signs inside the tunnel.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tunnel", "headlights", "safety"],
+    "tags": [
+      "tunnel",
+      "headlights",
+      "safety"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-034-a", "question_id": "sup-034", "answer_text": "Turn on headlights, remove sunglasses, maintain safe distance, and follow posted speed limits", "is_correct": true, "display_order": 1},
-      {"id": "sup-034-b", "question_id": "sup-034", "answer_text": "Keep sunglasses on to reduce glare from tunnel lights", "is_correct": false, "display_order": 2},
-      {"id": "sup-034-c", "question_id": "sup-034", "answer_text": "Speed up to exit the tunnel quickly", "is_correct": false, "display_order": 3},
-      {"id": "sup-034-d", "question_id": "sup-034", "answer_text": "Only turn on headlights if the tunnel is longer than 500 meters", "is_correct": false, "display_order": 4}
-    ]
-  },
-  {
-    "id": "sup-035",
-    "question_text": "What should you do if you encounter a sandstorm while driving in the UAE?",
-    "explanation": "During a sandstorm, you should pull over to a safe location away from the road, turn on your hazard lights, stay inside the vehicle, and turn off the engine. Sandstorms severely reduce visibility and can make driving extremely dangerous.",
-    "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
-    "difficulty": 2,
-    "relevance_rank": 8,
-    "svg_illustration_key": null,
-    "image_url": null,
-    "tags": ["sandstorm", "weather", "hazard-lights", "uae-specific"],
-    "is_edcad_style": false,
-    "answers": [
-      {"id": "sup-035-a", "question_id": "sup-035", "answer_text": "Pull over safely, turn on hazard lights, stay in the car, and turn off the engine", "is_correct": true, "display_order": 1},
-      {"id": "sup-035-b", "question_id": "sup-035", "answer_text": "Continue driving slowly with high beam headlights", "is_correct": false, "display_order": 2},
-      {"id": "sup-035-c", "question_id": "sup-035", "answer_text": "Stop in the driving lane and wait for it to pass", "is_correct": false, "display_order": 3},
-      {"id": "sup-035-d", "question_id": "sup-035", "answer_text": "Speed up to drive through the sandstorm quickly", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-034-a",
+        "question_id": "sup-034",
+        "answer_text": "Turn on headlights, remove sunglasses, maintain safe distance, and follow posted speed limits",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-034-b",
+        "question_id": "sup-034",
+        "answer_text": "Keep sunglasses on to reduce glare from tunnel lights",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-034-c",
+        "question_id": "sup-034",
+        "answer_text": "Speed up to exit the tunnel quickly",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-034-d",
+        "question_id": "sup-034",
+        "answer_text": "Only turn on headlights if the tunnel is longer than 500 meters",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -669,18 +1820,52 @@
     "question_text": "What should you do if your vehicle begins to aquaplane on a wet road?",
     "explanation": "If your vehicle starts aquaplaning, do NOT brake suddenly as this can cause a skid. Instead, ease off the accelerator gently, keep the steering wheel straight, and allow the vehicle to slow down naturally until the tires regain contact with the road.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["aquaplaning", "wet-roads", "safety"],
+    "tags": [
+      "aquaplaning",
+      "wet-roads",
+      "safety"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-036-a", "question_id": "sup-036", "answer_text": "Ease off the accelerator gently, do not brake suddenly, and keep the steering straight", "is_correct": true, "display_order": 1},
-      {"id": "sup-036-b", "question_id": "sup-036", "answer_text": "Brake hard to slow down immediately", "is_correct": false, "display_order": 2},
-      {"id": "sup-036-c", "question_id": "sup-036", "answer_text": "Accelerate to power through the water", "is_correct": false, "display_order": 3},
-      {"id": "sup-036-d", "question_id": "sup-036", "answer_text": "Turn the steering wheel sharply to regain traction", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-036-a",
+        "question_id": "sup-036",
+        "answer_text": "Ease off the accelerator gently, do not brake suddenly, and keep the steering straight",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-036-b",
+        "question_id": "sup-036",
+        "answer_text": "Brake hard to slow down immediately",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-036-c",
+        "question_id": "sup-036",
+        "answer_text": "Accelerate to power through the water",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-036-d",
+        "question_id": "sup-036",
+        "answer_text": "Turn the steering wheel sharply to regain traction",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -688,18 +1873,53 @@
     "question_text": "Why are wet roads particularly dangerous after a long dry spell?",
     "explanation": "After a long dry spell, oil, rubber residue, and dust accumulate on the road surface. When the first rain falls, these substances mix with water to create an extremely slippery surface. This is especially common in the UAE where dry spells can last for months.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["wet-roads", "oil-residue", "slippery", "uae-specific"],
+    "tags": [
+      "wet-roads",
+      "oil-residue",
+      "slippery",
+      "uae-specific"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-037-a", "question_id": "sup-037", "answer_text": "Oil and rubber residue on the road surface mixes with water, making it extremely slippery", "is_correct": true, "display_order": 1},
-      {"id": "sup-037-b", "question_id": "sup-037", "answer_text": "The road surface expands in the heat, creating bumps", "is_correct": false, "display_order": 2},
-      {"id": "sup-037-c", "question_id": "sup-037", "answer_text": "Rain water is absorbed quickly, creating potholes", "is_correct": false, "display_order": 3},
-      {"id": "sup-037-d", "question_id": "sup-037", "answer_text": "Visibility is reduced because drivers are not used to rain", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-037-a",
+        "question_id": "sup-037",
+        "answer_text": "Oil and rubber residue on the road surface mixes with water, making it extremely slippery",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-037-b",
+        "question_id": "sup-037",
+        "answer_text": "The road surface expands in the heat, creating bumps",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-037-c",
+        "question_id": "sup-037",
+        "answer_text": "Rain water is absorbed quickly, creating potholes",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-037-d",
+        "question_id": "sup-037",
+        "answer_text": "Visibility is reduced because drivers are not used to rain",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -707,18 +1927,52 @@
     "question_text": "When should you NOT use cruise control?",
     "explanation": "Cruise control should NOT be used in rain, on wet roads, or in any conditions where grip is reduced. If the vehicle aquaplanes while cruise control is engaged, the system may try to accelerate, making the situation much more dangerous.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["cruise-control", "rain", "wet-conditions"],
+    "tags": [
+      "cruise-control",
+      "rain",
+      "wet-conditions"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-038-a", "question_id": "sup-038", "answer_text": "In rain or on wet roads where grip is reduced", "is_correct": true, "display_order": 1},
-      {"id": "sup-038-b", "question_id": "sup-038", "answer_text": "On long, straight highway stretches", "is_correct": false, "display_order": 2},
-      {"id": "sup-038-c", "question_id": "sup-038", "answer_text": "During nighttime driving on a motorway", "is_correct": false, "display_order": 3},
-      {"id": "sup-038-d", "question_id": "sup-038", "answer_text": "When driving at the speed limit", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-038-a",
+        "question_id": "sup-038",
+        "answer_text": "In rain or on wet roads where grip is reduced",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-038-b",
+        "question_id": "sup-038",
+        "answer_text": "On long, straight highway stretches",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-038-c",
+        "question_id": "sup-038",
+        "answer_text": "During nighttime driving on a motorway",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-038-d",
+        "question_id": "sup-038",
+        "answer_text": "When driving at the speed limit",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -726,18 +1980,53 @@
     "question_text": "What headlights should you use when driving in fog?",
     "explanation": "In fog, use low beam headlights (dipped headlights) and fog lights if available. Do NOT use high beam headlights as the light reflects off the fog particles back towards you, reducing your visibility even further. Also reduce speed and increase following distance.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["fog", "headlights", "low-beam", "visibility"],
+    "tags": [
+      "fog",
+      "headlights",
+      "low-beam",
+      "visibility"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-039-a", "question_id": "sup-039", "answer_text": "Low beam headlights — NOT high beam, as high beam reflects off the fog", "is_correct": true, "display_order": 1},
-      {"id": "sup-039-b", "question_id": "sup-039", "answer_text": "High beam headlights for maximum visibility", "is_correct": false, "display_order": 2},
-      {"id": "sup-039-c", "question_id": "sup-039", "answer_text": "No headlights — rely on fog lights only", "is_correct": false, "display_order": 3},
-      {"id": "sup-039-d", "question_id": "sup-039", "answer_text": "Hazard warning lights instead of headlights", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-039-a",
+        "question_id": "sup-039",
+        "answer_text": "Low beam headlights — NOT high beam, as high beam reflects off the fog",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-039-b",
+        "question_id": "sup-039",
+        "answer_text": "High beam headlights for maximum visibility",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-039-c",
+        "question_id": "sup-039",
+        "answer_text": "No headlights — rely on fog lights only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-039-d",
+        "question_id": "sup-039",
+        "answer_text": "Hazard warning lights instead of headlights",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -745,18 +2034,52 @@
     "question_text": "What should you do if you miss your exit on a motorway?",
     "explanation": "If you miss your exit on a motorway, continue driving to the next exit. Never reverse, stop, or make a U-turn on a motorway. These actions are extremely dangerous and illegal, and can result in serious accidents and heavy fines in the UAE.",
     "module": "driving_conditions",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["motorway", "missed-exit", "safety"],
+    "tags": [
+      "motorway",
+      "missed-exit",
+      "safety"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-040-a", "question_id": "sup-040", "answer_text": "Continue to the next exit — never reverse or make a U-turn", "is_correct": true, "display_order": 1},
-      {"id": "sup-040-b", "question_id": "sup-040", "answer_text": "Reverse carefully on the hard shoulder to the exit", "is_correct": false, "display_order": 2},
-      {"id": "sup-040-c", "question_id": "sup-040", "answer_text": "Stop on the motorway and make a U-turn", "is_correct": false, "display_order": 3},
-      {"id": "sup-040-d", "question_id": "sup-040", "answer_text": "Reverse in the nearest lane to go back", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-040-a",
+        "question_id": "sup-040",
+        "answer_text": "Continue to the next exit — never reverse or make a U-turn",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-040-b",
+        "question_id": "sup-040",
+        "answer_text": "Reverse carefully on the hard shoulder to the exit",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-040-c",
+        "question_id": "sup-040",
+        "answer_text": "Stop on the motorway and make a U-turn",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-040-d",
+        "question_id": "sup-040",
+        "answer_text": "Reverse in the nearest lane to go back",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -764,56 +2087,52 @@
     "question_text": "What should you do if you experience a tire blowout while driving?",
     "explanation": "During a tire blowout, grip the steering wheel firmly with both hands to maintain control. Ease off the accelerator gradually and do NOT brake hard, as this can cause you to lose control. Allow the vehicle to slow down naturally and steer to the side of the road.",
     "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["tire-blowout", "emergency", "steering"],
+    "tags": [
+      "tire-blowout",
+      "emergency",
+      "steering"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-041-a", "question_id": "sup-041", "answer_text": "Grip steering firmly, ease off the gas, do NOT brake hard, and steer to the side", "is_correct": true, "display_order": 1},
-      {"id": "sup-041-b", "question_id": "sup-041", "answer_text": "Brake hard immediately to stop the vehicle", "is_correct": false, "display_order": 2},
-      {"id": "sup-041-c", "question_id": "sup-041", "answer_text": "Accelerate to maintain stability and find a safe spot", "is_correct": false, "display_order": 3},
-      {"id": "sup-041-d", "question_id": "sup-041", "answer_text": "Release the steering wheel to let the car correct itself", "is_correct": false, "display_order": 4}
-    ]
-  },
-  {
-    "id": "sup-042",
-    "question_text": "What should you do if your brakes fail while driving?",
-    "explanation": "If brakes fail, first pump the brake pedal rapidly as this may restore brake pressure. If that does not work, downshift to lower gears to use engine braking. As a last resort, apply the handbrake (parking brake) gradually. Look for an escape route or a safe place to stop.",
-    "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
-    "difficulty": 2,
-    "relevance_rank": 8,
-    "svg_illustration_key": null,
-    "image_url": null,
-    "tags": ["brake-failure", "emergency", "engine-braking"],
-    "is_edcad_style": false,
-    "answers": [
-      {"id": "sup-042-a", "question_id": "sup-042", "answer_text": "Pump the brake pedal, downshift to lower gears, and use the handbrake gradually", "is_correct": true, "display_order": 1},
-      {"id": "sup-042-b", "question_id": "sup-042", "answer_text": "Turn off the engine immediately", "is_correct": false, "display_order": 2},
-      {"id": "sup-042-c", "question_id": "sup-042", "answer_text": "Apply the handbrake fully and sharply to stop quickly", "is_correct": false, "display_order": 3},
-      {"id": "sup-042-d", "question_id": "sup-042", "answer_text": "Shift to the highest gear to slow down", "is_correct": false, "display_order": 4}
-    ]
-  },
-  {
-    "id": "sup-043",
-    "question_text": "What should you do if your vehicle catches fire?",
-    "explanation": "If your vehicle catches fire, stop the vehicle as soon as it is safe, turn off the engine, get all passengers out immediately, move away from the vehicle, and call 997 (fire department). Do NOT open the hood as oxygen can intensify the fire.",
-    "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
-    "difficulty": 2,
-    "relevance_rank": 8,
-    "svg_illustration_key": null,
-    "image_url": null,
-    "tags": ["fire", "emergency", "997"],
-    "is_edcad_style": false,
-    "answers": [
-      {"id": "sup-043-a", "question_id": "sup-043", "answer_text": "Stop safely, turn off engine, evacuate all passengers, move away, and call 997", "is_correct": true, "display_order": 1},
-      {"id": "sup-043-b", "question_id": "sup-043", "answer_text": "Open the hood to check the source of the fire", "is_correct": false, "display_order": 2},
-      {"id": "sup-043-c", "question_id": "sup-043", "answer_text": "Keep driving to the nearest fire station", "is_correct": false, "display_order": 3},
-      {"id": "sup-043-d", "question_id": "sup-043", "answer_text": "Pour water on the engine while it is running", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-041-a",
+        "question_id": "sup-041",
+        "answer_text": "Grip steering firmly, ease off the gas, do NOT brake hard, and steer to the side",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-041-b",
+        "question_id": "sup-041",
+        "answer_text": "Brake hard immediately to stop the vehicle",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-041-c",
+        "question_id": "sup-041",
+        "answer_text": "Accelerate to maintain stability and find a safe spot",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-041-d",
+        "question_id": "sup-041",
+        "answer_text": "Release the steering wheel to let the car correct itself",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -821,18 +2140,52 @@
     "question_text": "When should you NOT move an injured person after a traffic accident?",
     "explanation": "You should NOT move an injured person if there is a suspected spinal (neck or back) injury. Moving someone with a spinal injury can cause permanent paralysis or death. Only move an injured person if there is an immediate danger such as fire or the vehicle is about to fall.",
     "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["first-aid", "spinal-injury", "do-not-move"],
+    "tags": [
+      "first-aid",
+      "spinal-injury",
+      "do-not-move"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-044-a", "question_id": "sup-044", "answer_text": "When there is a suspected spinal (neck or back) injury", "is_correct": true, "display_order": 1},
-      {"id": "sup-044-b", "question_id": "sup-044", "answer_text": "When the person is bleeding", "is_correct": false, "display_order": 2},
-      {"id": "sup-044-c", "question_id": "sup-044", "answer_text": "When the person is unconscious but breathing", "is_correct": false, "display_order": 3},
-      {"id": "sup-044-d", "question_id": "sup-044", "answer_text": "When the ambulance is on its way", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-044-a",
+        "question_id": "sup-044",
+        "answer_text": "When there is a suspected spinal (neck or back) injury",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-044-b",
+        "question_id": "sup-044",
+        "answer_text": "When the person is bleeding",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-044-c",
+        "question_id": "sup-044",
+        "answer_text": "When the person is unconscious but breathing",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-044-d",
+        "question_id": "sup-044",
+        "answer_text": "When the ambulance is on its way",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -840,18 +2193,52 @@
     "question_text": "What is the recovery position used for in first aid?",
     "explanation": "The recovery position is used for unconscious persons who are still breathing. It keeps the airway clear and allows fluids to drain from the mouth, preventing choking. The person is placed on their side with the head tilted back and one leg bent for stability.",
     "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["first-aid", "recovery-position", "unconscious"],
+    "tags": [
+      "first-aid",
+      "recovery-position",
+      "unconscious"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-045-a", "question_id": "sup-045", "answer_text": "To maintain an open airway for an unconscious person who is breathing", "is_correct": true, "display_order": 1},
-      {"id": "sup-045-b", "question_id": "sup-045", "answer_text": "To treat a person who has broken bones", "is_correct": false, "display_order": 2},
-      {"id": "sup-045-c", "question_id": "sup-045", "answer_text": "To perform CPR on someone whose heart has stopped", "is_correct": false, "display_order": 3},
-      {"id": "sup-045-d", "question_id": "sup-045", "answer_text": "To keep a person warm while waiting for an ambulance", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-045-a",
+        "question_id": "sup-045",
+        "answer_text": "To maintain an open airway for an unconscious person who is breathing",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-045-b",
+        "question_id": "sup-045",
+        "answer_text": "To treat a person who has broken bones",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-045-c",
+        "question_id": "sup-045",
+        "answer_text": "To perform CPR on someone whose heart has stopped",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-045-d",
+        "question_id": "sup-045",
+        "answer_text": "To keep a person warm while waiting for an ambulance",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -859,18 +2246,52 @@
     "question_text": "How should you treat heavy bleeding from a wound at an accident scene?",
     "explanation": "For heavy bleeding, apply direct pressure to the wound using a clean cloth or bandage. Keep pressing firmly and do not remove the cloth even if blood soaks through — add more layers on top. Elevate the injured limb above heart level if possible and call for emergency medical help.",
     "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["first-aid", "bleeding", "pressure"],
+    "tags": [
+      "first-aid",
+      "bleeding",
+      "pressure"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-046-a", "question_id": "sup-046", "answer_text": "Apply direct pressure with a clean cloth and do not remove it", "is_correct": true, "display_order": 1},
-      {"id": "sup-046-b", "question_id": "sup-046", "answer_text": "Apply a tourniquet as the first action", "is_correct": false, "display_order": 2},
-      {"id": "sup-046-c", "question_id": "sup-046", "answer_text": "Pour cold water over the wound to clean it first", "is_correct": false, "display_order": 3},
-      {"id": "sup-046-d", "question_id": "sup-046", "answer_text": "Remove any cloth once blood soaks through and replace it", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-046-a",
+        "question_id": "sup-046",
+        "answer_text": "Apply direct pressure with a clean cloth and do not remove it",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-046-b",
+        "question_id": "sup-046",
+        "answer_text": "Apply a tourniquet as the first action",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-046-c",
+        "question_id": "sup-046",
+        "answer_text": "Pour cold water over the wound to clean it first",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-046-d",
+        "question_id": "sup-046",
+        "answer_text": "Remove any cloth once blood soaks through and replace it",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -878,18 +2299,52 @@
     "question_text": "What should you do if your car ends up in water and begins sinking?",
     "explanation": "If your car enters water, open windows or doors immediately before the car sinks, as water pressure will make it impossible to open them once submerged. Unbuckle seatbelts and get out as quickly as possible. Do not wait for the car to fill with water.",
     "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["submerged-vehicle", "emergency", "water"],
+    "tags": [
+      "submerged-vehicle",
+      "emergency",
+      "water"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-047-a", "question_id": "sup-047", "answer_text": "Open windows or doors immediately before the car sinks and get out", "is_correct": true, "display_order": 1},
-      {"id": "sup-047-b", "question_id": "sup-047", "answer_text": "Wait until the car fills with water so you can open the door easily", "is_correct": false, "display_order": 2},
-      {"id": "sup-047-c", "question_id": "sup-047", "answer_text": "Call emergency services first and wait for rescue", "is_correct": false, "display_order": 3},
-      {"id": "sup-047-d", "question_id": "sup-047", "answer_text": "Try to start the engine and drive out of the water", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-047-a",
+        "question_id": "sup-047",
+        "answer_text": "Open windows or doors immediately before the car sinks and get out",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-047-b",
+        "question_id": "sup-047",
+        "answer_text": "Wait until the car fills with water so you can open the door easily",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-047-c",
+        "question_id": "sup-047",
+        "answer_text": "Call emergency services first and wait for rescue",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-047-d",
+        "question_id": "sup-047",
+        "answer_text": "Try to start the engine and drive out of the water",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -897,18 +2352,52 @@
     "question_text": "What should you do if your engine overheats while driving on a highway?",
     "explanation": "If your engine overheats, pull over safely to the hard shoulder, turn off the air conditioning, and let the engine cool down. Do NOT open the radiator cap immediately as the pressurized coolant can cause severe burns. Wait for the engine to cool before checking the coolant level.",
     "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["engine-overheating", "radiator", "highway"],
+    "tags": [
+      "engine-overheating",
+      "radiator",
+      "highway"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-048-a", "question_id": "sup-048", "answer_text": "Pull over safely and do NOT open the radiator cap until the engine cools down", "is_correct": true, "display_order": 1},
-      {"id": "sup-048-b", "question_id": "sup-048", "answer_text": "Open the radiator cap immediately to release steam and pressure", "is_correct": false, "display_order": 2},
-      {"id": "sup-048-c", "question_id": "sup-048", "answer_text": "Pour cold water on the engine while it is still hot", "is_correct": false, "display_order": 3},
-      {"id": "sup-048-d", "question_id": "sup-048", "answer_text": "Continue driving to the nearest service station", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-048-a",
+        "question_id": "sup-048",
+        "answer_text": "Pull over safely and do NOT open the radiator cap until the engine cools down",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-048-b",
+        "question_id": "sup-048",
+        "answer_text": "Open the radiator cap immediately to release steam and pressure",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-048-c",
+        "question_id": "sup-048",
+        "answer_text": "Pour cold water on the engine while it is still hot",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-048-d",
+        "question_id": "sup-048",
+        "answer_text": "Continue driving to the nearest service station",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -916,18 +2405,52 @@
     "question_text": "What should you do if your vehicle starts skidding on a wet road?",
     "explanation": "If your vehicle skids on a wet road, steer gently in the direction the rear of the car is sliding (steer into the skid). Do NOT brake hard as this will make the skid worse. Ease off the accelerator and allow the vehicle to regain traction naturally.",
     "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["skidding", "wet-road", "steering"],
+    "tags": [
+      "skidding",
+      "wet-road",
+      "steering"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-049-a", "question_id": "sup-049", "answer_text": "Steer into the direction of the skid and do not brake hard", "is_correct": true, "display_order": 1},
-      {"id": "sup-049-b", "question_id": "sup-049", "answer_text": "Brake hard and steer in the opposite direction of the skid", "is_correct": false, "display_order": 2},
-      {"id": "sup-049-c", "question_id": "sup-049", "answer_text": "Accelerate to power through the skid", "is_correct": false, "display_order": 3},
-      {"id": "sup-049-d", "question_id": "sup-049", "answer_text": "Take your hands off the steering wheel and let the car correct itself", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-049-a",
+        "question_id": "sup-049",
+        "answer_text": "Steer into the direction of the skid and do not brake hard",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-049-b",
+        "question_id": "sup-049",
+        "answer_text": "Brake hard and steer in the opposite direction of the skid",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-049-c",
+        "question_id": "sup-049",
+        "answer_text": "Accelerate to power through the skid",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-049-d",
+        "question_id": "sup-049",
+        "answer_text": "Take your hands off the steering wheel and let the car correct itself",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -935,18 +2458,52 @@
     "question_text": "What should you do if you are dazzled by the headlights of an oncoming vehicle at night?",
     "explanation": "If dazzled by oncoming headlights, slow down and look toward the left edge of the road to guide your steering. Do not look directly at the headlights. Avoid flashing your own high beams in retaliation, as this creates a dangerous situation for both drivers.",
     "module": "critical_situations",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["dazzle", "headlights", "night-driving"],
+    "tags": [
+      "dazzle",
+      "headlights",
+      "night-driving"
+    ],
     "is_edcad_style": false,
     "answers": [
-      {"id": "sup-050-a", "question_id": "sup-050", "answer_text": "Slow down and look at the left edge of the road", "is_correct": true, "display_order": 1},
-      {"id": "sup-050-b", "question_id": "sup-050", "answer_text": "Flash your high beams at the oncoming vehicle", "is_correct": false, "display_order": 2},
-      {"id": "sup-050-c", "question_id": "sup-050", "answer_text": "Close your eyes briefly and continue driving", "is_correct": false, "display_order": 3},
-      {"id": "sup-050-d", "question_id": "sup-050", "answer_text": "Swerve to the right to avoid the glare", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup-050-a",
+        "question_id": "sup-050",
+        "answer_text": "Slow down and look at the left edge of the road",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup-050-b",
+        "question_id": "sup-050",
+        "answer_text": "Flash your high beams at the oncoming vehicle",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup-050-c",
+        "question_id": "sup-050",
+        "answer_text": "Close your eyes briefly and continue driving",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup-050-d",
+        "question_id": "sup-050",
+        "answer_text": "Swerve to the right to avoid the glare",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   }
 ]

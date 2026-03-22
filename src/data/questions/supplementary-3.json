@@ -4,18 +4,51 @@
     "question_text": "Which of the following is a key principle of defensive driving according to the EDCAD handbook?",
     "explanation": "The EDCAD handbook lists defensive driving principles including: think ahead, active observation, correct speed, check mirrors regularly, and maintain a safe following distance. These help prevent accidents before they happen.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["defensive_driving", "safety"],
+    "tags": [
+      "defensive_driving",
+      "safety"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-001-a", "question_id": "sup3-001", "answer_text": "Think ahead, observe actively, maintain correct speed, check mirrors, and keep safe following distance", "is_correct": true, "display_order": 1},
-      {"id": "sup3-001-b", "question_id": "sup3-001", "answer_text": "Drive as fast as conditions allow and use the horn frequently", "is_correct": false, "display_order": 2},
-      {"id": "sup3-001-c", "question_id": "sup3-001", "answer_text": "Always drive in the fast lane to avoid slower traffic", "is_correct": false, "display_order": 3},
-      {"id": "sup3-001-d", "question_id": "sup3-001", "answer_text": "Follow the vehicle ahead closely to reduce gaps in traffic", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-001-a",
+        "question_id": "sup3-001",
+        "answer_text": "Think ahead, observe actively, maintain correct speed, check mirrors, and keep safe following distance",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-001-b",
+        "question_id": "sup3-001",
+        "answer_text": "Drive as fast as conditions allow and use the horn frequently",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-001-c",
+        "question_id": "sup3-001",
+        "answer_text": "Always drive in the fast lane to avoid slower traffic",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-001-d",
+        "question_id": "sup3-001",
+        "answer_text": "Follow the vehicle ahead closely to reduce gaps in traffic",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -23,18 +56,51 @@
     "question_text": "What does a continuous (solid) line road marking mean, compared to a broken line?",
     "explanation": "Per the EDCAD handbook, a continuous line is prohibitive — crossing it is prohibited. A broken line, by contrast, is a recommendation, warning, or guide and may be crossed when safe.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "continuous_line"],
+    "tags": [
+      "road_markings",
+      "continuous_line"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-002-a", "question_id": "sup3-002", "answer_text": "You may cross it if there is no oncoming traffic", "is_correct": false, "display_order": 1},
-      {"id": "sup3-002-b", "question_id": "sup3-002", "answer_text": "Crossing is prohibited — it is a prohibitive marking", "is_correct": true, "display_order": 2},
-      {"id": "sup3-002-c", "question_id": "sup3-002", "answer_text": "It is only a recommendation not to cross", "is_correct": false, "display_order": 3},
-      {"id": "sup3-002-d", "question_id": "sup3-002", "answer_text": "You may cross it when turning at an intersection", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-002-a",
+        "question_id": "sup3-002",
+        "answer_text": "You may cross it if there is no oncoming traffic",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-002-b",
+        "question_id": "sup3-002",
+        "answer_text": "Crossing is prohibited — it is a prohibitive marking",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-002-c",
+        "question_id": "sup3-002",
+        "answer_text": "It is only a recommendation not to cross",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-002-d",
+        "question_id": "sup3-002",
+        "answer_text": "You may cross it when turning at an intersection",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -42,18 +108,51 @@
     "question_text": "What does the handbook principle 'the more paint, the more important the message' refer to?",
     "explanation": "The EDCAD handbook teaches that thicker or more prominent road markings carry greater importance. More paint on the road surface signals a more critical message to drivers.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "handbook_principle"],
+    "tags": [
+      "road_markings",
+      "handbook_principle"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-003-a", "question_id": "sup3-003", "answer_text": "Road markings with more paint carry a more important message", "is_correct": true, "display_order": 1},
-      {"id": "sup3-003-b", "question_id": "sup3-003", "answer_text": "Freshly painted markings override older traffic signs", "is_correct": false, "display_order": 2},
-      {"id": "sup3-003-c", "question_id": "sup3-003", "answer_text": "Brighter paint colors indicate higher speed limits", "is_correct": false, "display_order": 3},
-      {"id": "sup3-003-d", "question_id": "sup3-003", "answer_text": "Only white painted markings are legally enforceable", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-003-a",
+        "question_id": "sup3-003",
+        "answer_text": "Road markings with more paint carry a more important message",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-003-b",
+        "question_id": "sup3-003",
+        "answer_text": "Freshly painted markings override older traffic signs",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-003-c",
+        "question_id": "sup3-003",
+        "answer_text": "Brighter paint colors indicate higher speed limits",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-003-d",
+        "question_id": "sup3-003",
+        "answer_text": "Only white painted markings are legally enforceable",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -61,18 +160,51 @@
     "question_text": "What shape are warning signs according to the EDCAD handbook?",
     "explanation": "The EDCAD handbook specifies that warning signs are triangular in shape. This distinct shape helps drivers quickly identify that a hazard or change in road conditions lies ahead.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["warning_signs", "sign_shapes"],
+    "tags": [
+      "warning_signs",
+      "sign_shapes"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-004-a", "question_id": "sup3-004", "answer_text": "Circular", "is_correct": false, "display_order": 1},
-      {"id": "sup3-004-b", "question_id": "sup3-004", "answer_text": "Rectangular", "is_correct": false, "display_order": 2},
-      {"id": "sup3-004-c", "question_id": "sup3-004", "answer_text": "Triangular", "is_correct": true, "display_order": 3},
-      {"id": "sup3-004-d", "question_id": "sup3-004", "answer_text": "Octagonal", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-004-a",
+        "question_id": "sup3-004",
+        "answer_text": "Circular",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-004-b",
+        "question_id": "sup3-004",
+        "answer_text": "Rectangular",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-004-c",
+        "question_id": "sup3-004",
+        "answer_text": "Triangular",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-004-d",
+        "question_id": "sup3-004",
+        "answer_text": "Octagonal",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -80,18 +212,51 @@
     "question_text": "Prohibitive signs are identified by which shape and colour?",
     "explanation": "The EDCAD handbook states that prohibitive signs are circular in shape with a red border. The circular shape with red colouring universally communicates prohibition.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["prohibitive_signs", "sign_shapes"],
+    "tags": [
+      "prohibitive_signs",
+      "sign_shapes"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-005-a", "question_id": "sup3-005", "answer_text": "Triangular and yellow", "is_correct": false, "display_order": 1},
-      {"id": "sup3-005-b", "question_id": "sup3-005", "answer_text": "Circular and red", "is_correct": true, "display_order": 2},
-      {"id": "sup3-005-c", "question_id": "sup3-005", "answer_text": "Rectangular and red", "is_correct": false, "display_order": 3},
-      {"id": "sup3-005-d", "question_id": "sup3-005", "answer_text": "Circular and blue", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-005-a",
+        "question_id": "sup3-005",
+        "answer_text": "Triangular and yellow",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-005-b",
+        "question_id": "sup3-005",
+        "answer_text": "Circular and red",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-005-c",
+        "question_id": "sup3-005",
+        "answer_text": "Rectangular and red",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-005-d",
+        "question_id": "sup3-005",
+        "answer_text": "Circular and blue",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -99,18 +264,51 @@
     "question_text": "Regulatory (mandatory) signs are identified by which shape and colour?",
     "explanation": "According to the EDCAD handbook, regulatory signs are circular and blue. These signs indicate actions that drivers must take, such as minimum speed or required direction of travel.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["regulatory_signs", "sign_shapes"],
+    "tags": [
+      "regulatory_signs",
+      "sign_shapes"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-006-a", "question_id": "sup3-006", "answer_text": "Circular and blue", "is_correct": true, "display_order": 1},
-      {"id": "sup3-006-b", "question_id": "sup3-006", "answer_text": "Circular and red", "is_correct": false, "display_order": 2},
-      {"id": "sup3-006-c", "question_id": "sup3-006", "answer_text": "Triangular and blue", "is_correct": false, "display_order": 3},
-      {"id": "sup3-006-d", "question_id": "sup3-006", "answer_text": "Rectangular and green", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-006-a",
+        "question_id": "sup3-006",
+        "answer_text": "Circular and blue",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-006-b",
+        "question_id": "sup3-006",
+        "answer_text": "Circular and red",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-006-c",
+        "question_id": "sup3-006",
+        "answer_text": "Triangular and blue",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-006-d",
+        "question_id": "sup3-006",
+        "answer_text": "Rectangular and green",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -118,18 +316,51 @@
     "question_text": "What shape are direction signs?",
     "explanation": "The EDCAD handbook states that direction signs are rectangular in shape. They provide information about destinations, distances, and route guidance.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["direction_signs", "sign_shapes"],
+    "tags": [
+      "direction_signs",
+      "sign_shapes"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-007-a", "question_id": "sup3-007", "answer_text": "Circular", "is_correct": false, "display_order": 1},
-      {"id": "sup3-007-b", "question_id": "sup3-007", "answer_text": "Triangular", "is_correct": false, "display_order": 2},
-      {"id": "sup3-007-c", "question_id": "sup3-007", "answer_text": "Rectangular", "is_correct": true, "display_order": 3},
-      {"id": "sup3-007-d", "question_id": "sup3-007", "answer_text": "Diamond-shaped", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-007-a",
+        "question_id": "sup3-007",
+        "answer_text": "Circular",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-007-b",
+        "question_id": "sup3-007",
+        "answer_text": "Triangular",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-007-c",
+        "question_id": "sup3-007",
+        "answer_text": "Rectangular",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-007-d",
+        "question_id": "sup3-007",
+        "answer_text": "Diamond-shaped",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -137,18 +368,51 @@
     "question_text": "What background colour identifies temporary or construction zone signs?",
     "explanation": "The EDCAD handbook specifies that temporary or construction signs have an orange background. This distinct colour alerts drivers that road conditions ahead are temporarily altered.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["temporary_signs", "construction_signs"],
+    "tags": [
+      "temporary_signs",
+      "construction_signs"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-008-a", "question_id": "sup3-008", "answer_text": "Yellow", "is_correct": false, "display_order": 1},
-      {"id": "sup3-008-b", "question_id": "sup3-008", "answer_text": "Orange", "is_correct": true, "display_order": 2},
-      {"id": "sup3-008-c", "question_id": "sup3-008", "answer_text": "Red", "is_correct": false, "display_order": 3},
-      {"id": "sup3-008-d", "question_id": "sup3-008", "answer_text": "Green", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-008-a",
+        "question_id": "sup3-008",
+        "answer_text": "Yellow",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-008-b",
+        "question_id": "sup3-008",
+        "answer_text": "Orange",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-008-c",
+        "question_id": "sup3-008",
+        "answer_text": "Red",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-008-d",
+        "question_id": "sup3-008",
+        "answer_text": "Green",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -156,18 +420,51 @@
     "question_text": "What are two key characteristics of supplementary signs?",
     "explanation": "The EDCAD handbook notes that supplementary signs are rectangular and use the same colour as the primary sign they accompany. They provide additional detail to the main sign above.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["supplementary_signs", "sign_properties"],
+    "tags": [
+      "supplementary_signs",
+      "sign_properties"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-009-a", "question_id": "sup3-009", "answer_text": "Rectangular and the same colour as their primary sign", "is_correct": true, "display_order": 1},
-      {"id": "sup3-009-b", "question_id": "sup3-009", "answer_text": "Circular and always white with black text", "is_correct": false, "display_order": 2},
-      {"id": "sup3-009-c", "question_id": "sup3-009", "answer_text": "Triangular and always yellow", "is_correct": false, "display_order": 3},
-      {"id": "sup3-009-d", "question_id": "sup3-009", "answer_text": "Square and always green", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-009-a",
+        "question_id": "sup3-009",
+        "answer_text": "Rectangular and the same colour as their primary sign",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-009-b",
+        "question_id": "sup3-009",
+        "answer_text": "Circular and always white with black text",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-009-c",
+        "question_id": "sup3-009",
+        "answer_text": "Triangular and always yellow",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-009-d",
+        "question_id": "sup3-009",
+        "answer_text": "Square and always green",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -175,18 +472,51 @@
     "question_text": "Why do traffic signs use symbols rather than written words?",
     "explanation": "The EDCAD handbook explains that symbols are used on traffic signs because they can be recognized irrespective of language. This is especially important in the UAE where drivers come from many different countries.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["sign_design", "symbols"],
+    "tags": [
+      "sign_design",
+      "symbols"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-010-a", "question_id": "sup3-010", "answer_text": "Because symbols are cheaper to produce than text", "is_correct": false, "display_order": 1},
-      {"id": "sup3-010-b", "question_id": "sup3-010", "answer_text": "Because symbols are recognized irrespective of language", "is_correct": true, "display_order": 2},
-      {"id": "sup3-010-c", "question_id": "sup3-010", "answer_text": "Because text signs are too large for most roads", "is_correct": false, "display_order": 3},
-      {"id": "sup3-010-d", "question_id": "sup3-010", "answer_text": "Because symbols are only required on motorways", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-010-a",
+        "question_id": "sup3-010",
+        "answer_text": "Because symbols are cheaper to produce than text",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-010-b",
+        "question_id": "sup3-010",
+        "answer_text": "Because symbols are recognized irrespective of language",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-010-c",
+        "question_id": "sup3-010",
+        "answer_text": "Because text signs are too large for most roads",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-010-d",
+        "question_id": "sup3-010",
+        "answer_text": "Because symbols are only required on motorways",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -194,18 +524,51 @@
     "question_text": "On which side of the road are traffic signs primarily placed in the UAE?",
     "explanation": "The EDCAD handbook states that traffic signs are placed primarily on the right side of the road because the UAE drives on the right. This ensures signs are easily visible to drivers.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["sign_placement", "uae_driving"],
+    "tags": [
+      "sign_placement",
+      "uae_driving"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-011-a", "question_id": "sup3-011", "answer_text": "On the left side of the road", "is_correct": false, "display_order": 1},
-      {"id": "sup3-011-b", "question_id": "sup3-011", "answer_text": "On the right side of the road", "is_correct": true, "display_order": 2},
-      {"id": "sup3-011-c", "question_id": "sup3-011", "answer_text": "Overhead only", "is_correct": false, "display_order": 3},
-      {"id": "sup3-011-d", "question_id": "sup3-011", "answer_text": "On the central reservation only", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-011-a",
+        "question_id": "sup3-011",
+        "answer_text": "On the left side of the road",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-011-b",
+        "question_id": "sup3-011",
+        "answer_text": "On the right side of the road",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-011-c",
+        "question_id": "sup3-011",
+        "answer_text": "Overhead only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-011-d",
+        "question_id": "sup3-011",
+        "answer_text": "On the central reservation only",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -213,18 +576,51 @@
     "question_text": "Which of the following is NOT one of the six groups of traffic signs listed in the EDCAD handbook?",
     "explanation": "The EDCAD handbook lists six groups of traffic signs: warning, prohibitive, regulatory, direction, temporary, and supplementary. 'Informational' is not a separate group in this classification.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["sign_groups", "sign_classification"],
+    "tags": [
+      "sign_groups",
+      "sign_classification"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-012-a", "question_id": "sup3-012", "answer_text": "Warning signs", "is_correct": false, "display_order": 1},
-      {"id": "sup3-012-b", "question_id": "sup3-012", "answer_text": "Informational signs", "is_correct": true, "display_order": 2},
-      {"id": "sup3-012-c", "question_id": "sup3-012", "answer_text": "Temporary signs", "is_correct": false, "display_order": 3},
-      {"id": "sup3-012-d", "question_id": "sup3-012", "answer_text": "Supplementary signs", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-012-a",
+        "question_id": "sup3-012",
+        "answer_text": "Warning signs",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-012-b",
+        "question_id": "sup3-012",
+        "answer_text": "Informational signs",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-012-c",
+        "question_id": "sup3-012",
+        "answer_text": "Temporary signs",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-012-d",
+        "question_id": "sup3-012",
+        "answer_text": "Supplementary signs",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -232,18 +628,51 @@
     "question_text": "Road markings can appear in which forms according to the handbook?",
     "explanation": "The EDCAD handbook states that road markings appear as lines (continuous or broken), arrows, studs, symbols, and text messages. All of these forms convey instructions to road users.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "marking_types"],
+    "tags": [
+      "road_markings",
+      "marking_types"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-013-a", "question_id": "sup3-013", "answer_text": "Lines, arrows, studs, symbols, and text messages", "is_correct": true, "display_order": 1},
-      {"id": "sup3-013-b", "question_id": "sup3-013", "answer_text": "Only continuous and broken lines", "is_correct": false, "display_order": 2},
-      {"id": "sup3-013-c", "question_id": "sup3-013", "answer_text": "Lines, arrows, and traffic cones only", "is_correct": false, "display_order": 3},
-      {"id": "sup3-013-d", "question_id": "sup3-013", "answer_text": "Only painted arrows and text messages", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-013-a",
+        "question_id": "sup3-013",
+        "answer_text": "Lines, arrows, studs, symbols, and text messages",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-013-b",
+        "question_id": "sup3-013",
+        "answer_text": "Only continuous and broken lines",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-013-c",
+        "question_id": "sup3-013",
+        "answer_text": "Lines, arrows, and traffic cones only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-013-d",
+        "question_id": "sup3-013",
+        "answer_text": "Only painted arrows and text messages",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -251,18 +680,51 @@
     "question_text": "What is the purpose of lane arrows painted on the road?",
     "explanation": "The EDCAD handbook explains that lane arrows help drivers choose the correct lane for their intended direction. Following lane arrows prevents dangerous last-minute lane changes.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "lane_arrows"],
+    "tags": [
+      "road_markings",
+      "lane_arrows"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-014-a", "question_id": "sup3-014", "answer_text": "To indicate the speed limit for each lane", "is_correct": false, "display_order": 1},
-      {"id": "sup3-014-b", "question_id": "sup3-014", "answer_text": "To help drivers choose the correct lane for their direction", "is_correct": true, "display_order": 2},
-      {"id": "sup3-014-c", "question_id": "sup3-014", "answer_text": "To show which lanes are for emergency vehicles only", "is_correct": false, "display_order": 3},
-      {"id": "sup3-014-d", "question_id": "sup3-014", "answer_text": "To indicate where parking is available", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-014-a",
+        "question_id": "sup3-014",
+        "answer_text": "To indicate the speed limit for each lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-014-b",
+        "question_id": "sup3-014",
+        "answer_text": "To help drivers choose the correct lane for their direction",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-014-c",
+        "question_id": "sup3-014",
+        "answer_text": "To show which lanes are for emergency vehicles only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-014-d",
+        "question_id": "sup3-014",
+        "answer_text": "To indicate where parking is available",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -270,18 +732,51 @@
     "question_text": "What does a prohibitory (solid) line between lanes indicate?",
     "explanation": "The EDCAD handbook states that a prohibitory line between lanes means lane changing is forbidden. Drivers must remain in their lane until the marking changes to a broken line.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["road_markings", "lane_discipline"],
+    "tags": [
+      "road_markings",
+      "lane_discipline"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-015-a", "question_id": "sup3-015", "answer_text": "Lane changing is forbidden", "is_correct": true, "display_order": 1},
-      {"id": "sup3-015-b", "question_id": "sup3-015", "answer_text": "Lane changing is allowed with caution", "is_correct": false, "display_order": 2},
-      {"id": "sup3-015-c", "question_id": "sup3-015", "answer_text": "The lane is reserved for heavy vehicles", "is_correct": false, "display_order": 3},
-      {"id": "sup3-015-d", "question_id": "sup3-015", "answer_text": "The lane will merge ahead", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-015-a",
+        "question_id": "sup3-015",
+        "answer_text": "Lane changing is forbidden",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-015-b",
+        "question_id": "sup3-015",
+        "answer_text": "Lane changing is allowed with caution",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-015-c",
+        "question_id": "sup3-015",
+        "answer_text": "The lane is reserved for heavy vehicles",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-015-d",
+        "question_id": "sup3-015",
+        "answer_text": "The lane will merge ahead",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -289,18 +784,52 @@
     "question_text": "What is the relationship between a No Entry sign and a One-Way traffic sign?",
     "explanation": "The EDCAD handbook explains that when you see a One-Way sign, traffic flows in only one direction. The No Entry sign is placed at the opposite end to prevent traffic from entering against the flow.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["no_entry", "one_way", "prohibitive_signs"],
+    "tags": [
+      "no_entry",
+      "one_way",
+      "prohibitive_signs"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-016-a", "question_id": "sup3-016", "answer_text": "They are the same sign with different colours", "is_correct": false, "display_order": 1},
-      {"id": "sup3-016-b", "question_id": "sup3-016", "answer_text": "No Entry is placed at the opposite end of a one-way road to prevent wrong-way driving", "is_correct": true, "display_order": 2},
-      {"id": "sup3-016-c", "question_id": "sup3-016", "answer_text": "No Entry applies only to heavy vehicles on one-way roads", "is_correct": false, "display_order": 3},
-      {"id": "sup3-016-d", "question_id": "sup3-016", "answer_text": "One-Way signs are only used on motorways", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-016-a",
+        "question_id": "sup3-016",
+        "answer_text": "They are the same sign with different colours",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-016-b",
+        "question_id": "sup3-016",
+        "answer_text": "No Entry is placed at the opposite end of a one-way road to prevent wrong-way driving",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-016-c",
+        "question_id": "sup3-016",
+        "answer_text": "No Entry applies only to heavy vehicles on one-way roads",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-016-d",
+        "question_id": "sup3-016",
+        "answer_text": "One-Way signs are only used on motorways",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -308,18 +837,52 @@
     "question_text": "What signs are placed together at roundabouts?",
     "explanation": "The EDCAD handbook states that Give Way and Roundabout signs are placed together at roundabouts. The roundabout sign warns of the layout ahead while the Give Way sign instructs drivers to yield to traffic already in the roundabout.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["roundabout", "give_way", "sign_combinations"],
+    "tags": [
+      "roundabout",
+      "give_way",
+      "sign_combinations"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-017-a", "question_id": "sup3-017", "answer_text": "Stop sign and No Entry sign", "is_correct": false, "display_order": 1},
-      {"id": "sup3-017-b", "question_id": "sup3-017", "answer_text": "Give Way sign and Roundabout sign", "is_correct": true, "display_order": 2},
-      {"id": "sup3-017-c", "question_id": "sup3-017", "answer_text": "Speed limit sign and No Overtaking sign", "is_correct": false, "display_order": 3},
-      {"id": "sup3-017-d", "question_id": "sup3-017", "answer_text": "One-Way sign and No U-Turn sign", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-017-a",
+        "question_id": "sup3-017",
+        "answer_text": "Stop sign and No Entry sign",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-017-b",
+        "question_id": "sup3-017",
+        "answer_text": "Give Way sign and Roundabout sign",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-017-c",
+        "question_id": "sup3-017",
+        "answer_text": "Speed limit sign and No Overtaking sign",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-017-d",
+        "question_id": "sup3-017",
+        "answer_text": "One-Way sign and No U-Turn sign",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -327,18 +890,51 @@
     "question_text": "What does a red cross on a lane control sign mean?",
     "explanation": "The EDCAD handbook states that a red cross on a lane control sign means the lane is closed to traffic. Drivers must not use a lane displaying a red cross.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["lane_control", "red_cross"],
+    "tags": [
+      "lane_control",
+      "red_cross"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-018-a", "question_id": "sup3-018", "answer_text": "The lane is for emergency vehicles only", "is_correct": false, "display_order": 1},
-      {"id": "sup3-018-b", "question_id": "sup3-018", "answer_text": "The lane is closed to traffic", "is_correct": true, "display_order": 2},
-      {"id": "sup3-018-c", "question_id": "sup3-018", "answer_text": "The lane has a reduced speed limit", "is_correct": false, "display_order": 3},
-      {"id": "sup3-018-d", "question_id": "sup3-018", "answer_text": "The lane leads to a hospital", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-018-a",
+        "question_id": "sup3-018",
+        "answer_text": "The lane is for emergency vehicles only",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-018-b",
+        "question_id": "sup3-018",
+        "answer_text": "The lane is closed to traffic",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-018-c",
+        "question_id": "sup3-018",
+        "answer_text": "The lane has a reduced speed limit",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-018-d",
+        "question_id": "sup3-018",
+        "answer_text": "The lane leads to a hospital",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -346,18 +942,52 @@
     "question_text": "What is the key difference between a No Stopping sign and a No Parking sign?",
     "explanation": "The EDCAD handbook explains that under a No Parking sign, you are still allowed to briefly stop to pick up or drop off passengers. Under a No Stopping sign, no stopping of any kind is permitted.",
     "module": "road_signs",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["no_stopping", "no_parking", "prohibitive_signs"],
+    "tags": [
+      "no_stopping",
+      "no_parking",
+      "prohibitive_signs"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-019-a", "question_id": "sup3-019", "answer_text": "No Parking allows a brief stop for passengers; No Stopping prohibits all stopping", "is_correct": true, "display_order": 1},
-      {"id": "sup3-019-b", "question_id": "sup3-019", "answer_text": "No Stopping applies only on weekdays; No Parking applies every day", "is_correct": false, "display_order": 2},
-      {"id": "sup3-019-c", "question_id": "sup3-019", "answer_text": "There is no difference — both mean you cannot stop at all", "is_correct": false, "display_order": 3},
-      {"id": "sup3-019-d", "question_id": "sup3-019", "answer_text": "No Parking applies only to commercial vehicles", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-019-a",
+        "question_id": "sup3-019",
+        "answer_text": "No Parking allows a brief stop for passengers; No Stopping prohibits all stopping",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-019-b",
+        "question_id": "sup3-019",
+        "answer_text": "No Stopping applies only on weekdays; No Parking applies every day",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-019-c",
+        "question_id": "sup3-019",
+        "answer_text": "There is no difference — both mean you cannot stop at all",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-019-d",
+        "question_id": "sup3-019",
+        "answer_text": "No Parking applies only to commercial vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -365,18 +995,52 @@
     "question_text": "What is the Left Hand Rule at uncontrolled junctions?",
     "explanation": "The EDCAD handbook states the Left Hand Rule: at uncontrolled junctions (no traffic lights or signs), you must give way to vehicles approaching from the left.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["left_hand_rule", "right_of_way", "uncontrolled_junction"],
+    "tags": [
+      "left_hand_rule",
+      "right_of_way",
+      "uncontrolled_junction"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-020-a", "question_id": "sup3-020", "answer_text": "Give way to vehicles approaching from the left", "is_correct": true, "display_order": 1},
-      {"id": "sup3-020-b", "question_id": "sup3-020", "answer_text": "Give way to vehicles approaching from the right", "is_correct": false, "display_order": 2},
-      {"id": "sup3-020-c", "question_id": "sup3-020", "answer_text": "The vehicle that arrived first always has priority", "is_correct": false, "display_order": 3},
-      {"id": "sup3-020-d", "question_id": "sup3-020", "answer_text": "Always stop completely before proceeding", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-020-a",
+        "question_id": "sup3-020",
+        "answer_text": "Give way to vehicles approaching from the left",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-020-b",
+        "question_id": "sup3-020",
+        "answer_text": "Give way to vehicles approaching from the right",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-020-c",
+        "question_id": "sup3-020",
+        "answer_text": "The vehicle that arrived first always has priority",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-020-d",
+        "question_id": "sup3-020",
+        "answer_text": "Always stop completely before proceeding",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -384,18 +1048,52 @@
     "question_text": "When does the Left Hand Rule NOT apply?",
     "explanation": "The EDCAD handbook clearly states that the Left Hand Rule does not apply where a Give Way sign or Stop sign is present. In those cases, the sign takes precedence over the general rule.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["left_hand_rule", "give_way", "stop_sign"],
+    "tags": [
+      "left_hand_rule",
+      "give_way",
+      "stop_sign"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-021-a", "question_id": "sup3-021", "answer_text": "When driving at night", "is_correct": false, "display_order": 1},
-      {"id": "sup3-021-b", "question_id": "sup3-021", "answer_text": "Where a Give Way or Stop sign is present", "is_correct": true, "display_order": 2},
-      {"id": "sup3-021-c", "question_id": "sup3-021", "answer_text": "When driving a heavy vehicle", "is_correct": false, "display_order": 3},
-      {"id": "sup3-021-d", "question_id": "sup3-021", "answer_text": "When there is no other traffic at the junction", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-021-a",
+        "question_id": "sup3-021",
+        "answer_text": "When driving at night",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-021-b",
+        "question_id": "sup3-021",
+        "answer_text": "Where a Give Way or Stop sign is present",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-021-c",
+        "question_id": "sup3-021",
+        "answer_text": "When driving a heavy vehicle",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-021-d",
+        "question_id": "sup3-021",
+        "answer_text": "When there is no other traffic at the junction",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -403,18 +1101,52 @@
     "question_text": "When turning left at a junction, whom must you give way to?",
     "explanation": "The EDCAD handbook's Turning Rule states that when turning left, you must give way to oncoming traffic AND pedestrians crossing the road you are turning into.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["turning_rule", "right_of_way", "pedestrians"],
+    "tags": [
+      "turning_rule",
+      "right_of_way",
+      "pedestrians"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-022-a", "question_id": "sup3-022", "answer_text": "Only oncoming traffic", "is_correct": false, "display_order": 1},
-      {"id": "sup3-022-b", "question_id": "sup3-022", "answer_text": "Only pedestrians", "is_correct": false, "display_order": 2},
-      {"id": "sup3-022-c", "question_id": "sup3-022", "answer_text": "Both oncoming traffic and pedestrians", "is_correct": true, "display_order": 3},
-      {"id": "sup3-022-d", "question_id": "sup3-022", "answer_text": "No one — left turns always have priority", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-022-a",
+        "question_id": "sup3-022",
+        "answer_text": "Only oncoming traffic",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-022-b",
+        "question_id": "sup3-022",
+        "answer_text": "Only pedestrians",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-022-c",
+        "question_id": "sup3-022",
+        "answer_text": "Both oncoming traffic and pedestrians",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-022-d",
+        "question_id": "sup3-022",
+        "answer_text": "No one — left turns always have priority",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -422,18 +1154,52 @@
     "question_text": "When entering a main road from a gravel road, which traffic must you give way to?",
     "explanation": "The EDCAD handbook's Main Road/Priority Road Rule states that when entering a main road from a gravel road, you must give way to traffic from both directions on the main road.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["priority_road", "right_of_way", "gravel_road"],
+    "tags": [
+      "priority_road",
+      "right_of_way",
+      "gravel_road"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-023-a", "question_id": "sup3-023", "answer_text": "Only traffic from the left", "is_correct": false, "display_order": 1},
-      {"id": "sup3-023-b", "question_id": "sup3-023", "answer_text": "Only traffic from the right", "is_correct": false, "display_order": 2},
-      {"id": "sup3-023-c", "question_id": "sup3-023", "answer_text": "Traffic from both directions", "is_correct": true, "display_order": 3},
-      {"id": "sup3-023-d", "question_id": "sup3-023", "answer_text": "No one — gravel road traffic has equal priority", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-023-a",
+        "question_id": "sup3-023",
+        "answer_text": "Only traffic from the left",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-023-b",
+        "question_id": "sup3-023",
+        "answer_text": "Only traffic from the right",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-023-c",
+        "question_id": "sup3-023",
+        "answer_text": "Traffic from both directions",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-023-d",
+        "question_id": "sup3-023",
+        "answer_text": "No one — gravel road traffic has equal priority",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -441,18 +1207,51 @@
     "question_text": "In which situations must you give way when exiting onto a road?",
     "explanation": "The EDCAD handbook's Exit and Entering Rule states you must give way when exiting a parking lot, petrol station, residential area, or hard shoulder onto the main road.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["exit_rule", "right_of_way"],
+    "tags": [
+      "exit_rule",
+      "right_of_way"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-024-a", "question_id": "sup3-024", "answer_text": "Only when exiting a parking lot", "is_correct": false, "display_order": 1},
-      {"id": "sup3-024-b", "question_id": "sup3-024", "answer_text": "When exiting a parking lot, petrol station, residential area, or hard shoulder", "is_correct": true, "display_order": 2},
-      {"id": "sup3-024-c", "question_id": "sup3-024", "answer_text": "Only during peak traffic hours", "is_correct": false, "display_order": 3},
-      {"id": "sup3-024-d", "question_id": "sup3-024", "answer_text": "Only when a Give Way sign is posted at the exit", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-024-a",
+        "question_id": "sup3-024",
+        "answer_text": "Only when exiting a parking lot",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-024-b",
+        "question_id": "sup3-024",
+        "answer_text": "When exiting a parking lot, petrol station, residential area, or hard shoulder",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-024-c",
+        "question_id": "sup3-024",
+        "answer_text": "Only during peak traffic hours",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-024-d",
+        "question_id": "sup3-024",
+        "answer_text": "Only when a Give Way sign is posted at the exit",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -460,18 +1259,51 @@
     "question_text": "What does the Obstruction Rule prohibit?",
     "explanation": "The EDCAD handbook states that obstructing crossroads or walkways during a traffic jam is prohibited. You must not enter an intersection unless you can clear it completely.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["obstruction_rule", "traffic_jam"],
+    "tags": [
+      "obstruction_rule",
+      "traffic_jam"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-025-a", "question_id": "sup3-025", "answer_text": "Overtaking near crossroads", "is_correct": false, "display_order": 1},
-      {"id": "sup3-025-b", "question_id": "sup3-025", "answer_text": "Obstructing crossroads or walkways during a traffic jam", "is_correct": true, "display_order": 2},
-      {"id": "sup3-025-c", "question_id": "sup3-025", "answer_text": "Parking within 5 metres of a crossroad", "is_correct": false, "display_order": 3},
-      {"id": "sup3-025-d", "question_id": "sup3-025", "answer_text": "Using the horn at a crossroads", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-025-a",
+        "question_id": "sup3-025",
+        "answer_text": "Overtaking near crossroads",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-025-b",
+        "question_id": "sup3-025",
+        "answer_text": "Obstructing crossroads or walkways during a traffic jam",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-025-c",
+        "question_id": "sup3-025",
+        "answer_text": "Parking within 5 metres of a crossroad",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-025-d",
+        "question_id": "sup3-025",
+        "answer_text": "Using the horn at a crossroads",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -479,18 +1311,52 @@
     "question_text": "According to the Bus Rule, when do buses leaving a bus stop have priority?",
     "explanation": "The EDCAD handbook states that buses leaving a bus stop have priority inside city limits. Other drivers must yield to buses pulling out from designated bus stops within city boundaries.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["bus_rule", "priority", "city_driving"],
+    "tags": [
+      "bus_rule",
+      "priority",
+      "city_driving"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-026-a", "question_id": "sup3-026", "answer_text": "At all times and in all locations", "is_correct": false, "display_order": 1},
-      {"id": "sup3-026-b", "question_id": "sup3-026", "answer_text": "Inside city limits", "is_correct": true, "display_order": 2},
-      {"id": "sup3-026-c", "question_id": "sup3-026", "answer_text": "Only on motorways", "is_correct": false, "display_order": 3},
-      {"id": "sup3-026-d", "question_id": "sup3-026", "answer_text": "Only during school hours", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-026-a",
+        "question_id": "sup3-026",
+        "answer_text": "At all times and in all locations",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-026-b",
+        "question_id": "sup3-026",
+        "answer_text": "Inside city limits",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-026-c",
+        "question_id": "sup3-026",
+        "answer_text": "Only on motorways",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-026-d",
+        "question_id": "sup3-026",
+        "answer_text": "Only during school hours",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -498,18 +1364,52 @@
     "question_text": "What is the Zipper Principle?",
     "explanation": "The EDCAD handbook describes the Zipper Principle: at T-junctions or merges, one car from each road moves alternately, like teeth on a zipper interlocking.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["zipper_principle", "merging", "t_junction"],
+    "tags": [
+      "zipper_principle",
+      "merging",
+      "t_junction"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-027-a", "question_id": "sup3-027", "answer_text": "At merges or T-junctions, one car from each road moves alternately", "is_correct": true, "display_order": 1},
-      {"id": "sup3-027-b", "question_id": "sup3-027", "answer_text": "All cars on the main road pass before any merging traffic can enter", "is_correct": false, "display_order": 2},
-      {"id": "sup3-027-c", "question_id": "sup3-027", "answer_text": "The faster vehicle always has priority at a merge", "is_correct": false, "display_order": 3},
-      {"id": "sup3-027-d", "question_id": "sup3-027", "answer_text": "Vehicles must come to a complete stop before merging", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-027-a",
+        "question_id": "sup3-027",
+        "answer_text": "At merges or T-junctions, one car from each road moves alternately",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-027-b",
+        "question_id": "sup3-027",
+        "answer_text": "All cars on the main road pass before any merging traffic can enter",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-027-c",
+        "question_id": "sup3-027",
+        "answer_text": "The faster vehicle always has priority at a merge",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-027-d",
+        "question_id": "sup3-027",
+        "answer_text": "Vehicles must come to a complete stop before merging",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -517,18 +1417,52 @@
     "question_text": "What is the correct order of traffic precedence according to the EDCAD handbook?",
     "explanation": "The EDCAD handbook specifies the order of precedence as: 1) Police officer's directions, 2) Traffic lights, 3) Traffic signs, 4) Rules of the road. A police officer's directions override everything else.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 3,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["precedence", "police_officer", "traffic_lights"],
+    "tags": [
+      "precedence",
+      "police_officer",
+      "traffic_lights"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-028-a", "question_id": "sup3-028", "answer_text": "Traffic light → Traffic sign → Police officer → Rules of the road", "is_correct": false, "display_order": 1},
-      {"id": "sup3-028-b", "question_id": "sup3-028", "answer_text": "Police officer → Traffic light → Traffic sign → Rules of the road", "is_correct": true, "display_order": 2},
-      {"id": "sup3-028-c", "question_id": "sup3-028", "answer_text": "Traffic sign → Police officer → Traffic light → Rules of the road", "is_correct": false, "display_order": 3},
-      {"id": "sup3-028-d", "question_id": "sup3-028", "answer_text": "Rules of the road → Traffic sign → Traffic light → Police officer", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-028-a",
+        "question_id": "sup3-028",
+        "answer_text": "Traffic light → Traffic sign → Police officer → Rules of the road",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-028-b",
+        "question_id": "sup3-028",
+        "answer_text": "Police officer → Traffic light → Traffic sign → Rules of the road",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-028-c",
+        "question_id": "sup3-028",
+        "answer_text": "Traffic sign → Police officer → Traffic light → Rules of the road",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-028-d",
+        "question_id": "sup3-028",
+        "answer_text": "Rules of the road → Traffic sign → Traffic light → Police officer",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -536,18 +1470,51 @@
     "question_text": "When may the horn be used, and when is it restricted?",
     "explanation": "The EDCAD handbook states the horn should only be used to avert danger. It must not be used in residential areas between midnight and 6am.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["horn_use", "residential_areas"],
+    "tags": [
+      "horn_use",
+      "residential_areas"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-029-a", "question_id": "sup3-029", "answer_text": "Only to avert danger; not in residential areas between midnight and 6am", "is_correct": true, "display_order": 1},
-      {"id": "sup3-029-b", "question_id": "sup3-029", "answer_text": "Freely at any time to alert other drivers", "is_correct": false, "display_order": 2},
-      {"id": "sup3-029-c", "question_id": "sup3-029", "answer_text": "Only on motorways and dual carriageways", "is_correct": false, "display_order": 3},
-      {"id": "sup3-029-d", "question_id": "sup3-029", "answer_text": "Only to avert danger; never in residential areas at any time", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-029-a",
+        "question_id": "sup3-029",
+        "answer_text": "Only to avert danger; not in residential areas between midnight and 6am",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-029-b",
+        "question_id": "sup3-029",
+        "answer_text": "Freely at any time to alert other drivers",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-029-c",
+        "question_id": "sup3-029",
+        "answer_text": "Only on motorways and dual carriageways",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-029-d",
+        "question_id": "sup3-029",
+        "answer_text": "Only to avert danger; never in residential areas at any time",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -555,18 +1522,51 @@
     "question_text": "When is the use of hazard lights forbidden?",
     "explanation": "The EDCAD handbook states that hazard lights should only be used for emergencies or accidents. Using them while driving in heavy rain is specifically forbidden as it can confuse other drivers about your intentions.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["hazard_lights", "heavy_rain"],
+    "tags": [
+      "hazard_lights",
+      "heavy_rain"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-030-a", "question_id": "sup3-030", "answer_text": "During heavy rain while driving", "is_correct": true, "display_order": 1},
-      {"id": "sup3-030-b", "question_id": "sup3-030", "answer_text": "When stopped due to a breakdown", "is_correct": false, "display_order": 2},
-      {"id": "sup3-030-c", "question_id": "sup3-030", "answer_text": "When involved in an accident", "is_correct": false, "display_order": 3},
-      {"id": "sup3-030-d", "question_id": "sup3-030", "answer_text": "When warning other drivers of danger ahead", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-030-a",
+        "question_id": "sup3-030",
+        "answer_text": "During heavy rain while driving",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-030-b",
+        "question_id": "sup3-030",
+        "answer_text": "When stopped due to a breakdown",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-030-c",
+        "question_id": "sup3-030",
+        "answer_text": "When involved in an accident",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-030-d",
+        "question_id": "sup3-030",
+        "answer_text": "When warning other drivers of danger ahead",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -574,18 +1574,51 @@
     "question_text": "When do stoplights (brake lights) come on?",
     "explanation": "The EDCAD handbook states that stoplights come on automatically when the brake pedal is touched. They alert following drivers that you are slowing down or stopping.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 8,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["brake_lights", "vehicle_lights"],
+    "tags": [
+      "brake_lights",
+      "vehicle_lights"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-031-a", "question_id": "sup3-031", "answer_text": "Automatically when the brake pedal is touched", "is_correct": true, "display_order": 1},
-      {"id": "sup3-031-b", "question_id": "sup3-031", "answer_text": "Only when the driver activates them manually", "is_correct": false, "display_order": 2},
-      {"id": "sup3-031-c", "question_id": "sup3-031", "answer_text": "Only when the vehicle comes to a complete stop", "is_correct": false, "display_order": 3},
-      {"id": "sup3-031-d", "question_id": "sup3-031", "answer_text": "Whenever the headlights are switched on", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-031-a",
+        "question_id": "sup3-031",
+        "answer_text": "Automatically when the brake pedal is touched",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-031-b",
+        "question_id": "sup3-031",
+        "answer_text": "Only when the driver activates them manually",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-031-c",
+        "question_id": "sup3-031",
+        "answer_text": "Only when the vehicle comes to a complete stop",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-031-d",
+        "question_id": "sup3-031",
+        "answer_text": "Whenever the headlights are switched on",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -593,18 +1626,51 @@
     "question_text": "What are the requirements for indicator signals according to the EDCAD handbook?",
     "explanation": "The EDCAD handbook states that indicator signals must be given in plenty of time, be unambiguous, and be clearly visible to other road users.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["indicator_signals", "signalling"],
+    "tags": [
+      "indicator_signals",
+      "signalling"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-032-a", "question_id": "sup3-032", "answer_text": "Given in plenty of time, unambiguous, and clearly visible", "is_correct": true, "display_order": 1},
-      {"id": "sup3-032-b", "question_id": "sup3-032", "answer_text": "Given at least 100 metres before the manoeuvre", "is_correct": false, "display_order": 2},
-      {"id": "sup3-032-c", "question_id": "sup3-032", "answer_text": "Only required on multi-lane roads", "is_correct": false, "display_order": 3},
-      {"id": "sup3-032-d", "question_id": "sup3-032", "answer_text": "Only necessary when other vehicles are visible behind you", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-032-a",
+        "question_id": "sup3-032",
+        "answer_text": "Given in plenty of time, unambiguous, and clearly visible",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-032-b",
+        "question_id": "sup3-032",
+        "answer_text": "Given at least 100 metres before the manoeuvre",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-032-c",
+        "question_id": "sup3-032",
+        "answer_text": "Only required on multi-lane roads",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-032-d",
+        "question_id": "sup3-032",
+        "answer_text": "Only necessary when other vehicles are visible behind you",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -612,18 +1678,52 @@
     "question_text": "Does giving an indicator signal release you from responsibility if an accident occurs?",
     "explanation": "The EDCAD handbook explicitly states that giving a signal does NOT release you from responsibility in the event of an accident. You must still ensure the manoeuvre is safe before executing it.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["indicator_signals", "responsibility", "accident"],
+    "tags": [
+      "indicator_signals",
+      "responsibility",
+      "accident"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-033-a", "question_id": "sup3-033", "answer_text": "Yes, signalling always transfers responsibility to other drivers", "is_correct": false, "display_order": 1},
-      {"id": "sup3-033-b", "question_id": "sup3-033", "answer_text": "No, giving a signal does not release you from responsibility", "is_correct": true, "display_order": 2},
-      {"id": "sup3-033-c", "question_id": "sup3-033", "answer_text": "Yes, if the signal was given at least 5 seconds in advance", "is_correct": false, "display_order": 3},
-      {"id": "sup3-033-d", "question_id": "sup3-033", "answer_text": "Only if the other driver failed to see the signal", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-033-a",
+        "question_id": "sup3-033",
+        "answer_text": "Yes, signalling always transfers responsibility to other drivers",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-033-b",
+        "question_id": "sup3-033",
+        "answer_text": "No, giving a signal does not release you from responsibility",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-033-c",
+        "question_id": "sup3-033",
+        "answer_text": "Yes, if the signal was given at least 5 seconds in advance",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-033-d",
+        "question_id": "sup3-033",
+        "answer_text": "Only if the other driver failed to see the signal",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -631,18 +1731,51 @@
     "question_text": "What must you do when an emergency vehicle approaches with lights and sirens?",
     "explanation": "The EDCAD handbook states that emergency vehicles have priority. You must slow down and pull over to let them pass. Disrupting their passage is specifically prohibited.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 1,
     "relevance_rank": 10,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["emergency_vehicles", "priority"],
+    "tags": [
+      "emergency_vehicles",
+      "priority"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-034-a", "question_id": "sup3-034", "answer_text": "Maintain your speed and stay in your lane", "is_correct": false, "display_order": 1},
-      {"id": "sup3-034-b", "question_id": "sup3-034", "answer_text": "Stop immediately wherever you are", "is_correct": false, "display_order": 2},
-      {"id": "sup3-034-c", "question_id": "sup3-034", "answer_text": "Slow down and pull over to let them pass", "is_correct": true, "display_order": 3},
-      {"id": "sup3-034-d", "question_id": "sup3-034", "answer_text": "Speed up to get out of their way quickly", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-034-a",
+        "question_id": "sup3-034",
+        "answer_text": "Maintain your speed and stay in your lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-034-b",
+        "question_id": "sup3-034",
+        "answer_text": "Stop immediately wherever you are",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-034-c",
+        "question_id": "sup3-034",
+        "answer_text": "Slow down and pull over to let them pass",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-034-d",
+        "question_id": "sup3-034",
+        "answer_text": "Speed up to get out of their way quickly",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   },
   {
@@ -650,37 +1783,52 @@
     "question_text": "What does a flashing amber light at a pedestrian crossing indicate?",
     "explanation": "The EDCAD handbook explains that a flashing amber light indicates an uncontrolled pedestrian crossing. Traffic signs take precedence, and drivers must exercise extra caution as there is no controlled stop phase.",
     "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
+    "vehicle_types": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
     "image_url": null,
-    "tags": ["pedestrian_crossing", "amber_light", "uncontrolled"],
+    "tags": [
+      "pedestrian_crossing",
+      "amber_light",
+      "uncontrolled"
+    ],
     "is_edcad_style": true,
     "answers": [
-      {"id": "sup3-035-a", "question_id": "sup3-035", "answer_text": "The crossing is out of order", "is_correct": false, "display_order": 1},
-      {"id": "sup3-035-b", "question_id": "sup3-035", "answer_text": "It is an uncontrolled crossing — proceed with caution and yield to pedestrians", "is_correct": true, "display_order": 2},
-      {"id": "sup3-035-c", "question_id": "sup3-035", "answer_text": "You must stop and wait for the light to turn green", "is_correct": false, "display_order": 3},
-      {"id": "sup3-035-d", "question_id": "sup3-035", "answer_text": "Pedestrians are not allowed to cross at this time", "is_correct": false, "display_order": 4}
-    ]
-  },
-  {
-    "id": "sup3-036",
-    "question_text": "What does a steady amber traffic light mean?",
-    "explanation": "The EDCAD handbook states that a steady amber light means you should stop if it is safe to do so. This differs from a flashing amber, which is only a warning signal where traffic signs take precedence.",
-    "module": "traffic_rules",
-    "vehicle_types": ["A", "B", "C", "D", "E"],
-    "difficulty": 2,
-    "relevance_rank": 10,
-    "svg_illustration_key": null,
-    "image_url": null,
-    "tags": ["traffic_lights", "amber_light"],
-    "is_edcad_style": true,
-    "answers": [
-      {"id": "sup3-036-a", "question_id": "sup3-036", "answer_text": "Speed up to clear the junction before it turns red", "is_correct": false, "display_order": 1},
-      {"id": "sup3-036-b", "question_id": "sup3-036", "answer_text": "Stop if it is safe to do so", "is_correct": true, "display_order": 2},
-      {"id": "sup3-036-c", "question_id": "sup3-036", "answer_text": "Proceed with caution — it is only a warning", "is_correct": false, "display_order": 3},
-      {"id": "sup3-036-d", "question_id": "sup3-036", "answer_text": "Flash your headlights to warn other drivers", "is_correct": false, "display_order": 4}
+      {
+        "id": "sup3-035-a",
+        "question_id": "sup3-035",
+        "answer_text": "The crossing is out of order",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "sup3-035-b",
+        "question_id": "sup3-035",
+        "answer_text": "It is an uncontrolled crossing — proceed with caution and yield to pedestrians",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "sup3-035-c",
+        "question_id": "sup3-035",
+        "answer_text": "You must stop and wait for the light to turn green",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "sup3-035-d",
+        "question_id": "sup3-035",
+        "answer_text": "Pedestrians are not allowed to cross at this time",
+        "is_correct": false,
+        "display_order": 4
+      }
     ]
   }
 ]

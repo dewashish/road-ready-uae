@@ -1333,59 +1333,6 @@
     ]
   },
   {
-    "id": "sup4-026",
-    "question_text": "What is the most common type of accident on main roads outside built-up areas?",
-    "explanation": "Single vehicle accidents are the most common type on main roads outside built-up areas. These often occur when a driver loses control due to excessive speed, fatigue, or poor road conditions.",
-    "module": "critical_situations",
-    "vehicle_types": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
-    ],
-    "difficulty": 2,
-    "relevance_rank": 9,
-    "svg_illustration_key": null,
-    "image_url": null,
-    "tags": [
-      "single_vehicle_accident",
-      "main_roads",
-      "outside_built_up"
-    ],
-    "is_edcad_style": true,
-    "answers": [
-      {
-        "id": "sup4-026-a",
-        "question_id": "sup4-026",
-        "answer_text": "Rear-end collisions",
-        "is_correct": false,
-        "display_order": 1
-      },
-      {
-        "id": "sup4-026-b",
-        "question_id": "sup4-026",
-        "answer_text": "Head-on collisions",
-        "is_correct": false,
-        "display_order": 2
-      },
-      {
-        "id": "sup4-026-c",
-        "question_id": "sup4-026",
-        "answer_text": "Single vehicle accidents",
-        "is_correct": true,
-        "display_order": 3
-      },
-      {
-        "id": "sup4-026-d",
-        "question_id": "sup4-026",
-        "answer_text": "Pedestrian accidents",
-        "is_correct": false,
-        "display_order": 4
-      }
-    ]
-  },
-  {
     "id": "sup4-027",
     "question_text": "What are common causes of crossroad accidents?",
     "explanation": "Crossroad accidents are commonly caused by: ignoring traffic rules, not noticing signs or signals, driving too fast, failing to look properly, or assuming that a green light means the way is clear without checking.",

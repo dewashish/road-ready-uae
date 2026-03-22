@@ -1905,59 +1905,6 @@
     ]
   },
   {
-    "id": "ed-hp-007",
-    "question_text": "Why are single vehicle accidents considered the most serious?",
-    "explanation": "EDCAD Lesson 5 states that single vehicle accidents result in the most serious injuries and the driver is always responsible. These occur when a vehicle leaves the road or hits a fixed object, often at high speed.",
-    "module": "hazard_perception",
-    "vehicle_types": [
-      "A",
-      "B",
-      "C",
-      "D",
-      "E"
-    ],
-    "difficulty": 2,
-    "relevance_rank": 9,
-    "svg_illustration_key": null,
-    "image_url": null,
-    "tags": [
-      "single_vehicle_accidents",
-      "serious_injuries",
-      "edcad"
-    ],
-    "is_edcad_style": true,
-    "answers": [
-      {
-        "id": "ed-hp-007-a",
-        "question_id": "ed-hp-007",
-        "answer_text": "They cause the most serious injuries and the driver is always responsible",
-        "is_correct": true,
-        "display_order": 1
-      },
-      {
-        "id": "ed-hp-007-b",
-        "question_id": "ed-hp-007",
-        "answer_text": "They always involve pedestrians",
-        "is_correct": false,
-        "display_order": 2
-      },
-      {
-        "id": "ed-hp-007-c",
-        "question_id": "ed-hp-007",
-        "answer_text": "They only happen on highways",
-        "is_correct": false,
-        "display_order": 3
-      },
-      {
-        "id": "ed-hp-007-d",
-        "question_id": "ed-hp-007",
-        "answer_text": "Insurance does not cover single vehicle accidents",
-        "is_correct": false,
-        "display_order": 4
-      }
-    ]
-  },
-  {
     "id": "ed-hp-008",
     "question_text": "Why is it important to scan the road continuously for pedestrians?",
     "explanation": "EDCAD Lesson 5 emphasizes that pedestrian accidents occur due to not noticing pedestrians, blind spots, driving too fast, and failing to scan. Continuous scanning helps drivers detect pedestrians early and react in time.",

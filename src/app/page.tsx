@@ -39,7 +39,7 @@ export default function HomePage() {
             Theory <span className="text-secondary">Mastery</span>
           </h2>
           <p className="text-on-surface-variant text-base sm:text-lg max-w-xl">
-            Master the UAE driving theory test with 570+ practice questions,
+            Master the UAE driving theory test with 690+ practice questions,
             smart learning paths, and mock exams.
           </p>
         </div>
@@ -47,7 +47,7 @@ export default function HomePage() {
         <div className="grid grid-cols-3 gap-3 mb-8">
           <NeoCard level={1} shadow="none" className="text-center !p-4">
             <span className="material-symbols-outlined text-secondary mb-1" style={{ fontSize: 24 }}>quiz</span>
-            <p className="font-headline text-xl font-bold text-primary">570+</p>
+            <p className="font-headline text-xl font-bold text-primary">690+</p>
             <p className="font-label text-[10px] text-on-surface-variant uppercase tracking-wider">Questions</p>
           </NeoCard>
           <NeoCard level={1} shadow="none" className="text-center !p-4">

@@ -15,6 +15,7 @@ import supplementary3Data from '@/data/questions/supplementary-3.json'
 import supplementary4Data from '@/data/questions/supplementary-4.json'
 import supplementary5Data from '@/data/questions/supplementary-5.json'
 import supplementary6Data from '@/data/questions/supplementary-6.json'
+import supplementary7Data from '@/data/questions/supplementary-7.json'
 
 const ALL_SUPPLEMENTARY = [
   ...(supplementaryData as Question[]),
@@ -23,6 +24,7 @@ const ALL_SUPPLEMENTARY = [
   ...(supplementary4Data as Question[]),
   ...(supplementary5Data as Question[]),
   ...(supplementary6Data as Question[]),
+  ...(supplementary7Data as Question[]),
 ]
 
 function mergeByModule(moduleKey: string, primary: Question[]): Question[] {
