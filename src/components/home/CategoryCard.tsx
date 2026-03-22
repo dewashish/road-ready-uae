@@ -79,7 +79,7 @@ export function CategoryCard({
     <NeoCard
       level={isComingSoon ? 1 : 2}
       shadow={isComingSoon ? 'none' : 'default'}
-      className={`group h-full !p-6 flex flex-col ${isComingSoon ? 'opacity-40' : 'neo-hover cursor-pointer'}`}
+      className={`group h-full !p-6 flex flex-col ${isComingSoon ? 'opacity-60' : 'neo-hover cursor-pointer'}`}
     >
       {/* Top: icon + badge */}
       <div className="flex items-start justify-between mb-5">
