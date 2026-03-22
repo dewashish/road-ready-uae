@@ -79,7 +79,7 @@ export function CategoryCard({
     <NeoCard
       level={isComingSoon ? 1 : 2}
       shadow={isComingSoon ? 'none' : 'default'}
-      className={`group h-full !p-6 flex flex-col ${isComingSoon ? 'opacity-60' : 'neo-hover cursor-pointer'}`}
+      className={`group h-full !p-6 flex flex-col ${isComingSoon ? 'opacity-70' : 'neo-hover cursor-pointer'}`}
     >
       {/* Top: icon + badge */}
       <div className="flex items-start justify-between mb-5">
@@ -97,7 +97,8 @@ export function CategoryCard({
             {category.icon}
           </span>
         </div>
-        <span className={`inline-block px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${badgeStyle}`}>
+        <span className={`inline-flex items-center gap-1 px-2.5 py-0.5 font-label text-[10px] font-bold uppercase tracking-widest ${badgeStyle}`}>
+          {isComingSoon && <span className="material-symbols-outlined" style={{ fontSize: 12 }}>lock</span>}
           {badgeLabels[status]}
         </span>
       </div>

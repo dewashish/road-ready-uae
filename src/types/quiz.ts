@@ -103,10 +103,10 @@ export interface VehicleCategory {
 }
 
 export const VEHICLE_CATEGORIES: VehicleCategory[] = [
-  { type: 'B', name: 'Light Vehicle', description: 'Cars & SUVs up to 3,500 kg', icon: 'directions_car', minAge: 18 },
-  { type: 'A', name: 'Motorcycle', description: 'Two-wheeled motor vehicles', icon: 'two_wheeler', minAge: 17 },
-  { type: 'C', name: 'Heavy Truck', description: 'Trucks over 3,500 kg', icon: 'local_shipping', minAge: 20 },
-  { type: 'D', name: 'Light Bus', description: 'Buses up to 26 passengers', icon: 'airport_shuttle', minAge: 21 },
-  { type: 'E', name: 'Heavy Bus', description: 'Large passenger buses', icon: 'directions_bus', minAge: 21 },
-  { type: 'F', name: 'Forklift', description: 'Industrial lift trucks', icon: 'forklift', minAge: 18 },
+  { type: 'B', name: 'Light Vehicle', description: 'Cars, SUVs & light vehicles up to 3,500 kg', icon: 'directions_car', minAge: 18 },
+  { type: 'A', name: 'Motorcycle', description: 'Two-wheeled motor vehicles and scooters', icon: 'two_wheeler', minAge: 17 },
+  { type: 'C', name: 'Heavy Truck', description: 'Commercial trucks and lorries over 3,500 kg', icon: 'local_shipping', minAge: 20 },
+  { type: 'D', name: 'Light Bus', description: 'Minibuses and coaches up to 26 passengers', icon: 'airport_shuttle', minAge: 21 },
+  { type: 'E', name: 'Heavy Bus', description: 'Large passenger buses with 26+ seats', icon: 'directions_bus', minAge: 21 },
+  { type: 'F', name: 'Forklift', description: 'Industrial forklift and warehouse lift trucks', icon: 'forklift', minAge: 18 },
 ]
