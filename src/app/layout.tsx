@@ -36,6 +36,9 @@ export const metadata: Metadata = {
     "driving license test UAE",
     "road test practice UAE",
   ],
+  verification: {
+    google: "MEk7UVmCMF6Wp1ERJdvw0VLsJADYt4GnQgooawW4coY",
+  },
   metadataBase: new URL("https://www.roadreadyuae.com"),
   alternates: {
     canonical: "/",
