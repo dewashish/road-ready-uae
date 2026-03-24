@@ -1,0 +1,6237 @@
+[
+  {
+    "id": "htruck-001",
+    "question_text": "What does a circular sign with a red border showing a truck silhouette indicate on UAE roads?",
+    "explanation": "A circular sign with a red border and a truck silhouette means that trucks or heavy vehicles are prohibited from entering that road or zone. These signs are commonly posted in residential areas and specific lanes in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "road-signs",
+      "prohibition"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-001-a",
+        "question_id": "htruck-001",
+        "answer_text": "No entry for trucks or heavy vehicles",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-001-b",
+        "question_id": "htruck-001",
+        "answer_text": "Truck parking ahead",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-001-c",
+        "question_id": "htruck-001",
+        "answer_text": "Truck weigh station ahead",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-001-d",
+        "question_id": "htruck-001",
+        "answer_text": "Trucks must use the left lane",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-002",
+    "question_text": "What does a triangular warning sign showing a truck on a slope indicate?",
+    "explanation": "A triangular warning sign depicting a truck on a steep slope warns drivers of a steep gradient ahead. Heavy truck drivers should prepare to use lower gears and engine braking to maintain safe control on the incline or decline.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "road-signs",
+      "warning",
+      "steep-gradient"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-002-a",
+        "question_id": "htruck-002",
+        "answer_text": "Steep gradient ahead; trucks should use lower gears",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-002-b",
+        "question_id": "htruck-002",
+        "answer_text": "Truck rest area ahead",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-002-c",
+        "question_id": "htruck-002",
+        "answer_text": "Road narrowing for trucks",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-002-d",
+        "question_id": "htruck-002",
+        "answer_text": "Trucks must stop and check brakes",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-003",
+    "question_text": "A rectangular blue sign showing '4.5m' with an upward arrow symbol indicates what restriction for heavy trucks?",
+    "explanation": "This sign indicates a maximum height restriction of 4.5 metres. Heavy truck drivers must know the height of their vehicle including any load to avoid striking bridges, underpasses, or overhead structures in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "road-signs",
+      "height-restriction"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-003-a",
+        "question_id": "htruck-003",
+        "answer_text": "Maximum vehicle height allowed is 4.5 metres",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-003-b",
+        "question_id": "htruck-003",
+        "answer_text": "Speed limit of 45 km/h for trucks",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-003-c",
+        "question_id": "htruck-003",
+        "answer_text": "Distance to the next truck stop is 4.5 km",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-003-d",
+        "question_id": "htruck-003",
+        "answer_text": "Maximum weight allowed is 4.5 tons",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-004",
+    "question_text": "What does a round sign with a red border displaying a weight figure (e.g. '10t') mean for heavy trucks in the UAE?",
+    "explanation": "A round sign with a red border displaying a weight figure indicates the maximum gross vehicle weight permitted on that road or bridge. Trucks exceeding this weight limit must find an alternative route.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "road-signs",
+      "weight-limit"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-004-a",
+        "question_id": "htruck-004",
+        "answer_text": "Maximum gross vehicle weight permitted on that road",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-004-b",
+        "question_id": "htruck-004",
+        "answer_text": "Minimum weight required to use the road",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-004-c",
+        "question_id": "htruck-004",
+        "answer_text": "Maximum axle weight allowed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-004-d",
+        "question_id": "htruck-004",
+        "answer_text": "Weight of cargo that can be loaded at the next station",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-005",
+    "question_text": "You see a sign showing a truck with an arrow pointing to the right lane. What does this sign mean?",
+    "explanation": "This mandatory sign instructs truck and heavy vehicle drivers to use the right lane. In the UAE, trucks are often required to stay in designated lanes, especially on multi-lane highways, to maintain smooth traffic flow.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "road-signs",
+      "lane-restriction"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-005-a",
+        "question_id": "htruck-005",
+        "answer_text": "Trucks must use the right lane",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-005-b",
+        "question_id": "htruck-005",
+        "answer_text": "Trucks must turn right at the next junction",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-005-c",
+        "question_id": "htruck-005",
+        "answer_text": "Right lane is closed to trucks",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-005-d",
+        "question_id": "htruck-005",
+        "answer_text": "Truck parking is on the right",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-006",
+    "question_text": "What do diamond-shaped orange placards on a heavy truck indicate?",
+    "explanation": "Diamond-shaped orange placards (hazmat placards) on a truck indicate that the vehicle is transporting dangerous goods. The symbols and numbers on the placard identify the specific class of hazardous material being carried, such as flammable liquids, explosives, or corrosive substances.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "road-signs",
+      "hazmat",
+      "dangerous-goods"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-006-a",
+        "question_id": "htruck-006",
+        "answer_text": "The truck is carrying dangerous goods (hazardous materials)",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-006-b",
+        "question_id": "htruck-006",
+        "answer_text": "The truck is overweight and requires caution",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-006-c",
+        "question_id": "htruck-006",
+        "answer_text": "The truck is carrying perishable food items",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-006-d",
+        "question_id": "htruck-006",
+        "answer_text": "The truck has an oversized load",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-007",
+    "question_text": "A round sign with a red border showing an axle weight figure (e.g. '8t') differs from a total weight limit sign in that it restricts what?",
+    "explanation": "An axle weight limit sign restricts the maximum weight permitted on a single axle. This is different from a total weight limit sign, which restricts the gross vehicle weight. Axle weight limits protect road surfaces and bridges from concentrated loads.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "road-signs",
+      "axle-weight"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-007-a",
+        "question_id": "htruck-007",
+        "answer_text": "The maximum weight allowed on any single axle",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-007-b",
+        "question_id": "htruck-007",
+        "answer_text": "The total weight of the cargo only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-007-c",
+        "question_id": "htruck-007",
+        "answer_text": "The maximum weight of the trailer",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-007-d",
+        "question_id": "htruck-007",
+        "answer_text": "The gross vehicle weight including fuel",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-008",
+    "question_text": "What is the general maximum speed limit for heavy trucks on UAE highways?",
+    "explanation": "In the UAE, the general maximum speed limit for heavy trucks on highways is 80 km/h, unless otherwise posted. This is lower than the speed limit for light vehicles to account for the longer braking distances and reduced manoeuvrability of heavy vehicles.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "speed-limit",
+      "highway"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-008-a",
+        "question_id": "htruck-008",
+        "answer_text": "80 km/h",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-008-b",
+        "question_id": "htruck-008",
+        "answer_text": "100 km/h",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-008-c",
+        "question_id": "htruck-008",
+        "answer_text": "120 km/h",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-008-d",
+        "question_id": "htruck-008",
+        "answer_text": "60 km/h",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-009",
+    "question_text": "What is the maximum weight limit for heavy vehicles operating in the UAE?",
+    "explanation": "The maximum weight limit for heavy vehicles in the UAE is 65 tons. Exceeding this limit is illegal and subjects the driver and operator to heavy fines. Vehicles are monitored by smart gates equipped with electronic sensors.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "weight-limit"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-009-a",
+        "question_id": "htruck-009",
+        "answer_text": "65 tons",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-009-b",
+        "question_id": "htruck-009",
+        "answer_text": "50 tons",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-009-c",
+        "question_id": "htruck-009",
+        "answer_text": "80 tons",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-009-d",
+        "question_id": "htruck-009",
+        "answer_text": "45 tons",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-010",
+    "question_text": "How many hours maximum is a professional truck driver allowed to drive in any 24-hour period in the UAE?",
+    "explanation": "Professional truck drivers in the UAE must NOT drive more than 10 hours in any 24-hour period. This regulation helps prevent fatigue-related accidents, which are a leading cause of heavy vehicle incidents.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "driving-hours",
+      "fatigue"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-010-a",
+        "question_id": "htruck-010",
+        "answer_text": "10 hours",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-010-b",
+        "question_id": "htruck-010",
+        "answer_text": "12 hours",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-010-c",
+        "question_id": "htruck-010",
+        "answer_text": "8 hours",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-010-d",
+        "question_id": "htruck-010",
+        "answer_text": "14 hours",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-011",
+    "question_text": "During which peak hours are trucks restricted on Emirates Road between Al Awir Road and the Sharjah direction?",
+    "explanation": "Trucks are restricted on Emirates Road during peak hours from 5:30 PM to 8:00 PM between Al Awir Road and the Sharjah direction. This restriction helps reduce congestion and improve safety during the evening rush hour.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "peak-hours",
+      "emirates-road"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-011-a",
+        "question_id": "htruck-011",
+        "answer_text": "5:30 PM to 8:00 PM",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-011-b",
+        "question_id": "htruck-011",
+        "answer_text": "6:00 AM to 9:00 AM",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-011-c",
+        "question_id": "htruck-011",
+        "answer_text": "7:00 PM to 10:00 PM",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-011-d",
+        "question_id": "htruck-011",
+        "answer_text": "4:00 PM to 7:00 PM",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-012",
+    "question_text": "What licence category is required to drive heavy vehicles over 2.5 tons in the UAE?",
+    "explanation": "A Category 4 licence is required to operate heavy vehicles over 2.5 tons in the UAE. Drivers must pass both a theory test and practical driving test specific to heavy vehicles to obtain this licence.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "licence",
+      "category"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-012-a",
+        "question_id": "htruck-012",
+        "answer_text": "Category 4",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-012-b",
+        "question_id": "htruck-012",
+        "answer_text": "Category 2",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-012-c",
+        "question_id": "htruck-012",
+        "answer_text": "Category 6",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-012-d",
+        "question_id": "htruck-012",
+        "answer_text": "Category 3",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-013",
+    "question_text": "How many smart gates with electronic sensors and 3D laser scanners are used to monitor truck weight and dimensions in the UAE?",
+    "explanation": "The UAE uses 24 smart gates equipped with electronic sensors and 3D laser scanners to automatically monitor the weight and dimensions of heavy vehicles. Trucks that exceed legal limits are detected and penalised.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "smart-gates",
+      "enforcement"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-013-a",
+        "question_id": "htruck-013",
+        "answer_text": "24 smart gates",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-013-b",
+        "question_id": "htruck-013",
+        "answer_text": "12 smart gates",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-013-c",
+        "question_id": "htruck-013",
+        "answer_text": "36 smart gates",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-013-d",
+        "question_id": "htruck-013",
+        "answer_text": "48 smart gates",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-014",
+    "question_text": "Where can you find the maximum loaded mass specified for your heavy truck?",
+    "explanation": "The maximum loaded mass (gross vehicle weight) is specified on the vehicle registration certificate. Drivers must ensure their total vehicle weight including cargo does not exceed this figure at any time.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "vehicle-registration",
+      "weight"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-014-a",
+        "question_id": "htruck-014",
+        "answer_text": "On the vehicle registration certificate",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-014-b",
+        "question_id": "htruck-014",
+        "answer_text": "On the truck's rear bumper sticker",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-014-c",
+        "question_id": "htruck-014",
+        "answer_text": "On the driver's licence",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-014-d",
+        "question_id": "htruck-014",
+        "answer_text": "On the insurance policy document",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-015",
+    "question_text": "When must a heavy truck use hazard warning lights while driving on a UAE highway?",
+    "explanation": "A heavy truck should use hazard warning lights on a UAE highway when it is travelling significantly below the minimum speed due to mechanical issues or heavy load, or when approaching a traffic queue on a fast road to warn vehicles behind. It is not for general use while driving normally.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "hazard-lights"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-015-a",
+        "question_id": "htruck-015",
+        "answer_text": "When travelling very slowly due to a problem or approaching a traffic queue",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-015-b",
+        "question_id": "htruck-015",
+        "answer_text": "Whenever driving at night on the highway",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-015-c",
+        "question_id": "htruck-015",
+        "answer_text": "Only when parked on the hard shoulder",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-015-d",
+        "question_id": "htruck-015",
+        "answer_text": "When carrying any type of cargo",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-016",
+    "question_text": "What is the minimum safe following distance a heavy truck should maintain from the vehicle ahead on a UAE highway at 80 km/h?",
+    "explanation": "At 80 km/h, a heavy truck needs at least a 4-second gap (approximately 90 metres) from the vehicle ahead. Due to the much greater weight and longer braking distance, trucks require significantly more following distance than light vehicles.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "following-distance",
+      "braking"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-016-a",
+        "question_id": "htruck-016",
+        "answer_text": "At least a 4-second gap (approximately 90 metres)",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-016-b",
+        "question_id": "htruck-016",
+        "answer_text": "At least a 2-second gap (approximately 45 metres)",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-016-c",
+        "question_id": "htruck-016",
+        "answer_text": "At least a 1-second gap (approximately 22 metres)",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-016-d",
+        "question_id": "htruck-016",
+        "answer_text": "At least 20 metres regardless of speed",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-017",
+    "question_text": "A heavy truck driver is caught exceeding the maximum permitted vehicle weight. What is a consequence?",
+    "explanation": "Overloaded trucks face heavy fines in the UAE. The vehicle may be impounded until the excess load is removed. Repeat offenders may face increased penalties and possible suspension of their commercial operating permit.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "overloading",
+      "penalty"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-017-a",
+        "question_id": "htruck-017",
+        "answer_text": "Heavy fines and possible vehicle impoundment until excess load is removed",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-017-b",
+        "question_id": "htruck-017",
+        "answer_text": "A verbal warning for the first offence only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-017-c",
+        "question_id": "htruck-017",
+        "answer_text": "No penalty if the excess is less than 5 tons",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-017-d",
+        "question_id": "htruck-017",
+        "answer_text": "Only the cargo owner is penalised, not the driver",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-018",
+    "question_text": "Which lane should a heavy truck generally use on a multi-lane UAE highway?",
+    "explanation": "Heavy trucks must generally use the rightmost lane on multi-lane UAE highways unless overtaking. The left lanes are reserved for faster-moving traffic. Trucks found in the fast lane (leftmost) can be fined.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "lane-discipline"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-018-a",
+        "question_id": "htruck-018",
+        "answer_text": "The rightmost lane, unless overtaking",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-018-b",
+        "question_id": "htruck-018",
+        "answer_text": "The leftmost lane for maximum visibility",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-018-c",
+        "question_id": "htruck-018",
+        "answer_text": "The middle lane at all times",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-018-d",
+        "question_id": "htruck-018",
+        "answer_text": "Any lane as long as they maintain the speed limit",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-019",
+    "question_text": "What are 'no-zones' in relation to heavy trucks?",
+    "explanation": "No-zones are the large blind spots around a heavy truck where the driver cannot see other vehicles. These include areas directly behind the trailer, along both sides (especially the passenger side), and directly in front of the cab. Other road users should avoid lingering in these zones.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "blind-spots",
+      "no-zones"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-019-a",
+        "question_id": "htruck-019",
+        "answer_text": "Large blind spots around the truck where the driver cannot see other vehicles",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-019-b",
+        "question_id": "htruck-019",
+        "answer_text": "Areas where trucks are not allowed to park",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-019-c",
+        "question_id": "htruck-019",
+        "answer_text": "Roads that are restricted to truck traffic",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-019-d",
+        "question_id": "htruck-019",
+        "answer_text": "Zones where mobile phone use is strictly monitored",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-020",
+    "question_text": "Which side of a heavy truck has the largest blind spot (no-zone)?",
+    "explanation": "The passenger side (right side in the UAE) of a heavy truck has the largest blind spot. This no-zone extends from the cab door rearward and can span multiple traffic lanes. Truck drivers must be especially cautious when changing lanes to the right.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "blind-spots",
+      "passenger-side"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-020-a",
+        "question_id": "htruck-020",
+        "answer_text": "The passenger side (right side)",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-020-b",
+        "question_id": "htruck-020",
+        "answer_text": "The driver side (left side)",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-020-c",
+        "question_id": "htruck-020",
+        "answer_text": "Directly in front of the truck",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-020-d",
+        "question_id": "htruck-020",
+        "answer_text": "Directly behind the trailer",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-021",
+    "question_text": "Why is the wide turning radius of a heavy truck a significant hazard at intersections?",
+    "explanation": "Heavy trucks require a much wider turning radius than passenger vehicles. When turning right, the rear wheels track inward (off-tracking), which can trap or crush cyclists, pedestrians, or smaller vehicles on the inside of the turn. Drivers must check mirrors carefully and may need to swing wide.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "turning-radius",
+      "off-tracking"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-021-a",
+        "question_id": "htruck-021",
+        "answer_text": "Rear wheels track inward, potentially trapping vehicles or pedestrians on the inside of the turn",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-021-b",
+        "question_id": "htruck-021",
+        "answer_text": "The truck may tip over if it turns too quickly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-021-c",
+        "question_id": "htruck-021",
+        "answer_text": "The engine may stall during wide turns",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-021-d",
+        "question_id": "htruck-021",
+        "answer_text": "The trailer disconnects from the cab during sharp turns",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-022",
+    "question_text": "What is 'trailer swing' and when does it pose the greatest risk?",
+    "explanation": "Trailer swing occurs when the rear of the trailer swings outward during a turn. The longer the trailer, the more the rear end swings. This poses the greatest risk at low-speed turns in tight spaces such as roundabouts, parking areas, and narrow roads, where the swing can strike objects or other vehicles.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "trailer-swing"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-022-a",
+        "question_id": "htruck-022",
+        "answer_text": "The rear of the trailer swings outward during turns, greatest risk in tight low-speed turns",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-022-b",
+        "question_id": "htruck-022",
+        "answer_text": "The trailer sways side to side at high speed on the highway",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-022-c",
+        "question_id": "htruck-022",
+        "answer_text": "The trailer lifts off the ground when braking hard",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-022-d",
+        "question_id": "htruck-022",
+        "answer_text": "The coupling mechanism loosens when reversing",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-023",
+    "question_text": "You are driving a loaded heavy truck on a downhill slope. What is the main hazard?",
+    "explanation": "The main hazard on a downhill slope with a loaded heavy truck is brake fade. The immense weight pushes the truck forward, and continuous braking causes the brakes to overheat and lose effectiveness. Drivers should use engine braking (lower gears) and avoid riding the brakes continuously.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "downhill",
+      "brake-fade"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-023-a",
+        "question_id": "htruck-023",
+        "answer_text": "Brake fade from overheating due to the heavy load pushing the truck forward",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-023-b",
+        "question_id": "htruck-023",
+        "answer_text": "The engine overheating from the increased speed",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-023-c",
+        "question_id": "htruck-023",
+        "answer_text": "The load shifting to the rear and lifting the front axle",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-023-d",
+        "question_id": "htruck-023",
+        "answer_text": "Fuel consumption increasing significantly",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-024",
+    "question_text": "What is the primary risk of an improperly secured load on a heavy truck?",
+    "explanation": "An improperly secured load can shift during braking, turning, or sudden manoeuvres, causing the truck to become unstable or overturn. Loose cargo can also fall onto the road, creating serious hazards for other road users. The front rack must be strong enough to stop load shifting during a crash or hard braking.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "load-securing"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-024-a",
+        "question_id": "htruck-024",
+        "answer_text": "The load can shift causing instability, or fall off creating hazards for other road users",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-024-b",
+        "question_id": "htruck-024",
+        "answer_text": "The truck uses more fuel due to air resistance",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-024-c",
+        "question_id": "htruck-024",
+        "answer_text": "The driver receives a minor traffic warning",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-024-d",
+        "question_id": "htruck-024",
+        "answer_text": "The truck's suspension wears out faster",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-025",
+    "question_text": "You are approaching a roundabout in a heavy truck. What specific hazard should you be most aware of?",
+    "explanation": "At roundabouts, a heavy truck's long wheelbase and wide turning radius mean the rear wheels cut across the inside of the curve (off-tracking). Motorcyclists, cyclists, and smaller vehicles on the inside may be struck. Always check mirrors and use extra caution when navigating roundabouts.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "roundabout",
+      "off-tracking"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-025-a",
+        "question_id": "htruck-025",
+        "answer_text": "Rear wheels cutting across the inside lane and endangering smaller vehicles",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-025-b",
+        "question_id": "htruck-025",
+        "answer_text": "The engine stalling due to low speed",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-025-c",
+        "question_id": "htruck-025",
+        "answer_text": "Other vehicles flashing their lights at you",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-025-d",
+        "question_id": "htruck-025",
+        "answer_text": "Excessive fuel consumption during the turn",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-026",
+    "question_text": "What hazard does a high centre of gravity create for a loaded heavy truck?",
+    "explanation": "A high centre of gravity increases the risk of rollover, especially during sharp turns, sudden lane changes, or when driving on curved ramps. Drivers of top-heavy loads must reduce speed well below the posted limit on curves and avoid sudden steering inputs.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "rollover",
+      "centre-of-gravity"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-026-a",
+        "question_id": "htruck-026",
+        "answer_text": "Increased risk of rollover during turns, lane changes, or on curved ramps",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-026-b",
+        "question_id": "htruck-026",
+        "answer_text": "Increased fuel consumption on flat roads",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-026-c",
+        "question_id": "htruck-026",
+        "answer_text": "Faster tyre wear on the rear axle only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-026-d",
+        "question_id": "htruck-026",
+        "answer_text": "Difficulty accelerating from a standstill",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-027",
+    "question_text": "You notice a liquid tanker truck ahead is sloshing its load visibly. What hazard does this present?",
+    "explanation": "Liquid surge (sloshing) in a partially filled tanker shifts the centre of gravity unpredictably, making the vehicle extremely unstable during braking, acceleration, and turns. This can cause loss of control or rollover. Keep extra distance from such vehicles.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "liquid-surge",
+      "tanker"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-027-a",
+        "question_id": "htruck-027",
+        "answer_text": "Shifting centre of gravity may cause loss of control or rollover",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-027-b",
+        "question_id": "htruck-027",
+        "answer_text": "The liquid may leak and make the road slippery",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-027-c",
+        "question_id": "htruck-027",
+        "answer_text": "The tanker will overheat due to friction",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-027-d",
+        "question_id": "htruck-027",
+        "answer_text": "The sloshing is normal and poses no hazard",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-028",
+    "question_text": "How should a heavy truck driver adjust their driving during a sandstorm in the UAE?",
+    "explanation": "During a sandstorm, visibility can drop to near zero. A heavy truck driver should reduce speed significantly, switch on low-beam headlights and hazard lights, increase following distance, and if visibility becomes too poor, pull over to a safe area well off the road and wait for conditions to improve.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "sandstorm",
+      "visibility"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-028-a",
+        "question_id": "htruck-028",
+        "answer_text": "Reduce speed, use low-beam headlights and hazard lights, increase following distance, pull over if needed",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-028-b",
+        "question_id": "htruck-028",
+        "answer_text": "Maintain current speed and use high-beam headlights for maximum visibility",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-028-c",
+        "question_id": "htruck-028",
+        "answer_text": "Stop immediately in the lane you are in and turn off all lights",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-028-d",
+        "question_id": "htruck-028",
+        "answer_text": "Accelerate to drive through the sandstorm as quickly as possible",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-029",
+    "question_text": "What effect does extreme heat in the UAE summer have on heavy truck tyres?",
+    "explanation": "UAE summer temperatures can exceed 50 degrees Celsius, causing tyre pressure to increase significantly due to air expansion. Combined with hot road surfaces, this increases the risk of tyre blowouts, especially on underinflated or worn tyres. Drivers should check tyre pressures when tyres are cold.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "heat",
+      "tyre-pressure",
+      "blowout"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-029-a",
+        "question_id": "htruck-029",
+        "answer_text": "Tyre pressure increases due to heat expansion, raising the risk of blowouts",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-029-b",
+        "question_id": "htruck-029",
+        "answer_text": "Tyre pressure decreases, causing poor fuel economy",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-029-c",
+        "question_id": "htruck-029",
+        "answer_text": "Tyres become softer and provide better grip",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-029-d",
+        "question_id": "htruck-029",
+        "answer_text": "Heat has no significant effect on truck tyres",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-030",
+    "question_text": "How should you drive a heavy truck on a wet road after sudden rain in the UAE?",
+    "explanation": "After sudden rain in the UAE, roads become extremely slippery because oil and dust on the road surface mix with the water. A heavy truck driver should reduce speed significantly, increase following distance, avoid sudden braking or steering, and use a lower gear if necessary.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "wet-road",
+      "rain"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-030-a",
+        "question_id": "htruck-030",
+        "answer_text": "Reduce speed significantly, increase following distance, and avoid sudden braking or steering",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-030-b",
+        "question_id": "htruck-030",
+        "answer_text": "Drive normally as truck tyres have enough grip in wet conditions",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-030-c",
+        "question_id": "htruck-030",
+        "answer_text": "Brake harder than normal to compensate for reduced grip",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-030-d",
+        "question_id": "htruck-030",
+        "answer_text": "Move to the fast lane where there is less standing water",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-031",
+    "question_text": "When driving a heavy truck at night on an unlit UAE road, what should you be especially cautious of?",
+    "explanation": "On unlit UAE roads at night, heavy truck drivers must be especially cautious of unlit vehicles, camels or other animals crossing, pedestrians in dark clothing, and sand drifts on the road. Keeping headlights clean and properly aimed is essential for maximum visibility.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "night-driving",
+      "visibility"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-031-a",
+        "question_id": "htruck-031",
+        "answer_text": "Unlit vehicles, animals such as camels, pedestrians in dark clothing, and sand drifts",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-031-b",
+        "question_id": "htruck-031",
+        "answer_text": "Other trucks flashing their lights at you",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-031-c",
+        "question_id": "htruck-031",
+        "answer_text": "Speed cameras that are harder to see at night",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-031-d",
+        "question_id": "htruck-031",
+        "answer_text": "Nothing special; highway lighting is adequate throughout the UAE",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-032",
+    "question_text": "How does fog affect heavy truck driving in the UAE, and what should you do?",
+    "explanation": "Fog significantly reduces visibility and is common in the UAE during winter mornings. Heavy truck drivers should use low-beam headlights and fog lights (never high-beam, which reflects off fog), reduce speed, increase following distance, and use road markings as a guide. If fog is very dense, pull over safely.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "fog",
+      "visibility"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-032-a",
+        "question_id": "htruck-032",
+        "answer_text": "Use low-beam headlights and fog lights, reduce speed, increase following distance",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-032-b",
+        "question_id": "htruck-032",
+        "answer_text": "Use high-beam headlights for maximum penetration through fog",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-032-c",
+        "question_id": "htruck-032",
+        "answer_text": "Follow closely behind the vehicle ahead to use their lights as a guide",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-032-d",
+        "question_id": "htruck-032",
+        "answer_text": "Turn off all lights to avoid glare and reflections",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-033",
+    "question_text": "What special consideration should a heavy truck driver take when driving through a construction zone in the UAE?",
+    "explanation": "In UAE construction zones, heavy truck drivers must reduce speed to the posted construction zone limit, watch for workers and equipment, be prepared for sudden lane changes and narrow lanes, and maintain extra following distance. The large size of a truck makes navigating narrow construction lanes more challenging.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "construction-zone"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-033-a",
+        "question_id": "htruck-033",
+        "answer_text": "Reduce to posted limit, watch for workers, be ready for narrow lanes and sudden lane changes",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-033-b",
+        "question_id": "htruck-033",
+        "answer_text": "Maintain highway speed until you see workers present",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-033-c",
+        "question_id": "htruck-033",
+        "answer_text": "Use the hard shoulder to bypass the construction zone",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-033-d",
+        "question_id": "htruck-033",
+        "answer_text": "Honk continuously to alert construction workers",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-034",
+    "question_text": "How does strong crosswind affect a heavy truck, especially when empty?",
+    "explanation": "Strong crosswinds have a much greater effect on heavy trucks due to their large surface area. An empty truck is even more vulnerable because it is lighter and the wind can push it sideways or cause it to tip over. Drivers should grip the steering wheel firmly, reduce speed, and be extra cautious on exposed bridges and open stretches.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "crosswind"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-034-a",
+        "question_id": "htruck-034",
+        "answer_text": "Wind pushes the truck sideways; an empty truck is more vulnerable and may tip over",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-034-b",
+        "question_id": "htruck-034",
+        "answer_text": "Crosswinds only affect the trailer, not the cab",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-034-c",
+        "question_id": "htruck-034",
+        "answer_text": "A loaded truck is more affected by crosswinds than an empty one",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-034-d",
+        "question_id": "htruck-034",
+        "answer_text": "Crosswinds improve fuel efficiency by pushing the truck forward",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-035",
+    "question_text": "You experience a tyre blowout on your heavy truck while driving on a UAE highway. What should you do first?",
+    "explanation": "In a tyre blowout, the driver should grip the steering wheel firmly, avoid braking hard, take the foot off the accelerator, let the truck slow down gradually, and steer to a safe area off the road. Braking hard or swerving can cause loss of control, especially with a heavy load.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "critical-situations",
+      "tyre-blowout"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-035-a",
+        "question_id": "htruck-035",
+        "answer_text": "Grip the wheel firmly, ease off the accelerator, avoid braking hard, steer to safety gradually",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-035-b",
+        "question_id": "htruck-035",
+        "answer_text": "Brake hard immediately to stop the truck as fast as possible",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-035-c",
+        "question_id": "htruck-035",
+        "answer_text": "Swerve to the nearest lane to avoid other traffic",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-035-d",
+        "question_id": "htruck-035",
+        "answer_text": "Accelerate briefly to maintain control and then stop",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-036",
+    "question_text": "Your heavy truck's brakes fail on a downhill slope. What is the best course of action?",
+    "explanation": "If brakes fail on a downhill slope, the driver should immediately downshift to the lowest possible gear for engine braking, look for an escape ramp or a safe run-off area, use the parking brake cautiously as a supplement, and if necessary, rub against the side barrier to slow down as a last resort.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "critical-situations",
+      "brake-failure",
+      "downhill"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-036-a",
+        "question_id": "htruck-036",
+        "answer_text": "Downshift to lowest gear, use engine braking, look for an escape ramp, apply parking brake cautiously",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-036-b",
+        "question_id": "htruck-036",
+        "answer_text": "Turn off the engine immediately to stop the vehicle",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-036-c",
+        "question_id": "htruck-036",
+        "answer_text": "Pump the brake pedal rapidly and shift to neutral",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-036-d",
+        "question_id": "htruck-036",
+        "answer_text": "Steer into oncoming traffic to use friction to stop",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-037",
+    "question_text": "What should you do if your heavy truck starts to jackknife?",
+    "explanation": "A jackknife occurs when the trailer pushes the tractor sideways, typically during hard braking on slippery surfaces. If jackknifing begins, the driver should release the brakes immediately to allow the drive wheels to regain traction, and steer in the direction of the skid. Do not brake further.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "critical-situations",
+      "jackknife",
+      "skid"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-037-a",
+        "question_id": "htruck-037",
+        "answer_text": "Release the brakes to regain traction and steer in the direction of the skid",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-037-b",
+        "question_id": "htruck-037",
+        "answer_text": "Brake harder to straighten the truck and trailer",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-037-c",
+        "question_id": "htruck-037",
+        "answer_text": "Accelerate hard to pull the trailer straight",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-037-d",
+        "question_id": "htruck-037",
+        "answer_text": "Steer sharply in the opposite direction of the skid",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-038",
+    "question_text": "Your heavy truck catches fire while driving. What is the first thing you should do?",
+    "explanation": "If a truck catches fire, the driver should pull over to a safe location away from buildings and other vehicles, turn off the engine, evacuate the cab immediately, and call emergency services. If it is a small engine fire and a fire extinguisher is available, attempt to extinguish it only if safe to do so.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "critical-situations",
+      "fire",
+      "emergency"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-038-a",
+        "question_id": "htruck-038",
+        "answer_text": "Pull over safely, turn off the engine, evacuate, and call emergency services",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-038-b",
+        "question_id": "htruck-038",
+        "answer_text": "Continue driving to the nearest fire station",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-038-c",
+        "question_id": "htruck-038",
+        "answer_text": "Open the engine cover immediately to inspect the fire",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-038-d",
+        "question_id": "htruck-038",
+        "answer_text": "Pour water directly on the engine while it is running",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-039",
+    "question_text": "What should a heavy truck driver do if the air brake system warning buzzer sounds while driving?",
+    "explanation": "The air brake warning buzzer indicates that air pressure has dropped below the safe operating level. The driver must stop the truck safely as soon as possible, as the brakes may not function properly or could lock up. Do not continue driving until the air pressure issue is resolved.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "critical-situations",
+      "air-brakes",
+      "warning"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-039-a",
+        "question_id": "htruck-039",
+        "answer_text": "Stop the truck safely as soon as possible; do not continue until the issue is resolved",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-039-b",
+        "question_id": "htruck-039",
+        "answer_text": "Continue driving slowly to the nearest workshop",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-039-c",
+        "question_id": "htruck-039",
+        "answer_text": "Pump the brake pedal repeatedly to restore pressure",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-039-d",
+        "question_id": "htruck-039",
+        "answer_text": "Ignore the buzzer if the brakes still feel normal",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-040",
+    "question_text": "Your heavy truck's cargo has shifted during transit and is now leaning to one side. What should you do?",
+    "explanation": "A shifted load makes the truck extremely unstable and prone to rollover, especially during turns. The driver must pull over safely at the earliest opportunity, secure the load before continuing, and not attempt to drive to the destination with an unbalanced load.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "critical-situations",
+      "shifted-load",
+      "rollover"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-040-a",
+        "question_id": "htruck-040",
+        "answer_text": "Pull over safely at the earliest opportunity and re-secure the load before continuing",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-040-b",
+        "question_id": "htruck-040",
+        "answer_text": "Continue to the destination but drive more slowly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-040-c",
+        "question_id": "htruck-040",
+        "answer_text": "Drive only on straight roads and avoid turns until the destination",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-040-d",
+        "question_id": "htruck-040",
+        "answer_text": "Increase speed to create centrifugal force that balances the load",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-041",
+    "question_text": "What is the correct procedure for coupling a trailer to a heavy truck?",
+    "explanation": "When coupling a trailer, the driver should: align the tractor with the trailer, reverse slowly under the trailer, ensure the kingpin locks securely into the fifth wheel, connect the air lines and electrical cables, raise the landing gear, and perform a tug test by gently pulling forward to confirm a secure connection.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "coupling",
+      "trailer"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-041-a",
+        "question_id": "htruck-041",
+        "answer_text": "Align, reverse under trailer, lock kingpin in fifth wheel, connect lines, raise gear, perform tug test",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-041-b",
+        "question_id": "htruck-041",
+        "answer_text": "Drive forward into the trailer hitch and connect the electrical cable only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-041-c",
+        "question_id": "htruck-041",
+        "answer_text": "Lower the landing gear first, then reverse under the trailer",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-041-d",
+        "question_id": "htruck-041",
+        "answer_text": "Connect the air lines before reversing under the trailer",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-042",
+    "question_text": "What is the correct uncoupling procedure for a heavy truck and trailer?",
+    "explanation": "When uncoupling: park on firm level ground, apply the trailer parking brake, lower the landing gear until it firmly contacts the ground, disconnect the air lines and electrical cables, release the fifth wheel lock, and slowly pull the tractor forward away from the trailer.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "uncoupling",
+      "trailer"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-042-a",
+        "question_id": "htruck-042",
+        "answer_text": "Apply trailer brake, lower landing gear, disconnect lines, release fifth wheel, pull tractor forward",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-042-b",
+        "question_id": "htruck-042",
+        "answer_text": "Release the fifth wheel first, then lower the landing gear",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-042-c",
+        "question_id": "htruck-042",
+        "answer_text": "Disconnect air lines before applying the trailer brake",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-042-d",
+        "question_id": "htruck-042",
+        "answer_text": "Drive forward quickly to separate the kingpin from the fifth wheel",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-043",
+    "question_text": "How should a heavy truck driver manage fatigue during a long haul in the UAE?",
+    "explanation": "To manage fatigue, a heavy truck driver should take regular breaks (at least 15 minutes every 2 hours), never exceed the 10-hour driving limit, avoid heavy meals before driving, stay hydrated, recognise early signs of fatigue (yawning, drifting lanes), and stop to rest if drowsiness occurs.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "fatigue-management"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-043-a",
+        "question_id": "htruck-043",
+        "answer_text": "Take regular breaks every 2 hours, respect the 10-hour limit, stop immediately if drowsy",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-043-b",
+        "question_id": "htruck-043",
+        "answer_text": "Drink coffee continuously and push through to the destination",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-043-c",
+        "question_id": "htruck-043",
+        "answer_text": "Open the window for fresh air and continue driving",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-043-d",
+        "question_id": "htruck-043",
+        "answer_text": "Turn up the radio volume to stay alert",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-044",
+    "question_text": "When reversing a heavy truck with a trailer, what is the safest approach?",
+    "explanation": "When reversing a heavy truck with a trailer, the safest approach is to use a trained guide/spotter outside the vehicle, check all mirrors frequently, reverse slowly, and make small steering corrections. If no spotter is available, get out and walk around the vehicle to check the area before reversing.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "reversing",
+      "safety"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-044-a",
+        "question_id": "htruck-044",
+        "answer_text": "Use a trained guide/spotter, check mirrors, reverse slowly, make small corrections",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-044-b",
+        "question_id": "htruck-044",
+        "answer_text": "Reverse quickly to maintain trailer control",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-044-c",
+        "question_id": "htruck-044",
+        "answer_text": "Rely solely on the side mirrors without additional help",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-044-d",
+        "question_id": "htruck-044",
+        "answer_text": "Honk the horn continuously while reversing to warn others",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-045",
+    "question_text": "What is the correct way to distribute a heavy load on a flatbed truck?",
+    "explanation": "A heavy load should be distributed evenly with the heaviest items placed low and centred over the axles. The load must not exceed the maximum axle weight for any axle. An uneven load raises the centre of gravity or puts excessive weight on one axle, increasing the risk of rollover or tyre failure.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "load-distribution"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-045-a",
+        "question_id": "htruck-045",
+        "answer_text": "Distribute evenly with heaviest items low and centred over the axles",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-045-b",
+        "question_id": "htruck-045",
+        "answer_text": "Place all heavy items at the front for better steering control",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-045-c",
+        "question_id": "htruck-045",
+        "answer_text": "Stack heavy items on top for easier unloading",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-045-d",
+        "question_id": "htruck-045",
+        "answer_text": "Place heavy items at the rear to keep the front light",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-046",
+    "question_text": "After starting the engine, how quickly should the air brake system's low pressure warning gauge show a steady increase to operating pressure?",
+    "explanation": "After starting the engine, the air brake system's pressure gauge should show a steady increase and reach operating pressure in less than 3 minutes. If it takes longer, there may be a leak or compressor problem that must be investigated before driving.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "air-brakes",
+      "pressure"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-046-a",
+        "question_id": "htruck-046",
+        "answer_text": "Less than 3 minutes",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-046-b",
+        "question_id": "htruck-046",
+        "answer_text": "Less than 10 minutes",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-046-c",
+        "question_id": "htruck-046",
+        "answer_text": "Less than 1 minute",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-046-d",
+        "question_id": "htruck-046",
+        "answer_text": "Less than 5 minutes",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-047",
+    "question_text": "What air pressure loss indicates a problem in the air brake system of a heavy truck?",
+    "explanation": "An air pressure loss exceeding 70 kPa (when the engine is off and brakes are applied) indicates a leak or problem in the air brake system. The truck should not be driven until the issue is identified and repaired.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "air-brakes",
+      "pressure-loss"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-047-a",
+        "question_id": "htruck-047",
+        "answer_text": "A loss exceeding 70 kPa",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-047-b",
+        "question_id": "htruck-047",
+        "answer_text": "A loss exceeding 200 kPa",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-047-c",
+        "question_id": "htruck-047",
+        "answer_text": "A loss exceeding 30 kPa",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-047-d",
+        "question_id": "htruck-047",
+        "answer_text": "Any pressure loss at all",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-048",
+    "question_text": "What should a heavy truck driver check during a pre-trip inspection of the tyres?",
+    "explanation": "During a pre-trip tyre inspection, the driver should check for proper inflation pressure, adequate tread depth (minimum legal limit), cuts or bulges in the sidewalls, uneven wear patterns, foreign objects embedded in the tyre, and ensure that lug nuts are tight. In the UAE heat, tyre condition is especially critical.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "pre-trip",
+      "tyres"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-048-a",
+        "question_id": "htruck-048",
+        "answer_text": "Inflation pressure, tread depth, cuts/bulges, uneven wear, and lug nut tightness",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-048-b",
+        "question_id": "htruck-048",
+        "answer_text": "Only the tyre brand and manufacturing date",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-048-c",
+        "question_id": "htruck-048",
+        "answer_text": "Tyre colour and whether they match on each axle",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-048-d",
+        "question_id": "htruck-048",
+        "answer_text": "Only the front tyres; rear tyres do not need daily checking",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-049",
+    "question_text": "Why is it important to regularly check the coolant level of a heavy truck operating in the UAE?",
+    "explanation": "The extreme UAE heat puts enormous stress on a truck's cooling system. Low coolant levels can lead to engine overheating, which can cause catastrophic engine damage, roadside breakdowns, and even engine fires. Coolant should be checked when the engine is cold, and the system should be inspected for leaks.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "coolant",
+      "overheating"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-049-a",
+        "question_id": "htruck-049",
+        "answer_text": "UAE heat causes engine overheating; low coolant can lead to catastrophic engine damage or fire",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-049-b",
+        "question_id": "htruck-049",
+        "answer_text": "Coolant only needs checking during the winter months",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-049-c",
+        "question_id": "htruck-049",
+        "answer_text": "Low coolant only affects the air conditioning, not the engine",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-049-d",
+        "question_id": "htruck-049",
+        "answer_text": "Coolant level does not change in normal operation",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-050",
+    "question_text": "What should be included in a heavy truck's daily pre-trip inspection besides tyres and brakes?",
+    "explanation": "A thorough daily pre-trip inspection should include checking all lights and reflectors, mirrors, windscreen wipers and fluid, engine oil level, coolant level, power steering fluid, air brake system pressure, horn, coupling device (fifth wheel), cargo securing devices, fire extinguisher, and warning triangles.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "pre-trip-inspection"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "htruck-050-a",
+        "question_id": "htruck-050",
+        "answer_text": "Lights, mirrors, wipers, fluids, coupling device, cargo securing, fire extinguisher, and warning triangles",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-050-b",
+        "question_id": "htruck-050",
+        "answer_text": "Only the fuel level and windscreen wipers",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-050-c",
+        "question_id": "htruck-050",
+        "answer_text": "Just the headlights and horn",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-050-d",
+        "question_id": "htruck-050",
+        "answer_text": "Pre-trip inspections are only required weekly, not daily",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-051",
+    "question_text": "Why do heavy vehicles need more judgment and driving skill than others?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-051-a",
+        "question_id": "htruck-051",
+        "answer_text": "Because they are commercial",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-051-b",
+        "question_id": "htruck-051",
+        "answer_text": "Because they are driven for longer",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-051-c",
+        "question_id": "htruck-051",
+        "answer_text": "Because they make longer journeys",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-051-d",
+        "question_id": "htruck-051",
+        "answer_text": "Because they accelerate and decelerate more slowly",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-052",
+    "question_text": "Why should you make sure your cabin is clear of all rubbish?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-052-a",
+        "question_id": "htruck-052",
+        "answer_text": "In case the police stop you",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-052-b",
+        "question_id": "htruck-052",
+        "answer_text": "To look professional",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-052-c",
+        "question_id": "htruck-052",
+        "answer_text": "For the next driver",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-052-d",
+        "question_id": "htruck-052",
+        "answer_text": "For safety",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-053",
+    "question_text": "If you have to change a wheel, your priority should be?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-053-a",
+        "question_id": "htruck-053",
+        "answer_text": "To stay close to the road",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-053-b",
+        "question_id": "htruck-053",
+        "answer_text": "To do it as quickly as possible",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-053-c",
+        "question_id": "htruck-053",
+        "answer_text": "To minimize hazards",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-053-d",
+        "question_id": "htruck-053",
+        "answer_text": "To do it as cheaply as possible",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-054",
+    "question_text": "All fluids should be kept topped up?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-054-a",
+        "question_id": "htruck-054",
+        "answer_text": "To the maximum",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-054-b",
+        "question_id": "htruck-054",
+        "answer_text": "To any of these",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-054-c",
+        "question_id": "htruck-054",
+        "answer_text": "To the minimum",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-054-d",
+        "question_id": "htruck-054",
+        "answer_text": "To halfway",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-055",
+    "question_text": "It's vital that your load is?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-055-a",
+        "question_id": "htruck-055",
+        "answer_text": "Unbreakable",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-055-b",
+        "question_id": "htruck-055",
+        "answer_text": "Paid for",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-055-c",
+        "question_id": "htruck-055",
+        "answer_text": "Secure",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-055-d",
+        "question_id": "htruck-055",
+        "answer_text": "Signed for",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-056",
+    "question_text": "In what way can alcohol make you a better driver?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-056-a",
+        "question_id": "htruck-056",
+        "answer_text": "It can keep you awake",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-056-b",
+        "question_id": "htruck-056",
+        "answer_text": "It can make you more confident",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-056-c",
+        "question_id": "htruck-056",
+        "answer_text": "It can't",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-056-d",
+        "question_id": "htruck-056",
+        "answer_text": "It can relax you",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-057",
+    "question_text": "You should measure tire pressure in each wheel by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-057-a",
+        "question_id": "htruck-057",
+        "answer_text": "Kicking the tire",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-057-b",
+        "question_id": "htruck-057",
+        "answer_text": "Squeezing the tire",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-057-c",
+        "question_id": "htruck-057",
+        "answer_text": "Inspecting visually",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-057-d",
+        "question_id": "htruck-057",
+        "answer_text": "Using a pressure gauge",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-058",
+    "question_text": "You should check all your controls with?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-058-a",
+        "question_id": "htruck-058",
+        "answer_text": "The engine running",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-058-b",
+        "question_id": "htruck-058",
+        "answer_text": "The engine off",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-058-c",
+        "question_id": "htruck-058",
+        "answer_text": "The vehicle moving",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-058-d",
+        "question_id": "htruck-058",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-059",
+    "question_text": "An air brake system should not lose more than how much pressure between stops?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-059-a",
+        "question_id": "htruck-059",
+        "answer_text": "70 kpa",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-059-b",
+        "question_id": "htruck-059",
+        "answer_text": "50 kpa",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-059-c",
+        "question_id": "htruck-059",
+        "answer_text": "80 kpa",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-059-d",
+        "question_id": "htruck-059",
+        "answer_text": "60 kpa",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-060",
+    "question_text": "So you can pass safely under bridges, it's vital that you know your?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-060-a",
+        "question_id": "htruck-060",
+        "answer_text": "Tire pressure",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-060-b",
+        "question_id": "htruck-060",
+        "answer_text": "Load height",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-060-c",
+        "question_id": "htruck-060",
+        "answer_text": "Cabin height",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-060-d",
+        "question_id": "htruck-060",
+        "answer_text": "Wheel size",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-061",
+    "question_text": "You should take care when taking medication?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-061-a",
+        "question_id": "htruck-061",
+        "answer_text": "Prescribed by your doctor",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-061-b",
+        "question_id": "htruck-061",
+        "answer_text": "Any of these",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-061-c",
+        "question_id": "htruck-061",
+        "answer_text": "Sold by your pharmacist",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-061-d",
+        "question_id": "htruck-061",
+        "answer_text": "Sold over-the-counter in a general store",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-062",
+    "question_text": "When lifting heavy objects, you should have?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-062-a",
+        "question_id": "htruck-062",
+        "answer_text": "Straight knees, bent back",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-062-b",
+        "question_id": "htruck-062",
+        "answer_text": "Straight back, bent knees",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-062-c",
+        "question_id": "htruck-062",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-062-d",
+        "question_id": "htruck-062",
+        "answer_text": "Bent back, bent knees",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-063",
+    "question_text": "When your vehicle is parked on the right-hand side of the road, you should approach it from?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-063-a",
+        "question_id": "htruck-063",
+        "answer_text": "The rear",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-063-b",
+        "question_id": "htruck-063",
+        "answer_text": "The right-hand side",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-063-c",
+        "question_id": "htruck-063",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-063-d",
+        "question_id": "htruck-063",
+        "answer_text": "The front",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-064",
+    "question_text": "You must inspect your heavy vehicle?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-064-a",
+        "question_id": "htruck-064",
+        "answer_text": "Once a week",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-064-b",
+        "question_id": "htruck-064",
+        "answer_text": "Once a month",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-064-c",
+        "question_id": "htruck-064",
+        "answer_text": "At the beginning of each trip",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-064-d",
+        "question_id": "htruck-064",
+        "answer_text": "Every day that you use it",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-065",
+    "question_text": "loading gate or headboard is found where?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-065-a",
+        "question_id": "htruck-065",
+        "answer_text": "In the middle of the trailer",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-065-b",
+        "question_id": "htruck-065",
+        "answer_text": "At the front end of the trailer",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-065-c",
+        "question_id": "htruck-065",
+        "answer_text": "At the back end of the trailer",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-065-d",
+        "question_id": "htruck-065",
+        "answer_text": "At the back end of the power unit",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-066",
+    "question_text": "If your vehicle is tilting, it could be caused by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-066-a",
+        "question_id": "htruck-066",
+        "answer_text": "Flat tire",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-066-b",
+        "question_id": "htruck-066",
+        "answer_text": "Poor loading",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-066-c",
+        "question_id": "htruck-066",
+        "answer_text": "Suspension failure",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-066-d",
+        "question_id": "htruck-066",
+        "answer_text": "Any of these",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-067",
+    "question_text": "You should check your external lights are working by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-067-a",
+        "question_id": "htruck-067",
+        "answer_text": "Looking at the on lights on the dashboard",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-067-b",
+        "question_id": "htruck-067",
+        "answer_text": "Looking for reflections in the nearest object",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-067-c",
+        "question_id": "htruck-067",
+        "answer_text": "Getting out and looking at them",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-067-d",
+        "question_id": "htruck-067",
+        "answer_text": "Looking for warning lights on the dashboard",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-068",
+    "question_text": "You should adjust your seat so that when the clutch pedal is floored, your leg bends at?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-068-a",
+        "question_id": "htruck-068",
+        "answer_text": "40 – 45°",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-068-b",
+        "question_id": "htruck-068",
+        "answer_text": "5 – 10°",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-068-c",
+        "question_id": "htruck-068",
+        "answer_text": "15 – 20°",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-068-d",
+        "question_id": "htruck-068",
+        "answer_text": "25 – 30°",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-069",
+    "question_text": "Which of these may indicate a loose wheel nut?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-069-a",
+        "question_id": "htruck-069",
+        "answer_text": "Grease",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-069-b",
+        "question_id": "htruck-069",
+        "answer_text": "Rust streaks",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-069-c",
+        "question_id": "htruck-069",
+        "answer_text": "Oil",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-069-d",
+        "question_id": "htruck-069",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-070",
+    "question_text": "The low air pressure warning gauge should reach full pressure after?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-070-a",
+        "question_id": "htruck-070",
+        "answer_text": "Four minutes",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-070-b",
+        "question_id": "htruck-070",
+        "answer_text": "Five minutes",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-070-c",
+        "question_id": "htruck-070",
+        "answer_text": "Three minutes",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-070-d",
+        "question_id": "htruck-070",
+        "answer_text": "Two minutes",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-071",
+    "question_text": "Which of these foods is best to eat when on a long trip to avoid fatigue?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-071-a",
+        "question_id": "htruck-071",
+        "answer_text": "Potatoes",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-071-b",
+        "question_id": "htruck-071",
+        "answer_text": "Fresh fruit and vegetables",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-071-c",
+        "question_id": "htruck-071",
+        "answer_text": "Pasta",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-071-d",
+        "question_id": "htruck-071",
+        "answer_text": "Bread",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-072",
+    "question_text": "Which of these drugs can overcome feelings of tiredness?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-072-a",
+        "question_id": "htruck-072",
+        "answer_text": "None of them",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-072-b",
+        "question_id": "htruck-072",
+        "answer_text": "Cocaine",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-072-c",
+        "question_id": "htruck-072",
+        "answer_text": "Amphetamines",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-072-d",
+        "question_id": "htruck-072",
+        "answer_text": "Alcohol",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-073",
+    "question_text": "On a airbrake vehicle, how can you tell if the air intake filter is blocked?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-073-a",
+        "question_id": "htruck-073",
+        "answer_text": "Brakes feel sluggish",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-073-b",
+        "question_id": "htruck-073",
+        "answer_text": "Brakes not working at all",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-073-c",
+        "question_id": "htruck-073",
+        "answer_text": "Warning light on the dashboard",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-073-d",
+        "question_id": "htruck-073",
+        "answer_text": "Oil coming from the air tank taps",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-074",
+    "question_text": "You are driving an 18 wheeler truck, how many tires can be worn or faulty for the vehicle still to be safe?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-074-a",
+        "question_id": "htruck-074",
+        "answer_text": "Six",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-074-b",
+        "question_id": "htruck-074",
+        "answer_text": "Four",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-074-c",
+        "question_id": "htruck-074",
+        "answer_text": "Two",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-074-d",
+        "question_id": "htruck-074",
+        "answer_text": "None",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-075",
+    "question_text": "The Gross Vehicle Mass represents?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-075-a",
+        "question_id": "htruck-075",
+        "answer_text": "The weight of the power unit, trailer and cargo",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-075-b",
+        "question_id": "htruck-075",
+        "answer_text": "The weight of the trailer and cargo",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-075-c",
+        "question_id": "htruck-075",
+        "answer_text": "The weight of the cargo and power unit",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-075-d",
+        "question_id": "htruck-075",
+        "answer_text": "The weight of the power unit and trailer",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-076",
+    "question_text": "When taking a right-hand bend, you should steer?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-076-a",
+        "question_id": "htruck-076",
+        "answer_text": "Close to the left side of the lane",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-076-b",
+        "question_id": "htruck-076",
+        "answer_text": "In the center of the lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-076-c",
+        "question_id": "htruck-076",
+        "answer_text": "Over the center markings",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-076-d",
+        "question_id": "htruck-076",
+        "answer_text": "Close to the right side of the lane",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-077",
+    "question_text": "Cut-in means your rear wheels will travel?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-077-a",
+        "question_id": "htruck-077",
+        "answer_text": "A shorter path than the front ones",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-077-b",
+        "question_id": "htruck-077",
+        "answer_text": "The same path as the front ones",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-077-c",
+        "question_id": "htruck-077",
+        "answer_text": "A completely different path than the front ones",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-077-d",
+        "question_id": "htruck-077",
+        "answer_text": "A longer path than the front ones",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-078",
+    "question_text": "Changing gear at the wrong time can damage?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-078-a",
+        "question_id": "htruck-078",
+        "answer_text": "All of these",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-078-b",
+        "question_id": "htruck-078",
+        "answer_text": "The transmission",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-078-c",
+        "question_id": "htruck-078",
+        "answer_text": "The clutch",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-078-d",
+        "question_id": "htruck-078",
+        "answer_text": "The engine",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-079",
+    "question_text": "Which of these is the correct sequence for double clutching to change gear?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-079-a",
+        "question_id": "htruck-079",
+        "answer_text": "Neutral, clutch, select gear, clutch",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-079-b",
+        "question_id": "htruck-079",
+        "answer_text": "Clutch, select  gear, clutch, neutral",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-079-c",
+        "question_id": "htruck-079",
+        "answer_text": "Clutch, neutral, clutch, select gear",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-079-d",
+        "question_id": "htruck-079",
+        "answer_text": "Clutch, neutral, select gear, clutch",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-080",
+    "question_text": "You can be helped in gear changing by using your?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-080-a",
+        "question_id": "htruck-080",
+        "answer_text": "Tachometer",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-080-b",
+        "question_id": "htruck-080",
+        "answer_text": "Temperature gauge",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-080-c",
+        "question_id": "htruck-080",
+        "answer_text": "Speedometer",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-080-d",
+        "question_id": "htruck-080",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-081",
+    "question_text": "When reversing, you should monitor the trailer position by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-081-a",
+        "question_id": "htruck-081",
+        "answer_text": "Looking in your mirrors",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-081-b",
+        "question_id": "htruck-081",
+        "answer_text": "Listening for any bumps",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-081-c",
+        "question_id": "htruck-081",
+        "answer_text": "Hanging out the window",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-081-d",
+        "question_id": "htruck-081",
+        "answer_text": "Looking at shadows",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-082",
+    "question_text": "At low speed, the rear wheels of a semitrailer will track?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-082-a",
+        "question_id": "htruck-082",
+        "answer_text": "In line with the truck's wheels",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-082-b",
+        "question_id": "htruck-082",
+        "answer_text": "Outside the truck's wheels",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-082-c",
+        "question_id": "htruck-082",
+        "answer_text": "Any of these depending on road surface",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-082-d",
+        "question_id": "htruck-082",
+        "answer_text": "Inside the truck's wheels",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-083",
+    "question_text": "Each time you stop you should check your brakes for excessive?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-083-a",
+        "question_id": "htruck-083",
+        "answer_text": "Cold",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-083-b",
+        "question_id": "htruck-083",
+        "answer_text": "Moisture",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-083-c",
+        "question_id": "htruck-083",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-083-d",
+        "question_id": "htruck-083",
+        "answer_text": "Heat",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-084",
+    "question_text": "When double clutching, it's important to monitor?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-084-a",
+        "question_id": "htruck-084",
+        "answer_text": "Revs",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-084-b",
+        "question_id": "htruck-084",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-084-c",
+        "question_id": "htruck-084",
+        "answer_text": "Mirrors",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-084-d",
+        "question_id": "htruck-084",
+        "answer_text": "Speed",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-085",
+    "question_text": "The turning radius for a heavy vehicle is?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-085-a",
+        "question_id": "htruck-085",
+        "answer_text": "90°",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-085-b",
+        "question_id": "htruck-085",
+        "answer_text": "30°",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-085-c",
+        "question_id": "htruck-085",
+        "answer_text": "60°",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-085-d",
+        "question_id": "htruck-085",
+        "answer_text": "Different for each vehicle",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-086",
+    "question_text": "Approaching a left-hand bend, you should position yourself?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-086-a",
+        "question_id": "htruck-086",
+        "answer_text": "On the left-hand side of your lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-086-b",
+        "question_id": "htruck-086",
+        "answer_text": "In the oncoming traffic lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-086-c",
+        "question_id": "htruck-086",
+        "answer_text": "On the right-hand side of your lane",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-086-d",
+        "question_id": "htruck-086",
+        "answer_text": "In the center of your lane",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-087",
+    "question_text": "You should correct any drifting off course when reversing by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-087-a",
+        "question_id": "htruck-087",
+        "answer_text": "Holding the steering wheel straight",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-087-b",
+        "question_id": "htruck-087",
+        "answer_text": "Steering towards the drift",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-087-c",
+        "question_id": "htruck-087",
+        "answer_text": "Rapidly accelerating and braking",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-087-d",
+        "question_id": "htruck-087",
+        "answer_text": "Steering away from the drift",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-088",
+    "question_text": "Which of these is the only one that will not make you change gear?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-088-a",
+        "question_id": "htruck-088",
+        "answer_text": "Going uphill",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-088-b",
+        "question_id": "htruck-088",
+        "answer_text": "Slowing down",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-088-c",
+        "question_id": "htruck-088",
+        "answer_text": "Changing lanes",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-088-d",
+        "question_id": "htruck-088",
+        "answer_text": "Going downhill",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-089",
+    "question_text": "Having passengers in a vehicle can affect its handling if it is?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-089-a",
+        "question_id": "htruck-089",
+        "answer_text": "Under 10 tonnes",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-089-b",
+        "question_id": "htruck-089",
+        "answer_text": "Under 6 tonnes",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-089-c",
+        "question_id": "htruck-089",
+        "answer_text": "Under 3 tonnes",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-089-d",
+        "question_id": "htruck-089",
+        "answer_text": "Any weight",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-090",
+    "question_text": "With air brake systems, you should check the low-pressure warnings are working by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-090-a",
+        "question_id": "htruck-090",
+        "answer_text": "Pressing the accelerator",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-090-b",
+        "question_id": "htruck-090",
+        "answer_text": "Revving the engine",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-090-c",
+        "question_id": "htruck-090",
+        "answer_text": "Pressing the clutch",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-090-d",
+        "question_id": "htruck-090",
+        "answer_text": "Pressing the brake",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-091",
+    "question_text": "With a hydraulic brake vehicle, after pumping the brake pedal you should be able to hold it down without feeling any loss of pressure for how long?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-091-a",
+        "question_id": "htruck-091",
+        "answer_text": "Two seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-091-b",
+        "question_id": "htruck-091",
+        "answer_text": "Three seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-091-c",
+        "question_id": "htruck-091",
+        "answer_text": "Four seconds",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-091-d",
+        "question_id": "htruck-091",
+        "answer_text": "Five seconds",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-092",
+    "question_text": "When pulling away on sand or gravel, you should accelerate?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for heavy vehicle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-092-a",
+        "question_id": "htruck-092",
+        "answer_text": "More powerfully",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-092-b",
+        "question_id": "htruck-092",
+        "answer_text": "Faster",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-092-c",
+        "question_id": "htruck-092",
+        "answer_text": "More aggressively",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-092-d",
+        "question_id": "htruck-092",
+        "answer_text": "More slowly",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-093",
+    "question_text": "After your pretrip inspection, your next inspection should take place?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-093-a",
+        "question_id": "htruck-093",
+        "answer_text": "At the start of the next day",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-093-b",
+        "question_id": "htruck-093",
+        "answer_text": "In 12 hours' time",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-093-c",
+        "question_id": "htruck-093",
+        "answer_text": "At the end of your journey",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-093-d",
+        "question_id": "htruck-093",
+        "answer_text": "At your next stop",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-094",
+    "question_text": "You should always hold the steering wheel with both hands?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-094-a",
+        "question_id": "htruck-094",
+        "answer_text": "Except when you want to rest your hands",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-094-b",
+        "question_id": "htruck-094",
+        "answer_text": "In all circumstances",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-094-c",
+        "question_id": "htruck-094",
+        "answer_text": "Except when making a phone call",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-094-d",
+        "question_id": "htruck-094",
+        "answer_text": "Except when travelling straight",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-095",
+    "question_text": "How often should you check that your load is secure?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-095-a",
+        "question_id": "htruck-095",
+        "answer_text": "At the end of each day",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-095-b",
+        "question_id": "htruck-095",
+        "answer_text": "Regularly as you drive",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-095-c",
+        "question_id": "htruck-095",
+        "answer_text": "If it was secure when you started you don't need to",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-095-d",
+        "question_id": "htruck-095",
+        "answer_text": "At every stop",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-096",
+    "question_text": "Which of these will not help you prevent aquaplaning?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for heavy vehicle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-096-a",
+        "question_id": "htruck-096",
+        "answer_text": "Low speed",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-096-b",
+        "question_id": "htruck-096",
+        "answer_text": "Correct tire pressure",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-096-c",
+        "question_id": "htruck-096",
+        "answer_text": "High speed",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-096-d",
+        "question_id": "htruck-096",
+        "answer_text": "Good tires",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-097",
+    "question_text": "When reversing a large vehicle into a tight space, a good driver?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-097-a",
+        "question_id": "htruck-097",
+        "answer_text": "Doesn't need any guidance",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-097-b",
+        "question_id": "htruck-097",
+        "answer_text": "Repositions as many times as necessary",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-097-c",
+        "question_id": "htruck-097",
+        "answer_text": "Always does it in one go",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-097-d",
+        "question_id": "htruck-097",
+        "answer_text": "Does it quickly",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-098",
+    "question_text": "When accelerating with your large vehicle, you should aim for?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-098-a",
+        "question_id": "htruck-098",
+        "answer_text": "Low noise",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-098-b",
+        "question_id": "htruck-098",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-098-c",
+        "question_id": "htruck-098",
+        "answer_text": "Smoothness",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-098-d",
+        "question_id": "htruck-098",
+        "answer_text": "Speed",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-099",
+    "question_text": "If it's raining, the road will probably be most slippery?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for heavy vehicle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-099-a",
+        "question_id": "htruck-099",
+        "answer_text": "Just as it starts",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-099-b",
+        "question_id": "htruck-099",
+        "answer_text": "Just after it finishes",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-099-c",
+        "question_id": "htruck-099",
+        "answer_text": "After an hour's rain",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-099-d",
+        "question_id": "htruck-099",
+        "answer_text": "As the road dries out",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-100",
+    "question_text": "Trailer brakes may not work properly if?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-100-a",
+        "question_id": "htruck-100",
+        "answer_text": "Any of these apply",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-100-b",
+        "question_id": "htruck-100",
+        "answer_text": "Air hoses are wrongly connected",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-100-c",
+        "question_id": "htruck-100",
+        "answer_text": "Air hoses are leaking",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-100-d",
+        "question_id": "htruck-100",
+        "answer_text": "Air hoses are damaged",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-101",
+    "question_text": "When another vehicle is tailgating you, its best to",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-101-a",
+        "question_id": "htruck-101",
+        "answer_text": "Sound your horn",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-101-b",
+        "question_id": "htruck-101",
+        "answer_text": "Speed up",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-101-c",
+        "question_id": "htruck-101",
+        "answer_text": "Brake sharply",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-101-d",
+        "question_id": "htruck-101",
+        "answer_text": "Slow down",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-102",
+    "question_text": "When driving a large vehicle, you should plan ahead at least",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-102-a",
+        "question_id": "htruck-102",
+        "answer_text": "8 seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-102-b",
+        "question_id": "htruck-102",
+        "answer_text": "6 seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-102-c",
+        "question_id": "htruck-102",
+        "answer_text": "12 seconds",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-102-d",
+        "question_id": "htruck-102",
+        "answer_text": "10 seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-103",
+    "question_text": "You should use your mirrors for",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-103-a",
+        "question_id": "htruck-103",
+        "answer_text": "Checking your tires",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-103-b",
+        "question_id": "htruck-103",
+        "answer_text": "All of these",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-103-c",
+        "question_id": "htruck-103",
+        "answer_text": "Checking your load",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-103-d",
+        "question_id": "htruck-103",
+        "answer_text": "Checking for other vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-104",
+    "question_text": "When travelling at 75 km/h, how much space should you leave to the vehicle in front?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-104-a",
+        "question_id": "htruck-104",
+        "answer_text": "2 seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-104-b",
+        "question_id": "htruck-104",
+        "answer_text": "4 seconds",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-104-c",
+        "question_id": "htruck-104",
+        "answer_text": "3 seconds",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-104-d",
+        "question_id": "htruck-104",
+        "answer_text": "5 seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-105",
+    "question_text": "At a junction with three left hand turn lanes, which lane should you choose?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-105-a",
+        "question_id": "htruck-105",
+        "answer_text": "The left hand lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-105-b",
+        "question_id": "htruck-105",
+        "answer_text": "The center lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-105-c",
+        "question_id": "htruck-105",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-105-d",
+        "question_id": "htruck-105",
+        "answer_text": "The right hand lane",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-106",
+    "question_text": "Which of these will be most helpful when reversing?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-106-a",
+        "question_id": "htruck-106",
+        "answer_text": "Left mirror",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-106-b",
+        "question_id": "htruck-106",
+        "answer_text": "Right mirror",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-106-c",
+        "question_id": "htruck-106",
+        "answer_text": "A guide",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-106-d",
+        "question_id": "htruck-106",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-107",
+    "question_text": "If your vehicle has air brakes, you should allow for a delay in braking up to",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-107-a",
+        "question_id": "htruck-107",
+        "answer_text": "One second",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-107-b",
+        "question_id": "htruck-107",
+        "answer_text": "Two seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-107-c",
+        "question_id": "htruck-107",
+        "answer_text": "Half a second",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-107-d",
+        "question_id": "htruck-107",
+        "answer_text": "Quarter of a second",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-108",
+    "question_text": "Which of these places is likely to be in your blind spot?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of hazard perception for heavy vehicle drivers in the UAE.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-108-a",
+        "question_id": "htruck-108",
+        "answer_text": "40m back on the right",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-108-b",
+        "question_id": "htruck-108",
+        "answer_text": "Next to the cab on the left",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-108-c",
+        "question_id": "htruck-108",
+        "answer_text": "75m directly behind",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-108-d",
+        "question_id": "htruck-108",
+        "answer_text": "40m back on the left",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-109",
+    "question_text": "You should never look in your mirrors for more than",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-109-a",
+        "question_id": "htruck-109",
+        "answer_text": "One second",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-109-b",
+        "question_id": "htruck-109",
+        "answer_text": "Four seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-109-c",
+        "question_id": "htruck-109",
+        "answer_text": "Three seconds",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-109-d",
+        "question_id": "htruck-109",
+        "answer_text": "Two seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-110",
+    "question_text": "Part of your load has fallen into the roa You must mark it with warning triangles if it is not visible for how far in all directions?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of hazard perception for heavy vehicle drivers in the UAE.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "hazard-perception",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-110-a",
+        "question_id": "htruck-110",
+        "answer_text": "50m",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-110-b",
+        "question_id": "htruck-110",
+        "answer_text": "250m",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-110-c",
+        "question_id": "htruck-110",
+        "answer_text": "150m",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-110-d",
+        "question_id": "htruck-110",
+        "answer_text": "200m",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-111",
+    "question_text": "When travelling at 90 km/h, how far will you travel in one second?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-111-a",
+        "question_id": "htruck-111",
+        "answer_text": "15m",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-111-b",
+        "question_id": "htruck-111",
+        "answer_text": "20m",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-111-c",
+        "question_id": "htruck-111",
+        "answer_text": "25m",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-111-d",
+        "question_id": "htruck-111",
+        "answer_text": "30m",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-112",
+    "question_text": "Most heavy vehicles have brakes designed to operate most effectively when",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of road signs for heavy vehicle drivers in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "road-signs",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-112-a",
+        "question_id": "htruck-112",
+        "answer_text": "The vehicle is partially loaded",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-112-b",
+        "question_id": "htruck-112",
+        "answer_text": "The vehicle is loaded",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-112-c",
+        "question_id": "htruck-112",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-112-d",
+        "question_id": "htruck-112",
+        "answer_text": "The vehicle is unloaded",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-113",
+    "question_text": "Your truck must have yellow revolving lights on the roof of the cabin when it is",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-113-a",
+        "question_id": "htruck-113",
+        "answer_text": "Empty and moving",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-113-b",
+        "question_id": "htruck-113",
+        "answer_text": "Loaded and parked",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-113-c",
+        "question_id": "htruck-113",
+        "answer_text": "Empty and parked",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-113-d",
+        "question_id": "htruck-113",
+        "answer_text": "Loaded and moving",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-114",
+    "question_text": "You are approaching a construction zone where one lane of three on the highway is close You should",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-114-a",
+        "question_id": "htruck-114",
+        "answer_text": "Swing into the outside lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-114-b",
+        "question_id": "htruck-114",
+        "answer_text": "Speed up to pass as quickly as possible",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-114-c",
+        "question_id": "htruck-114",
+        "answer_text": "Maintain your course and speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-114-d",
+        "question_id": "htruck-114",
+        "answer_text": "Slow down and prepare to stop",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-115",
+    "question_text": "When driving a heavy vehicle, you should check your mirrors",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-115-a",
+        "question_id": "htruck-115",
+        "answer_text": "Every ten seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-115-b",
+        "question_id": "htruck-115",
+        "answer_text": "Every fifteen seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-115-c",
+        "question_id": "htruck-115",
+        "answer_text": "Constantly",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-115-d",
+        "question_id": "htruck-115",
+        "answer_text": "Every twenty seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-116",
+    "question_text": "You reach a junction where there are three right hand turn lanes.  Which lane should you choose?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-116-a",
+        "question_id": "htruck-116",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-116-b",
+        "question_id": "htruck-116",
+        "answer_text": "The center lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-116-c",
+        "question_id": "htruck-116",
+        "answer_text": "The left hand lane",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-116-d",
+        "question_id": "htruck-116",
+        "answer_text": "The right hand lane",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-117",
+    "question_text": "You are parked at night in an area with poor lighting.  You must display clearance and sidemarker lights if your vehicle is over what width?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for heavy vehicle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-117-a",
+        "question_id": "htruck-117",
+        "answer_text": "2.4m",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-117-b",
+        "question_id": "htruck-117",
+        "answer_text": "2.2m",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-117-c",
+        "question_id": "htruck-117",
+        "answer_text": "1.8m",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-117-d",
+        "question_id": "htruck-117",
+        "answer_text": "2.0m",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-118",
+    "question_text": "Just before your vehicle comes to a complete stop, the brake should be",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-118-a",
+        "question_id": "htruck-118",
+        "answer_text": "Released completely",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-118-b",
+        "question_id": "htruck-118",
+        "answer_text": "Pushed in slightly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-118-c",
+        "question_id": "htruck-118",
+        "answer_text": "Released slightly",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-118-d",
+        "question_id": "htruck-118",
+        "answer_text": "Pushed in fully",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-119",
+    "question_text": "If your vehicle has broken down, you should place a warning triangle at least how far to the rear?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of critical situations for heavy vehicle drivers in the UAE.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "critical-situations",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-119-a",
+        "question_id": "htruck-119",
+        "answer_text": "30m",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-119-b",
+        "question_id": "htruck-119",
+        "answer_text": "50m",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-119-c",
+        "question_id": "htruck-119",
+        "answer_text": "20m",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-119-d",
+        "question_id": "htruck-119",
+        "answer_text": "40m",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-120",
+    "question_text": "For maximum safety you should generally stay",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-120-a",
+        "question_id": "htruck-120",
+        "answer_text": "In the right of your lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-120-b",
+        "question_id": "htruck-120",
+        "answer_text": "In the left of your lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-120-c",
+        "question_id": "htruck-120",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-120-d",
+        "question_id": "htruck-120",
+        "answer_text": "In the center of your lane",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-121",
+    "question_text": "If parked in an area of heavy traffic in the day, what should you do?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-121-a",
+        "question_id": "htruck-121",
+        "answer_text": "Nothing",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-121-b",
+        "question_id": "htruck-121",
+        "answer_text": "Switch on headlamps",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-121-c",
+        "question_id": "htruck-121",
+        "answer_text": "Switch on hazard lights",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-121-d",
+        "question_id": "htruck-121",
+        "answer_text": "Continuously sound horn",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-122",
+    "question_text": "Brakes should initially be applied",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-122-a",
+        "question_id": "htruck-122",
+        "answer_text": "Slowly",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-122-b",
+        "question_id": "htruck-122",
+        "answer_text": "Aggressively",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-122-c",
+        "question_id": "htruck-122",
+        "answer_text": "Sharply",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-122-d",
+        "question_id": "htruck-122",
+        "answer_text": "Steadily",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-123",
+    "question_text": "An experienced driver can tell when to change gear from",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-123-a",
+        "question_id": "htruck-123",
+        "answer_text": "Wheel noise",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-123-b",
+        "question_id": "htruck-123",
+        "answer_text": "Road vibrations",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-123-c",
+        "question_id": "htruck-123",
+        "answer_text": "Engine temperature",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-123-d",
+        "question_id": "htruck-123",
+        "answer_text": "Engine noise",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-124",
+    "question_text": "Who is most responsible for ensuring there are no accidents involving a heavy vehicle?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of critical situations for heavy vehicle drivers in the UAE.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "critical-situations",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-124-a",
+        "question_id": "htruck-124",
+        "answer_text": "The highway authorities",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-124-b",
+        "question_id": "htruck-124",
+        "answer_text": "The police",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-124-c",
+        "question_id": "htruck-124",
+        "answer_text": "Other drivers",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-124-d",
+        "question_id": "htruck-124",
+        "answer_text": "The driver",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "htruck-125",
+    "question_text": "When you have made a mistake involving another driver, what should you do?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "C"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-truck",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "htruck-125-a",
+        "question_id": "htruck-125",
+        "answer_text": "Acknowledge your mistake",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "htruck-125-b",
+        "question_id": "htruck-125",
+        "answer_text": "Ignore it and carry on",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "htruck-125-c",
+        "question_id": "htruck-125",
+        "answer_text": "Try to make them feel guilty",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "htruck-125-d",
+        "question_id": "htruck-125",
+        "answer_text": "Drive away as quickly as possible",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  }
+]

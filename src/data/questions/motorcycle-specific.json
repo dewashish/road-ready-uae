@@ -1,0 +1,4976 @@
+[
+  {
+    "id": "moto-001",
+    "question_text": "What does a round blue sign with a white motorcycle symbol indicate?",
+    "explanation": "A round blue sign with a white motorcycle symbol indicates a lane or route designated specifically for motorcycles. Blue circular signs in the UAE indicate mandatory instructions.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "road_signs",
+      "mandatory_signs"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-001-a",
+        "question_id": "moto-001",
+        "answer_text": "Motorcycle lane or route",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-001-b",
+        "question_id": "moto-001",
+        "answer_text": "No motorcycles allowed",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-001-c",
+        "question_id": "moto-001",
+        "answer_text": "Motorcycle parking only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-001-d",
+        "question_id": "moto-001",
+        "answer_text": "Motorcycle repair shop ahead",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-002",
+    "question_text": "What does a red circular sign with a motorcycle inside mean?",
+    "explanation": "A red circular sign with a motorcycle inside means motorcycles are prohibited from entering that road or area. Red circular signs indicate prohibitions under UAE traffic law.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "road_signs",
+      "prohibition_signs"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-002-a",
+        "question_id": "moto-002",
+        "answer_text": "Motorcycles are prohibited on this road",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-002-b",
+        "question_id": "moto-002",
+        "answer_text": "Motorcycles must slow down",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-002-c",
+        "question_id": "moto-002",
+        "answer_text": "Motorcycle lane ahead",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-002-d",
+        "question_id": "moto-002",
+        "answer_text": "Motorcycles must yield to cars",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-003",
+    "question_text": "On a UAE highway, what does a speed limit sign showing '100' mean for a motorcyclist?",
+    "explanation": "In the UAE, motorcycles are typically restricted to 80-100 km/h on highways. A speed limit sign showing 100 means the maximum speed for all vehicles including motorcycles is 100 km/h, though motorcyclists should always check for motorcycle-specific speed restrictions.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "road_signs",
+      "speed_limit"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-003-a",
+        "question_id": "moto-003",
+        "answer_text": "Maximum speed is 100 km/h for all vehicles including motorcycles",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-003-b",
+        "question_id": "moto-003",
+        "answer_text": "Motorcycles may exceed this limit by 20 km/h",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-003-c",
+        "question_id": "moto-003",
+        "answer_text": "This limit only applies to cars, not motorcycles",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-003-d",
+        "question_id": "moto-003",
+        "answer_text": "Motorcycles must travel at exactly 100 km/h",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-004",
+    "question_text": "What does a triangular warning sign with a motorcycle skidding on it indicate?",
+    "explanation": "A triangular warning sign showing a motorcycle skidding warns of a slippery road surface ahead. Motorcyclists should reduce speed and avoid sudden braking or sharp turns on slippery surfaces.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "road_signs",
+      "warning_signs",
+      "slippery_road"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-004-a",
+        "question_id": "moto-004",
+        "answer_text": "Slippery road ahead — reduce speed and avoid sudden manoeuvres",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-004-b",
+        "question_id": "moto-004",
+        "answer_text": "Motorcycle racing zone ahead",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-004-c",
+        "question_id": "moto-004",
+        "answer_text": "Motorcycle parking area ahead",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-004-d",
+        "question_id": "moto-004",
+        "answer_text": "Speed bumps ahead for motorcycles only",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-005",
+    "question_text": "What does a sign showing minimum speed '60' in a blue circle mean for a motorcyclist on a UAE highway?",
+    "explanation": "A minimum speed sign means all vehicles, including motorcycles, must maintain at least that speed. If a motorcyclist cannot safely maintain 60 km/h, they should not use that road.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "road_signs",
+      "minimum_speed"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-005-a",
+        "question_id": "moto-005",
+        "answer_text": "You must not travel below 60 km/h on this road",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-005-b",
+        "question_id": "moto-005",
+        "answer_text": "You must not exceed 60 km/h",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-005-c",
+        "question_id": "moto-005",
+        "answer_text": "The recommended speed is 60 km/h but not mandatory",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-005-d",
+        "question_id": "moto-005",
+        "answer_text": "Only motorcycles must maintain 60 km/h",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-006",
+    "question_text": "You see a brown information sign indicating 'No Shoulder' on a UAE road. As a motorcyclist, what should you do?",
+    "explanation": "A 'No Shoulder' sign means there is no hard shoulder or emergency stopping area. Motorcyclists should be extra cautious as there is no safe area to pull over in case of a breakdown or emergency.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "road_signs",
+      "information_signs"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-006-a",
+        "question_id": "moto-006",
+        "answer_text": "Be aware there is no safe area to stop — plan ahead for emergencies",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-006-b",
+        "question_id": "moto-006",
+        "answer_text": "Ride on the left side of the lane for safety",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-006-c",
+        "question_id": "moto-006",
+        "answer_text": "Increase speed to clear the zone quickly",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-006-d",
+        "question_id": "moto-006",
+        "answer_text": "This sign does not apply to motorcycles",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-007",
+    "question_text": "What does a flashing amber traffic light mean for a motorcyclist at an intersection in the UAE?",
+    "explanation": "A flashing amber light means proceed with caution. Motorcyclists should slow down and check for traffic from all directions before crossing the intersection. It does not mean stop or go at full speed.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "road_signs",
+      "traffic_lights"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-007-a",
+        "question_id": "moto-007",
+        "answer_text": "Slow down and proceed with caution",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-007-b",
+        "question_id": "moto-007",
+        "answer_text": "Stop completely and wait for green",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-007-c",
+        "question_id": "moto-007",
+        "answer_text": "Accelerate through the intersection quickly",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-007-d",
+        "question_id": "moto-007",
+        "answer_text": "The signal is out of order — treat as a green light",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-008",
+    "question_text": "What is the penalty for a motorcyclist not wearing a helmet in the UAE?",
+    "explanation": "Under UAE traffic law, riding a motorcycle without a helmet carries a fine of AED 500 and 4 black points. Helmets are mandatory for both rider and pillion passenger.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "helmet",
+      "fines"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-008-a",
+        "question_id": "moto-008",
+        "answer_text": "AED 500 fine and 4 black points",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-008-b",
+        "question_id": "moto-008",
+        "answer_text": "AED 200 fine and 2 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-008-c",
+        "question_id": "moto-008",
+        "answer_text": "AED 1,000 fine and 6 black points",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-008-d",
+        "question_id": "moto-008",
+        "answer_text": "Warning only for first offence",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-009",
+    "question_text": "Is lane splitting (riding between lanes of traffic) legal for motorcyclists in the UAE?",
+    "explanation": "Lane splitting is illegal in the UAE under Federal Traffic Law Article 84. Motorcyclists caught lane splitting face a fine of AED 600 and 4 black points. Motorcycles must stay within their designated lane.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "lane_splitting"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-009-a",
+        "question_id": "moto-009",
+        "answer_text": "No — it is illegal and carries a fine of AED 600 and 4 black points",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-009-b",
+        "question_id": "moto-009",
+        "answer_text": "Yes — motorcycles may filter between lanes at low speeds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-009-c",
+        "question_id": "moto-009",
+        "answer_text": "Only when traffic is stationary",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-009-d",
+        "question_id": "moto-009",
+        "answer_text": "Only on roads with a speed limit below 60 km/h",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-010",
+    "question_text": "On a 4-lane highway in the UAE, which lanes may a motorcyclist use?",
+    "explanation": "On a 4-lane road in the UAE, motorcycles are restricted to the 3rd and 4th lanes from the right. They may not use the fast lanes (1st and 2nd from the left).",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "lane_restrictions"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-010-a",
+        "question_id": "moto-010",
+        "answer_text": "The 3rd and 4th lanes from the right only",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-010-b",
+        "question_id": "moto-010",
+        "answer_text": "Any lane they choose",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-010-c",
+        "question_id": "moto-010",
+        "answer_text": "The rightmost lane only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-010-d",
+        "question_id": "moto-010",
+        "answer_text": "The leftmost fast lane for overtaking",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-011",
+    "question_text": "On a 2-lane road in the UAE, which lane must a motorcyclist use?",
+    "explanation": "On a 2-lane road in the UAE, motorcycles are restricted to the right lane only. They may only use the left lane briefly for overtaking when it is safe to do so.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "lane_restrictions"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-011-a",
+        "question_id": "moto-011",
+        "answer_text": "The right lane only",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-011-b",
+        "question_id": "moto-011",
+        "answer_text": "Either lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-011-c",
+        "question_id": "moto-011",
+        "answer_text": "The left lane only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-011-d",
+        "question_id": "moto-011",
+        "answer_text": "Whichever lane has less traffic",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-012",
+    "question_text": "What is the penalty for a motorcyclist overtaking from the right side in the UAE?",
+    "explanation": "Overtaking from the right is a serious offence in the UAE. It carries a fine of AED 600 and 6 black points. Motorcyclists must always overtake from the left side.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "overtaking",
+      "fines"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-012-a",
+        "question_id": "moto-012",
+        "answer_text": "AED 600 fine and 6 black points",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-012-b",
+        "question_id": "moto-012",
+        "answer_text": "AED 400 fine and 4 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-012-c",
+        "question_id": "moto-012",
+        "answer_text": "AED 200 fine only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-012-d",
+        "question_id": "moto-012",
+        "answer_text": "Verbal warning for first offence",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-013",
+    "question_text": "What is the penalty for a motorcyclist using the hard shoulder in the UAE?",
+    "explanation": "Using the hard shoulder (emergency lane) is a serious offence in the UAE. It carries a fine of AED 1,000 and 6 black points. The hard shoulder is reserved for emergencies only.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "hard_shoulder",
+      "fines"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-013-a",
+        "question_id": "moto-013",
+        "answer_text": "AED 1,000 fine and 6 black points",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-013-b",
+        "question_id": "moto-013",
+        "answer_text": "AED 500 fine and 4 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-013-c",
+        "question_id": "moto-013",
+        "answer_text": "AED 400 fine only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-013-d",
+        "question_id": "moto-013",
+        "answer_text": "Motorcycles are allowed to use the hard shoulder",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-014",
+    "question_text": "What is the penalty for running a red light on a motorcycle in the UAE?",
+    "explanation": "Running a red light in the UAE carries one of the harshest penalties: AED 1,000 fine, 12 black points, and vehicle seizure for 1 month. This applies equally to motorcyclists.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "red_light",
+      "fines"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-014-a",
+        "question_id": "moto-014",
+        "answer_text": "AED 1,000 fine, 12 black points, and 1 month vehicle seizure",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-014-b",
+        "question_id": "moto-014",
+        "answer_text": "AED 500 fine and 6 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-014-c",
+        "question_id": "moto-014",
+        "answer_text": "AED 1,000 fine only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-014-d",
+        "question_id": "moto-014",
+        "answer_text": "AED 2,000 fine and licence suspension",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-015",
+    "question_text": "On a 3-lane road in the UAE, which lanes may a motorcyclist use?",
+    "explanation": "On a 3-lane road in the UAE, motorcycles are restricted to the middle and right lanes. The left (fast) lane is not permitted for motorcycle use.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "lane_restrictions"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-015-a",
+        "question_id": "moto-015",
+        "answer_text": "The middle and right lanes only",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-015-b",
+        "question_id": "moto-015",
+        "answer_text": "Any lane including the fast lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-015-c",
+        "question_id": "moto-015",
+        "answer_text": "The right lane only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-015-d",
+        "question_id": "moto-015",
+        "answer_text": "The left and middle lanes only",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-016",
+    "question_text": "What is the minimum following distance a motorcyclist should maintain behind the vehicle ahead in the UAE?",
+    "explanation": "The three-second following distance rule applies to motorcyclists in the UAE. This gives adequate time to react and brake safely. In poor conditions, this distance should be increased.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "following_distance"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-016-a",
+        "question_id": "moto-016",
+        "answer_text": "At least 3 seconds",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-016-b",
+        "question_id": "moto-016",
+        "answer_text": "At least 1 second",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-016-c",
+        "question_id": "moto-016",
+        "answer_text": "At least 5 metres",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-016-d",
+        "question_id": "moto-016",
+        "answer_text": "No specific rule — use your judgement",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-017",
+    "question_text": "Is a pillion passenger on a motorcycle required to wear a helmet in the UAE?",
+    "explanation": "Yes, in the UAE both the rider and pillion passenger are required by law to wear an approved helmet. Failure to comply results in a fine for the rider.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "helmet",
+      "pillion"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-017-a",
+        "question_id": "moto-017",
+        "answer_text": "Yes — both rider and pillion passenger must wear an approved helmet",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-017-b",
+        "question_id": "moto-017",
+        "answer_text": "No — only the rider is required to wear a helmet",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-017-c",
+        "question_id": "moto-017",
+        "answer_text": "Only on highways",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-017-d",
+        "question_id": "moto-017",
+        "answer_text": "Only if the passenger is under 18",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-018",
+    "question_text": "What can happen if a motorcyclist is caught reckless speeding (exceeding the limit by more than 80 km/h) in the UAE?",
+    "explanation": "Reckless speeding (exceeding the limit by more than 80 km/h) in the UAE can result in fines up to AED 50,000, vehicle confiscation, and possible imprisonment. This is one of the most severe traffic penalties.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic_rules",
+      "speeding",
+      "fines"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-018-a",
+        "question_id": "moto-018",
+        "answer_text": "Fines up to AED 50,000 and vehicle confiscation",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-018-b",
+        "question_id": "moto-018",
+        "answer_text": "AED 3,000 fine and 12 black points",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-018-c",
+        "question_id": "moto-018",
+        "answer_text": "AED 1,000 fine only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-018-d",
+        "question_id": "moto-018",
+        "answer_text": "Licence suspension for 1 week",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-019",
+    "question_text": "As a motorcyclist, what is the greatest danger when riding alongside a large truck or bus?",
+    "explanation": "Large trucks and buses have significant blind spots on all sides, especially on the right side and directly behind. A motorcyclist can be completely invisible to the truck driver in these zones, making it extremely dangerous.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard_perception",
+      "blind_spots",
+      "trucks"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-019-a",
+        "question_id": "moto-019",
+        "answer_text": "Being in the driver's blind spot where you cannot be seen",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-019-b",
+        "question_id": "moto-019",
+        "answer_text": "The noise from the truck engine",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-019-c",
+        "question_id": "moto-019",
+        "answer_text": "Exhaust fumes from the truck",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-019-d",
+        "question_id": "moto-019",
+        "answer_text": "The truck blocking your view of road signs",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-020",
+    "question_text": "You are riding a motorcycle and notice sand or gravel on the road surface. What should you do?",
+    "explanation": "Sand and gravel are common hazards on UAE roads, especially near desert areas and construction zones. Motorcyclists should reduce speed gradually, avoid sudden braking or sharp turns, and ride upright to maintain maximum tyre contact with the road.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard_perception",
+      "sand",
+      "road_surface"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-020-a",
+        "question_id": "moto-020",
+        "answer_text": "Reduce speed gradually, avoid sharp turns and sudden braking",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-020-b",
+        "question_id": "moto-020",
+        "answer_text": "Brake hard immediately to stop before the sand",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-020-c",
+        "question_id": "moto-020",
+        "answer_text": "Accelerate quickly to ride through it",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-020-d",
+        "question_id": "moto-020",
+        "answer_text": "Lean the motorcycle sharply to avoid it",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-021",
+    "question_text": "What is the main hazard when approaching a roundabout on a motorcycle?",
+    "explanation": "At roundabouts, the main hazard for motorcyclists is vehicles changing lanes without checking mirrors or indicating. Motorcycles are less visible, so riders must anticipate that other drivers may not see them.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard_perception",
+      "roundabout"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-021-a",
+        "question_id": "moto-021",
+        "answer_text": "Vehicles changing lanes without noticing you",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-021-b",
+        "question_id": "moto-021",
+        "answer_text": "Having to lean the motorcycle while turning",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-021-c",
+        "question_id": "moto-021",
+        "answer_text": "Speed bumps on the roundabout",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-021-d",
+        "question_id": "moto-021",
+        "answer_text": "Traffic lights changing too quickly",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-022",
+    "question_text": "A car ahead suddenly opens its door while you are riding past parked vehicles. What is the safest preventive action?",
+    "explanation": "The 'door zone' is a well-known hazard for motorcyclists. The safest approach is to always maintain a safe distance from parked vehicles (at least one door's width) so that a suddenly opened door does not strike you.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard_perception",
+      "door_zone",
+      "parked_cars"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-022-a",
+        "question_id": "moto-022",
+        "answer_text": "Always keep at least one door's width of space from parked vehicles",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-022-b",
+        "question_id": "moto-022",
+        "answer_text": "Sound your horn continuously while passing parked cars",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-022-c",
+        "question_id": "moto-022",
+        "answer_text": "Ride as fast as possible past parked cars",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-022-d",
+        "question_id": "moto-022",
+        "answer_text": "Ride very close to parked cars to stay away from traffic",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-023",
+    "question_text": "You are riding behind a vehicle that suddenly brakes. What is the safest response?",
+    "explanation": "When a vehicle ahead brakes suddenly, apply both brakes progressively (not just the front or rear alone) and steer to a safe position. Using only the front brake can cause the front wheel to lock and flip, while using only the rear can cause a skid.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard_perception",
+      "emergency_braking"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-023-a",
+        "question_id": "moto-023",
+        "answer_text": "Apply both front and rear brakes progressively and steer to safety",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-023-b",
+        "question_id": "moto-023",
+        "answer_text": "Apply only the front brake as hard as possible",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-023-c",
+        "question_id": "moto-023",
+        "answer_text": "Apply only the rear brake to avoid flipping",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-023-d",
+        "question_id": "moto-023",
+        "answer_text": "Swerve immediately into the next lane without checking",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-024",
+    "question_text": "Why are intersections particularly dangerous for motorcyclists?",
+    "explanation": "Intersections are the most common location for motorcycle collisions. Other drivers frequently fail to see motorcycles due to their smaller profile, especially when making turns. Motorcyclists should approach intersections with extra caution.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard_perception",
+      "intersections"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-024-a",
+        "question_id": "moto-024",
+        "answer_text": "Other drivers often fail to see motorcycles when turning or crossing",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-024-b",
+        "question_id": "moto-024",
+        "answer_text": "Traffic lights change too fast for motorcycles to stop",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-024-c",
+        "question_id": "moto-024",
+        "answer_text": "Motorcycles cannot make turns at intersections safely",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-024-d",
+        "question_id": "moto-024",
+        "answer_text": "Speed bumps at intersections damage motorcycles",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-025",
+    "question_text": "You notice oil spillage on the road while riding. What is the greatest risk?",
+    "explanation": "Oil on the road dramatically reduces tyre grip, making it extremely easy for a motorcycle to skid. Motorcyclists should avoid riding over oil patches and reduce speed if they cannot avoid them. Oil is especially dangerous when cornering.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard_perception",
+      "oil_spillage",
+      "road_surface"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-025-a",
+        "question_id": "moto-025",
+        "answer_text": "Loss of tyre grip leading to a skid, especially when cornering",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-025-b",
+        "question_id": "moto-025",
+        "answer_text": "Damage to the motorcycle's paint",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-025-c",
+        "question_id": "moto-025",
+        "answer_text": "Reduced visibility due to oil spray",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-025-d",
+        "question_id": "moto-025",
+        "answer_text": "Engine overheating from oil fumes",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-026",
+    "question_text": "When riding at night, what should a motorcyclist do to improve their visibility to other road users?",
+    "explanation": "At night, motorcyclists are far less visible. Wearing reflective clothing, keeping headlights on, and using reflective strips on the motorcycle all help other drivers see you. A single headlight makes it hard for drivers to judge your distance and speed.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard_perception",
+      "night_riding",
+      "visibility"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-026-a",
+        "question_id": "moto-026",
+        "answer_text": "Wear reflective clothing and ensure all lights are working",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-026-b",
+        "question_id": "moto-026",
+        "answer_text": "Ride faster to spend less time on the road",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-026-c",
+        "question_id": "moto-026",
+        "answer_text": "Flash your headlight continuously",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-026-d",
+        "question_id": "moto-026",
+        "answer_text": "Ride in the centre of the lane to block other vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-027",
+    "question_text": "A pedestrian steps onto the road ahead without looking. What should you do first?",
+    "explanation": "When a pedestrian steps onto the road, the immediate priority is to reduce speed by braking progressively using both brakes. Swerving at speed is dangerous on a motorcycle and should be a last resort. Sound the horn only if time permits.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard_perception",
+      "pedestrians"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-027-a",
+        "question_id": "moto-027",
+        "answer_text": "Brake progressively using both brakes to reduce speed",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-027-b",
+        "question_id": "moto-027",
+        "answer_text": "Swerve sharply to avoid the pedestrian",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-027-c",
+        "question_id": "moto-027",
+        "answer_text": "Sound the horn and maintain speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-027-d",
+        "question_id": "moto-027",
+        "answer_text": "Accelerate to pass in front of the pedestrian",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-028",
+    "question_text": "How should a motorcyclist handle riding in extreme heat conditions common in the UAE?",
+    "explanation": "In the UAE's extreme heat (often above 45°C in summer), motorcyclists must stay hydrated, wear proper ventilated protective gear, and take regular breaks. Dehydration and heat exhaustion can severely impair concentration and reaction time.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_conditions",
+      "heat",
+      "UAE_specific"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-028-a",
+        "question_id": "moto-028",
+        "answer_text": "Stay hydrated, wear ventilated protective gear, and take regular breaks",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-028-b",
+        "question_id": "moto-028",
+        "answer_text": "Remove protective gear to stay cool",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-028-c",
+        "question_id": "moto-028",
+        "answer_text": "Ride faster so wind cools you down more",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-028-d",
+        "question_id": "moto-028",
+        "answer_text": "Heat does not affect riding ability",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-029",
+    "question_text": "What is the main risk of riding a motorcycle during a sandstorm in the UAE?",
+    "explanation": "Sandstorms dramatically reduce visibility to near zero and deposit sand on the road surface, making it extremely slippery. Motorcyclists should pull over to a safe location and wait for the sandstorm to pass rather than continue riding.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_conditions",
+      "sandstorm",
+      "UAE_specific"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-029-a",
+        "question_id": "moto-029",
+        "answer_text": "Severely reduced visibility and loss of road grip from sand",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-029-b",
+        "question_id": "moto-029",
+        "answer_text": "Damage to the motorcycle's bodywork",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-029-c",
+        "question_id": "moto-029",
+        "answer_text": "Getting a traffic fine for riding slowly",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-029-d",
+        "question_id": "moto-029",
+        "answer_text": "The engine may overheat from sand",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-030",
+    "question_text": "After rain on a UAE road, when is the road surface most dangerous for a motorcyclist?",
+    "explanation": "The road surface is most dangerous during the first few minutes of rain. Oil, dust, and rubber residue that have built up on the dry road mix with water to create an extremely slippery film. This is especially hazardous in the UAE where rain is infrequent.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_conditions",
+      "rain",
+      "road_surface"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-030-a",
+        "question_id": "moto-030",
+        "answer_text": "During the first few minutes when oil and dust mix with water",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-030-b",
+        "question_id": "moto-030",
+        "answer_text": "After heavy rain when there are large puddles",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-030-c",
+        "question_id": "moto-030",
+        "answer_text": "After the rain stops and the road begins to dry",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-030-d",
+        "question_id": "moto-030",
+        "answer_text": "Rain does not make roads dangerous in the UAE",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-031",
+    "question_text": "How does strong crosswind affect a motorcyclist on a UAE highway?",
+    "explanation": "Strong crosswinds can push a motorcycle sideways unexpectedly, especially on open desert highways. Motorcyclists should grip the handlebars firmly, lean slightly into the wind, reduce speed, and be prepared for sudden gusts when passing gaps between buildings or vehicles.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_conditions",
+      "crosswind",
+      "highway"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-031-a",
+        "question_id": "moto-031",
+        "answer_text": "It can push the motorcycle sideways — reduce speed and lean into the wind",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-031-b",
+        "question_id": "moto-031",
+        "answer_text": "It has no effect on motorcycles due to their small size",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-031-c",
+        "question_id": "moto-031",
+        "answer_text": "Increase speed so the wind has less time to affect you",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-031-d",
+        "question_id": "moto-031",
+        "answer_text": "Ride in the far left lane for protection from the wind",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-032",
+    "question_text": "What is the safest approach when riding a motorcycle through a construction zone in the UAE?",
+    "explanation": "Construction zones in the UAE often have loose gravel, sand, uneven surfaces, and narrow lanes. Motorcyclists should reduce speed, increase following distance, watch for sudden lane changes by other vehicles, and be alert for workers and machinery.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_conditions",
+      "construction_zone"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-032-a",
+        "question_id": "moto-032",
+        "answer_text": "Reduce speed, increase following distance, and watch for loose surfaces",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-032-b",
+        "question_id": "moto-032",
+        "answer_text": "Speed through quickly to minimize time in the zone",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-032-c",
+        "question_id": "moto-032",
+        "answer_text": "Ride on the hard shoulder to avoid construction",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-032-d",
+        "question_id": "moto-032",
+        "answer_text": "Follow the vehicle ahead very closely for protection",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-033",
+    "question_text": "How should a motorcyclist handle riding during fog in the UAE?",
+    "explanation": "Fog can occur in the UAE, particularly in winter mornings. Motorcyclists should use dipped headlights (not high beams which reflect off fog), reduce speed significantly, increase following distance, and consider stopping if visibility is too poor.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_conditions",
+      "fog",
+      "visibility"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-033-a",
+        "question_id": "moto-033",
+        "answer_text": "Use dipped headlights, reduce speed, and increase following distance",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-033-b",
+        "question_id": "moto-033",
+        "answer_text": "Use high beam headlights to see further ahead",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-033-c",
+        "question_id": "moto-033",
+        "answer_text": "Follow the tail lights of the vehicle ahead closely",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-033-d",
+        "question_id": "moto-033",
+        "answer_text": "Turn off headlights to reduce glare for other drivers",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-034",
+    "question_text": "What additional hazard do painted road markings (lane lines, arrows) pose for motorcyclists in wet conditions?",
+    "explanation": "Painted road markings become extremely slippery when wet, significantly reducing tyre grip for motorcycles. Motorcyclists should avoid riding directly on road markings in wet conditions, especially when turning or braking.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_conditions",
+      "wet_roads",
+      "road_markings"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-034-a",
+        "question_id": "moto-034",
+        "answer_text": "They become very slippery and reduce tyre grip significantly",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-034-b",
+        "question_id": "moto-034",
+        "answer_text": "They become harder to see but are not slippery",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-034-c",
+        "question_id": "moto-034",
+        "answer_text": "They provide better grip than the road surface when wet",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-034-d",
+        "question_id": "moto-034",
+        "answer_text": "They have no effect on motorcycle tyre grip",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-035",
+    "question_text": "Your motorcycle's front tyre blows out at speed. What should you do?",
+    "explanation": "In a front tyre blowout, grip the handlebars firmly to maintain control, do NOT apply the front brake, gradually ease off the throttle, and use the rear brake gently to slow down. Steer straight and pull over when safe.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "critical_situations",
+      "tyre_blowout"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-035-a",
+        "question_id": "moto-035",
+        "answer_text": "Grip handlebars firmly, ease off throttle, use rear brake gently, steer straight",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-035-b",
+        "question_id": "moto-035",
+        "answer_text": "Apply the front brake hard immediately",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-035-c",
+        "question_id": "moto-035",
+        "answer_text": "Accelerate to maintain stability then stop",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-035-d",
+        "question_id": "moto-035",
+        "answer_text": "Release the handlebars and lean back",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-036",
+    "question_text": "You are riding and the throttle gets stuck in the open position. What should you do first?",
+    "explanation": "If the throttle sticks open, immediately pull in the clutch lever to disconnect engine power from the rear wheel. Then apply brakes to slow down, switch off the engine if needed, and pull over safely.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "critical_situations",
+      "throttle_stuck"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-036-a",
+        "question_id": "moto-036",
+        "answer_text": "Pull in the clutch lever to disconnect engine power",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-036-b",
+        "question_id": "moto-036",
+        "answer_text": "Turn off the engine immediately using the kill switch",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-036-c",
+        "question_id": "moto-036",
+        "answer_text": "Apply both brakes hard without touching the clutch",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-036-d",
+        "question_id": "moto-036",
+        "answer_text": "Jump off the motorcycle",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-037",
+    "question_text": "Your motorcycle starts to wobble (tank slap) at high speed. What is the correct response?",
+    "explanation": "A speed wobble or tank slap occurs when the front wheel oscillates rapidly. The correct response is to grip the tank with your knees, keep a firm but relaxed grip on the handlebars (do not fight the wobble), gradually ease off the throttle, and avoid braking.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "critical_situations",
+      "speed_wobble"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-037-a",
+        "question_id": "moto-037",
+        "answer_text": "Grip the tank with your knees, hold handlebars firmly but relaxed, ease off throttle",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-037-b",
+        "question_id": "moto-037",
+        "answer_text": "Apply the front brake to stop the wobble",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-037-c",
+        "question_id": "moto-037",
+        "answer_text": "Accelerate hard to stabilise the motorcycle",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-037-d",
+        "question_id": "moto-037",
+        "answer_text": "Release the handlebars completely",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-038",
+    "question_text": "A vehicle suddenly pulls out of a side road into your path. What should you do?",
+    "explanation": "When a vehicle pulls into your path, the safest response is to brake firmly using both brakes, steer towards any available escape route if braking alone is not enough, and sound the horn to alert the driver. Always keep an escape route in mind while riding.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "critical_situations",
+      "collision_avoidance"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-038-a",
+        "question_id": "moto-038",
+        "answer_text": "Brake firmly with both brakes and steer towards an available escape route",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-038-b",
+        "question_id": "moto-038",
+        "answer_text": "Swerve sharply without braking",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-038-c",
+        "question_id": "moto-038",
+        "answer_text": "Sound the horn and maintain speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-038-d",
+        "question_id": "moto-038",
+        "answer_text": "Accelerate to pass in front of the vehicle",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-039",
+    "question_text": "You drop your motorcycle in the middle of a busy UAE road. What should you do first?",
+    "explanation": "Safety of yourself and others comes first. Move to the side of the road immediately to avoid being hit by traffic. Once you are safe, try to move the motorcycle off the road if possible, and use hazard warning signals or call for assistance.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "critical_situations",
+      "dropped_motorcycle"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-039-a",
+        "question_id": "moto-039",
+        "answer_text": "Move yourself to the side of the road away from traffic first",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-039-b",
+        "question_id": "moto-039",
+        "answer_text": "Stay with the motorcycle and try to lift it immediately",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-039-c",
+        "question_id": "moto-039",
+        "answer_text": "Stand in the road to warn other traffic",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-039-d",
+        "question_id": "moto-039",
+        "answer_text": "Call the police before moving",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-040",
+    "question_text": "Your chain breaks while riding at speed. What should you do?",
+    "explanation": "A broken chain means you lose drive to the rear wheel. Pull in the clutch immediately, apply the front brake gently, and coast to a safe stop on the side of the road. A flailing chain can also damage the engine casing or lock the rear wheel.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "critical_situations",
+      "chain_break"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-040-a",
+        "question_id": "moto-040",
+        "answer_text": "Pull in the clutch, apply front brake gently, and coast to a safe stop",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-040-b",
+        "question_id": "moto-040",
+        "answer_text": "Apply the rear brake hard to stop quickly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-040-c",
+        "question_id": "moto-040",
+        "answer_text": "Try to shift into a lower gear",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-040-d",
+        "question_id": "moto-040",
+        "answer_text": "Accelerate to maintain momentum",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-041",
+    "question_text": "Why should a motorcyclist in the UAE always ride with the headlight on, even during the day?",
+    "explanation": "Riding with the headlight on during the day makes the motorcycle more visible to other road users. Motorcycles are smaller than cars and can be easily overlooked. In the UAE, this is especially important on wide multi-lane highways.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_behavior",
+      "visibility",
+      "headlight"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-041-a",
+        "question_id": "moto-041",
+        "answer_text": "It significantly increases the motorcycle's visibility to other drivers",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-041-b",
+        "question_id": "moto-041",
+        "answer_text": "It is required only at night, not during the day",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-041-c",
+        "question_id": "moto-041",
+        "answer_text": "It helps the rider see the road surface better",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-041-d",
+        "question_id": "moto-041",
+        "answer_text": "It prevents the battery from overcharging",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-042",
+    "question_text": "What is the safest lane position for a motorcyclist when riding on a multi-lane road?",
+    "explanation": "The safest lane position depends on conditions, but generally riding in the left portion of your lane (within allowed lanes) gives you the best visibility to traffic ahead and makes you more visible in mirrors of vehicles ahead. Avoid riding in the centre where oil and debris accumulate.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_behavior",
+      "lane_position"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-042-a",
+        "question_id": "moto-042",
+        "answer_text": "The left portion of the lane for best visibility, avoiding the oil strip in the centre",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-042-b",
+        "question_id": "moto-042",
+        "answer_text": "The exact centre of the lane at all times",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-042-c",
+        "question_id": "moto-042",
+        "answer_text": "The far right edge of the lane",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-042-d",
+        "question_id": "moto-042",
+        "answer_text": "Constantly weaving between left and right portions",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-043",
+    "question_text": "Why is it important for a motorcyclist to wear a high-visibility safety vest (yellow, orange, or red) in the UAE?",
+    "explanation": "A high-visibility safety vest is required in the UAE for motorcyclists. It makes the rider much more visible to other road users, especially on busy multi-lane highways and during dawn/dusk when visibility is reduced.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_behavior",
+      "safety_vest",
+      "visibility"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-043-a",
+        "question_id": "moto-043",
+        "answer_text": "It is required by law and greatly improves the rider's visibility to other drivers",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-043-b",
+        "question_id": "moto-043",
+        "answer_text": "It protects against sunburn in the UAE heat",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-043-c",
+        "question_id": "moto-043",
+        "answer_text": "It is optional and only recommended for night riding",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-043-d",
+        "question_id": "moto-043",
+        "answer_text": "It provides protection in case of a crash",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-044",
+    "question_text": "Before making a lane change on a motorcycle, what is the correct procedure?",
+    "explanation": "The correct lane change procedure for a motorcyclist is: mirror check, signal, head check (lifesaver glance over the shoulder to check blind spot), then move when safe. The head check is critical because motorcycles have larger blind spots than cars.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_behavior",
+      "lane_change",
+      "mirrors"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-044-a",
+        "question_id": "moto-044",
+        "answer_text": "Mirror check, signal, head check (lifesaver glance), then move when safe",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-044-b",
+        "question_id": "moto-044",
+        "answer_text": "Signal and move immediately",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-044-c",
+        "question_id": "moto-044",
+        "answer_text": "Check mirrors only, then signal and move",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-044-d",
+        "question_id": "moto-044",
+        "answer_text": "Speed up first, then change lanes quickly",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-045",
+    "question_text": "What protective gear should a motorcyclist always wear when riding in the UAE?",
+    "explanation": "In the UAE, motorcyclists must wear a proper helmet, safety vest, gloves, closed proper shoes (not sandals), and protective clothing. This gear is essential for safety and is required by UAE traffic regulations.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving_behavior",
+      "protective_gear"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-045-a",
+        "question_id": "moto-045",
+        "answer_text": "Helmet, safety vest, gloves, proper closed shoes, and protective clothing",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-045-b",
+        "question_id": "moto-045",
+        "answer_text": "Helmet only — other gear is optional",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-045-c",
+        "question_id": "moto-045",
+        "answer_text": "Helmet and gloves only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-045-d",
+        "question_id": "moto-045",
+        "answer_text": "No specific gear is required by law",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-046",
+    "question_text": "How often should a motorcyclist check their tyre pressure in the UAE?",
+    "explanation": "In the UAE's extreme heat, tyre pressure fluctuates more than in temperate climates. Motorcyclists should check tyre pressure at least weekly and always before long journeys. Under-inflated or over-inflated tyres affect handling and can lead to blowouts.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "vehicle_maintenance",
+      "tyres",
+      "pressure"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-046-a",
+        "question_id": "moto-046",
+        "answer_text": "At least weekly and before any long journey",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-046-b",
+        "question_id": "moto-046",
+        "answer_text": "Once a month is sufficient",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-046-c",
+        "question_id": "moto-046",
+        "answer_text": "Only when the tyres look flat",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-046-d",
+        "question_id": "moto-046",
+        "answer_text": "Only during the annual service",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-047",
+    "question_text": "Why is it important that the front and rear brakes on a motorcycle function independently?",
+    "explanation": "Front and rear brakes on a motorcycle serve different functions. The front brake provides about 70% of stopping power, while the rear provides stability. If one fails, the other must still work to bring the motorcycle to a stop. UAE law requires both to be functional.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "vehicle_maintenance",
+      "brakes"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-047-a",
+        "question_id": "moto-047",
+        "answer_text": "So that if one system fails, the other can still stop the motorcycle",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-047-b",
+        "question_id": "moto-047",
+        "answer_text": "So the rider can choose which brake to use based on preference",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-047-c",
+        "question_id": "moto-047",
+        "answer_text": "Independent brakes are only needed for racing motorcycles",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-047-d",
+        "question_id": "moto-047",
+        "answer_text": "It reduces wear on the brake pads",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-048",
+    "question_text": "What should you check on your motorcycle's lights before every ride?",
+    "explanation": "Before every ride, check that the headlight (high and low beam), tail light, brake light, and indicators are all working. In the UAE, front and rear lights must work at all times. Faulty lights reduce your visibility and are a traffic offence.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "vehicle_maintenance",
+      "lights"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-048-a",
+        "question_id": "moto-048",
+        "answer_text": "Headlight (high/low beam), tail light, brake light, and indicators all work",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-048-b",
+        "question_id": "moto-048",
+        "answer_text": "Only the headlight needs checking",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-048-c",
+        "question_id": "moto-048",
+        "answer_text": "Lights only need checking at night",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-048-d",
+        "question_id": "moto-048",
+        "answer_text": "Lights are checked during annual service only",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-049",
+    "question_text": "Why is chain maintenance especially important for motorcycles ridden in the UAE?",
+    "explanation": "The UAE's desert environment means fine sand and dust can quickly accumulate on the chain, causing accelerated wear. Combined with high temperatures that break down lubricants faster, regular chain cleaning and lubrication is essential to prevent chain failure.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "vehicle_maintenance",
+      "chain",
+      "UAE_specific"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-049-a",
+        "question_id": "moto-049",
+        "answer_text": "Sand and dust accelerate chain wear, and heat breaks down lubricants faster",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-049-b",
+        "question_id": "moto-049",
+        "answer_text": "Chain maintenance is the same in any climate",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-049-c",
+        "question_id": "moto-049",
+        "answer_text": "The heat keeps the chain well-lubricated naturally",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-049-d",
+        "question_id": "moto-049",
+        "answer_text": "Sand on the chain improves grip",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-050",
+    "question_text": "What documents must a motorcyclist carry when riding in the UAE?",
+    "explanation": "In the UAE, a motorcyclist must carry a valid motorcycle driving licence, vehicle registration card (mulkiya), and valid vehicle insurance. The motorcycle must be properly registered and licensed. Failure to produce these documents when requested is a traffic offence.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "vehicle_maintenance",
+      "documents",
+      "registration"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "moto-050-a",
+        "question_id": "moto-050",
+        "answer_text": "Valid driving licence, vehicle registration card (mulkiya), and insurance",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-050-b",
+        "question_id": "moto-050",
+        "answer_text": "Driving licence only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-050-c",
+        "question_id": "moto-050",
+        "answer_text": "No documents are needed — police can check electronically",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-050-d",
+        "question_id": "moto-050",
+        "answer_text": "Passport and visa only",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-051",
+    "question_text": "Where do most collisions between bikes and other vehicles occur?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of hazard perception for motorcycle drivers in the UAE.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard-perception",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-051-a",
+        "question_id": "moto-051",
+        "answer_text": "Freeways",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-051-b",
+        "question_id": "moto-051",
+        "answer_text": "Intersections",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-051-c",
+        "question_id": "moto-051",
+        "answer_text": "Local roads",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-051-d",
+        "question_id": "moto-051",
+        "answer_text": "Car parks",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-052",
+    "question_text": "Which of these can negatively affect your riding?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-052-a",
+        "question_id": "moto-052",
+        "answer_text": "Illegal drugs",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-052-b",
+        "question_id": "moto-052",
+        "answer_text": "Over-the-counter drugs",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-052-c",
+        "question_id": "moto-052",
+        "answer_text": "Prescription drugs",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-052-d",
+        "question_id": "moto-052",
+        "answer_text": "All of them",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-053",
+    "question_text": "When you pull out from the curb, you should position your bike so that you can see?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-053-a",
+        "question_id": "moto-053",
+        "answer_text": "Approaching traffic",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-053-b",
+        "question_id": "moto-053",
+        "answer_text": "Oncoming traffic",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-053-c",
+        "question_id": "moto-053",
+        "answer_text": "Where you want to go",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-053-d",
+        "question_id": "moto-053",
+        "answer_text": "Traffic in both directions",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-054",
+    "question_text": "If you develop a condition like diabetes or epilepsy after getting a license, you must?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-054-a",
+        "question_id": "moto-054",
+        "answer_text": "Stop riding immediately",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-054-b",
+        "question_id": "moto-054",
+        "answer_text": "Inform your physician",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-054-c",
+        "question_id": "moto-054",
+        "answer_text": "Take extra care",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-054-d",
+        "question_id": "moto-054",
+        "answer_text": "Inform the RTA",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-055",
+    "question_text": "Which of these colors are best for being seen on the road?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-055-a",
+        "question_id": "moto-055",
+        "answer_text": "Red, orange and yellow",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-055-b",
+        "question_id": "moto-055",
+        "answer_text": "Indigo, violet and mauve",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-055-c",
+        "question_id": "moto-055",
+        "answer_text": "Brown, grey and black",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-055-d",
+        "question_id": "moto-055",
+        "answer_text": "Blue, green and purple",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-056",
+    "question_text": "When preparing for a turn, you should?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-056-a",
+        "question_id": "moto-056",
+        "answer_text": "Any of these depending on circumstances",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-056-b",
+        "question_id": "moto-056",
+        "answer_text": "Brake at the last minute",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-056-c",
+        "question_id": "moto-056",
+        "answer_text": "Slow down well in advance",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-056-d",
+        "question_id": "moto-056",
+        "answer_text": "Try not to slow down at all",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-057",
+    "question_text": "You want the driver of the vehicle in front to be able to see you in?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of hazard perception for motorcycle drivers in the UAE.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard-perception",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-057-a",
+        "question_id": "moto-057",
+        "answer_text": "Their rearview mirror and right hand mirror",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-057-b",
+        "question_id": "moto-057",
+        "answer_text": "Their rearview mirror only",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-057-c",
+        "question_id": "moto-057",
+        "answer_text": "Their rearview mirror and left-hand mirror",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-057-d",
+        "question_id": "moto-057",
+        "answer_text": "Their left-hand mirror only",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-058",
+    "question_text": "If you are making a U-turn, you must be able to see?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-058-a",
+        "question_id": "moto-058",
+        "answer_text": "Approaching traffic",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-058-b",
+        "question_id": "moto-058",
+        "answer_text": "Traffic from both directions",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-058-c",
+        "question_id": "moto-058",
+        "answer_text": "Oncoming traffic",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-058-d",
+        "question_id": "moto-058",
+        "answer_text": "The other side of the road",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-059",
+    "question_text": "Which of these is most noticeable for other drivers at night?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of hazard perception for motorcycle drivers in the UAE.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard-perception",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-059-a",
+        "question_id": "moto-059",
+        "answer_text": "Reflective tape on your number plate",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-059-b",
+        "question_id": "moto-059",
+        "answer_text": "The tail light",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-059-c",
+        "question_id": "moto-059",
+        "answer_text": "A reflective vest",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-059-d",
+        "question_id": "moto-059",
+        "answer_text": "A brightly colored vest",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-060",
+    "question_text": "When riding in the daytime, you should have your headlight?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-060-a",
+        "question_id": "moto-060",
+        "answer_text": "Off",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-060-b",
+        "question_id": "moto-060",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-060-c",
+        "question_id": "moto-060",
+        "answer_text": "Full beam",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-060-d",
+        "question_id": "moto-060",
+        "answer_text": "Dipped",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-061",
+    "question_text": "When riding, you should monitor the road by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-061-a",
+        "question_id": "moto-061",
+        "answer_text": "Looking over and through vehicles in front",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-061-b",
+        "question_id": "moto-061",
+        "answer_text": "Any of these",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-061-c",
+        "question_id": "moto-061",
+        "answer_text": "Looking under vehicles in front",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-061-d",
+        "question_id": "moto-061",
+        "answer_text": "Looking round vehicles in front",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-062",
+    "question_text": "Drinking alcohol when riding affects?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for motorcycle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-062-a",
+        "question_id": "moto-062",
+        "answer_text": "All of these",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-062-b",
+        "question_id": "moto-062",
+        "answer_text": "Balance",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-062-c",
+        "question_id": "moto-062",
+        "answer_text": "Judgment",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-062-d",
+        "question_id": "moto-062",
+        "answer_text": "Concentration",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-063",
+    "question_text": "You should use your horn to?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-063-a",
+        "question_id": "moto-063",
+        "answer_text": "Express your anger",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-063-b",
+        "question_id": "moto-063",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-063-c",
+        "question_id": "moto-063",
+        "answer_text": "Intimidate people",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-063-d",
+        "question_id": "moto-063",
+        "answer_text": "Let people know you are there",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-064",
+    "question_text": "Why do you need a gap between you and the vehicle in front?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-064-a",
+        "question_id": "moto-064",
+        "answer_text": "For better hazard avoidance",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-064-b",
+        "question_id": "moto-064",
+        "answer_text": "For better emergency stops",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-064-c",
+        "question_id": "moto-064",
+        "answer_text": "For all these reasons",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-064-d",
+        "question_id": "moto-064",
+        "answer_text": "For better visibility",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-065",
+    "question_text": "How much space should you leave between you and the vehicle in front when riding?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-065-a",
+        "question_id": "moto-065",
+        "answer_text": "2 seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-065-b",
+        "question_id": "moto-065",
+        "answer_text": "1 second",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-065-c",
+        "question_id": "moto-065",
+        "answer_text": "3 seconds",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-065-d",
+        "question_id": "moto-065",
+        "answer_text": "4 seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-066",
+    "question_text": "In the first few months after starting to ride, you are how much more likely to be involved in a crash?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of critical situations for motorcycle drivers in the UAE.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "critical-situations",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-066-a",
+        "question_id": "moto-066",
+        "answer_text": "0x",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-066-b",
+        "question_id": "moto-066",
+        "answer_text": "1.5x",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-066-c",
+        "question_id": "moto-066",
+        "answer_text": "3x",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-066-d",
+        "question_id": "moto-066",
+        "answer_text": "2x",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-067",
+    "question_text": "When riding in traffic, you should ride?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-067-a",
+        "question_id": "moto-067",
+        "answer_text": "Timidly",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-067-b",
+        "question_id": "moto-067",
+        "answer_text": "Negatively",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-067-c",
+        "question_id": "moto-067",
+        "answer_text": "Co-operatively",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-067-d",
+        "question_id": "moto-067",
+        "answer_text": "Aggressively",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-068",
+    "question_text": "As you ride, you should be looking at?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-068-a",
+        "question_id": "moto-068",
+        "answer_text": "To each side",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-068-b",
+        "question_id": "moto-068",
+        "answer_text": "The furthest horizon",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-068-c",
+        "question_id": "moto-068",
+        "answer_text": "A few meters in front of you",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-068-d",
+        "question_id": "moto-068",
+        "answer_text": "Where you want to go",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-069",
+    "question_text": "You can help avoid dehydration when riding by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for motorcycle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-069-a",
+        "question_id": "moto-069",
+        "answer_text": "Wearing protective clothing",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-069-b",
+        "question_id": "moto-069",
+        "answer_text": "Keeping your arms and legs bare",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-069-c",
+        "question_id": "moto-069",
+        "answer_text": "Wearing loose clothing",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-069-d",
+        "question_id": "moto-069",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-070",
+    "question_text": "In general riding, you should position yourself?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-070-a",
+        "question_id": "moto-070",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-070-b",
+        "question_id": "moto-070",
+        "answer_text": "In the left-hand third of the lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-070-c",
+        "question_id": "moto-070",
+        "answer_text": "In the central third of the lane",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-070-d",
+        "question_id": "moto-070",
+        "answer_text": "In the right hand side of the lane",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-071",
+    "question_text": "You should use your indicators?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of road signs for motorcycle drivers in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "road-signs",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-071-a",
+        "question_id": "moto-071",
+        "answer_text": "If there is other traffic close to you",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-071-b",
+        "question_id": "moto-071",
+        "answer_text": "Whenever you turn or change lanes",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-071-c",
+        "question_id": "moto-071",
+        "answer_text": "If there is other traffic in the vicinity",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-071-d",
+        "question_id": "moto-071",
+        "answer_text": "When riding at night",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-072",
+    "question_text": "If you're feeling unwell before riding, you should?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for motorcycle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-072-a",
+        "question_id": "moto-072",
+        "answer_text": "Go as fast as possible",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-072-b",
+        "question_id": "moto-072",
+        "answer_text": "Only ride on quiet roads",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-072-c",
+        "question_id": "moto-072",
+        "answer_text": "Go slower than normal",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-072-d",
+        "question_id": "moto-072",
+        "answer_text": "Postpone your trip",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-073",
+    "question_text": "You can be sure a road user has seen you?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of hazard perception for motorcycle drivers in the UAE.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard-perception",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-073-a",
+        "question_id": "moto-073",
+        "answer_text": "Under no circumstances",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-073-b",
+        "question_id": "moto-073",
+        "answer_text": "If you are wearing hi viz clothing",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-073-c",
+        "question_id": "moto-073",
+        "answer_text": "If you have your full beam headlights on",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-073-d",
+        "question_id": "moto-073",
+        "answer_text": "If you make eye contact",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-074",
+    "question_text": "As you lean your bike into a corner, your eyeline should be?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-074-a",
+        "question_id": "moto-074",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-074-b",
+        "question_id": "moto-074",
+        "answer_text": "Leaning with the bike",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-074-c",
+        "question_id": "moto-074",
+        "answer_text": "Level with the horizon",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-074-d",
+        "question_id": "moto-074",
+        "answer_text": "Leaning against the bike",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-075",
+    "question_text": "You have right of way to an intersection, you should assume?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-075-a",
+        "question_id": "moto-075",
+        "answer_text": "You will be safe as long as you obey the rules",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-075-b",
+        "question_id": "moto-075",
+        "answer_text": "Everyone will give way to you",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-075-c",
+        "question_id": "moto-075",
+        "answer_text": "Most people will see you",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-075-d",
+        "question_id": "moto-075",
+        "answer_text": "Nothing will give way to you",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-076",
+    "question_text": "You can eliminate the blindspot in your mirrors by doing what?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of hazard perception for motorcycle drivers in the UAE.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "hazard-perception",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-076-a",
+        "question_id": "moto-076",
+        "answer_text": "Moving your head up and down",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-076-b",
+        "question_id": "moto-076",
+        "answer_text": "Angling the mirror by hand",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-076-c",
+        "question_id": "moto-076",
+        "answer_text": "Looking over your shoulder",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-076-d",
+        "question_id": "moto-076",
+        "answer_text": "Listening out for vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-077",
+    "question_text": "When riding at night, you should ride at?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for motorcycle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-077-a",
+        "question_id": "moto-077",
+        "answer_text": "Increased speed",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-077-b",
+        "question_id": "moto-077",
+        "answer_text": "Your normal speed",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-077-c",
+        "question_id": "moto-077",
+        "answer_text": "Reduced speed",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-077-d",
+        "question_id": "moto-077",
+        "answer_text": "Any of these depending on circumstances",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-078",
+    "question_text": "You are riding on a three lane carriageway and a vehicle comes up alongside you. What should you do?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-078-a",
+        "question_id": "moto-078",
+        "answer_text": "Move towards them",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-078-b",
+        "question_id": "moto-078",
+        "answer_text": "Ignore them",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-078-c",
+        "question_id": "moto-078",
+        "answer_text": "Move ahead or drop back",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-078-d",
+        "question_id": "moto-078",
+        "answer_text": "Gesture at them to move on",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-079",
+    "question_text": "When planning a journey, if the roads are busy you should?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-079-a",
+        "question_id": "moto-079",
+        "answer_text": "Get through it as fast as possible",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-079-b",
+        "question_id": "moto-079",
+        "answer_text": "Wear extra protective equipment",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-079-c",
+        "question_id": "moto-079",
+        "answer_text": "Consider travelling at another time",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-079-d",
+        "question_id": "moto-079",
+        "answer_text": "Make sure you ride aggressively",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-080",
+    "question_text": "Why might you want to move around your lane when riding?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-080-a",
+        "question_id": "moto-080",
+        "answer_text": "To intimidate other road users",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-080-b",
+        "question_id": "moto-080",
+        "answer_text": "To increase your safety zone",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-080-c",
+        "question_id": "moto-080",
+        "answer_text": "To block other vehicles",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-080-d",
+        "question_id": "moto-080",
+        "answer_text": "To keep from getting bored",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-081",
+    "question_text": "Carrying passengers will?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-081-a",
+        "question_id": "moto-081",
+        "answer_text": "Do all of these",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-081-b",
+        "question_id": "moto-081",
+        "answer_text": "Make braking harder",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-081-c",
+        "question_id": "moto-081",
+        "answer_text": "Reduce acceleration",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-081-d",
+        "question_id": "moto-081",
+        "answer_text": "Reduce cornering clearance",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-082",
+    "question_text": "When you encounter bumpy surfaces, you should?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for motorcycle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-082-a",
+        "question_id": "moto-082",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-082-b",
+        "question_id": "moto-082",
+        "answer_text": "Maintain your speed",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-082-c",
+        "question_id": "moto-082",
+        "answer_text": "Accelerate",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-082-d",
+        "question_id": "moto-082",
+        "answer_text": "Slow down",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-083",
+    "question_text": "If you hit a slippery patch on the road, you should?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for motorcycle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-083-a",
+        "question_id": "moto-083",
+        "answer_text": "Change gear",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-083-b",
+        "question_id": "moto-083",
+        "answer_text": "Brake hard",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-083-c",
+        "question_id": "moto-083",
+        "answer_text": "Ride as upright as possible",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-083-d",
+        "question_id": "moto-083",
+        "answer_text": "Accelerate",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-084",
+    "question_text": "If you have to brake on a slippery patch, you should?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for motorcycle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-084-a",
+        "question_id": "moto-084",
+        "answer_text": "Use front brake only",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-084-b",
+        "question_id": "moto-084",
+        "answer_text": "Use both brakes evenly",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-084-c",
+        "question_id": "moto-084",
+        "answer_text": "Use rear brake only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-084-d",
+        "question_id": "moto-084",
+        "answer_text": "Use both brakes alternately",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-085",
+    "question_text": "Why should you ride in the center of the lane in traffic?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-085-a",
+        "question_id": "moto-085",
+        "answer_text": "To block other cars",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-085-b",
+        "question_id": "moto-085",
+        "answer_text": "To achieve the greatest speed",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-085-c",
+        "question_id": "moto-085",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-085-d",
+        "question_id": "moto-085",
+        "answer_text": "To get the biggest safety zone",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-086",
+    "question_text": "On bumpy surfaces, you can improve your control by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for motorcycle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-086-a",
+        "question_id": "moto-086",
+        "answer_text": "Leaning backwards",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-086-b",
+        "question_id": "moto-086",
+        "answer_text": "Standing up on the footpegs",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-086-c",
+        "question_id": "moto-086",
+        "answer_text": "Leaning heavily on the handlebars",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-086-d",
+        "question_id": "moto-086",
+        "answer_text": "Putting your feet down",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-087",
+    "question_text": "The last thing you should do before changing lanes is?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-087-a",
+        "question_id": "moto-087",
+        "answer_text": "Check your mirrors",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-087-b",
+        "question_id": "moto-087",
+        "answer_text": "Sound your horn",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-087-c",
+        "question_id": "moto-087",
+        "answer_text": "A head check",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-087-d",
+        "question_id": "moto-087",
+        "answer_text": "Indicate",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-088",
+    "question_text": "In which of these circumstances should you increase your following distance?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-088-a",
+        "question_id": "moto-088",
+        "answer_text": "Poor visibility",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-088-b",
+        "question_id": "moto-088",
+        "answer_text": "Riding behind large vehicles",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-088-c",
+        "question_id": "moto-088",
+        "answer_text": "All of them",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-088-d",
+        "question_id": "moto-088",
+        "answer_text": "Slippery surfaces",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-089",
+    "question_text": "A vehicle behind is riding too close to your back wheel. What should you do?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for motorcycle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-089-a",
+        "question_id": "moto-089",
+        "answer_text": "Brake test them",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-089-b",
+        "question_id": "moto-089",
+        "answer_text": "Close up to the vehicle in front",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-089-c",
+        "question_id": "moto-089",
+        "answer_text": "Slow down and let them overtake",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-089-d",
+        "question_id": "moto-089",
+        "answer_text": "Gesture to them to back off",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-090",
+    "question_text": "If an oncoming vehicle is dazzling you with its high beam, you should?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for motorcycle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-090-a",
+        "question_id": "moto-090",
+        "answer_text": "Close your eyes tight",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-090-b",
+        "question_id": "moto-090",
+        "answer_text": "Turn on your high beam in revenge",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-090-c",
+        "question_id": "moto-090",
+        "answer_text": "Sound your horn",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-090-d",
+        "question_id": "moto-090",
+        "answer_text": "Look to the side of the road",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-091",
+    "question_text": "Which of these should be avoided at night?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for motorcycle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-091-a",
+        "question_id": "moto-091",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-091-b",
+        "question_id": "moto-091",
+        "answer_text": "Wearing tinted visors",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-091-c",
+        "question_id": "moto-091",
+        "answer_text": "Riding more slowly",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-091-d",
+        "question_id": "moto-091",
+        "answer_text": "Wearing bright clothing",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-092",
+    "question_text": "You are riding down a line of parked cars, where should you position yourself?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-092-a",
+        "question_id": "moto-092",
+        "answer_text": "In the center of the lane",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-092-b",
+        "question_id": "moto-092",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-092-c",
+        "question_id": "moto-092",
+        "answer_text": "In the right of the lane",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-092-d",
+        "question_id": "moto-092",
+        "answer_text": "In the left of the lane",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-093",
+    "question_text": "Pillion passengers should be told to?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-093-a",
+        "question_id": "moto-093",
+        "answer_text": "Lean over further than you",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-093-b",
+        "question_id": "moto-093",
+        "answer_text": "Lean opposite to you",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-093-c",
+        "question_id": "moto-093",
+        "answer_text": "Lean at the same angle as you",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-093-d",
+        "question_id": "moto-093",
+        "answer_text": "Stay as upright as possible",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-094",
+    "question_text": "On high-speed roads you should?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-094-a",
+        "question_id": "moto-094",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-094-b",
+        "question_id": "moto-094",
+        "answer_text": "Maintain your normal following distance",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-094-c",
+        "question_id": "moto-094",
+        "answer_text": "Increase your following distance",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-094-d",
+        "question_id": "moto-094",
+        "answer_text": "Decrease your following distance",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-095",
+    "question_text": "Where on the road are you most likely to encounter oil and grease from cars?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for motorcycle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-095-a",
+        "question_id": "moto-095",
+        "answer_text": "In the gutter",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-095-b",
+        "question_id": "moto-095",
+        "answer_text": "On the left of the lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-095-c",
+        "question_id": "moto-095",
+        "answer_text": "In the middle of the lane",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-095-d",
+        "question_id": "moto-095",
+        "answer_text": "On the right of the lane",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-096",
+    "question_text": "When riding, you should be aware of the space?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-096-a",
+        "question_id": "moto-096",
+        "answer_text": "180° to your front",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-096-b",
+        "question_id": "moto-096",
+        "answer_text": "180° to your left",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-096-c",
+        "question_id": "moto-096",
+        "answer_text": "360° around you",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "moto-096-d",
+        "question_id": "moto-096",
+        "answer_text": "180° to your right",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-097",
+    "question_text": "A 'head check' should never take longer than?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for motorcycle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-097-a",
+        "question_id": "moto-097",
+        "answer_text": "Half a second",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-097-b",
+        "question_id": "moto-097",
+        "answer_text": "1 second",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-097-c",
+        "question_id": "moto-097",
+        "answer_text": "2 seconds",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-097-d",
+        "question_id": "moto-097",
+        "answer_text": "3 seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-098",
+    "question_text": "You must always have your lights on?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-098-a",
+        "question_id": "moto-098",
+        "answer_text": "Between sunset and sunrise",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-098-b",
+        "question_id": "moto-098",
+        "answer_text": "At all these times",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-098-c",
+        "question_id": "moto-098",
+        "answer_text": "When street lights are turned on",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-098-d",
+        "question_id": "moto-098",
+        "answer_text": "In poor visibility",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-099",
+    "question_text": "You are riding on the highway and a slip road is joining from your right. What should you do?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-099-a",
+        "question_id": "moto-099",
+        "answer_text": "Move out to the left",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "moto-099-b",
+        "question_id": "moto-099",
+        "answer_text": "Start flashing headlights",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "moto-099-c",
+        "question_id": "moto-099",
+        "answer_text": "Lean on your horn",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-099-d",
+        "question_id": "moto-099",
+        "answer_text": "Speed up",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "moto-100",
+    "question_text": "You can use the taillights of the vehicle ahead to assess?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for motorcycle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "A"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "motorcycle",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "moto-100-a",
+        "question_id": "moto-100",
+        "answer_text": "Whether to overtake",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "moto-100-b",
+        "question_id": "moto-100",
+        "answer_text": "The road surface",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "moto-100-c",
+        "question_id": "moto-100",
+        "answer_text": "The speed you can go",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "moto-100-d",
+        "question_id": "moto-100",
+        "answer_text": "The weather conditions",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  }
+]

@@ -17,6 +17,10 @@ import supplementary5Data from '@/data/questions/supplementary-5.json'
 import supplementary6Data from '@/data/questions/supplementary-6.json'
 import supplementary7Data from '@/data/questions/supplementary-7.json'
 import supplementary8Data from '@/data/questions/supplementary-8.json'
+import motorcycleData from '@/data/questions/motorcycle-specific.json'
+import heavyTruckData from '@/data/questions/heavy-truck-specific.json'
+import lightBusData from '@/data/questions/light-bus-specific.json'
+import heavyBusData from '@/data/questions/heavy-bus-specific.json'
 
 const ALL_SUPPLEMENTARY = [
   ...(supplementaryData as Question[]),
@@ -27,6 +31,10 @@ const ALL_SUPPLEMENTARY = [
   ...(supplementary6Data as Question[]),
   ...(supplementary7Data as Question[]),
   ...(supplementary8Data as Question[]),
+  ...(motorcycleData as Question[]),
+  ...(heavyTruckData as Question[]),
+  ...(lightBusData as Question[]),
+  ...(heavyBusData as Question[]),
 ]
 
 function mergeByModule(moduleKey: string, primary: Question[]): Question[] {

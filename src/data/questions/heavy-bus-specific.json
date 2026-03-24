@@ -1,0 +1,5749 @@
+[
+  {
+    "id": "hbus-001",
+    "question_text": "What does a round blue sign with a white bus symbol indicate?",
+    "explanation": "A round blue sign with a white bus symbol indicates a route reserved exclusively for buses. Heavy bus drivers must be familiar with these signs as they designate lanes and routes for public transport vehicles.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "road-signs",
+      "bus-lane"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-001-a",
+        "question_id": "hbus-001",
+        "answer_text": "Route reserved for buses only",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-001-b",
+        "question_id": "hbus-001",
+        "answer_text": "No buses allowed beyond this point",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-001-c",
+        "question_id": "hbus-001",
+        "answer_text": "Bus parking area ahead",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-001-d",
+        "question_id": "hbus-001",
+        "answer_text": "Bus stop within 100 meters",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-002",
+    "question_text": "What does a rectangular sign showing a bus in a marked lane indicate to a heavy bus driver in the UAE?",
+    "explanation": "A rectangular sign showing a bus in a marked lane indicates a dedicated bus lane. Heavy bus drivers should use this lane where provided, as it helps maintain schedule adherence and improves traffic flow for public transport.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "road-signs",
+      "bus-lane",
+      "dedicated-lane"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-002-a",
+        "question_id": "hbus-002",
+        "answer_text": "A dedicated bus lane that heavy buses should use",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-002-b",
+        "question_id": "hbus-002",
+        "answer_text": "A lane where buses are prohibited",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-002-c",
+        "question_id": "hbus-002",
+        "answer_text": "An overtaking lane for buses only",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-002-d",
+        "question_id": "hbus-002",
+        "answer_text": "A lane reserved for emergency vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-003",
+    "question_text": "You see a triangular warning sign showing a bus. What should you expect ahead?",
+    "explanation": "A triangular warning sign with a bus symbol warns of a bus stop or buses entering the road ahead. Heavy bus drivers should be alert as other buses may be pulling in or out of stops, and passengers may be crossing.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "road-signs",
+      "warning-sign"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-003-a",
+        "question_id": "hbus-003",
+        "answer_text": "A bus stop or buses entering the road ahead",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-003-b",
+        "question_id": "hbus-003",
+        "answer_text": "Buses are not permitted beyond this point",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-003-c",
+        "question_id": "hbus-003",
+        "answer_text": "A bus depot entrance on the left",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-003-d",
+        "question_id": "hbus-003",
+        "answer_text": "A bus-only road begins",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-004",
+    "question_text": "What does a sign showing maximum height '4.5m' mean for a heavy bus driver?",
+    "explanation": "Height restriction signs are critical for heavy bus drivers, especially for double-decker or articulated buses. Drivers must know their vehicle's exact height and must not attempt to pass under structures lower than their vehicle height.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "road-signs",
+      "height-restriction"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-004-a",
+        "question_id": "hbus-004",
+        "answer_text": "Vehicles taller than 4.5 meters are not allowed to pass",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-004-b",
+        "question_id": "hbus-004",
+        "answer_text": "The speed limit for buses is 4.5 km/h in this zone",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-004-c",
+        "question_id": "hbus-004",
+        "answer_text": "Maintain a following distance of at least 4.5 meters",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-004-d",
+        "question_id": "hbus-004",
+        "answer_text": "The road narrows to 4.5 meters ahead",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-005",
+    "question_text": "You see a sign prohibiting vehicles over a certain weight. As a heavy bus driver, what should you do?",
+    "explanation": "Weight restriction signs must be obeyed by heavy bus drivers. A fully loaded heavy bus with 26+ passengers can be very heavy. Drivers must know their vehicle's gross weight and find an alternative route if it exceeds the posted limit.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "road-signs",
+      "weight-restriction"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-005-a",
+        "question_id": "hbus-005",
+        "answer_text": "Check if your bus's gross weight exceeds the limit and find an alternative route if it does",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-005-b",
+        "question_id": "hbus-005",
+        "answer_text": "Ignore the sign as it only applies to trucks",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-005-c",
+        "question_id": "hbus-005",
+        "answer_text": "Proceed slowly and the weight limit will not matter",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-005-d",
+        "question_id": "hbus-005",
+        "answer_text": "Ask passengers to exit and walk across, then pick them up",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-006",
+    "question_text": "What does a square blue sign with a white 'P' and a bus symbol below it indicate?",
+    "explanation": "This sign indicates a designated bus parking area. Heavy bus drivers must only park in designated areas and never in unauthorized zones, as their large vehicles can block traffic and create hazards.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "road-signs",
+      "parking",
+      "designated-area"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-006-a",
+        "question_id": "hbus-006",
+        "answer_text": "Designated parking area for buses",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-006-b",
+        "question_id": "hbus-006",
+        "answer_text": "No parking for buses",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-006-c",
+        "question_id": "hbus-006",
+        "answer_text": "Priority parking for private vehicles near bus stops",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-006-d",
+        "question_id": "hbus-006",
+        "answer_text": "Paid parking zone for all vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-007",
+    "question_text": "In the UAE, what is the maximum speed limit for a heavy bus on a highway?",
+    "explanation": "In the UAE, heavy buses are limited to a maximum speed of 80 km/h on highways. This lower speed limit compared to light vehicles accounts for the longer stopping distances and greater risk associated with large passenger-carrying vehicles.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "speed-limit",
+      "highway"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-007-a",
+        "question_id": "hbus-007",
+        "answer_text": "80 km/h",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-007-b",
+        "question_id": "hbus-007",
+        "answer_text": "100 km/h",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-007-c",
+        "question_id": "hbus-007",
+        "answer_text": "120 km/h",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-007-d",
+        "question_id": "hbus-007",
+        "answer_text": "60 km/h",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-008",
+    "question_text": "What is the maximum speed limit for a heavy bus on internal (urban) roads in the UAE?",
+    "explanation": "Heavy buses are limited to 40 km/h on internal or urban roads in the UAE. This ensures the safety of pedestrians, other road users, and passengers, especially in areas with frequent stops.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "speed-limit",
+      "urban"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-008-a",
+        "question_id": "hbus-008",
+        "answer_text": "40 km/h",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-008-b",
+        "question_id": "hbus-008",
+        "answer_text": "60 km/h",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-008-c",
+        "question_id": "hbus-008",
+        "answer_text": "50 km/h",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-008-d",
+        "question_id": "hbus-008",
+        "answer_text": "80 km/h",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-009",
+    "question_text": "What is the maximum number of hours a professional heavy bus driver may drive within a 24-hour period in the UAE?",
+    "explanation": "Professional heavy bus drivers in the UAE are limited to a maximum of 10 driving hours within a 24-hour period. This regulation prevents driver fatigue, which is a major safety concern when transporting large numbers of passengers.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "driving-hours",
+      "fatigue"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-009-a",
+        "question_id": "hbus-009",
+        "answer_text": "10 hours",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-009-b",
+        "question_id": "hbus-009",
+        "answer_text": "12 hours",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-009-c",
+        "question_id": "hbus-009",
+        "answer_text": "8 hours",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-009-d",
+        "question_id": "hbus-009",
+        "answer_text": "14 hours",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-010",
+    "question_text": "What UAE license category is required to drive a heavy bus carrying more than 26 passengers?",
+    "explanation": "A Category 6 license is required to drive a heavy bus in the UAE. This category covers buses designed to carry more than 26 passengers and requires passing both a tough theory test and a comprehensive practical driving test.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "license",
+      "category-6"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-010-a",
+        "question_id": "hbus-010",
+        "answer_text": "Category 6",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-010-b",
+        "question_id": "hbus-010",
+        "answer_text": "Category 5",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-010-c",
+        "question_id": "hbus-010",
+        "answer_text": "Category 4",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-010-d",
+        "question_id": "hbus-010",
+        "answer_text": "Category 7",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-011",
+    "question_text": "According to UAE regulations, where must a heavy bus pick up and drop off passengers?",
+    "explanation": "Heavy buses must only pick up and drop off passengers at designated bus stops. Stopping at unauthorized locations creates traffic hazards, endangers passengers, and violates UAE transport regulations.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "bus-stop",
+      "designated-stops"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-011-a",
+        "question_id": "hbus-011",
+        "answer_text": "At designated bus stops only",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-011-b",
+        "question_id": "hbus-011",
+        "answer_text": "Anywhere the passengers request",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-011-c",
+        "question_id": "hbus-011",
+        "answer_text": "At any safe location along the route",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-011-d",
+        "question_id": "hbus-011",
+        "answer_text": "At traffic signals when the light is red",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-012",
+    "question_text": "Is GPS tracking mandatory for heavy buses operating in the UAE?",
+    "explanation": "Yes, GPS tracking is mandatory for heavy buses in the UAE. This allows transport authorities to monitor route compliance, schedule adherence, speed, and driver behavior in real time, enhancing passenger safety.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "gps",
+      "tracking",
+      "mandatory"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-012-a",
+        "question_id": "hbus-012",
+        "answer_text": "Yes, GPS tracking is mandatory for all heavy buses",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-012-b",
+        "question_id": "hbus-012",
+        "answer_text": "No, GPS is optional and only recommended",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-012-c",
+        "question_id": "hbus-012",
+        "answer_text": "Only for intercity heavy buses",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-012-d",
+        "question_id": "hbus-012",
+        "answer_text": "Only for buses carrying more than 50 passengers",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-013",
+    "question_text": "What type of seatbelt must the driver of a heavy bus wear according to UAE regulations?",
+    "explanation": "Heavy bus drivers are required to wear a 3-point seatbelt while operating the vehicle. This provides the best restraint protection for the driver, who is responsible for the safety of all passengers on board.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "seatbelt",
+      "driver-safety"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-013-a",
+        "question_id": "hbus-013",
+        "answer_text": "A 3-point seatbelt",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-013-b",
+        "question_id": "hbus-013",
+        "answer_text": "A 2-buckle lap belt",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-013-c",
+        "question_id": "hbus-013",
+        "answer_text": "No seatbelt is required for the driver",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-013-d",
+        "question_id": "hbus-013",
+        "answer_text": "A 5-point racing harness",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-014",
+    "question_text": "What type of seatbelt is required for front-open passenger seats on a heavy bus in the UAE?",
+    "explanation": "Front-open passenger seats on heavy buses must be equipped with 2-buckle seatbelts. This provides adequate restraint for passengers in forward-facing open seats while allowing quick exit in emergencies.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "seatbelt",
+      "passenger-safety"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-014-a",
+        "question_id": "hbus-014",
+        "answer_text": "2-buckle seatbelts",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-014-b",
+        "question_id": "hbus-014",
+        "answer_text": "3-point seatbelts",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-014-c",
+        "question_id": "hbus-014",
+        "answer_text": "No seatbelts are required for passengers",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-014-d",
+        "question_id": "hbus-014",
+        "answer_text": "Lap belts only",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-015",
+    "question_text": "When approaching a roundabout in a heavy bus, what is the primary hazard you should be aware of?",
+    "explanation": "The primary hazard for a heavy bus at a roundabout is the larger turning radius. Heavy buses need significantly more space to navigate roundabouts, and drivers must be aware of the risk of mounting the curb or encroaching into adjacent lanes, which could endanger other road users.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "hazard-perception",
+      "roundabout",
+      "turning-radius"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-015-a",
+        "question_id": "hbus-015",
+        "answer_text": "The larger turning radius may cause the bus to encroach into other lanes",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-015-b",
+        "question_id": "hbus-015",
+        "answer_text": "The bus may run out of fuel on the roundabout",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-015-c",
+        "question_id": "hbus-015",
+        "answer_text": "Passengers will fall from their seats",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-015-d",
+        "question_id": "hbus-015",
+        "answer_text": "The air conditioning may fail during turning",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-016",
+    "question_text": "You are driving a heavy bus and notice a pedestrian stepping onto the road near a bus stop. What should you do?",
+    "explanation": "When a pedestrian steps onto the road near a bus stop, the driver must be prepared to stop. Pedestrians near bus stops often cross unexpectedly, and a heavy bus requires significantly greater stopping distance. Anticipating this hazard and reducing speed proactively is essential.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "hazard-perception",
+      "pedestrian",
+      "bus-stop"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-016-a",
+        "question_id": "hbus-016",
+        "answer_text": "Reduce speed immediately and be prepared to stop, as pedestrians near bus stops may cross unexpectedly",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-016-b",
+        "question_id": "hbus-016",
+        "answer_text": "Sound the horn continuously to warn the pedestrian",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-016-c",
+        "question_id": "hbus-016",
+        "answer_text": "Swerve into the adjacent lane to avoid the pedestrian",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-016-d",
+        "question_id": "hbus-016",
+        "answer_text": "Maintain speed as the pedestrian should wait for the bus to pass",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-017",
+    "question_text": "What is the main hazard when driving an articulated heavy bus around a tight corner?",
+    "explanation": "Articulated buses have a pivot point that causes the rear section to track differently from the front. During tight turns, the rear section can swing outward or cut the corner, posing a significant risk to other road users, pedestrians, and street furniture.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "hazard-perception",
+      "articulated-bus",
+      "turning"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-017-a",
+        "question_id": "hbus-017",
+        "answer_text": "The rear section may swing out or cut the corner, endangering other road users",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-017-b",
+        "question_id": "hbus-017",
+        "answer_text": "The engine may overheat during slow maneuvers",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-017-c",
+        "question_id": "hbus-017",
+        "answer_text": "The front tires may lose traction",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-017-d",
+        "question_id": "hbus-017",
+        "answer_text": "The air brakes will automatically activate",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-018",
+    "question_text": "Why is the stopping distance of a heavy bus significantly greater than that of a car?",
+    "explanation": "A heavy bus has a much greater mass than a car, especially when fully loaded with 26+ passengers. Greater mass means more kinetic energy at any given speed, which requires more distance and time to dissipate through braking. This is a critical hazard that drivers must constantly account for.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "hazard-perception",
+      "stopping-distance",
+      "braking"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-018-a",
+        "question_id": "hbus-018",
+        "answer_text": "The much greater mass of a loaded heavy bus requires more distance to stop safely",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-018-b",
+        "question_id": "hbus-018",
+        "answer_text": "Heavy buses have smaller brakes than cars",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-018-c",
+        "question_id": "hbus-018",
+        "answer_text": "Heavy buses do not have ABS systems",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-018-d",
+        "question_id": "hbus-018",
+        "answer_text": "The driver sits higher so reactions are slower",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-019",
+    "question_text": "While driving a heavy bus, you see children near the roadside ahead. What hazard should you anticipate?",
+    "explanation": "Children are unpredictable and may suddenly run into the road. A heavy bus driver must reduce speed and cover the brake when children are visible near the road, as the long stopping distance of a heavy bus makes early hazard recognition critical.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "hazard-perception",
+      "children",
+      "vulnerable-road-users"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-019-a",
+        "question_id": "hbus-019",
+        "answer_text": "Children may suddenly run into the road; reduce speed and cover the brake",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-019-b",
+        "question_id": "hbus-019",
+        "answer_text": "Children will always stay on the pavement",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-019-c",
+        "question_id": "hbus-019",
+        "answer_text": "Flash your headlights to warn them",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-019-d",
+        "question_id": "hbus-019",
+        "answer_text": "Move to the center of the road to give more space",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-020",
+    "question_text": "What is a major blind spot hazard specific to heavy buses that drivers must be aware of?",
+    "explanation": "Heavy buses have significant blind spots on all sides, particularly along the left side, the rear, and directly in front below the windshield. Cyclists and pedestrians can easily be hidden in these areas. Drivers must use all mirrors systematically and perform thorough checks before moving off.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "hazard-perception",
+      "blind-spots",
+      "mirrors"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-020-a",
+        "question_id": "hbus-020",
+        "answer_text": "Large blind spots on all sides where cyclists and pedestrians can be completely hidden",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-020-b",
+        "question_id": "hbus-020",
+        "answer_text": "The driver cannot see the road ahead due to the high seating position",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-020-c",
+        "question_id": "hbus-020",
+        "answer_text": "Heavy buses have no blind spots due to large windows",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-020-d",
+        "question_id": "hbus-020",
+        "answer_text": "Blind spots only exist at the rear of the bus",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-021",
+    "question_text": "You are driving a heavy bus and a vehicle is tailgating you. What is the safest response?",
+    "explanation": "When a vehicle is tailgating a heavy bus, the safest response is to gradually increase your following distance from the vehicle ahead. This gives you more time and space to brake gently, reducing the risk of the tailgating vehicle colliding with the rear of the bus.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "hazard-perception",
+      "tailgating",
+      "following-distance"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-021-a",
+        "question_id": "hbus-021",
+        "answer_text": "Increase your following distance from the vehicle ahead to allow for gentler braking",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-021-b",
+        "question_id": "hbus-021",
+        "answer_text": "Brake suddenly to teach the tailgater a lesson",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-021-c",
+        "question_id": "hbus-021",
+        "answer_text": "Speed up to create distance from the tailgater",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-021-d",
+        "question_id": "hbus-021",
+        "answer_text": "Ignore the tailgater and continue driving normally",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-022",
+    "question_text": "How should a heavy bus driver adjust their driving during a sandstorm in the UAE?",
+    "explanation": "During a sandstorm, visibility can drop drastically. A heavy bus driver should reduce speed significantly, switch on fog lights and hazard lights, increase following distance, and if visibility becomes too poor, pull over safely and wait for conditions to improve. Passenger safety is the top priority.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "sandstorm",
+      "visibility"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-022-a",
+        "question_id": "hbus-022",
+        "answer_text": "Reduce speed, use fog lights, increase following distance, and pull over if visibility is too poor",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-022-b",
+        "question_id": "hbus-022",
+        "answer_text": "Maintain normal speed to stay on schedule",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-022-c",
+        "question_id": "hbus-022",
+        "answer_text": "Use high beam headlights to see through the sand",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-022-d",
+        "question_id": "hbus-022",
+        "answer_text": "Follow closely behind the vehicle ahead for guidance",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-023",
+    "question_text": "What precaution should a heavy bus driver take when driving in extreme heat (above 45°C) in the UAE?",
+    "explanation": "Extreme heat can cause tire blowouts, engine overheating, and brake fade. A heavy bus driver should monitor tire pressure and engine temperature, ensure the cooling system is functioning, take regular rest breaks, and keep passengers hydrated and comfortable.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "extreme-heat",
+      "tire-safety"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-023-a",
+        "question_id": "hbus-023",
+        "answer_text": "Monitor tire pressure and engine temperature regularly, and ensure the cooling system is working properly",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-023-b",
+        "question_id": "hbus-023",
+        "answer_text": "Drive faster to allow more air to cool the engine",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-023-c",
+        "question_id": "hbus-023",
+        "answer_text": "Turn off the air conditioning to reduce engine load",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-023-d",
+        "question_id": "hbus-023",
+        "answer_text": "Reduce tire pressure to prevent blowouts",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-024",
+    "question_text": "How does wet road surface after rain affect a heavy bus compared to lighter vehicles?",
+    "explanation": "A heavy bus is more susceptible to aquaplaning at lower speeds due to its weight and tire characteristics. Wet roads significantly increase stopping distances for heavy buses. Drivers must reduce speed more than they would in a lighter vehicle and avoid sudden braking or steering inputs.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "wet-road",
+      "aquaplaning"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-024-a",
+        "question_id": "hbus-024",
+        "answer_text": "Stopping distances increase significantly; speed must be reduced and sudden inputs avoided",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-024-b",
+        "question_id": "hbus-024",
+        "answer_text": "Heavy buses are unaffected by wet roads due to their weight",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-024-c",
+        "question_id": "hbus-024",
+        "answer_text": "Only the rear wheels are affected by wet surfaces",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-024-d",
+        "question_id": "hbus-024",
+        "answer_text": "Wet roads improve bus traction due to water lubrication",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-025",
+    "question_text": "When driving a heavy bus at night, what additional precautions should you take?",
+    "explanation": "At night, a heavy bus driver must ensure all lights are functioning, use dipped headlights to avoid dazzling other drivers, reduce speed to account for reduced visibility, and be extra vigilant for pedestrians and cyclists who may be harder to see. Fatigue is also more likely at night.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "night-driving",
+      "visibility"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-025-a",
+        "question_id": "hbus-025",
+        "answer_text": "Ensure all lights work, use dipped headlights, reduce speed, and be extra vigilant for pedestrians",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-025-b",
+        "question_id": "hbus-025",
+        "answer_text": "Use high beam headlights at all times for maximum visibility",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-025-c",
+        "question_id": "hbus-025",
+        "answer_text": "Drive at the same speed as during daylight since the bus has large headlights",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-025-d",
+        "question_id": "hbus-025",
+        "answer_text": "Keep interior lights on maximum brightness for passenger comfort",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-026",
+    "question_text": "How should a heavy bus driver handle strong crosswinds when driving on an open highway?",
+    "explanation": "Heavy buses have a large surface area that makes them vulnerable to crosswinds. Drivers should reduce speed, hold the steering wheel firmly, anticipate sudden gusts when exiting sheltered areas, and be prepared for the bus to be pushed sideways. Standing passengers are at higher risk of falling.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "crosswinds",
+      "highway"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-026-a",
+        "question_id": "hbus-026",
+        "answer_text": "Reduce speed, grip the wheel firmly, and anticipate gusts when leaving sheltered areas",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-026-b",
+        "question_id": "hbus-026",
+        "answer_text": "Increase speed to push through the wind more quickly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-026-c",
+        "question_id": "hbus-026",
+        "answer_text": "Open the windows to equalize the wind pressure",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-026-d",
+        "question_id": "hbus-026",
+        "answer_text": "Heavy buses are not affected by crosswinds due to their weight",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-027",
+    "question_text": "What effect does driving a fully loaded heavy bus uphill have on vehicle performance?",
+    "explanation": "A fully loaded heavy bus carrying 26+ passengers struggles more on uphill gradients. The engine works harder, acceleration is reduced, and the driver may need to use lower gears. Brake fade is also a concern on long descents following uphill sections.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 7,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "uphill",
+      "loaded-vehicle"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-027-a",
+        "question_id": "hbus-027",
+        "answer_text": "The engine works harder, acceleration is reduced, and lower gears may be needed",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-027-b",
+        "question_id": "hbus-027",
+        "answer_text": "There is no noticeable difference when going uphill",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-027-c",
+        "question_id": "hbus-027",
+        "answer_text": "The bus will automatically shift to the correct gear",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-027-d",
+        "question_id": "hbus-027",
+        "answer_text": "Passengers should be asked to exit and walk uphill",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-028",
+    "question_text": "A passenger on your heavy bus is experiencing a medical emergency. What is the correct procedure?",
+    "explanation": "In a medical emergency, the driver should safely pull over at the nearest appropriate location, call emergency services (999/998), use the mandatory first aid box to provide basic assistance if trained, keep other passengers calm, and ensure the emergency exit paths remain clear.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "critical-situations",
+      "medical-emergency",
+      "passenger-safety"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-028-a",
+        "question_id": "hbus-028",
+        "answer_text": "Pull over safely, call emergency services, use the first aid box, and keep passengers calm",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-028-b",
+        "question_id": "hbus-028",
+        "answer_text": "Continue driving to the next bus stop and wait for help there",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-028-c",
+        "question_id": "hbus-028",
+        "answer_text": "Ask other passengers to handle the situation while you continue driving",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-028-d",
+        "question_id": "hbus-028",
+        "answer_text": "Drive directly to the nearest hospital regardless of the route",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-029",
+    "question_text": "A fire breaks out at the rear of your heavy bus while carrying passengers. What is the first action you should take?",
+    "explanation": "In a fire emergency, the driver must immediately stop the bus safely, open all doors, and initiate an emergency evacuation. Passengers must be directed away from the bus quickly and calmly. The driver should then use the fire extinguisher if safe to do so and call emergency services.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "critical-situations",
+      "fire",
+      "emergency-evacuation"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-029-a",
+        "question_id": "hbus-029",
+        "answer_text": "Stop the bus safely, open all doors, and evacuate all passengers immediately",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-029-b",
+        "question_id": "hbus-029",
+        "answer_text": "Drive faster to extinguish the fire with airflow",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-029-c",
+        "question_id": "hbus-029",
+        "answer_text": "Stop the bus and try to extinguish the fire before evacuating passengers",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-029-d",
+        "question_id": "hbus-029",
+        "answer_text": "Continue to the nearest fire station",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-030",
+    "question_text": "What should a heavy bus driver do if the air brake system shows a low air pressure warning?",
+    "explanation": "If the low air pressure warning activates, the driver must pull over safely immediately. Low air pressure means the brakes may not function properly or may lock up. The driver should not continue driving and must call for roadside assistance. Air pressure should build steadily after starting and reach operating pressure within 3 minutes.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "critical-situations",
+      "air-brakes",
+      "low-pressure"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-030-a",
+        "question_id": "hbus-030",
+        "answer_text": "Pull over safely immediately and do not continue driving until the issue is resolved",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-030-b",
+        "question_id": "hbus-030",
+        "answer_text": "Continue driving slowly to the nearest garage",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-030-c",
+        "question_id": "hbus-030",
+        "answer_text": "Pump the brake pedal repeatedly to build up pressure",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-030-d",
+        "question_id": "hbus-030",
+        "answer_text": "Switch to the parking brake and continue the journey",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-031",
+    "question_text": "How should a heavy bus driver conduct an emergency evacuation for a bus with more than 26 passengers?",
+    "explanation": "For a large-capacity heavy bus, emergency evacuation requires using all available exits including emergency exits on each side (mandatory for 16+ seat buses). The driver must remain calm, give clear instructions, ensure evacuation paths are unobstructed, assist mobility-impaired passengers, and account for all passengers after evacuation.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "critical-situations",
+      "emergency-evacuation",
+      "passenger-management"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-031-a",
+        "question_id": "hbus-031",
+        "answer_text": "Use all exits including emergency exits on each side, give clear instructions, and ensure paths are unobstructed",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-031-b",
+        "question_id": "hbus-031",
+        "answer_text": "Only use the front door to maintain an orderly evacuation",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-031-c",
+        "question_id": "hbus-031",
+        "answer_text": "Evacuate the driver first, then passengers can follow",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-031-d",
+        "question_id": "hbus-031",
+        "answer_text": "Wait for emergency services to arrive before starting evacuation",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-032",
+    "question_text": "Your heavy bus experiences complete brake failure while driving downhill. What should you do?",
+    "explanation": "In the event of complete brake failure downhill, the driver should downshift to the lowest possible gear to use engine braking, look for an escape route or runoff area, use the parking/emergency brake gradually, and steer toward an uphill slope or soft barrier if necessary. Never turn off the engine as this removes power steering.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "critical-situations",
+      "brake-failure",
+      "downhill"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-032-a",
+        "question_id": "hbus-032",
+        "answer_text": "Downshift for engine braking, use the parking brake gradually, and look for an escape route",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-032-b",
+        "question_id": "hbus-032",
+        "answer_text": "Turn off the engine immediately to stop the bus",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-032-c",
+        "question_id": "hbus-032",
+        "answer_text": "Pump the brake pedal as hard as possible",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-032-d",
+        "question_id": "hbus-032",
+        "answer_text": "Steer into oncoming traffic to slow down through collision",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-033",
+    "question_text": "What must a heavy bus driver check in all mirrors before departing from a bus stop?",
+    "explanation": "Before departing a bus stop, the driver must systematically check all mirrors — interior, left side, right side, and front — to ensure no passengers are running to catch the bus, no pedestrians are in the path, no cyclists are alongside, and the road is clear to pull out safely.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-behavior",
+      "mirror-checks",
+      "bus-stop"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-033-a",
+        "question_id": "hbus-033",
+        "answer_text": "All mirrors to ensure no passengers, pedestrians, or cyclists are in the path and the road is clear",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-033-b",
+        "question_id": "hbus-033",
+        "answer_text": "Only the right side mirror for traffic approaching from behind",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-033-c",
+        "question_id": "hbus-033",
+        "answer_text": "Only the interior mirror to check passengers are seated",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-033-d",
+        "question_id": "hbus-033",
+        "answer_text": "No mirror checks are needed if the bus has sensors",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-034",
+    "question_text": "How should a heavy bus driver communicate with passengers during the journey?",
+    "explanation": "A professional heavy bus driver should communicate clearly and courteously with passengers, using the PA system for stop announcements, safety reminders, and any delays or route changes. Clear communication helps maintain passenger confidence and ensures orderly boarding and alighting.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 8,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-behavior",
+      "communication",
+      "passengers"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-034-a",
+        "question_id": "hbus-034",
+        "answer_text": "Use the PA system for clear announcements about stops, safety, and any delays",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-034-b",
+        "question_id": "hbus-034",
+        "answer_text": "Only communicate when passengers approach the driver directly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-034-c",
+        "question_id": "hbus-034",
+        "answer_text": "Communication with passengers is not the driver's responsibility",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-034-d",
+        "question_id": "hbus-034",
+        "answer_text": "Shout instructions loudly from the driver's seat",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-035",
+    "question_text": "What is the correct behavior for a heavy bus driver regarding route compliance and schedule adherence?",
+    "explanation": "Heavy bus drivers must follow their assigned route at all times and adhere to the schedule as closely as possible. Deviating from the route or rushing to make up time creates safety risks. If delays occur, the driver should communicate this to dispatch and passengers rather than driving recklessly.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-behavior",
+      "route-compliance",
+      "schedule"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-035-a",
+        "question_id": "hbus-035",
+        "answer_text": "Follow the assigned route, adhere to the schedule, and communicate delays rather than speeding",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-035-b",
+        "question_id": "hbus-035",
+        "answer_text": "Take shortcuts to make up for lost time",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-035-c",
+        "question_id": "hbus-035",
+        "answer_text": "Skip stops with few waiting passengers to stay on schedule",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-035-d",
+        "question_id": "hbus-035",
+        "answer_text": "Exceed the speed limit slightly if running behind schedule",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-036",
+    "question_text": "How should a heavy bus driver manage standing passengers to ensure safety?",
+    "explanation": "Standing passengers are at high risk of injury during braking, turning, or sudden stops. The driver should ensure standing passengers hold onto handrails, avoid sudden acceleration or braking, keep within the maximum standing passenger capacity, and advise standing passengers to move toward the center of the bus.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-behavior",
+      "standing-passengers",
+      "safety"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-036-a",
+        "question_id": "hbus-036",
+        "answer_text": "Ensure they hold handrails, avoid sudden maneuvers, and stay within the maximum standing capacity",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-036-b",
+        "question_id": "hbus-036",
+        "answer_text": "Standing passengers are not allowed on heavy buses at any time",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-036-c",
+        "question_id": "hbus-036",
+        "answer_text": "Allow unlimited standing passengers as long as they can fit",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-036-d",
+        "question_id": "hbus-036",
+        "answer_text": "Standing passengers do not require any special consideration",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-037",
+    "question_text": "What should a heavy bus driver check during an air brake pre-trip inspection?",
+    "explanation": "An air brake pre-trip inspection involves checking that the air compressor builds pressure correctly, air pressure reaches the normal operating range within 3 minutes of starting the engine, there are no audible air leaks, the low-pressure warning device works, and the parking brake holds the vehicle when applied.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "air-brakes",
+      "pre-trip-inspection"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-037-a",
+        "question_id": "hbus-037",
+        "answer_text": "Air pressure builds within 3 minutes, no leaks, low-pressure warning works, and parking brake holds",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-037-b",
+        "question_id": "hbus-037",
+        "answer_text": "Only check that the brake pedal feels firm",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-037-c",
+        "question_id": "hbus-037",
+        "answer_text": "Air brake inspections are only done by mechanics, not drivers",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-037-d",
+        "question_id": "hbus-037",
+        "answer_text": "Check that the air pressure gauge shows zero before starting",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-038",
+    "question_text": "What is the maximum lifespan of a heavy bus in the UAE before it must be retired from service?",
+    "explanation": "According to UAE regulations, the maximum lifespan for a heavy bus is 15 years. After this period, the bus must be retired from service regardless of its condition. This ensures passenger safety by preventing the operation of aging vehicles that may have structural or mechanical degradation.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "lifespan",
+      "regulations"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-038-a",
+        "question_id": "hbus-038",
+        "answer_text": "15 years",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-038-b",
+        "question_id": "hbus-038",
+        "answer_text": "20 years",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-038-c",
+        "question_id": "hbus-038",
+        "answer_text": "10 years",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-038-d",
+        "question_id": "hbus-038",
+        "answer_text": "There is no maximum lifespan if the bus passes inspection",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-039",
+    "question_text": "What safety equipment is mandatory on a heavy bus in the UAE?",
+    "explanation": "UAE regulations require heavy buses to carry a first aid box, fire extinguisher, emergency triangles, and emergency exits on each side for buses with 16 or more seats. These items must be regularly inspected and easily accessible during emergencies.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "safety-equipment",
+      "first-aid"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-039-a",
+        "question_id": "hbus-039",
+        "answer_text": "First aid box, fire extinguisher, emergency triangles, and emergency exits on each side",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-039-b",
+        "question_id": "hbus-039",
+        "answer_text": "Only a fire extinguisher is required",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-039-c",
+        "question_id": "hbus-039",
+        "answer_text": "Safety equipment is recommended but not mandatory",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-039-d",
+        "question_id": "hbus-039",
+        "answer_text": "Only a first aid box and one emergency exit",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-040",
+    "question_text": "Why must emergency evacuation paths inside a heavy bus be kept free of obstructions at all times?",
+    "explanation": "Emergency evacuation paths must remain unobstructed so that passengers can exit the bus quickly and safely during an emergency. With more than 26 passengers, any obstruction — such as luggage, equipment, or debris — can cause dangerous delays, tripping hazards, or panic during evacuation.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 1,
+    "relevance_rank": 10,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "emergency-exits",
+      "evacuation"
+    ],
+    "is_edcad_style": false,
+    "answers": [
+      {
+        "id": "hbus-040-a",
+        "question_id": "hbus-040",
+        "answer_text": "To ensure passengers can exit quickly and safely in an emergency without tripping hazards or delays",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-040-b",
+        "question_id": "hbus-040",
+        "answer_text": "To provide more standing room for passengers during peak hours",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-040-c",
+        "question_id": "hbus-040",
+        "answer_text": "Obstructed paths only matter during inspections, not daily operation",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-040-d",
+        "question_id": "hbus-040",
+        "answer_text": "To make the bus look cleaner for passengers",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-041",
+    "question_text": "Why do heavy vehicles need more judgment and driving skill than others?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-041-a",
+        "question_id": "hbus-041",
+        "answer_text": "Because they are commercial",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-041-b",
+        "question_id": "hbus-041",
+        "answer_text": "Because they are driven for longer",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-041-c",
+        "question_id": "hbus-041",
+        "answer_text": "Because they make longer journeys",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-041-d",
+        "question_id": "hbus-041",
+        "answer_text": "Because they accelerate and decelerate more slowly",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-042",
+    "question_text": "Why should you make sure your cabin is clear of all rubbish?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-042-a",
+        "question_id": "hbus-042",
+        "answer_text": "In case the police stop you",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-042-b",
+        "question_id": "hbus-042",
+        "answer_text": "To look professional",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-042-c",
+        "question_id": "hbus-042",
+        "answer_text": "For the next driver",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-042-d",
+        "question_id": "hbus-042",
+        "answer_text": "For safety",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-043",
+    "question_text": "If you have to change a wheel, your priority should be?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-043-a",
+        "question_id": "hbus-043",
+        "answer_text": "To stay close to the road",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-043-b",
+        "question_id": "hbus-043",
+        "answer_text": "To do it as quickly as possible",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-043-c",
+        "question_id": "hbus-043",
+        "answer_text": "To minimize hazards",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-043-d",
+        "question_id": "hbus-043",
+        "answer_text": "To do it as cheaply as possible",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-044",
+    "question_text": "All fluids should be kept topped up?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-044-a",
+        "question_id": "hbus-044",
+        "answer_text": "To the maximum",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-044-b",
+        "question_id": "hbus-044",
+        "answer_text": "To any of these",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-044-c",
+        "question_id": "hbus-044",
+        "answer_text": "To the minimum",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-044-d",
+        "question_id": "hbus-044",
+        "answer_text": "To halfway",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-045",
+    "question_text": "It's vital that your load is?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-045-a",
+        "question_id": "hbus-045",
+        "answer_text": "Unbreakable",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-045-b",
+        "question_id": "hbus-045",
+        "answer_text": "Paid for",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-045-c",
+        "question_id": "hbus-045",
+        "answer_text": "Secure",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-045-d",
+        "question_id": "hbus-045",
+        "answer_text": "Signed for",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-046",
+    "question_text": "In what way can alcohol make you a better driver?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-046-a",
+        "question_id": "hbus-046",
+        "answer_text": "It can keep you awake",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-046-b",
+        "question_id": "hbus-046",
+        "answer_text": "It can make you more confident",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-046-c",
+        "question_id": "hbus-046",
+        "answer_text": "It can't",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-046-d",
+        "question_id": "hbus-046",
+        "answer_text": "It can relax you",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-047",
+    "question_text": "You should measure tire pressure in each wheel by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-047-a",
+        "question_id": "hbus-047",
+        "answer_text": "Kicking the tire",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-047-b",
+        "question_id": "hbus-047",
+        "answer_text": "Squeezing the tire",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-047-c",
+        "question_id": "hbus-047",
+        "answer_text": "Inspecting visually",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-047-d",
+        "question_id": "hbus-047",
+        "answer_text": "Using a pressure gauge",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-048",
+    "question_text": "You should check all your controls with?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-048-a",
+        "question_id": "hbus-048",
+        "answer_text": "The engine running",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-048-b",
+        "question_id": "hbus-048",
+        "answer_text": "The engine off",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-048-c",
+        "question_id": "hbus-048",
+        "answer_text": "The vehicle moving",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-048-d",
+        "question_id": "hbus-048",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-049",
+    "question_text": "An air brake system should not lose more than how much pressure between stops?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-049-a",
+        "question_id": "hbus-049",
+        "answer_text": "70 kpa",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-049-b",
+        "question_id": "hbus-049",
+        "answer_text": "50 kpa",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-049-c",
+        "question_id": "hbus-049",
+        "answer_text": "80 kpa",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-049-d",
+        "question_id": "hbus-049",
+        "answer_text": "60 kpa",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-050",
+    "question_text": "So you can pass safely under bridges, it's vital that you know your?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-050-a",
+        "question_id": "hbus-050",
+        "answer_text": "Tire pressure",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-050-b",
+        "question_id": "hbus-050",
+        "answer_text": "Load height",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-050-c",
+        "question_id": "hbus-050",
+        "answer_text": "Cabin height",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-050-d",
+        "question_id": "hbus-050",
+        "answer_text": "Wheel size",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-051",
+    "question_text": "You should take care when taking medication?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-051-a",
+        "question_id": "hbus-051",
+        "answer_text": "Prescribed by your doctor",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-051-b",
+        "question_id": "hbus-051",
+        "answer_text": "Any of these",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-051-c",
+        "question_id": "hbus-051",
+        "answer_text": "Sold by your pharmacist",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-051-d",
+        "question_id": "hbus-051",
+        "answer_text": "Sold over-the-counter in a general store",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-052",
+    "question_text": "When lifting heavy objects, you should have?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-052-a",
+        "question_id": "hbus-052",
+        "answer_text": "Straight knees, bent back",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-052-b",
+        "question_id": "hbus-052",
+        "answer_text": "Straight back, bent knees",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-052-c",
+        "question_id": "hbus-052",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-052-d",
+        "question_id": "hbus-052",
+        "answer_text": "Bent back, bent knees",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-053",
+    "question_text": "When your vehicle is parked on the right-hand side of the road, you should approach it from?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-053-a",
+        "question_id": "hbus-053",
+        "answer_text": "The rear",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-053-b",
+        "question_id": "hbus-053",
+        "answer_text": "The right-hand side",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-053-c",
+        "question_id": "hbus-053",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-053-d",
+        "question_id": "hbus-053",
+        "answer_text": "The front",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-054",
+    "question_text": "You must inspect your heavy vehicle?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-054-a",
+        "question_id": "hbus-054",
+        "answer_text": "Once a week",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-054-b",
+        "question_id": "hbus-054",
+        "answer_text": "Once a month",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-054-c",
+        "question_id": "hbus-054",
+        "answer_text": "At the beginning of each trip",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-054-d",
+        "question_id": "hbus-054",
+        "answer_text": "Every day that you use it",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-055",
+    "question_text": "loading gate or headboard is found where?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-055-a",
+        "question_id": "hbus-055",
+        "answer_text": "In the middle of the trailer",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-055-b",
+        "question_id": "hbus-055",
+        "answer_text": "At the front end of the trailer",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-055-c",
+        "question_id": "hbus-055",
+        "answer_text": "At the back end of the trailer",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-055-d",
+        "question_id": "hbus-055",
+        "answer_text": "At the back end of the power unit",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-056",
+    "question_text": "If your vehicle is tilting, it could be caused by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-056-a",
+        "question_id": "hbus-056",
+        "answer_text": "Flat tire",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-056-b",
+        "question_id": "hbus-056",
+        "answer_text": "Poor loading",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-056-c",
+        "question_id": "hbus-056",
+        "answer_text": "Suspension failure",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-056-d",
+        "question_id": "hbus-056",
+        "answer_text": "Any of these",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-057",
+    "question_text": "You should check your external lights are working by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-057-a",
+        "question_id": "hbus-057",
+        "answer_text": "Looking at the on lights on the dashboard",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-057-b",
+        "question_id": "hbus-057",
+        "answer_text": "Looking for reflections in the nearest object",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-057-c",
+        "question_id": "hbus-057",
+        "answer_text": "Getting out and looking at them",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-057-d",
+        "question_id": "hbus-057",
+        "answer_text": "Looking for warning lights on the dashboard",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-058",
+    "question_text": "You should adjust your seat so that when the clutch pedal is floored, your leg bends at?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-058-a",
+        "question_id": "hbus-058",
+        "answer_text": "40 – 45°",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-058-b",
+        "question_id": "hbus-058",
+        "answer_text": "5 – 10°",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-058-c",
+        "question_id": "hbus-058",
+        "answer_text": "15 – 20°",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-058-d",
+        "question_id": "hbus-058",
+        "answer_text": "25 – 30°",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-059",
+    "question_text": "Which of these may indicate a loose wheel nut?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-059-a",
+        "question_id": "hbus-059",
+        "answer_text": "Grease",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-059-b",
+        "question_id": "hbus-059",
+        "answer_text": "Rust streaks",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-059-c",
+        "question_id": "hbus-059",
+        "answer_text": "Oil",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-059-d",
+        "question_id": "hbus-059",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-060",
+    "question_text": "The low air pressure warning gauge should reach full pressure after?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-060-a",
+        "question_id": "hbus-060",
+        "answer_text": "Four minutes",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-060-b",
+        "question_id": "hbus-060",
+        "answer_text": "Five minutes",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-060-c",
+        "question_id": "hbus-060",
+        "answer_text": "Three minutes",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-060-d",
+        "question_id": "hbus-060",
+        "answer_text": "Two minutes",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-061",
+    "question_text": "Which of these foods is best to eat when on a long trip to avoid fatigue?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-061-a",
+        "question_id": "hbus-061",
+        "answer_text": "Potatoes",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-061-b",
+        "question_id": "hbus-061",
+        "answer_text": "Fresh fruit and vegetables",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-061-c",
+        "question_id": "hbus-061",
+        "answer_text": "Pasta",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-061-d",
+        "question_id": "hbus-061",
+        "answer_text": "Bread",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-062",
+    "question_text": "Which of these drugs can overcome feelings of tiredness?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-062-a",
+        "question_id": "hbus-062",
+        "answer_text": "None of them",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-062-b",
+        "question_id": "hbus-062",
+        "answer_text": "Cocaine",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-062-c",
+        "question_id": "hbus-062",
+        "answer_text": "Amphetamines",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-062-d",
+        "question_id": "hbus-062",
+        "answer_text": "Alcohol",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-063",
+    "question_text": "On a airbrake vehicle, how can you tell if the air intake filter is blocked?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-063-a",
+        "question_id": "hbus-063",
+        "answer_text": "Brakes feel sluggish",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-063-b",
+        "question_id": "hbus-063",
+        "answer_text": "Brakes not working at all",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-063-c",
+        "question_id": "hbus-063",
+        "answer_text": "Warning light on the dashboard",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-063-d",
+        "question_id": "hbus-063",
+        "answer_text": "Oil coming from the air tank taps",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-064",
+    "question_text": "You are driving an 18 wheeler truck, how many tires can be worn or faulty for the vehicle still to be safe?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-064-a",
+        "question_id": "hbus-064",
+        "answer_text": "Six",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-064-b",
+        "question_id": "hbus-064",
+        "answer_text": "Four",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-064-c",
+        "question_id": "hbus-064",
+        "answer_text": "Two",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-064-d",
+        "question_id": "hbus-064",
+        "answer_text": "None",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-065",
+    "question_text": "The Gross Vehicle Mass represents?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-065-a",
+        "question_id": "hbus-065",
+        "answer_text": "The weight of the power unit, trailer and cargo",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-065-b",
+        "question_id": "hbus-065",
+        "answer_text": "The weight of the trailer and cargo",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-065-c",
+        "question_id": "hbus-065",
+        "answer_text": "The weight of the cargo and power unit",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-065-d",
+        "question_id": "hbus-065",
+        "answer_text": "The weight of the power unit and trailer",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-066",
+    "question_text": "When taking a right-hand bend, you should steer?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-066-a",
+        "question_id": "hbus-066",
+        "answer_text": "Close to the left side of the lane",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-066-b",
+        "question_id": "hbus-066",
+        "answer_text": "In the center of the lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-066-c",
+        "question_id": "hbus-066",
+        "answer_text": "Over the center markings",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-066-d",
+        "question_id": "hbus-066",
+        "answer_text": "Close to the right side of the lane",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-067",
+    "question_text": "Cut-in means your rear wheels will travel?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-067-a",
+        "question_id": "hbus-067",
+        "answer_text": "A shorter path than the front ones",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-067-b",
+        "question_id": "hbus-067",
+        "answer_text": "The same path as the front ones",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-067-c",
+        "question_id": "hbus-067",
+        "answer_text": "A completely different path than the front ones",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-067-d",
+        "question_id": "hbus-067",
+        "answer_text": "A longer path than the front ones",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-068",
+    "question_text": "Changing gear at the wrong time can damage?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-068-a",
+        "question_id": "hbus-068",
+        "answer_text": "All of these",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-068-b",
+        "question_id": "hbus-068",
+        "answer_text": "The transmission",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-068-c",
+        "question_id": "hbus-068",
+        "answer_text": "The clutch",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-068-d",
+        "question_id": "hbus-068",
+        "answer_text": "The engine",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-069",
+    "question_text": "Which of these is the correct sequence for double clutching to change gear?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-069-a",
+        "question_id": "hbus-069",
+        "answer_text": "Neutral, clutch, select gear, clutch",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-069-b",
+        "question_id": "hbus-069",
+        "answer_text": "Clutch, select  gear, clutch, neutral",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-069-c",
+        "question_id": "hbus-069",
+        "answer_text": "Clutch, neutral, clutch, select gear",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-069-d",
+        "question_id": "hbus-069",
+        "answer_text": "Clutch, neutral, select gear, clutch",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-070",
+    "question_text": "You can be helped in gear changing by using your?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-070-a",
+        "question_id": "hbus-070",
+        "answer_text": "Tachometer",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-070-b",
+        "question_id": "hbus-070",
+        "answer_text": "Temperature gauge",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-070-c",
+        "question_id": "hbus-070",
+        "answer_text": "Speedometer",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-070-d",
+        "question_id": "hbus-070",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-071",
+    "question_text": "When reversing, you should monitor the trailer position by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-071-a",
+        "question_id": "hbus-071",
+        "answer_text": "Looking in your mirrors",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-071-b",
+        "question_id": "hbus-071",
+        "answer_text": "Listening for any bumps",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-071-c",
+        "question_id": "hbus-071",
+        "answer_text": "Hanging out the window",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-071-d",
+        "question_id": "hbus-071",
+        "answer_text": "Looking at shadows",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-072",
+    "question_text": "At low speed, the rear wheels of a semitrailer will track?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-072-a",
+        "question_id": "hbus-072",
+        "answer_text": "In line with the truck's wheels",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-072-b",
+        "question_id": "hbus-072",
+        "answer_text": "Outside the truck's wheels",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-072-c",
+        "question_id": "hbus-072",
+        "answer_text": "Any of these depending on road surface",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-072-d",
+        "question_id": "hbus-072",
+        "answer_text": "Inside the truck's wheels",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-073",
+    "question_text": "Each time you stop you should check your brakes for excessive?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-073-a",
+        "question_id": "hbus-073",
+        "answer_text": "Cold",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-073-b",
+        "question_id": "hbus-073",
+        "answer_text": "Moisture",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-073-c",
+        "question_id": "hbus-073",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-073-d",
+        "question_id": "hbus-073",
+        "answer_text": "Heat",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-074",
+    "question_text": "When double clutching, it's important to monitor?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-074-a",
+        "question_id": "hbus-074",
+        "answer_text": "Revs",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-074-b",
+        "question_id": "hbus-074",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-074-c",
+        "question_id": "hbus-074",
+        "answer_text": "Mirrors",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-074-d",
+        "question_id": "hbus-074",
+        "answer_text": "Speed",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-075",
+    "question_text": "The turning radius for a heavy vehicle is?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-075-a",
+        "question_id": "hbus-075",
+        "answer_text": "90°",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-075-b",
+        "question_id": "hbus-075",
+        "answer_text": "30°",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-075-c",
+        "question_id": "hbus-075",
+        "answer_text": "60°",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-075-d",
+        "question_id": "hbus-075",
+        "answer_text": "Different for each vehicle",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-076",
+    "question_text": "Approaching a left-hand bend, you should position yourself?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-076-a",
+        "question_id": "hbus-076",
+        "answer_text": "On the left-hand side of your lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-076-b",
+        "question_id": "hbus-076",
+        "answer_text": "In the oncoming traffic lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-076-c",
+        "question_id": "hbus-076",
+        "answer_text": "On the right-hand side of your lane",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-076-d",
+        "question_id": "hbus-076",
+        "answer_text": "In the center of your lane",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-077",
+    "question_text": "You should correct any drifting off course when reversing by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-077-a",
+        "question_id": "hbus-077",
+        "answer_text": "Holding the steering wheel straight",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-077-b",
+        "question_id": "hbus-077",
+        "answer_text": "Steering towards the drift",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-077-c",
+        "question_id": "hbus-077",
+        "answer_text": "Rapidly accelerating and braking",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-077-d",
+        "question_id": "hbus-077",
+        "answer_text": "Steering away from the drift",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-078",
+    "question_text": "Which of these is the only one that will not make you change gear?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-078-a",
+        "question_id": "hbus-078",
+        "answer_text": "Going uphill",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-078-b",
+        "question_id": "hbus-078",
+        "answer_text": "Slowing down",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-078-c",
+        "question_id": "hbus-078",
+        "answer_text": "Changing lanes",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-078-d",
+        "question_id": "hbus-078",
+        "answer_text": "Going downhill",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-079",
+    "question_text": "Having passengers in a vehicle can affect its handling if it is?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-079-a",
+        "question_id": "hbus-079",
+        "answer_text": "Under 10 tonnes",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-079-b",
+        "question_id": "hbus-079",
+        "answer_text": "Under 6 tonnes",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-079-c",
+        "question_id": "hbus-079",
+        "answer_text": "Under 3 tonnes",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-079-d",
+        "question_id": "hbus-079",
+        "answer_text": "Any weight",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-080",
+    "question_text": "With air brake systems, you should check the low-pressure warnings are working by?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-080-a",
+        "question_id": "hbus-080",
+        "answer_text": "Pressing the accelerator",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-080-b",
+        "question_id": "hbus-080",
+        "answer_text": "Revving the engine",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-080-c",
+        "question_id": "hbus-080",
+        "answer_text": "Pressing the clutch",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-080-d",
+        "question_id": "hbus-080",
+        "answer_text": "Pressing the brake",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-081",
+    "question_text": "With a hydraulic brake vehicle, after pumping the brake pedal you should be able to hold it down without feeling any loss of pressure for how long?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-081-a",
+        "question_id": "hbus-081",
+        "answer_text": "Two seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-081-b",
+        "question_id": "hbus-081",
+        "answer_text": "Three seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-081-c",
+        "question_id": "hbus-081",
+        "answer_text": "Four seconds",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-081-d",
+        "question_id": "hbus-081",
+        "answer_text": "Five seconds",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-082",
+    "question_text": "When pulling away on sand or gravel, you should accelerate?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for heavy vehicle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-082-a",
+        "question_id": "hbus-082",
+        "answer_text": "More powerfully",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-082-b",
+        "question_id": "hbus-082",
+        "answer_text": "Faster",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-082-c",
+        "question_id": "hbus-082",
+        "answer_text": "More aggressively",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-082-d",
+        "question_id": "hbus-082",
+        "answer_text": "More slowly",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-083",
+    "question_text": "After your pretrip inspection, your next inspection should take place?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-083-a",
+        "question_id": "hbus-083",
+        "answer_text": "At the start of the next day",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-083-b",
+        "question_id": "hbus-083",
+        "answer_text": "In 12 hours' time",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-083-c",
+        "question_id": "hbus-083",
+        "answer_text": "At the end of your journey",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-083-d",
+        "question_id": "hbus-083",
+        "answer_text": "At your next stop",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-084",
+    "question_text": "You should always hold the steering wheel with both hands?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-084-a",
+        "question_id": "hbus-084",
+        "answer_text": "Except when you want to rest your hands",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-084-b",
+        "question_id": "hbus-084",
+        "answer_text": "In all circumstances",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-084-c",
+        "question_id": "hbus-084",
+        "answer_text": "Except when making a phone call",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-084-d",
+        "question_id": "hbus-084",
+        "answer_text": "Except when travelling straight",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-085",
+    "question_text": "How often should you check that your load is secure?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-085-a",
+        "question_id": "hbus-085",
+        "answer_text": "At the end of each day",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-085-b",
+        "question_id": "hbus-085",
+        "answer_text": "Regularly as you drive",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-085-c",
+        "question_id": "hbus-085",
+        "answer_text": "If it was secure when you started you don't need to",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-085-d",
+        "question_id": "hbus-085",
+        "answer_text": "At every stop",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-086",
+    "question_text": "Which of these will not help you prevent aquaplaning?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for heavy vehicle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-086-a",
+        "question_id": "hbus-086",
+        "answer_text": "Low speed",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-086-b",
+        "question_id": "hbus-086",
+        "answer_text": "Correct tire pressure",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-086-c",
+        "question_id": "hbus-086",
+        "answer_text": "High speed",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-086-d",
+        "question_id": "hbus-086",
+        "answer_text": "Good tires",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-087",
+    "question_text": "When reversing a large vehicle into a tight space, a good driver?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-087-a",
+        "question_id": "hbus-087",
+        "answer_text": "Doesn't need any guidance",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-087-b",
+        "question_id": "hbus-087",
+        "answer_text": "Repositions as many times as necessary",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-087-c",
+        "question_id": "hbus-087",
+        "answer_text": "Always does it in one go",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-087-d",
+        "question_id": "hbus-087",
+        "answer_text": "Does it quickly",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-088",
+    "question_text": "When accelerating with your large vehicle, you should aim for?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-088-a",
+        "question_id": "hbus-088",
+        "answer_text": "Low noise",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-088-b",
+        "question_id": "hbus-088",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-088-c",
+        "question_id": "hbus-088",
+        "answer_text": "Smoothness",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-088-d",
+        "question_id": "hbus-088",
+        "answer_text": "Speed",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-089",
+    "question_text": "If it's raining, the road will probably be most slippery?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for heavy vehicle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-089-a",
+        "question_id": "hbus-089",
+        "answer_text": "Just as it starts",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-089-b",
+        "question_id": "hbus-089",
+        "answer_text": "Just after it finishes",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-089-c",
+        "question_id": "hbus-089",
+        "answer_text": "After an hour's rain",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-089-d",
+        "question_id": "hbus-089",
+        "answer_text": "As the road dries out",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-090",
+    "question_text": "Trailer brakes may not work properly if?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-090-a",
+        "question_id": "hbus-090",
+        "answer_text": "Any of these apply",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-090-b",
+        "question_id": "hbus-090",
+        "answer_text": "Air hoses are wrongly connected",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-090-c",
+        "question_id": "hbus-090",
+        "answer_text": "Air hoses are leaking",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-090-d",
+        "question_id": "hbus-090",
+        "answer_text": "Air hoses are damaged",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-091",
+    "question_text": "When another vehicle is tailgating you, its best to",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-091-a",
+        "question_id": "hbus-091",
+        "answer_text": "Sound your horn",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-091-b",
+        "question_id": "hbus-091",
+        "answer_text": "Speed up",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-091-c",
+        "question_id": "hbus-091",
+        "answer_text": "Brake sharply",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-091-d",
+        "question_id": "hbus-091",
+        "answer_text": "Slow down",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-092",
+    "question_text": "When driving a large vehicle, you should plan ahead at least",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-092-a",
+        "question_id": "hbus-092",
+        "answer_text": "8 seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-092-b",
+        "question_id": "hbus-092",
+        "answer_text": "6 seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-092-c",
+        "question_id": "hbus-092",
+        "answer_text": "12 seconds",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-092-d",
+        "question_id": "hbus-092",
+        "answer_text": "10 seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-093",
+    "question_text": "You should use your mirrors for",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-093-a",
+        "question_id": "hbus-093",
+        "answer_text": "Checking your tires",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-093-b",
+        "question_id": "hbus-093",
+        "answer_text": "All of these",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-093-c",
+        "question_id": "hbus-093",
+        "answer_text": "Checking your load",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-093-d",
+        "question_id": "hbus-093",
+        "answer_text": "Checking for other vehicles",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-094",
+    "question_text": "When travelling at 75 km/h, how much space should you leave to the vehicle in front?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-094-a",
+        "question_id": "hbus-094",
+        "answer_text": "2 seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-094-b",
+        "question_id": "hbus-094",
+        "answer_text": "4 seconds",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-094-c",
+        "question_id": "hbus-094",
+        "answer_text": "3 seconds",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-094-d",
+        "question_id": "hbus-094",
+        "answer_text": "5 seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-095",
+    "question_text": "At a junction with three left hand turn lanes, which lane should you choose?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-095-a",
+        "question_id": "hbus-095",
+        "answer_text": "The left hand lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-095-b",
+        "question_id": "hbus-095",
+        "answer_text": "The center lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-095-c",
+        "question_id": "hbus-095",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-095-d",
+        "question_id": "hbus-095",
+        "answer_text": "The right hand lane",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-096",
+    "question_text": "Which of these will be most helpful when reversing?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-096-a",
+        "question_id": "hbus-096",
+        "answer_text": "Left mirror",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-096-b",
+        "question_id": "hbus-096",
+        "answer_text": "Right mirror",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-096-c",
+        "question_id": "hbus-096",
+        "answer_text": "A guide",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-096-d",
+        "question_id": "hbus-096",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-097",
+    "question_text": "If your vehicle has air brakes, you should allow for a delay in braking up to",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-097-a",
+        "question_id": "hbus-097",
+        "answer_text": "One second",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-097-b",
+        "question_id": "hbus-097",
+        "answer_text": "Two seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-097-c",
+        "question_id": "hbus-097",
+        "answer_text": "Half a second",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-097-d",
+        "question_id": "hbus-097",
+        "answer_text": "Quarter of a second",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-098",
+    "question_text": "Which of these places is likely to be in your blind spot?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of hazard perception for heavy vehicle drivers in the UAE.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "hazard-perception",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-098-a",
+        "question_id": "hbus-098",
+        "answer_text": "40m back on the right",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-098-b",
+        "question_id": "hbus-098",
+        "answer_text": "Next to the cab on the left",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-098-c",
+        "question_id": "hbus-098",
+        "answer_text": "75m directly behind",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-098-d",
+        "question_id": "hbus-098",
+        "answer_text": "40m back on the left",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-099",
+    "question_text": "You should never look in your mirrors for more than",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-099-a",
+        "question_id": "hbus-099",
+        "answer_text": "One second",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-099-b",
+        "question_id": "hbus-099",
+        "answer_text": "Four seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-099-c",
+        "question_id": "hbus-099",
+        "answer_text": "Three seconds",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-099-d",
+        "question_id": "hbus-099",
+        "answer_text": "Two seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-100",
+    "question_text": "Part of your load has fallen into the roa You must mark it with warning triangles if it is not visible for how far in all directions?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of hazard perception for heavy vehicle drivers in the UAE.",
+    "module": "hazard_perception",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "hazard-perception",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-100-a",
+        "question_id": "hbus-100",
+        "answer_text": "50m",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-100-b",
+        "question_id": "hbus-100",
+        "answer_text": "250m",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-100-c",
+        "question_id": "hbus-100",
+        "answer_text": "150m",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-100-d",
+        "question_id": "hbus-100",
+        "answer_text": "200m",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-101",
+    "question_text": "When travelling at 90 km/h, how far will you travel in one second?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-101-a",
+        "question_id": "hbus-101",
+        "answer_text": "15m",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-101-b",
+        "question_id": "hbus-101",
+        "answer_text": "20m",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-101-c",
+        "question_id": "hbus-101",
+        "answer_text": "25m",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-101-d",
+        "question_id": "hbus-101",
+        "answer_text": "30m",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-102",
+    "question_text": "Most heavy vehicles have brakes designed to operate most effectively when",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of road signs for heavy vehicle drivers in the UAE.",
+    "module": "road_signs",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "road-signs",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-102-a",
+        "question_id": "hbus-102",
+        "answer_text": "The vehicle is partially loaded",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-102-b",
+        "question_id": "hbus-102",
+        "answer_text": "The vehicle is loaded",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-102-c",
+        "question_id": "hbus-102",
+        "answer_text": "All of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-102-d",
+        "question_id": "hbus-102",
+        "answer_text": "The vehicle is unloaded",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-103",
+    "question_text": "Your truck must have yellow revolving lights on the roof of the cabin when it is",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-103-a",
+        "question_id": "hbus-103",
+        "answer_text": "Empty and moving",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-103-b",
+        "question_id": "hbus-103",
+        "answer_text": "Loaded and parked",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-103-c",
+        "question_id": "hbus-103",
+        "answer_text": "Empty and parked",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-103-d",
+        "question_id": "hbus-103",
+        "answer_text": "Loaded and moving",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-104",
+    "question_text": "You are approaching a construction zone where one lane of three on the highway is close You should",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-104-a",
+        "question_id": "hbus-104",
+        "answer_text": "Swing into the outside lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-104-b",
+        "question_id": "hbus-104",
+        "answer_text": "Speed up to pass as quickly as possible",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-104-c",
+        "question_id": "hbus-104",
+        "answer_text": "Maintain your course and speed",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-104-d",
+        "question_id": "hbus-104",
+        "answer_text": "Slow down and prepare to stop",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-105",
+    "question_text": "When driving a heavy vehicle, you should check your mirrors",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-105-a",
+        "question_id": "hbus-105",
+        "answer_text": "Every ten seconds",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-105-b",
+        "question_id": "hbus-105",
+        "answer_text": "Every fifteen seconds",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-105-c",
+        "question_id": "hbus-105",
+        "answer_text": "Constantly",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-105-d",
+        "question_id": "hbus-105",
+        "answer_text": "Every twenty seconds",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-106",
+    "question_text": "You reach a junction where there are three right hand turn lanes.  Which lane should you choose?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-106-a",
+        "question_id": "hbus-106",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-106-b",
+        "question_id": "hbus-106",
+        "answer_text": "The center lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-106-c",
+        "question_id": "hbus-106",
+        "answer_text": "The left hand lane",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-106-d",
+        "question_id": "hbus-106",
+        "answer_text": "The right hand lane",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-107",
+    "question_text": "You are parked at night in an area with poor lighting.  You must display clearance and sidemarker lights if your vehicle is over what width?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving conditions for heavy vehicle drivers in the UAE.",
+    "module": "driving_conditions",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-conditions",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-107-a",
+        "question_id": "hbus-107",
+        "answer_text": "2.4m",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-107-b",
+        "question_id": "hbus-107",
+        "answer_text": "2.2m",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-107-c",
+        "question_id": "hbus-107",
+        "answer_text": "1.8m",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-107-d",
+        "question_id": "hbus-107",
+        "answer_text": "2.0m",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-108",
+    "question_text": "Just before your vehicle comes to a complete stop, the brake should be",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-108-a",
+        "question_id": "hbus-108",
+        "answer_text": "Released completely",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-108-b",
+        "question_id": "hbus-108",
+        "answer_text": "Pushed in slightly",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-108-c",
+        "question_id": "hbus-108",
+        "answer_text": "Released slightly",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-108-d",
+        "question_id": "hbus-108",
+        "answer_text": "Pushed in fully",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-109",
+    "question_text": "If your vehicle has broken down, you should place a warning triangle at least how far to the rear?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of critical situations for heavy vehicle drivers in the UAE.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 3,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "critical-situations",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-109-a",
+        "question_id": "hbus-109",
+        "answer_text": "30m",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-109-b",
+        "question_id": "hbus-109",
+        "answer_text": "50m",
+        "is_correct": true,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-109-c",
+        "question_id": "hbus-109",
+        "answer_text": "20m",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-109-d",
+        "question_id": "hbus-109",
+        "answer_text": "40m",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-110",
+    "question_text": "For maximum safety you should generally stay",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-110-a",
+        "question_id": "hbus-110",
+        "answer_text": "In the right of your lane",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-110-b",
+        "question_id": "hbus-110",
+        "answer_text": "In the left of your lane",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-110-c",
+        "question_id": "hbus-110",
+        "answer_text": "Any of these",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-110-d",
+        "question_id": "hbus-110",
+        "answer_text": "In the center of your lane",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-111",
+    "question_text": "If parked in an area of heavy traffic in the day, what should you do?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of traffic rules for heavy vehicle drivers in the UAE.",
+    "module": "traffic_rules",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "traffic-rules",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-111-a",
+        "question_id": "hbus-111",
+        "answer_text": "Nothing",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-111-b",
+        "question_id": "hbus-111",
+        "answer_text": "Switch on headlamps",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-111-c",
+        "question_id": "hbus-111",
+        "answer_text": "Switch on hazard lights",
+        "is_correct": true,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-111-d",
+        "question_id": "hbus-111",
+        "answer_text": "Continuously sound horn",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-112",
+    "question_text": "Brakes should initially be applied",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-112-a",
+        "question_id": "hbus-112",
+        "answer_text": "Slowly",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-112-b",
+        "question_id": "hbus-112",
+        "answer_text": "Aggressively",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-112-c",
+        "question_id": "hbus-112",
+        "answer_text": "Sharply",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-112-d",
+        "question_id": "hbus-112",
+        "answer_text": "Steadily",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-113",
+    "question_text": "An experienced driver can tell when to change gear from",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of vehicle maintenance for heavy vehicle drivers in the UAE.",
+    "module": "vehicle_maintenance",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "vehicle-maintenance",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-113-a",
+        "question_id": "hbus-113",
+        "answer_text": "Wheel noise",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-113-b",
+        "question_id": "hbus-113",
+        "answer_text": "Road vibrations",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-113-c",
+        "question_id": "hbus-113",
+        "answer_text": "Engine temperature",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-113-d",
+        "question_id": "hbus-113",
+        "answer_text": "Engine noise",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-114",
+    "question_text": "Who is most responsible for ensuring there are no accidents involving a heavy vehicle?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of critical situations for heavy vehicle drivers in the UAE.",
+    "module": "critical_situations",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "critical-situations",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-114-a",
+        "question_id": "hbus-114",
+        "answer_text": "The highway authorities",
+        "is_correct": false,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-114-b",
+        "question_id": "hbus-114",
+        "answer_text": "The police",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-114-c",
+        "question_id": "hbus-114",
+        "answer_text": "Other drivers",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-114-d",
+        "question_id": "hbus-114",
+        "answer_text": "The driver",
+        "is_correct": true,
+        "display_order": 4
+      }
+    ]
+  },
+  {
+    "id": "hbus-115",
+    "question_text": "When you have made a mistake involving another driver, what should you do?",
+    "explanation": "Based on the RTA official handbook. This question tests knowledge of driving behavior for heavy vehicle drivers in the UAE.",
+    "module": "driving_behavior",
+    "vehicle_types": [
+      "E"
+    ],
+    "difficulty": 2,
+    "relevance_rank": 9,
+    "svg_illustration_key": null,
+    "image_url": null,
+    "tags": [
+      "heavy-bus",
+      "driving-behavior",
+      "edcad-style",
+      "answer-unverified"
+    ],
+    "is_edcad_style": true,
+    "answers": [
+      {
+        "id": "hbus-115-a",
+        "question_id": "hbus-115",
+        "answer_text": "Acknowledge your mistake",
+        "is_correct": true,
+        "display_order": 1
+      },
+      {
+        "id": "hbus-115-b",
+        "question_id": "hbus-115",
+        "answer_text": "Ignore it and carry on",
+        "is_correct": false,
+        "display_order": 2
+      },
+      {
+        "id": "hbus-115-c",
+        "question_id": "hbus-115",
+        "answer_text": "Try to make them feel guilty",
+        "is_correct": false,
+        "display_order": 3
+      },
+      {
+        "id": "hbus-115-d",
+        "question_id": "hbus-115",
+        "answer_text": "Drive away as quickly as possible",
+        "is_correct": false,
+        "display_order": 4
+      }
+    ]
+  }
+]
