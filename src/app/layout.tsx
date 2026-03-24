@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Space_Grotesk, Manrope } from "next/font/google";
 import { Toaster } from "sonner";
 import { ProgressProvider } from "@/context/ProgressContext";
+import { StructuredData } from "./structured-data";
 import "./globals.css";
 
 const spaceGrotesk = Space_Grotesk({
@@ -18,11 +19,53 @@ const manrope = Manrope({
 
 export const metadata: Metadata = {
   title: {
-    default: "Road Ready UAE - Driving Theory Test Prep",
+    default: "Road Ready UAE – Free Driving Theory Test Practice",
     template: "%s | Road Ready UAE",
   },
   description:
-    "Master the UAE driving theory test with 500+ practice questions, mock exams, and smart learning paths. Pass your RTA test with confidence.",
+    "Pass your UAE driving theory test on the first attempt. Free practice questions for Light Vehicle, Motorcycle, Heavy Truck, Light Bus & Heavy Bus — aligned with RTA exam standards.",
+  keywords: [
+    "UAE driving theory test",
+    "RTA theory test practice",
+    "Dubai driving test questions",
+    "UAE light vehicle theory test",
+    "Abu Dhabi driving test",
+    "UAE motorcycle theory test",
+    "heavy truck driving test UAE",
+    "Emirates driving theory",
+    "driving license test UAE",
+    "road test practice UAE",
+  ],
+  metadataBase: new URL("https://www.roadreadyuae.com"),
+  alternates: {
+    canonical: "/",
+  },
+  openGraph: {
+    title: "Road Ready UAE – Free Driving Theory Test Practice",
+    description:
+      "UAE's #1 theory test platform. Practice with real exam-style questions for all vehicle categories.",
+    url: "https://www.roadreadyuae.com",
+    siteName: "Road Ready UAE",
+    locale: "en_AE",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Road Ready UAE – Free Driving Theory Test Practice",
+    description:
+      "Pass your UAE driving theory test. Free practice for all vehicle categories.",
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      "max-video-preview": -1,
+      "max-image-preview": "large",
+      "max-snippet": -1,
+    },
+  },
   icons: {
     icon: "/icon.svg",
   },
@@ -45,6 +88,7 @@ export default function RootLayout({
         />
       </head>
       <body className="bg-surface text-on-surface min-h-dvh antialiased">
+        <StructuredData />
         <ProgressProvider>
           {children}
         </ProgressProvider>
