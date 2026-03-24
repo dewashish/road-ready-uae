@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   },
   description:
     "Master the UAE driving theory test with 500+ practice questions, mock exams, and smart learning paths. Pass your RTA test with confidence.",
+  icons: {
+    icon: "/icon.svg",
+  },
 };
 
 export default function RootLayout({
