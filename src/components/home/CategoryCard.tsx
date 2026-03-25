@@ -18,8 +18,6 @@ interface CategoryCardProps {
   index?: number
 }
 
-const SHADOW_YELLOW = '4px 4px 0px 0px #f5ce53'
-const SHADOW_CYAN = '4px 4px 0px 0px #81ecff'
 
 export function CategoryCard({
   category,
@@ -53,12 +51,6 @@ export function CategoryCard({
   const vehicleDict = dict.vehicles[category.type as keyof typeof dict.vehicles]
   const vehicleName = vehicleDict?.name ?? category.name
   const vehicleDesc = vehicleDict?.description ?? category.description
-
-  const buttonShadow = isComingSoon
-    ? 'none'
-    : isCompleted
-      ? SHADOW_YELLOW
-      : isEven ? SHADOW_YELLOW : SHADOW_CYAN
 
   const badgeStyle = isComingSoon
     ? 'bg-surface-container-highest text-outline'
@@ -137,12 +129,11 @@ export function CategoryCard({
 
       {/* CTA */}
       <div
-        className={`font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none border-2 ${
+        className={`font-headline font-bold py-3.5 text-center uppercase tracking-widest text-sm select-none border-3 ${
           isComingSoon
             ? 'bg-surface-container-high text-outline border-outline-variant cursor-not-allowed'
-            : 'neo-push bg-primary text-surface-container-lowest border-surface-container-lowest'
+            : 'neo-push-chunky neo-shadow-chunky bg-secondary text-surface-container-lowest border-surface-container-lowest'
         }`}
-        style={{ boxShadow: buttonShadow }}
       >
         {ctaLabels[status]}
       </div>

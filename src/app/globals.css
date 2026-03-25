@@ -100,6 +100,9 @@ body {
 .neo-shadow-tertiary {
   box-shadow: 4px 4px 0px 0px #81ecff;
 }
+.neo-shadow-chunky {
+  box-shadow: 6px 6px 0px 0px #000000;
+}
 .neo-shadow-lg {
   box-shadow: 6px 6px 0px 0px #000000;
 }
@@ -130,6 +133,20 @@ body {
 }
 .neo-push:active {
   transform: translate(4px, 4px);
+  box-shadow: none !important;
+}
+
+/* Chunky CTA push — deeper travel for 6px shadow */
+.neo-push-chunky {
+  transition: transform 0.1s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+.neo-push-chunky:hover {
+  transform: translate(2px, 2px);
+  box-shadow: 4px 4px 0px 0px #000000;
+}
+.neo-push-chunky:active {
+  transform: translate(6px, 6px);
   box-shadow: none !important;
 }
 
@@ -205,6 +222,9 @@ body {
 [dir="rtl"] .neo-shadow-tertiary {
   box-shadow: -4px 4px 0px 0px #81ecff;
 }
+[dir="rtl"] .neo-shadow-chunky {
+  box-shadow: -6px 6px 0px 0px #000000;
+}
 [dir="rtl"] .neo-shadow-lg {
   box-shadow: -6px 6px 0px 0px #000000;
 }
@@ -228,6 +248,14 @@ body {
 /* Mirror push effect for RTL */
 [dir="rtl"] .neo-push:active {
   transform: translate(-4px, 4px);
+  box-shadow: none !important;
+}
+[dir="rtl"] .neo-push-chunky:hover {
+  transform: translate(-2px, 2px);
+  box-shadow: -4px 4px 0px 0px #000000;
+}
+[dir="rtl"] .neo-push-chunky:active {
+  transform: translate(-6px, 6px);
   box-shadow: none !important;
 }
 

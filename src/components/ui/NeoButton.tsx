@@ -14,7 +14,7 @@ interface NeoButtonProps extends ButtonHTMLAttributes<HTMLButtonElement> {
 
 const variantStyles: Record<Variant, string> = {
   primary:
-    'bg-primary text-on-primary-container border-2 border-surface-container-lowest neo-shadow font-headline font-bold',
+    'bg-secondary text-surface-container-lowest border-3 border-surface-container-lowest neo-shadow-chunky font-headline font-bold',
   secondary:
     'bg-secondary text-on-secondary border-2 border-surface-container-lowest neo-shadow-secondary font-headline font-bold',
   tertiary:
@@ -42,7 +42,7 @@ export function NeoButton({
   return (
     <button
       className={clsx(
-        'neo-push inline-flex items-center justify-center gap-2 uppercase tracking-wider',
+        `${variant === 'primary' ? 'neo-push-chunky' : 'neo-push'} inline-flex items-center justify-center gap-2 uppercase tracking-wider`,
         variantStyles[variant],
         sizeStyles[size],
         fullWidth && 'w-full',
