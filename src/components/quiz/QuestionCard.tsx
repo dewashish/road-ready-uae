@@ -5,6 +5,7 @@ import { NeoCard } from '@/components/ui/NeoCard'
 import { AnswerOption } from './AnswerOption'
 import { getQuestionIllustration } from '@/lib/svg'
 import type { Question } from '@/types/quiz'
+import { useDictionary } from '@/i18n/DictionaryContext'
 
 interface QuestionCardProps {
   question: Question
@@ -24,6 +25,7 @@ export function QuestionCard({
   isAnswered,
   onSelectAnswer,
 }: QuestionCardProps) {
+  const dict = useDictionary()
   const correctAnswerId = question.answers.find((a) => a.is_correct)?.id
   const Illustration = question.svg_illustration_key
     ? getQuestionIllustration(question.svg_illustration_key)
@@ -35,13 +37,13 @@ export function QuestionCard({
         {/* Question Header */}
         <div className="flex items-center gap-3 mb-4">
           <span className="font-label text-xs font-bold text-on-surface-variant uppercase tracking-widest">
-            Question {questionNumber} of {totalQuestions}
+            {dict.quiz.questionOf.replace('{current}', String(questionNumber)).replace('{total}', String(totalQuestions))}
           </span>
           <div className="flex-1" />
           {question.is_edcad_style && (
             <span className="inline-flex items-center gap-1 bg-tertiary/10 px-2 py-0.5 font-label text-[10px] font-bold text-tertiary uppercase tracking-wider">
               <span className="material-symbols-outlined" style={{ fontSize: 12 }}>verified</span>
-              EDCAD
+              {dict.quiz.edcad}
             </span>
           )}
           <span className="font-label text-xs text-outline uppercase tracking-wider">
@@ -82,13 +84,13 @@ export function QuestionCard({
 
         {/* Explanation (shown after answering) */}
         {isAnswered && question.explanation && (
-          <div className="mt-5 p-4 bg-surface-container-lowest border-l-4 border-tertiary">
+          <div className="mt-5 p-4 bg-surface-container-lowest border-s-4 border-tertiary">
             <div className="flex items-center gap-2 mb-1">
               <span className="material-symbols-outlined text-tertiary" style={{ fontSize: 18 }}>
                 lightbulb
               </span>
               <span className="font-label text-xs font-bold text-tertiary uppercase tracking-wider">
-                Explanation
+                {dict.quiz.explanation}
               </span>
             </div>
             <p className="text-sm text-on-surface-variant leading-relaxed">

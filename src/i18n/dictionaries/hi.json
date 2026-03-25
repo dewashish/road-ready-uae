@@ -1,0 +1,173 @@
+{
+  "common": {
+    "home": "होम",
+    "history": "इतिहास",
+    "progress": "प्रगति",
+    "signIn": "साइन इन",
+    "signUp": "साइन अप",
+    "signOut": "साइन आउट",
+    "signedInAs": "इस रूप में साइन इन",
+    "back": "वापस",
+    "loading": "लोड हो रहा है...",
+    "comingSoon": "जल्द आ रहा है",
+    "xp": "XP",
+    "dayStreak": "दिन की स्ट्रीक",
+    "correct": "सही",
+    "wrong": "गलत",
+    "skip": "छोड़ें",
+    "start": "शुरू करें",
+    "continue": "जारी रखें",
+    "review": "समीक्षा",
+    "unavailable": "उपलब्ध नहीं",
+    "new": "नया",
+    "inProgress": "जारी है",
+    "completed": "पूरा हुआ",
+    "locked": "लॉक",
+    "passed": "पास",
+    "failed": "फेल",
+    "questionsAvailableInEnglish": "प्रश्न वर्तमान में अंग्रेज़ी में उपलब्ध हैं"
+  },
+  "hero": {
+    "uaes1": "UAE का #1",
+    "theoryTest": "थ्योरी टेस्ट",
+    "platform": "प्लेटफॉर्म",
+    "officialQuestions": "आधिकारिक स्रोत के प्रश्न",
+    "adaptiveLearning": "अनुकूली शिक्षण पथ",
+    "realExam": "वास्तविक परीक्षा सिमुलेशन",
+    "startPracticing": "अभ्यास शुरू करें"
+  },
+  "home": {
+    "chooseVehicle": "अपना वाहन चुनें",
+    "dailyChallenge": "दैनिक चुनौती",
+    "dailyChallengeDesc": "अपनी स्ट्रीक बनाए रखने के लिए आज {target} प्रश्नों के उत्तर दें"
+  },
+  "vehicles": {
+    "B": { "name": "हल्का वाहन", "description": "कार, SUV और 3,500 किलो तक के हल्के वाहन" },
+    "A": { "name": "मोटरसाइकिल", "description": "दो पहिया मोटर वाहन और स्कूटर" },
+    "C": { "name": "भारी ट्रक", "description": "3,500 किलो से अधिक के वाणिज्यिक ट्रक और लॉरी" },
+    "D": { "name": "हल्की बस", "description": "26 यात्रियों तक की मिनीबस और कोच" },
+    "E": { "name": "भारी बस", "description": "26+ सीटों वाली बड़ी यात्री बसें" },
+    "F": { "name": "फोर्कलिफ्ट", "description": "औद्योगिक फोर्कलिफ्ट और वेयरहाउस लिफ्ट ट्रक" }
+  },
+  "categoryCard": {
+    "startModule": "मॉड्यूल शुरू करें",
+    "continue": "जारी रखें",
+    "review": "समीक्षा",
+    "unavailable": "उपलब्ध नहीं",
+    "comingSoon": "जल्द आ रहा है"
+  },
+  "modules": {
+    "road-signs": { "title": "यातायात चिन्ह", "description": "नियामक, चेतावनी और सूचनात्मक चिन्ह सीखें" },
+    "traffic-rules": { "title": "सड़क नियम", "description": "गति सीमा, रास्ते का अधिकार, लेन अनुशासन" },
+    "hazard-perception": { "title": "खतरे की पहचान", "description": "खतरनाक स्थितियों को पहचानें और उनका जवाब दें" },
+    "driving-conditions": { "title": "ड्राइविंग परिस्थितियाँ", "description": "शहर, हाईवे और प्रतिकूल मौसम में ड्राइविंग" },
+    "critical-situations": { "title": "गंभीर स्थितियाँ", "description": "आपातकालीन प्रतिक्रिया और दुर्घटना प्रक्रियाएँ" },
+    "driving-behavior": { "title": "सुरक्षित ड्राइविंग", "description": "शिष्टाचार, सौजन्य और रक्षात्मक ड्राइविंग" },
+    "vehicle-maintenance": { "title": "वाहन ज्ञान", "description": "वाहन प्रणालियाँ, रखरखाव और सुरक्षा सुविधाएँ" }
+  },
+  "quiz": {
+    "questionOf": "प्रश्न {current} / {total}",
+    "complete": "{percent}% पूरा",
+    "checkAnswer": "उत्तर जाँचें",
+    "nextQuestion": "अगला प्रश्न",
+    "seeResults": "परिणाम देखें",
+    "explanation": "व्याख्या",
+    "edcad": "EDCAD",
+    "loadingQuestions": "प्रश्न लोड हो रहे हैं...",
+    "questionsCount": "{count} प्रश्न",
+    "questionsSeen": "{seen}/{total} प्रश्न देखे ({percent}%)",
+    "bestScore": "सर्वश्रेष्ठ: {percent}%",
+    "timesDone": "{count}x पूरा"
+  },
+  "results": {
+    "title": "परिणाम",
+    "accuracy": "{percent}% सटीकता",
+    "xpEarned": "अर्जित XP",
+    "passMessage": "शानदार! आपने यह मॉड्यूल पास कर लिया।",
+    "failMessage": "पास होने के लिए 71% चाहिए। अभ्यास जारी रखें!",
+    "reviewWrongAnswers": "गलत उत्तर देखें ({count})",
+    "practiceAgain": "फिर से अभ्यास करें",
+    "tryAgain": "फिर से प्रयास करें",
+    "backToModules": "मॉड्यूल पर वापस जाएँ"
+  },
+  "mockExam": {
+    "title": "मॉक परीक्षा",
+    "simulateDesc": "असली UAE ड्राइविंग टेस्ट का अनुकरण करें",
+    "examInfo": "प्रत्येक टेस्ट में {questions} प्रश्न और {minutes} मिनट की समय सीमा है। पास होने के लिए {percent}% चाहिए।",
+    "bestScore": "सर्वश्रेष्ठ स्कोर",
+    "totalAttempts": "कुल प्रयास",
+    "preparing": "{title} तैयार हो रहा है...",
+    "timesUp": "समय समाप्त!",
+    "calculatingResults": "आपके परिणामों की गणना हो रही है...",
+    "invalidExamId": "अमान्य परीक्षा ID",
+    "unlocked": "अनलॉक",
+    "completeAllModules": "सभी मॉड्यूल पूरे करें",
+    "completeAllModulesDesc": "8 टेस्ट, 45 प्रश्न, 30 मिनट प्रत्येक - पहले सभी मॉड्यूल पूरे करें",
+    "mockExamsInfo": "8 टेस्ट · 45 प्रश्न · 30 मिनट प्रत्येक",
+    "tryAnotherTest": "दूसरा टेस्ट लें",
+    "timeSpent": "लगा समय",
+    "passMessageExam": "बहुत बढ़िया! आपने मॉक परीक्षा पास कर ली!",
+    "failMessageExam": "पास होने के लिए {percent}% चाहिए। अभ्यास जारी रखें!"
+  },
+  "auth": {
+    "welcomeBack": "वापसी पर स्वागत है",
+    "createAccount": "खाता बनाएँ",
+    "signInDesc": "अपनी प्रगति सभी डिवाइस पर सिंक करने के लिए साइन इन करें",
+    "signUpDesc": "अपना क्विज़ इतिहास और प्रगति सेव करने के लिए साइन अप करें",
+    "email": "ईमेल",
+    "emailPlaceholder": "your@email.com",
+    "password": "पासवर्ड",
+    "passwordPlaceholderSignUp": "कम से कम 6 अक्षर",
+    "passwordPlaceholderSignIn": "पासवर्ड दर्ज करें",
+    "confirmPassword": "पासवर्ड की पुष्टि करें",
+    "confirmPasswordPlaceholder": "पासवर्ड की पुष्टि करें",
+    "pleaseWait": "कृपया प्रतीक्षा करें...",
+    "dontHaveAccount": "खाता नहीं है?",
+    "alreadyHaveAccount": "पहले से खाता है?",
+    "whySignIn": "साइन इन क्यों करें?",
+    "syncProgress": "सभी डिवाइस पर प्रगति सिंक करें",
+    "permanentHistory": "स्थायी क्विज़ इतिहास",
+    "trackStreaks": "स्ट्रीक और XP ट्रैक करें",
+    "passwordMinLength": "पासवर्ड कम से कम 6 अक्षरों का होना चाहिए",
+    "passwordsDontMatch": "पासवर्ड मेल नहीं खाते",
+    "welcomeBackToast": "वापसी पर स्वागत है!",
+    "accountCreatedToast": "खाता बन गया! पुष्टि के लिए अपना ईमेल जाँचें।"
+  },
+  "historyPage": {
+    "title": "क्विज़",
+    "titleHighlight": "इतिहास",
+    "saveProgressTitle": "अपनी प्रगति स्थायी रूप से सेव करें",
+    "saveProgressDesc": "अपने क्विज़ इतिहास, XP और स्ट्रीक को सभी डिवाइस पर सेव रखने के लिए साइन इन करें। बिना खाते के, आपका इतिहास केवल इस ब्राउज़र में संग्रहीत है।",
+    "noHistoryTitle": "अभी तक कोई इतिहास नहीं",
+    "noHistoryDesc": "अपना प्रयास इतिहास यहाँ देखने के लिए एक क्विज़ पूरा करें।",
+    "startQuiz": "क्विज़ शुरू करें",
+    "wrongAnswers": "गलत उत्तर ({count})",
+    "perfectScore": "परफेक्ट स्कोर! कोई गलत उत्तर नहीं।",
+    "skipped": "(छोड़ा गया)"
+  },
+  "progressPage": {
+    "title": "आपकी",
+    "titleHighlight": "प्रगति",
+    "totalXp": "कुल XP",
+    "avgScore": "औसत स्कोर",
+    "quizzesDone": "पूरे किए क्विज़",
+    "dayStreak": "दिन की स्ट्रीक",
+    "moduleMastery": "मॉड्यूल दक्षता",
+    "noActivity": "अभी तक कोई गतिविधि नहीं। अपनी प्रगति देखने के लिए एक क्विज़ शुरू करें!"
+  },
+  "leaderboard": {
+    "title": "लीडर",
+    "titleHighlight": "बोर्ड",
+    "comingSoonTitle": "जल्द आ रहा है",
+    "comingSoonDesc": "साइन अप करें और क्विज़ पूरे करके XP कमाएँ और UAE के अन्य शिक्षार्थियों से प्रतिस्पर्धा करें।"
+  },
+  "languageSwitcher": {
+    "label": "भाषा"
+  },
+  "seo": {
+    "title": "Road Ready UAE – मुफ़्त ड्राइविंग थ्योरी टेस्ट अभ्यास",
+    "description": "अपनी UAE ड्राइविंग थ्योरी टेस्ट पहली बार में पास करें। हल्के वाहन, मोटरसाइकिल, भारी ट्रक, हल्की बस और भारी बस के लिए मुफ़्त अभ्यास प्रश्न — RTA परीक्षा मानकों के अनुसार।",
+    "ogTitle": "Road Ready UAE – मुफ़्त ड्राइविंग थ्योरी टेस्ट अभ्यास",
+    "ogDescription": "UAE का #1 थ्योरी टेस्ट प्लेटफॉर्म। सभी वाहन श्रेणियों के लिए वास्तविक परीक्षा शैली के प्रश्नों से अभ्यास करें।"
+  }
+}

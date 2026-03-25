@@ -40,7 +40,7 @@ export function AnswerOption({
       onClick={onClick}
       disabled={isAnswered}
       className={clsx(
-        'w-full flex items-center gap-4 p-4 border-2 text-left transition-all neo-push',
+        'w-full flex items-center gap-4 p-4 border-2 text-start transition-all neo-push',
         getStyles()
       )}
     >

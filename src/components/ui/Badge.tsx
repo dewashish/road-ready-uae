@@ -21,14 +21,14 @@ export function Badge({ variant = 'default', children, className }: BadgeProps) 
   return (
     <span
       className={clsx(
-        'inline-flex items-center gap-1 px-3 py-1 font-label text-xs font-bold uppercase tracking-widest border-l-2',
+        'inline-flex items-center gap-1 px-3 py-1 font-label text-xs font-bold uppercase tracking-widest border-s-2',
         variantStyles[variant],
-        variant === 'success' && 'border-l-success',
-        variant === 'warning' && 'border-l-secondary',
-        variant === 'error' && 'border-l-error',
-        variant === 'info' && 'border-l-tertiary',
-        variant === 'locked' && 'border-l-outline',
-        variant === 'default' && 'border-l-on-surface-variant',
+        variant === 'success' && 'border-s-success',
+        variant === 'warning' && 'border-s-secondary',
+        variant === 'error' && 'border-s-error',
+        variant === 'info' && 'border-s-tertiary',
+        variant === 'locked' && 'border-s-outline',
+        variant === 'default' && 'border-s-on-surface-variant',
         className
       )}
     >

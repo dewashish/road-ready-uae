@@ -1,0 +1,173 @@
+{
+  "common": {
+    "home": "الرئيسية",
+    "history": "السجل",
+    "progress": "التقدم",
+    "signIn": "تسجيل الدخول",
+    "signUp": "إنشاء حساب",
+    "signOut": "تسجيل الخروج",
+    "signedInAs": "مسجّل الدخول باسم",
+    "back": "رجوع",
+    "loading": "جاري التحميل...",
+    "comingSoon": "قريباً",
+    "xp": "XP",
+    "dayStreak": "أيام متتالية",
+    "correct": "صحيح",
+    "wrong": "خطأ",
+    "skip": "تخطي",
+    "start": "ابدأ",
+    "continue": "متابعة",
+    "review": "مراجعة",
+    "unavailable": "غير متاح",
+    "new": "جديد",
+    "inProgress": "قيد التقدم",
+    "completed": "مكتمل",
+    "locked": "مقفل",
+    "passed": "ناجح",
+    "failed": "راسب",
+    "questionsAvailableInEnglish": "الأسئلة متوفرة حالياً باللغة الإنجليزية"
+  },
+  "hero": {
+    "uaes1": "الأول في الإمارات",
+    "theoryTest": "اختبار النظري",
+    "platform": "منصة",
+    "officialQuestions": "أسئلة من المصادر الرسمية",
+    "adaptiveLearning": "مسارات تعلّم تكيّفية",
+    "realExam": "محاكاة الاختبار الحقيقي",
+    "startPracticing": "ابدأ التدريب"
+  },
+  "home": {
+    "chooseVehicle": "اختر نوع المركبة",
+    "dailyChallenge": "التحدي اليومي",
+    "dailyChallengeDesc": "أجب على {target} سؤال اليوم للحفاظ على سلسلتك"
+  },
+  "vehicles": {
+    "B": { "name": "مركبة خفيفة", "description": "سيارات ومركبات رباعية الدفع ومركبات خفيفة حتى 3,500 كجم" },
+    "A": { "name": "دراجة نارية", "description": "المركبات ذات العجلتين والدراجات البخارية" },
+    "C": { "name": "شاحنة ثقيلة", "description": "الشاحنات التجارية التي يزيد وزنها عن 3,500 كجم" },
+    "D": { "name": "حافلة خفيفة", "description": "حافلات صغيرة تتسع حتى 26 راكباً" },
+    "E": { "name": "حافلة ثقيلة", "description": "حافلات ركاب كبيرة بأكثر من 26 مقعداً" },
+    "F": { "name": "رافعة شوكية", "description": "رافعات شوكية صناعية ورافعات المستودعات" }
+  },
+  "categoryCard": {
+    "startModule": "ابدأ الوحدة",
+    "continue": "متابعة",
+    "review": "مراجعة",
+    "unavailable": "غير متاح",
+    "comingSoon": "قريباً"
+  },
+  "modules": {
+    "road-signs": { "title": "إشارات المرور", "description": "تعلّم الإشارات التنظيمية والتحذيرية والإرشادية" },
+    "traffic-rules": { "title": "قواعد المرور", "description": "حدود السرعة وأولوية المرور والانضباط في المسارات" },
+    "hazard-perception": { "title": "إدراك المخاطر", "description": "تحديد المواقف الخطرة والتعامل معها" },
+    "driving-conditions": { "title": "ظروف القيادة", "description": "القيادة في المدينة والطريق السريع والأحوال الجوية السيئة" },
+    "critical-situations": { "title": "المواقف الحرجة", "description": "الاستجابة للطوارئ وإجراءات الحوادث" },
+    "driving-behavior": { "title": "القيادة الآمنة", "description": "آداب القيادة واللباقة والقيادة الوقائية" },
+    "vehicle-maintenance": { "title": "معرفة المركبة", "description": "أنظمة المركبة والصيانة وميزات السلامة" }
+  },
+  "quiz": {
+    "questionOf": "السؤال {current} من {total}",
+    "complete": "مكتمل {percent}%",
+    "checkAnswer": "تحقق من الإجابة",
+    "nextQuestion": "السؤال التالي",
+    "seeResults": "عرض النتائج",
+    "explanation": "الشرح",
+    "edcad": "EDCAD",
+    "loadingQuestions": "جاري تحميل الأسئلة...",
+    "questionsCount": "{count} سؤال",
+    "questionsSeen": "تمت مشاهدة {seen}/{total} سؤال ({percent}%)",
+    "bestScore": "الأفضل: {percent}%",
+    "timesDone": "أُنجز {count} مرة"
+  },
+  "results": {
+    "title": "النتائج",
+    "accuracy": "الدقة {percent}%",
+    "xpEarned": "XP المكتسبة",
+    "passMessage": "عمل رائع! لقد اجتزت هذه الوحدة بنجاح.",
+    "failMessage": "تحتاج إلى 71% للنجاح. واصل التدريب!",
+    "reviewWrongAnswers": "مراجعة الإجابات الخاطئة ({count})",
+    "practiceAgain": "تدرّب مرة أخرى",
+    "tryAgain": "حاول مرة أخرى",
+    "backToModules": "العودة إلى الوحدات"
+  },
+  "mockExam": {
+    "title": "الاختبارات التجريبية",
+    "simulateDesc": "محاكاة اختبار القيادة الحقيقي في الإمارات",
+    "examInfo": "كل اختبار يحتوي على {questions} سؤال ومدته {minutes} دقيقة. تحتاج إلى {percent}% للنجاح.",
+    "bestScore": "أفضل نتيجة",
+    "totalAttempts": "إجمالي المحاولات",
+    "preparing": "جاري تحضير {title}...",
+    "timesUp": "انتهى الوقت!",
+    "calculatingResults": "جاري حساب نتائجك...",
+    "invalidExamId": "معرّف اختبار غير صالح",
+    "unlocked": "مفتوح",
+    "completeAllModules": "أكمل جميع الوحدات",
+    "completeAllModulesDesc": "8 اختبارات، 45 سؤال، 30 دقيقة لكل اختبار - أكمل جميع الوحدات أولاً",
+    "mockExamsInfo": "8 اختبارات · 45 سؤال · 30 دقيقة لكل اختبار",
+    "tryAnotherTest": "جرّب اختباراً آخر",
+    "timeSpent": "الوقت المستغرق",
+    "passMessageExam": "ممتاز! لقد اجتزت الاختبار التجريبي بنجاح!",
+    "failMessageExam": "تحتاج إلى {percent}% للنجاح. واصل التدريب!"
+  },
+  "auth": {
+    "welcomeBack": "مرحباً بعودتك",
+    "createAccount": "إنشاء حساب",
+    "signInDesc": "سجّل الدخول لمزامنة تقدمك عبر الأجهزة",
+    "signUpDesc": "أنشئ حساباً لحفظ سجل الاختبارات وتقدمك",
+    "email": "البريد الإلكتروني",
+    "emailPlaceholder": "your@email.com",
+    "password": "كلمة المرور",
+    "passwordPlaceholderSignUp": "6 أحرف على الأقل",
+    "passwordPlaceholderSignIn": "أدخل كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور",
+    "confirmPasswordPlaceholder": "أكّد كلمة المرور",
+    "pleaseWait": "يرجى الانتظار...",
+    "dontHaveAccount": "ليس لديك حساب؟",
+    "alreadyHaveAccount": "لديك حساب بالفعل؟",
+    "whySignIn": "لماذا تسجّل الدخول؟",
+    "syncProgress": "مزامنة التقدم عبر الأجهزة",
+    "permanentHistory": "سجل اختبارات دائم",
+    "trackStreaks": "تتبع السلاسل و XP",
+    "passwordMinLength": "يجب أن تكون كلمة المرور 6 أحرف على الأقل",
+    "passwordsDontMatch": "كلمتا المرور غير متطابقتين",
+    "welcomeBackToast": "مرحباً بعودتك!",
+    "accountCreatedToast": "تم إنشاء الحساب! تحقق من بريدك الإلكتروني للتأكيد."
+  },
+  "historyPage": {
+    "title": "سجل",
+    "titleHighlight": "الاختبارات",
+    "saveProgressTitle": "احفظ تقدمك بشكل دائم",
+    "saveProgressDesc": "سجّل الدخول للحفاظ على سجل الاختبارات و XP والسلاسل محفوظة عبر جميع أجهزتك. بدون حساب، يتم حفظ السجل في هذا المتصفح فقط.",
+    "noHistoryTitle": "لا يوجد سجل بعد",
+    "noHistoryDesc": "أكمل اختباراً لمشاهدة سجل محاولاتك هنا.",
+    "startQuiz": "ابدأ اختباراً",
+    "wrongAnswers": "الإجابات الخاطئة ({count})",
+    "perfectScore": "نتيجة مثالية! لا إجابات خاطئة.",
+    "skipped": "(تم التخطي)"
+  },
+  "progressPage": {
+    "title": "تقدمك",
+    "titleHighlight": "الشخصي",
+    "totalXp": "إجمالي XP",
+    "avgScore": "متوسط النتيجة",
+    "quizzesDone": "الاختبارات المنجزة",
+    "dayStreak": "أيام متتالية",
+    "moduleMastery": "إتقان الوحدات",
+    "noActivity": "لا يوجد نشاط بعد. ابدأ اختباراً لمتابعة تقدمك!"
+  },
+  "leaderboard": {
+    "title": "لوحة",
+    "titleHighlight": "المتصدرين",
+    "comingSoonTitle": "قريباً",
+    "comingSoonDesc": "سجّل وأكمل الاختبارات لكسب XP والتنافس مع المتعلمين الآخرين في الإمارات."
+  },
+  "languageSwitcher": {
+    "label": "اللغة"
+  },
+  "seo": {
+    "title": "Road Ready UAE – تدريب مجاني على اختبار القيادة النظري",
+    "description": "اجتز اختبار القيادة النظري في الإمارات من المحاولة الأولى. أسئلة تدريبية مجانية للمركبة الخفيفة والدراجة النارية والشاحنة الثقيلة والحافلة الخفيفة والحافلة الثقيلة — متوافقة مع معايير اختبار هيئة الطرق والمواصلات.",
+    "ogTitle": "Road Ready UAE – تدريب مجاني على اختبار القيادة النظري",
+    "ogDescription": "المنصة الأولى في الإمارات لاختبار النظري. تدرّب بأسئلة على نمط الاختبار الحقيقي لجميع فئات المركبات."
+  }
+}

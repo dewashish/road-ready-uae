@@ -1,7 +1,11 @@
+'use client'
+
 import Link from 'next/link'
 import { NeoCard } from '@/components/ui/NeoCard'
 import { ProgressBar } from '@/components/ui/ProgressBar'
 import type { VehicleCategory } from '@/types/quiz'
+import { useDictionary, useLocale } from '@/i18n/DictionaryContext'
+import { localePath } from '@/i18n/utils'
 
 export type CardStatus = 'new' | 'active' | 'completed' | 'coming_soon'
 
@@ -14,36 +18,8 @@ interface CategoryCardProps {
   index?: number
 }
 
-/*
- * NeoPOP / CRED style — light from upper-left, hard shadow offset bottom-right.
- *
- * Alternation by card index:
- *   Even (0, 2, 4…) → yellow button shadow, yellow badge, cyan progress bar
- *   Odd  (1, 3, 5…) → cyan button shadow,   cyan badge,   yellow progress bar
- *
- * Badge color = same as button shadow color (alternates together).
- * Progress bar color = opposite of button shadow.
- *
- * COMPLETED: everything yellow.
- * COMING_SOON: greyed out, no shadow, unavailable.
- */
-
 const SHADOW_YELLOW = '4px 4px 0px 0px #f5ce53'
 const SHADOW_CYAN = '4px 4px 0px 0px #81ecff'
-
-const ctaLabels: Record<CardStatus, string> = {
-  new: 'Start Module',
-  active: 'Continue',
-  completed: 'Review',
-  coming_soon: 'Unavailable',
-}
-
-const badgeLabels: Record<CardStatus, string> = {
-  new: 'NEW',
-  active: 'IN PROGRESS',
-  completed: 'COMPLETED',
-  coming_soon: 'COMING SOON',
-}
 
 export function CategoryCard({
   category,
@@ -52,13 +28,32 @@ export function CategoryCard({
   status = 'new',
   index = 0,
 }: CategoryCardProps) {
+  const dict = useDictionary()
+  const locale = useLocale()
   const percent = Math.round((completedModules / totalModules) * 100)
   const isComingSoon = status === 'coming_soon'
   const isCompleted = status === 'completed'
   const isEven = index % 2 === 0
 
-  // Determine accent colors based on alternation
-  // Badge + button shadow share the same color; progress bar is the opposite
+  const ctaLabels: Record<CardStatus, string> = {
+    new: dict.categoryCard.startModule,
+    active: dict.categoryCard.continue,
+    completed: dict.categoryCard.review,
+    coming_soon: dict.categoryCard.unavailable,
+  }
+
+  const badgeLabels: Record<CardStatus, string> = {
+    new: dict.common.new,
+    active: dict.common.inProgress,
+    completed: dict.common.completed,
+    coming_soon: dict.categoryCard.comingSoon,
+  }
+
+  // Get translated vehicle name/description from dictionary
+  const vehicleDict = dict.vehicles[category.type as keyof typeof dict.vehicles]
+  const vehicleName = vehicleDict?.name ?? category.name
+  const vehicleDesc = vehicleDict?.description ?? category.description
+
   const buttonShadow = isComingSoon
     ? 'none'
     : isCompleted
@@ -107,20 +102,20 @@ export function CategoryCard({
       <h3 className={`font-headline text-lg font-bold uppercase tracking-wider mb-1.5 ${
         isComingSoon ? 'text-outline' : 'text-primary'
       }`}>
-        {category.name}
+        {vehicleName}
       </h3>
 
       {/* Description */}
       <p className={`text-sm leading-relaxed mb-5 ${
         isComingSoon ? 'text-outline' : 'text-on-surface-variant'
       }`}>
-        {category.description}
+        {vehicleDesc}
       </p>
 
       {/* Spacer to push CTA to bottom */}
       <div className="flex-1" />
 
-      {/* Progress bar — always render the space, hide content for coming_soon */}
+      {/* Progress bar */}
       <div className="mb-5">
         {isComingSoon ? (
           <div className="h-[24px]" />
@@ -133,7 +128,7 @@ export function CategoryCard({
               size="md"
               className="flex-1"
             />
-            <span className="font-label text-xs text-on-surface-variant font-bold whitespace-nowrap min-w-[32px] text-right">
+            <span className="font-label text-xs text-on-surface-variant font-bold whitespace-nowrap min-w-[32px] text-end">
               {percent}%
             </span>
           </div>
@@ -159,7 +154,7 @@ export function CategoryCard({
   }
 
   return (
-    <Link href={`/quiz/${category.type}`} className="h-full">
+    <Link href={localePath(locale, `/quiz/${category.type}`)} className="h-full">
       {card}
     </Link>
   )

@@ -1,0 +1,173 @@
+{
+  "common": {
+    "home": "হোম",
+    "history": "ইতিহাস",
+    "progress": "অগ্রগতি",
+    "signIn": "সাইন ইন",
+    "signUp": "সাইন আপ",
+    "signOut": "সাইন আউট",
+    "signedInAs": "লগইন করা হয়েছে",
+    "back": "পেছনে",
+    "loading": "লোড হচ্ছে...",
+    "comingSoon": "শীঘ্রই আসছে",
+    "xp": "XP",
+    "dayStreak": "দিনের ধারা",
+    "correct": "সঠিক",
+    "wrong": "ভুল",
+    "skip": "এড়িয়ে যান",
+    "start": "শুরু করুন",
+    "continue": "চালিয়ে যান",
+    "review": "পর্যালোচনা",
+    "unavailable": "অনুপলব্ধ",
+    "new": "নতুন",
+    "inProgress": "চলমান",
+    "completed": "সম্পন্ন",
+    "locked": "লক করা",
+    "passed": "উত্তীর্ণ",
+    "failed": "অনুত্তীর্ণ",
+    "questionsAvailableInEnglish": "প্রশ্নগুলো বর্তমানে ইংরেজিতে পাওয়া যাচ্ছে"
+  },
+  "hero": {
+    "uaes1": "UAE-এর #১",
+    "theoryTest": "থিওরি টেস্ট",
+    "platform": "প্ল্যাটফর্ম",
+    "officialQuestions": "অফিসিয়াল সোর্স প্রশ্ন",
+    "adaptiveLearning": "অ্যাডাপ্টিভ লার্নিং পথ",
+    "realExam": "বাস্তব পরীক্ষার সিমুলেশন",
+    "startPracticing": "অনুশীলন শুরু করুন"
+  },
+  "home": {
+    "chooseVehicle": "আপনার যানবাহন বেছে নিন",
+    "dailyChallenge": "দৈনিক চ্যালেঞ্জ",
+    "dailyChallengeDesc": "আপনার ধারা বজায় রাখতে আজ {target}টি প্রশ্নের উত্তর দিন"
+  },
+  "vehicles": {
+    "B": { "name": "হালকা যানবাহন", "description": "কার, SUV এবং ৩,৫০০ কেজি পর্যন্ত হালকা যানবাহন" },
+    "A": { "name": "মোটরসাইকেল", "description": "দুই চাকার মোটর যানবাহন এবং স্কুটার" },
+    "C": { "name": "ভারী ট্রাক", "description": "৩,৫০০ কেজির বেশি বাণিজ্যিক ট্রাক ও লরি" },
+    "D": { "name": "হালকা বাস", "description": "২৬ জন যাত্রী পর্যন্ত মিনিবাস ও কোচ" },
+    "E": { "name": "ভারী বাস", "description": "২৬+ আসনের বড় যাত্রীবাহী বাস" },
+    "F": { "name": "ফর্কলিফট", "description": "শিল্প ফর্কলিফট এবং গুদাম লিফট ট্রাক" }
+  },
+  "categoryCard": {
+    "startModule": "মডিউল শুরু করুন",
+    "continue": "চালিয়ে যান",
+    "review": "পর্যালোচনা",
+    "unavailable": "অনুপলব্ধ",
+    "comingSoon": "শীঘ্রই আসছে"
+  },
+  "modules": {
+    "road-signs": { "title": "ট্রাফিক সাইন", "description": "নিয়ন্ত্রক, সতর্কতা এবং তথ্যমূলক সাইন শিখুন" },
+    "traffic-rules": { "title": "সড়ক নিয়ম", "description": "গতিসীমা, অগ্রাধিকার, লেন শৃঙ্খলা" },
+    "hazard-perception": { "title": "বিপদ সনাক্তকরণ", "description": "বিপজ্জনক পরিস্থিতি চিহ্নিত করুন ও সাড়া দিন" },
+    "driving-conditions": { "title": "ড্রাইভিং পরিস্থিতি", "description": "শহর, হাইওয়ে এবং প্রতিকূল আবহাওয়ায় ড্রাইভিং" },
+    "critical-situations": { "title": "জটিল পরিস্থিতি", "description": "জরুরি প্রতিক্রিয়া এবং দুর্ঘটনা পদ্ধতি" },
+    "driving-behavior": { "title": "নিরাপদ ড্রাইভিং", "description": "শিষ্টাচার, সৌজন্য এবং ডিফেন্সিভ ড্রাইভিং" },
+    "vehicle-maintenance": { "title": "যানবাহন জ্ঞান", "description": "যানবাহনের সিস্টেম, রক্ষণাবেক্ষণ এবং নিরাপত্তা বৈশিষ্ট্য" }
+  },
+  "quiz": {
+    "questionOf": "প্রশ্ন {current} / {total}",
+    "complete": "{percent}% সম্পন্ন",
+    "checkAnswer": "উত্তর যাচাই করুন",
+    "nextQuestion": "পরবর্তী প্রশ্ন",
+    "seeResults": "ফলাফল দেখুন",
+    "explanation": "ব্যাখ্যা",
+    "edcad": "EDCAD",
+    "loadingQuestions": "প্রশ্ন লোড হচ্ছে...",
+    "questionsCount": "{count}টি প্রশ্ন",
+    "questionsSeen": "{seen}/{total}টি প্রশ্ন দেখা হয়েছে ({percent}%)",
+    "bestScore": "সেরা: {percent}%",
+    "timesDone": "{count}বার সম্পন্ন"
+  },
+  "results": {
+    "title": "ফলাফল",
+    "accuracy": "{percent}% নির্ভুলতা",
+    "xpEarned": "অর্জিত XP",
+    "passMessage": "চমৎকার! আপনি এই মডিউলে উত্তীর্ণ হয়েছেন।",
+    "failMessage": "উত্তীর্ণ হতে ৭১% প্রয়োজন। অনুশীলন চালিয়ে যান!",
+    "reviewWrongAnswers": "ভুল উত্তর পর্যালোচনা ({count})",
+    "practiceAgain": "আবার অনুশীলন করুন",
+    "tryAgain": "আবার চেষ্টা করুন",
+    "backToModules": "মডিউলে ফিরে যান"
+  },
+  "mockExam": {
+    "title": "মক পরীক্ষা",
+    "simulateDesc": "UAE ড্রাইভিং পরীক্ষার সিমুলেশন",
+    "examInfo": "প্রতিটি পরীক্ষায় {questions}টি প্রশ্ন এবং {minutes} মিনিটের সময়সীমা রয়েছে। উত্তীর্ণ হতে {percent}% প্রয়োজন।",
+    "bestScore": "সেরা স্কোর",
+    "totalAttempts": "মোট প্রচেষ্টা",
+    "preparing": "{title} প্রস্তুত করা হচ্ছে...",
+    "timesUp": "সময় শেষ!",
+    "calculatingResults": "আপনার ফলাফল গণনা করা হচ্ছে...",
+    "invalidExamId": "অবৈধ পরীক্ষার ID",
+    "unlocked": "আনলক করা হয়েছে",
+    "completeAllModules": "সব মডিউল সম্পন্ন করুন",
+    "completeAllModulesDesc": "৮টি পরীক্ষা, ৪৫টি প্রশ্ন, প্রতিটি ৩০ মিনিট - আগে সব মডিউল সম্পন্ন করুন",
+    "mockExamsInfo": "৮টি পরীক্ষা · ৪৫টি প্রশ্ন · প্রতিটি ৩০ মিনিট",
+    "tryAnotherTest": "অন্য পরীক্ষা দিন",
+    "timeSpent": "ব্যয়িত সময়",
+    "passMessageExam": "চমৎকার! আপনি মক পরীক্ষায় উত্তীর্ণ হয়েছেন!",
+    "failMessageExam": "উত্তীর্ণ হতে {percent}% প্রয়োজন। অনুশীলন চালিয়ে যান!"
+  },
+  "auth": {
+    "welcomeBack": "স্বাগতম",
+    "createAccount": "অ্যাকাউন্ট তৈরি করুন",
+    "signInDesc": "সব ডিভাইসে আপনার অগ্রগতি সিঙ্ক করতে সাইন ইন করুন",
+    "signUpDesc": "আপনার কুইজ ইতিহাস ও অগ্রগতি সংরক্ষণ করতে সাইন আপ করুন",
+    "email": "ইমেইল",
+    "emailPlaceholder": "your@email.com",
+    "password": "পাসওয়ার্ড",
+    "passwordPlaceholderSignUp": "সর্বনিম্ন ৬ অক্ষর",
+    "passwordPlaceholderSignIn": "পাসওয়ার্ড লিখুন",
+    "confirmPassword": "পাসওয়ার্ড নিশ্চিত করুন",
+    "confirmPasswordPlaceholder": "পাসওয়ার্ড নিশ্চিত করুন",
+    "pleaseWait": "অনুগ্রহ করে অপেক্ষা করুন...",
+    "dontHaveAccount": "অ্যাকাউন্ট নেই?",
+    "alreadyHaveAccount": "ইতিমধ্যে অ্যাকাউন্ট আছে?",
+    "whySignIn": "সাইন ইন কেন করবেন?",
+    "syncProgress": "সব ডিভাইসে অগ্রগতি সিঙ্ক করুন",
+    "permanentHistory": "স্থায়ী কুইজ ইতিহাস",
+    "trackStreaks": "ধারা ও XP ট্র্যাক করুন",
+    "passwordMinLength": "পাসওয়ার্ড কমপক্ষে ৬ অক্ষরের হতে হবে",
+    "passwordsDontMatch": "পাসওয়ার্ড মিলছে না",
+    "welcomeBackToast": "স্বাগতম!",
+    "accountCreatedToast": "অ্যাকাউন্ট তৈরি হয়েছে! নিশ্চিত করতে আপনার ইমেইল দেখুন।"
+  },
+  "historyPage": {
+    "title": "কুইজ",
+    "titleHighlight": "ইতিহাস",
+    "saveProgressTitle": "আপনার অগ্রগতি স্থায়ীভাবে সংরক্ষণ করুন",
+    "saveProgressDesc": "আপনার কুইজ ইতিহাস, XP এবং ধারা সব ডিভাইসে সংরক্ষণ করতে সাইন ইন করুন। অ্যাকাউন্ট ছাড়া, আপনার ইতিহাস শুধু এই ব্রাউজারে সংরক্ষিত থাকবে।",
+    "noHistoryTitle": "এখনও কোনো ইতিহাস নেই",
+    "noHistoryDesc": "আপনার প্রচেষ্টার ইতিহাস দেখতে একটি কুইজ সম্পন্ন করুন।",
+    "startQuiz": "একটি কুইজ শুরু করুন",
+    "wrongAnswers": "ভুল উত্তর ({count})",
+    "perfectScore": "পারফেক্ট স্কোর! কোনো ভুল উত্তর নেই।",
+    "skipped": "(এড়িয়ে যাওয়া হয়েছে)"
+  },
+  "progressPage": {
+    "title": "আপনার",
+    "titleHighlight": "অগ্রগতি",
+    "totalXp": "মোট XP",
+    "avgScore": "গড় স্কোর",
+    "quizzesDone": "সম্পন্ন কুইজ",
+    "dayStreak": "দিনের ধারা",
+    "moduleMastery": "মডিউল দক্ষতা",
+    "noActivity": "এখনও কোনো কার্যকলাপ নেই। আপনার অগ্রগতি দেখতে একটি কুইজ শুরু করুন!"
+  },
+  "leaderboard": {
+    "title": "লিডার",
+    "titleHighlight": "বোর্ড",
+    "comingSoonTitle": "শীঘ্রই আসছে",
+    "comingSoonDesc": "XP অর্জন করতে এবং UAE-তে অন্যান্য শিক্ষার্থীদের সাথে প্রতিযোগিতা করতে সাইন আপ করুন ও কুইজ সম্পন্ন করুন।"
+  },
+  "languageSwitcher": {
+    "label": "ভাষা"
+  },
+  "seo": {
+    "title": "Road Ready UAE – বিনামূল্যে ড্রাইভিং থিওরি টেস্ট অনুশীলন",
+    "description": "প্রথম প্রচেষ্টায় UAE ড্রাইভিং থিওরি পরীক্ষায় উত্তীর্ণ হন। হালকা যানবাহন, মোটরসাইকেল, ভারী ট্রাক, হালকা বাস ও ভারী বাসের জন্য বিনামূল্যে অনুশীলন প্রশ্ন — RTA পরীক্ষার মানদণ্ড অনুযায়ী।",
+    "ogTitle": "Road Ready UAE – বিনামূল্যে ড্রাইভিং থিওরি টেস্ট অনুশীলন",
+    "ogDescription": "UAE-এর #১ থিওরি টেস্ট প্ল্যাটফর্ম। সব যানবাহন ক্যাটাগরির জন্য বাস্তব পরীক্ষার ধরনে অনুশীলন করুন।"
+  }
+}

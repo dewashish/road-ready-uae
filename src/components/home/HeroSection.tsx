@@ -2,6 +2,7 @@
 
 import { useRef } from 'react'
 import { motion, useScroll, useTransform, useMotionValue, useMotionValueEvent, MotionValue } from 'motion/react'
+import { useDictionary } from '@/i18n/DictionaryContext'
 
 /* ─── Perspective Grid (SVG background) ─── */
 function PerspectiveGrid() {
@@ -326,6 +327,7 @@ function MobileAccents({ scrollOpacity }: { scrollOpacity: MotionValue<number> }
 export function HeroSection() {
   const heroRef = useRef<HTMLDivElement>(null)
   const { scrollY } = useScroll()
+  const dict = useDictionary()
 
   // All animations must complete within ~380px of scroll (sticky scroll distance)
   // ── Floating objects: drift outward + fade ──
@@ -416,13 +418,13 @@ export function HeroSection() {
               className="font-headline font-bold uppercase tracking-tight leading-[1.1] inline"
               style={{ WebkitTextStroke: '2px #f5ce53', color: 'transparent', paintOrder: 'stroke fill' }}
             >
-              UAE&apos;s #1{' '}
+              {dict.hero.uaes1}{' '}
             </motion.span>
             <span className="font-headline font-bold uppercase tracking-tight text-primary leading-[1.1] inline">
-              Theory Test{' '}
+              {dict.hero.theoryTest}{' '}
             </span>
             <span className="font-headline font-bold uppercase tracking-tight text-secondary leading-[1.1] inline">
-              Platform
+              {dict.hero.platform}
             </span>
           </motion.div>
 
@@ -435,17 +437,17 @@ export function HeroSection() {
                 transition={{ duration: 0.5, delay: 0.55 }}>
                 <div className="flex items-center gap-1.5">
                   <span className="material-symbols-outlined text-primary" style={{ fontSize: 18 }}>menu_book</span>
-                  <span>Official source questions</span>
+                  <span>{dict.hero.officialQuestions}</span>
                 </div>
                 <div className="hidden sm:block w-1 h-1 bg-surface-container-highest rounded-full" />
                 <div className="flex items-center gap-1.5">
                   <span className="material-symbols-outlined text-secondary" style={{ fontSize: 18 }}>route</span>
-                  <span>Adaptive learning paths</span>
+                  <span>{dict.hero.adaptiveLearning}</span>
                 </div>
                 <div className="hidden sm:block w-1 h-1 bg-surface-container-highest rounded-full" />
                 <div className="flex items-center gap-1.5">
                   <span className="material-symbols-outlined text-tertiary" style={{ fontSize: 18 }}>timer</span>
-                  <span>Real exam simulation</span>
+                  <span>{dict.hero.realExam}</span>
                 </div>
               </motion.div>
 
@@ -457,7 +459,7 @@ export function HeroSection() {
                   className="neo-push font-headline font-bold py-3.5 px-10 sm:px-14 text-center uppercase tracking-widest text-sm bg-primary text-surface-container-lowest border-2 border-surface-container-lowest select-none cursor-pointer w-full sm:w-auto"
                   style={{ boxShadow: '4px 4px 0px 0px #f5ce53' }}
                 >
-                  Start Practicing
+                  {dict.hero.startPracticing}
                 </button>
               </motion.div>
             </div>

@@ -1,0 +1,173 @@
+{
+  "common": {
+    "home": "Home",
+    "history": "History",
+    "progress": "Progress",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "signedInAs": "Signed in as",
+    "back": "Back",
+    "loading": "Loading...",
+    "comingSoon": "Coming Soon",
+    "xp": "XP",
+    "dayStreak": "day streak",
+    "correct": "Correct",
+    "wrong": "Wrong",
+    "skip": "Skip",
+    "start": "Start",
+    "continue": "Continue",
+    "review": "Review",
+    "unavailable": "Unavailable",
+    "new": "NEW",
+    "inProgress": "IN PROGRESS",
+    "completed": "COMPLETED",
+    "locked": "LOCKED",
+    "passed": "PASSED",
+    "failed": "FAILED",
+    "questionsAvailableInEnglish": "Questions currently available in English"
+  },
+  "hero": {
+    "uaes1": "UAE's #1",
+    "theoryTest": "Theory Test",
+    "platform": "Platform",
+    "officialQuestions": "Official source questions",
+    "adaptiveLearning": "Adaptive learning paths",
+    "realExam": "Real exam simulation",
+    "startPracticing": "Start Practicing"
+  },
+  "home": {
+    "chooseVehicle": "Choose Your Vehicle",
+    "dailyChallenge": "Daily Challenge",
+    "dailyChallengeDesc": "Answer {target} questions today to maintain your streak"
+  },
+  "vehicles": {
+    "B": { "name": "Light Vehicle", "description": "Cars, SUVs & light vehicles up to 3,500 kg" },
+    "A": { "name": "Motorcycle", "description": "Two-wheeled motor vehicles and scooters" },
+    "C": { "name": "Heavy Truck", "description": "Commercial trucks and lorries over 3,500 kg" },
+    "D": { "name": "Light Bus", "description": "Minibuses and coaches up to 26 passengers" },
+    "E": { "name": "Heavy Bus", "description": "Large passenger buses with 26+ seats" },
+    "F": { "name": "Forklift", "description": "Industrial forklift and warehouse lift trucks" }
+  },
+  "categoryCard": {
+    "startModule": "Start Module",
+    "continue": "Continue",
+    "review": "Review",
+    "unavailable": "Unavailable",
+    "comingSoon": "COMING SOON"
+  },
+  "modules": {
+    "road-signs": { "title": "Traffic Signs", "description": "Learn regulatory, warning, and informational signs" },
+    "traffic-rules": { "title": "Road Rules", "description": "Speed limits, right of way, lane discipline" },
+    "hazard-perception": { "title": "Hazard Perception", "description": "Identify and respond to dangerous situations" },
+    "driving-conditions": { "title": "Driving Conditions", "description": "City, highway, and adverse weather driving" },
+    "critical-situations": { "title": "Critical Situations", "description": "Emergency responses and accident procedures" },
+    "driving-behavior": { "title": "Safe Driving", "description": "Etiquette, courtesy, and defensive driving" },
+    "vehicle-maintenance": { "title": "Vehicle Knowledge", "description": "Vehicle systems, maintenance, and safety features" }
+  },
+  "quiz": {
+    "questionOf": "Question {current} of {total}",
+    "complete": "{percent}% Complete",
+    "checkAnswer": "Check Answer",
+    "nextQuestion": "Next Question",
+    "seeResults": "See Results",
+    "explanation": "Explanation",
+    "edcad": "EDCAD",
+    "loadingQuestions": "Loading questions...",
+    "questionsCount": "{count} Qs",
+    "questionsSeen": "{seen}/{total} questions seen ({percent}%)",
+    "bestScore": "Best: {percent}%",
+    "timesDone": "{count}x Done"
+  },
+  "results": {
+    "title": "Results",
+    "accuracy": "{percent}% Accuracy",
+    "xpEarned": "XP Earned",
+    "passMessage": "Great job! You passed this module.",
+    "failMessage": "You need 71% to pass. Keep practicing!",
+    "reviewWrongAnswers": "Review Wrong Answers ({count})",
+    "practiceAgain": "Practice Again",
+    "tryAgain": "Try Again",
+    "backToModules": "Back to Modules"
+  },
+  "mockExam": {
+    "title": "Mock Exams",
+    "simulateDesc": "Simulate the real UAE driving test",
+    "examInfo": "Each test has {questions} questions and a {minutes}-minute time limit. You need {percent}% to pass.",
+    "bestScore": "Best Score",
+    "totalAttempts": "Total Attempts",
+    "preparing": "Preparing {title}...",
+    "timesUp": "Time's Up!",
+    "calculatingResults": "Calculating your results...",
+    "invalidExamId": "Invalid exam ID",
+    "unlocked": "Unlocked",
+    "completeAllModules": "Complete all modules",
+    "completeAllModulesDesc": "8 tests, 45 questions, 30 minutes each - complete all modules first",
+    "mockExamsInfo": "8 tests · 45 questions · 30 minutes each",
+    "tryAnotherTest": "Try Another Test",
+    "timeSpent": "Time Spent",
+    "passMessageExam": "Excellent! You passed the mock exam!",
+    "failMessageExam": "You need {percent}% to pass. Keep practicing!"
+  },
+  "auth": {
+    "welcomeBack": "Welcome Back",
+    "createAccount": "Create Account",
+    "signInDesc": "Sign in to sync your progress across devices",
+    "signUpDesc": "Sign up to save your quiz history and progress",
+    "email": "Email",
+    "emailPlaceholder": "your@email.com",
+    "password": "Password",
+    "passwordPlaceholderSignUp": "Min 6 characters",
+    "passwordPlaceholderSignIn": "Enter password",
+    "confirmPassword": "Confirm Password",
+    "confirmPasswordPlaceholder": "Confirm password",
+    "pleaseWait": "Please wait...",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "whySignIn": "Why sign in?",
+    "syncProgress": "Sync progress across devices",
+    "permanentHistory": "Permanent quiz history",
+    "trackStreaks": "Track streaks & XP",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "passwordsDontMatch": "Passwords do not match",
+    "welcomeBackToast": "Welcome back!",
+    "accountCreatedToast": "Account created! Check your email to confirm."
+  },
+  "historyPage": {
+    "title": "Quiz",
+    "titleHighlight": "History",
+    "saveProgressTitle": "Save Your Progress Permanently",
+    "saveProgressDesc": "Sign in to keep your quiz history, XP, and streaks saved across all your devices. Without an account, your history is only stored on this browser.",
+    "noHistoryTitle": "No History Yet",
+    "noHistoryDesc": "Complete a quiz to see your attempt history here.",
+    "startQuiz": "Start a Quiz",
+    "wrongAnswers": "Wrong Answers ({count})",
+    "perfectScore": "Perfect score! No wrong answers.",
+    "skipped": "(Skipped)"
+  },
+  "progressPage": {
+    "title": "Your",
+    "titleHighlight": "Progress",
+    "totalXp": "Total XP",
+    "avgScore": "Avg Score",
+    "quizzesDone": "Quizzes Done",
+    "dayStreak": "Day Streak",
+    "moduleMastery": "Module Mastery",
+    "noActivity": "No activity yet. Start a quiz to see your progress!"
+  },
+  "leaderboard": {
+    "title": "Leader",
+    "titleHighlight": "board",
+    "comingSoonTitle": "Coming Soon",
+    "comingSoonDesc": "Sign up and complete quizzes to earn XP and compete with other learners in the UAE."
+  },
+  "languageSwitcher": {
+    "label": "Language"
+  },
+  "seo": {
+    "title": "Road Ready UAE – Free Driving Theory Test Practice",
+    "description": "Pass your UAE driving theory test on the first attempt. Free practice questions for Light Vehicle, Motorcycle, Heavy Truck, Light Bus & Heavy Bus — aligned with RTA exam standards.",
+    "ogTitle": "Road Ready UAE – Free Driving Theory Test Practice",
+    "ogDescription": "UAE's #1 theory test platform. Practice with real exam-style questions for all vehicle categories."
+  }
+}

@@ -17,10 +17,13 @@ export function StructuredData() {
       '@type': 'Audience',
       audienceType: 'Driving license applicants in the UAE',
     },
-    availableLanguage: {
-      '@type': 'Language',
-      name: 'English',
-    },
+    availableLanguage: [
+      { '@type': 'Language', name: 'English', alternateName: 'en' },
+      { '@type': 'Language', name: 'Arabic', alternateName: 'ar' },
+      { '@type': 'Language', name: 'Urdu', alternateName: 'ur' },
+      { '@type': 'Language', name: 'Hindi', alternateName: 'hi' },
+      { '@type': 'Language', name: 'Bengali', alternateName: 'bn' },
+    ],
   }
 
   return (

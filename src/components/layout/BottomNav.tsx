@@ -3,25 +3,32 @@
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import { clsx } from 'clsx'
-
-const NAV_ITEMS = [
-  { href: '/', icon: 'home', label: 'Home' },
-  { href: '/history', icon: 'history', label: 'History' },
-  { href: '/progress', icon: 'bar_chart', label: 'Progress' },
-]
+import { useDictionary, useLocale } from '@/i18n/DictionaryContext'
+import { localePath } from '@/i18n/utils'
 
 export function BottomNav() {
   const pathname = usePathname()
+  const dict = useDictionary()
+  const locale = useLocale()
+
+  const NAV_ITEMS = [
+    { href: '/', icon: 'home', label: dict.common.home },
+    { href: '/history', icon: 'history', label: dict.common.history },
+    { href: '/progress', icon: 'bar_chart', label: dict.common.progress },
+  ]
 
   return (
-    <nav className="fixed bottom-0 left-0 right-0 z-50 sm:hidden bg-surface-container border-t-2 border-surface-container-lowest pb-safe">
+    <nav className="fixed bottom-0 start-0 end-0 z-50 sm:hidden bg-surface-container border-t-2 border-surface-container-lowest pb-safe">
       <div className="flex items-center justify-around h-16">
         {NAV_ITEMS.map((item) => {
-          const isActive = item.href === '/' ? pathname === '/' : pathname.startsWith(item.href)
+          const localizedHref = localePath(locale, item.href)
+          const isActive = item.href === '/'
+            ? pathname === localizedHref
+            : pathname.startsWith(localizedHref)
           return (
             <Link
               key={item.href}
-              href={item.href}
+              href={localizedHref}
               className={clsx(
                 'flex flex-col items-center gap-0.5 px-4 py-2 transition-colors',
                 isActive ? 'text-secondary' : 'text-on-surface-variant'

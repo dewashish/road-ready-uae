@@ -1,0 +1,57 @@
+import { Space_Grotesk, Manrope, IBM_Plex_Sans_Arabic, Noto_Sans_Devanagari, Noto_Sans_Bengali, Noto_Nastaliq_Urdu } from 'next/font/google'
+import type { Locale } from './config'
+
+const spaceGrotesk = Space_Grotesk({
+  variable: '--font-headline',
+  subsets: ['latin'],
+  display: 'swap',
+})
+
+const manrope = Manrope({
+  variable: '--font-body',
+  subsets: ['latin'],
+  display: 'swap',
+})
+
+const ibmPlexArabic = IBM_Plex_Sans_Arabic({
+  variable: '--font-arabic',
+  subsets: ['arabic'],
+  weight: ['400', '500', '600', '700'],
+  display: 'swap',
+})
+
+const notoNastaliqUrdu = Noto_Nastaliq_Urdu({
+  variable: '--font-nastaliq',
+  subsets: ['arabic'],
+  display: 'swap',
+})
+
+const notoDevanagari = Noto_Sans_Devanagari({
+  variable: '--font-devanagari',
+  subsets: ['devanagari'],
+  display: 'swap',
+})
+
+const notoBengali = Noto_Sans_Bengali({
+  variable: '--font-bengali',
+  subsets: ['bengali'],
+  display: 'swap',
+})
+
+// Base Latin fonts always loaded
+const baseFontClasses = `${spaceGrotesk.variable} ${manrope.variable}`
+
+export function getFontsForLocale(locale: Locale): string {
+  switch (locale) {
+    case 'ar':
+      return `${baseFontClasses} ${ibmPlexArabic.variable}`
+    case 'ur':
+      return `${baseFontClasses} ${notoNastaliqUrdu.variable}`
+    case 'hi':
+      return `${baseFontClasses} ${notoDevanagari.variable}`
+    case 'bn':
+      return `${baseFontClasses} ${notoBengali.variable}`
+    default:
+      return baseFontClasses
+  }
+}
