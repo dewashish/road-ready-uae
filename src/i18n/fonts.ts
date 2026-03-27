@@ -1,4 +1,4 @@
-import { Space_Grotesk, Manrope, IBM_Plex_Sans_Arabic, Noto_Sans_Devanagari, Noto_Sans_Bengali, Noto_Nastaliq_Urdu } from 'next/font/google'
+import { Space_Grotesk, Manrope, IBM_Plex_Sans_Arabic, Noto_Sans_Devanagari, Noto_Sans_Bengali, Noto_Nastaliq_Urdu, Noto_Sans_Malayalam } from 'next/font/google'
 import type { Locale } from './config'
 
 const spaceGrotesk = Space_Grotesk({
@@ -38,6 +38,12 @@ const notoBengali = Noto_Sans_Bengali({
   display: 'swap',
 })
 
+const notoMalayalam = Noto_Sans_Malayalam({
+  variable: '--font-malayalam',
+  subsets: ['malayalam'],
+  display: 'swap',
+})
+
 // Base Latin fonts always loaded
 const baseFontClasses = `${spaceGrotesk.variable} ${manrope.variable}`
 
@@ -51,6 +57,8 @@ export function getFontsForLocale(locale: Locale): string {
       return `${baseFontClasses} ${notoDevanagari.variable}`
     case 'bn':
       return `${baseFontClasses} ${notoBengali.variable}`
+    case 'ml':
+      return `${baseFontClasses} ${notoMalayalam.variable}`
     default:
       return baseFontClasses
   }

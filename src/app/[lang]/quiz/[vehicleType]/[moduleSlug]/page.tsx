@@ -12,6 +12,7 @@ import { useDictionary, useLocale } from '@/i18n/DictionaryContext'
 import { localePath } from '@/i18n/utils'
 import type { Question } from '@/types/quiz'
 import { buildWrongCountMap, buildSeenSet, selectWeightedQuestions } from '@/lib/questions/selectWeightedQuestions'
+import { loadTranslatedQuestions } from '@/lib/questions/loadTranslatedQuestions'
 import { playCorrect, playWrong } from '@/lib/sounds'
 
 // Import all question data
@@ -71,8 +72,9 @@ export default function QuizPage() {
   } = useQuiz()
 
   useEffect(() => {
-    const moduleInfo = MODULE_DATA[moduleSlug]
-    if (moduleInfo) {
+    async function loadQuiz() {
+      const moduleInfo = MODULE_DATA[moduleSlug]
+      if (!moduleInfo) return
       // Filter by vehicle type
       const filtered = moduleInfo.questions.filter(
         (q) => q.vehicle_types.includes(vehicleType) || q.vehicle_types.includes('B')
@@ -82,8 +84,10 @@ export default function QuizPage() {
       const wrongCounts = buildWrongCountMap(sessions)
       const seenIds = buildSeenSet(sessions)
       const shuffled = selectWeightedQuestions(filtered, wrongCounts, seenIds, 30)
+      // Translate questions for current locale
+      const translated = await loadTranslatedQuestions(moduleSlug, locale, shuffled)
       // Shuffle answer order within each question
-      const withShuffledAnswers = shuffled.map((q) => ({
+      const withShuffledAnswers = translated.map((q) => ({
         ...q,
         answers: [...q.answers]
           .sort(() => Math.random() - 0.5)
@@ -91,7 +95,8 @@ export default function QuizPage() {
       }))
       startQuiz(withShuffledAnswers)
     }
-  }, [moduleSlug, vehicleType, startQuiz])
+    loadQuiz()
+  }, [moduleSlug, vehicleType, locale, startQuiz])
 
   // Play correct/wrong sounds
   const prevIsAnsweredRef = useRef(false)

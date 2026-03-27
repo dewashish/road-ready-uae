@@ -43,6 +43,7 @@ export const metadata: Metadata = {
       ur: "/ur",
       hi: "/hi",
       bn: "/bn",
+      ml: "/ml",
     },
   },
   openGraph: {

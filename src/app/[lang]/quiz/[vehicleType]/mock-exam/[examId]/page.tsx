@@ -14,6 +14,7 @@ import {
   MOCK_EXAM_TIME_LIMIT,
   selectMockExamQuestions,
 } from '@/lib/questions/mockExamConfig'
+import { translateQuestionBatch } from '@/lib/questions/loadTranslatedQuestions'
 import { playExamStart, playTimerWarning, playTimeUp, playCorrect, playWrong } from '@/lib/sounds'
 import { useDictionary, useLocale } from '@/i18n/DictionaryContext'
 import { localePath } from '@/i18n/utils'
@@ -58,11 +59,15 @@ export default function MockExamPage() {
   // Load questions and start exam
   useEffect(() => {
     if (!exam) return
-    const history = getQuizHistory()
-    const questions = selectMockExamQuestions(examId, vehicleType, history)
-    startMockExam(questions, MOCK_EXAM_TIME_LIMIT)
-    playExamStart()
-  }, [examId, vehicleType, exam, startMockExam])
+    async function loadExam() {
+      const history = getQuizHistory()
+      const questions = selectMockExamQuestions(examId, vehicleType, history)
+      const translated = await translateQuestionBatch(questions, locale)
+      startMockExam(translated, MOCK_EXAM_TIME_LIMIT)
+      playExamStart()
+    }
+    loadExam()
+  }, [examId, vehicleType, locale, exam, startMockExam])
 
   // Timer tick
   useEffect(() => {
