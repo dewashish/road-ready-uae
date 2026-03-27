@@ -456,7 +456,8 @@ export function HeroSection() {
                 transition={{ duration: 0.4, delay: 0.85, type: 'spring', stiffness: 200 }}>
                 <button
                   onClick={handleCTA}
-                  className="neo-push-chunky neo-shadow-chunky font-headline font-bold py-4 px-10 sm:px-14 text-center uppercase tracking-widest text-sm bg-secondary text-surface-container-lowest border-3 border-surface-container-lowest select-none cursor-pointer w-full sm:w-auto"
+                  className="neo-push font-headline font-bold py-3.5 px-10 sm:px-14 text-center uppercase tracking-widest text-sm bg-primary text-surface-container-lowest border-2 border-surface-container-lowest select-none cursor-pointer w-full sm:w-auto"
+                  style={{ boxShadow: '4px 4px 0px 0px #f5ce53' }}
                 >
                   {dict.hero.startPracticing}
                 </button>

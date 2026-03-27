@@ -40,15 +40,15 @@ export function LanguageSwitcher() {
     <div className="relative" ref={ref}>
       <button
         onClick={() => setOpen(!open)}
-        className="neo-push flex items-center gap-1.5 bg-surface-container px-2.5 py-1.5 border-2 border-surface-container-lowest transition-colors hover:border-secondary"
+        className="neo-push-chunky neo-shadow-chunky flex items-center gap-1.5 bg-secondary text-surface-container-lowest px-2.5 py-1.5 border-3 border-surface-container-lowest"
       >
-        <span className="material-symbols-outlined text-on-surface-variant" style={{ fontSize: 16 }}>
+        <span className="material-symbols-outlined text-surface-container-lowest" style={{ fontSize: 16 }}>
           translate
         </span>
-        <span className="font-label text-[10px] font-bold text-on-surface-variant uppercase tracking-wider hidden sm:inline">
+        <span className="font-label text-[10px] font-bold text-surface-container-lowest uppercase tracking-wider hidden sm:inline">
           {localeNames[locale]}
         </span>
-        <span className="material-symbols-outlined text-on-surface-variant" style={{ fontSize: 14 }}>
+        <span className="material-symbols-outlined text-surface-container-lowest" style={{ fontSize: 14 }}>
           {open ? 'expand_less' : 'expand_more'}
         </span>
       </button>
