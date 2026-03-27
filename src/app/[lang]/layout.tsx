@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     template: "%s | Road Ready UAE",
   },
   description:
-    "Pass your UAE driving theory test on the first attempt. Free practice questions for Light Vehicle, Motorcycle, Heavy Truck, Light Bus & Heavy Bus — aligned with RTA exam standards.",
+    "Pass your UAE driving theory test on the first try. 1,200+ real exam questions for Car, Motorcycle, Truck & Bus — in 6 languages. Mock exams, adaptive learning, 100% free.",
   keywords: [
     "UAE driving theory test",
     "RTA theory test practice",
@@ -56,17 +56,26 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Road Ready UAE – Free Driving Theory Test Practice",
     description:
-      "UAE's #1 theory test platform. Practice with real exam-style questions for all vehicle categories.",
+      "Pass your UAE driving test on the first try. 1,200+ real exam questions for Car, Motorcycle, Truck & Bus — in 6 languages. Mock exams, adaptive learning, 100% free.",
     url: "https://www.roadreadyuae.com",
     siteName: "Road Ready UAE",
     locale: "en_AE",
     type: "website",
+    images: [
+      {
+        url: "/opengraph-image",
+        width: 1200,
+        height: 630,
+        alt: "Road Ready UAE – Free UAE Driving Theory Test Practice for All Vehicle Types",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
     title: "Road Ready UAE – Free Driving Theory Test Practice",
     description:
-      "Pass your UAE driving theory test. Free practice for all vehicle categories.",
+      "Pass your UAE driving test on the first try. 1,200+ questions, 6 languages, mock exams — 100% free.",
+    images: ["/opengraph-image"],
   },
   robots: {
     index: true,
