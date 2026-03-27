@@ -46,7 +46,7 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
 
   return (
     <header className="sticky top-0 z-50 bg-surface/80 backdrop-blur-xl border-b-2 border-surface-container-lowest">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 h-16 flex items-center gap-4">
+      <div className="max-w-7xl mx-auto px-3 sm:px-6 h-16 flex items-center gap-2 sm:gap-4">
         {showBack && (
           <Link
             href={localePath(locale, backHref)}
@@ -57,14 +57,16 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
             </span>
           </Link>
         )}
-        <Link href={localePath(locale, '/')} className="flex items-center gap-3">
-          <div className="w-8 h-8 bg-secondary border-2 border-surface-container-lowest neo-shadow flex items-center justify-center">
-            <span className="material-symbols-outlined text-on-secondary" style={{ fontSize: 18 }}>
+        <Link href={localePath(locale, '/')} className="flex items-center gap-2 sm:gap-3">
+          <div className="w-7 h-7 sm:w-8 sm:h-8 bg-secondary border-2 border-surface-container-lowest neo-shadow flex items-center justify-center flex-shrink-0">
+            <span className="material-symbols-outlined text-on-secondary" style={{ fontSize: 16 }}>
               directions_car
             </span>
           </div>
-          <h1 className="font-headline text-lg font-bold tracking-tight text-primary">
-            ROAD READY <span className="text-secondary">UAE</span>
+          <h1 className="font-headline text-sm sm:text-lg font-bold tracking-tight text-primary whitespace-nowrap">
+            <span className="hidden sm:inline">ROAD READY </span>
+            <span className="sm:hidden">RR </span>
+            <span className="text-secondary">UAE</span>
           </h1>
         </Link>
         {title && (
@@ -101,7 +103,7 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
           })}
         </nav>
 
-        <div className="ms-auto flex items-center gap-3">
+        <div className="ms-auto flex items-center gap-2 sm:gap-3">
           <LanguageSwitcher />
           <div className="flex items-center gap-2 bg-surface-container px-3 py-1.5 border-2 border-surface-container-lowest">
             <span className="material-symbols-outlined text-secondary" style={{ fontSize: 18 }}>

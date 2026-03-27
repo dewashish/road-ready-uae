@@ -1,6 +1,6 @@
 'use client'
 
-import { useRef } from 'react'
+import { useRef, useState, useEffect } from 'react'
 import { motion, useScroll, useTransform, useMotionValue, useMotionValueEvent, MotionValue } from 'motion/react'
 import { useDictionary } from '@/i18n/DictionaryContext'
 
@@ -9,7 +9,7 @@ function PerspectiveGrid() {
   return (
     <div className="absolute inset-0 overflow-hidden pointer-events-none">
       <svg
-        className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[200%] sm:w-[150%] h-[60%]"
+        className="absolute bottom-0 left-1/2 -translate-x-1/2 w-[150%] h-[60%]"
         viewBox="0 0 1200 400"
         preserveAspectRatio="none"
         fill="none"
@@ -329,6 +329,12 @@ export function HeroSection() {
   const { scrollY } = useScroll()
   const dict = useDictionary()
 
+  // Responsive initial font size — smaller on mobile to avoid overflow
+  const [isMobile, setIsMobile] = useState(false)
+  useEffect(() => {
+    setIsMobile(window.innerWidth < 640)
+  }, [])
+
   // All animations must complete within ~380px of scroll (sticky scroll distance)
   // ── Floating objects: drift outward + fade ──
   const leftObjX = useTransform(scrollY, [0, 250], [0, -200])
@@ -342,8 +348,8 @@ export function HeroSection() {
   const gridOpacity = useTransform(scrollY, [200, 500], [1, 0])
 
   // ── Hero text: fontSize shrinks so inline spans reflow from 3 lines → 1 line ──
-  const fontSize = useTransform(scrollY, [50, 380], [80, 14])
-  const textTop = useTransform(scrollY, [50, 380], ['30%', '10px'])
+  const fontSize = useTransform(scrollY, [50, 380], [isMobile ? 52 : 80, 14])
+  const textTop = useTransform(scrollY, [50, 380], [isMobile ? '22%' : '30%', '10px'])
 
   // ── Compact bar background fades in behind the shrunk text ──
   const barOpacity = useTransform(scrollY, [300, 380], [0, 0.95])
@@ -371,7 +377,7 @@ export function HeroSection() {
 
           {/* Radial glow */}
           <div
-            className="absolute left-1/2 top-[40%] -translate-x-1/2 -translate-y-1/2 w-[600px] h-[400px] sm:w-[800px] sm:h-[500px] pointer-events-none"
+            className="absolute left-1/2 top-[40%] -translate-x-1/2 -translate-y-1/2 w-[90vw] h-[300px] sm:w-[600px] sm:h-[400px] md:w-[800px] md:h-[500px] pointer-events-none"
             style={{ background: 'radial-gradient(ellipse at center, rgba(245, 206, 83, 0.06) 0%, transparent 70%)' }}
           />
 
@@ -429,9 +435,9 @@ export function HeroSection() {
           </motion.div>
 
           {/* ── Subtitle & CTA — separate from headline, centered, fades out early ── */}
-          <div className="absolute inset-0 flex items-center justify-center" style={{ paddingTop: '100px' }}>
+          <div className="absolute inset-0 flex items-center justify-center" style={{ paddingTop: isMobile ? '180px' : '100px' }}>
             <div className="text-center px-4 max-w-xl pointer-events-auto z-10">
-              <motion.div className="flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-5 text-on-surface-variant text-xs sm:text-sm"
+              <motion.div className="hidden sm:flex flex-col sm:flex-row items-center justify-center gap-3 sm:gap-5 text-on-surface-variant text-xs sm:text-sm"
                 style={{ opacity: secondaryOpacity }}
                 initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.5, delay: 0.55 }}>
@@ -451,12 +457,12 @@ export function HeroSection() {
                 </div>
               </motion.div>
 
-              <motion.div className="mt-8 sm:mt-10" style={{ opacity: secondaryOpacity }}
+              <motion.div className="mt-4 sm:mt-10" style={{ opacity: secondaryOpacity }}
                 initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }}
                 transition={{ duration: 0.4, delay: 0.85, type: 'spring', stiffness: 200 }}>
                 <button
                   onClick={handleCTA}
-                  className="neo-push font-headline font-bold py-3.5 px-10 sm:px-14 text-center uppercase tracking-widest text-sm bg-primary text-surface-container-lowest border-2 border-surface-container-lowest select-none cursor-pointer w-full sm:w-auto"
+                  className="neo-push font-headline font-bold py-3.5 px-6 sm:px-10 md:px-14 text-center uppercase tracking-widest text-sm bg-primary text-surface-container-lowest border-2 border-surface-container-lowest select-none cursor-pointer w-full sm:w-auto"
                   style={{ boxShadow: '4px 4px 0px 0px #f5ce53' }}
                 >
                   {dict.hero.startPracticing}

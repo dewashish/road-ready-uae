@@ -88,8 +88,8 @@ export default function ModulePathPage() {
                 )}
                 <Link href={localePath(locale, `/quiz/${vehicleType}/${mod.slug}`)}>
                   <NeoCard level={2} shadow="default" className="group neo-hover cursor-pointer">
-                    <div className="flex items-center gap-4">
-                      <div className="flex-shrink-0 w-14 h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center relative transition-colors group-hover:bg-secondary">
+                    <div className="flex items-center gap-3 sm:gap-4">
+                      <div className="flex-shrink-0 w-12 h-12 sm:w-14 sm:h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center relative transition-colors group-hover:bg-secondary">
                         <span className="material-symbols-outlined text-secondary transition-colors group-hover:text-surface-container-lowest" style={{ fontSize: 28 }}>
                           {mod.icon}
                         </span>
@@ -158,8 +158,8 @@ export default function ModulePathPage() {
             {allModulesCompleted ? (
               <Link href={localePath(locale, `/quiz/${vehicleType}/mock-exam`)}>
                 <NeoCard level={2} shadow="secondary" className="neo-hover cursor-pointer border-secondary/50">
-                  <div className="flex items-center gap-4">
-                    <div className="flex-shrink-0 w-14 h-14 bg-secondary/10 border-2 border-secondary flex items-center justify-center">
+                  <div className="flex items-center gap-3 sm:gap-4">
+                    <div className="flex-shrink-0 w-12 h-12 sm:w-14 sm:h-14 bg-secondary/10 border-2 border-secondary flex items-center justify-center">
                       <span className="material-symbols-outlined text-secondary" style={{ fontSize: 28 }}>
                         military_tech
                       </span>
@@ -195,8 +195,8 @@ export default function ModulePathPage() {
               </Link>
             ) : (
               <NeoCard level={1} shadow="none" className="opacity-50">
-                <div className="flex items-center gap-4">
-                  <div className="flex-shrink-0 w-14 h-14 bg-secondary/10 border-2 border-secondary/30 flex items-center justify-center">
+                <div className="flex items-center gap-3 sm:gap-4">
+                  <div className="flex-shrink-0 w-12 h-12 sm:w-14 sm:h-14 bg-secondary/10 border-2 border-secondary/30 flex items-center justify-center">
                     <span className="material-symbols-outlined text-secondary/50" style={{ fontSize: 28 }}>
                       military_tech
                     </span>
