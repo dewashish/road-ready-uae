@@ -1544,7 +1544,7 @@
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
-    "image_url": null,
+    "image_url": "/images/questions/blind-spot.png",
     "tags": [
       "rta"
     ],
@@ -1634,7 +1634,7 @@
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
-    "image_url": null,
+    "image_url": "/images/questions/following-distance.png",
     "tags": [
       "rta"
     ],
@@ -1949,7 +1949,7 @@
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
-    "image_url": null,
+    "image_url": "/images/questions/turning-priority.png",
     "tags": [
       "rta"
     ],
@@ -11984,7 +11984,7 @@
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
-    "image_url": null,
+    "image_url": "/images/questions/red-traffic-light.png",
     "tags": [
       "rta"
     ],
@@ -12209,7 +12209,7 @@
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
-    "image_url": null,
+    "image_url": "/images/questions/stopping-distance.png",
     "tags": [
       "rta"
     ],
@@ -13019,7 +13019,7 @@
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
-    "image_url": null,
+    "image_url": "/images/questions/overtaking.png",
     "tags": [
       "rta"
     ],
@@ -13379,7 +13379,7 @@
     "difficulty": 2,
     "relevance_rank": 9,
     "svg_illustration_key": null,
-    "image_url": null,
+    "image_url": "/images/questions/road-markings.png",
     "tags": [
       "rta"
     ],

@@ -57,14 +57,25 @@ export function QuestionCard({
           </span>
         </div>
 
-        {/* Illustration */}
-        {Illustration && (
+        {/* Illustration (SVG or raster image) */}
+        {Illustration ? (
           <div className="mb-5 flex justify-center">
             <div className="w-36 h-36 sm:w-48 sm:h-48 md:w-56 md:h-56 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center p-4">
               <Illustration />
             </div>
           </div>
-        )}
+        ) : question.image_url ? (
+          <div className="mb-5 flex justify-center">
+            <div className="w-36 h-36 sm:w-48 sm:h-48 md:w-56 md:h-56 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center overflow-hidden">
+              <img
+                src={question.image_url}
+                alt="Question illustration"
+                className="w-full h-full object-contain"
+                loading="eager"
+              />
+            </div>
+          </div>
+        ) : null}
 
         {/* Question Text */}
         <h2 className="font-headline text-xl sm:text-2xl font-bold text-primary mb-6 leading-tight">
