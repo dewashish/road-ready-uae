@@ -1,6 +1,6 @@
 'use client'
 
-import { createContext, useContext, useState, useEffect, useCallback, type ReactNode } from 'react'
+import { createContext, useContext, useState, useEffect, useCallback, useRef, type ReactNode } from 'react'
 import {
   getProgress,
   saveProgress,
@@ -74,10 +74,14 @@ function saveStoredHistory(history: QuizSessionRecord[]): void {
 export function ProgressProvider({ children }: { children: ReactNode }) {
   const [progress, setProgress] = useState<UserProgress>(DEFAULT_PROGRESS)
   const [mergedHistory, setMergedHistory] = useState<QuizSessionRecord[] | null>(null)
+  const [localHistory, setLocalHistory] = useState<QuizSessionRecord[] | null>(null)
   const { user } = useAuth()
+  const userRef = useRef(user)
+  userRef.current = user
 
   useEffect(() => {
     setProgress(getProgress())
+    setLocalHistory(getStoredHistory())
   }, [])
 
   // When user logs in: pull cloud history, merge with local, save merged back
@@ -102,6 +106,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
 
       const merged = mergeHistories(local, cloud)
       saveStoredHistory(merged)
+      setLocalHistory(merged)
       setMergedHistory(merged)
 
       // Rebuild progress stats from the merged history so they're consistent across devices
@@ -128,27 +133,27 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
   )
 
   const saveQuizSession = useCallback((session: QuizSessionRecord) => {
-    const history = getStoredHistory()
-    history.unshift(session)
-    saveStoredHistory(history)
-    setMergedHistory(history)
+    const history = mergedHistory ?? localHistory ?? getStoredHistory()
+    const updated = [session, ...history]
+    saveStoredHistory(updated)
+    setLocalHistory(updated)
+    setMergedHistory(updated)
 
-    // Also push to cloud if logged in
-    if (user) {
-      pushSessionToCloud(user.id, session)
+    // Push to cloud using ref to avoid stale user closure
+    if (userRef.current) {
+      pushSessionToCloud(userRef.current.id, session)
     }
-  }, [user])
+  }, [mergedHistory, localHistory])
 
   const getQuizHistory = useCallback((): QuizSessionRecord[] => {
-    // If we have merged history (from cloud sync), use it
     if (mergedHistory !== null) return mergedHistory
-    return getStoredHistory()
-  }, [mergedHistory])
+    return localHistory ?? []
+  }, [mergedHistory, localHistory])
 
   const getModuleHistory = useCallback((moduleSlug: string): QuizSessionRecord[] => {
-    const history = mergedHistory !== null ? mergedHistory : getStoredHistory()
+    const history = mergedHistory ?? localHistory ?? []
     return history.filter((s) => s.moduleSlug === moduleSlug)
-  }, [mergedHistory])
+  }, [mergedHistory, localHistory])
 
   return (
     <ProgressContext.Provider

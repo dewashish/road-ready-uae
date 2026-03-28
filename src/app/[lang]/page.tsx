@@ -5,7 +5,16 @@ import { motion, useInView, useScroll, useTransform } from 'motion/react'
 import { Header } from '@/components/layout/Header'
 import { BottomNav } from '@/components/layout/BottomNav'
 import { CategoryCard } from '@/components/home/CategoryCard'
-import { HeroSection, VintageCar } from '@/components/home/HeroSection'
+import dynamic from 'next/dynamic'
+
+const HeroSection = dynamic(
+  () => import('@/components/home/HeroSection').then((m) => m.HeroSection),
+  { ssr: false, loading: () => <div className="h-[160vh]" /> }
+)
+const VintageCar = dynamic(
+  () => import('@/components/home/HeroSection').then((m) => m.VintageCar),
+  { ssr: false }
+)
 import { NeoCard } from '@/components/ui/NeoCard'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
 import { useProgress } from '@/context/ProgressContext'
