@@ -33,34 +33,23 @@ export function buildSeenSet(
   return seen
 }
 
-/**
- * Select questions using weighted random sampling (without replacement).
- *
- * Weighting:
- * - Previously wrong (capped at 3): 1.0 + wrongCount × 3.0
- * - Never seen:                      1.0 + 0.5
- * - Seen & always correct:           1.0
- * - Multiplied by relevance_rank / 8 (range 1.0–1.25)
- */
-export function selectWeightedQuestions(
-  pool: Question[],
-  wrongCounts: Map<string, number>,
-  seenIds: Set<string>,
-  count: number = 30
-): Question[] {
-  if (pool.length <= count) return [...pool]
+/** Whether a question is from an official source (EDCAD or RTA). */
+function isOfficial(q: Question): boolean {
+  return q.is_edcad_style || q.source === 'rta'
+}
 
-  const entries = pool.map((q) => {
-    const wrongCount = Math.min(wrongCounts.get(q.id) ?? 0, 3)
-    let weight = 1.0
-    if (wrongCount > 0) {
-      weight += wrongCount * 3.0
-    } else if (!seenIds.has(q.id)) {
-      weight += 0.5
-    }
-    weight *= (q.relevance_rank ?? 8) / 8.0
-    return { question: q, weight }
-  })
+interface WeightedEntry {
+  question: Question
+  weight: number
+}
+
+/**
+ * Weighted random sampling without replacement.
+ * Picks up to `count` items from `entries` proportional to weight.
+ */
+function weightedSample(entries: WeightedEntry[], count: number): Question[] {
+  if (entries.length === 0) return []
+  if (entries.length <= count) return entries.map((e) => e.question)
 
   const selected: Question[] = []
   const remaining = [...entries]
@@ -75,6 +64,74 @@ export function selectWeightedQuestions(
     }
     selected.push(remaining[idx].question)
     remaining.splice(idx, 1)
+  }
+
+  return selected
+}
+
+/**
+ * Select questions using tiered weighted sampling.
+ *
+ * Tier 1 — Unseen Official (EDCAD + RTA, never seen):
+ *   Fill as many slots as possible. EDCAD weight 1.5, RTA weight 1.2.
+ *
+ * Tier 2 — Previously Wrong Official (EDCAD + RTA, answered wrong):
+ *   Fill remaining slots. Weight: 1.0 + wrongCount × 2.0.
+ *
+ * Tier 3 — Everything Else (unofficial unseen, seen-correct, wrong unofficial):
+ *   Fill any remaining slots.
+ *
+ * All tiers multiply by relevance_rank / 8.0.
+ */
+export function selectWeightedQuestions(
+  pool: Question[],
+  wrongCounts: Map<string, number>,
+  seenIds: Set<string>,
+  count: number = 30
+): Question[] {
+  if (pool.length <= count) return [...pool]
+
+  const tier1: WeightedEntry[] = [] // unseen official
+  const tier2: WeightedEntry[] = [] // wrong official
+  const tier3: WeightedEntry[] = [] // everything else
+
+  for (const q of pool) {
+    const wrongCount = Math.min(wrongCounts.get(q.id) ?? 0, 3)
+    const seen = seenIds.has(q.id)
+    const official = isOfficial(q)
+    const relevance = (q.relevance_rank ?? 8) / 8.0
+
+    if (official && !seen) {
+      // Tier 1: unseen official — EDCAD slightly higher than RTA
+      const sourceWeight = q.is_edcad_style ? 1.5 : 1.2
+      tier1.push({ question: q, weight: sourceWeight * relevance })
+    } else if (official && wrongCount > 0) {
+      // Tier 2: wrong official — reinforce mistakes on official material
+      const w = 1.0 + wrongCount * 2.0
+      tier2.push({ question: q, weight: w * relevance })
+    } else {
+      // Tier 3: everything else
+      let w: number
+      if (!seen && !official) {
+        w = 1.0 // unseen unofficial
+      } else if (wrongCount > 0) {
+        w = 0.8 + wrongCount * 1.5 // wrong unofficial
+      } else if (official) {
+        w = 0.6 // seen-correct official
+      } else {
+        w = 0.3 // seen-correct unofficial
+      }
+      tier3.push({ question: q, weight: w * relevance })
+    }
+  }
+
+  // Select from tiers in priority order
+  const selected: Question[] = []
+  for (const tier of [tier1, tier2, tier3]) {
+    if (selected.length >= count) break
+    const needed = count - selected.length
+    const picked = weightedSample(tier, needed)
+    selected.push(...picked)
   }
 
   return selected
