@@ -102,7 +102,7 @@ export default function HomePage() {
                   <CategoryCard
                     category={category}
                     completedModules={completed}
-                    status={category.type === 'F' ? 'coming_soon' : completed >= 7 ? 'completed' : completed > 0 ? 'active' : 'new'}
+                    status={completed >= 7 ? 'completed' : completed > 0 ? 'active' : 'new'}
                     index={idx}
                   />
                 </motion.div>
