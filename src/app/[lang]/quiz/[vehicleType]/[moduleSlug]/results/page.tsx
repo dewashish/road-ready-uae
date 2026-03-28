@@ -95,7 +95,7 @@ export default function ResultsPage() {
   return (
     <div className="min-h-dvh bg-background">
       <Header showBack backHref={localePath(locale, `/quiz/${vehicleType}`)} title={dict.results.title} />
-      <main className="max-w-2xl mx-auto px-4 sm:px-6 py-8">
+      <main id="main-content" className="max-w-2xl mx-auto px-4 sm:px-6 py-8">
         {/* Score Display */}
         <NeoCard level={2} shadow={passed ? 'secondary' : 'default'} className="text-center mb-6">
           <div className="mb-4">

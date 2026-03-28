@@ -46,7 +46,7 @@
   --color-success-dim: #22c55e;
 
   /* === OUTLINE === */
-  --color-outline: #757575;
+  --color-outline: #8a8a8a;
   --color-outline-variant: #484848;
 
   /* === ON-SURFACE === */
@@ -74,6 +74,36 @@
   font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
   display: inline-block;
   vertical-align: middle;
+}
+
+/* Focus rings — visible for keyboard users, hidden for mouse */
+:focus-visible {
+  outline: 2px solid #f5ce53;
+  outline-offset: 2px;
+}
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* Skip to content */
+.skip-to-content {
+  position: absolute;
+  top: -100%;
+  left: 16px;
+  z-index: 9999;
+  padding: 12px 24px;
+  background: #f5ce53;
+  color: #584500;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: 2px solid #000000;
+  box-shadow: 4px 4px 0px 0px #000000;
+  transition: top 0.15s ease;
+}
+.skip-to-content:focus {
+  top: 16px;
 }
 
 /* Base */
@@ -131,8 +161,8 @@ body {
 
 /* Button push effect */
 .neo-push {
-  transition: transform 0.1s cubic-bezier(0.175, 0.885, 0.32, 1.275),
-    box-shadow 0.1s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  transition: transform 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275),
+    box-shadow 0.15s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 .neo-push:active {
   transform: translate(4px, 4px);
@@ -310,4 +340,24 @@ body {
 }
 [dir="rtl"] .font-label {
   font-family: var(--font-arabic, var(--font-nastaliq, "IBM Plex Sans Arabic")), "Space Grotesk", sans-serif;
+}
+
+/* === REDUCED MOTION === */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+  .animate-slide-in,
+  .animate-shake,
+  .animate-fill,
+  .animate-checkmark,
+  .pulse-glow {
+    animation: none !important;
+  }
+  .neo-push, .neo-push-chunky, .neo-hover {
+    transition: none !important;
+  }
 }

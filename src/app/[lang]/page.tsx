@@ -61,7 +61,7 @@ export default function HomePage() {
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
       <Header />
       <HeroSection />
-      <main className="max-w-7xl mx-auto px-4 sm:px-6">
+      <main id="main-content" className="max-w-7xl mx-auto px-4 sm:px-6">
         <div id="vehicle-section" className="relative z-30 mb-6 bg-background pt-6 -mt-[96vh]" ref={vehicleSectionRef}>
           {/* Car driving on the "road" (this section) */}
           <VintageCar leftPercent={carLeft} />

@@ -79,14 +79,42 @@ export default function QuizPage() {
 
   if (state.status === 'loading' || !currentQuestion) {
     return (
-      <div className="min-h-dvh bg-background flex items-center justify-center">
-        <div className="text-center">
-          <span className="material-symbols-outlined text-secondary animate-pulse" style={{ fontSize: 48 }}>
-            quiz
-          </span>
-          <p className="mt-4 font-headline text-lg text-on-surface-variant">
-            {dict.quiz.loadingQuestions}
-          </p>
+      <div className="min-h-dvh bg-background">
+        <Header showBack backHref={`/quiz/${vehicleType}`} />
+        {/* Skeleton progress bar */}
+        <div className="sticky top-16 z-40 bg-surface border-b-2 border-surface-container-lowest px-4 py-3">
+          <div className="max-w-3xl mx-auto">
+            <div className="flex items-center gap-3 mb-2">
+              <div className="h-3 w-24 bg-surface-container-highest animate-pulse" />
+              <div className="flex-1" />
+              <div className="h-3 w-16 bg-surface-container-highest animate-pulse" />
+            </div>
+            <div className="h-2 w-full bg-surface-container-highest" />
+          </div>
+        </div>
+        {/* Skeleton question card */}
+        <div className="max-w-3xl mx-auto px-4 sm:px-6 py-6">
+          <div className="bg-surface-container border-2 border-surface-container-lowest p-5 sm:p-6">
+            <div className="flex items-center gap-3 mb-4">
+              <div className="h-3 w-28 bg-surface-container-highest animate-pulse" />
+              <div className="flex-1" />
+              <div className="h-3 w-20 bg-surface-container-highest animate-pulse" />
+            </div>
+            {/* Question text skeleton */}
+            <div className="space-y-2 mb-6">
+              <div className="h-5 w-full bg-surface-container-highest animate-pulse" />
+              <div className="h-5 w-3/4 bg-surface-container-highest animate-pulse" />
+            </div>
+            {/* Answer skeletons */}
+            <div className="space-y-3">
+              {[1, 2, 3, 4].map((i) => (
+                <div key={i} className="flex items-center gap-3 p-3 sm:p-4 border-2 border-surface-container-lowest bg-surface-container">
+                  <div className="w-10 h-10 bg-surface-container-highest animate-pulse flex-shrink-0" />
+                  <div className="h-4 flex-1 bg-surface-container-highest animate-pulse" />
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
       </div>
     )

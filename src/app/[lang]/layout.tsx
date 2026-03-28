@@ -120,6 +120,9 @@ export default async function LangLayout({
         />
       </head>
       <body className="bg-surface text-on-surface min-h-dvh antialiased">
+        <a href="#main-content" className="skip-to-content">
+          Skip to content
+        </a>
         <StructuredData />
         <DictionaryProvider dict={dict} locale={locale}>
           <ProgressProvider>

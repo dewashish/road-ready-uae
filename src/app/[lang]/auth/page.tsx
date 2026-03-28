@@ -22,6 +22,13 @@ export default function AuthPage() {
   const [confirmPassword, setConfirmPassword] = useState('')
   const [showPassword, setShowPassword] = useState(false)
   const [isSubmitting, setIsSubmitting] = useState(false)
+  const [touched, setTouched] = useState<Record<string, boolean>>({})
+
+  const emailValid = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)
+  const passwordStrength = password.length === 0 ? 0 : password.length < 6 ? 1 : password.length < 10 ? 2 : 3
+  const passwordsMatch = password === confirmPassword
+  const strengthLabels = ['', 'Weak', 'Good', 'Strong']
+  const strengthColors = ['', 'bg-error', 'bg-secondary', 'bg-success']
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault()
@@ -59,7 +66,7 @@ export default function AuthPage() {
   return (
     <div className="min-h-dvh bg-background">
       <Header />
-      <main className="max-w-md mx-auto px-4 sm:px-6 py-12">
+      <main id="main-content" className="max-w-md mx-auto px-4 sm:px-6 py-12">
         {/* Logo */}
         <div className="text-center mb-8">
           <div className="w-16 h-16 bg-secondary border-2 border-surface-container-lowest neo-shadow-secondary mx-auto flex items-center justify-center mb-4">
@@ -82,26 +89,35 @@ export default function AuthPage() {
           <form onSubmit={handleSubmit} className="space-y-5">
             {/* Email */}
             <div>
-              <label className="block font-label text-xs font-bold text-on-surface-variant uppercase tracking-wider mb-2">
+              <label htmlFor="auth-email" className="block font-label text-xs font-bold text-on-surface-variant uppercase tracking-wider mb-2">
                 {dict.auth.email}
               </label>
               <input
+                id="auth-email"
                 type="email"
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
+                onBlur={() => setTouched(t => ({ ...t, email: true }))}
                 placeholder={dict.auth.emailPlaceholder}
                 required
-                className="w-full bg-surface-container-lowest border-2 border-surface-container-lowest px-4 py-3 text-on-surface font-body placeholder:text-outline focus:border-secondary focus:outline-none transition-colors"
+                aria-invalid={touched.email && !emailValid ? 'true' : undefined}
+                className={`w-full bg-surface-container-lowest border-2 px-4 py-3 text-on-surface font-body placeholder:text-outline focus:border-secondary focus:outline-none transition-colors ${
+                  touched.email && email && !emailValid ? 'border-error' : 'border-surface-container-lowest'
+                }`}
               />
+              {touched.email && email && !emailValid && (
+                <p className="mt-1 text-xs text-error">{'Please enter a valid email address'}</p>
+              )}
             </div>
 
             {/* Password */}
             <div>
-              <label className="block font-label text-xs font-bold text-on-surface-variant uppercase tracking-wider mb-2">
+              <label htmlFor="auth-password" className="block font-label text-xs font-bold text-on-surface-variant uppercase tracking-wider mb-2">
                 {dict.auth.password}
               </label>
               <div className="relative">
                 <input
+                  id="auth-password"
                   type={showPassword ? 'text' : 'password'}
                   value={password}
                   onChange={(e) => setPassword(e.target.value)}
@@ -114,28 +130,57 @@ export default function AuthPage() {
                   type="button"
                   onClick={() => setShowPassword(!showPassword)}
                   className="absolute right-3 top-1/2 -translate-y-1/2 text-on-surface-variant"
+                  aria-label={showPassword ? 'Hide password' : 'Show password'}
                 >
-                  <span className="material-symbols-outlined" style={{ fontSize: 20 }}>
+                  <span className="material-symbols-outlined" aria-hidden="true" style={{ fontSize: 20 }}>
                     {showPassword ? 'visibility_off' : 'visibility'}
                   </span>
                 </button>
               </div>
+              {/* Password strength indicator (signup only) */}
+              {mode === 'signup' && password.length > 0 && (
+                <div className="mt-2">
+                  <div className="flex gap-1">
+                    {[1, 2, 3].map((level) => (
+                      <div
+                        key={level}
+                        className={`h-1 flex-1 transition-colors ${
+                          passwordStrength >= level ? strengthColors[passwordStrength] : 'bg-surface-container-highest'
+                        }`}
+                      />
+                    ))}
+                  </div>
+                  <p className={`mt-1 text-[10px] font-label uppercase tracking-wider ${
+                    passwordStrength === 1 ? 'text-error' : passwordStrength === 2 ? 'text-secondary' : 'text-success'
+                  }`}>
+                    {strengthLabels[passwordStrength]}
+                  </p>
+                </div>
+              )}
             </div>
 
             {/* Confirm Password (signup only) */}
             {mode === 'signup' && (
               <div>
-                <label className="block font-label text-xs font-bold text-on-surface-variant uppercase tracking-wider mb-2">
+                <label htmlFor="auth-confirm-password" className="block font-label text-xs font-bold text-on-surface-variant uppercase tracking-wider mb-2">
                   {dict.auth.confirmPassword}
                 </label>
                 <input
+                  id="auth-confirm-password"
                   type={showPassword ? 'text' : 'password'}
                   value={confirmPassword}
                   onChange={(e) => setConfirmPassword(e.target.value)}
+                  onBlur={() => setTouched(t => ({ ...t, confirmPassword: true }))}
                   placeholder={dict.auth.confirmPasswordPlaceholder}
                   required
-                  className="w-full bg-surface-container-lowest border-2 border-surface-container-lowest px-4 py-3 text-on-surface font-body placeholder:text-outline focus:border-secondary focus:outline-none transition-colors"
+                  aria-invalid={touched.confirmPassword && !passwordsMatch ? 'true' : undefined}
+                  className={`w-full bg-surface-container-lowest border-2 px-4 py-3 text-on-surface font-body placeholder:text-outline focus:border-secondary focus:outline-none transition-colors ${
+                    touched.confirmPassword && confirmPassword && !passwordsMatch ? 'border-error' : 'border-surface-container-lowest'
+                  }`}
                 />
+                {touched.confirmPassword && confirmPassword && !passwordsMatch && (
+                  <p className="mt-1 text-xs text-error">{dict.auth.passwordsDontMatch}</p>
+                )}
               </div>
             )}
 

@@ -41,14 +41,17 @@ export function LanguageSwitcher() {
       <button
         onClick={() => setOpen(!open)}
         className="neo-push-chunky neo-shadow-chunky flex items-center gap-1.5 bg-secondary text-surface-container-lowest px-2.5 py-1.5 border-3 border-surface-container-lowest"
+        aria-expanded={open}
+        aria-haspopup="listbox"
+        aria-label={`Language: ${localeNames[locale]}`}
       >
-        <span className="material-symbols-outlined text-surface-container-lowest" style={{ fontSize: 16 }}>
+        <span className="material-symbols-outlined text-surface-container-lowest" aria-hidden="true" style={{ fontSize: 16 }}>
           translate
         </span>
         <span className="font-label text-[10px] font-bold text-surface-container-lowest uppercase tracking-wider hidden sm:inline">
           {localeNames[locale]}
         </span>
-        <span className="material-symbols-outlined text-surface-container-lowest" style={{ fontSize: 14 }}>
+        <span className="material-symbols-outlined text-surface-container-lowest" aria-hidden="true" style={{ fontSize: 14 }}>
           {open ? 'expand_less' : 'expand_more'}
         </span>
       </button>

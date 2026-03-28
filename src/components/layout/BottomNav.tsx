@@ -18,7 +18,7 @@ export function BottomNav() {
   ]
 
   return (
-    <nav className="fixed bottom-0 start-0 end-0 z-50 sm:hidden bg-surface-container border-t-2 border-surface-container-lowest pb-safe">
+    <nav className="fixed bottom-0 start-0 end-0 z-50 sm:hidden bg-surface-container border-t-2 border-surface-container-lowest pb-safe" aria-label="Main navigation">
       <div className="flex items-center justify-around h-16">
         {NAV_ITEMS.map((item) => {
           const localizedHref = localePath(locale, item.href)
@@ -36,6 +36,7 @@ export function BottomNav() {
             >
               <span
                 className="material-symbols-outlined"
+                aria-hidden="true"
                 style={{
                   fontSize: 24,
                   fontVariationSettings: isActive ? '"FILL" 1' : '"FILL" 0',

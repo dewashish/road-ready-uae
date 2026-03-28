@@ -26,7 +26,7 @@ export default function HistoryPage() {
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
       <Header title={dict.historyPage.titleHighlight} />
-      <main className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
+      <main id="main-content" className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
         <h2 className="font-headline text-3xl font-bold text-primary mb-6">
           {dict.historyPage.title} <span className="text-secondary">{dict.historyPage.titleHighlight}</span>
         </h2>

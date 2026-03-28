@@ -51,8 +51,9 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
           <Link
             href={localePath(locale, backHref)}
             className="neo-push flex items-center justify-center w-10 h-10 bg-surface-container-high border-2 border-surface-container-lowest neo-shadow"
+            aria-label={dict.common.back ?? 'Go back'}
           >
-            <span className="material-symbols-outlined icon-directional" style={{ fontSize: 20 }}>
+            <span className="material-symbols-outlined icon-directional" aria-hidden="true" style={{ fontSize: 20 }}>
               arrow_back
             </span>
           </Link>
@@ -96,7 +97,7 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
                     : 'text-on-surface-variant hover:text-primary'
                 )}
               >
-                <span className="material-symbols-outlined" style={{ fontSize: 16 }}>{link.icon}</span>
+                <span className="material-symbols-outlined" aria-hidden="true" style={{ fontSize: 16 }}>{link.icon}</span>
                 {link.label}
               </Link>
             )
@@ -105,14 +106,14 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
 
         <div className="ms-auto flex items-center gap-2 sm:gap-3">
           <LanguageSwitcher />
-          <div className="flex items-center gap-2 bg-surface-container px-3 py-1.5 border-2 border-surface-container-lowest">
-            <span className="material-symbols-outlined text-secondary" style={{ fontSize: 18 }}>
+          <div className="flex items-center gap-2 bg-surface-container px-3 py-1.5 border-2 border-surface-container-lowest" aria-label={`${dict.progressPage?.dayStreak ?? 'Streak'}: ${progress.currentStreak}`}>
+            <span className="material-symbols-outlined text-secondary" aria-hidden="true" style={{ fontSize: 18 }}>
               local_fire_department
             </span>
             <span className="font-label text-xs font-bold text-secondary">{progress.currentStreak}</span>
           </div>
-          <div className="hidden sm:flex items-center gap-2 bg-surface-container px-3 py-1.5 border-2 border-surface-container-lowest">
-            <span className="material-symbols-outlined text-tertiary" style={{ fontSize: 18 }}>
+          <div className="hidden sm:flex items-center gap-2 bg-surface-container px-3 py-1.5 border-2 border-surface-container-lowest" aria-label={`${dict.common.xp}: ${progress.totalXp}`}>
+            <span className="material-symbols-outlined text-tertiary" aria-hidden="true" style={{ fontSize: 18 }}>
               star
             </span>
             <span className="font-label text-xs font-bold text-tertiary">{progress.totalXp} {dict.common.xp}</span>
@@ -125,14 +126,17 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
                 <button
                   onClick={() => setShowUserMenu(!showUserMenu)}
                   className="neo-push flex items-center gap-2 bg-secondary/10 border-2 border-secondary px-3 py-1.5 transition-colors hover:bg-secondary/20"
+                  aria-expanded={showUserMenu}
+                  aria-haspopup="true"
+                  aria-label={dict.common.signedInAs ? `${dict.common.signedInAs} ${user.email?.split('@')[0]}` : 'User menu'}
                 >
-                  <span className="material-symbols-outlined text-secondary" style={{ fontSize: 18 }}>
+                  <span className="material-symbols-outlined text-secondary" aria-hidden="true" style={{ fontSize: 18 }}>
                     person
                   </span>
                   <span className="font-label text-xs font-bold text-secondary hidden sm:inline max-w-[120px] truncate">
                     {user.email?.split('@')[0]}
                   </span>
-                  <span className="material-symbols-outlined text-secondary" style={{ fontSize: 16 }}>
+                  <span className="material-symbols-outlined text-secondary" aria-hidden="true" style={{ fontSize: 16 }}>
                     {showUserMenu ? 'expand_less' : 'expand_more'}
                   </span>
                 </button>
@@ -150,7 +154,7 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
                       }}
                       className="w-full flex items-center gap-3 px-4 py-3 text-start hover:bg-error/10 transition-colors"
                     >
-                      <span className="material-symbols-outlined text-error" style={{ fontSize: 18 }}>logout</span>
+                      <span className="material-symbols-outlined text-error" aria-hidden="true" style={{ fontSize: 18 }}>logout</span>
                       <span className="font-label text-sm font-bold text-error">{dict.common.signOut}</span>
                     </button>
                   </div>
@@ -160,8 +164,9 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
               <Link
                 href={localePath(locale, '/auth')}
                 className="neo-push flex items-center gap-2 bg-surface-container px-3 py-1.5 border-2 border-surface-container-lowest transition-colors hover:border-secondary"
+                aria-label={dict.common.signIn}
               >
-                <span className="material-symbols-outlined text-on-surface-variant" style={{ fontSize: 18 }}>
+                <span className="material-symbols-outlined text-on-surface-variant" aria-hidden="true" style={{ fontSize: 18 }}>
                   login
                 </span>
                 <span className="font-label text-xs font-bold text-on-surface-variant hidden sm:inline">

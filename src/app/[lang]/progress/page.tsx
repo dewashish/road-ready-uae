@@ -77,7 +77,7 @@ export default function ProgressPage() {
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
       <Header title={dict.progressPage.titleHighlight} />
-      <main className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
+      <main id="main-content" className="max-w-4xl mx-auto px-4 sm:px-6 py-8">
         <h2 className="font-headline text-3xl font-bold text-primary mb-6">
           {dict.progressPage.title} <span className="text-tertiary">{dict.progressPage.titleHighlight}</span>
         </h2>
