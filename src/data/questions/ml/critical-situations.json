@@ -2488,704 +2488,704 @@
   },
   {
     "id": "rta-fk-040",
-    "question_text": "Refueling your forklift must be carried out in well ventilated areas because;",
+    "question_text": "നിങ്ങളുടെ ഫോർക്ക്‌ലിഫ്റ്റിൽ ഇന്ധനം നിറക്കുന്നത് നന്നായി വായു സഞ്ചാരമുള്ള സ്ഥലങ്ങളിൽ നടത്തണം കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-040-a",
-        "answer_text": "Fuel stations are very far"
+        "answer_text": "ഇന്ധന സ്റ്റേഷനുകൾ വളരെ ദൂരെ ആണ്"
       },
       {
         "id": "rta-fk-040-b",
-        "answer_text": "Fumes from petrol and LPG are very explosive"
+        "answer_text": "പെട്രോളിന്റെയും LPG-യുടെയും ആവി വളരെ സ്ഫോടനാത്മകമാണ്"
       },
       {
         "id": "rta-fk-040-c",
-        "answer_text": "Fire extinguishers may not be available"
+        "answer_text": "അഗ്നിശമന ഉപകരണങ്ങൾ ലഭ്യമല്ലായിരിക്കാം"
       }
     ]
   },
   {
     "id": "rta-fk-059",
-    "question_text": "The visual pre-use check includes ensuring that;",
+    "question_text": "ദൃശ്യ ഉപയോഗ-മുൻ പരിശോധനയിൽ ഉറപ്പ് വരുത്തൽ ഉൾക്കൊള്ളുന്നു;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-059-a",
-        "answer_text": "Fire extinguisher is properly located"
+        "answer_text": "അഗ്നിശമന ഉപകരണം ശരിയായ സ്ഥലത്ത് ഉണ്ട്"
       },
       {
         "id": "rta-fk-059-b",
-        "answer_text": "Fire extinguisher is present and charged"
+        "answer_text": "അഗ്നിശമന ഉപകരണം ഉണ്ടെന്നും ചാർജ് ആണെന്നും"
       },
       {
         "id": "rta-fk-059-c",
-        "answer_text": "Fire extinguisher is appropriately labeled"
+        "answer_text": "അഗ്നിശമന ഉപകരണത്തിൽ ശരിയായ ലേബൽ ഉണ്ട്"
       }
     ]
   },
   {
     "id": "rta-fk-089",
-    "question_text": "The most common cause of death and injury in forklift accidents is when;",
+    "question_text": "ഫോർക്ക്ലിഫ്റ്റ് അപകടങ്ങളിൽ മരണത്തിനും പരിക്കിനും ഏറ്റവും സാധാരണമായ കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-089-a",
-        "answer_text": "Drivers stay inside the cabin on an overturning forklift"
+        "answer_text": "മറിഞ്ഞ് വീഴുന്ന ഫോർക്ക്ലിഫ്റ്റിൽ ഡ്രൈവർമാർ ക്യാബിനിൽ തന്നെ തങ്ങുന്നു"
       },
       {
         "id": "rta-fk-089-b",
-        "answer_text": "Drivers attempt to jump from an overturning forklift."
+        "answer_text": "മറിഞ്ഞ് വീഴുന്ന ഫോർക്ക്ലിഫ്റ്റിൽ നിന്ന് ഡ്രൈവർമാർ ചാടാൻ ശ്രമിക്കുന്നു"
       },
       {
         "id": "rta-fk-089-c",
-        "answer_text": "Drivers attempt to stop an overturning forklift"
+        "answer_text": "മറിഞ്ഞ് വീഴുന്ന ഫോർക്ക്ലിഫ്റ്റ് നിർത്താൻ ഡ്രൈവർമാർ ശ്രമിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-hfk-014",
-    "question_text": "If you are operating a shovel, avoid loose clothing and jewelry, and loose, long hair because;",
+    "question_text": "നിങ്ങൾ ഒരു ഷോവൽ ഓപ്പറേറ്റ് ചെയ്യുകയാണെങ്കിൽ, അയഞ്ഞ വസ്ത്രങ്ങൾ, ആഭരണങ്ങൾ, അയഞ്ഞ നീണ്ട മുടി എന്നിവ ഒഴിവാക്കുക കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-014-a",
-        "answer_text": "They can cause the shovels to malfunction"
+        "answer_text": "അവ ഷോവലിന്റെ പ്രവർത്തനം തടസ്സപ്പെടുത്തിയേക്കാം"
       },
       {
         "id": "rta-hfk-014-b",
-        "answer_text": "They can catch on controls or moving parts and lead to serious accident."
+        "answer_text": "അവ നിയന്ത്രണങ്ങളിലോ ചലിക്കുന്ന ഭാഗങ്ങളിലോ കുടുങ്ങി ഗുരുതരമായ അപകടത്തിന് ഇടയാക്കാം"
       },
       {
         "id": "rta-hfk-014-c",
-        "answer_text": "They can cause delay in the progress of work"
+        "answer_text": "അവ ജോലിയുടെ പുരോഗതിയിൽ കാലതാമസം ഉണ്ടാക്കിയേക്കാം"
       }
     ]
   },
   {
     "id": "rta-hfk-035",
-    "question_text": "The action to be taken, who to report to and where and emergency phone numbers are;",
+    "question_text": "സ്വീകരിക്കേണ്ട നടപടി, ആർക്ക് എവിടെ റിപ്പോർട്ട് ചെയ്യണം, അടിയന്തര ഫോൺ നമ്പറുകൾ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-035-a",
-        "answer_text": "Part of owners manuals"
+        "answer_text": "ഉടമസ്ഥ മാനുവലിന്റെ ഭാഗം"
       },
       {
         "id": "rta-hfk-035-b",
-        "answer_text": "Part of pre-operational checks"
+        "answer_text": "പ്രീ-ഓപ്പറേഷനൽ പരിശോധനയുടെ ഭാഗം"
       },
       {
         "id": "rta-hfk-035-c",
-        "answer_text": "Part of worksite emergency procedures"
+        "answer_text": "തൊഴിൽ സ്ഥല അടിയന്തര നടപടിക്രമങ്ങളുടെ ഭാഗം"
       }
     ]
   },
   {
     "id": "rta-hfk-057",
-    "question_text": "What two (2) immediate actions can you do in case your shovel catches fire? and look for;",
+    "question_text": "നിങ്ങളുടെ ഷോവലിൽ തീ പിടിച്ചാൽ ഉടൻ ചെയ്യാവുന്ന രണ്ട് (2) നടപടികൾ എന്തൊക്കെ? എന്ത് അന്വേഷിക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-057-a",
-        "answer_text": "Look for fire extinguishers and call for help"
+        "answer_text": "അഗ്നിശമന ഉപകരണങ്ങൾ തിരയുക, സഹായത്തിനായി വിളിക്കുക"
       },
       {
         "id": "rta-hfk-057-b",
-        "answer_text": "Clear the workplace and warn the people"
+        "answer_text": "ജോലിസ്ഥലം ഒഴിപ്പിക്കുക, ആളുകളെ മുന്നറിയിപ്പ് നൽകുക"
       },
       {
         "id": "rta-hfk-057-c",
-        "answer_text": "Stop the shovel and turn the engine off"
+        "answer_text": "ഷോവൽ നിർത്തി എഞ്ചിൻ ഓഫ് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-hfk-061",
-    "question_text": "If you must leave the shovel's cabin because of fire or other reasons, make sure;",
+    "question_text": "തീ അല്ലെങ്കിൽ മറ്റ് കാരണങ്ങളാൽ ഷോവലിന്റെ ക്യാബിൻ വിടേണ്ടി വന്നാൽ, ഉറപ്പ് വരുത്തുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-061-a",
-        "answer_text": "To jump as far as possible from the shovel"
+        "answer_text": "ഷോവലിൽ നിന്ന് കഴിവതും ദൂരെ ചാടുക"
       },
       {
         "id": "rta-hfk-061-b",
-        "answer_text": "To do so slowly and carefully"
+        "answer_text": "പതുക്കെ ജാഗ്രതയോടെ ചെയ്യുക"
       },
       {
         "id": "rta-hfk-061-c",
-        "answer_text": "To use the usual dismounting procedure"
+        "answer_text": "സാധാരണ ഇറങ്ങൽ നടപടിക്രമം ഉപയോഗിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-063",
-    "question_text": "At the end of your shift, your shovel has steering failure. What should you do?",
+    "question_text": "നിങ്ങളുടെ ഷിഫ്റ്റ് അവസാനിക്കുമ്പോൾ, നിങ്ങളുടെ ഷോവലിന് സ്റ്റിയറിങ് തകരാർ ഉണ്ടായി. നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-063-a",
-        "answer_text": "Go home, your shift has ended"
+        "answer_text": "വീട്ടിലേക്ക് പോകൂ, നിങ്ങളുടെ ഷിഫ്റ്റ് അവസാനിച്ചു"
       },
       {
         "id": "rta-hfk-063-b",
-        "answer_text": "Stay inside the cabin and wait for your supervisor"
+        "answer_text": "ക്യാബിനിൽ ഇരിക്കുക, നിങ്ങളുടെ സൂപ്പർവൈസറെ കാത്തിരിക്കുക"
       },
       {
         "id": "rta-hfk-063-c",
-        "answer_text": "Report the problem before heading home"
+        "answer_text": "വീട്ടിലേക്ക് പോകുന്നതിന് മുമ്പ് പ്രശ്നം റിപ്പോർട്ട് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-hfk-064",
-    "question_text": "If your shovel has brake failure on steep ramp or road, the bucket may be;",
+    "question_text": "കുത്തനെ ചരിഞ്ഞ ഒരു ചരിവ് അല്ലെങ്കിൽ റോഡിൽ നിങ്ങളുടെ ഷോവലിന്റെ ബ്രേക്ക് പരാജയപ്പെട്ടാൽ, ബക്കറ്റ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-064-a",
-        "answer_text": "Used as brakes when dropped"
+        "answer_text": "താഴ്ത്തുമ്പോൾ ബ്രേക്കായി ഉപയോഗിക്കാം"
       },
       {
         "id": "rta-hfk-064-b",
-        "answer_text": "Used as guide to stop safely"
+        "answer_text": "സുരക്ഷിതമായി നിർത്തുന്നതിന് ഗൈഡായി ഉപയോഗിക്കാം"
       },
       {
         "id": "rta-hfk-064-c",
-        "answer_text": "Used as a tool for steering"
+        "answer_text": "സ്റ്റിയറിങ് ഉപകരണമായി ഉപയോഗിക്കാം"
       }
     ]
   },
   {
     "id": "rta-hfk-065",
-    "question_text": "In this situation, it is best to stay inside the cabin and call for assistance.",
+    "question_text": "ഈ സ്ഥിതിയിൽ, ക്യാബിനിൽ ഉണ്ടായിരിക്കുകയും സഹായത്തിനായി വിളിക്കുകയും ചെയ്യുന്നതാണ് ഏറ്റവും നല്ലത്.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-065-a",
-        "answer_text": "Shovel has brake failures"
+        "answer_text": "ഷോവലിന്റെ ബ്രേക്ക് പരാജയപ്പെടുന്നു"
       },
       {
         "id": "rta-hfk-065-b",
-        "answer_text": "Shovel rolls over or partially rolls on a slope"
+        "answer_text": "ഷോവൽ മറിഞ്ഞ് വീഴുന്നു അല്ലെങ്കിൽ ഒരു ചരിവിൽ ഭാഗികമായി മറിഞ്ഞ് വീഴുന്നു"
       },
       {
         "id": "rta-hfk-065-c",
-        "answer_text": "Shovel has steering failures"
+        "answer_text": "ഷോവലിന്റെ സ്റ്റിയറിങ് പരാജയപ്പെടുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-013",
-    "question_text": "Which of the following cases may cause the rear wheel to skid?",
+    "question_text": "ഇനിപ്പറയുന്നവയിൽ ഏത് സാഹചര്യത്തിൽ പിൻ ചക്രം സ്കിഡ് ആകാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-013-a",
-        "answer_text": "Applying the front brake in a curve."
+        "answer_text": "ഒരു കർവിൽ ഫ്രണ്ട് ബ്രേക്ക് പ്രയോഗിക്കുക."
       },
       {
         "id": "rta-moto-013-b",
-        "answer_text": "Accelerating too quickly."
+        "answer_text": "വളരെ പെട്ടെന്ന് ത്വരണം ചെയ്യുക."
       },
       {
         "id": "rta-moto-013-c",
-        "answer_text": "Changing to a higher gear while going slowly."
+        "answer_text": "മന്ദഗതിയിൽ ഉയർന്ന ഗിയറിലേക്ക് മാറ്റുക."
       }
     ]
   },
   {
     "id": "rta-moto-049",
-    "question_text": "The best way to handle a rear wheel skid caused by over braking is to:",
+    "question_text": "അമിത ബ്രേക്കിംഗ് മൂലം ഉണ്ടാകുന്ന പിൻ ചക്ര സ്കിഡ് കൈകാര്യം ചെയ്യാനുള്ള ഏറ്റവും നല്ല മാർഗ്ഗം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-049-a",
-        "answer_text": "steer into the direction of the skid and release the rear brake."
+        "answer_text": "സ്കിഡിന്റെ ദിശയിലേക്ക് സ്റ്റിയർ ചെയ്ത് പിൻ ബ്രേക്ക് വിടുക."
       },
       {
         "id": "rta-moto-049-b",
-        "answer_text": "ease off the brakes gradually, putting one foot to the ground."
+        "answer_text": "ക്രമേണ ബ്രേക്ക് കുറയ്ക്കുക, ഒരു കാൽ നിലത്ത് വയ്ക്കുക."
       },
       {
         "id": "rta-moto-049-c",
-        "answer_text": "steer slightly away from the skid and release the brakes rapidly."
+        "answer_text": "സ്കിഡിൽ നിന്ന് അൽപ്പം അകലെ സ്റ്റിയർ ചെയ്ത് ബ്രേക്ക് പെട്ടെന്ന് വിടുക."
       }
     ]
   },
   {
     "id": "rta-moto-050",
-    "question_text": "Your rear wheel locks, the engine suddenly speeds up and your cycle starts to skid. The likely cause of this is:",
+    "question_text": "നിങ്ങളുടെ പിൻ ചക്രം ലോക്ക് ആകുന്നു, എൻജിൻ പെട്ടെന്ന് വേഗം കൂടുന്നു, നിങ്ങളുടെ സൈക്കിൾ സ്കിഡ് ചെയ്യാൻ തുടങ്ങുന്നു. ഇതിന്റെ ഏറ്റവും ഉചിതമായ കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-050-a",
-        "answer_text": "a broken chain."
+        "answer_text": "പൊട്ടിയ ചെയിൻ."
       },
       {
         "id": "rta-moto-050-b",
-        "answer_text": "a stuck throttle."
+        "answer_text": "കുരുങ്ങിയ ത്രോട്ടിൽ."
       },
       {
         "id": "rta-moto-050-c",
-        "answer_text": "a rear wheel blowout."
+        "answer_text": "പിൻ ചക്രത്തിന്റെ ബ്ലോ ഔട്ട്."
       }
     ]
   },
   {
     "id": "rta-moto-051",
-    "question_text": "If you have a tyre blowout the first thing you should do is:",
+    "question_text": "ടയർ ബ്ലോ ഔട്ട് ആയാൽ ആദ്യം ചെയ്യേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-051-a",
-        "answer_text": "grip the handgrips firmly and try to steer a straight course."
+        "answer_text": "ഹാൻഡ്‌ഗ്രിപ്പ് ശക്തമായി പിടിക്കുക, നേർരേഖയിൽ സ്റ്റിയർ ചെയ്യാൻ ശ്രമിക്കുക."
       },
       {
         "id": "rta-moto-051-b",
-        "answer_text": "brake gently using both brakes and ease off the throttle."
+        "answer_text": "രണ്ട് ബ്രേക്കും ഉപയോഗിച്ച് സൌമ്യമായി ബ്രേക്ക് ചെയ്ത് ത്രോട്ടിൽ കുറയ്ക്കുക."
       },
       {
         "id": "rta-moto-051-c",
-        "answer_text": "steer towards the side of the road."
+        "answer_text": "റോഡിന്റെ വശത്തേക്ക് സ്റ്റിയർ ചെയ്യുക."
       }
     ]
   },
   {
     "id": "rta-moto-053",
-    "question_text": "You are trying to stop quickly, but your front wheel starts to skid. You should:",
+    "question_text": "നിങ്ങൾ പെട്ടെന്ന് നിർത്താൻ ശ്രമിക്കുന്നു, പക്ഷേ മുൻ ചക്രം സ്കിഡ് ചെയ്യാൻ തുടങ്ങുന്നു. നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-053-a",
-        "answer_text": "apply the rear brake more firmly."
+        "answer_text": "പിൻ ബ്രേക്ക് കൂടുതൽ ശക്തമായി ഇടുക."
       },
       {
         "id": "rta-moto-053-b",
-        "answer_text": "change down to a lower gear."
+        "answer_text": "താഴ്ന്ന ഗിയറിലേക്ക് മാറുക."
       },
       {
         "id": "rta-moto-053-c",
-        "answer_text": "release the front brake immediately."
+        "answer_text": "ഉടൻ മുൻ ബ്രേക്ക് വിടുക."
       }
     ]
   },
   {
     "id": "rta-moto-055",
-    "question_text": "When braking, if the rear wheel starts skidding out to the right, you should:",
+    "question_text": "ബ്രേക്ക് ചെയ്യുമ്പോൾ പിൻ ചക്രം വലതുഭാഗത്തേക്ക് സ്കിഡ് ചെയ്തു തുടങ്ങിയാൽ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-055-a",
-        "answer_text": "apply both brakes gently."
+        "answer_text": "രണ്ട് ബ്രേക്കുകളും പതുക്കെ പ്രയോഗിക്കുക."
       },
       {
         "id": "rta-moto-055-b",
-        "answer_text": "steer slightly to the right."
+        "answer_text": "അൽപ്പം വലതുഭാഗത്തേക്ക് സ്റ്റിയർ ചെയ്യുക."
       },
       {
         "id": "rta-moto-055-c",
-        "answer_text": "counter steer to the left."
+        "answer_text": "ഇടതുഭാഗത്തേക്ക് കൌണ്ടർ സ്റ്റിയർ ചെയ്യുക."
       }
     ]
   },
   {
     "id": "rta-moto-058",
-    "question_text": "If the back of the motorcycle starts skidding while accelerating, which of the following actions should the rider take immediately?",
+    "question_text": "ആക്സിലറേഷൻ ചെയ്യുമ്പോൾ മോട്ടോർസൈക്കിളിന്റെ പിൻഭാഗം സ്കിഡ് ചെയ്തു തുടങ്ങിയാൽ, റൈഡർ ഉടൻ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-058-a",
-        "answer_text": "Ease off the throttle."
+        "answer_text": "ത്രോട്ടിൽ പതുക്കെ വിടുക."
       },
       {
         "id": "rta-moto-058-b",
-        "answer_text": "Ease off the throttle, steer hard to the left and apply the rear brake gently."
+        "answer_text": "ത്രോട്ടിൽ വിടുക, ഇടതുഭാഗത്തേക്ക് ശക്തമായി സ്റ്റിയർ ചെയ്ത് പിൻ ബ്രേക്ക് പതുക്കെ പ്രയോഗിക്കുക."
       },
       {
         "id": "rta-moto-058-c",
-        "answer_text": "Steer hard to the left, apply the rear brake gently and sit as far back on the seat as possible."
+        "answer_text": "ഇടതുഭാഗത്തേക്ക് ശക്തമായി സ്റ്റിയർ ചെയ്ത്, പിൻ ബ്രേക്ക് പതുക്കെ പ്രയോഗിച്ച്, സീറ്റിൽ കഴിയുന്നത്ര പിന്നിൽ ഇരിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-092",
-    "question_text": "Keeping a safe distance of at least 3 seconds is important because:",
+    "question_text": "കുറഞ്ഞത് 3 സെക്കൻഡ് സുരക്ഷിത അകലം പാലിക്കുന്നത് പ്രധാനമാണ്, കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-092-a",
-        "answer_text": "it gives you more time to stop in an emergency."
+        "answer_text": "അടിയന്തര സാഹചര്യത്തിൽ നിർത്താൻ കൂടുതൽ സമയം ലഭിക്കുന്നു."
       },
       {
         "id": "rta-moto-092-b",
-        "answer_text": "it allows you more room to accelerate faster."
+        "answer_text": "വേഗം കൂട്ടാൻ കൂടുതൽ ഇടം ലഭിക്കുന്നു."
       },
       {
         "id": "rta-moto-092-c",
-        "answer_text": "you can swerve easily."
+        "answer_text": "എളുപ്പത്തിൽ ദിശ മാറ്റാൻ കഴിയും."
       }
     ]
   },
   {
     "id": "rta-moto-168",
-    "question_text": "You are trying to make an emergency stop for your bike but your tire starts skidding. What could be the reason?",
+    "question_text": "നിങ്ങൾ ബൈക്കിനായി അടിയന്തര നിർത്തം ചെയ്യാൻ ശ്രമിക്കുകയാണ്, പക്ഷേ ടയർ സ്‌കിഡ് ചെയ്യാൻ തുടങ്ങി. എന്ത് കാരണമാകാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-168-a",
-        "answer_text": "the front brakes were not working properly"
+        "answer_text": "മുൻ ബ്രേക്കുകൾ ശരിയായി പ്രവർത്തിക്കുന്നില്ലായിരുന്നു"
       },
       {
         "id": "rta-moto-168-b",
-        "answer_text": "the rear brake pedal was pressed too hard"
+        "answer_text": "പിൻ ബ്രേക്ക് പെഡൽ ഒരുപാട് ശക്തിയോടെ അമർത്തി"
       },
       {
         "id": "rta-moto-168-c",
-        "answer_text": "both front and rear brakes are working just fine"
+        "answer_text": "മുൻ, പിൻ ബ്രേക്കുകൾ രണ്ടും ശരിയായി പ്രവർത്തിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-170",
-    "question_text": "If your bike skids for any reason, how should you position your feet while you are dealing with the skid?",
+    "question_text": "ഏതെങ്കിലും കാരണത്താൽ ബൈക്ക് സ്‌കിഡ് ചെയ്‌താൽ, സ്‌കിഡ് നിയന്ത്രിക്കുമ്പോൾ പാദങ്ങൾ എങ്ങനെ ഇരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-170-a",
-        "answer_text": "your feet should be positioned on the ground"
+        "answer_text": "പാദങ്ങൾ നിലത്ത് വയ്ക്കണം"
       },
       {
         "id": "rta-moto-170-b",
-        "answer_text": "your feet should be kept positioned on the foot pegs"
+        "answer_text": "പാദങ്ങൾ ഫുട്ട് പെഗ്‌സിൽ നിലനിർത്തണം"
       },
       {
         "id": "rta-moto-170-c",
-        "answer_text": "your feet should be neither on the foot pegs nor the ground"
+        "answer_text": "പാദങ്ങൾ ഫുട്ട് പെഗ്‌സിലോ നിലത്തോ ഇരിക്കരുത്"
       }
     ]
   },
   {
     "id": "rta-moto-171",
-    "question_text": "The most common cause of skidding is grabbing or suddenly applying the brakes. How?",
+    "question_text": "സ്‌കിഡിന്റെ ഏറ്റവും സാധാരണ കാരണം ബ്രേക്ക് പിടിക്കുകയോ പെട്ടെന്ന് പ്രയോഗിക്കുകയോ ചെയ്യുന്നതാണ്. എങ്ങനെ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-171-a",
-        "answer_text": "the brakes do not have any grip on the surface"
+        "answer_text": "ബ്രേക്കിന് ഉപരിതലത്തിൽ പിടുത്തമില്ല"
       },
       {
         "id": "rta-moto-171-b",
-        "answer_text": "the front brakes not work as good as the rear brakes"
+        "answer_text": "മുൻ ബ്രേക്കുകൾ പിൻ ബ്രേക്കുകൾ പോലെ നന്നായി പ്രവർത്തിക്കില്ല"
       },
       {
         "id": "rta-moto-171-c",
-        "answer_text": "this can lock up one or both wheels while braking."
+        "answer_text": "ബ്രേക്ക് ചെയ്യുമ്പോൾ ഒന്നോ രണ്ടോ ചക്രങ്ങൾ ലോക്ക് ആകും"
       }
     ]
   },
   {
     "id": "rta-moto-173",
-    "question_text": "Having a tire blow-out is a result of a quick puncture to the tire. What is your best protection from this?",
+    "question_text": "ടയർ ബ്ലോ-ഔട്ട് ടയറിലെ പെട്ടെന്നുള്ള പഞ്ചറിന്റെ ഫലമാണ്. ഇതിൽ നിന്ന് ഏറ്റവും നല്ല സംരക്ഷണം ഏതാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-173-a",
-        "answer_text": "ride your bike during day time only"
+        "answer_text": "പകൽ സമയത്ത് മാത്രം ബൈക്ക് ഓടിക്കുക"
       },
       {
         "id": "rta-moto-173-b",
-        "answer_text": "replace your tires before they become too worn"
+        "answer_text": "ടയർ അത്യധികം ക്ഷതിക്കപ്പെടുന്നതിന് മുൻപ് മാറ്റിവയ്ക്കുക"
       },
       {
         "id": "rta-moto-173-c",
-        "answer_text": "replace your tires every six months"
+        "answer_text": "ആറ് മാസം കൂടുമ്പോൾ ടയർ മാറ്റിവയ്ക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-175",
-    "question_text": "The chain of your bike breaks and it locks the wheel. What should you do to stay safe?",
+    "question_text": "നിങ്ങളുടെ ബൈക്കിന്റെ ചെയിൻ പൊട്ടി ചക്രം ലോക്ക് ആകുന്നു. സുരക്ഷിതരായിരിക്കാൻ നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-175-a",
-        "answer_text": "release the brakes and steer to the opposite direction of the skid"
+        "answer_text": "ബ്രേക്ക് വിടുക, സ്കിഡിന്റെ വിപരീത ദിശയിലേക്ക് സ്റ്റിയർ ചെയ്യുക"
       },
       {
         "id": "rta-moto-175-b",
-        "answer_text": "put pressure on the brakes and steer to the direction of the skid"
+        "answer_text": "ബ്രേക്കിൽ സമ്മർദ്ദം ചെലുത്തുക, സ്കിഡിന്റെ ദിശയിലേക്ക് സ്റ്റിയർ ചെയ്യുക"
       },
       {
         "id": "rta-moto-175-c",
-        "answer_text": "release the brakes and steer to the direction of the skid"
+        "answer_text": "ബ്രേക്ക് വിടുക, സ്കിഡിന്റെ ദിശയിലേക്ക് സ്റ്റിയർ ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-moto-179",
-    "question_text": "A quick way to swerve around an obstacle called counter steering. When doing this;",
+    "question_text": "ഒരു തടസ്സത്തിന് ചുറ്റും വേഗത്തിൽ ഒഴിഞ്ഞുമാറുന്ന രീതിയെ കൗണ്ടർ സ്റ്റിയറിംഗ് എന്നു പറയുന്നു. ഇത് ചെയ്യുമ്പോൾ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-179-a",
-        "answer_text": "you should not use any of the brakes."
+        "answer_text": "നിങ്ങൾ ഒരു ബ്രേക്കും ഉപയോഗിക്കരുത്"
       },
       {
         "id": "rta-moto-179-b",
-        "answer_text": "you may use the front brake"
+        "answer_text": "നിങ്ങൾക്ക് മുൻ ബ്രേക്ക് ഉപയോഗിക്കാം"
       },
       {
         "id": "rta-moto-179-c",
-        "answer_text": "you may use  the rear brake"
+        "answer_text": "നിങ്ങൾക്ക് പിൻ ബ്രേക്ക് ഉപയോഗിക്കാം"
       }
     ]
   },
   {
     "id": "rta-moto-180",
-    "question_text": "Riding towards an obstacle on the road that is flat like a card board or metal sheet, what should you do?",
+    "question_text": "കാർഡ്ബോർഡ് അല്ലെങ്കിൽ ലോഹ ഷീറ്റ് പോലുള്ള പരന്ന തടസ്സത്തിലേക്ക് ഓടിക്കുകയാണെങ്കിൽ, നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-180-a",
-        "answer_text": "make an evasive maneuver"
+        "answer_text": "ഒഴിഞ്ഞുമാറൽ കൗശലം പ്രയോഗിക്കുക"
       },
       {
         "id": "rta-moto-180-b",
-        "answer_text": "ride straight over the top and do not brake"
+        "answer_text": "നേരെ മുകളിലൂടെ കടന്നുപോകുക, ബ്രേക്ക് ചെയ്യരുത്"
       },
       {
         "id": "rta-moto-180-c",
-        "answer_text": "do an emergency braking"
+        "answer_text": "അടിയന്തര ബ്രേക്കിംഗ് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-moto-181",
-    "question_text": "Riding towards an obstacle on the road that is bigger or a rough road, what should you do?",
+    "question_text": "റോഡിൽ വലിയ തടസ്സം അല്ലെങ്കിൽ ഉടഞ്ഞ റോഡിലേക്ക് ഓടിക്കുകയാണെങ്കിൽ, നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-181-a",
-        "answer_text": "ride straight over the top and do not brake"
+        "answer_text": "നേരെ മുകളിലൂടെ കടന്നുപോകുക, ബ്രേക്ക് ചെയ്യരുത്"
       },
       {
         "id": "rta-moto-181-b",
-        "answer_text": "speed up and try to jump over the object"
+        "answer_text": "വേഗം കൂട്ടി വസ്തു ചാടിക്കടക്കാൻ ശ്രമിക്കുക"
       },
       {
         "id": "rta-moto-181-c",
-        "answer_text": "if possible, brake before you reach the object, but release the brake before you hit it."
+        "answer_text": "കഴിയുമെങ്കിൽ വസ്തുവിന് മുൻപ് ബ്രേക്ക് ചെയ്യുക, എന്നാൽ ഇടിക്കുന്നതിന് മുൻപ് ബ്രേക്ക് വിടുക"
       }
     ]
   },
   {
     "id": "rta-moto-182",
-    "question_text": "In dealing with riding emergency, what can you do to reduce the likelihood of falling over?",
+    "question_text": "റൈഡിംഗ് അടിയന്തരാവസ്ഥയിൽ, വീഴ്ചയുടെ സാധ്യത കുറയ്ക്കാൻ നിങ്ങൾ എന്ത് ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-182-a",
-        "answer_text": "try to keep the bike upright in a straight line"
+        "answer_text": "ബൈക്ക് നേരെ ഒരു നേർരേഖയിൽ നിർത്താൻ ശ്രമിക്കുക"
       },
       {
         "id": "rta-moto-182-b",
-        "answer_text": "try to use the front brake only"
+        "answer_text": "മുൻ ബ്രേക്ക് മാത്രം ഉപയോഗിക്കാൻ ശ്രമിക്കുക"
       },
       {
         "id": "rta-moto-182-c",
-        "answer_text": "try to wear the top quality helmets only"
+        "answer_text": "ഉയർന്ന നിലവാരമുള്ള ഹെൽമെറ്റ് മാത്രം ധരിക്കാൻ ശ്രമിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-184",
-    "question_text": "To swerve quickly to the left and perform a counter steering, you need to;",
+    "question_text": "ഇടതുവശത്തേക്ക് വേഗത്തിൽ ഒഴിഞ്ഞുമാറി കൗണ്ടർ സ്റ്റിയറിംഗ് ചെയ്യാൻ, നിങ്ങൾ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-184-a",
-        "answer_text": "press forward on the left handgrip."
+        "answer_text": "ഇടത് ഹാൻഡ്ഗ്രിപ്പ് മുന്നോട്ട് അമർത്തുക"
       },
       {
         "id": "rta-moto-184-b",
-        "answer_text": "press forward on the right handgrip."
+        "answer_text": "വലത് ഹാൻഡ്ഗ്രിപ്പ് മുന്നോട്ട് അമർത്തുക"
       },
       {
         "id": "rta-moto-184-c",
-        "answer_text": "lean and turn your head to the right"
+        "answer_text": "ചാഞ്ഞ് തല വലതുവശത്തേക്ക് തിരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-188",
-    "question_text": "As a rider, you want to have more time to stop in case of emergency. How can you do this?",
+    "question_text": "ഒരു റൈഡർ എന്ന നിലയിൽ, അടിയന്തരാവസ്ഥയിൽ നിർത്താൻ കൂടുതൽ സമയം ആഗ്രഹിക്കുന്നു. ഇത് എങ്ങനെ ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-188-a",
-        "answer_text": "by wearing highly reflective clothing"
+        "answer_text": "ഉയർന്ന പ്രതിഫലന വസ്ത്രം ധരിക്കുക"
       },
       {
         "id": "rta-moto-188-b",
-        "answer_text": "by increasing your following distance and being alert"
+        "answer_text": "പിൻദൂരം കൂട്ടി ജാഗ്രതയോടെ ഇരിക്കുക"
       },
       {
         "id": "rta-moto-188-c",
-        "answer_text": "by maintaining your bike properly"
+        "answer_text": "ബൈക്ക് ശരിയായി പരിപാലിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-044",
-    "question_text": "In an emergency, to stop quickly and control the vehicle, you should use the brakes:",
+    "question_text": "അടിയന്തര സാഹചര്യത്തിൽ, വേഗം നിർത്തി വാഹനം നിയന്ത്രിക്കുന്നതിന്, ബ്രേക്കുകൾ ഇങ്ങനെ ഉപയോഗിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-044-a",
-        "answer_text": "until you lock the wheels and keep them locked."
+        "answer_text": "ചക്രങ്ങൾ ലോക്ക് ആകുന്നത് വരെ, ലോക്ക് ചെയ്ത് നിർത്തുക."
       },
       {
         "id": "rta-hvb-044-b",
-        "answer_text": "until you almost lock the wheels, then release the brakes and apply again."
+        "answer_text": "ചക്രങ്ങൾ ഏതാണ്ട് ലോക്ക് ആകുന്നത് വരെ, പിന്നെ ബ്രേക്ക് വിടുക, വീണ്ടും ഒടുക്കുക."
       },
       {
         "id": "rta-hvb-044-c",
-        "answer_text": "after changing through the gears."
+        "answer_text": "ഗിയർ മാറ്റിയ ശേഷം."
       }
     ]
   },
   {
     "id": "rta-hvb-046",
-    "question_text": "To put out a fire, use the fire extinguisher until:",
+    "question_text": "തീ കെടുത്തുന്നതിന്, അഗ്നി ശമന ഉപകരണം ഇനിപ്പറയുന്നത് വരെ ഉപയോഗിക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-046-a",
-        "answer_text": "the flame is gone."
+        "answer_text": "തീനാളം ഇല്ലാതാകുന്നത് വരെ."
       },
       {
         "id": "rta-hvb-046-b",
-        "answer_text": "whatever was burning is cool."
+        "answer_text": "കത്തിക്കൊണ്ടിരുന്ന വസ്തു തണുക്കുന്നത് വരെ."
       },
       {
         "id": "rta-hvb-046-c",
-        "answer_text": "the smoke has cleared."
+        "answer_text": "പുക ഒഴിഞ്ഞ് പോകുന്നത് വരെ."
       }
     ]
   },
   {
     "id": "rta-hvb-052",
-    "question_text": "If you have accelerated too hard, and your drive wheels spin, you should:",
+    "question_text": "നിങ്ങൾ അമിതമായ ആക്‌സിലേറേഷൻ ഉപയോഗിക്കുകയും ഡ്രൈവ് ചക്രങ്ങൾ കറങ്ങുകയും ചെയ്‌താൽ, ചെയ്യേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-052-a",
-        "answer_text": "brake hard."
+        "answer_text": "ശക്തമായി ബ്രേക്ക് ഇടുക."
       },
       {
         "id": "rta-hvb-052-b",
-        "answer_text": "press the clutch pedal."
+        "answer_text": "ക്ലച്ച് പെഡൽ ചവിട്ടുക."
       },
       {
         "id": "rta-hvb-052-c",
-        "answer_text": "ease off the accelerator."
+        "answer_text": "ആക്‌സിലേറ്ററിൽ നിന്ന് കാൽ എടുക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-112",
-    "question_text": "The three (3) very dangerous vehicle emergencies are;",
+    "question_text": "മൂന്ന് (3) അതീവ അപകടകരമായ വാഹന അടിയന്തരാവസ്ഥകൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-112-a",
-        "answer_text": "brake failure, fires, steering failure."
+        "answer_text": "ബ്രേക്ക് ഫെയിൽ, തീ, സ്റ്റിയറിംഗ് ഫെയിൽ."
       },
       {
         "id": "rta-hvb-112-b",
-        "answer_text": "tire failure, brake failure, fires."
+        "answer_text": "ടയർ ഫെയിൽ, ബ്രേക്ക് ഫെയിൽ, തീ."
       },
       {
         "id": "rta-hvb-112-c",
-        "answer_text": "tire failure, brake failure, sleepiness."
+        "answer_text": "ടയർ ഫെയിൽ, ബ്രേക്ക് ഫെയിൽ, ഉറക്കം."
       }
     ]
   },
   {
     "id": "rta-hvb-144",
-    "question_text": "If you have to change wheels by the road, how can you safely position your vehicle?",
+    "question_text": "റോഡരുകിൽ ടയർ മാറ്റേണ്ടി വന്നാൽ, നിങ്ങൾക്ക് വാഹനം സുരക്ഷിതമായി എങ്ങനെ പൊസിഷൻ ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-144-a",
-        "answer_text": "The vehicle should be facing the opposite direction"
+        "answer_text": "വാഹനം എതിർ ദിശയിലേക്ക് തിരിഞ്ഞിരിക്കണം"
       },
       {
         "id": "rta-hvb-144-b",
-        "answer_text": "Move as far off the road as possible"
+        "answer_text": "റോഡിൽ നിന്ന് കഴിയുന്നത്ര ദൂരത്തേക്ക് മാറ്റുക"
       },
       {
         "id": "rta-hvb-144-c",
-        "answer_text": "Move to the hard shoulder"
+        "answer_text": "ഹാർഡ് ഷോൾഡറിലേക്ക് മാറ്റുക"
       }
     ]
   },
   {
     "id": "rta-hvb-153",
-    "question_text": "Excessive wear and worn tires can cause;",
+    "question_text": "അമിതമായ തേയ്മാനവും കൂടുതൽ ഉപയോഗിച്ച ടയറുകളും കാരണമാകുന്നത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-153-a",
-        "answer_text": "Complete brake failure"
+        "answer_text": "ബ്രേക്ക് പൂർണ്ണമായും പരാജയപ്പെടൽ"
       },
       {
         "id": "rta-hvb-153-b",
-        "answer_text": "Wheel nuts to loosen"
+        "answer_text": "വീൽ നട്ടുകൾ അഴഞ്ഞു പോകൽ"
       },
       {
         "id": "rta-hvb-153-c",
-        "answer_text": "Loss of steering control"
+        "answer_text": "സ്റ്റിയറിങ് നിയന്ത്രണം നഷ്ടമാകൽ"
       }
     ]
   },
   {
     "id": "rta-hvb-191",
-    "question_text": "When backing up the prime mover under the semi-trailer skid plate, which gear must be used?",
+    "question_text": "സെമി-ട്രെയ്‌ലറിന്റെ സ്കിഡ് പ്ലേറ്റിനടിയിൽ പ്രൈം മൂവർ പിന്നോക്കം കൊണ്ടുപോകുമ്പോൾ ഏത് ഗിയർ ഉപയോഗിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-191-a",
-        "answer_text": "The lowest possible reverse gear"
+        "answer_text": "ഏറ്റവും കുറഞ്ഞ റിവേഴ്‌സ് ഗിയർ"
       },
       {
         "id": "rta-hvb-191-b",
-        "answer_text": "The second lowest possible reverse gear"
+        "answer_text": "രണ്ടാമത്തെ ഏറ്റവും കുറഞ്ഞ റിവേഴ്‌സ് ഗിയർ"
       },
       {
         "id": "rta-hvb-191-c",
-        "answer_text": "Any of the reverse gear is possible"
+        "answer_text": "ഏത് റിവേഴ്‌സ് ഗിയറും ഉപയോഗിക്കാം"
       }
     ]
   },
   {
     "id": "rta-hvb-197",
-    "question_text": "If you stand on or near the turntable to connect airlines or electrical cables, be careful because;",
+    "question_text": "എയർലൈനുകൾ അല്ലെങ്കിൽ ഇലക്ട്രിക്കൽ കേബിളുകൾ ബന്ധിപ്പിക്കാൻ ടേൺടേബിളിൽ അല്ലെങ്കിൽ അതിനടുത്ത് നിൽക്കുകയാണെങ്കിൽ, ശ്രദ്ധിക്കുക കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-197-a",
-        "answer_text": "It can cause fire or a wheel to lock"
+        "answer_text": "ഇത് തീ ഉണ്ടാക്കാം അല്ലെങ്കിൽ ചക്രം ലോക്ക് ആകാം"
       },
       {
         "id": "rta-hvb-197-b",
-        "answer_text": "The fuel line may have leaks"
+        "answer_text": "ഇന്ധന ലൈനിൽ ചോർച്ച ഉണ്ടായേക്കാം"
       },
       {
         "id": "rta-hvb-197-c",
-        "answer_text": "It is easy to slip on greasy parts."
+        "answer_text": "എണ്ണമയമുള്ള ഭാഗങ്ങളിൽ വഴുതി വീഴാൻ എളുപ്പമാണ്"
       }
     ]
   }

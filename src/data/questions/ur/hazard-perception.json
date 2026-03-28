@@ -4418,1369 +4418,1369 @@
   },
   {
     "id": "rta-lmv-484",
-    "question_text": "You encountered a collision on your way and you are not involved, what is the best behavior here?",
+    "question_text": "راستے میں آپ کو ایک حادثہ نظر آیا اور آپ اس میں شامل نہیں ہیں، یہاں بہترین رویہ کیا ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-484-a",
-        "answer_text": "try and slow down to see what happened"
+        "answer_text": "کیا ہوا یہ دیکھنے کے لیے رفتار کم کرنے کی کوشش کریں"
       },
       {
         "id": "rta-lmv-484-b",
-        "answer_text": "avoid slowing down to look as it may cause more traffic or cause another collision"
+        "answer_text": "دیکھنے کے لیے رفتار کم کرنے سے گریز کریں کیونکہ اس سے مزید ٹریفک یا ایک اور حادثہ ہو سکتا ہے"
       },
       {
         "id": "rta-lmv-484-c",
-        "answer_text": "stop on the side of the road and ask around what really happened"
+        "answer_text": "سڑک کے کنارے رک کر معلوم کریں کہ واقعی کیا ہوا"
       }
     ]
   },
   {
     "id": "rta-lmv-489",
-    "question_text": "If you are involved in a crash, turn your hazards lights on, exit your vehicle carefully and;",
+    "question_text": "اگر آپ کسی حادثے میں شامل ہوں تو اپنی ہیزرڈ لائٹس آن کریں، احتیاط سے گاڑی سے باہر نکلیں اور؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-489-a",
-        "answer_text": "turn your headlights on"
+        "answer_text": "اپنی ہیڈلائٹس آن کریں"
       },
       {
         "id": "rta-lmv-489-b",
-        "answer_text": "wear high visibility jackets if possible"
+        "answer_text": "اگر ممکن ہو تو ہائی وژیبیلٹی جیکٹ پہنیں"
       },
       {
         "id": "rta-lmv-489-c",
-        "answer_text": "immediately move out anyone who may be injured"
+        "answer_text": "فوری طور پر کسی بھی زخمی کو وہاں سے ہٹائیں"
       }
     ]
   },
   {
     "id": "rta-lmv-492",
-    "question_text": "Broken yellow lines across the road warn motorists that there is a speed hump in the roadway. What should you expect?",
+    "question_text": "سڑک پر ٹوٹی ہوئی پیلی لکیریں ڈرائیوروں کو خبردار کرتی ہیں کہ آگے اسپیڈ ہمپ ہے۔ آپ کو کیا توقع رکھنی چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-492-a",
-        "answer_text": "be alert for any animals as they may be crossing this area"
+        "answer_text": "کسی بھی جانور سے ہوشیار رہیں کیونکہ وہ اس علاقے کو عبور کر سکتے ہیں"
       },
       {
         "id": "rta-lmv-492-b",
-        "answer_text": "be alert for pedestrians, as they may use this as a crossing point"
+        "answer_text": "پیدل چلنے والوں سے ہوشیار رہیں، کیونکہ وہ اسے کراسنگ پوائنٹ کے طور پر استعمال کر سکتے ہیں"
       },
       {
         "id": "rta-lmv-492-c",
-        "answer_text": "be alert for heavy vehicles crossing this area"
+        "answer_text": "بھاری گاڑیوں سے ہوشیار رہیں جو اس علاقے کو عبور کر رہی ہوں"
       }
     ]
   },
   {
     "id": "rta-fk-020",
-    "question_text": "Which type of forklifts have the highest lifting capacity?",
+    "question_text": "کس قسم کی فورک لفٹس میں سب سے زیادہ اٹھانے کی صلاحیت ہوتی ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-020-a",
-        "answer_text": "Rough terrain forklifts"
+        "answer_text": "ناہموار زمین کی فورک لفٹس"
       },
       {
         "id": "rta-fk-020-b",
-        "answer_text": "Pedestrian operated forklifts"
+        "answer_text": "پیدل چلنے والوں کی چلائی فورک لفٹس"
       },
       {
         "id": "rta-fk-020-c",
-        "answer_text": "Ride on forklifts"
+        "answer_text": "سواری والی فورک لفٹس"
       }
     ]
   },
   {
     "id": "rta-fk-030",
-    "question_text": "When moving forward and steering, the rear end swing will be 3 times faster than the forward speed of the forklift. This creates;",
+    "question_text": "آگے بڑھتے اور اسٹیئر کرتے وقت، فورک لفٹ کی رفتار سے 3 گنا تیز رفتار سے پچھلا حصہ جھولتا ہے۔ اس سے پیدا ہوتا ہے؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-030-a",
-        "answer_text": "Forward and reverse movement"
+        "answer_text": "آگے اور پیچھے کی حرکت"
       },
       {
         "id": "rta-fk-030-b",
-        "answer_text": "Sideways movement and dangers to pedestrians"
+        "answer_text": "پہلو کی حرکت اور پیدل چلنے والوں کو خطرہ"
       },
       {
         "id": "rta-fk-030-c",
-        "answer_text": "Sudden changes in directions"
+        "answer_text": "سمت میں اچانک تبدیلیاں"
       }
     ]
   },
   {
     "id": "rta-fk-049",
-    "question_text": "Where forklift is operating, what should be kept away",
+    "question_text": "جہاں فورک لفٹ کام کر رہی ہو، وہاں سے کسے دور رکھنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-049-a",
-        "answer_text": "Safety equipment"
+        "answer_text": "حفاظتی سامان"
       },
       {
         "id": "rta-fk-049-b",
-        "answer_text": "Loads"
+        "answer_text": "بوجھ"
       },
       {
         "id": "rta-fk-049-c",
-        "answer_text": "Pedestrians"
+        "answer_text": "پیدل چلنے والے"
       }
     ]
   },
   {
     "id": "rta-fk-056",
-    "question_text": "Before operating a forklift, this should be done as part of pre-use visual check;",
+    "question_text": "فورک لفٹ چلانے سے پہلے، استعمال سے پہلے بصری جانچ کے حصے کے طور پر یہ کرنا چاہیے؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-056-a",
-        "answer_text": "Location of the fire stations"
+        "answer_text": "فائر اسٹیشنوں کا مقام"
       },
       {
         "id": "rta-fk-056-b",
-        "answer_text": "Know the location of the doorways"
+        "answer_text": "دروازوں کا مقام جانیں"
       },
       {
         "id": "rta-fk-056-c",
-        "answer_text": "know the location of the dangerous goods"
+        "answer_text": "خطرناک سامان کا مقام جانیں"
       }
     ]
   },
   {
     "id": "rta-fk-066",
-    "question_text": "If you need to control the movement of people around for safety, what measure can you use?",
+    "question_text": "اگر آپ کو حفاظت کے لیے لوگوں کی نقل و حرکت کو کنٹرول کرنا ہو، تو آپ کون سا طریقہ استعمال کر سکتے ہیں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-066-a",
-        "answer_text": "Block all entrance and exits for pedestrians"
+        "answer_text": "پیدل چلنے والوں کے تمام داخلی اور خارجی راستے بند کر دیں"
       },
       {
         "id": "rta-fk-066-b",
-        "answer_text": "Insist on setting up traffic lights"
+        "answer_text": "ٹریفک لائٹس لگانے پر زور دیں"
       },
       {
         "id": "rta-fk-066-c",
-        "answer_text": "Include use of a flag person to warn of dangers and control movement"
+        "answer_text": "خطرات کی انتباہ دینے اور نقل و حرکت کو کنٹرول کرنے کے لیے ایک جھنڈا شخص کا استعمال شامل کریں"
       }
     ]
   },
   {
     "id": "rta-fk-077",
-    "question_text": "Rough surfaces, people and other vehicles are some of the _______when operating forklift.",
+    "question_text": "ناہموار سطحیں، لوگ اور دیگر گاڑیاں فورک لفٹ چلاتے وقت _______ میں سے کچھ ہیں۔",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-077-a",
-        "answer_text": "Workplace disturbances"
+        "answer_text": "کام کی جگہ میں خلل"
       },
       {
         "id": "rta-fk-077-b",
-        "answer_text": "Dangers to watch for"
+        "answer_text": "دھیان دینے کے خطرات"
       },
       {
         "id": "rta-fk-077-c",
-        "answer_text": "Safety areas"
+        "answer_text": "حفاظتی علاقے"
       }
     ]
   },
   {
     "id": "rta-hfk-042",
-    "question_text": "Before starting the shovel, you noticed a warning tag attached to one of the controls. What should you do?",
+    "question_text": "شاول شروع کرنے سے پہلے، آپ نے ایک کنٹرول سے وارننگ ٹیگ لگا ہوا دیکھا۔ آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-042-a",
-        "answer_text": "Start the engine, you have work to do"
+        "answer_text": "انجن شروع کریں، آپ کے پاس کام ہے"
       },
       {
         "id": "rta-hfk-042-b",
-        "answer_text": "Do not start the engine, there is safety risk"
+        "answer_text": "انجن شروع نہ کریں، سیفٹی خطرہ ہے"
       },
       {
         "id": "rta-hfk-042-c",
-        "answer_text": "Remove the tag and place it in the storage compartment"
+        "answer_text": "ٹیگ ہٹائیں اور اسے اسٹوریج کمپارٹمنٹ میں رکھیں"
       }
     ]
   },
   {
     "id": "rta-hfk-054",
-    "question_text": "When refueling, reduce  risk of fire by;",
+    "question_text": "ایندھن بھرتے وقت، آگ کا خطرہ کم کرنے کے لیے؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-054-a",
-        "answer_text": "Ensuring there are no naked flames nearby"
+        "answer_text": "یہ یقینی کریں کہ قریب کوئی کھلی آگ نہ ہو"
       },
       {
         "id": "rta-hfk-054-b",
-        "answer_text": "Ensuring the fuel used is not flammable"
+        "answer_text": "یہ یقینی کریں کہ استعمال شدہ ایندھن آتش گیر نہ ہو"
       },
       {
         "id": "rta-hfk-054-c",
-        "answer_text": "Making sure the area is free of leaks"
+        "answer_text": "یہ یقینی کریں کہ علاقہ رساؤ سے پاک ہو"
       }
     ]
   },
   {
     "id": "rta-hfk-066",
-    "question_text": "To avoid overturning dangers for shovel operations, you should look for;",
+    "question_text": "شاول آپریشن میں پلٹنے کے خطرات سے بچنے کے لیے، آپ کو تلاش کرنا چاہیے؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-066-a",
-        "answer_text": "Sloping ground, hidden holes and drop-offs."
+        "answer_text": "ڈھلوان زمین، پوشیدہ گڑھے اور کنارے"
       },
       {
         "id": "rta-hfk-066-b",
-        "answer_text": "Overhead cables and telephone lines"
+        "answer_text": "اوپر سے گزرنے والی کیبلیں اور ٹیلیفون لائنیں"
       },
       {
         "id": "rta-hfk-066-c",
-        "answer_text": "Site speed limits"
+        "answer_text": "سائٹ کی رفتار کی حدود"
       }
     ]
   },
   {
     "id": "rta-hfk-079",
-    "question_text": "What is the danger when transporting loads such as boulders?",
+    "question_text": "پتھر جیسے بوجھ کو لے جاتے وقت کیا خطرہ ہوتا ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-079-a",
-        "answer_text": "The bucket may not be of the right size"
+        "answer_text": "بالٹی مناسب سائز کی نہ ہو"
       },
       {
         "id": "rta-hfk-079-b",
-        "answer_text": "The bucket could tip as it is raised and cause injury or damage"
+        "answer_text": "بالٹی اٹھاتے وقت پلٹ سکتی ہے اور چوٹ یا نقصان کا باعث بن سکتی ہے"
       },
       {
         "id": "rta-hfk-079-c",
-        "answer_text": "The bucket may slip and loose brakes while travelling"
+        "answer_text": "بالٹی پھسل سکتی ہے اور سفر کے دوران بریک ڈھیلی ہو سکتی ہے"
       }
     ]
   },
   {
     "id": "rta-hfk-086",
-    "question_text": "When working on inclines, what can cause the machine to slide and be placed in a dangerous position?",
+    "question_text": "ڈھلانوں پر کام کرتے وقت، کیا چیز مشین کو پھسلنے اور خطرناک پوزیشن میں آنے کا سبب بن سکتی ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-086-a",
-        "answer_text": "Very low center of gravity of the machine"
+        "answer_text": "مشین کا بہت کم مرکزِ ثقل"
       },
       {
         "id": "rta-hfk-086-b",
-        "answer_text": "Hard and sticky material on the surface"
+        "answer_text": "سطح پر سخت اور چپکنے والا مواد"
       },
       {
         "id": "rta-hfk-086-c",
-        "answer_text": "Loose material on the surface"
+        "answer_text": "سطح پر ڈھیلا مواد"
       }
     ]
   },
   {
     "id": "rta-hfk-089",
-    "question_text": "The rear attachment of shovels generally used during fence construction;",
+    "question_text": "بیلچوں کی پچھلی اٹیچمنٹ جو عام طور پر باڑ کی تعمیر کے دوران استعمال ہوتی ہے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-089-a",
-        "answer_text": "Rippers"
+        "answer_text": "ریپرز"
       },
       {
         "id": "rta-hfk-089-b",
-        "answer_text": "Grabs"
+        "answer_text": "گریبز"
       },
       {
         "id": "rta-hfk-089-c",
-        "answer_text": "Augers"
+        "answer_text": "آگرز"
       }
     ]
   },
   {
     "id": "rta-moto-005",
-    "question_text": "Why is it dangerous to use second hand helmet?",
+    "question_text": "پرانا ہیلمٹ استعمال کرنا کیوں خطرناک ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-005-a",
-        "answer_text": "Because it may have damage you cannot see"
+        "answer_text": "کیونکہ اس میں ایسا نقصان ہو سکتا ہے جو آپ دیکھ نہ سکیں۔"
       },
       {
         "id": "rta-moto-005-b",
-        "answer_text": "Because it may be outdated."
+        "answer_text": "کیونکہ یہ پرانا ہو سکتا ہے۔"
       },
       {
         "id": "rta-moto-005-c",
-        "answer_text": "Because it is not acceptable."
+        "answer_text": "کیونکہ یہ قابل قبول نہیں ہے۔"
       }
     ]
   },
   {
     "id": "rta-moto-009",
-    "question_text": "When riding around a corner:",
+    "question_text": "موڑ مڑتے وقت:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-009-a",
-        "answer_text": "stay right of centre in your lane to keep away from oncoming vehicles."
+        "answer_text": "آنے والی گاڑیوں سے دور رہنے کے لیے اپنی لین کے مرکز سے دائیں جانب رہیں۔"
       },
       {
         "id": "rta-moto-009-b",
-        "answer_text": "stay left of centre in your lane where you are most easily seen."
+        "answer_text": "اپنی لین کے مرکز سے بائیں جانب رہیں جہاں آپ آسانی سے نظر آ سکتے ہیں۔"
       },
       {
         "id": "rta-moto-009-c",
-        "answer_text": "position yourself on the road so that you can see through the corner."
+        "answer_text": "سڑک پر اس مقام پر پوزیشن لیں تاکہ آپ موڑ کے پار دیکھ سکیں۔"
       }
     ]
   },
   {
     "id": "rta-moto-021",
-    "question_text": "Most collisions between cars and motorcycles happen:",
+    "question_text": "کاروں اور موٹرسائیکلوں کے درمیان زیادہ تر ٹکراؤ ہوتے ہیں:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-021-a",
-        "answer_text": "at intersections."
+        "answer_text": "چوراہوں پر۔"
       },
       {
         "id": "rta-moto-021-b",
-        "answer_text": "at high speeds."
+        "answer_text": "تیز رفتاری پر۔"
       },
       {
         "id": "rta-moto-021-c",
-        "answer_text": "between vehicles travelling in the same direction."
+        "answer_text": "ایک ہی سمت میں چلنے والی گاڑیوں کے درمیان۔"
       }
     ]
   },
   {
     "id": "rta-moto-025",
-    "question_text": "You are riding past a line of parked cars and one seems to be pulling out. You should:",
+    "question_text": "آپ کھڑی گاڑیوں کی قطار کے پاس سے گزر رہے ہیں اور ایک گاڑی نکلتی نظر آ رہی ہے۔ آپ کو:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-025-a",
-        "answer_text": "change your lane position to avoid a crash."
+        "answer_text": "حادثے سے بچنے کے لیے اپنی لین کی پوزیشن تبدیل کریں۔"
       },
       {
         "id": "rta-moto-025-b",
-        "answer_text": "stop as quickly as you can."
+        "answer_text": "جلد از جلد رک جائیں۔"
       },
       {
         "id": "rta-moto-025-c",
-        "answer_text": "accelerate straight ahead to pass the car."
+        "answer_text": "گاڑی سے آگے نکلنے کے لیے سیدھے تیز چلائیں۔"
       }
     ]
   },
   {
     "id": "rta-moto-026",
-    "question_text": "Why must motorcyclist not position at the extreme edges of the lane?",
+    "question_text": "موٹر سائیکل سوار کو لین کے انتہائی کناروں پر کیوں نہیں آنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-026-a",
-        "answer_text": "To ensure better forward view."
+        "answer_text": "بہتر آگے کا نظارہ یقینی بنانے کے لیے۔"
       },
       {
         "id": "rta-moto-026-b",
-        "answer_text": "To avoid disturbing other drivers."
+        "answer_text": "دوسرے ڈرائیوروں کو پریشان نہ کرنے کے لیے۔"
       },
       {
         "id": "rta-moto-026-c",
-        "answer_text": "To avoid being trapped by other vehicles."
+        "answer_text": "دوسری گاڑیوں میں پھنسنے سے بچنے کے لیے۔"
       }
     ]
   },
   {
     "id": "rta-moto-033",
-    "question_text": "Oil dropped by cars on the road is particularly dangerous to motorcyclists:",
+    "question_text": "سڑک پر گاڑیوں سے گرا ہوا تیل موٹر سائیکل سواروں کے لیے خاص طور پر خطرناک ہوتا ہے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-033-a",
-        "answer_text": "at the edges of the road"
+        "answer_text": "سڑک کے کناروں پر"
       },
       {
         "id": "rta-moto-033-b",
-        "answer_text": "on freeways."
+        "answer_text": "فری ویز پر۔"
       },
       {
         "id": "rta-moto-033-c",
-        "answer_text": "in the centre of lanes."
+        "answer_text": "لینوں کے درمیانی حصے میں۔"
       }
     ]
   },
   {
     "id": "rta-moto-059",
-    "question_text": "You should always buy a new motorcycle helmet because:",
+    "question_text": "آپ کو ہمیشہ نیا موٹرسائیکل ہیلمٹ خریدنا چاہیے کیونکہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-059-a",
-        "answer_text": "it will be the latest fashion."
+        "answer_text": "یہ جدید فیشن میں ہوگا۔"
       },
       {
         "id": "rta-moto-059-b",
-        "answer_text": "it is likely to be a bright colour."
+        "answer_text": "یہ غالباً چمکدار رنگ کا ہوگا۔"
       },
       {
         "id": "rta-moto-059-c",
-        "answer_text": "secondhand helmets can be dangerous in a crash."
+        "answer_text": "پرانے ہیلمٹ حادثے میں خطرناک ہو سکتے ہیں۔"
       }
     ]
   },
   {
     "id": "rta-moto-062",
-    "question_text": "Among the many hazards of riding a motorbike is:",
+    "question_text": "موٹرسائیکل چلانے کے بہت سے خطرات میں سے ایک ہے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-062-a",
-        "answer_text": "riding at daytime only."
+        "answer_text": "صرف دن کے وقت سواری کرنا۔"
       },
       {
         "id": "rta-moto-062-b",
-        "answer_text": "riding overconfident."
+        "answer_text": "حد سے زیادہ اعتماد کے ساتھ سواری کرنا۔"
       },
       {
         "id": "rta-moto-062-c",
-        "answer_text": "riding as pillion passenger."
+        "answer_text": "پیچھے سواری کرنا۔"
       }
     ]
   },
   {
     "id": "rta-moto-069",
-    "question_text": "When you ride, yourself can be a hazard if:",
+    "question_text": "جب آپ سواری کریں، تو آپ خود ایک خطرہ بن سکتے ہیں اگر:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-069-a",
-        "answer_text": "you ride with friends."
+        "answer_text": "آپ دوستوں کے ساتھ سواری کریں۔"
       },
       {
         "id": "rta-moto-069-b",
-        "answer_text": "you ride in a bad mood."
+        "answer_text": "آپ خراب موڈ میں سواری کریں۔"
       },
       {
         "id": "rta-moto-069-c",
-        "answer_text": "you ride for a short period only."
+        "answer_text": "آپ صرف تھوڑے وقت کے لیے سواری کریں۔"
       }
     ]
   },
   {
     "id": "rta-moto-073",
-    "question_text": "Visors or goggles must be free of scratch because:",
+    "question_text": "وائزر یا چشمہ خراشوں سے پاک ہونا چاہیے کیونکہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-073-a",
-        "answer_text": "It can affect vision of the rider."
+        "answer_text": "یہ سوار کی بصارت کو متاثر کر سکتا ہے۔"
       },
       {
         "id": "rta-moto-073-b",
-        "answer_text": "It can affect the performance of the motorcycle."
+        "answer_text": "یہ موٹر سائیکل کی کارکردگی کو متاثر کر سکتا ہے۔"
       },
       {
         "id": "rta-moto-073-c",
-        "answer_text": "It can slow the reaction of the rider."
+        "answer_text": "یہ سوار کے ردِ عمل کو سست کر سکتا ہے۔"
       }
     ]
   },
   {
     "id": "rta-moto-084",
-    "question_text": "Riding in the middle of the lanes maybe dangerous because:",
+    "question_text": "لین کے درمیان میں سواری کرنا خطرناک ہو سکتا ہے کیونکہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-084-a",
-        "answer_text": "other riders are using the middle lanes."
+        "answer_text": "دوسرے سوار درمیانی لین استعمال کر رہے ہوتے ہیں۔"
       },
       {
         "id": "rta-moto-084-b",
-        "answer_text": "spilled grease and oil  make the area slippery."
+        "answer_text": "بہا ہوا گریس اور تیل اس علاقے کو پھسلن دار بنا دیتا ہے۔"
       },
       {
         "id": "rta-moto-084-c",
-        "answer_text": "middle lanes are always patchy."
+        "answer_text": "درمیانی لینیں ہمیشہ ناہموار ہوتی ہیں۔"
       }
     ]
   },
   {
     "id": "rta-moto-087",
-    "question_text": "When riding at night, avoid affecting your vision by:",
+    "question_text": "رات کو سواری کرتے وقت، اپنی بینائی کو متاثر ہونے سے بچانے کے لیے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-087-a",
-        "answer_text": "looking at the side of the road ahead."
+        "answer_text": "آگے سڑک کے کنارے کی طرف دیکھیں۔"
       },
       {
         "id": "rta-moto-087-b",
-        "answer_text": "looking directly at the lights of oncoming traffic."
+        "answer_text": "سامنے آنے والی ٹریفک کی لائٹس کو براہ راست دیکھیں۔"
       },
       {
         "id": "rta-moto-087-c",
-        "answer_text": "focusing on the vehicle in front."
+        "answer_text": "آگے والی گاڑی پر توجہ مرکوز کریں۔"
       }
     ]
   },
   {
     "id": "rta-moto-090",
-    "question_text": "It is important to ride slower at night in order to:",
+    "question_text": "رات کو آہستہ سواری کرنا ضروری ہے تاکہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-090-a",
-        "answer_text": "have a relaxing trip."
+        "answer_text": "آرام دہ سفر کیا جا سکے۔"
       },
       {
         "id": "rta-moto-090-b",
-        "answer_text": "have longer time to react to hazards."
+        "answer_text": "خطرات پر ردعمل کے لیے زیادہ وقت ملے۔"
       },
       {
         "id": "rta-moto-090-c",
-        "answer_text": "make others ride slower also."
+        "answer_text": "دوسروں کو بھی آہستہ چلانے پر مجبور کیا جا سکے۔"
       }
     ]
   },
   {
     "id": "rta-moto-093",
-    "question_text": "Why must you do head check before lane every change?",
+    "question_text": "ہر لین تبدیلی سے پہلے سر گھما کر چیک کرنا ضروری کیوں ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-093-a",
-        "answer_text": "because mirrors are sometimes not working."
+        "answer_text": "کیونکہ آئینے کبھی کبھی کام نہیں کرتے۔"
       },
       {
         "id": "rta-moto-093-b",
-        "answer_text": "because it is a good exercise for your neck."
+        "answer_text": "کیونکہ یہ آپ کی گردن کے لیے اچھی ورزش ہے۔"
       },
       {
         "id": "rta-moto-093-c",
-        "answer_text": "because mirrors will not show all hazards."
+        "answer_text": "کیونکہ آئینے تمام خطرات نہیں دکھاتے۔"
       }
     ]
   },
   {
     "id": "rta-moto-110",
-    "question_text": "If you ride under the influence of alcohol you might;",
+    "question_text": "اگر آپ شراب کے زیر اثر سواری کریں تو آپ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-110-a",
-        "answer_text": "Not see hazards and react in time"
+        "answer_text": "خطرات نہیں دیکھ سکتے اور وقت پر ردعمل نہیں دے سکتے"
       },
       {
         "id": "rta-moto-110-b",
-        "answer_text": "See hazards early and react in time"
+        "answer_text": "خطرات جلد دیکھ سکتے اور وقت پر ردعمل دے سکتے ہیں"
       },
       {
         "id": "rta-moto-110-c",
-        "answer_text": "Ride much better at night"
+        "answer_text": "رات کو بہتر سواری کر سکتے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-122",
-    "question_text": "Because a motorcycle is small in size, it helps improve your visibility and safety if;",
+    "question_text": "چونکہ موٹر سائیکل چھوٹی ہوتی ہے، اس سے آپ کی نظر اور حفاظت بہتر ہوتی ہے اگر؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-122-a",
-        "answer_text": "You are wearing a black helmet"
+        "answer_text": "آپ کالا ہیلمٹ پہنے ہوئے ہیں"
       },
       {
         "id": "rta-moto-122-b",
-        "answer_text": "You are wearing a bright colored clothing"
+        "answer_text": "آپ چمکدار رنگ کا لباس پہنے ہوئے ہیں"
       },
       {
         "id": "rta-moto-122-c",
-        "answer_text": "You use hazard lights always"
+        "answer_text": "آپ ہمیشہ خطرے کی بتیاں استعمال کرتے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-134",
-    "question_text": "You discovered that the engine oil of your bike is low. You decided not to ride it. Why?",
+    "question_text": "آپ نے دریافت کیا کہ آپ کی بائیک کا انجن آئل کم ہے۔ آپ نے اسے چلانے کا فیصلہ نہیں کیا۔ کیوں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-134-a",
-        "answer_text": "engine with less oil will need more time to warm up and be ready for a ride"
+        "answer_text": "کم تیل والے انجن کو گرم ہونے اور سواری کے لیے تیار ہونے میں زیادہ وقت لگے گا"
       },
       {
         "id": "rta-moto-134-b",
-        "answer_text": "engine with less oil  could damage the engine and could lead to a crash"
+        "answer_text": "کم تیل والا انجن انجن کو نقصان پہنچا سکتا ہے اور حادثے کا سبب بن سکتا ہے"
       },
       {
         "id": "rta-moto-134-c",
-        "answer_text": "less engine oil means less gas consumption"
+        "answer_text": "کم انجن آئل کا مطلب ہے کم گیس کی کھپت"
       }
     ]
   },
   {
     "id": "rta-moto-136",
-    "question_text": "As you ride your motorcycle, you know you need to look well ahead and see clearly to be safe. Why?",
+    "question_text": "موٹرسائیکل چلاتے وقت، آپ جانتے ہیں کہ محفوظ رہنے کے لیے آگے دیکھنا اور واضح نظر رکھنا ضروری ہے۔ کیوں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-136-a",
-        "answer_text": "to be ready to respond to things before they happen"
+        "answer_text": "چیزیں ہونے سے پہلے ان پر ردعمل دینے کے لیے تیار رہنے کے لیے"
       },
       {
         "id": "rta-moto-136-b",
-        "answer_text": "to have the headlight working so that others can see you clearly"
+        "answer_text": "تاکہ ہیڈلائٹ کام کرے اور دوسرے آپ کو واضح دیکھ سکیں"
       },
       {
         "id": "rta-moto-136-c",
-        "answer_text": "other drivers are not able to see you in their blind spots"
+        "answer_text": "دوسرے ڈرائیور آپ کو اپنے بلائنڈ اسپاٹ میں نہیں دیکھ سکتے"
       }
     ]
   },
   {
     "id": "rta-moto-139",
-    "question_text": "When riding, place your yourself where you can see and be seen by other drivers. This means;",
+    "question_text": "سواری کے دوران ایسی جگہ رہیں جہاں سے آپ دوسرے ڈرائیوروں کو دیکھ سکیں اور وہ آپ کو دیکھ سکیں۔ اس کا مطلب ہے؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-139-a",
-        "answer_text": "lean with your bike while you turn"
+        "answer_text": "موڑ لیتے وقت اپنی بائیک کے ساتھ جھکیں"
       },
       {
         "id": "rta-moto-139-b",
-        "answer_text": "look as far ahead as possible so you can respond quickly"
+        "answer_text": "جتنا ممکن ہو آگے دیکھیں تاکہ جلدی ردعمل دے سکیں"
       },
       {
         "id": "rta-moto-139-c",
-        "answer_text": "avoid positioning on the blind spots of other drivers"
+        "answer_text": "دوسرے ڈرائیوروں کے بلائنڈ اسپاٹ میں رہنے سے بچیں"
       }
     ]
   },
   {
     "id": "rta-moto-141",
-    "question_text": "آپ پورے چہرے کے ہیلمٹ اور سیاہ لباس کے ساتھ اپنی موٹرسائیکل چلانے کے لیے تیار ہیں۔ آپ اور کیا کر سکتے ہیں تاکہ دوسرے ڈرائیور آپ کو بہتر طور پر دیکھ سکیں؟",
+    "question_text": "آپ فل فیس ہیلمٹ اور کالے لباس کے ساتھ موٹرسائیکل چلانے کے لیے تیار ہیں۔ دوسرے ڈرائیور آپ کو بہتر دیکھ سکیں اس کے لیے آپ اور کیا کر سکتے ہیں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-141-a",
-        "answer_text": "سیاہ سواری کے جوتے بھی پہن لو"
+        "answer_text": "کالے سوار جوتے بھی پہنیں"
       },
       {
         "id": "rta-moto-141-b",
-        "answer_text": "آپ کو ہر وقت حادثے سے بچنے کے لیے تیار رہنے کی ضرورت ہے۔"
+        "answer_text": "آپ کو ہر وقت حادثے سے بچنے کے لیے تیار رہنا ہوگا"
       },
       {
         "id": "rta-moto-141-c",
-        "answer_text": "ایک روشن رنگ، عکاس بنیان پہننا"
+        "answer_text": "چمکدار رنگ کی عکاس واسکٹ پہنیں"
       }
     ]
   },
   {
     "id": "rta-moto-143",
-    "question_text": "جب آپ اپنے سامنے والی گاڑی کے بہت قریب سوار ہوں تو کیا خطرہ ہو سکتا ہے؟",
+    "question_text": "جب آپ آگے والی گاڑی کے بہت قریب سواری کر رہے ہوں تو کیا خطرہ ہو سکتا ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-143-a",
-        "answer_text": "جب آپ اپنے سامنے والی گاڑی کے بہت قریب سوار ہوں تو کیا خطرہ ہو سکتا ہے؟"
+        "answer_text": "جب آپ آگے والی گاڑی کے بہت قریب سواری کر رہے ہوں تو کیا خطرہ ہو سکتا ہے؟"
       },
       {
         "id": "rta-moto-143-b",
-        "answer_text": "سامنے والی گاڑی اچانک تیز ہو سکتی ہے۔"
+        "answer_text": "آگے والی گاڑی اچانک تیزی سے چلی جا سکتی ہے"
       },
       {
         "id": "rta-moto-143-c",
-        "answer_text": "ہو سکتا ہے کہ آپ اس بات کو نظر انداز کر رہے ہوں کہ آگے کیا ہو رہا ہے۔"
+        "answer_text": "آپ آگے کیا ہو رہا ہے اس سے غافل ہو سکتے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-149",
-    "question_text": "خطرہ کوئی بھی چیز ہے جو آپ کو اپنی گاڑی کی سمت، پوزیشن یا رفتار تبدیل کرنے کا سبب بن سکتی ہے۔ خطرات سے بچنے کے لیے؛",
+    "question_text": "خطرہ وہ کوئی بھی چیز ہے جو آپ کو اپنی گاڑی کی سمت، پوزیشن یا رفتار تبدیل کرنے پر مجبور کرے۔ خطرات سے بچنے کے لیے؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-149-a",
-        "answer_text": "خطرات منتقل ہو سکتے ہیں یا حرکت نہیں کر رہے ہیں۔"
+        "answer_text": "خطرات حرکت میں ہو سکتے ہیں یا نہیں بھی"
       },
       {
         "id": "rta-moto-149-b",
-        "answer_text": "آپ کو اندازہ لگانے کی ضرورت ہے کہ آگے کیا ہو سکتا ہے۔"
+        "answer_text": "آپ کو پیش گوئی کرنی ہوگی کہ آگے کیا ہو سکتا ہے"
       },
       {
         "id": "rta-moto-149-c",
-        "answer_text": "آپ کو یہ یقینی بنانا ہوگا کہ آپ اپنے آئینے کا صحیح استعمال کریں۔"
+        "answer_text": "آپ کو یقین دہانی کرنی ہوگی کہ آپ آئینے صحیح طریقے سے استعمال کر رہے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-151",
-    "question_text": "جب اسکول بسیں آس پاس سفر کرتی ہیں تو زیادہ محتاط رہنا کیوں ضروری ہے؟",
+    "question_text": "جب قریب سے اسکول بسیں گزر رہی ہوں تو زیادہ محتاط رہنا کیوں ضروری ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-151-a",
-        "answer_text": "اسکول بسوں کو بعض اوقات کم رفتار پر سفر کرنے کی ضرورت ہوتی ہے۔"
+        "answer_text": "اسکول بسیں کبھی کبھی کم رفتار سے سفر کرتی ہیں"
       },
       {
         "id": "rta-moto-151-b",
-        "answer_text": "اسکول بس ڈرائیوروں کے لیے خصوصی تربیت کے تقاضے ہوتے ہیں۔"
+        "answer_text": "اسکول بس ڈرائیوروں کی خصوصی تربیت کی ضروریات ہوتی ہیں"
       },
       {
         "id": "rta-moto-151-c",
-        "answer_text": "اسکول کے بچوں کی حفاظت کو یقینی بنانے کے لیے اسکول بسوں کو آسانی سے سفر کرنے کی ضرورت ہے۔"
+        "answer_text": "اسکول بچوں کی حفاظت کے لیے اسکول بسوں کو ہموار سفر کرنا ہوتا ہے"
       }
     ]
   },
   {
     "id": "rta-moto-169",
-    "question_text": "کارنرنگ کرتے وقت، موٹر سائیکل کو سیدھی حالت میں روکنے کی کوشش کرنے میں کیا خطرہ ہے؟",
+    "question_text": "موڑ لیتے وقت، سیدھی پوزیشن میں بائیک کو روکنے کی کوشش کرنے میں کیا خطرہ ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-169-a",
-        "answer_text": "موٹر سائیکل سیدھی لائن میں سفر کرے گی اور دوسرے ٹریفک کے راستے میں چلے گی۔"
+        "answer_text": "بائیک سیدھی لائن میں چلے گی اور دوسری ٹریفک کے راستے میں آ جائے گی"
       },
       {
         "id": "rta-moto-169-b",
-        "answer_text": "موٹر سائیکل زیادہ تیزی سے روک سکے گی۔"
+        "answer_text": "بائیک زیادہ جلدی رک سکے گی"
       },
       {
         "id": "rta-moto-169-c",
-        "answer_text": "ٹائروں میں سڑک کی سطح پر اچھی رگڑ نہیں ہوسکتی ہے۔"
+        "answer_text": "ٹائروں کی سڑک کی سطح پر اچھی رگڑ نہیں ہوگی"
       }
     ]
   },
   {
     "id": "rta-moto-178",
-    "question_text": "اگر آپ کو سڑک کے کنارے رکنے کی ضرورت ہے، تو سڑک سے بہت دور رہیں؛",
+    "question_text": "اگر آپ کو سڑک کے کنارے رکنا پڑے، تو سڑک سے کافی دور رکیں تاکہ؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-178-a",
-        "answer_text": "پوری رفتار سے جانے سے گریز کریں۔"
+        "answer_text": "پوری رفتار سے جانے سے بچیں"
       },
       {
         "id": "rta-moto-178-b",
-        "answer_text": "دوسری گاڑیوں سے ٹکرانے اور حادثے کا سبب بننے سے بچیں۔"
+        "answer_text": "دوسری گاڑیوں کی ٹکر سے بچیں اور حادثہ نہ ہو"
       },
       {
         "id": "rta-moto-178-c",
-        "answer_text": "ریت پر پھنس جانے کے امکان کو ہٹا دیں۔"
+        "answer_text": "ریت میں پھنسنے کے امکان کو ختم کریں"
       }
     ]
   },
   {
     "id": "rta-moto-193",
-    "question_text": "آپ نے اپنی لین کی طرف بڑھنے والی دوسری گاڑی سے بچنے کے لیے ہارن بجایا۔ حادثے سے بچنے کے لیے آپ اور کیا کر سکتے ہیں؟",
+    "question_text": "آپ نے ہارن بجایا تاکہ ایک اور گاڑی سے بچ سکیں جو آپ کی لین کی طرف آ رہی تھی۔ ٹکر سے بچنے کے لیے آپ اور کیا کر سکتے ہیں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-193-a",
-        "answer_text": "حادثے سے بچنے کے لیے سست ہونے کے لیے تیار رہیں"
+        "answer_text": "ٹکر سے بچنے کے لیے رفتار کم کرنے کے لیے تیار رہیں"
       },
       {
         "id": "rta-moto-193-b",
-        "answer_text": "ہمیشہ آگے دیکھو اور ردعمل کے لیے تیار رہو"
+        "answer_text": "ہمیشہ آگے دیکھتے رہیں اور ردعمل کے لیے تیار رہیں"
       },
       {
         "id": "rta-moto-193-c",
-        "answer_text": "دوسری گاڑی کو لین بدلنے سے روکنے کے لیے زور سے ہارن بجائیں۔"
+        "answer_text": "دوسری گاڑی کو لین بدلنے سے روکنے کے لیے زور سے ہارن بجائیں"
       }
     ]
   },
   {
     "id": "rta-moto-194",
-    "question_text": "آپ کی سواری ہموار ہے اور آگے کے ممکنہ خطرات کو واضح طور پر دیکھ سکتی ہے۔ اس کی وجہ سے شاید؛",
+    "question_text": "آپ کی سواری ہموار ہے اور آپ آگے موجود ممکنہ خطرات کو صاف دیکھ پا رہے ہیں۔ اس کی وجہ شاید یہ ہے؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-194-a",
-        "answer_text": "آپ جس نئی موٹر سائیکل پر سوار ہیں۔"
+        "answer_text": "وہ نئی موٹر سائیکل جو آپ چلا رہے ہیں"
       },
       {
         "id": "rta-moto-194-b",
-        "answer_text": "آپ اور آگے کی گاڑی کے درمیان لمبا فاصلہ"
+        "answer_text": "آپ اور آگے والی گاڑی کے درمیان لمبا فاصلہ"
       },
       {
         "id": "rta-moto-194-c",
-        "answer_text": "آگے سوار غلط اشارے دے رہا ہے۔"
+        "answer_text": "آگے والا سوار غلط انڈیکیٹر دے رہا ہے"
       }
     ]
   },
   {
     "id": "rta-moto-195",
-    "question_text": "جب آپ سوار ہو رہے تھے تو آپ نے دیکھا کہ دائیں طرف سے ایک اور گاڑی ضم ہو رہی ہے۔ آپ کو پوزیشن تبدیل کرنے کی ضرورت ہے کیونکہ؛",
+    "question_text": "جیسے ہی آپ سواری کر رہے تھے، آپ نے دائیں جانب سے ایک اور گاڑی کو شامل ہوتے دیکھا۔ آپ کو پوزیشن بدلنی ہوگی کیونکہ؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-195-a",
-        "answer_text": "وہ گاڑی آپ کے راستے میں بدل سکتی ہے۔"
+        "answer_text": "وہ گاڑی آپ کے راستے میں مڑ سکتی ہے"
       },
       {
         "id": "rta-moto-195-b",
-        "answer_text": "وہ گاڑی آپ کے اندھے مقام پر ہے۔"
+        "answer_text": "وہ گاڑی آپ کے بلائنڈ اسپاٹ میں ہے"
       },
       {
         "id": "rta-moto-195-c",
-        "answer_text": "وہ گاڑی رکے گی اور راستہ دے گی۔"
+        "answer_text": "وہ گاڑی رک کر راستہ دے گی"
       }
     ]
   },
   {
     "id": "rta-moto-196",
-    "question_text": "بائیں جانب گاڑی سے ممکنہ تصادم سے بچنے کے لیے آپ کو کیا کرنا چاہیے؟",
+    "question_text": "بائیں جانب والی گاڑی سے ممکنہ ٹکر سے بچنے کے لیے آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-196-a",
-        "answer_text": "دائیں طرف سے گاڑی کا آگے سے گزرنا غیر قانونی اور خطرناک ہے۔"
+        "answer_text": "آگے والی گاڑی کو دائیں جانب سے پار کرنا غیر قانونی اور خطرناک ہے"
       },
       {
         "id": "rta-moto-196-b",
-        "answer_text": "بائیں طرف والی کار آپ کی نابینا جگہ پر ہوسکتی ہے۔"
+        "answer_text": "بائیں جانب والی گاڑی آپ کے بلائنڈ اسپاٹ میں ہو سکتی ہے"
       },
       {
         "id": "rta-moto-196-c",
-        "answer_text": "اپنے شیشوں کو چیک کریں اور لین تبدیل کرنے سے پہلے سر کی جانچ کریں۔"
+        "answer_text": "لین بدلنے سے پہلے اپنے آئینے چیک کریں اور ہیڈ چیک کریں"
       }
     ]
   },
   {
     "id": "rta-moto-198",
-    "question_text": "اس منظر نامے میں، ممکنہ طور پر خطرناک صورتحال میں محفوظ رہنے کے لیے آپ کو کیا کرنا چاہیے؟",
+    "question_text": "اس منظر میں، ممکنہ خطرناک صورتحال میں محفوظ رہنے کے لیے آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-198-a",
-        "answer_text": "اندازہ لگائیں کہ ٹیکسی دائیں طرف والے شخص کو لینے کے لیے اچانک سامنے رک جائے گی۔"
+        "answer_text": "اس بات کی توقع رکھیں کہ ٹیکسی دائیں جانب موجود شخص کو اٹھانے کے لیے اچانک آگے رک سکتی ہے"
       },
       {
         "id": "rta-moto-198-b",
-        "answer_text": "سامنے والی سفید کار پلٹتی ہوئی سرمئی کار کے ردعمل میں اچانک رک سکتی ہے۔"
+        "answer_text": "آگے والی سفید گاڑی پیچھے آنے والی سرمئی گاڑی کے ردعمل میں اچانک رک سکتی ہے"
       },
       {
         "id": "rta-moto-198-c",
-        "answer_text": "ٹیکسی اس کے سامنے والی سفید گاڑی کے لیے سست ہو سکتی ہے۔"
+        "answer_text": "ٹیکسی اپنے آگے والی سفید گاڑی کی وجہ سے رفتار کم کر رہی ہو سکتی ہے"
       }
     ]
   },
   {
     "id": "rta-moto-199",
-    "question_text": "طالب علموں کو اٹھاتے یا اتارتے وقت، اسکول بسیں کثرت سے رکیں گی۔ آپ اس صورتحال سے کیسے نمٹتے ہیں؟",
+    "question_text": "طلباء کو لینے یا چھوڑنے کے وقت، اسکول بسیں بار بار رکتی ہیں۔ آپ اس صورتحال سے کیسے نمٹتے ہیں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-199-a",
-        "answer_text": "روکو، اگر اسکول بس کا اسٹاپ بازو کام کر رہا ہے۔"
+        "answer_text": "رکیں، اگر اسکول بس کا اسٹاپ آرم کام کر رہا ہو"
       },
       {
         "id": "rta-moto-199-b",
-        "answer_text": "اگر اسکول بس کا اسٹاپ بازو کام کر رہا ہے تو آہستہ کریں اور چوڑائی سے گزریں۔"
+        "answer_text": "رفتار کم کریں اور چوڑا موڑ کر گزریں اگر اسکول بس کا اسٹاپ آرم کام کر رہا ہو"
       },
       {
         "id": "rta-moto-199-c",
-        "answer_text": "اسٹاپ بازو باہر ہے اس کا مطلب ہے کہ طلباء اسکول بس سے اتر رہے ہیں۔"
+        "answer_text": "اسٹاپ آرم نکلا ہوا ہے یعنی طلباء اسکول بس سے اتر رہے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-201",
-    "question_text": "آپ ایک چھوٹی سڑک پر سوار ہیں اور آپ کو یہ منظر آیا۔ یہاں کیا کرنا صحیح ہے؟",
+    "question_text": "آپ ایک چھوٹی سڑک پر سواری کر رہے ہیں اور آپ کا سامنا اس منظر سے ہوا۔ یہاں صحیح کام کیا ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-201-a",
-        "answer_text": "رکیں اور ڈرائیور کی طرف سے سٹاپ بازو کو پیچھے ہٹانے کا انتظار کریں۔"
+        "answer_text": "رکیں اور انتظار کریں جب تک ڈرائیور اسٹاپ آرم واپس نہ کھینچ لے"
       },
       {
         "id": "rta-moto-201-b",
-        "answer_text": "طالب علم کے سڑک پار کرنے کے بعد آگے بڑھیں۔"
+        "answer_text": "جب طالب علم سڑک پار کر لے تو آگے بڑھیں"
       },
       {
         "id": "rta-moto-201-c",
-        "answer_text": "چوڑا جھولیں اور خطرے سے بچنے کے لیے آہستہ سے سواری کریں۔"
+        "answer_text": "چوڑا موڑ کر آہستہ سواری کریں تاکہ خطرے سے بچ سکیں"
       }
     ]
   },
   {
     "id": "rta-hvb-031",
-    "question_text": "بھاری گاڑیوں کے لیے، اندھے دھبے ایک مسئلہ ہیں جو:",
+    "question_text": "بھاری گاڑیوں کے لیے بلائنڈ اسپاٹ ایک ایسا مسئلہ ہے جو:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-031-a",
-        "answer_text": "صرف اس وقت ہوتا ہے جب پلٹنا اور موڑنا۔"
+        "answer_text": "صرف پیچھے جاتے اور موڑتے وقت پیدا ہوتا ہے۔"
       },
       {
         "id": "rta-hvb-031-b",
-        "answer_text": "آئینے کے درست استعمال سے اس پر قابو پایا جا سکتا ہے۔ بلاک"
+        "answer_text": "آئینوں کے صحیح استعمال سے دور کیا جا سکتا ہے۔"
       },
       {
         "id": "rta-hvb-031-c",
-        "answer_text": "مدد کی جا سکتی ہے لیکن آئینے کے درست استعمال سے ہمیشہ اس پر قابو نہیں پایا جا سکتا۔"
+        "answer_text": "آئینوں کے صحیح استعمال سے کم ہو سکتا ہے لیکن ہمیشہ دور نہیں ہوتا۔"
       }
     ]
   },
   {
     "id": "rta-hvb-038",
-    "question_text": "چوراہے پر مڑنے کا انتظار کرتے ہوئے، آپ کا اشارہ:",
+    "question_text": "چوراہے پر موڑ مکمل کرنے کے انتظار میں، آپ کا انڈیکیٹر:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-038-a",
-        "answer_text": "کام کرنے کی ضرورت نہیں ہے."
+        "answer_text": "کام کرنا ضروری نہیں۔"
       },
       {
         "id": "rta-hvb-038-b",
-        "answer_text": "صرف اس وقت کام کرنے کی ضرورت ہے جب آپ حرکت کر رہے ہوں۔"
+        "answer_text": "صرف حرکت کے دوران کام کرنا ضروری ہے۔"
       },
       {
         "id": "rta-hvb-038-c",
-        "answer_text": "ہر وقت کام کرنے کی ضرورت ہے."
+        "answer_text": "ہر وقت کام کرنا ضروری ہے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-041",
-    "question_text": "دن کے دوران، خطرے کی وارننگ لائٹس استعمال کی جانی چاہیے جب کوئی بھاری گاڑی ہو:",
+    "question_text": "دن کے وقت، خطرے کی انتباہی روشنیاں اس وقت استعمال کرنی چاہئیں جب بھاری گاڑی:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-041-a",
-        "answer_text": "رک گیا اور ٹریفک کو خطرہ ہو سکتا ہے۔"
+        "answer_text": "رکی ہوئی ہو اور ٹریفک کو خطرہ ہو سکتا ہو۔"
       },
       {
         "id": "rta-hvb-041-b",
-        "answer_text": "منقسم سڑک پر دائیں ہاتھ کا مڑنا۔"
+        "answer_text": "تقسیم شدہ سڑک پر دائیں ہاتھ کا موڑ لے رہی ہو۔"
       },
       {
         "id": "rta-hvb-041-c",
-        "answer_text": "سڑک کے کنارے پارکنگ بے میں تبدیل کرنا۔"
+        "answer_text": "سڑک کنارے پارکنگ بے میں پیچھے کی طرف جا رہی ہو۔"
       }
     ]
   },
   {
     "id": "rta-hvb-042",
-    "question_text": "اگر کوئی آنے والا ڈرائیور آپ کی لین میں چلا گیا ہے، تو آپ کو:",
+    "question_text": "اگر سامنے سے آنے والا ڈرائیور آپ کی لین میں آ جائے، تو آپ کو:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-042-a",
-        "answer_text": "دائیں طرف بڑھیں۔"
+        "answer_text": "دائیں طرف جائیں۔"
       },
       {
         "id": "rta-hvb-042-b",
-        "answer_text": "بائیں طرف منتقل کریں."
+        "answer_text": "بائیں طرف جائیں۔"
       },
       {
         "id": "rta-hvb-042-c",
-        "answer_text": "اپنی لین کے بیچ میں رہیں۔"
+        "answer_text": "اپنی لین کے درمیان میں رہیں۔"
       }
     ]
   },
   {
     "id": "rta-hvb-047",
-    "question_text": "اگر ایئر بریک پریشر خطرناک حد تک کم ہو گیا ہے، تو سب سے پہلے یہ کرنا ہے:",
+    "question_text": "اگر ایئر بریک کا دباؤ خطرناک حد تک کم ہو جائے، تو سب سے پہلے کرنا چاہیے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-047-a",
-        "answer_text": "نیچے گیئرز کو تبدیل کریں."
+        "answer_text": "گیئر نیچے کریں۔"
       },
       {
         "id": "rta-hvb-047-b",
-        "answer_text": "ہنگامی بریک لگائیں."
+        "answer_text": "ایمرجنسی بریک لگائیں۔"
       },
       {
         "id": "rta-hvb-047-c",
-        "answer_text": "دباؤ بنانے کے لیے بریکوں کو پمپ کریں۔"
+        "answer_text": "دباؤ بنانے کے لیے بریک کو بار بار دبائیں۔"
       }
     ]
   },
   {
     "id": "rta-hvb-053",
-    "question_text": "اگر آپ کی گاڑی حادثے میں ملوث ہے، تو آپ اس علاقے کی بہترین حفاظت کر سکتے ہیں:",
+    "question_text": "اگر آپ کی گاڑی کسی حادثے میں شامل ہو، تو آپ اس علاقے کو بہترین طریقے سے محفوظ کر سکتے ہیں:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-053-a",
-        "answer_text": "اگر ممکن ہو تو اپنی گاڑی کو سڑک کے کنارے منتقل کریں اور خطرے کی وارننگ لائٹس اور ہنگامی اشارے استعمال کریں۔"
+        "answer_text": "اگر ممکن ہو تو گاڑی کو سڑک کے کنارے لے جائیں اور خطرے کی انتباہی روشنیاں اور ہنگامی نشانات استعمال کریں۔"
       },
       {
         "id": "rta-hvb-053-b",
-        "answer_text": "حادثے کی جگہ کے ارد گرد ٹریفک کی ہدایت."
+        "answer_text": "حادثے کی جگہ کے گرد ٹریفک کو ہدایت دیں۔"
       },
       {
         "id": "rta-hvb-053-c",
-        "answer_text": "کسی بھی زخمی افراد کو گاڑی، یا حادثے میں ملوث گاڑیوں سے ہٹانا۔"
+        "answer_text": "حادثے میں شامل گاڑی یا گاڑیوں سے زخمی افراد کو نکالیں۔"
       }
     ]
   },
   {
     "id": "rta-hvb-054",
-    "question_text": "اگر آپ کی گاڑی حادثے میں ملوث ہے، تو آپ کو فوری اقدامات کرنے کی ضرورت ہے:",
+    "question_text": "اگر آپ کی گاڑی کسی حادثے میں شامل ہو، تو آپ کو فوری اقدامات کرنے کی ضرورت ہے تاکہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-054-a",
-        "answer_text": "مزید چوٹ یا نقصان کو روکنے کے."
+        "answer_text": "مزید چوٹ یا نقصان سے بچایا جا سکے۔"
       },
       {
         "id": "rta-hvb-054-b",
-        "answer_text": "اس بات کو یقینی بنائیں کہ دوسرے فریق کو قصوروار ٹھہرایا جائے۔"
+        "answer_text": "دوسرے فریق کو ذمہ دار ٹھہرایا جا سکے۔"
       },
       {
         "id": "rta-hvb-054-c",
-        "answer_text": "دوسرے فریق کو جانے سے روکیں۔"
+        "answer_text": "دوسرے فریق کو جانے سے روکا جا سکے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-056",
-    "question_text": "If your vehicle is involved in a crash with another vehicle, protect the area using:",
+    "question_text": "اگر آپ کی گاڑی کسی دوسری گاڑی سے حادثے میں ملوث ہو جائے، تو علاقے کو محفوظ بنائیں:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-056-a",
-        "answer_text": "hazard warning lights and parking lights plus headlights."
+        "answer_text": "ہزارڈ وارننگ لائٹس اور پارکنگ لائٹس کے ساتھ ہیڈلائٹس سے۔"
       },
       {
         "id": "rta-hvb-056-b",
-        "answer_text": "hazard warning lights and/or emergency warning triangle."
+        "answer_text": "ہزارڈ وارننگ لائٹس اور/یا ایمرجنسی وارننگ ٹرائی اینگل سے۔"
       },
       {
         "id": "rta-hvb-056-c",
-        "answer_text": "hazard warning lights and parking lights plus reverse lights."
+        "answer_text": "ہزارڈ وارننگ لائٹس اور پارکنگ لائٹس کے ساتھ ریورس لائٹس سے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-078",
-    "question_text": "While driving a bus, you should:",
+    "question_text": "بس چلاتے وقت آپ کو:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-078-a",
-        "answer_text": "regularly scan internal mirrors to check the safety of passengers."
+        "answer_text": "مسافروں کی حفاظت چیک کرنے کے لیے اندرونی آئینوں کا باقاعدگی سے جائزہ لینا چاہیے۔"
       },
       {
         "id": "rta-hvb-078-b",
-        "answer_text": "be prepared to stop suddenly to drop off passengers in a hurry."
+        "answer_text": "جلدی میں مسافروں کو اتارنے کے لیے اچانک رکنے کے لیے تیار رہنا چاہیے۔"
       },
       {
         "id": "rta-hvb-078-c",
-        "answer_text": "insist that passengers remain seated until the bus stops."
+        "answer_text": "مسافروں پر زور دینا چاہیے کہ بس رکنے تک بیٹھے رہیں۔"
       }
     ]
   },
   {
     "id": "rta-hvb-082",
-    "question_text": "Driving under influence of alcohol is dangerous because:",
+    "question_text": "شراب کے زیر اثر گاڑی چلانا خطرناک ہے کیونکہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-082-a",
-        "answer_text": "it slows the driver's reaction time."
+        "answer_text": "یہ ڈرائیور کے ردعمل کے وقت کو سست کر دیتا ہے۔"
       },
       {
         "id": "rta-hvb-082-b",
-        "answer_text": "it slows the speed of the vehicle."
+        "answer_text": "یہ گاڑی کی رفتار کو سست کر دیتا ہے۔"
       },
       {
         "id": "rta-hvb-082-c",
-        "answer_text": "it quickens the driver's reaction time."
+        "answer_text": "یہ ڈرائیور کے ردعمل کے وقت کو تیز کر دیتا ہے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-098",
-    "question_text": "Driving through a road with parked cars on the sides, look out for:",
+    "question_text": "دونوں اطراف کھڑی گاڑیوں والی سڑک سے گزرتے وقت، دھیان رکھیں:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-098-a",
-        "answer_text": "other vehicles following you very closely."
+        "answer_text": "دوسری گاڑیاں جو آپ کے بالکل پیچھے چل رہی ہیں۔"
       },
       {
         "id": "rta-hvb-098-b",
-        "answer_text": "drivers seating on their cars."
+        "answer_text": "ڈرائیور جو اپنی گاڑیوں میں بیٹھے ہیں۔"
       },
       {
         "id": "rta-hvb-098-c",
-        "answer_text": "pedestrians crossing from between parked cars."
+        "answer_text": "پیدل چلنے والے جو کھڑی گاڑیوں کے درمیان سے گزر رہے ہیں۔"
       }
     ]
   },
   {
     "id": "rta-hvb-106",
-    "question_text": "If your vehicle breaks down, why should you use reflective triangle?",
+    "question_text": "اگر آپ کی گاڑی خراب ہو جائے تو آپ کو عاکس مثلث کیوں استعمال کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-106-a",
-        "answer_text": "To avoid being fined for obstruction."
+        "answer_text": "رکاوٹ کی وجہ سے جرمانے سے بچنے کے لیے۔"
       },
       {
         "id": "rta-hvb-106-b",
-        "answer_text": "To avoid becoming a danger to traffic."
+        "answer_text": "ٹریفک کے لیے خطرہ بننے سے بچنے کے لیے۔"
       },
       {
         "id": "rta-hvb-106-c",
-        "answer_text": "To avoid congesting traffic."
+        "answer_text": "ٹریفک جام سے بچنے کے لیے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-108",
-    "question_text": "Name two (2) of many ways to reduce driving risk.",
+    "question_text": "ڈرائیونگ کے خطرے کو کم کرنے کے بہت سے طریقوں میں سے دو (2) بتائیں۔",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-108-a",
-        "answer_text": "Choose to drive slower, always stay behind other vehicles."
+        "answer_text": "آہستہ گاڑی چلائیں، ہمیشہ دوسری گاڑیوں کے پیچھے رہیں۔"
       },
       {
         "id": "rta-hvb-108-b",
-        "answer_text": "Scan for hazards, travel at same speed always."
+        "answer_text": "خطرات کا جائزہ لیں، ہمیشہ ایک جیسی رفتار سے سفر کریں۔"
       },
       {
         "id": "rta-hvb-108-c",
-        "answer_text": "Choose to drive slower, increase following distance."
+        "answer_text": "آہستہ گاڑی چلانے کا انتخاب کریں، فاصلہ بڑھائیں۔"
       }
     ]
   },
   {
     "id": "rta-hvb-113",
-    "question_text": "The three (3) major causes of heavy vehicle fires are;",
+    "question_text": "بھاری گاڑیوں میں آگ لگنے کی تین (3) بڑی وجوہات یہ ہیں:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-113-a",
-        "answer_text": "Damaged electrical system, under-inflated tires, excessive braking."
+        "answer_text": "خراب برقی نظام، کم ہوا والے ٹائر، ضرورت سے زیادہ بریک لگانا۔"
       },
       {
         "id": "rta-hvb-113-b",
-        "answer_text": "Exhaust system not properly insulated, tires properly inflated, crashes."
+        "answer_text": "ایگزاسٹ سسٹم مناسب طریقے سے موصل نہ ہونا، ٹائر مناسب طریقے سے پھولے ہوئے، حادثات۔"
       },
       {
         "id": "rta-hvb-113-c",
-        "answer_text": "Spilled fuel due to crash, wheel bearing unlubricated, steering malfunction."
+        "answer_text": "حادثے کی وجہ سے ایندھن گرنا، وہیل بیرنگ بغیر چکنائی کے، اسٹیئرنگ خرابی۔"
       }
     ]
   },
   {
     "id": "rta-hvb-117",
-    "question_text": "If your vehicle is involved in a crash and somebody is hurt, it is:",
+    "question_text": "اگر آپ کی گاڑی حادثے میں ملوث ہو اور کوئی زخمی ہو، تو:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-117-a",
-        "answer_text": "allowed to move your vehicle."
+        "answer_text": "آپ کو اپنی گاڑی ہٹانے کی اجازت ہے۔"
       },
       {
         "id": "rta-hvb-117-b",
-        "answer_text": "not allowed to move your vehicle ."
+        "answer_text": "آپ کو اپنی گاڑی ہٹانے کی اجازت نہیں ہے۔"
       },
       {
         "id": "rta-hvb-117-c",
-        "answer_text": "allowed that you move from the vehicle."
+        "answer_text": "آپ کو گاڑی سے باہر جانے کی اجازت ہے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-120",
-    "question_text": "Two (2) basic steps that must be taken in a crash scene.",
+    "question_text": "حادثے کی جگہ پر اٹھائے جانے والے دو (2) بنیادی اقدامات۔",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-120-a",
-        "answer_text": "stop, look for cleaning tools."
+        "answer_text": "رکیں، صفائی کے آلات تلاش کریں۔"
       },
       {
         "id": "rta-hvb-120-b",
-        "answer_text": "stop, protect the area."
+        "answer_text": "رکیں، جگہ کو محفوظ بنائیں۔"
       },
       {
         "id": "rta-hvb-120-c",
-        "answer_text": "stop, look for shelter."
+        "answer_text": "رکیں، پناہ گاہ تلاش کریں۔"
       }
     ]
   },
   {
     "id": "rta-hvb-121",
-    "question_text": "If your vehicle is involved in a crash and nobody is hurt, why should you try to move your vehicle?",
+    "question_text": "اگر آپ کی گاڑی حادثے میں ملوث ہو اور کوئی زخمی نہ ہو، تو آپ کو اپنی گاڑی ہٹانے کی کوشش کیوں کرنی چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-121-a",
-        "answer_text": "To allow the traffic to flow."
+        "answer_text": "ٹریفک کو رواں دواں رکھنے کے لیے۔"
       },
       {
         "id": "rta-hvb-121-b",
-        "answer_text": "To stop pedestrians from crossing"
+        "answer_text": "پیدل چلنے والوں کو سڑک پار کرنے سے روکنے کے لیے۔"
       },
       {
         "id": "rta-hvb-121-c",
-        "answer_text": "To allow time for rest."
+        "answer_text": "آرام کے لیے وقت نکالنے کے لیے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-125",
-    "question_text": "During the trip, why should public bus drivers be scanning the internal mirrors?",
+    "question_text": "سفر کے دوران، سرکاری بس ڈرائیوروں کو اندرونی آئینے کیوں چیک کرتے رہنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-125-a",
-        "answer_text": "To ensure all passengers are in no danger."
+        "answer_text": "یہ یقینی بنانے کے لیے کہ تمام مسافر خطرے میں نہیں ہیں۔"
       },
       {
         "id": "rta-hvb-125-b",
-        "answer_text": "To be able to tell who are getting off to the next stop."
+        "answer_text": "یہ جاننے کے لیے کہ اگلے اسٹاپ پر کون اترے گا۔"
       },
       {
         "id": "rta-hvb-125-c",
-        "answer_text": "To be able to anticipate emergency."
+        "answer_text": "ایمرجنسی کا پہلے سے اندازہ لگانے کے لیے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-133",
-    "question_text": "What is the danger in driving on long, straight roads especially at night?",
+    "question_text": "خاص طور پر رات کو لمبی، سیدھی سڑکوں پر گاڑی چلانے میں کیا خطرہ ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-133-a",
-        "answer_text": "It can become boring and take your mind off the road"
+        "answer_text": "یہ بورنگ ہو سکتا ہے اور آپ کی توجہ سڑک سے ہٹ سکتی ہے"
       },
       {
         "id": "rta-hvb-133-b",
-        "answer_text": "It can be very exciting and keep your focus"
+        "answer_text": "یہ بہت دلچسپ ہو سکتا ہے اور آپ کی توجہ برقرار رکھ سکتا ہے"
       },
       {
         "id": "rta-hvb-133-c",
-        "answer_text": "It helps you focus on the road"
+        "answer_text": "یہ آپ کو سڑک پر توجہ مرکوز کرنے میں مدد کرتا ہے"
       }
     ]
   },
   {
     "id": "rta-hvb-138",
-    "question_text": "When driving while tired, the level of alertness is low.  What is the danger in this situation?",
+    "question_text": "تھکاوٹ میں گاڑی چلاتے وقت چوکسی کی سطح کم ہوتی ہے۔ اس صورتحال میں کیا خطرہ ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-138-a",
-        "answer_text": "The road may be slippery"
+        "answer_text": "سڑک پھسلن بھری ہو سکتی ہے"
       },
       {
         "id": "rta-hvb-138-b",
-        "answer_text": "Driver may perform some exercises"
+        "answer_text": "ڈرائیور کچھ ورزش کر سکتا ہے"
       },
       {
         "id": "rta-hvb-138-c",
-        "answer_text": "Driver may fall asleep and cause fatal accidents"
+        "answer_text": "ڈرائیور سو سکتا ہے اور جان لیوا حادثات پیدا کر سکتا ہے"
       }
     ]
   },
   {
     "id": "rta-hvb-141",
-    "question_text": "If your vehicle is parked on the side of the road, which should you approach the vehicle to be safe?",
+    "question_text": "اگر آپ کی گاڑی سڑک کے کنارے کھڑی ہے، تو آپ کو محفوظ رہنے کے لیے گاڑی کے پاس کس طرف سے جانا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-141-a",
-        "answer_text": "From the rear so that your back is on the oncoming traffic"
+        "answer_text": "پیچھے سے تاکہ آپ کی پیٹھ آنے والی ٹریفک کی طرف ہو"
       },
       {
         "id": "rta-hvb-141-b",
-        "answer_text": "Clear the traffic first then approach from the rear"
+        "answer_text": "پہلے ٹریفک صاف کریں پھر پیچھے سے آئیں"
       },
       {
         "id": "rta-hvb-141-c",
-        "answer_text": "From the front so that you are facing the oncoming traffic"
+        "answer_text": "آگے سے تاکہ آپ کا رخ آنے والی ٹریفک کی طرف ہو"
       }
     ]
   },
   {
     "id": "rta-hvb-142",
-    "question_text": "If you are leaving the cab of your truck, how should you climb out of it?",
+    "question_text": "اگر آپ اپنے ٹرک کے کیب سے باہر نکل رہے ہیں، تو آپ کو اس سے کیسے اترنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-142-a",
-        "answer_text": "Facing the cab, then jump out of it"
+        "answer_text": "کیب کی طرف رخ کریں، پھر اس سے کود جائیں"
       },
       {
         "id": "rta-hvb-142-b",
-        "answer_text": "Facing the cab, but watch out for oncoming traffic"
+        "answer_text": "کیب کی طرف رخ کریں، لیکن آنے والی ٹریفک سے ہوشیار رہیں"
       },
       {
         "id": "rta-hvb-142-c",
-        "answer_text": "Climb out of the cab sideways"
+        "answer_text": "کیب سے ایک طرف سے اتریں"
       }
     ]
   },
   {
     "id": "rta-hvb-198",
-    "question_text": "What could be dangerous and costly if a  heavy vehicle driver happen to neglect these?",
+    "question_text": "اگر بھاری گاڑی کا ڈرائیور ان چیزوں کو نظرانداز کرے تو کیا خطرناک اور مہنگا ہو سکتا ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-198-a",
-        "answer_text": "The height and width of the vehicle"
+        "answer_text": "گاڑی کی اونچائی اور چوڑائی"
       },
       {
         "id": "rta-hvb-198-b",
-        "answer_text": "The weight and plate number of the vehicle"
+        "answer_text": "گاڑی کا وزن اور پلیٹ نمبر"
       },
       {
         "id": "rta-hvb-198-c",
-        "answer_text": "The rest areas for heavy vehicles"
+        "answer_text": "بھاری گاڑیوں کے لیے آرام گاہیں"
       }
     ]
   },
   {
     "id": "rta-hvb-209",
-    "question_text": "It is very dangerous to carry goods that exceed the height limit as it can damage low hanging bridges and;",
+    "question_text": "اونچائی کی حد سے زیادہ سامان لے جانا بہت خطرناک ہے کیونکہ یہ نیچے لٹکتے پلوں کو نقصان پہنچا سکتا ہے اور؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-209-a",
-        "answer_text": "Electric Poles"
+        "answer_text": "بجلی کے کھمبے"
       },
       {
         "id": "rta-hvb-209-b",
-        "answer_text": "Can cause serious injuries to other road users"
+        "answer_text": "دوسرے سڑک استعمال کرنے والوں کو سنگین چوٹیں آ سکتی ہیں"
       },
       {
         "id": "rta-hvb-209-c",
-        "answer_text": "Roads that are under repair"
+        "answer_text": "مرمت کے تحت سڑکیں"
       }
     ]
   },
   {
     "id": "rta-hvb-214",
-    "question_text": "Fanned braking (alternately apply and release) may be used on slippery surfaces. What is the danger with this technique?",
+    "question_text": "پھسلن والی سطحوں پر فینڈ بریکنگ (باری باری لگانا اور چھوڑنا) استعمال کی جا سکتی ہے۔ اس تکنیک میں کیا خطرہ ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-214-a",
-        "answer_text": "Fanning increases air pressure"
+        "answer_text": "فیننگ سے ہوا کا دباؤ بڑھتا ہے"
       },
       {
         "id": "rta-hvb-214-b",
-        "answer_text": "Fanning reduces air pressure"
+        "answer_text": "فیننگ سے ہوا کا دباؤ کم ہوتا ہے"
       },
       {
         "id": "rta-hvb-214-c",
-        "answer_text": "Fanning does not affect the air pressure"
+        "answer_text": "فیننگ ہوا کے دباؤ پر اثر نہیں ڈالتی"
       }
     ]
   }

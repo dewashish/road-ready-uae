@@ -4937,2851 +4937,2851 @@
   },
   {
     "id": "rta-fk-004",
-    "question_text": "If applying for a forklift license, you will be tested in;",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റ് ലൈസൻസിന് അപേക്ഷിക്കുകയാണെങ്കിൽ, നിങ്ങൾ ഏതിൽ പരീക്ഷ നൽകും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-004-a",
-        "answer_text": "A forklift with empty weight of more than 7.5 tons"
+        "answer_text": "7.5 ടണ്ണിൽ കൂടുതൽ ശൂന്യ ഭാരമുള്ള ഫോർക്ക്‌ലിഫ്റ്റ്"
       },
       {
         "id": "rta-fk-004-b",
-        "answer_text": "A forklift with empty weight of less than 7.5 tons"
+        "answer_text": "7.5 ടണ്ണിൽ കുറവ് ശൂന്യ ഭാരമുള്ള ഫോർക്ക്‌ലിഫ്റ്റ്"
       },
       {
         "id": "rta-fk-004-c",
-        "answer_text": "A forklift with loaded weight of less than 7.5 tons"
+        "answer_text": "7.5 ടണ്ണിൽ കുറവ് ലോഡ് ഭാരമുള്ള ഫോർക്ക്‌ലിഫ്റ്റ്"
       }
     ]
   },
   {
     "id": "rta-fk-009",
-    "question_text": "Forklifts are used to:",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റ് ഉപയോഗിക്കുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-009-a",
-        "answer_text": "Move heavy goods vehicles"
+        "answer_text": "ഭാരമേറിയ ചരക്ക് വാഹനങ്ങൾ നീക്കാൻ"
       },
       {
         "id": "rta-fk-009-b",
-        "answer_text": "Transport people between areas"
+        "answer_text": "വിവിധ മേഖലകൾക്കിടയിൽ ആളുകളെ കൊണ്ടുപോകാൻ"
       },
       {
         "id": "rta-fk-009-c",
-        "answer_text": "Transport loads between areas"
+        "answer_text": "വിവിധ മേഖലകൾക്കിടയിൽ ചരക്ക് കൊണ്ടുപോകാൻ"
       }
     ]
   },
   {
     "id": "rta-fk-013",
-    "question_text": "There are 2 main types of motors used in forklifts. The internal combustion and;",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റുകളിൽ ഉപയോഗിക്കുന്ന 2 പ്രധാന തരം മോട്ടോർ ഉണ്ട്. ആന്തരിക ദഹനവും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-013-a",
-        "answer_text": "Battery powered electric motors"
+        "answer_text": "ബാറ്ററി ഉപയോഗിക്കുന്ന ഇലക്ട്രിക് മോട്ടോറുകൾ"
       },
       {
         "id": "rta-fk-013-b",
-        "answer_text": "Solar powered motors"
+        "answer_text": "സൗരോർജ്ജ മോട്ടോറുകൾ"
       },
       {
         "id": "rta-fk-013-c",
-        "answer_text": "Hydraulic powered motors"
+        "answer_text": "ഹൈഡ്രോളിക് മോട്ടോറുകൾ"
       }
     ]
   },
   {
     "id": "rta-fk-014",
-    "question_text": "Be safe when operating a battery powered forklift. Batteries contain;",
+    "question_text": "ബാറ്ററി ഉപയോഗിക്കുന്ന ഫോർക്ക്‌ലിഫ്റ്റ് ഓടിക്കുമ്പോൾ സുരക്ഷിതരായിരിക്കുക. ബാറ്ററികളിൽ അടങ്ങിയിരിക്കുന്നത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-014-a",
-        "answer_text": "Distilled water"
+        "answer_text": "വാറ്റിയ വെള്ളം"
       },
       {
         "id": "rta-fk-014-b",
-        "answer_text": "Sulfuric acid"
+        "answer_text": "സൾഫ്യൂറിക് ആസിഡ്"
       },
       {
         "id": "rta-fk-014-c",
-        "answer_text": "Liquefied Petroleum Gas (LPG)"
+        "answer_text": "ലിക്വിഫൈഡ് പെട്രോളിയം ഗ്യാസ് (LPG)"
       }
     ]
   },
   {
     "id": "rta-fk-018",
-    "question_text": "How can you avoid sparks when disconnecting batteries of the forklift?",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റിന്റെ ബാറ്ററി ഡിസ്‌കണക്ട് ചെയ്യുമ്പോൾ തീപ്പൊരി ഒഴിവാക്കുന്നത് എങ്ങനെ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-018-a",
-        "answer_text": "Use the isolation switch to ensure that the forklift circuit is open"
+        "answer_text": "ഐസൊലേഷൻ സ്വിച്ച് ഉപയോഗിച്ച് ഫോർക്ക്‌ലിഫ്റ്റ് സർക്യൂട്ട് തുറന്നതാണെന്ന് ഉറപ്പാക്കുക"
       },
       {
         "id": "rta-fk-018-b",
-        "answer_text": "Use the ignition  switch to turn off the engine"
+        "answer_text": "എൻജിൻ ഓഫ് ചെയ്യാൻ ഇഗ്‌നിഷൻ സ്വിച്ച് ഉപയോഗിക്കുക"
       },
       {
         "id": "rta-fk-018-c",
-        "answer_text": "Use the handbrakes to ensure the forklift is not moving."
+        "answer_text": "ഫോർക്ക്‌ലിഫ്റ്റ് ചലിക്കുന്നില്ലെന്ന് ഉറപ്പാക്കാൻ ഹാൻഡ്‌ബ്രേക്ക് ഉപയോഗിക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-019",
-    "question_text": "When disconnecting battery, these must not come into contact with terminals to avoid creating spark.",
+    "question_text": "ബാറ്ററി ഡിസ്‌കണക്ട് ചെയ്യുമ്പോൾ, തീപ്പൊരി ഒഴിവാക്കാൻ ഇവ ടെർമിനലുകളുമായി സമ്പർക്കത്തിൽ വരരുത്.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-019-a",
-        "answer_text": "Hand gloves and jackets"
+        "answer_text": "കൈ ഗ്ലൗസ്, ജാക്കറ്റ്"
       },
       {
         "id": "rta-fk-019-b",
-        "answer_text": "Metal tools or fittings"
+        "answer_text": "ലോഹ ഉപകരണങ്ങൾ അല്ലെങ്കിൽ ഫിറ്റിംഗുകൾ"
       },
       {
         "id": "rta-fk-019-c",
-        "answer_text": "Plastic or rubber tubes"
+        "answer_text": "പ്ലാസ്റ്റിക് അല്ലെങ്കിൽ റബ്ബർ ട്യൂബുകൾ"
       }
     ]
   },
   {
     "id": "rta-fk-021",
-    "question_text": "A key component of the forklift that prevents the load from falling to the operator.",
+    "question_text": "ഭാരം ഓപ്പറേറ്ററുടെ മേൽ വീഴുന്നത് തടയുന്ന ഫോർക്ക്‌ലിഫ്റ്റിന്റെ ഒരു പ്രധാന ഘടകം.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-021-a",
-        "answer_text": "Warning light"
+        "answer_text": "മുന്നറിയിപ്പ് ലൈറ്റ്"
       },
       {
         "id": "rta-fk-021-b",
-        "answer_text": "Load backrest"
+        "answer_text": "ലോഡ് ബാക്ക്‌റെസ്റ്റ്"
       },
       {
         "id": "rta-fk-021-c",
-        "answer_text": "Mast"
+        "answer_text": "മാസ്റ്റ്"
       }
     ]
   },
   {
     "id": "rta-fk-022",
-    "question_text": "This pedal, located on the left side of the steering column also works as a clutch. It is known as;",
+    "question_text": "സ്റ്റിയറിംഗ് കോളത്തിന്റെ ഇടതുഭാഗത്ത് സ്ഥിതി ചെയ്യുന്ന ഈ പെഡൽ ക്ലച്ച് ആയും പ്രവർത്തിക്കുന്നു. ഇതിനെ വിളിക്കുന്നത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-022-a",
-        "answer_text": "Brake pedal"
+        "answer_text": "ബ്രേക്ക് പെഡൽ"
       },
       {
         "id": "rta-fk-022-b",
-        "answer_text": "Inching brake pedal"
+        "answer_text": "ഇഞ്ചിംഗ് ബ്രേക്ക് പെഡൽ"
       },
       {
         "id": "rta-fk-022-c",
-        "answer_text": "Clutch pedal"
+        "answer_text": "ക്ലച്ച് പെഡൽ"
       }
     ]
   },
   {
     "id": "rta-fk-026",
-    "question_text": "It is important not to overuse the inching brake pedal because it may;",
+    "question_text": "ഇഞ്ചിംഗ് ബ്രേക്ക് പെഡൽ അമിതമായി ഉപയോഗിക്കരുത്, കാരണം അത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-026-a",
-        "answer_text": "Affect the balance of the forklift"
+        "answer_text": "ഫോർക്ക്‌ലിഫ്റ്റിന്റെ സന്തുലനത്തെ ബാധിക്കും"
       },
       {
         "id": "rta-fk-026-b",
-        "answer_text": "Cause the automatic transmission oil to overheat"
+        "answer_text": "ഓട്ടോമാറ്റിക് ട്രാൻസ്‌മിഷൻ ഓയിൽ അമിതമായി ചൂടാകും"
       },
       {
         "id": "rta-fk-026-c",
-        "answer_text": "Cause the brake fluid to expand"
+        "answer_text": "ബ്രേക്ക് ഫ്ലൂയിഡ് വ്യാപിക്കും"
       }
     ]
   },
   {
     "id": "rta-fk-029",
-    "question_text": "If operating a powered steering forklift, never switch off the engine while moving as this can result to;",
+    "question_text": "പവർ സ്റ്റിയറിംഗ് ഫോർക്ക്‌ലിഫ്റ്റ് ഓടിക്കുകയാണെങ്കിൽ, ചലിക്കുമ്പോൾ ഒരിക്കലും എൻജിൻ ഓഫ് ചെയ്യരുത്, കാരണം ഇത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-029-a",
-        "answer_text": "Total loss of steering"
+        "answer_text": "സ്റ്റിയറിംഗ് പൂർണ്ണമായി നഷ്ടപ്പെടും"
       },
       {
         "id": "rta-fk-029-b",
-        "answer_text": "Total loss of brakes"
+        "answer_text": "ബ്രേക്ക് പൂർണ്ണമായി നഷ്ടപ്പെടും"
       },
       {
         "id": "rta-fk-029-c",
-        "answer_text": "Breakage in the steering mechanism"
+        "answer_text": "സ്റ്റിയറിംഗ് സംവിധാനത്തിൽ തകരാർ ഉണ്ടാകും"
       }
     ]
   },
   {
     "id": "rta-fk-031",
-    "question_text": "A forklift attachment that can be used to position heavy loads similar to cranes:",
+    "question_text": "ക്രെയ്‌നുകൾ പോലെ ഭാരമുള്ള ലോഡുകൾ സ്ഥാനനിർണ്ണയം ചെയ്യാൻ ഉപയോഗിക്കാവുന്ന ഒരു ഫോർക്ക്‌ലിഫ്റ്റ് അറ്റാച്ച്‌മെന്റ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-031-a",
-        "answer_text": "Jibs"
+        "answer_text": "ജിബ്‌സ്"
       },
       {
         "id": "rta-fk-031-b",
-        "answer_text": "Clamps"
+        "answer_text": "ക്ലാമ്പ്‌സ്"
       },
       {
         "id": "rta-fk-031-c",
-        "answer_text": "Spikes"
+        "answer_text": "സ്പൈക്‌സ്"
       }
     ]
   },
   {
     "id": "rta-fk-033",
-    "question_text": "How do you ensure your forklift is able to safely carry the loads you will be working on?",
+    "question_text": "നിങ്ങൾ പ്രവർത്തിക്കുന്ന ലോഡുകൾ സുരക്ഷിതമായി വഹിക്കാൻ നിങ്ങളുടെ ഫോർക്ക്‌ലിഫ്റ്റിന് കഴിയുമെന്ന് എങ്ങനെ ഉറപ്പാക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-033-a",
-        "answer_text": "Check the capacity of the protective cage"
+        "answer_text": "സംരക്ഷണ കൂടിന്റെ ശേഷി പരിശോധിക്കുക"
       },
       {
         "id": "rta-fk-033-b",
-        "answer_text": "Check the load capacity of the tires"
+        "answer_text": "ടയറുകളുടെ ലോഡ് ശേഷി പരിശോധിക്കുക"
       },
       {
         "id": "rta-fk-033-c",
-        "answer_text": "Check the Safe Working Load (SWL)"
+        "answer_text": "സുരക്ഷിത പ്രവർത്തന ഭാരം (SWL) പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-034",
-    "question_text": "Find out the load capacity and operating limits of your forklift by checking the;",
+    "question_text": "ഇത് പരിശോധിച്ച് നിങ്ങളുടെ ഫോർക്ക്‌ലിഫ്റ്റിന്റെ ലോഡ് ശേഷിയും പ്രവർത്തന പരിധിയും കണ്ടെത്തുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-034-a",
-        "answer_text": "Forklift lifting mechanism"
+        "answer_text": "ഫോർക്ക്‌ലിഫ്റ്റ് ലിഫ്റ്റിംഗ് മെക്കാനിസം"
       },
       {
         "id": "rta-fk-034-b",
-        "answer_text": "Manufacturer's Data Plate"
+        "answer_text": "നിർമ്മാതാവിന്റെ ഡേറ്റ പ്ലേറ്റ്"
       },
       {
         "id": "rta-fk-034-c",
-        "answer_text": "Forklift number plate"
+        "answer_text": "ഫോർക്ക്‌ലിഫ്റ്റ് നമ്പർ പ്ലേറ്റ്"
       }
     ]
   },
   {
     "id": "rta-fk-036",
-    "question_text": "This attachment has fully adjustable reach with 1000 kgs Safe Working Load (SWL) at 1100mm.",
+    "question_text": "ഈ അറ്റാച്ച്‌മെന്റിന് 1100mm-ൽ 1000 കിലോഗ്രാം സുരക്ഷിത പ്രവർത്തന ഭാരം (SWL) ഉള്ള പൂർണ്ണ ക്രമീകരിക്കാവുന്ന റീച്ച് ഉണ്ട്.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-036-a",
-        "answer_text": "Jibs"
+        "answer_text": "ജിബ്‌സ്"
       },
       {
         "id": "rta-fk-036-b",
-        "answer_text": "Forklift economy Jib"
+        "answer_text": "ഫോർക്ക്‌ലിഫ്റ്റ് ഇക്കോണമി ജിബ്"
       },
       {
         "id": "rta-fk-036-c",
-        "answer_text": "Forklift Extension Jib"
+        "answer_text": "ഫോർക്ക്‌ലിഫ്റ്റ് എക്‌സ്‌റ്റൻഷൻ ജിബ്"
       }
     ]
   },
   {
     "id": "rta-fk-037",
-    "question_text": "For reasons of safety, heavier loads must be;",
+    "question_text": "സുരക്ഷാ കാരണങ്ങളാൽ, ഭാരമുള്ള ലോഡുകൾ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-037-a",
-        "answer_text": "Moved quickly"
+        "answer_text": "വേഗത്തിൽ നീക്കണം"
       },
       {
         "id": "rta-fk-037-b",
-        "answer_text": "Moved slowly"
+        "answer_text": "സ천ധം നീക്കണം"
       },
       {
         "id": "rta-fk-037-c",
-        "answer_text": "Moved first"
+        "answer_text": "ആദ്യം നീക്കണം"
       }
     ]
   },
   {
     "id": "rta-fk-038",
-    "question_text": "At your workplace, there are other traffic crossing your path. What adjustments should be made?",
+    "question_text": "നിങ്ങളുടെ ജോലിസ്ഥലത്ത്, മറ്റ് ട്രാഫിക് നിങ്ങളുടെ പാത മുറിച്ചുകടക്കുന്നു. എന്ത് ക്രമീകരണങ്ങൾ വരുത്തണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-038-a",
-        "answer_text": "Brighter warning lights  for all to see easily"
+        "answer_text": "എല്ലാവർക്കും എളുപ്പത്തിൽ കാണാൻ ശോഭയുള്ള മുന്നറിയിപ്പ് ലൈറ്റുകൾ"
       },
       {
         "id": "rta-fk-038-b",
-        "answer_text": "Load to lighten the forklift"
+        "answer_text": "ഫോർക്ക്‌ലിഫ്റ്റ് ലഘൂകരിക്കാൻ ലോഡ്"
       },
       {
         "id": "rta-fk-038-c",
-        "answer_text": "Speed to enable stopping safely if needed"
+        "answer_text": "ആവശ്യമെങ്കിൽ സുരക്ഷിതമായി നിർത്താൻ കഴിയുന്ന വേഗത"
       }
     ]
   },
   {
     "id": "rta-fk-041",
-    "question_text": "When refueling, the fuel may be ignited. What safety precaution must be taken to prevent this?",
+    "question_text": "ഇന്ധനം നിറക്കുമ്പോൾ ഇന്ധനത്തിന് തീ പിടിക്കാം. ഇത് തടയാൻ എന്ത് സുരക്ഷാ മുൻകരുതൽ എടുക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-041-a",
-        "answer_text": "The engine must not be running"
+        "answer_text": "എഞ്ചിൻ പ്രവർത്തിക്കരുത്"
       },
       {
         "id": "rta-fk-041-b",
-        "answer_text": "The engine must be on idle only"
+        "answer_text": "എഞ്ചിൻ ഐഡിലിൽ മാത്രം ആയിരിക്കണം"
       },
       {
         "id": "rta-fk-041-c",
-        "answer_text": "The engine must not be raced"
+        "answer_text": "എഞ്ചിൻ റേസ് ചെയ്യരുത്"
       }
     ]
   },
   {
     "id": "rta-fk-043",
-    "question_text": "Due to heavy workload, your supervisor wants you to continue using the forklift that has fuel leak. What is the safest thing to do here?",
+    "question_text": "അധിക ജോലിഭാരം കാരണം, ഇന്ധന ചോർച്ചയുള്ള ഫോർക്ക്‌ലിഫ്റ്റ് ഉപയോഗിക്കുന്നത് തുടരണമെന്ന് നിങ്ങളുടെ സൂപ്പർവൈസർ ആഗ്രഹിക്കുന്നു. ഇവിടെ ഏറ്റവും സുരക്ഷിതമായ കാര്യം എന്ത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-043-a",
-        "answer_text": "Fix the fuel leak first, then resume work"
+        "answer_text": "ആദ്യം ഇന്ധന ചോർച്ച ശരിയാക്കുക, തുടർന്ന് ജോലി പുനരാരംഭിക്കുക"
       },
       {
         "id": "rta-fk-043-b",
-        "answer_text": "Fix the fuel leak after work is completed"
+        "answer_text": "ജോലി പൂർത്തിയായ ശേഷം ഇന്ധന ചോർച്ച ശരിയാക്കുക"
       },
       {
         "id": "rta-fk-043-c",
-        "answer_text": "Complete the work as carefully as possible"
+        "answer_text": "കഴിയുന്നത്ര ശ്രദ്ധയോടെ ജോലി പൂർത്തിയാക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-045",
-    "question_text": "As part of safe working practice, the operator needs to know this with or without load.",
+    "question_text": "സുരക്ഷിത ജോലി രീതിയുടെ ഭാഗമായി, ഓപ്പറേറ്റർ ലോഡ് ഉള്ളപ്പോഴും ഇല്ലാത്തപ്പോഴും ഇത് അറിഞ്ഞിരിക്കണം.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-045-a",
-        "answer_text": "The weight of the load"
+        "answer_text": "ഭാരത്തിന്റെ തൂക്കം"
       },
       {
         "id": "rta-fk-045-b",
-        "answer_text": "The engine capacity"
+        "answer_text": "എൻജിൻ ശേഷി"
       },
       {
         "id": "rta-fk-045-c",
-        "answer_text": "The blind spots"
+        "answer_text": "അന്ധ സ്ഥലങ്ങൾ"
       }
     ]
   },
   {
     "id": "rta-fk-048",
-    "question_text": "At the start of your shift, you know that you will be raising loads. What should you check for to be safe?",
+    "question_text": "നിങ്ങളുടെ ഷിഫ്റ്റ് ആരംഭത്തിൽ, ഭാരങ്ങൾ ഉയർത്തേണ്ടിവരുമെന്ന് അറിയാം. സുരക്ഷിതമാകാൻ എന്ത് പരിശോധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-048-a",
-        "answer_text": "An added lifting capacity"
+        "answer_text": "അധിക ഉയർത്തൽ ശേഷി"
       },
       {
         "id": "rta-fk-048-b",
-        "answer_text": "An adequate floor space"
+        "answer_text": "ആവശ്യകമായ നിലത്തളം"
       },
       {
         "id": "rta-fk-048-c",
-        "answer_text": "An adequate overhead clearance"
+        "answer_text": "ആവശ്യകമായ മുകൾ ക്ലിയറൻസ്"
       }
     ]
   },
   {
     "id": "rta-fk-051",
-    "question_text": "Stop if any pedestrian crosses the route being travelled, you should also;",
+    "question_text": "ഏതെങ്കിലും കാൽനടക്കാർ വഴി കടക്കുകയാണെങ്കിൽ നിർത്തുക, നിങ്ങൾ ഇതും ചെയ്യണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-051-a",
-        "answer_text": "Maintain the position of the load"
+        "answer_text": "ഭാരത്തിന്റെ സ്ഥാനം നിലനിർത്തുക"
       },
       {
         "id": "rta-fk-051-b",
-        "answer_text": "Lower the load to the floor while waiting"
+        "answer_text": "കാത്തിരിക്കുമ്പോൾ ഭാരം നിലത്ത് ഇറക്കുക"
       },
       {
         "id": "rta-fk-051-c",
-        "answer_text": "Sound the horn to warn the pedestrians"
+        "answer_text": "കാൽനടക്കാരെ മുന്നറിയിപ്പ് നൽകാൻ ഹോൺ മുഴക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-052",
-    "question_text": "When moving or shifting loads, protect your hands by wearing;",
+    "question_text": "ഭാരങ്ങൾ നീക്കുകയോ മാറ്റുകയോ ചെയ്യുമ്പോൾ, ധരിച്ച് കൈകൾ സുരക്ഷിതമാക്കുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-052-a",
-        "answer_text": "Leather gloves"
+        "answer_text": "തോൽ കൈയ്യുറകൾ"
       },
       {
         "id": "rta-fk-052-b",
-        "answer_text": "Silicon gloves"
+        "answer_text": "സിലിക്കൺ കൈയ്യുറകൾ"
       },
       {
         "id": "rta-fk-052-c",
-        "answer_text": "Rubber gloves"
+        "answer_text": "റബ്ബർ കൈയ്യുറകൾ"
       }
     ]
   },
   {
     "id": "rta-fk-065",
-    "question_text": "Before the start of your work, the battery needs to be checked if fully charged. Battery check also includes;",
+    "question_text": "ജോലി ആരംഭിക്കുന്നതിന് മുമ്പ്, ബാറ്ററി പൂർണ്ണമായും ചാർജ്ജ് ആണോ എന്ന് പരിശോധിക്കണം. ബാറ്ററി പരിശോധനയിൽ ഇതും ഉൾപ്പെടുന്നു;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-065-a",
-        "answer_text": "Hoses are held securely; not loose"
+        "answer_text": "ഹോസുകൾ സുരക്ഷിതമായി ഘടിപ്പിച്ചിരിക്കുന്നു; അയഞ്ഞതല്ല"
       },
       {
         "id": "rta-fk-065-b",
-        "answer_text": "The cables for exposed wires; battery plug"
+        "answer_text": "തുറന്ന കമ്പികൾക്കായി കേബിളുകൾ; ബാറ്ററി പ്ലഗ്"
       },
       {
         "id": "rta-fk-065-c",
-        "answer_text": "Horn is working and loud enough"
+        "answer_text": "ഹോൺ പ്രവർത്തിക്കുന്നു, ആവശ്യത്തിന് ഉച്ചത്തിൽ ഉണ്ട്"
       }
     ]
   },
   {
     "id": "rta-fk-067",
-    "question_text": "Identify at least four parts of a forklift which you must inspect daily.",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റിൽ ദൈനംദിനം പരിശോധിക്കേണ്ട കുറഞ്ഞത് നാല് ഭാഗങ്ങൾ തിരിച്ചറിയുക.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-067-a",
-        "answer_text": "Brakes, steering, controls, lights, warning gauges"
+        "answer_text": "ബ്രേക്കുകൾ, സ്റ്റിയറിംഗ്, നിയന്ത്രണങ്ങൾ, ലൈറ്റുകൾ, മുന്നറിയിപ്പ് ഗേജുകൾ"
       },
       {
         "id": "rta-fk-067-b",
-        "answer_text": "Tires, brakes, floor mats, overhead clearance"
+        "answer_text": "ടയറുകൾ, ബ്രേക്കുകൾ, ഫ്ലോർ മാറ്റുകൾ, മുകളിലെ ക്ലിയറൻസ്"
       },
       {
         "id": "rta-fk-067-c",
-        "answer_text": "Steering, attachments, forks, trap door"
+        "answer_text": "സ്റ്റിയറിംഗ്, അറ്റാച്ച്‌മെന്റുകൾ, ഫോർക്കുകൾ, ട്രാപ് ഡോർ"
       }
     ]
   },
   {
     "id": "rta-fk-070",
-    "question_text": "If the engine fails to start within approximately 10 seconds, what is best to do?",
+    "question_text": "ഏകദേശം 10 സെക്കൻഡിനുള്ളിൽ എഞ്ചിൻ സ്റ്റാർട്ട് ആകുന്നില്ലെങ്കിൽ, എന്ത് ചെയ്യുന്നതാണ് നല്ലത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-070-a",
-        "answer_text": "Try starting again until it starts"
+        "answer_text": "സ്റ്റാർട്ട് ആകുന്നത് വരെ വീണ്ടും ശ്രമിക്കുക"
       },
       {
         "id": "rta-fk-070-b",
-        "answer_text": "Wait for the starter to cool down and try again"
+        "answer_text": "സ്റ്റാർട്ടർ തണുക്കാൻ അനുവദിക്കുക, വീണ്ടും ശ്രമിക്കുക"
       },
       {
         "id": "rta-fk-070-c",
-        "answer_text": "Request assistance to jumpstart the engine"
+        "answer_text": "എഞ്ചിൻ ജംപ്‌സ്റ്റാർട്ട് ചെയ്യാൻ സഹായം അഭ്യർഥിക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-072",
-    "question_text": "Before moving the forklift, you should;",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റ് ചലിപ്പിക്കുന്നതിന് മുമ്പ്, നിങ്ങൾ ചെയ്യേണ്ടത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-072-a",
-        "answer_text": "Raise all lowered attachments just clear of the ground"
+        "answer_text": "താഴ്ത്തിയ എല്ലാ അറ്റാച്ച്‌മെന്റുകളും നിലത്ത് നിന്ന് അൽപ്പം ഉയർത്തുക"
       },
       {
         "id": "rta-fk-072-b",
-        "answer_text": "Check that transmission control lever is in neutral position"
+        "answer_text": "ട്രാൻസ്‌മിഷൻ കൺട്രോൾ ലിവർ നിഷ്പക്ഷ സ്ഥാനത്ത് ആണെന്ന് ഉറപ്പ് വരുത്തുക"
       },
       {
         "id": "rta-fk-072-c",
-        "answer_text": "Lower all raised attachments to the ground"
+        "answer_text": "ഉയർത്തിയ എല്ലാ അറ്റാച്ച്‌മെന്റുകളും നിലത്ത് താഴ്ത്തുക"
       }
     ]
   },
   {
     "id": "rta-fk-074",
-    "question_text": "The start up procedure and before moving should include safety check to ensure that;",
+    "question_text": "സ്റ്റാർട്ട്-അപ്പ് നടപടിക്രമത്തിലും ചലിക്കുന്നതിന് മുമ്പും സുരക്ഷ പരിശോധനയിൽ ഇത് ഉറപ്പ് വരുത്തണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-074-a",
-        "answer_text": "The area has been cleared of loads to be moved"
+        "answer_text": "നീക്കേണ്ട ചരക്കുകളിൽ നിന്ന് ഇടം ശൂന്യമാക്കിയിരിക്കുന്നു"
       },
       {
         "id": "rta-fk-074-b",
-        "answer_text": "The machine is ready to operate for the day"
+        "answer_text": "മെഷീൻ ദിവസം മുഴുവൻ പ്രവർത്തിക്കാൻ തയ്യാറാണ്"
       },
       {
         "id": "rta-fk-074-c",
-        "answer_text": "The area is clear of all personnel and equipment"
+        "answer_text": "ഇടം എല്ലാ ഉദ്യോഗസ്ഥരിൽ നിന്നും ഉപകരണങ്ങളിൽ നിന്നും മുക്തമാണ്"
       }
     ]
   },
   {
     "id": "rta-fk-075",
-    "question_text": "To maintain control when travelling, how should you position your load?",
+    "question_text": "യാത്ര ചെയ്യുമ്പോൾ നിയന്ത്രണം നിലനിർത്താൻ, നിങ്ങൾ ഭാരം എങ്ങനെ സ്ഥാനപ്പെടുത്തണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-075-a",
-        "answer_text": "Load is tilted forwards"
+        "answer_text": "ഭാരം മുന്നോട്ട് ചരിഞ്ഞിരിക്കുന്നു"
       },
       {
         "id": "rta-fk-075-b",
-        "answer_text": "Load is tilted backwards"
+        "answer_text": "ഭാരം പിന്നോട്ട് ചരിഞ്ഞിരിക്കുന്നു"
       },
       {
         "id": "rta-fk-075-c",
-        "answer_text": "Load is flat and not tilted"
+        "answer_text": "ഭാരം പരന്നതും ചരിഞ്ഞിട്ടില്ലാത്തതുമാണ്"
       }
     ]
   },
   {
     "id": "rta-fk-080",
-    "question_text": "When loading the forklift truck, the load's center of gravity should be;",
+    "question_text": "ഫോർക്ക്ലിഫ്റ്റ് ട്രക്ക് ലോഡ് ചെയ്യുമ്പോൾ, ഭാരത്തിന്റെ ഗുരുത്വ കേന്ദ്രം ആയിരിക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-080-a",
-        "answer_text": "As high as possible"
+        "answer_text": "കഴിയുന്നത്ര ഉയർന്ന"
       },
       {
         "id": "rta-fk-080-b",
-        "answer_text": "As low as possible"
+        "answer_text": "കഴിയുന്നത്ര താഴ്ന്ന"
       },
       {
         "id": "rta-fk-080-c",
-        "answer_text": "Centered to the fulcrum"
+        "answer_text": "ഫുൾക്രത്തിന്റെ കേന്ദ്രത്തിൽ"
       }
     ]
   },
   {
     "id": "rta-fk-085",
-    "question_text": "Before raising the load of the forklift, the operator must;",
+    "question_text": "ഫോർക്ക്ലിഫ്റ്റിന്റെ ഭാരം ഉയർത്തുന്നതിന് മുമ്പ്, ഓപ്പറേറ്റർ നിർബന്ധമായും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-085-a",
-        "answer_text": "Ensure there is enough overhead clearance"
+        "answer_text": "മുകളിൽ മതിയായ ഇടം ഉണ്ടെന്ന് ഉറപ്പാക്കുക"
       },
       {
         "id": "rta-fk-085-b",
-        "answer_text": "Ensure the load is light enough for the forklift to raise"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റ് ഉയർത്താൻ ഭാരം പര്യാപ്തമാം വിധം ഹലക്കുറഞ്ഞതാണെന്ന് ഉറപ്പാക്കുക"
       },
       {
         "id": "rta-fk-085-c",
-        "answer_text": "Ensure the forklift is safe to operate"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റ് ഓടിക്കുന്നത് സുരക്ഷിതമാണെന്ന് ഉറപ്പാക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-086",
-    "question_text": "Before raising or lowering the load of the forklift, the operator must ensure that;",
+    "question_text": "ഫോർക്ക്ലിഫ്റ്റിന്റെ ഭാരം ഉയർത്തുന്നതിനോ താഴ്ത്തുന്നതിനോ മുമ്പ്, ഓപ്പറേറ്റർ ഉറപ്പ് വരുത്തണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-086-a",
-        "answer_text": "The forklift is in a stable ground and moving slow"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റ് സ്ഥിരമായ നിലത്താണ്, മന്ദഗതിയിൽ നീങ്ങുന്നു"
       },
       {
         "id": "rta-fk-086-b",
-        "answer_text": "The forklift is stopped and braked"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റ് നിർത്തി ബ്രേക്ക് ഇട്ടിരിക്കുന്നു"
       },
       {
         "id": "rta-fk-086-c",
-        "answer_text": "The forklift has extendable mast"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റിൽ വിപുലീകരിക്കാവുന്ന മാസ്റ്റ് ഉണ്ട്"
       }
     ]
   },
   {
     "id": "rta-fk-087",
-    "question_text": "Never exceed the recommended limit of the lift truck.  The information on the load limit can be found on the;",
+    "question_text": "ലിഫ്റ്റ് ട്രക്കിന്റെ ശുപാർശ ചെയ്ത പരിധി ഒരിക്കലും കവിയരുത്. ലോഡ് പരിധിയെ കുറിച്ചുള്ള വിവരം കണ്ടെത്താം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-087-a",
-        "answer_text": "Safety equipment"
+        "answer_text": "സുരക്ഷാ ഉപകരണം"
       },
       {
         "id": "rta-fk-087-b",
-        "answer_text": "Data plate of the load"
+        "answer_text": "ഭാരത്തിന്റെ ഡേറ്റ പ്ലേറ്റ്"
       },
       {
         "id": "rta-fk-087-c",
-        "answer_text": "Data plate of the of the lift truck"
+        "answer_text": "ലിഫ്റ്റ് ട്രക്കിന്റെ ഡേറ്റ പ്ലേറ്റ്"
       }
     ]
   },
   {
     "id": "rta-fk-092",
-    "question_text": "If the load is not positioned against the heel of the fork arms;",
+    "question_text": "ലോഡ് ഫോർക്ക് ആംസിന്റെ ഹീലിനോട് ചേർത്ത് വയ്ക്കുന്നില്ലെങ്കിൽ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-092-a",
-        "answer_text": "It makes the forklift more stable and easy to operate"
+        "answer_text": "ഇത് ഫോർക്ക്ലിഫ്റ്റ് കൂടുതൽ സ്ഥിരമാക്കുകയും ഓപ്പറേറ്റ് ചെയ്യാൻ എളുപ്പമാക്കുകയും ചെയ്യുന്നു"
       },
       {
         "id": "rta-fk-092-b",
-        "answer_text": "it can cause the forklift to slide sideward"
+        "answer_text": "ഇത് ഫോർക്ക്ലിഫ്റ്റ് വശങ്ങളിലേക്ക് തെന്നിമാറാൻ കാരണമാകും"
       },
       {
         "id": "rta-fk-092-c",
-        "answer_text": "it can cause the forklift to tip forward"
+        "answer_text": "ഇത് ഫോർക്ക്ലിഫ്റ്റ് മുന്നിലേക്ക് ചരിഞ്ഞുവീഴാൻ കാരണമാകും"
       }
     ]
   },
   {
     "id": "rta-hfk-004",
-    "question_text": "Digging, levelling,  pushing, load and carry operations are just;",
+    "question_text": "കുഴിക്കൽ, നിരപ്പാക്കൽ, തള്ളൽ, ലോഡ്, കൊണ്ടുപോകൽ ഓപ്പറേഷനുകൾ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-004-a",
-        "answer_text": "Some features of the shovels"
+        "answer_text": "ഷോവലുകളുടെ ചില സവിശേഷതകൾ മാത്രമാണ്"
       },
       {
         "id": "rta-hfk-004-b",
-        "answer_text": "Some of the uses of shovels"
+        "answer_text": "ഷോവലുകളുടെ ചില ഉപയോഗങ്ങൾ മാത്രമാണ്"
       },
       {
         "id": "rta-hfk-004-c",
-        "answer_text": "The only use of the shovels"
+        "answer_text": "ഷോവലുകളുടെ ഏക ഉപയോഗം മാത്രമാണ്"
       }
     ]
   },
   {
     "id": "rta-hfk-008",
-    "question_text": "When steering a loaded bucket, there is a danger of tipping because;",
+    "question_text": "നിറഞ്ഞ ബക്കറ്റ് ഉള്ളപ്പോൾ സ്റ്റിയറിംഗ് ചെയ്യുമ്പോൾ മറിഞ്ഞുവീഴ്ചയുടെ അപകടമുണ്ട്, കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-008-a",
-        "answer_text": "The weight is shifted away from the body of the shovel."
+        "answer_text": "ഭാരം ഷോവലിന്റെ ശരീരത്തിൽ നിന്ന് അകന്ന് മാറുന്നു."
       },
       {
         "id": "rta-hfk-008-b",
-        "answer_text": "The body of the shovel shifts to either side"
+        "answer_text": "ഷോവലിന്റെ ശരീരം ഏതെങ്കിലും ഒരു ഭാഗത്തേക്ക് നീങ്ങുന്നു"
       },
       {
         "id": "rta-hfk-008-c",
-        "answer_text": "The weight of the shovel increases while moving"
+        "answer_text": "ചലനത്തിനിടയിൽ ഷോവലിന്റെ ഭാരം വർദ്ധിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-hfk-019",
-    "question_text": "What could be a potential problem with having uneven tire pressure in a shovel?",
+    "question_text": "ഒരു ഷോവലിൽ അസമമായ ടയർ മർദ്ദം ഉണ്ടായിരിക്കുന്നതുകൊണ്ടുള്ള സാധ്യതയുള്ള പ്രശ്നം എന്ത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-019-a",
-        "answer_text": "Load may transfer to the side with the lower pressure and cause an overturn"
+        "answer_text": "ഭാരം കുറഞ്ഞ മർദ്ദമുള്ള വശത്തേക്ക് മാറി മറിഞ്ഞ് വീഴ്ചയ്ക്ക് കാരണമായേക്കാം"
       },
       {
         "id": "rta-hfk-019-b",
-        "answer_text": "Load may transfer to one side and slow down the work progress"
+        "answer_text": "ഭാരം ഒരു വശത്തേക്ക് മാറി ജോലിയുടെ വേഗം കുറഞ്ഞേക്കാം"
       },
       {
         "id": "rta-hfk-019-c",
-        "answer_text": "It can cause heavy wear and tear to the steering"
+        "answer_text": "സ്റ്റിയറിങ്ങിൽ ഭാരമേറിയ തേയ്മാനം ഉണ്ടായേക്കാം"
       }
     ]
   },
   {
     "id": "rta-hfk-028",
-    "question_text": "When checking the correct transmission fluid level of you shovel, do this;",
+    "question_text": "നിങ്ങളുടെ ഷോവലിന്റെ ട്രാൻസ്മിഷൻ ഫ്ലൂയിഡ് ലെവൽ ശരിയായി പരിശോധിക്കാൻ ഇത് ചെയ്യുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-028-a",
-        "answer_text": "When the shovel is parked and has cooled down"
+        "answer_text": "ഷോവൽ പാർക്ക് ചെയ്ത് തണുത്തപ്പോൾ"
       },
       {
         "id": "rta-hfk-028-b",
-        "answer_text": "When the shovel is parked and engine is still hot"
+        "answer_text": "ഷോവൽ പാർക്ക് ചെയ്തിരിക്കുകയും എഞ്ചിൻ ഇപ്പോഴും ചൂടാകുകയും ചെയ്യുമ്പോൾ"
       },
       {
         "id": "rta-hfk-028-c",
-        "answer_text": "When the shovel is working during the day"
+        "answer_text": "ഷോവൽ പകൽ സമയത്ത് പ്രവർത്തിക്കുമ്പോൾ"
       }
     ]
   },
   {
     "id": "rta-hfk-030",
-    "question_text": "If you want to check if the fan belt is properly tensioned, how should you do it?",
+    "question_text": "ഫാൻ ബെൽറ്റ് ശരിയായി മുറുക്കിയിട്ടുണ്ടോ എന്ന് പരിശോധിക്കണമെങ്കിൽ, എങ്ങനെ ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-030-a",
-        "answer_text": "Depress the belt at the top of the fan pulley"
+        "answer_text": "ഫാൻ പുള്ളിയുടെ മുകളിൽ ബെൽറ്റ് അമർത്തുക"
       },
       {
         "id": "rta-hfk-030-b",
-        "answer_text": "Depress the belt between the fan and the alternator pulleys"
+        "answer_text": "ഫാനും ആൾട്ടർനേറ്റർ പുള്ളിയും തമ്മിലുള്ള ബെൽറ്റ് അമർത്തുക"
       },
       {
         "id": "rta-hfk-030-c",
-        "answer_text": "Pull the belt between the fan and the alternator pulleys"
+        "answer_text": "ഫാനും ആൾട്ടർനേറ്റർ പുള്ളിയും തമ്മിലുള്ള ബെൽറ്റ് വലിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-031",
-    "question_text": "The electrical wirings should be checked for;",
+    "question_text": "ഇലക്ട്രിക്കൽ വയറിംഗ് ഇവ പരിശോധിക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-031-a",
-        "answer_text": "Damaged wires, and lights and horn are working."
+        "answer_text": "കേടായ വയറുകൾ, ലൈറ്റുകളും ഹോണും പ്രവർത്തിക്കുന്നുണ്ടോ."
       },
       {
         "id": "rta-hfk-031-b",
-        "answer_text": "Damaged pulleys"
+        "answer_text": "കേടായ പുള്ളികൾ"
       },
       {
         "id": "rta-hfk-031-c",
-        "answer_text": "Damaged headlights"
+        "answer_text": "കേടായ ഹെഡ്‌ലൈറ്റുകൾ"
       }
     ]
   },
   {
     "id": "rta-hfk-032",
-    "question_text": "The battery terminals should be checked for tightness. Loose terminals can cause;",
+    "question_text": "ബാറ്ററി ടെർമിനലുകൾ മുറുക്കമുണ്ടോ എന്ന് പരിശോധിക്കണം. അയഞ്ഞ ടെർമിനലുകൾ ഇതിന് കാരണമാകും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-032-a",
-        "answer_text": "Quick starting"
+        "answer_text": "വേഗത്തിൽ സ്റ്റാർട്ട് ആകുക"
       },
       {
         "id": "rta-hfk-032-b",
-        "answer_text": "A spark and even explosion"
+        "answer_text": "തീപ്പൊരി, ഒരുപക്ഷേ സ്ഫോടനം"
       },
       {
         "id": "rta-hfk-032-c",
-        "answer_text": "Supercharging"
+        "answer_text": "സൂപ്പർചാർജിംഗ്"
       }
     ]
   },
   {
     "id": "rta-hfk-034",
-    "question_text": "The battery can over-heat and fail prematurely if;",
+    "question_text": "ബാറ്ററി അമിതമായി ചൂടാകുകയും നേരത്തെ കേടാകുകയും ചെയ്യാം, ഇതിന് കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-034-a",
-        "answer_text": "The electrolyte level is low"
+        "answer_text": "ഇലക്‌ട്രോലൈറ്റ് ലെവൽ കുറവാണ്"
       },
       {
         "id": "rta-hfk-034-b",
-        "answer_text": "The electrolyte level is high"
+        "answer_text": "ഇലക്‌ട്രോലൈറ്റ് ലെവൽ കൂടുതലാണ്"
       },
       {
         "id": "rta-hfk-034-c",
-        "answer_text": "The connections are too tight"
+        "answer_text": "കണക്ഷനുകൾ വളരെ ഇറുക്കമാണ്"
       }
     ]
   },
   {
     "id": "rta-hfk-041",
-    "question_text": "Why do you need to walk around the shovel again before starting the engine?",
+    "question_text": "എഞ്ചിൻ ആരംഭിക്കുന്നതിന് മുൻപ് ഷോവലിനു ചുറ്റും വീണ്ടും നടക്കേണ്ടത് എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-041-a",
-        "answer_text": "To enable quick start up procedure"
+        "answer_text": "വേഗമേറിയ സ്റ്റാർട്ട്-അപ്പ് നടപടിക്രമം സാധ്യമാക്കാൻ"
       },
       {
         "id": "rta-hfk-041-b",
-        "answer_text": "To check the surrounding for bit of relaxation"
+        "answer_text": "കുറച്ചു വിശ്രമത്തിനായി ചുറ്റുപാടുകൾ പരിശോധിക്കാൻ"
       },
       {
         "id": "rta-hfk-041-c",
-        "answer_text": "To check the surrounding and ensure all around safety"
+        "answer_text": "ചുറ്റുപാടുകൾ പരിശോധിക്കാനും എല്ലാ ദിശകളിലും സുരക്ഷ ഉറപ്പാക്കാനും"
       }
     ]
   },
   {
     "id": "rta-hfk-044",
-    "question_text": "Before starting the engine of your shovel, what should you be checking first?",
+    "question_text": "നിങ്ങളുടെ ഷോവലിന്റെ എഞ്ചിൻ സ്റ്റാർട്ട് ചെയ്യുന്നതിന് മുമ്പ്, ആദ്യം എന്ത് പരിശോധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-044-a",
-        "answer_text": "Check that the park brake is set to neutral position"
+        "answer_text": "പാർക്ക് ബ്രേക്ക് നിഷ്‌പക്ഷ സ്ഥാനത്ത് സജ്ജമാണെന്ന് പരിശോധിക്കുക"
       },
       {
         "id": "rta-hfk-044-b",
-        "answer_text": "Check that the park brake is set to engaged position"
+        "answer_text": "പാർക്ക് ബ്രേക്ക് ഇടപഴകിയ സ്ഥാനത്ത് സജ്ജമാണെന്ന് പരിശോധിക്കുക"
       },
       {
         "id": "rta-hfk-044-c",
-        "answer_text": "Check that the park brake is disengaged"
+        "answer_text": "പാർക്ക് ബ്രേക്ക് വേർപെടുത്തിയിട്ടുണ്ടെന്ന് പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-045",
-    "question_text": "After starting the engine of your shovel, what should you be checking?",
+    "question_text": "നിങ്ങളുടെ ഷോവലിന്റെ എഞ്ചിൻ സ്റ്റാർട്ട് ചെയ്ത ശേഷം, എന്ത് പരിശോധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-045-a",
-        "answer_text": "Check that the park brake is set to neutral position"
+        "answer_text": "പാർക്ക് ബ്രേക്ക് നിഷ്‌പക്ഷ സ്ഥാനത്ത് സജ്ജമാണെന്ന് പരിശോധിക്കുക"
       },
       {
         "id": "rta-hfk-045-b",
-        "answer_text": "Check the position and operation of park brakes and emergency devices"
+        "answer_text": "പാർക്ക് ബ്രേക്കുകളുടെയും അടിയന്തര ഉപകരണങ്ങളുടെയും സ്ഥാനവും പ്രവർത്തനവും പരിശോധിക്കുക"
       },
       {
         "id": "rta-hfk-045-c",
-        "answer_text": "Check the fuel and oil pressure gauges to ensure that they are working"
+        "answer_text": "ഇന്ധനവും എണ്ണ മർദ്ദ ഗേജുകളും പ്രവർത്തിക്കുന്നുണ്ടെന്ന് ഉറപ്പ് വരുത്താൻ പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-046",
-    "question_text": "Once the engine of your shovel has been started, the key should",
+    "question_text": "നിങ്ങളുടെ ഷോവലിന്റെ എഞ്ചിൻ സ്റ്റാർട്ട് ആയ ശേഷം, താക്കോൽ",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-046-a",
-        "answer_text": "Be returned to ON position"
+        "answer_text": "ON സ്ഥാനത്തേക്ക് തിരിക്കുക"
       },
       {
         "id": "rta-hfk-046-b",
-        "answer_text": "Be kept on the START position"
+        "answer_text": "START സ്ഥാനത്ത് നിലനിർത്തുക"
       },
       {
         "id": "rta-hfk-046-c",
-        "answer_text": "Be returned to OFF position"
+        "answer_text": "OFF സ്ഥാനത്തേക്ക് തിരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-047",
-    "question_text": "What should you do if the oil pressure gauge does not come up to operating pressure after starting?",
+    "question_text": "സ്റ്റാർട്ട് ചെയ്ത ശേഷം എണ്ണ മർദ്ദ ഗേജ് ഓപ്പറേറ്റിംഗ് മർദ്ദത്തിൽ എത്തിയില്ലെങ്കിൽ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-047-a",
-        "answer_text": "Take the shovel straight for maintenance"
+        "answer_text": "ഷോവൽ നേരിട്ട് അറ്റകുറ്റപ്പണിക്ക് കൊണ്ടുപോകുക"
       },
       {
         "id": "rta-hfk-047-b",
-        "answer_text": "Shut the engine down immediately and have it checked before restarting"
+        "answer_text": "ഉടൻ എഞ്ചിൻ ഓഫ് ചെയ്ത് വീണ്ടും സ്റ്റാർട്ട് ചെയ്യുന്നതിന് മുമ്പ് പരിശോധിപ്പിക്കുക"
       },
       {
         "id": "rta-hfk-047-c",
-        "answer_text": "Shut the engine down and immediately restart"
+        "answer_text": "എഞ്ചിൻ ഓഫ് ചെയ്ത് ഉടൻ വീണ്ടും സ്റ്റാർട്ട് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-hfk-048",
-    "question_text": "When shutting down the engine of your shovel, you must;",
+    "question_text": "നിങ്ങളുടെ ഷോവലിന്റെ എഞ്ചിൻ ഓഫ് ചെയ്യുമ്പോൾ, നിർബന്ധമായും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-048-a",
-        "answer_text": "Engage the bucket control lever"
+        "answer_text": "ബക്കറ്റ് കൺട്രോൾ ലിവർ ഇടപഴകുക"
       },
       {
         "id": "rta-hfk-048-b",
-        "answer_text": "Park on the ground you like most"
+        "answer_text": "ഇഷ്ടമുള്ള സ്ഥലത്ത് പാർക്ക് ചെയ്യുക"
       },
       {
         "id": "rta-hfk-048-c",
-        "answer_text": "Lower all ground engaging implements"
+        "answer_text": "എല്ലാ ഭൂ ഉൽഖനന ഉപകരണങ്ങളും താഴ്ത്തുക"
       }
     ]
   },
   {
     "id": "rta-hfk-049",
-    "question_text": "After engine shutdown and before leaving the shovel, walk around it and look for;",
+    "question_text": "എഞ്ചിൻ ഓഫ് ചെയ്ത ശേഷവും ഷോവൽ വിടുന്നതിന് മുമ്പും, ചുറ്റും നടന്ന് ശ്രദ്ധിക്കുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-049-a",
-        "answer_text": "The nearest exit"
+        "answer_text": "ഏറ്റവും അടുത്ത പുറത്തുകടക്കുന്ന വഴി"
       },
       {
         "id": "rta-hfk-049-b",
-        "answer_text": "Any unfinished work that needs to be finished the next day"
+        "answer_text": "അടുത്ത ദിവസം പൂർത്തിയാക്കേണ്ട അപൂർണ്ണമായ ജോലി"
       },
       {
         "id": "rta-hfk-049-c",
-        "answer_text": "Any oil leaks or any damage that may have occurred during operation"
+        "answer_text": "ഏതെങ്കിലും എണ്ണ ചോർച്ച അല്ലെങ്കിൽ ഓപ്പറേഷൻ സമയത്ത് സംഭവിച്ച നാശനഷ്ടം"
       }
     ]
   },
   {
     "id": "rta-hfk-050",
-    "question_text": "You must ensure this when shutting down the engine of your shovel;",
+    "question_text": "നിങ്ങളുടെ ഷോവലിന്റെ എഞ്ചിൻ ഓഫ് ചെയ്യുമ്പോൾ ഇത് ഉറപ്പ് വരുത്തണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-050-a",
-        "answer_text": "Apply the park brake"
+        "answer_text": "പാർക്ക് ബ്രേക്ക് ഇടുക"
       },
       {
         "id": "rta-hfk-050-b",
-        "answer_text": "Transmission engaged in first gear"
+        "answer_text": "ട്രാൻസ്മിഷൻ ഒന്നാം ഗിയറിൽ ഇടപഴകിയിരിക്കണം"
       },
       {
         "id": "rta-hfk-050-c",
-        "answer_text": "Ground engaging implements are raised"
+        "answer_text": "ഭൂ ഉൽഖനന ഉപകരണങ്ങൾ ഉയർത്തിയ അവസ്ഥയിൽ ഉണ്ടായിരിക്കണം"
       }
     ]
   },
   {
     "id": "rta-hfk-052",
-    "question_text": "After shutting down the engine, relieve pressure in the hydraulic lines by;",
+    "question_text": "എഞ്ചിൻ ഓഫ് ചെയ്ത ശേഷം, ഹൈഡ്രോളിക് ലൈനുകളിലെ മർദ്ദം ഒഴിവാക്കാൻ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-052-a",
-        "answer_text": "Moving the bucket control levers through all positions"
+        "answer_text": "ബക്കറ്റ് കൺട്രോൾ ലിവറുകൾ എല്ലാ സ്ഥാനങ്ങളിലൂടെ ചലിപ്പിക്കുക"
       },
       {
         "id": "rta-hfk-052-b",
-        "answer_text": "Allowing the bucket to swing back and forth"
+        "answer_text": "ബക്കറ്റ് മുന്നോട്ടും പിന്നോട്ടും ആടാൻ അനുവദിക്കുക"
       },
       {
         "id": "rta-hfk-052-c",
-        "answer_text": "Placing the transmission levers into neutral"
+        "answer_text": "ട്രാൻസ്മിഷൻ ലിവറുകൾ നിഷ്‌പക്ഷ സ്ഥാനത്ത് വെക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-053",
-    "question_text": "Why is it better to refuel the shovel at the end of the day?",
+    "question_text": "ദിവസാവസാനം ഷോവലിൽ ഇന്ധനം നിറയ്ക്കുന്നതാണ് നല്ലത് എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-053-a",
-        "answer_text": "It will help to reduce the amount of work for the day"
+        "answer_text": "ദിവസത്തെ ജോലിയുടെ അളവ് കുറയ്ക്കാൻ സഹായിക്കും"
       },
       {
         "id": "rta-hfk-053-b",
-        "answer_text": "It will help to reduce the amount of condensation in the fuel tank."
+        "answer_text": "ഇന്ധന ടാങ്കിൽ ഘനീഭൂതത്തിന്റെ അളവ് കുറയ്ക്കാൻ സഹായിക്കും"
       },
       {
         "id": "rta-hfk-053-c",
-        "answer_text": "It will be better for lubrication of the shovel engine"
+        "answer_text": "ഷോവൽ എഞ്ചിന്റെ ലൂബ്രിക്കേഷന് ഇത് ഉത്തമമായിരിക്കും"
       }
     ]
   },
   {
     "id": "rta-hfk-056",
-    "question_text": "You noticed that your shovel starts to slide, what part of shovel can you use as an  additional brake?",
+    "question_text": "നിങ്ങളുടെ ഷോവൽ തെന്നിത്തുടങ്ങുന്നതായി ശ്രദ്ധിച്ചു, അധിക ബ്രേക്കായി ഷോവലിന്റെ ഏത് ഭാഗം ഉപയോഗിക്കാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-056-a",
-        "answer_text": "Place the bucket on the ground to act as a brake"
+        "answer_text": "ബ്രേക്കായി പ്രവർത്തിക്കാൻ ബക്കറ്റ് നിലത്ത് വെക്കുക"
       },
       {
         "id": "rta-hfk-056-b",
-        "answer_text": "Disposing off the load immediately"
+        "answer_text": "ഉടൻ ഭാരം വലിച്ചെറിയുക"
       },
       {
         "id": "rta-hfk-056-c",
-        "answer_text": "Placing the transmission levers into neutral"
+        "answer_text": "ട്രാൻസ്മിഷൻ ലിവറുകൾ നിഷ്‌പക്ഷ സ്ഥാനത്ത് വെക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-059",
-    "question_text": "Warn all other personnel to keep clear from the shovel and not  touch any part of the machine in case;",
+    "question_text": "ഷോവലിൽ നിന്ന് അകലം പാലിക്കാനും മെഷീന്റെ ഒരു ഭാഗവും സ്പർശിക്കാതിരിക്കാനും മറ്റ് എല്ലാ ഉദ്യോഗസ്ഥരെയും മുന്നറിയിപ്പ് നൽകുക, ഈ സ്ഥിതിയിൽ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-059-a",
-        "answer_text": "The shovel contacts live power lines"
+        "answer_text": "ഷോവൽ ലൈവ് വൈദ്യുതി ലൈനുകളുമായി സംബർക്കത്തിൽ വരുന്നു"
       },
       {
         "id": "rta-hfk-059-b",
-        "answer_text": "The shovel gets stuck in the mud"
+        "answer_text": "ഷോവൽ ചേറ്റിൽ കുടുങ്ങിപ്പോകുന്നു"
       },
       {
         "id": "rta-hfk-059-c",
-        "answer_text": "the shovel engine gets overheated"
+        "answer_text": "ഷോവലിന്റെ എഞ്ചിൻ അമിതമായി ചൂടാകുന്നു"
       }
     ]
   },
   {
     "id": "rta-hfk-062",
-    "question_text": "If your shovel stalls on a steep ramp, what procedure should you do?",
+    "question_text": "നിങ്ങളുടെ ഷോവൽ ഒരു കുത്തനെ ചരിഞ്ഞ ഒരു റാമ്പിൽ നിന്നു പോയാൽ, നിങ്ങൾ എന്ത് നടപടി സ്വീകരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-062-a",
-        "answer_text": "Stay inside the cabin Apply the brakes Bring shovel to a stop"
+        "answer_text": "ക്യാബിനിൽ ഇരിക്കുക ബ്രേക്ക് ഇടുക ഷോവൽ നിർത്തുക"
       },
       {
         "id": "rta-hfk-062-b",
-        "answer_text": "Stay inside the cabin Apply the brakes Lower all the equipment"
+        "answer_text": "ക്യാബിനിൽ ഇരിക്കുക ബ്രേക്ക് ഇടുക എല്ലാ ഉപകരണങ്ങളും താഴ്ത്തുക"
       },
       {
         "id": "rta-hfk-062-c",
-        "answer_text": "Stay inside the cabin Attempt to re-start the engine Chock the wheels"
+        "answer_text": "ക്യാബിനിൽ ഇരിക്കുക എഞ്ചിൻ വീണ്ടും ആരംഭിക്കാൻ ശ്രമിക്കുക ചക്രങ്ങൾ ചോക്ക് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-hfk-073",
-    "question_text": "To fill the bucket when digging and loading from a level ground, you must;",
+    "question_text": "സമതലമായ നിലത്ത് നിന്ന് കുഴിക്കുകയും ലോഡ് ചെയ്യുകയും ചെയ്യുമ്പോൾ ബക്കറ്റ് നിറയ്ക്കാൻ, നിങ്ങൾ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-073-a",
-        "answer_text": "Set the bucket facing directly facing forward"
+        "answer_text": "ബക്കറ്റ് നേരിട്ട് മുന്നോട്ട് അഭിമുഖീകരിക്കുക"
       },
       {
         "id": "rta-hfk-073-b",
-        "answer_text": "Set the edge of the bucket facing slightly down"
+        "answer_text": "ബക്കറ്റിന്റെ അറ്റം അല്പം താഴേക്ക് തിരിക്കുക"
       },
       {
         "id": "rta-hfk-073-c",
-        "answer_text": "Set the edge of the bucket facing slightly upwards"
+        "answer_text": "ബക്കറ്റിന്റെ അറ്റം അല്പം മുകളിലേക്ക് തിരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-074",
-    "question_text": "To fill the bucket when digging and loading from a level ground. This operation should be;",
+    "question_text": "സമതലമായ നിലത്ത് നിന്ന് കുഴിക്കുകയും ലോഡ് ചെയ്യുകയും ചെയ്യുമ്പോൾ ബക്കറ്റ് നിറയ്ക്കാൻ. ഈ ഓപ്പറേഷൻ നടത്തേണ്ടത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-074-a",
-        "answer_text": "Carried out in first gear"
+        "answer_text": "ഒന്നാം ഗിയറിൽ"
       },
       {
         "id": "rta-hfk-074-b",
-        "answer_text": "Carried out in second gear"
+        "answer_text": "രണ്ടാം ഗിയറിൽ"
       },
       {
         "id": "rta-hfk-074-c",
-        "answer_text": "Carried out either on first or second gear"
+        "answer_text": "ഒന്നാം അല്ലെങ്കിൽ രണ്ടാം ഗിയറിൽ ഏതിലും"
       }
     ]
   },
   {
     "id": "rta-hfk-078",
-    "question_text": "When transporting a full bucket, keep the loader's center of gravity low and;",
+    "question_text": "നിറഞ്ഞ ബക്കറ്റ് കൊണ്ടുപോകുമ്പോൾ, ലോഡറിന്റെ ഗുരുത്വകേന്ദ്രം താഴ്ത്തി നിർത്തുക, കൂടാതെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-078-a",
-        "answer_text": "Only raise the bucket just prior to discharge of the load"
+        "answer_text": "ലോഡ് ഇറക്കുന്നതിന് തൊട്ടുമുൻപ് മാത്രം ബക്കറ്റ് ഉയർത്തുക"
       },
       {
         "id": "rta-hfk-078-b",
-        "answer_text": "Maintain the load in high position while travelling"
+        "answer_text": "യാത്രയ്ക്കിടയിൽ ലോഡ് ഉയർന്ന സ്ഥാനത്ത് നിലനിർത്തുക"
       },
       {
         "id": "rta-hfk-078-c",
-        "answer_text": "Only dip the bucket at the last moment"
+        "answer_text": "അവസാന നിമിഷം മാത്രം ബക്കറ്റ് ഡിപ്പ് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-moto-010",
-    "question_text": "To better control the throttle, brake and clutch levers:",
+    "question_text": "ത്രോട്ടിൽ, ബ്രേക്ക്, ക്ലച്ച് ലിവറുകൾ മികച്ച രീതിയിൽ നിയന്ത്രിക്കാൻ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-010-a",
-        "answer_text": "sit well back in the seat."
+        "answer_text": "സീറ്റിൽ പിന്നിലേക്ക് ചാരി ഇരിക്കുക."
       },
       {
         "id": "rta-moto-010-b",
-        "answer_text": "take pressure off the footpegs."
+        "answer_text": "ഫൂട്ട്‌പെഗ്‌സിൽ നിന്ന് സമ്മർദ്ദം നീക്കുക."
       },
       {
         "id": "rta-moto-010-c",
-        "answer_text": "hold the handgrips firmly."
+        "answer_text": "ഹാൻഡ്‌ഗ്രിപ്‌സ് ദൃഢമായി പിടിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-039",
-    "question_text": "The best place to carry a load on a motorcycle is:",
+    "question_text": "മോട്ടോർസൈക്കിളിൽ ഭാരം വഹിക്കാൻ ഏറ്റവും അനുയോജ്യമായ സ്ഥലം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-039-a",
-        "answer_text": "in a bag on your back."
+        "answer_text": "നിങ്ങളുടെ പുറത്ത് ഒരു ബാഗിൽ."
       },
       {
         "id": "rta-moto-039-b",
-        "answer_text": "above or in front of the rear axle."
+        "answer_text": "പിൻ ആക്സിലിന് മുകളിൽ അല്ലെങ്കിൽ മുന്നിൽ."
       },
       {
         "id": "rta-moto-039-c",
-        "answer_text": "just above the tail light."
+        "answer_text": "ടെയിൽ ലൈറ്റിന് തൊട്ടുമുകളിൽ."
       }
     ]
   },
   {
     "id": "rta-moto-040",
-    "question_text": "Where is the best place to carry a load on a motorcycle?",
+    "question_text": "മോട്ടോർസൈക്കിളിൽ ഭാരം വഹിക്കാൻ ഏറ്റവും നല്ല സ്ഥലം എവിടെയാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-040-a",
-        "answer_text": "Over or just in front of the rear axle."
+        "answer_text": "പിൻ ആക്സിലിന് മുകളിൽ അല്ലെങ്കിൽ ഉടനെ മുന്നിൽ."
       },
       {
         "id": "rta-moto-040-b",
-        "answer_text": "On the handlebars."
+        "answer_text": "ഹാൻഡിൽബാറിൽ."
       },
       {
         "id": "rta-moto-040-c",
-        "answer_text": "In a bag on your back."
+        "answer_text": "പുറത്ത് ഒരു ബാഗിൽ."
       }
     ]
   },
   {
     "id": "rta-moto-046",
-    "question_text": "Which of the following points apply to correct loading of a motorcycle?",
+    "question_text": "മോട്ടോർസൈക്കിളിൽ ശരിയായ ലോഡിംഗിന് ഇനിപ്പറയുന്ന ഏതൊക്കെ പോയന്റുകൾ ബാധകമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-046-a",
-        "answer_text": "Keep the load high and forward."
+        "answer_text": "ഭാരം ഉയർന്നതും മുന്നിലുമായി സൂക്ഷിക്കുക."
       },
       {
         "id": "rta-moto-046-b",
-        "answer_text": "Keep the load high and evenly distributed."
+        "answer_text": "ഭാരം ഉയർന്നതും തുല്യമായി വിതരണം ചെയ്തും സൂക്ഷിക്കുക."
       },
       {
         "id": "rta-moto-046-c",
-        "answer_text": "Keep the load forward and evenly distributed."
+        "answer_text": "ഭാരം മുന്നിലും തുല്യമായി വിതരണം ചെയ്തും സൂക്ഷിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-047",
-    "question_text": "Which of the following motorcycle parts require lubrication?",
+    "question_text": "മോട്ടോർസൈക്കിളിന്റെ ഇനിപ്പറയുന്ന ഏതൊക്കെ ഭാഗങ്ങൾക്ക് ലൂബ്രിക്കേഷൻ ആവശ്യമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-047-a",
-        "answer_text": "Chain."
+        "answer_text": "ചെയിൻ."
       },
       {
         "id": "rta-moto-047-b",
-        "answer_text": "Chain, brake linings and shock absorbers."
+        "answer_text": "ചെയിൻ, ബ്രേക്ക് ലൈനിംഗ്, ഷോക്ക് അബ്സോർബർ."
       },
       {
         "id": "rta-moto-047-c",
-        "answer_text": "Brake linings and shock absorbers."
+        "answer_text": "ബ്രേക്ക് ലൈനിംഗ്, ഷോക്ക് അബ്സോർബർ."
       }
     ]
   },
   {
     "id": "rta-moto-052",
-    "question_text": "If your throttle is stuck open in traffic, the first thing you should do is:",
+    "question_text": "ട്രാഫിക്കിൽ ത്രോട്ടിൽ തുറന്ന നിലയിൽ കുരുങ്ങിപ്പോയാൽ ആദ്യം ചെയ്യേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-052-a",
-        "answer_text": "apply the brakes."
+        "answer_text": "ബ്രേക്ക് ഇടുക."
       },
       {
         "id": "rta-moto-052-b",
-        "answer_text": "move the throttle back and forth and try to unstick it."
+        "answer_text": "ത്രോട്ടിൽ മുന്നോട്ടും പിന്നോട്ടും നീക്കി അഴിക്കാൻ ശ്രമിക്കുക."
       },
       {
         "id": "rta-moto-052-c",
-        "answer_text": "pull in the clutch."
+        "answer_text": "ക്ലച്ച് വലിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-080",
-    "question_text": "When riding, bumps on the road can :",
+    "question_text": "ഓടിക്കുമ്പോൾ റോഡിലെ കുണ്ടും കുഴിയും:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-080-a",
-        "answer_text": "affect your directional control."
+        "answer_text": "നിങ്ങളുടെ ദിശ നിയന്ത്രണത്തെ ബാധിക്കും."
       },
       {
         "id": "rta-moto-080-b",
-        "answer_text": "affect your steering as well as suspension."
+        "answer_text": "നിങ്ങളുടെ സ്റ്റിയറിങ്ങിനെയും സസ്പെൻഷനെയും ബാധിക്കും."
       },
       {
         "id": "rta-moto-080-c",
-        "answer_text": "affect your destination"
+        "answer_text": "നിങ്ങളുടെ ലക്ഷ്യസ്ഥാനത്തെ ബാധിക്കും."
       }
     ]
   },
   {
     "id": "rta-moto-081",
-    "question_text": "If you are riding in rough roads, slowing down will.",
+    "question_text": "ഇടുങ്ങിയ/പരുക്കൻ റോഡുകളിൽ ഓടിക്കുന്നെങ്കിൽ, വേഗം കുറക്കുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-081-a",
-        "answer_text": "help give your bike's suspension time to work."
+        "answer_text": "നിങ്ങളുടെ ബൈക്കിന്റെ സസ്പെൻഷൻ പ്രവർത്തിക്കാൻ സമയം നൽകും."
       },
       {
         "id": "rta-moto-081-b",
-        "answer_text": "help you raise yourself on foot pegs."
+        "answer_text": "ഫൂട്ട് പെഗ്ഗുകളിൽ ഉയർന്ന് നിൽക്കാൻ സഹായിക്കും."
       },
       {
         "id": "rta-moto-081-c",
-        "answer_text": "help you use the rear brakes."
+        "answer_text": "പിൻ ബ്രേക്ക് ഉപയോഗിക്കാൻ സഹായിക്കും."
       }
     ]
   },
   {
     "id": "rta-moto-085",
-    "question_text": "Why must you ride slower at night than during day time?",
+    "question_text": "പകലിനെ അപേക്ഷിച്ച് രാത്രിയിൽ കൂടുതൽ പതുക്കെ ഓടിക്കണം, എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-085-a",
-        "answer_text": "because your headlights show limited area only."
+        "answer_text": "കാരണം നിങ്ങളുടെ ഹെഡ്‌ലൈറ്റ് പരിമിതമായ ഒരു ഭാഗം മാത്രം കാണിക്കുന്നു."
       },
       {
         "id": "rta-moto-085-b",
-        "answer_text": "because other road users also travel slower."
+        "answer_text": "കാരണം മറ്റ് റോഡ് ഉപയോക്താക്കളും പതുക്കെ ഓടിക്കുന്നു."
       },
       {
         "id": "rta-moto-085-c",
-        "answer_text": "because the road is slower at night."
+        "answer_text": "കാരണം രാത്രിയിൽ റോഡ് പതുക്കെ ആകുന്നു."
       }
     ]
   },
   {
     "id": "rta-moto-089",
-    "question_text": "When riding at night or when  visibility is poor, you must:",
+    "question_text": "രാത്രിയിൽ അല്ലെങ്കിൽ ദൃശ്യപരത കുറവുള്ളപ്പോൾ ഓടിക്കുമ്പോൾ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-089-a",
-        "answer_text": "switch on headlights."
+        "answer_text": "ഹെഡ്‌ലൈറ്റ് ഓൺ ചെയ്യുക."
       },
       {
         "id": "rta-moto-089-b",
-        "answer_text": "switch on brake lights."
+        "answer_text": "ബ്രേക്ക് ലൈറ്റ് ഓൺ ചെയ്യുക."
       },
       {
         "id": "rta-moto-089-c",
-        "answer_text": "switch on streetlights."
+        "answer_text": "തെരുവ് വിളക്കുകൾ ഓൺ ചെയ്യുക."
       }
     ]
   },
   {
     "id": "rta-moto-095",
-    "question_text": "When carrying load or passenger, how is motorcycle affected?",
+    "question_text": "ഭാരം അല്ലെങ്കിൽ യാത്രക്കാരനെ വഹിക്കുമ്പോൾ മോട്ടോർസൈക്കിളിൽ എന്ത് സ്വാധീനം ഉണ്ടാകും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-095-a",
-        "answer_text": "it may take longer time to stop."
+        "answer_text": "നിർത്താൻ കൂടുതൽ സമയം ആവശ്യമായേക്കാം."
       },
       {
         "id": "rta-moto-095-b",
-        "answer_text": "it will accelerate faster."
+        "answer_text": "ഇത് കൂടുതൽ വേഗത്തിൽ ആക്സിലറേറ്റ് ചെയ്യും."
       },
       {
         "id": "rta-moto-095-c",
-        "answer_text": "it may ride around corner easier."
+        "answer_text": "ഇത് കോണുകൾ എളുപ്പത്തിൽ ഓടിക്കാൻ കഴിയും."
       }
     ]
   },
   {
     "id": "rta-moto-101",
-    "question_text": "To ensure you have proper maintenance guide, check:",
+    "question_text": "ശരിയായ പരിപാലന ഗൈഡ് ഉറപ്പാക്കാൻ, പരിശോധിക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-101-a",
-        "answer_text": "the mechanic nearby."
+        "answer_text": "അടുത്തുള്ള മെക്കാനിക്കിനെ."
       },
       {
         "id": "rta-moto-101-b",
-        "answer_text": "the owner's manual."
+        "answer_text": "ഉടമസ്ഥന്റെ മാനുവൽ."
       },
       {
         "id": "rta-moto-101-c",
-        "answer_text": "the parts of the bike."
+        "answer_text": "ബൈക്കിന്റെ ഭാഗങ്ങൾ."
       }
     ]
   },
   {
     "id": "rta-moto-118",
-    "question_text": "When buying a helmet, these are the factors that must be considered:",
+    "question_text": "ഹെൽമറ്റ് വാങ്ങുമ്പോൾ, ഈ ഘടകങ്ങൾ പരിഗണിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-118-a",
-        "answer_text": "New and good fitting"
+        "answer_text": "പുതിയതും ശരിയായി ഫിറ്റ് ആകുന്നതും"
       },
       {
         "id": "rta-moto-118-b",
-        "answer_text": "Light weight and brightly colored"
+        "answer_text": "ഭാരം കുറഞ്ഞതും തിളക്കമുള്ള നിറത്തിലുള്ളതും"
       },
       {
         "id": "rta-moto-118-c",
-        "answer_text": "Full face protection and foldable"
+        "answer_text": "മുഴുവൻ മുഖ സംരക്ഷണവും മടക്കാൻ കഴിയുന്നതും"
       }
     ]
   },
   {
     "id": "rta-moto-128",
-    "question_text": "To have good control of the throttle and easily reach the clutch and brake levers;",
+    "question_text": "ത്രോട്ടിൽ ഭേദഗതിക്ക് നല്ല നിയന്ത്രണം ഉണ്ടാകാനും ക്ലച്ചും ബ്രേക്ക് ലിവറുകളും എളുപ്പത്തിൽ എത്താനും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-128-a",
-        "answer_text": "firmly hold the handgrips and keep your wrists high"
+        "answer_text": "ഹാൻഡ്ഗ്രിപ്പ് ദൃഢമായി പിടിക്കുക, കൈത്തണ്ട ഉയർത്തി നിർത്തുക"
       },
       {
         "id": "rta-moto-128-b",
-        "answer_text": "firmly hold the handgrips and keep your wrists low"
+        "answer_text": "ഹാൻഡ്ഗ്രിപ്പ് ദൃഢമായി പിടിക്കുക, കൈത്തണ്ട താഴ്ത്തി നിർത്തുക"
       },
       {
         "id": "rta-moto-128-c",
-        "answer_text": "sit closest to the front of the bike"
+        "answer_text": "ബൈക്കിന്റെ മുൻഭാഗത്തിനോട് ഏറ്റവും അടുത്ത് ഇരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-130",
-    "question_text": "You want to know what is the correct pressure on your tire. What should you do?",
+    "question_text": "നിങ്ങളുടെ ടയറിന്റെ ശരിയായ മർദ്ദം അറിയാൻ ആഗ്രഹിക്കുന്നു. നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-130-a",
-        "answer_text": "check your owner's manual for the correct pressure on the tire"
+        "answer_text": "ടയറിന്റെ ശരിയായ മർദ്ദം അറിയാൻ ഉടമ്പടി മാനുവൽ പരിശോധിക്കുക"
       },
       {
         "id": "rta-moto-130-b",
-        "answer_text": "check that the tread depth is more than 2mm all over the tire tread."
+        "answer_text": "ടയർ ട്രെഡ് മുഴുവൻ 2mm-ൽ കൂടുതൽ ആഴം ഉണ്ടെന്ന് പരിശോധിക്കുക"
       },
       {
         "id": "rta-moto-130-c",
-        "answer_text": "make sure that the tire tread is free of cuts, nails or cracks"
+        "answer_text": "ടയർ ട്രെഡ് മുറിവുകൾ, ആണികൾ അല്ലെങ്കിൽ വിള്ളലുകൾ ഇല്ലാത്തതാണെന്ന് ഉറപ്പ് വരുത്തുക"
       }
     ]
   },
   {
     "id": "rta-moto-132",
-    "question_text": "Upon checking, you found that the tread depth of your tire is less than 2mm. What is the problem with this?",
+    "question_text": "പരിശോധനയിൽ, നിങ്ങളുടെ ടയറിന്റെ ട്രെഡ് ആഴം 2mm-ൽ കുറവാണെന്ന് കണ്ടെത്തി. ഇതിന്റെ പ്രശ്നം എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-132-a",
-        "answer_text": "no problem if the tire pressure is correct"
+        "answer_text": "ടയർ മർദ്ദം ശരിയാണെങ്കിൽ പ്രശ്നമില്ല"
       },
       {
         "id": "rta-moto-132-b",
-        "answer_text": "tire tread depth that is less than 2mm is very dangerous"
+        "answer_text": "2mm-ൽ കുറഞ്ഞ ടയർ ട്രെഡ് ആഴം വളരെ അപകടകരമാണ്"
       },
       {
         "id": "rta-moto-132-c",
-        "answer_text": "there is no problem with this"
+        "answer_text": "ഇതിൽ യാതൊരു പ്രശ്നവുമില്ല"
       }
     ]
   },
   {
     "id": "rta-moto-159",
-    "question_text": "You are riding at night with high beam lights on. As you approach another vehicle from behind, you should;",
+    "question_text": "നിങ്ങൾ രാത്രി ഹൈ ബീം ലൈറ്റുകൾ ഓണാക്കി യാത്ര ചെയ്യുകയാണ്. നിങ്ങൾ മറ്റൊരു വാഹനത്തിന് പിന്നിൽ നിന്ന് അടുക്കുമ്പോൾ, നിങ്ങൾ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-159-a",
-        "answer_text": "sound your horn in a loud manner"
+        "answer_text": "ഉച്ചത്തിൽ ഹോൺ മുഴക്കുക"
       },
       {
         "id": "rta-moto-159-b",
-        "answer_text": "dip your headlights"
+        "answer_text": "ഹെഡ്‌ലൈറ്റുകൾ ഡിപ്പ് ചെയ്യുക"
       },
       {
         "id": "rta-moto-159-c",
-        "answer_text": "flash your headlights for a few seconds"
+        "answer_text": "കുറച്ച് സെക്കന്റ് ഹെഡ്‌ലൈറ്റുകൾ ഫ്ലാഷ് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-moto-160",
-    "question_text": "A motorcycle carrying a pillion passenger will accelerate slower and;",
+    "question_text": "പിൻ യാത്രക്കാരനെ കൊണ്ടുപോകുന്ന മോട്ടോർസൈക്കിൾ സ천തയ്ക്ക് പോകും, കൂടാതെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-160-a",
-        "answer_text": "have less cornering clearance in corners"
+        "answer_text": "വളവുകളിൽ കോർണറിംഗ് ക്ലിയറൻസ് കുറവായിരിക്കും"
       },
       {
         "id": "rta-moto-160-b",
-        "answer_text": "have more power to stop"
+        "answer_text": "നിർത്താനുള്ള കൂടുതൽ ശക്തി ഉണ്ടാകും"
       },
       {
         "id": "rta-moto-160-c",
-        "answer_text": "clutch will work more effectively"
+        "answer_text": "ക്ലച്ച് കൂടുതൽ ഫലപ്രദമായി പ്രവർത്തിക്കും"
       }
     ]
   },
   {
     "id": "rta-moto-164",
-    "question_text": "When securing your load, what kind of material can potentially damage your eye?",
+    "question_text": "ചരക്ക് ഭദ്രമാക്കുമ്പോൾ, ഏത് തരം വസ്തു നിങ്ങളുടെ കണ്ണിന് കേടുപ്പാടുകൾ ഉണ്ടാക്കാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-164-a",
-        "answer_text": "metal casing"
+        "answer_text": "ലോഹ കവചം"
       },
       {
         "id": "rta-moto-164-b",
-        "answer_text": "the use elastic straps with metal hooks"
+        "answer_text": "ലോഹ ഹുക്കുകൾ സഹിതം ഇലാസ്റ്റിക് സ്ട്രാപ്പുകളുടെ ഉപയോഗം"
       },
       {
         "id": "rta-moto-164-c",
-        "answer_text": "ropes made of nylon material"
+        "answer_text": "നൈലോൺ വസ്തുവിൽ നിർമ്മിച്ച കയറുകൾ"
       }
     ]
   },
   {
     "id": "rta-moto-165",
-    "question_text": "For stability and good handling of the bike, how would you arrange the placement of the load?",
+    "question_text": "ബൈക്കിന്റെ സ്ഥിരത, നല്ല ഹാൻഡ്‌ലിംഗ് ഇവ ഉറപ്പാക്കാൻ, ചരക്ക് എങ്ങനെ ക്രമീകരിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-165-a",
-        "answer_text": "heavy loads may be placed  at the back of the rider to be more secured"
+        "answer_text": "ഭാരമേറിയ ചരക്ക് കൂടുതൽ സുരക്ഷിതമാകാൻ റൈഡറുടെ പിന്നിൽ വയ്ക്കാം"
       },
       {
         "id": "rta-moto-165-b",
-        "answer_text": "load may be placed  behind the rear axle"
+        "answer_text": "ചരക്ക് പിൻ ആക്‌സിലിന് പിന്നിൽ വയ്ക്കാം"
       },
       {
         "id": "rta-moto-165-c",
-        "answer_text": "load should be placed  above or in front of the rear axle"
+        "answer_text": "ചരക്ക് പിൻ ആക്‌സിലിന് മുകളിലോ മുൻഭാഗത്തോ വയ്ക്കണം"
       }
     ]
   },
   {
     "id": "rta-moto-166",
-    "question_text": "When placing load on your bike, make sure to balance the weight. How do you do this?",
+    "question_text": "ബൈക്കിൽ ചരക്ക് ഇടുമ്പോൾ, ഭാരം സന്തുലിതമാക്കുക. ഇത് എങ്ങനെ ചെയ്യും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-166-a",
-        "answer_text": "Keep the load low and secured"
+        "answer_text": "ചരക്ക് താഴ്ത്തി ഭദ്രമായി വയ്ക്കുക"
       },
       {
         "id": "rta-moto-166-b",
-        "answer_text": "Keep the high low and secured"
+        "answer_text": "ഉയരം കുറച്ച് ഭദ്രമായി വയ്ക്കുക"
       },
       {
         "id": "rta-moto-166-c",
-        "answer_text": "Keep the load covered"
+        "answer_text": "ചരക്ക് മൂടിവെക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-167",
-    "question_text": "You are transporting a bulky load over a long distance. What should you remember to do during the ride?",
+    "question_text": "നിങ്ങൾ ദൂരം കൂടിയ ദൂരത്ത് ഒരു ബൾക്കി ചരക്ക് കൊണ്ടുപോകുകയാണ്. യാത്രയ്ക്കിടെ നിങ്ങൾ എന്ത് ഓർക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-167-a",
-        "answer_text": "check the load frequently to make sure it is still secured"
+        "answer_text": "ചരക്ക് ഇപ്പോഴും ഭദ്രമാണെന്ന് ഉറപ്പാക്കാൻ ഇടയ്ക്കിടെ പരിശോധിക്കുക"
       },
       {
         "id": "rta-moto-167-b",
-        "answer_text": "remember to stop frequently"
+        "answer_text": "ഇടയ്ക്കിടെ നിർത്തണമെന്ന് ഓർക്കുക"
       },
       {
         "id": "rta-moto-167-c",
-        "answer_text": "remember to check your tires before leaving"
+        "answer_text": "പുറപ്പെടുന്നതിന് മുൻപ് ടയർ പരിശോധിക്കണമെന്ന് ഓർക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-183",
-    "question_text": "You suddenly felt a huge bang from the back of the bike and felt the bike free wheeling. What can you do?",
+    "question_text": "ബൈക്കിന്റെ പുറകിൽ നിന്ന് പൊടുന്നനെ വലിയ ശബ്ദം കേട്ടു, ബൈക്ക് സ്വതന്ത്രമായി ഓടാൻ തുടങ്ങി. നിങ്ങൾ എന്ത് ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-183-a",
-        "answer_text": "keep the throttle on"
+        "answer_text": "ത്രോട്ടിൽ ഓൺ ആയി നിർത്തുക"
       },
       {
         "id": "rta-moto-183-b",
-        "answer_text": "close the throttle and brake to a stop"
+        "answer_text": "ത്രോട്ടിൽ അടയ്ക്കുക, ബ്രേക്ക് ചെയ്ത് നിർത്തുക"
       },
       {
         "id": "rta-moto-183-c",
-        "answer_text": "Try turning the engine off"
+        "answer_text": "എഞ്ചിൻ ഓഫ് ചെയ്യാൻ ശ്രമിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-004",
-    "question_text": "Reflective triangles must be used when a vehicle with an unladen weight of more than two and a half tones is disabled:",
+    "question_text": "രണ്ടര ടണ്ണിൽ കൂടുതൽ ശൂന്യ ഭാരമുള്ള വാഹനം തകരാറിലാകുമ്പോൾ റിഫ്ലക്ടീവ് ത്രികോണങ്ങൾ ഉപയോഗിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-004-a",
-        "answer_text": "at anytime and there are no street lights for 200 meters."
+        "answer_text": "ഏത് സമയത്തും 200 മീറ്ററിൽ തെരുവ് വിളക്കുകൾ ഇല്ലെങ്കിൽ."
       },
       {
         "id": "rta-hvb-004-b",
-        "answer_text": "at night and not visible for 200 meters in any direction."
+        "answer_text": "രാത്രിയിൽ ഏത് ദിശയിലും 200 മീറ്ററിൽ കാണാൻ കഴിയാത്തപ്പോൾ."
       },
       {
         "id": "rta-hvb-004-c",
-        "answer_text": "at night and not visible in street lights for 200 meters and not showing all required lights, or within 100 meters if approaching drivers can't see the vehicle."
+        "answer_text": "രാത്രിയിൽ തെരുവ് വിളക്കുകളിൽ 200 മീറ്ററിൽ കാണാൻ കഴിയാതെ ആവശ്യമായ എല്ലാ ലൈറ്റുകളും കാണിക്കാതിരിക്കുമ്പോൾ, അല്ലെങ്കിൽ വരുന്ന ഡ്രൈവർമാർക്ക് വാഹനം കാണാൻ കഴിയാതിരിക്കുമ്പോൾ 100 മീറ്ററിനുള്ളിൽ."
       }
     ]
   },
   {
     "id": "rta-hvb-017",
-    "question_text": "In vehicles equipped with air brakes, braking begins:",
+    "question_text": "എയർ ബ്രേക്കുകൾ ഘടിപ്പിച്ച വാഹനങ്ങളിൽ, ബ്രേക്കിംഗ് ആരംഭിക്കുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-017-a",
-        "answer_text": "a short time after your foot presses the pedal."
+        "answer_text": "കാൽ പെഡൽ അമർത്തിയ കുറഞ്ഞ സമയത്തിന് ശേഷം."
       },
       {
         "id": "rta-hvb-017-b",
-        "answer_text": "as your foot presses the pedal."
+        "answer_text": "കാൽ പെഡൽ അമർത്തുന്നതോടെ."
       },
       {
         "id": "rta-hvb-017-c",
-        "answer_text": "only after full pressure is applied to the pedal."
+        "answer_text": "പെഡലിൽ പൂർണ്ണ മർദ്ദം പ്രയോഗിച്ചതിന് ശേഷം മാത്രം."
       }
     ]
   },
   {
     "id": "rta-hvb-018",
-    "question_text": "If you hold the steering wheel with one hand and the vehicle hits a curb or pot  hole this may:",
+    "question_text": "നിങ്ങൾ ഒരു കൈ കൊണ്ട് സ്റ്റിയറിംഗ് പിടിക്കുകയും വാഹനം ഒരു കർബ് അല്ലെങ്കിൽ കുഴിയിൽ ഇടിക്കുകയും ചെയ്‌താൽ ഇത് ഉണ്ടാകാം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-018-a",
-        "answer_text": "result to loss of control."
+        "answer_text": "നിയന്ത്രണം നഷ്ടപ്പെടൽ."
       },
       {
         "id": "rta-hvb-018-b",
-        "answer_text": "cause injury."
+        "answer_text": "പരിക്ക് പറ്റൽ."
       },
       {
         "id": "rta-hvb-018-c",
-        "answer_text": "damage the tires."
+        "answer_text": "ടയറുകൾക്ക് കേടുപാടുകൾ."
       }
     ]
   },
   {
     "id": "rta-hvb-019",
-    "question_text": "When turning a corner in an articulated vehicle, the trailer rear wheels follow:",
+    "question_text": "ആർട്ടിക്യുലേറ്റഡ് വാഹനത്തിൽ ഒരു കോണിൽ തിരിയുമ്പോൾ, ട്രെയ്‌ലറിന്റെ പിൻ ചക്രങ്ങൾ പിന്തുടരുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-019-a",
-        "answer_text": "a shorter path than the prime mover rear wheels."
+        "answer_text": "പ്രൈം മൂവറിന്റെ പിൻ ചക്രങ്ങളേക്കാൾ ചെറിയ പാത."
       },
       {
         "id": "rta-hvb-019-b",
-        "answer_text": "a longer path than the prime mover rear wheels."
+        "answer_text": "പ്രൈം മൂവറിന്റെ പിൻ ചക്രങ്ങളേക്കാൾ നീണ്ട പാത."
       },
       {
         "id": "rta-hvb-019-c",
-        "answer_text": "the same path as the prime mover rear wheels."
+        "answer_text": "പ്രൈം മൂവറിന്റെ പിൻ ചക്രങ്ങളുടേതുപോലെ അതേ പാത."
       }
     ]
   },
   {
     "id": "rta-hvb-020",
-    "question_text": "Two (2) types of brake systems usually being used on heavy vehicles:",
+    "question_text": "ഭാരമേറിയ വാഹനങ്ങളിൽ സാധാരണ ഉപയോഗിക്കുന്ന രണ്ട് (2) തരം ബ്രേക്ക് സിസ്റ്റങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-020-a",
-        "answer_text": "Air brakes and hydraulic brakes."
+        "answer_text": "എയർ ബ്രേക്കുകളും ഹൈഡ്രോളിക് ബ്രേക്കുകളും."
       },
       {
         "id": "rta-hvb-020-b",
-        "answer_text": "Air brakes and cable brakes."
+        "answer_text": "എയർ ബ്രേക്കുകളും കേബിൾ ബ്രേക്കുകളും."
       },
       {
         "id": "rta-hvb-020-c",
-        "answer_text": "Hydraulic brakes and cable brakes."
+        "answer_text": "ഹൈഡ്രോളിക് ബ്രേക്കുകളും കേബിൾ ബ്രേക്കുകളും."
       }
     ]
   },
   {
     "id": "rta-hvb-021",
-    "question_text": "With air brakes, it is wise to apply brake pressure:",
+    "question_text": "എയർ ബ്രേക്കുകൾ ഉള്ളപ്പോൾ, ബ്രേക്ക് മർദ്ദം പ്രയോഗിക്കുന്നത് ബുദ്ധിപരമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-021-a",
-        "answer_text": "earlier than with hydraulic brakes."
+        "answer_text": "ഹൈഡ്രോളിക് ബ്രേക്കുകളേക്കാൾ മുമ്പ്."
       },
       {
         "id": "rta-hvb-021-b",
-        "answer_text": "later than with hydraulic brakes."
+        "answer_text": "ഹൈഡ്രോളിക് ബ്രേക്കുകളേക്കാൾ വൈകി."
       },
       {
         "id": "rta-hvb-021-c",
-        "answer_text": "at the same time as with hydraulic brakes."
+        "answer_text": "ഹൈഡ്രോളിക് ബ്രേക്കുകളുടേതുപോലെ ഒരേ സമയം."
       }
     ]
   },
   {
     "id": "rta-hvb-022",
-    "question_text": "When carrying a light load, rather than a heavy load, a heavy vehicle takes:",
+    "question_text": "ഭാരമേറിയ ചരക്കിന് പകരം ഹൽക്കയായ ചരക്ക് വഹിക്കുമ്പോൾ, ഒരു ഭാരമേറിയ വാഹനം നിൽക്കാൻ എടുക്കുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-022-a",
-        "answer_text": "less distance to stop."
+        "answer_text": "കുറഞ്ഞ ദൂരം."
       },
       {
         "id": "rta-hvb-022-b",
-        "answer_text": "more distance to stop."
+        "answer_text": "കൂടുതൽ ദൂരം."
       },
       {
         "id": "rta-hvb-022-c",
-        "answer_text": "the same distance to stop."
+        "answer_text": "ഒരേ ദൂരം."
       }
     ]
   },
   {
     "id": "rta-hvb-026",
-    "question_text": "Is the handling of your heavy vehicle affected by its load?",
+    "question_text": "നിങ്ങളുടെ ഭാരമേറിയ വാഹനത്തിന്റെ ഹാൻഡ്‌ലിംഗ് അതിന്റെ ചരക്കിനാൽ ബാധിക്കപ്പെടുമോ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-026-a",
-        "answer_text": "No, not at all."
+        "answer_text": "ഇല്ല, ഒട്ടും ഇല്ല."
       },
       {
         "id": "rta-hvb-026-b",
-        "answer_text": "No, unless it is badly loaded."
+        "answer_text": "ഇല്ല, ചരക്ക് ശരിയായി ലോഡ് ചെയ്തില്ലെങ്കിലൊഴിച്ച്."
       },
       {
         "id": "rta-hvb-026-c",
-        "answer_text": "Yes, in all circumstances."
+        "answer_text": "അതെ, എല്ലാ സാഹചര്യങ്ങളിലും."
       }
     ]
   },
   {
     "id": "rta-hvb-057",
-    "question_text": "When loading a truck, the centre of gravity should be kept as low as possible. This is done by placing heavy items:",
+    "question_text": "ഒരു ട്രക്കിൽ ലോഡ് ചെയ്യുമ്പോൾ, ഗുരുത്വാകർഷണ കേന്ദ്രം കഴിവതും താഴ്ന്നതായി നിലനിർത്തണം. ഭാരമേറിയ വസ്തുക്കൾ ഇവിടെ വയ്ക്കുന്നതിലൂടെ ഇത് ചെയ്യുന്നു:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-057-a",
-        "answer_text": "on each side of the vehicle."
+        "answer_text": "വാഹനത്തിന്റെ ഇരുവശത്തും."
       },
       {
         "id": "rta-hvb-057-b",
-        "answer_text": "at the back of the load."
+        "answer_text": "ലോഡിന്റെ പിൻഭാഗത്ത്."
       },
       {
         "id": "rta-hvb-057-c",
-        "answer_text": "at the bottom of the load."
+        "answer_text": "ലോഡിന്റെ അടിഭാഗത്ത്."
       }
     ]
   },
   {
     "id": "rta-hvb-058",
-    "question_text": "To keep the centre of gravity of a load low, you should place:",
+    "question_text": "ലോഡിന്റെ ഗുരുത്വാകർഷണ കേന്ദ്രം താഴ്ന്നതായി നിലനിർത്താൻ, നിങ്ങൾ ഇനിപ്പറയുന്നവ വയ്ക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-058-a",
-        "answer_text": "heavy items at the back of the load."
+        "answer_text": "ലോഡിന്റെ പിൻഭാഗത്ത് ഭാരമേറിയ വസ്തുക്കൾ."
       },
       {
         "id": "rta-hvb-058-b",
-        "answer_text": "heavy items at the bottom of the load."
+        "answer_text": "ലോഡിന്റെ അടിഭാഗത്ത് ഭാരമേറിയ വസ്തുക്കൾ."
       },
       {
         "id": "rta-hvb-058-c",
-        "answer_text": "light items at the back of the load."
+        "answer_text": "ലോഡിന്റെ പിൻഭാഗത്ത് ഭാരം കുറഞ്ഞ വസ്തുക്കൾ."
       }
     ]
   },
   {
     "id": "rta-hvb-060",
-    "question_text": "The maximum height of a vehicle and its load is measured from:",
+    "question_text": "ഒരു വാഹനത്തിന്റെയും അതിന്റെ ലോഡിന്റെയും പരമാവധി ഉയരം അളക്കുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-060-a",
-        "answer_text": "the top of the trailer tray."
+        "answer_text": "ട്രെയിലർ ട്രേയുടെ മുകളിൽ നിന്ന്."
       },
       {
         "id": "rta-hvb-060-b",
-        "answer_text": "the ground."
+        "answer_text": "നിലത്തിൽ നിന്ന്."
       },
       {
         "id": "rta-hvb-060-c",
-        "answer_text": "the rear axle."
+        "answer_text": "പിൻ ആക്‌സിൽ നിന്ന്."
       }
     ]
   },
   {
     "id": "rta-hvb-061",
-    "question_text": "When loading a heavy vehicle, you must keep within:",
+    "question_text": "ഒരു ഹെവി വെഹിക്കിൾ ലോഡ് ചെയ്യുമ്പോൾ, നിങ്ങൾ ഇനിപ്പറയുന്ന പരിധിക്കുള്ളിൽ നിലനിർത്തണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-061-a",
-        "answer_text": "vehicle height and length limits only."
+        "answer_text": "വാഹനത്തിന്റെ ഉയരവും നീളവും മാത്രം."
       },
       {
         "id": "rta-hvb-061-b",
-        "answer_text": "vehicle wheel and axle load limits only."
+        "answer_text": "വാഹനത്തിന്റെ ചക്രവും ആക്‌സിൽ ഭാര പരിധിയും മാത്രം."
       },
       {
         "id": "rta-hvb-061-c",
-        "answer_text": "all vehicle specification limits."
+        "answer_text": "എല്ലാ വാഹന സ്പെസിഫിക്കേഷൻ പരിധികളും."
       }
     ]
   },
   {
     "id": "rta-hvb-063",
-    "question_text": "When you are unhooking a trailer from a prime mover, support the trailer by lowering the landing gear until the wheels:",
+    "question_text": "ഒരു പ്രൈം മൂവറിൽ നിന്ന് ട്രെയിലർ ഊരി മാറ്റുമ്പോൾ, ചക്രങ്ങൾ ഇനിപ്പറയുന്ന അവസ്ഥ വരെ ലാൻഡിംഗ് ഗിയർ താഴ്ത്തി ട്രെയിലർ താങ്ങുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-063-a",
-        "answer_text": "just touch the ground."
+        "answer_text": "നിലം ഇപ്പോൾ തൊടുന്ന വരെ."
       },
       {
         "id": "rta-hvb-063-b",
-        "answer_text": "have touched the ground and the prime mover stops rising."
+        "answer_text": "നിലം തൊടുകയും പ്രൈം മൂവർ ഉയരുന്നത് നിർത്തുകയും ചെയ്യുന്ന വരെ."
       },
       {
         "id": "rta-hvb-063-c",
-        "answer_text": "have touched the ground and the trailer stops rising."
+        "answer_text": "നിലം തൊടുകയും ട്രെയിലർ ഉയരുന്നത് നിർത്തുകയും ചെയ്യുന്ന വരെ."
       }
     ]
   },
   {
     "id": "rta-hvb-064",
-    "question_text": "When hooking up a prime mover to a trailer, check that they are properly joined by:",
+    "question_text": "ഒരു പ്രൈം മൂവർ ട്രെയിലറുമായി ബന്ധിപ്പിക്കുമ്പോൾ, ഇനിപ്പറയുന്ന രീതിയിൽ ശരിയായി ബന്ധിച്ചിട്ടുണ്ടെന്ന് പരിശോധിക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-064-a",
-        "answer_text": "making a slow tight turn."
+        "answer_text": "സാവധാനം ഒരു ഇടുങ്ങിയ തിരിവ് നടത്തുന്നതിലൂടെ."
       },
       {
         "id": "rta-hvb-064-b",
-        "answer_text": "looking under the trailer and checking that the jaws on the turntable have gone around the shaft."
+        "answer_text": "ട്രെയിലറിന്റെ അടിയിൽ നോക്കി ടേൺടേബിളിന്റെ ജ്ഞോ ഷാഫ്റ്റിന് ചുറ്റും ആണോ എന്ന് പരിശോധിക്കുന്നതിലൂടെ."
       },
       {
         "id": "rta-hvb-064-c",
-        "answer_text": "moving the whole vehicle slowly backwards and listening for unusual noises."
+        "answer_text": "മുഴുവൻ വാഹനവും സാവധാനം പിന്നോട്ടോടിച്ച് അസാധാരണ ശബ്ദങ്ങൾ ശ്രദ്ധിക്കുന്നതിലൂടെ."
       }
     ]
   },
   {
     "id": "rta-hvb-065",
-    "question_text": "The trailer brakes should always be used:",
+    "question_text": "ട്രെയിലർ ബ്രേക്കുകൾ എല്ലായ്‌പ്പോഴും ഉപയോഗിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-065-a",
-        "answer_text": "to keep the trailer stationary when coupling or uncoupling."
+        "answer_text": "കപ്പിൾ ചെയ്യുകയോ വേർപ്പെടുത്തുകയോ ചെയ്യുമ്പോൾ ട്രെയിലർ നിശ്ചലമായി നിലകൊള്ളാൻ."
       },
       {
         "id": "rta-hvb-065-b",
-        "answer_text": "to prevent a jack-knife."
+        "answer_text": "ജാക്ക്-നൈഫ് തടയാൻ."
       },
       {
         "id": "rta-hvb-065-c",
-        "answer_text": "before using the foot brake on downhill slopes."
+        "answer_text": "ഇറക്കത്തിൽ ഫുട്ട് ബ്രേക്ക് ഉപയോഗിക്കുന്നതിന് മുമ്പ്."
       }
     ]
   },
   {
     "id": "rta-hvb-066",
-    "question_text": "When uncoupling, first move the prime mover from the trailer:",
+    "question_text": "വേർപ്പെടുത്തുമ്പോൾ, ആദ്യം ട്രെയിലറിൽ നിന്ന് പ്രൈം മൂവർ മാറ്റുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-066-a",
-        "answer_text": "by moving in a straight line until the prime mover is clear of the trailer."
+        "answer_text": "പ്രൈം മൂവർ ട്രെയിലറിൽ നിന്ന് വ്യക്തമാകുന്ന വരെ നേർരേഖയിൽ മുന്നോട്ട് നീക്കുന്നതിലൂടെ."
       },
       {
         "id": "rta-hvb-066-b",
-        "answer_text": "no further than the air lines and electrical cables will reach."
+        "answer_text": "എയർ ലൈനുകളും ഇലക്ട്രിക്കൽ കേബിളുകളും എത്തുന്ന ദൂരത്തിനപ്പുറം നീക്കരുത്."
       },
       {
         "id": "rta-hvb-066-c",
-        "answer_text": "by moving the prime mover forward until the turntable begins to clear the semi-trailer skid plate."
+        "answer_text": "ടേൺടേബിൾ സെമി-ട്രെയിലർ സ്കിഡ് പ്ലേറ്റ് ക്ലിയർ ചെയ്യാൻ തുടങ്ങുന്ന വരെ പ്രൈം മൂവർ മുന്നോട്ട് നീക്കുന്നതിലൂടെ."
       }
     ]
   },
   {
     "id": "rta-hvb-068",
-    "question_text": "When you are hooking up to a semi-trailer, you should line up using your:",
+    "question_text": "നിങ്ങൾ ഒരു സെമി-ട്രെയിലറുമായി ബന്ധിപ്പിക്കുമ്പോൾ, ഇനിപ്പറയുന്നവ ഉപയോഗിച്ച് വരിയിലാക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-068-a",
-        "answer_text": "left mirror and right rear wheel of the prime mover and the right edge of the trailer."
+        "answer_text": "ഇടത് കണ്ണാടിയും പ്രൈം മൂവറിന്റെ വലത് പിൻ ചക്രവും ട്രെയിലറിന്റെ വലത് അരികും."
       },
       {
         "id": "rta-hvb-068-b",
-        "answer_text": "both mirrors and both rear wheels of the prime mover and both edges of the trailer."
+        "answer_text": "ഇരു കണ്ണാടികളും പ്രൈം മൂവറിന്റെ ഇരു പിൻ ചക്രങ്ങളും ട്രെയിലറിന്റെ ഇരു വശങ്ങളും."
       },
       {
         "id": "rta-hvb-068-c",
-        "answer_text": "left mirror and left rear wheel of the prime mover and the left edge of the trailer."
+        "answer_text": "ഇടത് കണ്ണാടിയും പ്രൈം മൂവറിന്റെ ഇടത് പിൻ ചക്രവും ട്രെയിലറിന്റെ ഇടത് അരികും."
       }
     ]
   },
   {
     "id": "rta-hvb-069",
-    "question_text": "The coupling mechanism should be checked:",
+    "question_text": "കപ്ലിംഗ് മെക്കാനിസം പരിശോധിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-069-a",
-        "answer_text": "for damage."
+        "answer_text": "കേടുപാടുകൾക്ക്."
       },
       {
         "id": "rta-hvb-069-b",
-        "answer_text": "to see that it fits together correctly."
+        "answer_text": "അത് ശരിയായി ഒന്നിച്ചു യോജിക്കുന്നുണ്ടോ എന്ന് കാണാൻ."
       },
       {
         "id": "rta-hvb-069-c",
-        "answer_text": "both of these."
+        "answer_text": "ഇവ രണ്ടും."
       }
     ]
   },
   {
     "id": "rta-hvb-070",
-    "question_text": "When coupling a prime mover to a trailer, the brake lines should be checked for:",
+    "question_text": "പ്രൈം മൂവർ ട്രെയിലറുമായി ഘടിപ്പിക്കുമ്പോൾ, ബ്രേക്ക് ലൈനുകൾ പരിശോധിക്കേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-070-a",
-        "answer_text": "length for tight turns."
+        "answer_text": "ഇടുങ്ങിയ തിരിവുകൾക്കായി നീളം."
       },
       {
         "id": "rta-hvb-070-b",
-        "answer_text": "height above the ground."
+        "answer_text": "നിലത്തു നിന്നുള്ള ഉയരം."
       },
       {
         "id": "rta-hvb-070-c",
-        "answer_text": "clearance from the rear wheels."
+        "answer_text": "പിൻ ചക്രങ്ങളിൽ നിന്നുള്ള അകലം."
       }
     ]
   },
   {
     "id": "rta-hvb-071",
-    "question_text": "When inspecting coupling equipment you should:",
+    "question_text": "കപ്ലിംഗ് ഉപകരണങ്ങൾ പരിശോധിക്കുമ്പോൾ നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-071-a",
-        "answer_text": "not go under the nose of the semi-trailer, until it is supported by the prime mover."
+        "answer_text": "പ്രൈം മൂവർ സഹായം ലഭിക്കുന്നതുവരെ സെമി-ട്രെയിലറിന്റെ മൂക്കിന് കീഴിൽ പോകരുത്."
       },
       {
         "id": "rta-hvb-071-b",
-        "answer_text": "go under the nose of the semi-trailer only if the wheels are chocked."
+        "answer_text": "ചക്രങ്ങൾ ചോക്ക് ചെയ്തിരിക്കുമ്പോൾ മാത്രം സെമി-ട്രെയിലറിന്റെ മൂക്കിന് കീഴിൽ പോകാം."
       },
       {
         "id": "rta-hvb-071-c",
-        "answer_text": "only go under the nose of the semi-trailer to inspect the landing gear."
+        "answer_text": "ലാൻഡിംഗ് ഗിയർ പരിശോധിക്കാൻ മാത്രം സെമി-ട്രെയിലറിന്റെ മൂക്കിന് കീഴിൽ പോകുക."
       }
     ]
   },
   {
     "id": "rta-hvb-086",
-    "question_text": "When driving a loaded truck, these items must not be covered:",
+    "question_text": "ചരക്ക് നിറഞ്ഞ ട്രക്ക് ഓടിക്കുമ്പോൾ, ഈ വസ്തുക്കൾ മറക്കാൻ പാടില്ല:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-086-a",
-        "answer_text": "light, medium and heavy loads."
+        "answer_text": "ഭാരം കുറഞ്ഞ, ഇടത്തരം, ഭാരമുള്ള ചരക്ക്."
       },
       {
         "id": "rta-hvb-086-b",
-        "answer_text": "tarpaulins and lashings."
+        "answer_text": "ടാർപ്പോളിനും കയറും."
       },
       {
         "id": "rta-hvb-086-c",
-        "answer_text": "lights, plate number, mirrors."
+        "answer_text": "ലൈറ്റുകൾ, നമ്പർ പ്ലേറ്റ്, കണ്ണാടികൾ."
       }
     ]
   },
   {
     "id": "rta-hvb-089",
-    "question_text": "To maintain stability of load, heavy items should be placed at:",
+    "question_text": "ചരക്കിന്റെ സ്ഥിരത നിലനിർത്താൻ, ഭാരമേറിയ വസ്തുക്കൾ സ്ഥാപിക്കേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-089-a",
-        "answer_text": "the front side of the vehicle."
+        "answer_text": "വാഹനത്തിന്റെ മുൻഭാഗത്ത്."
       },
       {
         "id": "rta-hvb-089-b",
-        "answer_text": "the center line of the vehicle."
+        "answer_text": "വാഹനത്തിന്റെ മധ്യരേഖയിൽ."
       },
       {
         "id": "rta-hvb-089-c",
-        "answer_text": "to the rear side of the vehicle."
+        "answer_text": "വാഹനത്തിന്റെ പിൻഭാഗത്ത്."
       }
     ]
   },
   {
     "id": "rta-hvb-092",
-    "question_text": "In most heavy  vehicles, brake operate:",
+    "question_text": "മിക്ക ഭാരവാഹനങ്ങളിലും, ബ്രേക്ക് പ്രവർത്തിക്കുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-092-a",
-        "answer_text": "more efficiently when loaded."
+        "answer_text": "ചരക്ക് ഉള്ളപ്പോൾ കൂടുതൽ ഫലപ്രദമായി."
       },
       {
         "id": "rta-hvb-092-b",
-        "answer_text": "less efficiently when loaded."
+        "answer_text": "ചരക്ക് ഉള്ളപ്പോൾ കുറഞ്ഞ ഫലപ്രദമായി."
       },
       {
         "id": "rta-hvb-092-c",
-        "answer_text": "the same way whether loaded or not loaded."
+        "answer_text": "ചരക്ക് ഉണ്ടോ ഇല്ലയോ, ഒരേ രീതിയിൽ."
       }
     ]
   },
   {
     "id": "rta-hvb-094",
-    "question_text": "Changing gears at the wrong engine speed can:",
+    "question_text": "തെറ്റായ എഞ്ചിൻ വേഗതയിൽ ഗിയർ മാറ്റുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-094-a",
-        "answer_text": "damage the transmission."
+        "answer_text": "ട്രാൻസ്മിഷനെ കേടുപ്പെടുത്തിയേക്കാം."
       },
       {
         "id": "rta-hvb-094-b",
-        "answer_text": "damage the engine."
+        "answer_text": "എഞ്ചിനെ കേടുപ്പെടുത്തിയേക്കാം."
       },
       {
         "id": "rta-hvb-094-c",
-        "answer_text": "damage the clutch."
+        "answer_text": "ക്ലച്ചിനെ കേടുപ്പെടുത്തിയേക്കാം."
       }
     ]
   },
   {
     "id": "rta-hvb-095",
-    "question_text": "Changing gears without clutching properly will also:",
+    "question_text": "ക്ലച്ച് ശരിയായി ഉപയോഗിക്കാതെ ഗിയർ മാറ്റുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-095-a",
-        "answer_text": "damage the transmission."
+        "answer_text": "ട്രാൻസ്മിഷനെ കേടുപ്പെടുത്തിയേക്കാം."
       },
       {
         "id": "rta-hvb-095-b",
-        "answer_text": "damage the engine."
+        "answer_text": "എഞ്ചിനെ കേടുപ്പെടുത്തിയേക്കാം."
       },
       {
         "id": "rta-hvb-095-c",
-        "answer_text": "damage the clutch."
+        "answer_text": "ക്ലച്ചിനെ കേടുപ്പെടുത്തിയേക്കാം."
       }
     ]
   },
   {
     "id": "rta-hvb-096",
-    "question_text": "There are the two ways to know when to change gears. These are:",
+    "question_text": "ഗിയർ എപ്പോൾ മാറ്റണമെന്ന് അറിയാൻ രണ്ട് വഴികൾ ഉണ്ട്. ഇവ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-096-a",
-        "answer_text": "speed and load of the vehicle."
+        "answer_text": "വാഹനത്തിന്റെ വേഗതയും ഭാരവും."
       },
       {
         "id": "rta-hvb-096-b",
-        "answer_text": "speed and sound of engine."
+        "answer_text": "വേഗതയും എഞ്ചിൻ ശബ്ദവും."
       },
       {
         "id": "rta-hvb-096-c",
-        "answer_text": "sound and speed of clutch."
+        "answer_text": "ക്ലച്ചിന്റെ ശബ്ദവും വേഗതയും."
       }
     ]
   },
   {
     "id": "rta-hvb-114",
-    "question_text": "When fighting heavy vehicles fire, 3 very important actions to remember:",
+    "question_text": "ഭാരമുള്ള വാഹനങ്ങളിലെ തീ കെടുത്തുമ്പോൾ ഓർക്കേണ്ട 3 പ്രധാന നടപടികൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-114-a",
-        "answer_text": "pull off the road, stop the engine, use correct fire extinguisher."
+        "answer_text": "റോഡിൽ നിന്ന് മാറി നിർത്തുക, എഞ്ചിൻ ഓഫ് ചെയ്യുക, ശരിയായ അഗ്നിശമന ഉപകരണം ഉപയോഗിക്കുക."
       },
       {
         "id": "rta-hvb-114-b",
-        "answer_text": "stop the engine, isolate battery, remove the load."
+        "answer_text": "എഞ്ചിൻ ഓഫ് ചെയ്യുക, ബാറ്ററി വേർപ്പെടുത്തുക, ചരക്ക് നീക്കം ചെയ്യുക."
       },
       {
         "id": "rta-hvb-114-c",
-        "answer_text": "pull off the road, notify emergency service, bring plenty of water."
+        "answer_text": "റോഡിൽ നിന്ന് മാറി നിർത്തുക, അടിയന്തര സേവനത്തെ അറിയിക്കുക, ധാരാളം വെള്ളം കൊണ്ടുവരുക."
       }
     ]
   },
   {
     "id": "rta-hvb-122",
-    "question_text": "Bus drivers need to drive more smoothly compared to truck drivers because:",
+    "question_text": "ബസ് ഡ്രൈവർമാർ ട്രക്ക് ഡ്രൈവർമാരെ അപേക്ഷിച്ച് കൂടുതൽ സുഗമമായി ഓടിക്കണം കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-122-a",
-        "answer_text": "bus load is made up of people."
+        "answer_text": "ബസ്സിന്റെ ഭാരം ആളുകൾ കൊണ്ടാണ്."
       },
       {
         "id": "rta-hvb-122-b",
-        "answer_text": "it is required by the company."
+        "answer_text": "കമ്പനി ഇത് നിർബന്ധമാക്കിയിരിക്കുന്നു."
       },
       {
         "id": "rta-hvb-122-c",
-        "answer_text": "buses stop frequently."
+        "answer_text": "ബസ്സുകൾ ഇടയ്ക്കിടെ നിർത്തുന്നു."
       }
     ]
   },
   {
     "id": "rta-hvb-140",
-    "question_text": "How can you make sure your foot can freely operate the brake pedals when driving?",
+    "question_text": "ഓടിക്കുമ്പോൾ നിങ്ങളുടെ കാൽ ബ്രേക്ക് പെഡൽ സ്വതന്ത്രമായി പ്രവർത്തിപ്പിക്കാൻ കഴിയുമെന്ന് എങ്ങനെ ഉറപ്പുവരുത്താം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-140-a",
-        "answer_text": "Perform pre-drive checks outside the vehicle"
+        "answer_text": "വാഹനത്തിന് പുറത്ത് ഡ്രൈവ്-മുൻ പരിശോധനകൾ നടത്തുക"
       },
       {
         "id": "rta-hvb-140-b",
-        "answer_text": "Clear the floor or cabin of any loose things"
+        "answer_text": "തറ അല്ലെങ്കിൽ കാബിനിൽ ഉള്ള അഴഞ്ഞ സാധനങ്ങൾ നീക്കം ചെയ്യുക"
       },
       {
         "id": "rta-hvb-140-c",
-        "answer_text": "Check the engine oil level"
+        "answer_text": "എഞ്ചിൻ ഓയിൽ നില പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-145",
-    "question_text": "If there is a need to change wheels by the road, what precautions should be taken?",
+    "question_text": "റോഡരികിൽ ടയർ മാറ്റേണ്ടി വന്നാൽ എന്ത് മുൻകരുതലുകൾ എടുക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-145-a",
-        "answer_text": "Switch on head lights"
+        "answer_text": "ഹെഡ്‌ലൈറ്റുകൾ ഓൺ ചെയ്യുക"
       },
       {
         "id": "rta-hvb-145-b",
-        "answer_text": "Use the horn and reflective vest"
+        "answer_text": "ഹോണും പ്രതിഫലന വേഷ്ടിയും ഉപയോഗിക്കുക"
       },
       {
         "id": "rta-hvb-145-c",
-        "answer_text": "Use hazards warning lights and warning triangles"
+        "answer_text": "ഹാസർഡ് വാർണിങ് ലൈറ്റുകളും വാർണിങ് ത്രികോണങ്ങളും ഉപയോഗിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-147",
-    "question_text": "Why is it important to conduct daily pre-trip inspections of your vehicle?",
+    "question_text": "ദൈനംദിന യാത്രാ മുൻ വാഹന പരിശോധന നടത്തുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-147-a",
-        "answer_text": "Keeping the vehicle clean and tidy"
+        "answer_text": "വാഹനം വൃത്തിയായും ചിട്ടയായും സൂക്ഷിക്കാൻ"
       },
       {
         "id": "rta-hvb-147-b",
-        "answer_text": "Keeping your vehicle in good condition"
+        "answer_text": "നിങ്ങളുടെ വാഹനം നല്ല അവസ്ഥയിൽ സൂക്ഷിക്കാൻ"
       },
       {
         "id": "rta-hvb-147-c",
-        "answer_text": "Ensuring the lights are working properly"
+        "answer_text": "ലൈറ്റുകൾ ശരിയായി പ്രവർത്തിക്കുന്നുണ്ടെന്ന് ഉറപ്പുവരുത്താൻ"
       }
     ]
   },
   {
     "id": "rta-hvb-150",
-    "question_text": "As you will be driving through low bridges, what should you check?",
+    "question_text": "നിങ്ങൾ താഴ്ന്ന പാലങ്ങളിലൂടെ ഓടിക്കും, അതിനാൽ എന്ത് പരിശോധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-150-a",
-        "answer_text": "Load Security"
+        "answer_text": "ചരക്ക് സുരക്ഷ"
       },
       {
         "id": "rta-hvb-150-b",
-        "answer_text": "Load Height"
+        "answer_text": "ചരക്കിന്റെ ഉയരം"
       },
       {
         "id": "rta-hvb-150-c",
-        "answer_text": "Vehicle Damage"
+        "answer_text": "വാഹനത്തിന്റെ നാശം"
       }
     ]
   },
   {
     "id": "rta-hvb-156",
-    "question_text": "If you are checking the fluid levels, you should check for crank case oil, radiator coolant as well as;",
+    "question_text": "ദ്രവ നിലകൾ പരിശോധിക്കുമ്പോൾ ക്രാങ്ക് കേസ് ഓയിൽ, റേഡിയേറ്റർ കൂളന്റ് എന്നിവയ്‌ക്കൊപ്പം ഏത് പരിശോധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-156-a",
-        "answer_text": "Power steering and lighter fluids"
+        "answer_text": "പവർ സ്റ്റിയറിങ്, ലൈറ്റർ ദ്രവങ്ങൾ"
       },
       {
         "id": "rta-hvb-156-b",
-        "answer_text": "Battery and windscreen washer fluids"
+        "answer_text": "ബാറ്ററി, വിൻഡ്‌സ്‌ക്രീൻ വാഷർ ദ്രവങ്ങൾ"
       },
       {
         "id": "rta-hvb-156-c",
-        "answer_text": "Automatic transmission and belt fluids"
+        "answer_text": "ഓട്ടോമാറ്റിക് ട്രാൻസ്മിഷൻ, ബെൽറ്റ് ദ്രവങ്ങൾ"
       }
     ]
   },
   {
     "id": "rta-hvb-159",
-    "question_text": "You want to adjust a pulley that is loosely connected, how would you adjust it correctly?",
+    "question_text": "അഴഞ്ഞ ഒരു പുള്ളി ശരിയാക്കണം, അത് ശരിയായ രീതിയിൽ എങ്ങനെ ക്രമീകരിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-159-a",
-        "answer_text": "Adjust it according to your liking"
+        "answer_text": "നിങ്ങളുടെ ഇഷ്ടം പോലെ ക്രമീകരിക്കുക"
       },
       {
         "id": "rta-hvb-159-b",
-        "answer_text": "Compare with that of the other vehicle"
+        "answer_text": "മറ്റ് വാഹനത്തിന്റെ പുള്ളിയുമായി താരതമ്യം ചെയ്യുക"
       },
       {
         "id": "rta-hvb-159-c",
-        "answer_text": "Check the manufacturer's handbook"
+        "answer_text": "നിർമ്മാതാവിന്റെ ഹാൻഡ്ബുക്ക് പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-160",
-    "question_text": "Some of the important emergency and safety equipment to be considered during pre-trip inspection are:",
+    "question_text": "യാത്രാ-പൂർവ പരിശോധനയ്ക്കിടെ പരിഗണിക്കേണ്ട ചില പ്രധാന അടിയന്തര, സുരക്ഷാ ഉപകരണങ്ങൾ ഇവയാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-160-a",
-        "answer_text": "Seatbelts, fully charged fire extinguishers, reflective triangles"
+        "answer_text": "സീറ്റ്ബെൽറ്റുകൾ, പൂർണ്ണമായി ചാർജ് ചെയ്ത അഗ്നിശമന ഉപകരണങ്ങൾ, പ്രതിഫലന ത്രികോണങ്ങൾ"
       },
       {
         "id": "rta-hvb-160-b",
-        "answer_text": "Drinking water, spare fuses, seatbelts"
+        "answer_text": "കുടിവെള്ളം, സ്പെയർ ഫ്യൂസുകൾ, സീറ്റ്ബെൽറ്റുകൾ"
       },
       {
         "id": "rta-hvb-160-c",
-        "answer_text": "Fire extinguishers, first aid kit, battery"
+        "answer_text": "അഗ്നിശമന ഉപകരണങ്ങൾ, പ്രഥമ ചികിത്സ കിറ്റ്, ബാറ്ററി"
       }
     ]
   },
   {
     "id": "rta-hvb-161",
-    "question_text": "The primary controls that need to be checked for proper working conditions are;",
+    "question_text": "ശരിയായ പ്രവർത്തന അവസ്ഥകൾക്കായി പരിശോധിക്കേണ്ട പ്രാഥമിക നിയന്ത്രണങ്ങൾ ഇവയാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-161-a",
-        "answer_text": "Accelerator, horn and dashboard lights"
+        "answer_text": "ആക്സിലറേറ്റർ, ഹോൺ, ഡാഷ്ബോർഡ് ലൈറ്റുകൾ"
       },
       {
         "id": "rta-hvb-161-b",
-        "answer_text": "Steering wheel, brakes, clutch and accelerator"
+        "answer_text": "സ്റ്റിയറിങ് വീൽ, ബ്രേക്കുകൾ, ക്ലച്ച്, ആക്സിലറേറ്റർ"
       },
       {
         "id": "rta-hvb-161-c",
-        "answer_text": "Brake lights, reflectors and steering wheel"
+        "answer_text": "ബ്രേക്ക് ലൈറ്റുകൾ, പ്രതിഫലകങ്ങൾ, സ്റ്റിയറിങ് വീൽ"
       }
     ]
   },
   {
     "id": "rta-hvb-163",
-    "question_text": "How do you check if the clutch is working properly?",
+    "question_text": "ക്ലച്ച് ശരിയായി പ്രവർത്തിക്കുന്നുണ്ടോ എന്ന് നിങ്ങൾ എങ്ങനെ പരിശോധിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-163-a",
-        "answer_text": "Press and feel no resistance at all"
+        "answer_text": "അമർത്തുക, യാതൊരു പ്രതിരോധവും അനുഭവപ്പെടരുത്"
       },
       {
         "id": "rta-hvb-163-b",
-        "answer_text": "Press until you feel a slight resistance"
+        "answer_text": "നേരിയ പ്രതിരോധം അനുഭവപ്പെടുന്നതുവരെ അമർത്തുക"
       },
       {
         "id": "rta-hvb-163-c",
-        "answer_text": "Press and feel hard resistance"
+        "answer_text": "അമർത്തുക, കഠിനമായ പ്രതിരോധം അനുഭവപ്പെടുക"
       }
     ]
   },
   {
     "id": "rta-hvb-164",
-    "question_text": "When checking your heavy vehicle with air brakes, what should you check for?",
+    "question_text": "എയർ ബ്രേക്കുകളുള്ള നിങ്ങളുടെ ഭാരമേറിയ വാഹനം പരിശോധിക്കുമ്പോൾ, നിങ്ങൾ എന്ത് പരിശോധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-164-a",
-        "answer_text": "Air intake filter is not clogged"
+        "answer_text": "എയർ ഇൻടേക്ക് ഫിൽറ്റർ അടഞ്ഞിട്ടില്ലെന്ന്"
       },
       {
         "id": "rta-hvb-164-b",
-        "answer_text": "Exhaust pipe is not clogged"
+        "answer_text": "എക്സ്ഹോസ്റ്റ് പൈപ്പ് അടഞ്ഞിട്ടില്ലെന്ന്"
       },
       {
         "id": "rta-hvb-164-c",
-        "answer_text": "Air escapes when brake pedal is depressed"
+        "answer_text": "ബ്രേക്ക് പെഡൽ ചവിട്ടുമ്പോൾ വായു പുറത്തുവരുന്നു"
       }
     ]
   },
   {
     "id": "rta-hvb-165",
-    "question_text": "After turning the engine on, the gauge should show steady increase in air pressure. It should take;",
+    "question_text": "എൻജിൻ ഓൺ ചെയ്ത ശേഷം, ഗേജ് വായു മർദ്ദത്തിൽ ക്രമാനുഗതമായ വർദ്ധനവ് കാണിക്കണം. ഇതിന് എടുക്കേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-165-a",
-        "answer_text": "Less than one minute"
+        "answer_text": "ഒരു മിനിറ്റിൽ കുറവ്"
       },
       {
         "id": "rta-hvb-165-b",
-        "answer_text": "Less than 5 minutes"
+        "answer_text": "5 മിനിറ്റിൽ കുറവ്"
       },
       {
         "id": "rta-hvb-165-c",
-        "answer_text": "Less than 3 minutes"
+        "answer_text": "3 മിനിറ്റിൽ കുറവ്"
       }
     ]
   },
   {
     "id": "rta-hvb-166",
-    "question_text": "When clearing the air intake filter of air brakes and some oil that comes out, there is possible problem with;",
+    "question_text": "എയർ ബ്രേക്കിന്റെ എയർ ഇൻടേക്ക് ഫിൽറ്റർ വൃത്തിയാക്കുമ്പോൾ കുറച്ച് എണ്ണ പുറത്തുവന്നാൽ, സാധ്യമായ പ്രശ്നം ഇതിലാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-166-a",
-        "answer_text": "Engine"
+        "answer_text": "എൻജിൻ"
       },
       {
         "id": "rta-hvb-166-b",
-        "answer_text": "Compressor"
+        "answer_text": "കംപ്രസ്സർ"
       },
       {
         "id": "rta-hvb-166-c",
-        "answer_text": "Brake pedal"
+        "answer_text": "ബ്രേക്ക് പെഡൽ"
       }
     ]
   },
   {
     "id": "rta-hvb-167",
-    "question_text": "What is the main benefit for conducting a pre-trip inspection?",
+    "question_text": "യാത്രാ-പൂർവ പരിശോധന നടത്തുന്നതിന്റെ പ്രധാന നേട്ടം എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-167-a",
-        "answer_text": "Keeping Your Vehicle in Good Condition"
+        "answer_text": "നിങ്ങളുടെ വാഹനം നല്ല അവസ്ഥയിൽ സൂക്ഷിക്കുക"
       },
       {
         "id": "rta-hvb-167-b",
-        "answer_text": "Keeping healthy diet"
+        "answer_text": "ആരോഗ്യകരമായ ഭക്ഷണക്രമം നിലനിർത്തുക"
       },
       {
         "id": "rta-hvb-167-c",
-        "answer_text": "Ensuring the engine is working properly"
+        "answer_text": "എൻജിൻ ശരിയായി പ്രവർത്തിക്കുന്നുണ്ടെന്ന് ഉറപ്പാക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-168",
-    "question_text": "To check the brake of the trailer, apply trailer brakes only and try to move forward gently. The vehicle;",
+    "question_text": "ട്രെയിലറിന്റെ ബ്രേക്ക് പരിശോധിക്കാൻ, ട്രെയിലർ ബ്രേക്കുകൾ മാത്രം പ്രയോഗിച്ച് പതുക്കെ മുന്നോട്ട് പോകാൻ ശ്രമിക്കുക. വാഹനം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-168-a",
-        "answer_text": "Must hold for second and then move"
+        "answer_text": "ഒരു സെക്കൻഡ് നിൽക്കണം, പിന്നീട് നീങ്ങണം"
       },
       {
         "id": "rta-hvb-168-b",
-        "answer_text": "Should not move"
+        "answer_text": "നീങ്ങരുത്"
       },
       {
         "id": "rta-hvb-168-c",
-        "answer_text": "Should move just a little"
+        "answer_text": "അൽപ്പം നീങ്ങണം"
       }
     ]
   },
   {
     "id": "rta-hvb-169",
-    "question_text": "For vehicles with hydraulic brakes, what must you do before driving the vehicle?",
+    "question_text": "ഹൈഡ്രോളിക് ബ്രേക്കുകളുള്ള വാഹനങ്ങൾക്ക്, വാഹനം ഓടിക്കുന്നതിന് മുൻപ് നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-169-a",
-        "answer_text": "Must ensure there is no leak in the system"
+        "answer_text": "സിസ്റ്റത്തിൽ ചോർച്ചയില്ലെന്ന് ഉറപ്പാക്കണം"
       },
       {
         "id": "rta-hvb-169-b",
-        "answer_text": "Have a qualified mechanic check the vehicle before driving"
+        "answer_text": "ഓടിക്കുന്നതിന് മുൻപ് ഒരു യോഗ്യതയുള്ള മെക്കാനിക്ക് വാഹനം പരിശോധിക്കട്ടെ"
       },
       {
         "id": "rta-hvb-169-c",
-        "answer_text": "Must ensure wipers are working properly"
+        "answer_text": "വൈപ്പറുകൾ ശരിയായി പ്രവർത്തിക്കുന്നുണ്ടെന്ന് ഉറപ്പാക്കണം"
       }
     ]
   },
   {
     "id": "rta-hvb-172",
-    "question_text": "How will you check for slack in the coupling of semi trailer and prime mover?",
+    "question_text": "സെമി ട്രെയിലറും പ്രൈം മൂവറും തമ്മിലുള്ള കപ്ലിങ്ങിലെ ഉദ്ഗ്രഥനമില്ലായ്മ നിങ്ങൾ എങ്ങനെ പരിശോധിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-172-a",
-        "answer_text": "By pushing the trailer side to side"
+        "answer_text": "ട്രെയിലർ ഇരുവശത്തേക്കും തള്ളി"
       },
       {
         "id": "rta-hvb-172-b",
-        "answer_text": "By making a sudden pull on the prime mover"
+        "answer_text": "പ്രൈം മൂവറിൽ പൊടുന്നനെ വലിച്ച്"
       },
       {
         "id": "rta-hvb-172-c",
-        "answer_text": "By moving gently forward and back"
+        "answer_text": "പതുക്കെ മുന്നോട്ടും പിന്നോട്ടും നീങ്ങി"
       }
     ]
   },
   {
     "id": "rta-hvb-173",
-    "question_text": "Before driving your heavy vehicle, always ask yourself;",
+    "question_text": "നിങ്ങളുടെ ഭാരമേറിയ വാഹനം ഓടിക്കുന്നതിന് മുൻപ്, എപ്പോഴും സ്വയം ചോദിക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-173-a",
-        "answer_text": "Have I checked the delivery checklist"
+        "answer_text": "ഞാൻ ഡെലിവറി ചെക്ക്ലിസ്റ്റ് പരിശോധിച്ചുവോ"
       },
       {
         "id": "rta-hvb-173-b",
-        "answer_text": "Have I carried out my pre-trip inspection"
+        "answer_text": "ഞാൻ എന്റെ യാത്രാ-പൂർവ പരിശോധന നടത്തിയോ"
       },
       {
         "id": "rta-hvb-173-c",
-        "answer_text": "Have I filled out the registration form"
+        "answer_text": "ഞാൻ രജിസ്ട്രേഷൻ ഫോം പൂരിപ്പിച്ചുവോ"
       }
     ]
   },
   {
     "id": "rta-hvb-174",
-    "question_text": "As you drive, what should you regularly check?",
+    "question_text": "വാഹനം ഓടിക്കുമ്പോൾ നിങ്ങൾ പതിവായി എന്ത് പരിശോധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-174-a",
-        "answer_text": "Make sure the battery is charged"
+        "answer_text": "ബാറ്ററി ചാർജ് ആണെന്ന് ഉറപ്പാക്കുക"
       },
       {
         "id": "rta-hvb-174-b",
-        "answer_text": "Make sure the wirings are not cracked"
+        "answer_text": "വയറിങ്ങുകൾ പൊട്ടിയിട്ടില്ലെന്ന് ഉറപ്പാക്കുക"
       },
       {
         "id": "rta-hvb-174-c",
-        "answer_text": "Make sure that your load is secure"
+        "answer_text": "നിങ്ങളുടെ ചരക്ക് സുരക്ഷിതമാണെന്ന് ഉറപ്പാക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-176",
-    "question_text": "Make sure the electrical leads are properly connected and working;",
+    "question_text": "വൈദ്യുത ലീഡുകൾ ശരിയായി ബന്ധിപ്പിച്ച് പ്രവർത്തിക്കുന്നുണ്ടെന്ന് ഉറപ്പുവരുത്തുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-176-a",
-        "answer_text": "While driving your prime mover and semi trailer"
+        "answer_text": "നിങ്ങളുടെ പ്രൈം മൂവറും സെമി-ട്രെയിലറും ഓടിക്കുമ്പോൾ"
       },
       {
         "id": "rta-hvb-176-b",
-        "answer_text": "Before driving your prime mover and semi trailer"
+        "answer_text": "നിങ്ങളുടെ പ്രൈം മൂവറും സെമി-ട്രെയിലറും ഓടിക്കുന്നതിന് മുമ്പ്"
       },
       {
         "id": "rta-hvb-176-c",
-        "answer_text": "After you arrive at your destination"
+        "answer_text": "നിങ്ങളുടെ ലക്ഷ്യസ്ഥാനത്ത് എത്തിയ ശേഷം"
       }
     ]
   },
   {
     "id": "rta-hvb-177",
-    "question_text": "When checking for slack in the turntable connection, ensure the;",
+    "question_text": "ടേൺടേബിൾ കണക്ഷനിലെ അയവ് പരിശോധിക്കുമ്പോൾ, ഉറപ്പുവരുത്തുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-177-a",
-        "answer_text": "Trailers legs are down"
+        "answer_text": "ട്രെയിലറിന്റെ കാലുകൾ താഴോട്ടിരിക്കുന്നു"
       },
       {
         "id": "rta-hvb-177-b",
-        "answer_text": "The trailer brake is on"
+        "answer_text": "ട്രെയിലർ ബ്രേക്ക് ഇട്ടിരിക്കുന്നു"
       },
       {
         "id": "rta-hvb-177-c",
-        "answer_text": "The prime mover brake is on"
+        "answer_text": "പ്രൈം മൂവർ ബ്രേക്ക് ഇട്ടിരിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-hvb-178",
-    "question_text": "How will you check for excessive heat radiating  from the brake drum?",
+    "question_text": "ബ്രേക്ക് ഡ്രമ്മിൽ നിന്ന് അമിതമായ ചൂട് വ്യാപിക്കുന്നത് നിങ്ങൾ എങ്ങനെ പരിശോധിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-178-a",
-        "answer_text": "Place your hand near the brake drum"
+        "answer_text": "ബ്രേക്ക് ഡ്രമ്മിന് അടുത്ത് കൈ വയ്ക്കുക"
       },
       {
         "id": "rta-hvb-178-b",
-        "answer_text": "Touch the drum with your hands"
+        "answer_text": "കൈകൊണ്ട് ഡ്രം സ്പർശിക്കുക"
       },
       {
         "id": "rta-hvb-178-c",
-        "answer_text": "Check your temperature gauge"
+        "answer_text": "താപനില ഗേജ് പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-179",
-    "question_text": "If you feel excessive heat radiating from the brake drum of your vehicle, it means;",
+    "question_text": "നിങ്ങളുടെ വാഹനത്തിന്റെ ബ്രേക്ക് ഡ്രമ്മിൽ നിന്ന് അമിതമായ ചൂട് അനുഭവപ്പെട്ടാൽ, അതിനർത്ഥം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-179-a",
-        "answer_text": "The clutch is not biting properly"
+        "answer_text": "ക്ലച്ച് ശരിയായി കടിക്കുന്നില്ല"
       },
       {
         "id": "rta-hvb-179-b",
-        "answer_text": "Your brakes are not working"
+        "answer_text": "നിങ്ങളുടെ ബ്രേക്കുകൾ പ്രവർത്തിക്കുന്നില്ല"
       },
       {
         "id": "rta-hvb-179-c",
-        "answer_text": "Your brakes are overheating"
+        "answer_text": "നിങ്ങളുടെ ബ്രേക്കുകൾ അമിതമായി ചൂടാകുന്നു"
       }
     ]
   },
   {
     "id": "rta-hvb-180",
-    "question_text": "When coupling semi-trailers, what must be long enough for making tight turns?",
+    "question_text": "സെമി-ട്രെയിലറുകൾ ഘടിപ്പിക്കുമ്പോൾ, മൂർച്ചയുള്ള തിരിവുകൾ എടുക്കാൻ എന്ത് ആവശ്യത്തിന് ദൈർഘ്യം ഉണ്ടായിരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-180-a",
-        "answer_text": "Steering"
+        "answer_text": "സ്റ്റിയറിംഗ്"
       },
       {
         "id": "rta-hvb-180-b",
-        "answer_text": "Brake lines"
+        "answer_text": "ബ്രേക്ക് ലൈനുകൾ"
       },
       {
         "id": "rta-hvb-180-c",
-        "answer_text": "Brake system"
+        "answer_text": "ബ്രേക്ക് സിസ്റ്റം"
       }
     ]
   },
   {
     "id": "rta-hvb-182",
-    "question_text": "How do you chock the wheels of a semi-trailer so it does not move?",
+    "question_text": "സെമി-ട്രെയിലർ ചലിക്കാതിരിക്കാൻ ചക്രങ്ങൾ എങ്ങനെ ചോക്ക് ചെയ്യും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-182-a",
-        "answer_text": "Place a wedge in front of the wheels"
+        "answer_text": "ചക്രങ്ങളുടെ മുൻഭാഗത്ത് ഒരു ആണി (wedge) വയ്ക്കുക"
       },
       {
         "id": "rta-hvb-182-b",
-        "answer_text": "Place a wedge on both from and rear sides of the wheels"
+        "answer_text": "ചക്രങ്ങളുടെ മുൻഭാഗത്തും പിൻഭാഗത്തും ഇരുവശങ്ങളിലും ഒരു ആണി വയ്ക്കുക"
       },
       {
         "id": "rta-hvb-182-c",
-        "answer_text": "Place a wedge at the back of the wheels"
+        "answer_text": "ചക്രങ്ങളുടെ പിൻഭാഗത്ത് ഒരു ആണി വയ്ക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-183",
-    "question_text": "When coupling semi-trailers, which shows the correct step by step procedure?",
+    "question_text": "സെമി-ട്രെയിലറുകൾ ഘടിപ്പിക്കുമ്പോൾ, ഏത് ഘട്ടം ഘട്ടമായുള്ള ശരിയായ നടപടിക്രമം കാണിക്കുന്നു?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-183-a",
-        "answer_text": "1. Inspect the area and secure the semi-trailer\n2. Inspect or check coupling devices for damage\n3. Check semi-trailer height"
+        "answer_text": "1. പ്രദേശം പരിശോധിക്കുകയും സെമി-ട്രെയിലർ സുരക്ഷിതമാക്കുകയും ചെയ്യുക\n2. കപ്ലിംഗ് ഉപകരണങ്ങൾ കേടുപാടുകൾക്കായി പരിശോധിക്കുക\n3. സെമി-ട്രെയിലറിന്റെ ഉയരം പരിശോധിക്കുക"
       },
       {
         "id": "rta-hvb-183-b",
-        "answer_text": "1. Check semi-trailer height\n2. Inspect the area and secure the semi-trailer\n3.Inspect or check coupling devices for damage"
+        "answer_text": "1. സെമി-ട്രെയിലറിന്റെ ഉയരം പരിശോധിക്കുക\n2. പ്രദേശം പരിശോധിക്കുകയും സെമി-ട്രെയിലർ സുരക്ഷിതമാക്കുകയും ചെയ്യുക\n3. കപ്ലിംഗ് ഉപകരണങ്ങൾ കേടുപാടുകൾക്കായി പരിശോധിക്കുക"
       },
       {
         "id": "rta-hvb-183-c",
-        "answer_text": "Front and back, 1. Back the prime mover slowly\n2. Check the semi-trailer height\n3.Inspect or check coupling devices for damage side of the wheels"
+        "answer_text": "മുൻഭാഗത്തും പിൻഭാഗത്തും, 1. പ്രൈം മൂവർ സ천ദർഭ്യത്തോടെ പിന്നോട്ടെടുക്കുക\n2. സെമി-ട്രെയിലറിന്റെ ഉയരം പരിശോധിക്കുക\n3. കപ്ലിംഗ് ഉപകരണങ്ങൾ കേടുപാടുകൾക്കായി പരിശോധിക്കുക ചക്രങ്ങളുടെ ഭാഗത്ത്"
       }
     ]
   },
   {
     "id": "rta-hvb-184",
-    "question_text": "If your semi-trailer is equipped with spring loaded brakes, there is;",
+    "question_text": "നിങ്ങളുടെ സെമി-ട്രെയിലറിൽ സ്പ്രിംഗ് ലോഡഡ് ബ്രേക്കുകൾ ഘടിപ്പിച്ചിട്ടുണ്ടെങ്കിൽ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-184-a",
-        "answer_text": "No need to check the brakes"
+        "answer_text": "ബ്രേക്കുകൾ പരിശോധിക്കേണ്ട ആവശ്യമില്ല"
       },
       {
         "id": "rta-hvb-184-b",
-        "answer_text": "A need to chock the wheels"
+        "answer_text": "ചക്രങ്ങൾ ചോക്ക് ചെയ്യേണ്ടതുണ്ട്"
       },
       {
         "id": "rta-hvb-184-c",
-        "answer_text": "No need to chock the wheels"
+        "answer_text": "ചക്രങ്ങൾ ചോക്ക് ചെയ്യേണ്ട ആവശ്യമില്ല"
       }
     ]
   },
   {
     "id": "rta-hvb-185",
-    "question_text": "What do you check for the coupling devices before coupling your semi-trailer?",
+    "question_text": "സെമി-ട്രെയിലർ ഘടിപ്പിക്കുന്നതിന് മുമ്പ് കപ്ലിംഗ് ഉപകരണങ്ങളിൽ നിങ്ങൾ എന്ത് പരിശോധിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-185-a",
-        "answer_text": "Check if the turntable is visible from the mirrors"
+        "answer_text": "ടേൺടേബിൾ കണ്ണാടിയിൽ നിന്ന് ദൃശ്യമാണോ എന്ന് പരിശോധിക്കുക"
       },
       {
         "id": "rta-hvb-185-b",
-        "answer_text": "Check for damage and to see that they will fit together correctly"
+        "answer_text": "കേടുപാടുകൾ പരിശോധിക്കുകയും അവ ശരിയായി ഒന്നിക്കുമോ എന്ന് കാണുകയും ചെയ്യുക"
       },
       {
         "id": "rta-hvb-185-c",
-        "answer_text": "The turntable is connected to the brake lines"
+        "answer_text": "ടേൺടേബിൾ ബ്രേക്ക് ലൈനുകളുമായി ബന്ധിപ്പിച്ചിരിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-hvb-187",
-    "question_text": "What can happen if the prime mover is not lined up accurately with the semi-trailer?",
+    "question_text": "പ്രൈം മൂവർ സെമി-ട്രെയിലറുമായി കൃത്യമായി നിരനിരയില്ലെങ്കിൽ എന്ത് സംഭവിക്കാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-187-a",
-        "answer_text": "You could damage the semi-trailer,  the load or the prime mover"
+        "answer_text": "സെമി-ട്രെയിലർ, ചരക്ക് അല്ലെങ്കിൽ പ്രൈം മൂവർ കേടാക്കാം"
       },
       {
         "id": "rta-hvb-187-b",
-        "answer_text": "The prime mover will not move"
+        "answer_text": "പ്രൈം മൂവർ ചലിക്കില്ല"
       },
       {
         "id": "rta-hvb-187-c",
-        "answer_text": "The semi-trailer will not have any damage"
+        "answer_text": "സെമി-ട്രെയിലറിന് ഒരു കേടും ഉണ്ടാകില്ല"
       }
     ]
   },
   {
     "id": "rta-hvb-188",
-    "question_text": "When checking semi-trailer height, what could seriously injure or kill you?",
+    "question_text": "സെമി-ട്രെയിലറിന്റെ ഉയരം പരിശോധിക്കുമ്പോൾ, എന്ത് നിങ്ങളെ ഗുരുതരമായി പരിക്കേൽപ്പിക്കുകയോ കൊല്ലുകയോ ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-188-a",
-        "answer_text": "If the semi-trailer does not move"
+        "answer_text": "സെമി-ട്രെയിലർ ചലിക്കില്ലെങ്കിൽ"
       },
       {
         "id": "rta-hvb-188-b",
-        "answer_text": "If the load is not properly secured"
+        "answer_text": "ചരക്ക് ശരിയായി സുരക്ഷിതമാക്കിയില്ലെങ്കിൽ"
       },
       {
         "id": "rta-hvb-188-c",
-        "answer_text": "If the landing gear collapses"
+        "answer_text": "ലാൻഡിംഗ് ഗിയർ തകർന്നു വീഴുകയാണെങ്കിൽ"
       }
     ]
   },
   {
     "id": "rta-hvb-189",
-    "question_text": "During coupling procedure, how do you secure the prime mover?",
+    "question_text": "കപ്ലിംഗ് നടപടിക്രമത്തിൽ, പ്രൈം മൂവർ എങ്ങനെ സുരക്ഷിതമാക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-189-a",
-        "answer_text": "Apply the parking brake"
+        "answer_text": "പാർക്കിംഗ് ബ്രേക്ക് ഇടുക"
       },
       {
         "id": "rta-hvb-189-b",
-        "answer_text": "Use the foot brakes properly"
+        "answer_text": "ഫൂട്ട് ബ്രേക്കുകൾ ശരിയായി ഉപയോഗിക്കുക"
       },
       {
         "id": "rta-hvb-189-c",
-        "answer_text": "Switching off the engine"
+        "answer_text": "എഞ്ചിൻ ഓഫ് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-hvb-190",
-    "question_text": "When coupling trailer, ensure safety while climbing on the back of the prime mover by;",
+    "question_text": "ട്രെയ്‌ലർ ഘടിപ്പിക്കുമ്പോൾ, പ്രൈം മൂവറിന്റെ പിൻഭാഗത്ത് കയറുമ്പോൾ സുരക്ഷ ഉറപ്പാക്കുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-190-a",
-        "answer_text": "Looking for the torch and safety shoes"
+        "answer_text": "ടോർച്ചും സുരക്ഷാ ഷൂസും തിരയുക"
       },
       {
         "id": "rta-hvb-190-b",
-        "answer_text": "Being careful of greasy and wet areas on the truck"
+        "answer_text": "ട്രക്കിലെ എണ്ണമയമുള്ളതും നനഞ്ഞതുമായ ഭാഗങ്ങളിൽ ശ്രദ്ധ ചെലുത്തുക"
       },
       {
         "id": "rta-hvb-190-c",
-        "answer_text": "Using only the best quality boots"
+        "answer_text": "ഏറ്റവും ഉയർന്ന നിലവാരമുള്ള ബൂട്ടുകൾ മാത്രം ഉപയോഗിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-192",
-    "question_text": "When uncoupling the trailer, find a surface that is able to support the trailer and;",
+    "question_text": "ട്രെയ്‌ലർ വേർപ്പെടുത്തുമ്പോൾ, ട്രെയ്‌ലറിനെ താങ്ങി നിർത്താൻ കഴിയുന്ന ഒരു പ്രതലം കണ്ടെത്തുക, കൂടാതെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-192-a",
-        "answer_text": "The bases of the landing gear"
+        "answer_text": "ലാൻഡിംഗ് ഗിയറിന്റെ അടിഭാഗങ്ങൾ"
       },
       {
         "id": "rta-hvb-192-b",
-        "answer_text": "The surface maybe on inclined position"
+        "answer_text": "പ്രതലം ചരിഞ്ഞ സ്ഥാനത്ത് ആകാം"
       },
       {
         "id": "rta-hvb-192-c",
-        "answer_text": "Perform the uncoupling quickly"
+        "answer_text": "വേർപ്പെടുത്തൽ വേഗത്തിൽ നിർവഹിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-193",
-    "question_text": "To complete the uncoupling procedure, when do you release the parking brake and pull clear of the trailer?",
+    "question_text": "അൺകപ്ലിംഗ് നടപടിക്രമം പൂർത്തിയാക്കാൻ, പാർക്കിംഗ് ബ്രേക്ക് ഒഴിച്ച് ട്രെയ്‌ലറിൽ നിന്ന് മാറുന്നത് എപ്പോഴാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-193-a",
-        "answer_text": "Before inspecting the semi-trailer support and ensuring the ground is stable"
+        "answer_text": "സെമി-ട്രെയ്‌ലർ സപ്പോർട്ട് പരിശോധിക്കുന്നതിനും മണ്ണ് സ്ഥിരതയുള്ളതെന്ന് ഉറപ്പ് വരുത്തുന്നതിനും മുമ്പ്"
       },
       {
         "id": "rta-hvb-193-b",
-        "answer_text": "After inspecting the semi-trailer support and ensuring the ground is stable"
+        "answer_text": "സെമി-ട്രെയ്‌ലർ സപ്പോർട്ട് പരിശോധിച്ചതിനും മണ്ണ് സ്ഥിരതയുള്ളതെന്ന് ഉറപ്പ് വരുത്തിയതിനും ശേഷം"
       },
       {
         "id": "rta-hvb-193-c",
-        "answer_text": "At anytime during the uncoupling procedure"
+        "answer_text": "അൺകപ്ലിംഗ് നടപടിക്രമത്തിൽ ഏത് സമയത്തും"
       }
     ]
   },
   {
     "id": "rta-hvb-195",
-    "question_text": "When uncoupling semi-trailer, secure the vehicle by applying the parking brakes and;",
+    "question_text": "സെമി-ട്രെയ്‌ലർ വേർപ്പെടുത്തുമ്പോൾ, പാർക്കിംഗ് ബ്രേക്ക് ഇട്ട് വാഹനം സുരക്ഷിതമാക്കുക, കൂടാതെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-195-a",
-        "answer_text": "If necessary, chock all the wheels of the semi-trailer"
+        "answer_text": "ആവശ്യമെങ്കിൽ സെമി-ട്രെയ്‌ലറിന്റെ എല്ലാ ചക്രങ്ങളും ചോക്ക് ചെയ്യുക"
       },
       {
         "id": "rta-hvb-195-b",
-        "answer_text": "If necessary, chock the wheels of the prime mover"
+        "answer_text": "ആവശ്യമെങ്കിൽ പ്രൈം മൂവറിന്റെ ചക്രങ്ങൾ ചോക്ക് ചെയ്യുക"
       },
       {
         "id": "rta-hvb-195-c",
-        "answer_text": "Check if possible to chock the wheels"
+        "answer_text": "ചക്രങ്ങൾ ചോക്ക് ചെയ്യാൻ കഴിയുമോ എന്ന് പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-196",
-    "question_text": "When coupling or uncoupling a semi-trailer, make sure to follow the steps and;",
+    "question_text": "സെമി-ട്രെയ്‌ലർ ഘടിപ്പിക്കുകയോ വേർപ്പെടുത്തുകയോ ചെയ്യുമ്പോൾ, ഘട്ടങ്ങൾ പിന്തുടർന്ന്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-196-a",
-        "answer_text": "Do the quickest possible procedure"
+        "answer_text": "ഏറ്റവും വേഗത്തിൽ സാധ്യമായ നടപടിക്രമം ചെയ്യുക"
       },
       {
         "id": "rta-hvb-196-b",
-        "answer_text": "Do not take shortcuts"
+        "answer_text": "ഷോർട്ട്കട്ടുകൾ എടുക്കരുത്"
       },
       {
         "id": "rta-hvb-196-c",
-        "answer_text": "Ensure to complete the process on time"
+        "answer_text": "സമയത്ത് പ്രക്രിയ പൂർത്തിയാക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-199",
-    "question_text": "Perform vehicle safety checks and decide on the appropriate route for the load and height of the vehicle.",
+    "question_text": "വാഹന സുരക്ഷാ പരിശോധനകൾ നടത്തി, ലോഡിന്റെയും വാഹനത്തിന്റെ ഉയരത്തിന്റെയും അടിസ്ഥാനത്തിൽ ഉചിതമായ റൂട്ട് തിരഞ്ഞെടുക്കുക.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-199-a",
-        "answer_text": "Do this during the trip"
+        "answer_text": "യാത്രയ്ക്കിടയിൽ ഇത് ചെയ്യുക"
       },
       {
         "id": "rta-hvb-199-b",
-        "answer_text": "Do this before the trip"
+        "answer_text": "യാത്രയ്ക്ക് മുമ്പ് ഇത് ചെയ്യുക"
       },
       {
         "id": "rta-hvb-199-c",
-        "answer_text": "Do this right after the trip"
+        "answer_text": "യാത്ര കഴിഞ്ഞ ഉടൻ ഇത് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-hvb-201",
-    "question_text": "When driving a loaded truck, remember not expose persons or property to any danger and;",
+    "question_text": "ലോഡ് ചെയ്ത ട്രക്ക് ഓടിക്കുമ്പോൾ, ആളുകളെ അല്ലെങ്കിൽ സ്വത്ത് അപകടത്തിലാക്കരുതെന്ന് ഓർക്കുക, കൂടാതെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-201-a",
-        "answer_text": "Not allow soil or any harmful substance to leak from your vehicle"
+        "answer_text": "നിങ്ങളുടെ വാഹനത്തിൽ നിന്ന് മണ്ണോ മറ്റ് ദോഷകരമായ വസ്തുക്കളോ ചോർന്ന് പോകാൻ അനുവദിക്കരുത്"
       },
       {
         "id": "rta-hvb-201-b",
-        "answer_text": "Conduct pre-drive checks"
+        "answer_text": "ഡ്രൈവ് ചെയ്യുന്നതിന് മുമ്പ് പരിശോധനകൾ നടത്തുക"
       },
       {
         "id": "rta-hvb-201-c",
-        "answer_text": "Check the transmission oil every trip"
+        "answer_text": "ഓരോ യാത്രയിലും ട്രാൻസ്മിഷൻ ഓയിൽ പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-204",
-    "question_text": "What can you do to secure the load when the vehicle floor surface and the load surface are both metal?",
+    "question_text": "വാഹനത്തിന്റെ തറ നിലവും ലോഡ് ഉപരിതലവും രണ്ടും ലോഹമാണെങ്കിൽ ലോഡ് സുരക്ഷിതമാക്കാൻ എന്ത് ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-204-a",
-        "answer_text": "Place timber or rubber between the metal surfaces"
+        "answer_text": "ലോഹ ഉപരിതലങ്ങൾക്കിടയിൽ തടി അല്ലെങ്കിൽ റബ്ബർ വയ്ക്കുക"
       },
       {
         "id": "rta-hvb-204-b",
-        "answer_text": "Place paper or story foam between the metal surfaces"
+        "answer_text": "ലോഹ ഉപരിതലങ്ങൾക്കിടയിൽ പേപ്പർ അല്ലെങ്കിൽ സ്റ്റോറി ഫോം വയ്ക്കുക"
       },
       {
         "id": "rta-hvb-204-c",
-        "answer_text": "Place soil between the metal surfaces"
+        "answer_text": "ലോഹ ഉപരിതലങ്ങൾക്കിടയിൽ മണ്ണ് വയ്ക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-208",
-    "question_text": "What is the first step in estimating the height of the heavy vehicle?",
+    "question_text": "ഒരു ഭാരമേറിയ വാഹനത്തിന്റെ ഉയരം കണക്കാക്കുന്നതിനുള്ള ആദ്യ ഘട്ടം എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-208-a",
-        "answer_text": "Measure from ground to the top of cabin"
+        "answer_text": "നിലത്ത് നിന്ന് ക്യാബിന്‍ മുകൾ വരെ അളക്കുക"
       },
       {
         "id": "rta-hvb-208-b",
-        "answer_text": "Measure from top of cabin down to the seating level"
+        "answer_text": "ക്യാബിന്‍ മുകൾ നിന്ന് ഇരിപ്പിട തലം വരെ അളക്കുക"
       },
       {
         "id": "rta-hvb-208-c",
-        "answer_text": "Simply estimate the height of the load"
+        "answer_text": "ചരക്കിന്റെ ഉയരം ഏകദേശം കണക്കാക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-211",
-    "question_text": "Brakes should be applied with steady pressure initially, and then eased off as the vehicle slows. This is for;",
+    "question_text": "ബ്രേക്കുകൾ ആദ്യം സ്ഥിരമായ മർദ്ദത്തോടെ പ്രയോഗിക്കണം, പിന്നെ വാഹനം മന്ദഗതിയിലാകുമ്പോൾ ഒഴിവാക്കണം. ഇത് ഏതിനാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-211-a",
-        "answer_text": "Air brakes only"
+        "answer_text": "വായു ബ്രേക്കുകൾ മാത്രം"
       },
       {
         "id": "rta-hvb-211-b",
-        "answer_text": "All types of brakes"
+        "answer_text": "എല്ലാ തരം ബ്രേക്കുകൾക്കും"
       },
       {
         "id": "rta-hvb-211-c",
-        "answer_text": "Hydraulic brakes only"
+        "answer_text": "ഹൈഡ്രോളിക് ബ്രേക്കുകൾ മാത്രം"
       }
     ]
   },
   {
     "id": "rta-hvb-212",
-    "question_text": "When carrying heavy loads, braking should generally be;",
+    "question_text": "ഭാരമേറിയ ചരക്ക് കൊണ്ടുപോകുമ്പോൾ, ബ്രേക്കിങ് സാധാരണയായി എങ്ങനെ ആയിരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-212-a",
-        "answer_text": "Earlier and harder"
+        "answer_text": "നേരത്തെ, ശക്തമായും"
       },
       {
         "id": "rta-hvb-212-b",
-        "answer_text": "Sudden and lighter"
+        "answer_text": "പെട്ടെന്ന്, ലഘുവായും"
       },
       {
         "id": "rta-hvb-212-c",
-        "answer_text": "Smooth and lighter"
+        "answer_text": "സുഗമമായി, ലഘുവായും"
       }
     ]
   },
   {
     "id": "rta-hvb-216",
-    "question_text": "What should be remembered when carrying high loads?",
+    "question_text": "ഉയരമേറിയ ചരക്ക് കൊണ്ടുപോകുമ്പോൾ എന്ത് ഓർക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-216-a",
-        "answer_text": "The stability is the same as lower loads"
+        "answer_text": "സ്ഥിരത താഴ്ന്ന ചരക്കിന്‍റേതു പോലെ തന്നെ ആണ്"
       },
       {
         "id": "rta-hvb-216-b",
-        "answer_text": "The load is less stable"
+        "answer_text": "ചരക്ക് കുറഞ്ഞ സ്ഥിരതയുള്ളതായിരിക്കും"
       },
       {
         "id": "rta-hvb-216-c",
-        "answer_text": "The load is more stable"
+        "answer_text": "ചരക്ക് കൂടുതൽ സ്ഥിരതയുള്ളതായിരിക്കും"
       }
     ]
   }

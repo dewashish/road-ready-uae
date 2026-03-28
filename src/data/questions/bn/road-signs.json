@@ -5075,406 +5075,406 @@
   },
   {
     "id": "rta-lmv-482",
-    "question_text": "A police report issued in white form signifies that neither party is at fault or;",
+    "question_text": "সাদা ফর্মে জারি করা পুলিশ রিপোর্ট বোঝায় যে কোনো পক্ষই দোষী নয় অথবা;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-482-a",
-        "answer_text": "both parties are at fault"
+        "answer_text": "উভয় পক্ষই দোষী"
       },
       {
         "id": "rta-lmv-482-b",
-        "answer_text": "that the other party is unknown"
+        "answer_text": "অন্য পক্ষ অজানা"
       },
       {
         "id": "rta-lmv-482-c",
-        "answer_text": "that the other party is unknown"
+        "answer_text": "অন্য পক্ষ অজানা"
       }
     ]
   },
   {
     "id": "rta-lmv-491",
-    "question_text": "You have a green light at an intersection. You can  proceed;",
+    "question_text": "একটি মোড়ে আপনার সবুজ আলো আছে। আপনি এগিয়ে যেতে পারেন;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-491-a",
-        "answer_text": "only if the intersection is clear and it is safe to proceed"
+        "answer_text": "শুধুমাত্র যদি মোড় পরিষ্কার থাকে এবং এগিয়ে যাওয়া নিরাপদ হয়"
       },
       {
         "id": "rta-lmv-491-b",
-        "answer_text": "as quickly as possible to avoid delaying the traffic"
+        "answer_text": "যানজট বিলম্ব এড়াতে যত দ্রুত সম্ভব"
       },
       {
         "id": "rta-lmv-491-c",
-        "answer_text": "once there are no emergency vehicles around"
+        "answer_text": "যখন আশেপাশে কোনো জরুরি যানবাহন নেই"
       }
     ]
   },
   {
     "id": "rta-rm-001",
-    "question_text": "What does a continuous longitudinal yellow line along the carriageway indicate?",
-    "explanation": null,
+    "question_text": "সড়কের পাশ দিয়ে একটানা হলুদ অনুদৈর্ঘ্য রেখা কী নির্দেশ করে?",
+    "explanation": "সড়ক বরাবর একটানা হলুদ রেখা একটি নিয়ন্ত্রণমূলক রোড মার্কিং যা 'নো পাসিং লাইন' নির্দেশ করে — ওভারটেক করার জন্য এটি অতিক্রম করা যাবে না।",
     "answers": [
       {
         "id": "rta-rm-001-a",
-        "answer_text": "No passing / no overtaking zone"
+        "answer_text": "ওভারটেকিং নিষিদ্ধ এলাকা"
       },
       {
         "id": "rta-rm-001-b",
-        "answer_text": "Edge of the carriageway"
+        "answer_text": "সড়কের প্রান্ত"
       },
       {
         "id": "rta-rm-001-c",
-        "answer_text": "Bus lane ahead"
+        "answer_text": "সামনে বাস লেন"
       }
     ]
   },
   {
     "id": "rta-rm-002",
-    "question_text": "A continuous longitudinal line across the carriageway at an intersection indicates:",
-    "explanation": null,
+    "question_text": "সংযোগস্থলে সড়কজুড়ে একটানা অনুদৈর্ঘ্য রেখা কী নির্দেশ করে?",
+    "explanation": "সড়কজুড়ে আঁকা একটানা অনুদৈর্ঘ্য রেখা স্টপ লাইন চিহ্নিত করে যেখানে এগিয়ে যাওয়ার আগে আপনাকে অবশ্যই থামতে হবে।",
     "answers": [
       {
         "id": "rta-rm-002-a",
-        "answer_text": "A stop line — you must stop here"
+        "answer_text": "স্টপ লাইন — এখানে অবশ্যই থামতে হবে"
       },
       {
         "id": "rta-rm-002-b",
-        "answer_text": "A pedestrian crossing"
+        "answer_text": "পথচারী ক্রসিং"
       },
       {
         "id": "rta-rm-002-c",
-        "answer_text": "A speed reduction zone"
+        "answer_text": "গতি হ্রাসের এলাকা"
       }
     ]
   },
   {
     "id": "rta-rm-003",
-    "question_text": "Short intermittent lines across the carriageway indicate:",
-    "explanation": null,
+    "question_text": "সড়কজুড়ে ছোট ছোট বিরতিহীন রেখাগুলো কী নির্দেশ করে?",
+    "explanation": "সড়কজুড়ে ছোট ছোট বিরতিহীন (ড্যাশড) রেখাগুলো 'গিভ ওয়ে লাইন' চিহ্নিত করে — আপনাকে প্রধান সড়কের যানবাহনকে যাওয়ার সুযোগ দিতে হবে।",
     "answers": [
       {
         "id": "rta-rm-003-a",
-        "answer_text": "A give way line"
+        "answer_text": "গিভ ওয়ে লাইন"
       },
       {
         "id": "rta-rm-003-b",
-        "answer_text": "A pedestrian crossing"
+        "answer_text": "পথচারী ক্রসিং"
       },
       {
         "id": "rta-rm-003-c",
-        "answer_text": "A speed bump warning"
+        "answer_text": "স্পিড বাম্পের সতর্কতা"
       }
     ]
   },
   {
     "id": "rta-rm-004",
-    "question_text": "What does a yellow box with diagonal squares painted on the road indicate?",
-    "explanation": null,
+    "question_text": "সড়কে আঁকা তির্যক বর্গক্ষেত্র সহ হলুদ বাক্স কী নির্দেশ করে?",
+    "explanation": "হলুদ বক্স জংশনের অর্থ হলো আপনার বের হওয়ার পথ পরিষ্কার না হলে বাক্সে প্রবেশ করা যাবে না। আপনি কেবল তখনই বাক্সে থামতে পারবেন যখন আপনি ডানে মোড় নিচ্ছেন এবং বিপরীত দিকের যানবাহনের জন্য অপেক্ষা করছেন।",
     "answers": [
       {
         "id": "rta-rm-004-a",
-        "answer_text": "A box junction — do not enter unless your exit is clear"
+        "answer_text": "বক্স জংশন — বের হওয়ার পথ পরিষ্কার না হলে প্রবেশ করবেন না"
       },
       {
         "id": "rta-rm-004-b",
-        "answer_text": "A parking zone for authorized vehicles"
+        "answer_text": "অনুমোদিত যানবাহনের পার্কিং এলাকা"
       },
       {
         "id": "rta-rm-004-c",
-        "answer_text": "A speed restriction area"
+        "answer_text": "গতি সীমাবদ্ধতার এলাকা"
       }
     ]
   },
   {
     "id": "rta-rm-005",
-    "question_text": "What do zig-zag lines on the road near a crossing indicate?",
-    "explanation": null,
+    "question_text": "ক্রসিংয়ের কাছে সড়কে জিগজ্যাগ রেখাগুলো কী নির্দেশ করে?",
+    "explanation": "জিগজ্যাগ রেখাগুলো এমন একটি এলাকা চিহ্নিত করে যেখানে পার্কিং এবং ওভারটেকিং নিষিদ্ধ, সাধারণত পথচারী ক্রসিংয়ের কাছে স্পষ্ট দৃশ্যমানতা নিশ্চিত করতে।",
     "answers": [
       {
         "id": "rta-rm-005-a",
-        "answer_text": "No parking or overtaking zone near a crossing"
+        "answer_text": "ক্রসিংয়ের কাছে পার্কিং বা ওভারটেকিং নিষিদ্ধ এলাকা"
       },
       {
         "id": "rta-rm-005-b",
-        "answer_text": "A speed bump area"
+        "answer_text": "স্পিড বাম্প এলাকা"
       },
       {
         "id": "rta-rm-005-c",
-        "answer_text": "A tram-only zone"
+        "answer_text": "শুধুমাত্র ট্রাম এলাকা"
       }
     ]
   },
   {
     "id": "rta-rm-006",
-    "question_text": "What do rumble strips on the road surface warn you about?",
-    "explanation": null,
+    "question_text": "সড়কের পৃষ্ঠে রাম্বল স্ট্রিপস আপনাকে কী সম্পর্কে সতর্ক করে?",
+    "explanation": "রাম্বল স্ট্রিপস উঁচু বা টেক্সচারযুক্ত চিহ্ন যা এর উপর দিয়ে গাড়ি চালালে কম্পন ও শব্দ তৈরি করে, ড্রাইভারদের সতর্ক করে যে তারা জংশন বা তীক্ষ্ণ বাঁকের মতো বিপদের কাছে পৌঁছাচ্ছেন।",
     "answers": [
       {
         "id": "rta-rm-006-a",
-        "answer_text": "You are approaching a hazard — reduce speed"
+        "answer_text": "আপনি একটি বিপদের কাছে আসছেন — গতি কমান"
       },
       {
         "id": "rta-rm-006-b",
-        "answer_text": "The road surface is damaged"
+        "answer_text": "সড়কের পৃষ্ঠ ক্ষতিগ্রস্ত"
       },
       {
         "id": "rta-rm-006-c",
-        "answer_text": "You are entering a toll zone"
+        "answer_text": "আপনি টোল জোনে প্রবেশ করছেন"
       }
     ]
   },
   {
     "id": "rta-rm-007",
-    "question_text": "What do broken yellow lines in the centre of the road indicate?",
-    "explanation": null,
+    "question_text": "সড়কের কেন্দ্রে ভাঙা হলুদ রেখাগুলো কী নির্দেশ করে?",
+    "explanation": "সড়কের কেন্দ্রে ভাঙা হলুদ রেখাগুলো গাইডেন্স মার্কিং যা নির্দেশ করে যে নিরাপদ হলে ওভারটেক করার জন্য আপনি সেগুলো অতিক্রম করতে পারবেন।",
     "answers": [
       {
         "id": "rta-rm-007-a",
-        "answer_text": "You may cross to overtake when safe"
+        "answer_text": "নিরাপদ হলে ওভারটেক করতে অতিক্রম করতে পারবেন"
       },
       {
         "id": "rta-rm-007-b",
-        "answer_text": "No crossing allowed at any time"
+        "answer_text": "কোনো সময় অতিক্রম করা যাবে না"
       },
       {
         "id": "rta-rm-007-c",
-        "answer_text": "Lane change prohibited"
+        "answer_text": "লেন পরিবর্তন নিষিদ্ধ"
       }
     ]
   },
   {
     "id": "rta-rm-008",
-    "question_text": "What does an 'X' marking on the road ahead indicate?",
-    "explanation": null,
+    "question_text": "সামনে সড়কে 'X' চিহ্ন কী নির্দেশ করে?",
+    "explanation": "সড়কে X চিহ্ন সামনে রেলওয়ে বা ট্রাম লেভেল ক্রসিং নির্দেশ করে। আপনাকে গতি কমাতে হবে এবং থামার জন্য প্রস্তুত থাকতে হবে।",
     "answers": [
       {
         "id": "rta-rm-008-a",
-        "answer_text": "A railway or tram level crossing ahead"
+        "answer_text": "সামনে রেলওয়ে বা ট্রাম লেভেল ক্রসিং"
       },
       {
         "id": "rta-rm-008-b",
-        "answer_text": "Road closed ahead"
+        "answer_text": "সামনে সড়ক বন্ধ"
       },
       {
         "id": "rta-rm-008-c",
-        "answer_text": "A box junction"
+        "answer_text": "বক্স জংশন"
       }
     ]
   },
   {
     "id": "rta-rm-009",
-    "question_text": "At a traffic-controlled intersection, what does a red light with a green left arrow mean?",
-    "explanation": null,
+    "question_text": "ট্রাফিক-নিয়ন্ত্রিত সংযোগস্থলে, সবুজ বাম তীর সহ লাল বাতি কী অর্থ বহন করে?",
+    "explanation": "সবুজ তীর সহ লাল বাতি মানে আপনাকে লাল বাতির জন্য থামতে হবে, তবে সবুজ তীরের দিকে নিয়ন্ত্রিতভাবে এগিয়ে যেতে পারবেন।",
     "answers": [
       {
         "id": "rta-rm-009-a",
-        "answer_text": "Stop for red, but may proceed in the green arrow direction"
+        "answer_text": "লালের জন্য থামুন, তবে সবুজ তীরের দিকে এগিয়ে যেতে পারবেন"
       },
       {
         "id": "rta-rm-009-b",
-        "answer_text": "Stop completely and wait for a full green light"
+        "answer_text": "সম্পূর্ণ থামুন এবং সম্পূর্ণ সবুজ বাতির জন্য অপেক্ষা করুন"
       },
       {
         "id": "rta-rm-009-c",
-        "answer_text": "Proceed with caution in any direction"
+        "answer_text": "যেকোনো দিকে সতর্কতার সাথে এগিয়ে যান"
       }
     ]
   },
   {
     "id": "rta-rm-010",
-    "question_text": "Yellow triangular markings on the road surface warn you of:",
-    "explanation": null,
+    "question_text": "রাস্তার পৃষ্ঠে হলুদ ত্রিভুজাকার চিহ্নগুলি আপনাকে কীসের সম্পর্কে সতর্ক করে?",
+    "explanation": "রাস্তার পৃষ্ঠে হলুদ ত্রিভুজাকার চিহ্নগুলি (স্পিড হাম্প চিহ্ন) চালকদের সামনে স্পিড হাম্প সম্পর্কে সতর্ক করে, তাদের গতি কমাতে সতর্ক করে।",
     "answers": [
       {
         "id": "rta-rm-010-a",
-        "answer_text": "Speed humps ahead — reduce speed"
+        "answer_text": "সামনে স্পিড হাম্প — গতি কমান"
       },
       {
         "id": "rta-rm-010-b",
-        "answer_text": "Construction zone warning"
+        "answer_text": "নির্মাণ অঞ্চলের সতর্কতা"
       },
       {
         "id": "rta-rm-010-c",
-        "answer_text": "School zone ahead"
+        "answer_text": "সামনে স্কুল অঞ্চল"
       }
     ]
   },
   {
     "id": "rta-fk-039",
-    "question_text": "Similar to public roads, forklift operators must also comply with this at workplaces.",
+    "question_text": "সার্বজনীন রাস্তার মতো, ফোর্কলিফ্ট অপারেটরদেরও কর্মক্ষেত্রে এটি মেনে চলতে হবে।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-039-a",
-        "answer_text": "Speed restriction signs"
+        "answer_text": "গতি সীমাবদ্ধতা চিহ্ন"
       },
       {
         "id": "rta-fk-039-b",
-        "answer_text": "Hard hat area signs"
+        "answer_text": "হার্ড হ্যাট এলাকার চিহ্ন"
       },
       {
         "id": "rta-fk-039-c",
-        "answer_text": "Reflective vest signs"
+        "answer_text": "রিফ্লেক্টিভ ভেস্ট চিহ্ন"
       }
     ]
   },
   {
     "id": "rta-fk-061",
-    "question_text": "During the pre-use visual checks, why is there a need to check the overhead?",
+    "question_text": "ব্যবহারের আগে দৃশ্যমান পরীক্ষার সময়, উপরে পরীক্ষা করা কেন প্রয়োজন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-061-a",
-        "answer_text": "To make sure there are no obstructions"
+        "answer_text": "নিশ্চিত করতে যে কোনো বাধা নেই"
       },
       {
         "id": "rta-fk-061-b",
-        "answer_text": "To make sure the ceiling is clean"
+        "answer_text": "নিশ্চিত করতে যে ছাদ পরিষ্কার আছে"
       },
       {
         "id": "rta-fk-061-c",
-        "answer_text": "To make sure all the signage's are properly placed"
+        "answer_text": "নিশ্চিত করতে যে সমস্ত সাইনেজ যথাযথভাবে স্থাপিত আছে"
       }
     ]
   },
   {
     "id": "rta-hfk-036",
-    "question_text": "Identify at least 3 important information that you must know as part of emergency procedure;",
+    "question_text": "জরুরি পদ্ধতির অংশ হিসেবে কমপক্ষে ৩টি গুরুত্বপূর্ণ তথ্য চিহ্নিত করুন যা আপনার জানা উচিত;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-036-a",
-        "answer_text": "Location of; showers, breathing apparatus and fire extinguishers"
+        "answer_text": "অবস্থান: শাওয়ার, শ্বাস যন্ত্রপাতি এবং অগ্নি নির্বাপক যন্ত্র"
       },
       {
         "id": "rta-hfk-036-b",
-        "answer_text": "Location of; assembly point, smoking areas and coffee machines"
+        "answer_text": "অবস্থান: সমাবেশ স্থল, ধূমপান এলাকা এবং কফি মেশিন"
       },
       {
         "id": "rta-hfk-036-c",
-        "answer_text": "Location of; Warning Signs, trampolines and trap doors"
+        "answer_text": "অবস্থান: সতর্কতা চিহ্ন, ট্রামপোলিন এবং ট্র্যাপ ডোর"
       }
     ]
   },
   {
     "id": "rta-hfk-043",
-    "question_text": "Before starting the engine of your shovel, why should you sound the horn first?",
+    "question_text": "আপনার শাভেলের ইঞ্জিন চালু করার আগে, কেন প্রথমে হর্ন বাজানো উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-043-a",
-        "answer_text": "To alert for anyone  for any possible danger"
+        "answer_text": "যেকোনো সম্ভাব্য বিপদ সম্পর্কে লোকজনকে সতর্ক করতে"
       },
       {
         "id": "rta-hfk-043-b",
-        "answer_text": "To signal the start of your work"
+        "answer_text": "কাজ শুরুর সংকেত দিতে"
       },
       {
         "id": "rta-hfk-043-c",
-        "answer_text": "To make sure the shovel is properly checked"
+        "answer_text": "শাভেলটি সঠিকভাবে পরীক্ষা করা হয়েছে কিনা তা নিশ্চিত করতে"
       }
     ]
   },
   {
     "id": "rta-hfk-068",
-    "question_text": "Most shovels are designed so that one hand handles the  steering and the other hand;",
+    "question_text": "বেশিরভাগ শাভেল এমনভাবে ডিজাইন করা হয়েছে যাতে একটি হাত স্টিয়ারিং পরিচালনা করে এবং অন্য হাত;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-068-a",
-        "answer_text": "Maneuvers other single movements"
+        "answer_text": "অন্যান্য একক গতিবিধি নিয়ন্ত্রণ করে"
       },
       {
         "id": "rta-hfk-068-b",
-        "answer_text": "May maneuver more than one movement"
+        "answer_text": "একাধিক গতিবিধি নিয়ন্ত্রণ করতে পারে"
       },
       {
         "id": "rta-hfk-068-c",
-        "answer_text": "May maneuver multiple movements with foot controls"
+        "answer_text": "পায়ের নিয়ন্ত্রণ দিয়ে একাধিক গতিবিধি নিয়ন্ত্রণ করতে পারে"
       }
     ]
   },
   {
     "id": "rta-moto-042",
-    "question_text": "When carrying a passenger, the mirrors of a motorcycle should be adjusted:",
+    "question_text": "যাত্রী বহনের সময় মোটরসাইকেলের আয়নাগুলো কখন সামঞ্জস্য করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-042-a",
-        "answer_text": "before the passenger gets on."
+        "answer_text": "যাত্রী বসার আগে।"
       },
       {
         "id": "rta-moto-042-b",
-        "answer_text": "after the passenger has got on."
+        "answer_text": "যাত্রী বসার পরে।"
       },
       {
         "id": "rta-moto-042-c",
-        "answer_text": "when stopped at traffic lights."
+        "answer_text": "ট্রাফিক লাইটে থামার সময়।"
       }
     ]
   },
   {
     "id": "rta-moto-060",
-    "question_text": "Painted lane markings can be dangerous because:",
+    "question_text": "রাস্তায় আঁকা লেন চিহ্নিতকরণ বিপজ্জনক হতে পারে কারণ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-060-a",
-        "answer_text": "they are shiny and may dazzle at night."
+        "answer_text": "সেগুলো চকচকে এবং রাতে চোখ ধাঁধিয়ে দিতে পারে।"
       },
       {
         "id": "rta-moto-060-b",
-        "answer_text": "they are slippery."
+        "answer_text": "সেগুলো পিচ্ছিল।"
       },
       {
         "id": "rta-moto-060-c",
-        "answer_text": "their surface may be rough causing the bike to jolt."
+        "answer_text": "তাদের পৃষ্ঠ এবড়োখেবড়ো হতে পারে যা মোটরসাইকেলে ঝাঁকুনি দিতে পারে।"
       }
     ]
   },
   {
     "id": "rta-moto-140",
-    "question_text": "As you make a turn, how do you make sure you are ready to respond to things before they happen?",
+    "question_text": "বাঁক নেওয়ার সময়, আপনি কীভাবে নিশ্চিত করবেন যে আপনি ঘটনা ঘটার আগেই সাড়া দিতে প্রস্তুত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-140-a",
-        "answer_text": "always look ahead to where you want to go"
+        "answer_text": "সর্বদা সামনে যেখানে যেতে চান সেদিকে তাকান"
       },
       {
         "id": "rta-moto-140-b",
-        "answer_text": "always look for the signs and be ready to stop"
+        "answer_text": "সর্বদা চিহ্ন দেখুন এবং থামতে প্রস্তুত থাকুন"
       },
       {
         "id": "rta-moto-140-c",
-        "answer_text": "always make sure you are following the road markings and the speed limit"
+        "answer_text": "সর্বদা নিশ্চিত করুন যে আপনি রোড মার্কিং এবং গতিসীমা অনুসরণ করছেন"
       }
     ]
   },
   {
     "id": "rta-moto-189",
-    "question_text": "কিভাবে ভেজা রাস্তা, আঁকা লাইন এবং অন্যান্য চিহ্ন আপনার রাইডিং প্রভাবিত করবে?",
+    "question_text": "ভেজা রাস্তা, রঙ করা লাইন এবং অন্যান্য চিহ্ন আপনার রাইডিংকে কীভাবে প্রভাবিত করবে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-189-a",
-        "answer_text": "আপনার স্থায়িত্ব প্রভাবিত করে টায়ারের গ্রিপ কমিয়ে দিন"
+        "answer_text": "টায়ারের গ্রিপ কমিয়ে দেয়, যা আপনার স্থিতিশীলতাকে প্রভাবিত করে"
       },
       {
         "id": "rta-moto-189-b",
-        "answer_text": "টায়ারের গ্রিপ বাড়ায়, রাইডিংকে নিরাপদ করে"
+        "answer_text": "টায়ারের গ্রিপ বাড়িয়ে দেয়, রাইডিংকে আরও নিরাপদ করে"
       },
       {
         "id": "rta-moto-189-c",
-        "answer_text": "আপনার রাইডিং স্থায়িত্ব উন্নত করুন"
+        "answer_text": "আপনার রাইডিং স্থিতিশীলতা উন্নত করে"
       }
     ]
   },
   {
     "id": "rta-moto-202",
-    "question_text": "এই সতর্কতা চিহ্নটি চালকদের চেক করতে এবং সচেতন হতে সতর্ক করে;",
+    "question_text": "এই সতর্কতা চিহ্ন ড্রাইভারদের যাচাই করতে এবং সচেতন থাকতে সতর্ক করে;",
     "explanation": null,
     "answers": [
       {
@@ -5493,12 +5493,12 @@
   },
   {
     "id": "rta-hvb-002",
-    "question_text": "পোর্টেবল সতর্কতা সংকেত অবশ্যই রাতে সকলের দ্বারা বহন করা উচিত:",
+    "question_text": "রাতে সমস্ত _______ দ্বারা পোর্টেবল ওয়ার্নিং সিগন্যাল বহন করতে হবে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-002-a",
-        "answer_text": "উচ্চারিত যানবাহন।"
+        "answer_text": "আর্টিকুলেটেড যানবাহন।"
       },
       {
         "id": "rta-hvb-002-b",
@@ -5506,113 +5506,113 @@
       },
       {
         "id": "rta-hvb-002-c",
-        "answer_text": "মোট যানবাহন ভর 4.5 টোনের বেশি।"
+        "answer_text": "যে যানবাহনের মোট ওজন ৪.৫ টনের বেশি।"
       }
     ]
   },
   {
     "id": "rta-hvb-032",
-    "question_text": "ছেদ চিহ্ন:",
+    "question_text": "চৌরাস্তার চিহ্নসমূহ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-032-a",
-        "answer_text": "বড় যানবাহন প্রযোজ্য না."
+        "answer_text": "বড় যানবাহনের ক্ষেত্রে প্রযোজ্য নয়।"
       },
       {
         "id": "rta-hvb-032-b",
-        "answer_text": "কখনও কখনও বড় যানবাহন জন্য খুব আঁট."
+        "answer_text": "কখনো কখনো বড় যানবাহনের জন্য খুব সংকীর্ণ।"
       },
       {
         "id": "rta-hvb-032-c",
-        "answer_text": "সর্বদা আনুগত্য করা আবশ্যক, এমনকি যদি এর অর্থ বাধা অতিক্রম করা হয়।"
+        "answer_text": "সবসময় মানতে হবে, এমনকি ফুটপাতে উঠলেও।"
       }
     ]
   },
   {
     "id": "rta-hvb-033",
-    "question_text": "বিপরীত করার সময় আপনাকে গাইড করার জন্য আপনার যদি একজন সাহায্যকারী থাকে, তাহলে সেই ব্যক্তির দাঁড়ানো উচিত:",
+    "question_text": "পিছনে যাওয়ার সময় যদি কোনো সহায়ক আপনাকে গাইড করে, সেই ব্যক্তির দাঁড়ানো উচিত:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-033-a",
-        "answer_text": "গাড়ির পিছনে।"
+        "answer_text": "যানবাহনের পিছনে।"
       },
       {
         "id": "rta-hvb-033-b",
-        "answer_text": "যেখানে তারা আপনার গাড়ির সবচেয়ে পরিষ্কার দৃশ্য পায় এবং আপনাকে সংকেত দিতে পারে।"
+        "answer_text": "যেখান থেকে তারা আপনার যানবাহনের সবচেয়ে স্পষ্ট দৃশ্য পান এবং আপনাকে সংকেত দিতে পারেন।"
       },
       {
         "id": "rta-hvb-033-c",
-        "answer_text": "গাড়ির সামনে এবং একপাশে।"
+        "answer_text": "যানবাহনের সামনে এবং এক পাশে।"
       }
     ]
   },
   {
     "id": "rta-hvb-035",
-    "question_text": "আপনি লেন পরিবর্তন করার আগে, আয়না পরীক্ষা করুন:",
+    "question_text": "লেন পরিবর্তন করার আগে আয়না পরীক্ষা করুন:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-035-a",
-        "answer_text": "নিশ্চিত করুন যে কেউ আপনার পাশে নেই বা আপনাকে ওভারটেক করতে চলেছে।"
+        "answer_text": "নিশ্চিত করতে যে কেউ আপনার পাশে বা ওভারটেক করতে আসছে না।"
       },
       {
         "id": "rta-hvb-035-b",
-        "answer_text": "প্রথমে আপনি যে দিকে ঘুরছেন, তারপরে একবার অন্যদিকে।"
+        "answer_text": "প্রথমে যে দিকে মোড় নেবেন সেদিকে, তারপর অন্য দিকে আসার পর।"
       },
       {
         "id": "rta-hvb-035-c",
-        "answer_text": "30 মিটারের জন্য টার্ন সিগন্যাল লাগানোর পর দুবার।"
+        "answer_text": "৩০ মিটারের জন্য টার্ন সিগনাল দেওয়ার পর দুইবার।"
       }
     ]
   },
   {
     "id": "rta-hvb-039",
-    "question_text": "যদি আপনার ভারী যানবাহন একটি বিল্ট-আপ এলাকায় রাতে ভেঙে যায়, আপনার প্রতিফলিত ত্রিভুজ স্থাপন করা উচিত:",
+    "question_text": "রাতের বেলায় কোনো জনবহুল এলাকায় আপনার ভারী যানবাহন যদি নষ্ট হয়ে যায়, তাহলে প্রতিফলক ত্রিভুজগুলো কোথায় রাখতে হবে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-039-a",
-        "answer_text": "পিছনে, আসন্ন ট্রাফিক সম্মুখীন."
+        "answer_text": "পেছনে, আসন্ন যানবাহনের দিকে মুখ করে।"
       },
       {
         "id": "rta-hvb-039-b",
-        "answer_text": "একটি সামনে, একটি পিছনে এবং একটি 200 মিটার পিছনে যানবাহন।"
+        "answer_text": "একটি সামনে, একটি পেছনে এবং একটি গাড়ির ২০০ মিটার পেছনে।"
       },
       {
         "id": "rta-hvb-039-c",
-        "answer_text": "একটি সামনের দিকে, একটি পিছনের দিকে এবং একটি গাড়ির পাশে, রাস্তার কেন্দ্রের কাছাকাছি।"
+        "answer_text": "একটি সামনে, একটি পেছনে এবং একটি গাড়ির পাশে, সড়কের কেন্দ্রের সবচেয়ে কাছে।"
       }
     ]
   },
   {
     "id": "rta-hvb-040",
-    "question_text": "রাতে, আপনার ভারী যান অক্ষম থাকলে আপনাকে তিনটি প্রতিফলিত সতর্কীকরণ চিহ্ন ব্যবহার করতে হতে পারে এবং:",
+    "question_text": "রাতের বেলায়, তিনটি প্রতিফলক সতর্কতা চিহ্ন ব্যবহার করতে হতে পারে যদি আপনার ভারী যানবাহন অচল হয়ে পড়ে এবং:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-040-a",
-        "answer_text": "কোন দিকে 500 মিটার দূরত্বের জন্য দেখা যাবে না।"
+        "answer_text": "যেকোনো দিক থেকে ৫০০ মিটার দূর থেকে দেখা না যায়।"
       },
       {
         "id": "rta-hvb-040-b",
-        "answer_text": "কোন দিকে 200 মিটার দূরত্বের জন্য দেখা যাবে না।"
+        "answer_text": "যেকোনো দিক থেকে ২০০ মিটার দূর থেকে দেখা না যায়।"
       },
       {
         "id": "rta-hvb-040-c",
-        "answer_text": "একটি কোণ থেকে 100 মিটারের বেশি পার্ক করা হয়।"
+        "answer_text": "কোনো বাঁক থেকে ১০০ মিটারের বেশি দূরে পার্ক করা থাকে।"
       }
     ]
   },
   {
     "id": "rta-hvb-048",
-    "question_text": "টায়ার ব্যর্থতার প্রধান লক্ষণ হল \"",
+    "question_text": "টায়ার ফেটে যাওয়ার প্রধান লক্ষণ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-048-a",
-        "answer_text": "একটি বিকট শব্দ"
+        "answer_text": "একটি জোরে বিস্ফোরণের শব্দ।"
       },
       {
         "id": "rta-hvb-048-b",
@@ -5626,96 +5626,96 @@
   },
   {
     "id": "rta-hvb-081",
-    "question_text": "লং ড্রাইভে এবং আপনি প্রায়শই আপনার চোখের পলক ফেলতে শুরু করেন, এটি একটি লক্ষণ যে:",
+    "question_text": "দীর্ঘ ড্রাইভে যখন আপনি আরও ঘন ঘন চোখ পিটপিট করতে শুরু করেন, এটি একটি সংকেত যে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-081-a",
-        "answer_text": "আপনি আপনার সতর্কতা ফিরে পেতে শুরু করছেন।"
+        "answer_text": "আপনি আবার সতর্ক হতে শুরু করেছেন।"
       },
       {
         "id": "rta-hvb-081-b",
-        "answer_text": "আপনি জেগে উঠতে শুরু করছেন।"
+        "answer_text": "আপনি জেগে উঠতে শুরু করেছেন।"
       },
       {
         "id": "rta-hvb-081-c",
-        "answer_text": "আপনি ক্লান্ত হতে শুরু করছেন।"
+        "answer_text": "আপনি ক্লান্ত হতে শুরু করেছেন।"
       }
     ]
   },
   {
     "id": "rta-hvb-170",
-    "question_text": "At your next stop do a quick check around the vehicle. What signs should you look for?",
+    "question_text": "আপনার পরবর্তী স্টপে যানবাহনের চারদিকে দ্রুত পরীক্ষা করুন। আপনার কোন লক্ষণগুলি খোঁজা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-170-a",
-        "answer_text": "Under-inflated tires and over-heated brakes"
+        "answer_text": "কম চাপের টায়ার এবং অতি উত্তপ্ত ব্রেক"
       },
       {
         "id": "rta-hvb-170-b",
-        "answer_text": "Under-inflated tires and over-heated brakes"
+        "answer_text": "কম চাপের টায়ার এবং অতি উত্তপ্ত ব্রেক"
       },
       {
         "id": "rta-hvb-170-c",
-        "answer_text": "Clutch that is not biting"
+        "answer_text": "ক্লাচ যা বাইট করছে না"
       }
     ]
   },
   {
     "id": "rta-hvb-200",
-    "question_text": "Drive at lower speeds and be mindful of low structures along the way obeying height limit signs.",
+    "question_text": "উচ্চতা সীমার চিহ্ন মেনে চলে কম গতিতে চালান এবং পথে নিচু কাঠামোগুলো সম্পর্কে সতর্ক থাকুন।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-200-a",
-        "answer_text": "Do this before the trip"
+        "answer_text": "যাত্রার আগে এটি করুন"
       },
       {
         "id": "rta-hvb-200-b",
-        "answer_text": "Do this right after the trip"
+        "answer_text": "যাত্রার পরপরই এটি করুন"
       },
       {
         "id": "rta-hvb-200-c",
-        "answer_text": "Do this during the trip"
+        "answer_text": "যাত্রাকালীন এটি করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-202",
-    "question_text": "You are transporting long poles and logs, this should arrange lengthways? How do you ensure load security?",
+    "question_text": "আপনি লম্বা খুঁটি এবং গুঁড়ি পরিবহন করছেন, এগুলো দৈর্ঘ্য অনুযায়ী সাজানো উচিত? আপনি কীভাবে মালের নিরাপত্তা নিশ্চিত করবেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-202-a",
-        "answer_text": "Fully cover with tarpaulin and secure with thick rope"
+        "answer_text": "তারপালিন দিয়ে পুরোপুরি ঢেকে মোটা দড়ি দিয়ে বাঁধুন"
       },
       {
         "id": "rta-hvb-202-b",
-        "answer_text": "Support with steel chocks and chained to the vehicle with at least two sets of chains."
+        "answer_text": "স্টিল চক দিয়ে সহায়তা করুন এবং কমপক্ষে দুই সেট চেইন দিয়ে যানবাহনের সাথে বাঁধুন"
       },
       {
         "id": "rta-hvb-202-c",
-        "answer_text": "Tightly secure with rope and place warning signal"
+        "answer_text": "দড়ি দিয়ে শক্তভাবে বাঁধুন এবং সতর্কতা সংকেত রাখুন"
       }
     ]
   },
   {
     "id": "rta-hvb-215",
-    "question_text": "At the beginning of the neighborhood, you may encounter this sign. What should you do?",
+    "question_text": "আবাসিক এলাকার শুরুতে আপনি এই চিহ্নটি দেখতে পেতে পারেন। আপনার কী করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-215-a",
-        "answer_text": "A road may be a private property"
+        "answer_text": "সড়কটি ব্যক্তিগত সম্পত্তি হতে পারে"
       },
       {
         "id": "rta-hvb-215-b",
-        "answer_text": "A road may be closed by a gate ahead"
+        "answer_text": "সামনে সড়কটি গেট দিয়ে বন্ধ থাকতে পারে"
       },
       {
         "id": "rta-hvb-215-c",
-        "answer_text": "A road may be closed ahead"
+        "answer_text": "সামনে সড়কটি বন্ধ থাকতে পারে"
       }
     ]
   }

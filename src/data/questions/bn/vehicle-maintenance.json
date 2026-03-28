@@ -4937,2851 +4937,2851 @@
   },
   {
     "id": "rta-fk-004",
-    "question_text": "If applying for a forklift license, you will be tested in;",
+    "question_text": "যদি ফোর্কলিফ্ট লাইসেন্সের জন্য আবেদন করেন, তাহলে আপনাকে কীসে পরীক্ষা দেওয়া হবে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-004-a",
-        "answer_text": "A forklift with empty weight of more than 7.5 tons"
+        "answer_text": "একটি ফোর্কলিফ্ট যার খালি ওজন ৭.৫ টনের বেশি"
       },
       {
         "id": "rta-fk-004-b",
-        "answer_text": "A forklift with empty weight of less than 7.5 tons"
+        "answer_text": "একটি ফোর্কলিফ্ট যার খালি ওজন ৭.৫ টনের কম"
       },
       {
         "id": "rta-fk-004-c",
-        "answer_text": "A forklift with loaded weight of less than 7.5 tons"
+        "answer_text": "একটি ফোর্কলিফ্ট যার বোঝাই ওজন ৭.৫ টনের কম"
       }
     ]
   },
   {
     "id": "rta-fk-009",
-    "question_text": "Forklifts are used to:",
+    "question_text": "ফোর্কলিফ্ট ব্যবহৃত হয়:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-009-a",
-        "answer_text": "Move heavy goods vehicles"
+        "answer_text": "ভারী মালবাহী যানবাহন স্থানান্তর করতে"
       },
       {
         "id": "rta-fk-009-b",
-        "answer_text": "Transport people between areas"
+        "answer_text": "বিভিন্ন এলাকার মধ্যে মানুষ পরিবহন করতে"
       },
       {
         "id": "rta-fk-009-c",
-        "answer_text": "Transport loads between areas"
+        "answer_text": "বিভিন্ন এলাকার মধ্যে মালামাল পরিবহন করতে"
       }
     ]
   },
   {
     "id": "rta-fk-013",
-    "question_text": "There are 2 main types of motors used in forklifts. The internal combustion and;",
+    "question_text": "ফোর্কলিফ্টে ২ ধরনের মোটর ব্যবহার করা হয়। অভ্যন্তরীণ দহন এবং;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-013-a",
-        "answer_text": "Battery powered electric motors"
+        "answer_text": "ব্যাটারি চালিত বৈদ্যুতিক মোটর"
       },
       {
         "id": "rta-fk-013-b",
-        "answer_text": "Solar powered motors"
+        "answer_text": "সৌরশক্তি চালিত মোটর"
       },
       {
         "id": "rta-fk-013-c",
-        "answer_text": "Hydraulic powered motors"
+        "answer_text": "হাইড্রোলিক চালিত মোটর"
       }
     ]
   },
   {
     "id": "rta-fk-014",
-    "question_text": "Be safe when operating a battery powered forklift. Batteries contain;",
+    "question_text": "ব্যাটারি চালিত ফোর্কলিফ্ট চালানোর সময় নিরাপদ থাকুন। ব্যাটারিতে থাকে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-014-a",
-        "answer_text": "Distilled water"
+        "answer_text": "পাতিত জল"
       },
       {
         "id": "rta-fk-014-b",
-        "answer_text": "Sulfuric acid"
+        "answer_text": "সালফিউরিক অ্যাসিড"
       },
       {
         "id": "rta-fk-014-c",
-        "answer_text": "Liquefied Petroleum Gas (LPG)"
+        "answer_text": "তরল পেট্রোলিয়াম গ্যাস (LPG)"
       }
     ]
   },
   {
     "id": "rta-fk-018",
-    "question_text": "How can you avoid sparks when disconnecting batteries of the forklift?",
+    "question_text": "ফোর্কলিফ্টের ব্যাটারি ডিসকানেক্ট করার সময় স্ফুলিঙ্গ থেকে কীভাবে এড়ানো যায়?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-018-a",
-        "answer_text": "Use the isolation switch to ensure that the forklift circuit is open"
+        "answer_text": "আইসোলেশন সুইচ ব্যবহার করুন যাতে ফোর্কলিফ্টের সার্কিট খোলা থাকে"
       },
       {
         "id": "rta-fk-018-b",
-        "answer_text": "Use the ignition  switch to turn off the engine"
+        "answer_text": "ইঞ্জিন বন্ধ করতে ইগনিশন সুইচ ব্যবহার করুন"
       },
       {
         "id": "rta-fk-018-c",
-        "answer_text": "Use the handbrakes to ensure the forklift is not moving."
+        "answer_text": "হ্যান্ডব্রেক ব্যবহার করুন যাতে ফোর্কলিফ্ট না চলে"
       }
     ]
   },
   {
     "id": "rta-fk-019",
-    "question_text": "When disconnecting battery, these must not come into contact with terminals to avoid creating spark.",
+    "question_text": "ব্যাটারি ডিসকানেক্ট করার সময়, স্ফুলিঙ্গ এড়াতে এগুলো টার্মিনালের সংস্পর্শে আসা উচিত নয়।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-019-a",
-        "answer_text": "Hand gloves and jackets"
+        "answer_text": "হাতের গ্লাভস এবং জ্যাকেট"
       },
       {
         "id": "rta-fk-019-b",
-        "answer_text": "Metal tools or fittings"
+        "answer_text": "ধাতব সরঞ্জাম বা ফিটিং"
       },
       {
         "id": "rta-fk-019-c",
-        "answer_text": "Plastic or rubber tubes"
+        "answer_text": "প্লাস্টিক বা রাবারের নল"
       }
     ]
   },
   {
     "id": "rta-fk-021",
-    "question_text": "A key component of the forklift that prevents the load from falling to the operator.",
+    "question_text": "ফোর্কলিফ্টের একটি মূল উপাদান যা লোড অপারেটরের উপর পড়া থেকে রোধ করে।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-021-a",
-        "answer_text": "Warning light"
+        "answer_text": "সতর্কতা বাতি"
       },
       {
         "id": "rta-fk-021-b",
-        "answer_text": "Load backrest"
+        "answer_text": "লোড ব্যাকরেস্ট"
       },
       {
         "id": "rta-fk-021-c",
-        "answer_text": "Mast"
+        "answer_text": "মাস্ট"
       }
     ]
   },
   {
     "id": "rta-fk-022",
-    "question_text": "This pedal, located on the left side of the steering column also works as a clutch. It is known as;",
+    "question_text": "এই প্যাডেলটি, যা স্টিয়ারিং কলামের বাম দিকে অবস্থিত, ক্লাচ হিসেবেও কাজ করে। এটিকে বলে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-022-a",
-        "answer_text": "Brake pedal"
+        "answer_text": "ব্রেক প্যাডেল"
       },
       {
         "id": "rta-fk-022-b",
-        "answer_text": "Inching brake pedal"
+        "answer_text": "ইনচিং ব্রেক প্যাডেল"
       },
       {
         "id": "rta-fk-022-c",
-        "answer_text": "Clutch pedal"
+        "answer_text": "ক্লাচ প্যাডেল"
       }
     ]
   },
   {
     "id": "rta-fk-026",
-    "question_text": "It is important not to overuse the inching brake pedal because it may;",
+    "question_text": "ইনচিং ব্রেক প্যাডেলের অতিরিক্ত ব্যবহার করা উচিত নয় কারণ এতে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-026-a",
-        "answer_text": "Affect the balance of the forklift"
+        "answer_text": "ফোর্কলিফ্টের ভারসাম্য প্রভাবিত হতে পারে"
       },
       {
         "id": "rta-fk-026-b",
-        "answer_text": "Cause the automatic transmission oil to overheat"
+        "answer_text": "অটোমেটিক ট্রান্সমিশন তেল অতিরিক্ত গরম হতে পারে"
       },
       {
         "id": "rta-fk-026-c",
-        "answer_text": "Cause the brake fluid to expand"
+        "answer_text": "ব্রেক ফ্লুইড প্রসারিত হতে পারে"
       }
     ]
   },
   {
     "id": "rta-fk-029",
-    "question_text": "If operating a powered steering forklift, never switch off the engine while moving as this can result to;",
+    "question_text": "যদি পাওয়ার স্টিয়ারিং ফোর্কলিফ্ট চালাচ্ছেন, তাহলে চলতে চলতে ইঞ্জিন কখনো বন্ধ করবেন না কারণ এতে হতে পারে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-029-a",
-        "answer_text": "Total loss of steering"
+        "answer_text": "স্টিয়ারিংয়ের সম্পূর্ণ নিয়ন্ত্রণ হারানো"
       },
       {
         "id": "rta-fk-029-b",
-        "answer_text": "Total loss of brakes"
+        "answer_text": "ব্রেকের সম্পূর্ণ নিয়ন্ত্রণ হারানো"
       },
       {
         "id": "rta-fk-029-c",
-        "answer_text": "Breakage in the steering mechanism"
+        "answer_text": "স্টিয়ারিং প্রক্রিয়ায় ভাঙন"
       }
     ]
   },
   {
     "id": "rta-fk-031",
-    "question_text": "A forklift attachment that can be used to position heavy loads similar to cranes:",
+    "question_text": "একটি ফোর্কলিফ্ট অ্যাটাচমেন্ট যা ক্রেনের মতো ভারী বোঝা পজিশন করতে ব্যবহার করা যায়:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-031-a",
-        "answer_text": "Jibs"
+        "answer_text": "জিবস"
       },
       {
         "id": "rta-fk-031-b",
-        "answer_text": "Clamps"
+        "answer_text": "ক্ল্যাম্পস"
       },
       {
         "id": "rta-fk-031-c",
-        "answer_text": "Spikes"
+        "answer_text": "স্পাইকস"
       }
     ]
   },
   {
     "id": "rta-fk-033",
-    "question_text": "How do you ensure your forklift is able to safely carry the loads you will be working on?",
+    "question_text": "আপনি কীভাবে নিশ্চিত করবেন যে আপনার ফোর্কলিফ্ট আপনি যে বোঝাগুলো নিয়ে কাজ করবেন সেগুলো নিরাপদে বহন করতে সক্ষম?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-033-a",
-        "answer_text": "Check the capacity of the protective cage"
+        "answer_text": "সুরক্ষামূলক খাঁচার ক্ষমতা পরীক্ষা করুন"
       },
       {
         "id": "rta-fk-033-b",
-        "answer_text": "Check the load capacity of the tires"
+        "answer_text": "টায়ারের বোঝা ক্ষমতা পরীক্ষা করুন"
       },
       {
         "id": "rta-fk-033-c",
-        "answer_text": "Check the Safe Working Load (SWL)"
+        "answer_text": "নিরাপদ কার্যকরী বোঝা (SWL) পরীক্ষা করুন"
       }
     ]
   },
   {
     "id": "rta-fk-034",
-    "question_text": "Find out the load capacity and operating limits of your forklift by checking the;",
+    "question_text": "এটি পরীক্ষা করে আপনার ফোর্কলিফ্টের বোঝা ক্ষমতা এবং পরিচালনার সীমা জানুন;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-034-a",
-        "answer_text": "Forklift lifting mechanism"
+        "answer_text": "ফোর্কলিফ্ট লিফটিং মেকানিজম"
       },
       {
         "id": "rta-fk-034-b",
-        "answer_text": "Manufacturer's Data Plate"
+        "answer_text": "নির্মাতার ডেটা প্লেট"
       },
       {
         "id": "rta-fk-034-c",
-        "answer_text": "Forklift number plate"
+        "answer_text": "ফোর্কলিফ্ট নম্বর প্লেট"
       }
     ]
   },
   {
     "id": "rta-fk-036",
-    "question_text": "This attachment has fully adjustable reach with 1000 kgs Safe Working Load (SWL) at 1100mm.",
+    "question_text": "এই অ্যাটাচমেন্টের ১১০০mm এ ১০০০ কেজি নিরাপদ কার্যকরী বোঝা (SWL) সহ সম্পূর্ণ সামঞ্জস্যযোগ্য নাগাল রয়েছে।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-036-a",
-        "answer_text": "Jibs"
+        "answer_text": "জিবস"
       },
       {
         "id": "rta-fk-036-b",
-        "answer_text": "Forklift economy Jib"
+        "answer_text": "ফোর্কলিফ্ট ইকোনমি জিব"
       },
       {
         "id": "rta-fk-036-c",
-        "answer_text": "Forklift Extension Jib"
+        "answer_text": "ফোর্কলিফ্ট এক্সটেনশন জিব"
       }
     ]
   },
   {
     "id": "rta-fk-037",
-    "question_text": "For reasons of safety, heavier loads must be;",
+    "question_text": "নিরাপত্তার কারণে, ভারী বোঝা অবশ্যই;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-037-a",
-        "answer_text": "Moved quickly"
+        "answer_text": "দ্রুত সরানো হবে"
       },
       {
         "id": "rta-fk-037-b",
-        "answer_text": "Moved slowly"
+        "answer_text": "ধীরে সরানো হবে"
       },
       {
         "id": "rta-fk-037-c",
-        "answer_text": "Moved first"
+        "answer_text": "প্রথমে সরানো হবে"
       }
     ]
   },
   {
     "id": "rta-fk-038",
-    "question_text": "At your workplace, there are other traffic crossing your path. What adjustments should be made?",
+    "question_text": "আপনার কর্মক্ষেত্রে, অন্যান্য যানবাহন আপনার পথ অতিক্রম করছে। কী সমন্বয় করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-038-a",
-        "answer_text": "Brighter warning lights  for all to see easily"
+        "answer_text": "সবার সহজে দেখার জন্য উজ্জ্বল সতর্কতা আলো"
       },
       {
         "id": "rta-fk-038-b",
-        "answer_text": "Load to lighten the forklift"
+        "answer_text": "ফোর্কলিফ্ট হালকা করার জন্য বোঝা"
       },
       {
         "id": "rta-fk-038-c",
-        "answer_text": "Speed to enable stopping safely if needed"
+        "answer_text": "প্রয়োজনে নিরাপদে থামতে সক্ষম গতি"
       }
     ]
   },
   {
     "id": "rta-fk-041",
-    "question_text": "When refueling, the fuel may be ignited. What safety precaution must be taken to prevent this?",
+    "question_text": "জ্বালানি ভরার সময় জ্বালানিতে আগুন ধরতে পারে। এটি প্রতিরোধ করতে কী নিরাপত্তা সতর্কতা নিতে হবে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-041-a",
-        "answer_text": "The engine must not be running"
+        "answer_text": "ইঞ্জিন চলতে থাকা উচিত নয়"
       },
       {
         "id": "rta-fk-041-b",
-        "answer_text": "The engine must be on idle only"
+        "answer_text": "ইঞ্জিন শুধুমাত্র আইডলে থাকতে হবে"
       },
       {
         "id": "rta-fk-041-c",
-        "answer_text": "The engine must not be raced"
+        "answer_text": "ইঞ্জিন রেস করা উচিত নয়"
       }
     ]
   },
   {
     "id": "rta-fk-043",
-    "question_text": "Due to heavy workload, your supervisor wants you to continue using the forklift that has fuel leak. What is the safest thing to do here?",
+    "question_text": "অতিরিক্ত কাজের কারণে, আপনার সুপারভাইজার চান আপনি জ্বালানি লিক সহ ফোর্কলিফ্ট ব্যবহার চালিয়ে যান। এখানে সবচেয়ে নিরাপদ কাজ কী?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-043-a",
-        "answer_text": "Fix the fuel leak first, then resume work"
+        "answer_text": "প্রথমে জ্বালানি লিক মেরামত করুন, তারপর কাজ পুনরায় শুরু করুন"
       },
       {
         "id": "rta-fk-043-b",
-        "answer_text": "Fix the fuel leak after work is completed"
+        "answer_text": "কাজ সম্পন্ন হওয়ার পরে জ্বালানি লিক মেরামত করুন"
       },
       {
         "id": "rta-fk-043-c",
-        "answer_text": "Complete the work as carefully as possible"
+        "answer_text": "যতটা সম্ভব সতর্কতার সাথে কাজ সম্পন্ন করুন"
       }
     ]
   },
   {
     "id": "rta-fk-045",
-    "question_text": "As part of safe working practice, the operator needs to know this with or without load.",
+    "question_text": "নিরাপদ কর্মপ্রথার অংশ হিসেবে, অপারেটরকে এটি লোড সহ বা লোড ছাড়া জানতে হবে।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-045-a",
-        "answer_text": "The weight of the load"
+        "answer_text": "লোডের ওজন"
       },
       {
         "id": "rta-fk-045-b",
-        "answer_text": "The engine capacity"
+        "answer_text": "ইঞ্জিনের ক্ষমতা"
       },
       {
         "id": "rta-fk-045-c",
-        "answer_text": "The blind spots"
+        "answer_text": "অন্ধ দাগগুলো"
       }
     ]
   },
   {
     "id": "rta-fk-048",
-    "question_text": "At the start of your shift, you know that you will be raising loads. What should you check for to be safe?",
+    "question_text": "আপনার শিফটের শুরুতে, আপনি জানেন যে আপনি লোড তুলবেন। নিরাপদ থাকতে আপনার কী পরীক্ষা করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-048-a",
-        "answer_text": "An added lifting capacity"
+        "answer_text": "অতিরিক্ত উত্তোলন ক্ষমতা"
       },
       {
         "id": "rta-fk-048-b",
-        "answer_text": "An adequate floor space"
+        "answer_text": "পর্যাপ্ত মেঝের জায়গা"
       },
       {
         "id": "rta-fk-048-c",
-        "answer_text": "An adequate overhead clearance"
+        "answer_text": "পর্যাপ্ত উপরের ছাড়পত্র"
       }
     ]
   },
   {
     "id": "rta-fk-051",
-    "question_text": "Stop if any pedestrian crosses the route being travelled, you should also;",
+    "question_text": "যদি কোনো পথচারী পথ অতিক্রম করে তাহলে থামুন, আপনাকে এটিও করতে হবে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-051-a",
-        "answer_text": "Maintain the position of the load"
+        "answer_text": "লোডের অবস্থান বজায় রাখুন"
       },
       {
         "id": "rta-fk-051-b",
-        "answer_text": "Lower the load to the floor while waiting"
+        "answer_text": "অপেক্ষা করার সময় লোড মেঝেতে নামিয়ে রাখুন"
       },
       {
         "id": "rta-fk-051-c",
-        "answer_text": "Sound the horn to warn the pedestrians"
+        "answer_text": "পথচারীদের সতর্ক করতে হর্ন বাজান"
       }
     ]
   },
   {
     "id": "rta-fk-052",
-    "question_text": "When moving or shifting loads, protect your hands by wearing;",
+    "question_text": "লোড সরানো বা স্থানান্তর করার সময়, পরে আপনার হাত সুরক্ষিত রাখুন;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-052-a",
-        "answer_text": "Leather gloves"
+        "answer_text": "চামড়ার গ্লাভস"
       },
       {
         "id": "rta-fk-052-b",
-        "answer_text": "Silicon gloves"
+        "answer_text": "সিলিকন গ্লাভস"
       },
       {
         "id": "rta-fk-052-c",
-        "answer_text": "Rubber gloves"
+        "answer_text": "রাবার গ্লাভস"
       }
     ]
   },
   {
     "id": "rta-fk-065",
-    "question_text": "Before the start of your work, the battery needs to be checked if fully charged. Battery check also includes;",
+    "question_text": "কাজ শুরু করার আগে, ব্যাটারি সম্পূর্ণ চার্জ কিনা পরীক্ষা করা দরকার। ব্যাটারি পরীক্ষায় এটিও অন্তর্ভুক্ত;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-065-a",
-        "answer_text": "Hoses are held securely; not loose"
+        "answer_text": "হোজগুলো নিরাপদে ধরা আছে; আলগা নয়"
       },
       {
         "id": "rta-fk-065-b",
-        "answer_text": "The cables for exposed wires; battery plug"
+        "answer_text": "খোলা তারের জন্য কেবল; ব্যাটারি প্লাগ"
       },
       {
         "id": "rta-fk-065-c",
-        "answer_text": "Horn is working and loud enough"
+        "answer_text": "হর্ন কাজ করছে এবং যথেষ্ট জোরে"
       }
     ]
   },
   {
     "id": "rta-fk-067",
-    "question_text": "Identify at least four parts of a forklift which you must inspect daily.",
+    "question_text": "ফোর্কলিফটের কমপক্ষে চারটি অংশ চিহ্নিত করুন যেগুলো আপনাকে প্রতিদিন পরিদর্শন করতে হবে।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-067-a",
-        "answer_text": "Brakes, steering, controls, lights, warning gauges"
+        "answer_text": "ব্রেক, স্টিয়ারিং, নিয়ন্ত্রণ, লাইট, সতর্কতা গেজ"
       },
       {
         "id": "rta-fk-067-b",
-        "answer_text": "Tires, brakes, floor mats, overhead clearance"
+        "answer_text": "টায়ার, ব্রেক, ফ্লোর ম্যাট, উপরের ফাঁকা জায়গা"
       },
       {
         "id": "rta-fk-067-c",
-        "answer_text": "Steering, attachments, forks, trap door"
+        "answer_text": "স্টিয়ারিং, অ্যাটাচমেন্ট, ফর্কস, ট্র্যাপ ডোর"
       }
     ]
   },
   {
     "id": "rta-fk-070",
-    "question_text": "If the engine fails to start within approximately 10 seconds, what is best to do?",
+    "question_text": "ইঞ্জিন প্রায় ১০ সেকেন্ডে স্টার্ট না হলে কী করা সবচেয়ে ভালো?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-070-a",
-        "answer_text": "Try starting again until it starts"
+        "answer_text": "স্টার্ট হওয়া পর্যন্ত আবার চেষ্টা করতে থাকুন"
       },
       {
         "id": "rta-fk-070-b",
-        "answer_text": "Wait for the starter to cool down and try again"
+        "answer_text": "স্টার্টারকে ঠান্ডা হতে দিন এবং আবার চেষ্টা করুন"
       },
       {
         "id": "rta-fk-070-c",
-        "answer_text": "Request assistance to jumpstart the engine"
+        "answer_text": "ইঞ্জিন জাম্পস্টার্ট করতে সহায়তা চান"
       }
     ]
   },
   {
     "id": "rta-fk-072",
-    "question_text": "Before moving the forklift, you should;",
+    "question_text": "ফোর্কলিফট সরানোর আগে, আপনার উচিত;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-072-a",
-        "answer_text": "Raise all lowered attachments just clear of the ground"
+        "answer_text": "সমস্ত নামানো অ্যাটাচমেন্ট মাটি থেকে সামান্য উপরে তুলুন"
       },
       {
         "id": "rta-fk-072-b",
-        "answer_text": "Check that transmission control lever is in neutral position"
+        "answer_text": "নিশ্চিত করুন যে ট্রান্সমিশন কন্ট্রোল লিভার নিউট্রাল অবস্থানে আছে"
       },
       {
         "id": "rta-fk-072-c",
-        "answer_text": "Lower all raised attachments to the ground"
+        "answer_text": "সমস্ত উঁচু করা অ্যাটাচমেন্ট মাটিতে নামিয়ে দিন"
       }
     ]
   },
   {
     "id": "rta-fk-074",
-    "question_text": "The start up procedure and before moving should include safety check to ensure that;",
+    "question_text": "স্টার্ট-আপ পদ্ধতি ও চলার আগে নিরাপত্তা পরীক্ষায় নিশ্চিত করা অন্তর্ভুক্ত হওয়া উচিত যে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-074-a",
-        "answer_text": "The area has been cleared of loads to be moved"
+        "answer_text": "সরানোর জন্য বোঝা থেকে এলাকা পরিষ্কার করা হয়েছে"
       },
       {
         "id": "rta-fk-074-b",
-        "answer_text": "The machine is ready to operate for the day"
+        "answer_text": "মেশিন সারাদিন কাজ করার জন্য প্রস্তুত"
       },
       {
         "id": "rta-fk-074-c",
-        "answer_text": "The area is clear of all personnel and equipment"
+        "answer_text": "এলাকা সব কর্মী ও সরঞ্জাম থেকে মুক্ত"
       }
     ]
   },
   {
     "id": "rta-fk-075",
-    "question_text": "To maintain control when travelling, how should you position your load?",
+    "question_text": "চলার সময় নিয়ন্ত্রণ বজায় রাখতে, আপনার ভার কীভাবে রাখা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-075-a",
-        "answer_text": "Load is tilted forwards"
+        "answer_text": "ভার সামনের দিকে হেলানো"
       },
       {
         "id": "rta-fk-075-b",
-        "answer_text": "Load is tilted backwards"
+        "answer_text": "ভার পেছনের দিকে হেলানো"
       },
       {
         "id": "rta-fk-075-c",
-        "answer_text": "Load is flat and not tilted"
+        "answer_text": "ভার সমতল এবং হেলানো নয়"
       }
     ]
   },
   {
     "id": "rta-fk-080",
-    "question_text": "When loading the forklift truck, the load's center of gravity should be;",
+    "question_text": "ফোর্কলিফট ট্রাকে লোড করার সময়, ভারের মাধ্যাকর্ষণ কেন্দ্র হওয়া উচিত;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-080-a",
-        "answer_text": "As high as possible"
+        "answer_text": "যতটা সম্ভব উঁচু"
       },
       {
         "id": "rta-fk-080-b",
-        "answer_text": "As low as possible"
+        "answer_text": "যতটা সম্ভব নিচু"
       },
       {
         "id": "rta-fk-080-c",
-        "answer_text": "Centered to the fulcrum"
+        "answer_text": "ফুলক্রামের কেন্দ্রে"
       }
     ]
   },
   {
     "id": "rta-fk-085",
-    "question_text": "Before raising the load of the forklift, the operator must;",
+    "question_text": "ফোর্কলিফটের ভার উত্তোলনের আগে, অপারেটরকে অবশ্যই;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-085-a",
-        "answer_text": "Ensure there is enough overhead clearance"
+        "answer_text": "নিশ্চিত করুন যে উপরে পর্যাপ্ত ফাঁকা জায়গা আছে"
       },
       {
         "id": "rta-fk-085-b",
-        "answer_text": "Ensure the load is light enough for the forklift to raise"
+        "answer_text": "নিশ্চিত করুন যে ফোর্কলিফটের উত্তোলনের জন্য ভার যথেষ্ট হালকা"
       },
       {
         "id": "rta-fk-085-c",
-        "answer_text": "Ensure the forklift is safe to operate"
+        "answer_text": "নিশ্চিত করুন যে ফোর্কলিফট চালানো নিরাপদ"
       }
     ]
   },
   {
     "id": "rta-fk-086",
-    "question_text": "Before raising or lowering the load of the forklift, the operator must ensure that;",
+    "question_text": "ফোর্কলিফটের ভার উত্তোলন বা নামানোর আগে, অপারেটরকে নিশ্চিত করতে হবে যে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-086-a",
-        "answer_text": "The forklift is in a stable ground and moving slow"
+        "answer_text": "ফোর্কলিফট স্থিতিশীল মাটিতে আছে এবং ধীরে চলছে"
       },
       {
         "id": "rta-fk-086-b",
-        "answer_text": "The forklift is stopped and braked"
+        "answer_text": "ফোর্কলিফট থেমে আছে এবং ব্রেক লাগানো"
       },
       {
         "id": "rta-fk-086-c",
-        "answer_text": "The forklift has extendable mast"
+        "answer_text": "ফোর্কলিফটে প্রসারযোগ্য মাস্ট আছে"
       }
     ]
   },
   {
     "id": "rta-fk-087",
-    "question_text": "Never exceed the recommended limit of the lift truck.  The information on the load limit can be found on the;",
+    "question_text": "লিফট ট্রাকের প্রস্তাবিত সীমা কখনো অতিক্রম করবেন না। লোড সীমার তথ্য পাওয়া যায়;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-087-a",
-        "answer_text": "Safety equipment"
+        "answer_text": "নিরাপত্তা সরঞ্জাম"
       },
       {
         "id": "rta-fk-087-b",
-        "answer_text": "Data plate of the load"
+        "answer_text": "ভারের ডেটা প্লেট"
       },
       {
         "id": "rta-fk-087-c",
-        "answer_text": "Data plate of the of the lift truck"
+        "answer_text": "লিফট ট্রাকের ডেটা প্লেট"
       }
     ]
   },
   {
     "id": "rta-fk-092",
-    "question_text": "If the load is not positioned against the heel of the fork arms;",
+    "question_text": "যদি লোডটি ফর্ক বাহুর গোড়ার বিরুদ্ধে রাখা না হয়;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-092-a",
-        "answer_text": "It makes the forklift more stable and easy to operate"
+        "answer_text": "এটি ফর্কলিফটকে আরও স্থিতিশীল এবং চালানো সহজ করে তোলে"
       },
       {
         "id": "rta-fk-092-b",
-        "answer_text": "it can cause the forklift to slide sideward"
+        "answer_text": "এটি ফর্কলিফটকে পাশে পিছলে যেতে পারে"
       },
       {
         "id": "rta-fk-092-c",
-        "answer_text": "it can cause the forklift to tip forward"
+        "answer_text": "এটি ফর্কলিফটকে সামনের দিকে কাত করতে পারে"
       }
     ]
   },
   {
     "id": "rta-hfk-004",
-    "question_text": "Digging, levelling,  pushing, load and carry operations are just;",
+    "question_text": "খনন, সমতল করা, ঠেলা দেওয়া, লোড ও বহন অপারেশন শুধুমাত্র;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-004-a",
-        "answer_text": "Some features of the shovels"
+        "answer_text": "শাভেলের কিছু বৈশিষ্ট্য"
       },
       {
         "id": "rta-hfk-004-b",
-        "answer_text": "Some of the uses of shovels"
+        "answer_text": "শাভেলের কিছু ব্যবহার"
       },
       {
         "id": "rta-hfk-004-c",
-        "answer_text": "The only use of the shovels"
+        "answer_text": "শাভেলের একমাত্র ব্যবহার"
       }
     ]
   },
   {
     "id": "rta-hfk-008",
-    "question_text": "When steering a loaded bucket, there is a danger of tipping because;",
+    "question_text": "ভরা বালতি নিয়ে স্টিয়ারিং করার সময় উল্টে যাওয়ার বিপদ থাকে কারণ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-008-a",
-        "answer_text": "The weight is shifted away from the body of the shovel."
+        "answer_text": "ওজন শাভেলের মূল অংশ থেকে সরে যায়।"
       },
       {
         "id": "rta-hfk-008-b",
-        "answer_text": "The body of the shovel shifts to either side"
+        "answer_text": "শাভেলের মূল অংশ যেকোনো একদিকে সরে যায়"
       },
       {
         "id": "rta-hfk-008-c",
-        "answer_text": "The weight of the shovel increases while moving"
+        "answer_text": "চলার সময় শাভেলের ওজন বৃদ্ধি পায়"
       }
     ]
   },
   {
     "id": "rta-hfk-019",
-    "question_text": "What could be a potential problem with having uneven tire pressure in a shovel?",
+    "question_text": "শাভেলে অসম টায়ার চাপ থাকলে কী সম্ভাব্য সমস্যা হতে পারে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-019-a",
-        "answer_text": "Load may transfer to the side with the lower pressure and cause an overturn"
+        "answer_text": "ভার কম চাপের দিকে স্থানান্তরিত হয়ে উল্টে যাওয়ার কারণ হতে পারে"
       },
       {
         "id": "rta-hfk-019-b",
-        "answer_text": "Load may transfer to one side and slow down the work progress"
+        "answer_text": "ভার এক দিকে চলে গিয়ে কাজের গতি কমিয়ে দিতে পারে"
       },
       {
         "id": "rta-hfk-019-c",
-        "answer_text": "It can cause heavy wear and tear to the steering"
+        "answer_text": "স্টিয়ারিংয়ে ভারী ক্ষয় হতে পারে"
       }
     ]
   },
   {
     "id": "rta-hfk-028",
-    "question_text": "When checking the correct transmission fluid level of you shovel, do this;",
+    "question_text": "আপনার শাভেলের ট্রান্সমিশন ফ্লুইড লেভেল সঠিকভাবে পরীক্ষা করতে এটি করুন;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-028-a",
-        "answer_text": "When the shovel is parked and has cooled down"
+        "answer_text": "যখন শাভেল পার্ক করা থাকে এবং ঠান্ডা হয়ে গেছে"
       },
       {
         "id": "rta-hfk-028-b",
-        "answer_text": "When the shovel is parked and engine is still hot"
+        "answer_text": "যখন শাভেল পার্ক করা থাকে এবং ইঞ্জিন এখনো গরম"
       },
       {
         "id": "rta-hfk-028-c",
-        "answer_text": "When the shovel is working during the day"
+        "answer_text": "যখন শাভেল দিনের বেলা কাজ করছে"
       }
     ]
   },
   {
     "id": "rta-hfk-030",
-    "question_text": "If you want to check if the fan belt is properly tensioned, how should you do it?",
+    "question_text": "যদি আপনি পরীক্ষা করতে চান যে ফ্যান বেল্ট সঠিকভাবে টানটান আছে কিনা, তাহলে কীভাবে করবেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-030-a",
-        "answer_text": "Depress the belt at the top of the fan pulley"
+        "answer_text": "ফ্যান পুলির উপরে বেল্টটি চাপুন"
       },
       {
         "id": "rta-hfk-030-b",
-        "answer_text": "Depress the belt between the fan and the alternator pulleys"
+        "answer_text": "ফ্যান এবং অল্টারনেটর পুলির মধ্যে বেল্টটি চাপুন"
       },
       {
         "id": "rta-hfk-030-c",
-        "answer_text": "Pull the belt between the fan and the alternator pulleys"
+        "answer_text": "ফ্যান এবং অল্টারনেটর পুলির মধ্যে বেল্টটি টানুন"
       }
     ]
   },
   {
     "id": "rta-hfk-031",
-    "question_text": "The electrical wirings should be checked for;",
+    "question_text": "বৈদ্যুতিক তারগুলো এসবের জন্য পরীক্ষা করতে হবে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-031-a",
-        "answer_text": "Damaged wires, and lights and horn are working."
+        "answer_text": "ক্ষতিগ্রস্ত তার, এবং লাইট ও হর্ন কাজ করছে।"
       },
       {
         "id": "rta-hfk-031-b",
-        "answer_text": "Damaged pulleys"
+        "answer_text": "ক্ষতিগ্রস্ত পুলি"
       },
       {
         "id": "rta-hfk-031-c",
-        "answer_text": "Damaged headlights"
+        "answer_text": "ক্ষতিগ্রস্ত হেডলাইট"
       }
     ]
   },
   {
     "id": "rta-hfk-032",
-    "question_text": "The battery terminals should be checked for tightness. Loose terminals can cause;",
+    "question_text": "ব্যাটারি টার্মিনালগুলো শক্তভাবে লাগানো আছে কিনা পরীক্ষা করতে হবে। ঢিলা টার্মিনাল হতে পারে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-032-a",
-        "answer_text": "Quick starting"
+        "answer_text": "দ্রুত স্টার্ট হওয়া"
       },
       {
         "id": "rta-hfk-032-b",
-        "answer_text": "A spark and even explosion"
+        "answer_text": "স্ফুলিঙ্গ এবং এমনকি বিস্ফোরণ"
       },
       {
         "id": "rta-hfk-032-c",
-        "answer_text": "Supercharging"
+        "answer_text": "সুপারচার্জিং"
       }
     ]
   },
   {
     "id": "rta-hfk-034",
-    "question_text": "The battery can over-heat and fail prematurely if;",
+    "question_text": "ব্যাটারি অতিরিক্ত গরম হতে পারে এবং সময়ের আগে নষ্ট হতে পারে যদি;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-034-a",
-        "answer_text": "The electrolyte level is low"
+        "answer_text": "ইলেক্ট্রোলাইটের মাত্রা কম হয়"
       },
       {
         "id": "rta-hfk-034-b",
-        "answer_text": "The electrolyte level is high"
+        "answer_text": "ইলেক্ট্রোলাইটের মাত্রা বেশি হয়"
       },
       {
         "id": "rta-hfk-034-c",
-        "answer_text": "The connections are too tight"
+        "answer_text": "সংযোগগুলো অতিরিক্ত শক্ত হয়"
       }
     ]
   },
   {
     "id": "rta-hfk-041",
-    "question_text": "Why do you need to walk around the shovel again before starting the engine?",
+    "question_text": "ইঞ্জিন শুরু করার আগে আপনাকে আবার শাভেলের চারপাশে হাঁটতে হবে কেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-041-a",
-        "answer_text": "To enable quick start up procedure"
+        "answer_text": "দ্রুত স্টার্ট-আপ পদ্ধতি সক্ষম করতে"
       },
       {
         "id": "rta-hfk-041-b",
-        "answer_text": "To check the surrounding for bit of relaxation"
+        "answer_text": "একটু বিশ্রামের জন্য চারপাশ পরীক্ষা করতে"
       },
       {
         "id": "rta-hfk-041-c",
-        "answer_text": "To check the surrounding and ensure all around safety"
+        "answer_text": "চারপাশ পরীক্ষা করতে এবং সর্বদিক নিরাপত্তা নিশ্চিত করতে"
       }
     ]
   },
   {
     "id": "rta-hfk-044",
-    "question_text": "Before starting the engine of your shovel, what should you be checking first?",
+    "question_text": "আপনার শাভেলের ইঞ্জিন চালু করার আগে, প্রথমে কী পরীক্ষা করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-044-a",
-        "answer_text": "Check that the park brake is set to neutral position"
+        "answer_text": "পার্ক ব্রেক নিউট্রাল অবস্থানে সেট আছে কিনা পরীক্ষা করুন"
       },
       {
         "id": "rta-hfk-044-b",
-        "answer_text": "Check that the park brake is set to engaged position"
+        "answer_text": "পার্ক ব্রেক সক্রিয় অবস্থানে সেট আছে কিনা পরীক্ষা করুন"
       },
       {
         "id": "rta-hfk-044-c",
-        "answer_text": "Check that the park brake is disengaged"
+        "answer_text": "পার্ক ব্রেক নিষ্ক্রিয় কিনা পরীক্ষা করুন"
       }
     ]
   },
   {
     "id": "rta-hfk-045",
-    "question_text": "After starting the engine of your shovel, what should you be checking?",
+    "question_text": "আপনার শাভেলের ইঞ্জিন চালু করার পরে, কী পরীক্ষা করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-045-a",
-        "answer_text": "Check that the park brake is set to neutral position"
+        "answer_text": "পার্ক ব্রেক নিউট্রাল অবস্থানে সেট আছে কিনা পরীক্ষা করুন"
       },
       {
         "id": "rta-hfk-045-b",
-        "answer_text": "Check the position and operation of park brakes and emergency devices"
+        "answer_text": "পার্ক ব্রেক এবং জরুরি ডিভাইসের অবস্থান ও কার্যক্রম পরীক্ষা করুন"
       },
       {
         "id": "rta-hfk-045-c",
-        "answer_text": "Check the fuel and oil pressure gauges to ensure that they are working"
+        "answer_text": "জ্বালানি ও তেলের চাপের গেজ পরীক্ষা করুন যাতে সেগুলো কাজ করছে কিনা নিশ্চিত হয়"
       }
     ]
   },
   {
     "id": "rta-hfk-046",
-    "question_text": "Once the engine of your shovel has been started, the key should",
+    "question_text": "একবার আপনার শাভেলের ইঞ্জিন চালু হলে, চাবিটি",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-046-a",
-        "answer_text": "Be returned to ON position"
+        "answer_text": "ON অবস্থানে ফিরিয়ে আনুন"
       },
       {
         "id": "rta-hfk-046-b",
-        "answer_text": "Be kept on the START position"
+        "answer_text": "START অবস্থানে রাখুন"
       },
       {
         "id": "rta-hfk-046-c",
-        "answer_text": "Be returned to OFF position"
+        "answer_text": "OFF অবস্থানে ফিরিয়ে আনুন"
       }
     ]
   },
   {
     "id": "rta-hfk-047",
-    "question_text": "What should you do if the oil pressure gauge does not come up to operating pressure after starting?",
+    "question_text": "ইঞ্জিন চালু করার পরে যদি তেলের চাপের গেজ অপারেটিং চাপে না পৌঁছায় তাহলে কী করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-047-a",
-        "answer_text": "Take the shovel straight for maintenance"
+        "answer_text": "শাভেলটি সরাসরি রক্ষণাবেক্ষণের জন্য নিয়ে যান"
       },
       {
         "id": "rta-hfk-047-b",
-        "answer_text": "Shut the engine down immediately and have it checked before restarting"
+        "answer_text": "অবিলম্বে ইঞ্জিন বন্ধ করুন এবং পুনরায় চালু করার আগে পরীক্ষা করান"
       },
       {
         "id": "rta-hfk-047-c",
-        "answer_text": "Shut the engine down and immediately restart"
+        "answer_text": "ইঞ্জিন বন্ধ করুন এবং অবিলম্বে পুনরায় চালু করুন"
       }
     ]
   },
   {
     "id": "rta-hfk-048",
-    "question_text": "When shutting down the engine of your shovel, you must;",
+    "question_text": "আপনার শাভেলের ইঞ্জিন বন্ধ করার সময়, আপনাকে অবশ্যই;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-048-a",
-        "answer_text": "Engage the bucket control lever"
+        "answer_text": "বাকেট কন্ট্রোল লিভার সক্রিয় করুন"
       },
       {
         "id": "rta-hfk-048-b",
-        "answer_text": "Park on the ground you like most"
+        "answer_text": "পছন্দের জমিতে পার্ক করুন"
       },
       {
         "id": "rta-hfk-048-c",
-        "answer_text": "Lower all ground engaging implements"
+        "answer_text": "সমস্ত মাটি খোঁড়ার সরঞ্জাম নামিয়ে রাখুন"
       }
     ]
   },
   {
     "id": "rta-hfk-049",
-    "question_text": "After engine shutdown and before leaving the shovel, walk around it and look for;",
+    "question_text": "ইঞ্জিন বন্ধ করার পরে এবং শাভেল ছেড়ে যাওয়ার আগে, চারদিকে হেঁটে দেখুন;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-049-a",
-        "answer_text": "The nearest exit"
+        "answer_text": "নিকটতম বের হওয়ার পথ"
       },
       {
         "id": "rta-hfk-049-b",
-        "answer_text": "Any unfinished work that needs to be finished the next day"
+        "answer_text": "যেকোনো অসম্পূর্ণ কাজ যা পরের দিন শেষ করতে হবে"
       },
       {
         "id": "rta-hfk-049-c",
-        "answer_text": "Any oil leaks or any damage that may have occurred during operation"
+        "answer_text": "যেকোনো তেল লিক বা অপারেশনের সময় হওয়া কোনো ক্ষতি"
       }
     ]
   },
   {
     "id": "rta-hfk-050",
-    "question_text": "You must ensure this when shutting down the engine of your shovel;",
+    "question_text": "আপনার শাভেলের ইঞ্জিন বন্ধ করার সময় আপনাকে এটি নিশ্চিত করতে হবে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-050-a",
-        "answer_text": "Apply the park brake"
+        "answer_text": "পার্ক ব্রেক প্রয়োগ করুন"
       },
       {
         "id": "rta-hfk-050-b",
-        "answer_text": "Transmission engaged in first gear"
+        "answer_text": "ট্রান্সমিশন প্রথম গিয়ারে থাকবে"
       },
       {
         "id": "rta-hfk-050-c",
-        "answer_text": "Ground engaging implements are raised"
+        "answer_text": "মাটি খোঁড়ার সরঞ্জাম উপরে তোলা থাকবে"
       }
     ]
   },
   {
     "id": "rta-hfk-052",
-    "question_text": "After shutting down the engine, relieve pressure in the hydraulic lines by;",
+    "question_text": "ইঞ্জিন বন্ধ করার পরে, হাইড্রোলিক লাইনে চাপ কমাতে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-052-a",
-        "answer_text": "Moving the bucket control levers through all positions"
+        "answer_text": "বাকেট কন্ট্রোল লিভারগুলো সব অবস্থানে নাড়ান"
       },
       {
         "id": "rta-hfk-052-b",
-        "answer_text": "Allowing the bucket to swing back and forth"
+        "answer_text": "বাকেটকে সামনে-পিছনে দুলতে দিন"
       },
       {
         "id": "rta-hfk-052-c",
-        "answer_text": "Placing the transmission levers into neutral"
+        "answer_text": "ট্রান্সমিশন লিভারগুলো নিউট্রালে রাখুন"
       }
     ]
   },
   {
     "id": "rta-hfk-053",
-    "question_text": "Why is it better to refuel the shovel at the end of the day?",
+    "question_text": "দিনের শেষে শাভেলে জ্বালানি ভরা কেন ভালো?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-053-a",
-        "answer_text": "It will help to reduce the amount of work for the day"
+        "answer_text": "এটি দিনের কাজের পরিমাণ কমাতে সাহায্য করবে"
       },
       {
         "id": "rta-hfk-053-b",
-        "answer_text": "It will help to reduce the amount of condensation in the fuel tank."
+        "answer_text": "এটি জ্বালানি ট্যাঙ্কে ঘনীভবনের পরিমাণ কমাতে সাহায্য করবে"
       },
       {
         "id": "rta-hfk-053-c",
-        "answer_text": "It will be better for lubrication of the shovel engine"
+        "answer_text": "এটি শাভেলের ইঞ্জিনের তৈলাক্তকরণের জন্য ভালো হবে"
       }
     ]
   },
   {
     "id": "rta-hfk-056",
-    "question_text": "You noticed that your shovel starts to slide, what part of shovel can you use as an  additional brake?",
+    "question_text": "আপনি লক্ষ্য করলেন আপনার শাভেল পিছলাতে শুরু করেছে, শাভেলের কোন অংশটি অতিরিক্ত ব্রেক হিসেবে ব্যবহার করতে পারেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-056-a",
-        "answer_text": "Place the bucket on the ground to act as a brake"
+        "answer_text": "বাকেটটি ব্রেক হিসেবে কাজ করতে মাটিতে রাখুন"
       },
       {
         "id": "rta-hfk-056-b",
-        "answer_text": "Disposing off the load immediately"
+        "answer_text": "অবিলম্বে বোঝা ফেলে দিন"
       },
       {
         "id": "rta-hfk-056-c",
-        "answer_text": "Placing the transmission levers into neutral"
+        "answer_text": "ট্রান্সমিশন লিভারগুলো নিউট্রালে রাখুন"
       }
     ]
   },
   {
     "id": "rta-hfk-059",
-    "question_text": "Warn all other personnel to keep clear from the shovel and not  touch any part of the machine in case;",
+    "question_text": "সমস্ত অন্যান্য কর্মীদের শাভেল থেকে দূরে থাকতে এবং মেশিনের কোনো অংশ স্পর্শ না করতে সতর্ক করুন, যদি;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-059-a",
-        "answer_text": "The shovel contacts live power lines"
+        "answer_text": "শাভেল সক্রিয় বিদ্যুৎ লাইনের সংস্পর্শে আসে"
       },
       {
         "id": "rta-hfk-059-b",
-        "answer_text": "The shovel gets stuck in the mud"
+        "answer_text": "শাভেল কাদায় আটকে যায়"
       },
       {
         "id": "rta-hfk-059-c",
-        "answer_text": "the shovel engine gets overheated"
+        "answer_text": "শাভেলের ইঞ্জিন অতিরিক্ত গরম হয়ে যায়"
       }
     ]
   },
   {
     "id": "rta-hfk-062",
-    "question_text": "If your shovel stalls on a steep ramp, what procedure should you do?",
+    "question_text": "যদি আপনার শাভেল কোনো খাড়া ঢালে বন্ধ হয়ে যায়, তাহলে আপনার কী পদক্ষেপ নেওয়া উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-062-a",
-        "answer_text": "Stay inside the cabin Apply the brakes Bring shovel to a stop"
+        "answer_text": "কেবিনে থাকুন ব্রেক লাগান শাভেল থামান"
       },
       {
         "id": "rta-hfk-062-b",
-        "answer_text": "Stay inside the cabin Apply the brakes Lower all the equipment"
+        "answer_text": "কেবিনে থাকুন ব্রেক লাগান সমস্ত সরঞ্জাম নিচে নামান"
       },
       {
         "id": "rta-hfk-062-c",
-        "answer_text": "Stay inside the cabin Attempt to re-start the engine Chock the wheels"
+        "answer_text": "কেবিনে থাকুন ইঞ্জিন পুনরায় চালু করার চেষ্টা করুন চাকায় চক লাগান"
       }
     ]
   },
   {
     "id": "rta-hfk-073",
-    "question_text": "To fill the bucket when digging and loading from a level ground, you must;",
+    "question_text": "সমতল জমি থেকে খনন ও লোডিং করার সময় বালতি পূর্ণ করতে, আপনাকে অবশ্যই;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-073-a",
-        "answer_text": "Set the bucket facing directly facing forward"
+        "answer_text": "বালতিটি সরাসরি সামনের দিকে রাখুন"
       },
       {
         "id": "rta-hfk-073-b",
-        "answer_text": "Set the edge of the bucket facing slightly down"
+        "answer_text": "বালতির প্রান্তটি সামান্য নিচের দিকে রাখুন"
       },
       {
         "id": "rta-hfk-073-c",
-        "answer_text": "Set the edge of the bucket facing slightly upwards"
+        "answer_text": "বালতির প্রান্তটি সামান্য উপরের দিকে রাখুন"
       }
     ]
   },
   {
     "id": "rta-hfk-074",
-    "question_text": "To fill the bucket when digging and loading from a level ground. This operation should be;",
+    "question_text": "সমতল জমি থেকে খনন ও লোডিং করার সময় বালতি পূর্ণ করতে। এই অপারেশনটি করা উচিত;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-074-a",
-        "answer_text": "Carried out in first gear"
+        "answer_text": "প্রথম গিয়ারে"
       },
       {
         "id": "rta-hfk-074-b",
-        "answer_text": "Carried out in second gear"
+        "answer_text": "দ্বিতীয় গিয়ারে"
       },
       {
         "id": "rta-hfk-074-c",
-        "answer_text": "Carried out either on first or second gear"
+        "answer_text": "প্রথম বা দ্বিতীয় যেকোনো গিয়ারে"
       }
     ]
   },
   {
     "id": "rta-hfk-078",
-    "question_text": "When transporting a full bucket, keep the loader's center of gravity low and;",
+    "question_text": "পূর্ণ বালতি পরিবহন করার সময়, লোডারের মাধ্যাকর্ষণ কেন্দ্র নিচু রাখুন এবং;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-078-a",
-        "answer_text": "Only raise the bucket just prior to discharge of the load"
+        "answer_text": "লোড নামানোর ঠিক আগে বালতিটি উঁচু করুন"
       },
       {
         "id": "rta-hfk-078-b",
-        "answer_text": "Maintain the load in high position while travelling"
+        "answer_text": "যাত্রার সময় লোড উঁচু অবস্থানে রাখুন"
       },
       {
         "id": "rta-hfk-078-c",
-        "answer_text": "Only dip the bucket at the last moment"
+        "answer_text": "শেষ মুহূর্তে বালতিটি নামান"
       }
     ]
   },
   {
     "id": "rta-moto-010",
-    "question_text": "To better control the throttle, brake and clutch levers:",
+    "question_text": "থ্রোটল, ব্রেক এবং ক্লাচ লিভার আরও ভালোভাবে নিয়ন্ত্রণ করতে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-010-a",
-        "answer_text": "sit well back in the seat."
+        "answer_text": "আসনে পিছনে হেলান দিয়ে বসুন।"
       },
       {
         "id": "rta-moto-010-b",
-        "answer_text": "take pressure off the footpegs."
+        "answer_text": "ফুটপেগ থেকে চাপ সরিয়ে নিন।"
       },
       {
         "id": "rta-moto-010-c",
-        "answer_text": "hold the handgrips firmly."
+        "answer_text": "হ্যান্ডগ্রিপ শক্তভাবে ধরুন।"
       }
     ]
   },
   {
     "id": "rta-moto-039",
-    "question_text": "The best place to carry a load on a motorcycle is:",
+    "question_text": "মোটরসাইকেলে মালপত্র বহনের সবচেয়ে ভালো জায়গা হলো:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-039-a",
-        "answer_text": "in a bag on your back."
+        "answer_text": "পিঠে ব্যাগে।"
       },
       {
         "id": "rta-moto-039-b",
-        "answer_text": "above or in front of the rear axle."
+        "answer_text": "পেছনের অ্যাক্সেলের উপরে বা সামনে।"
       },
       {
         "id": "rta-moto-039-c",
-        "answer_text": "just above the tail light."
+        "answer_text": "টেইল লাইটের ঠিক উপরে।"
       }
     ]
   },
   {
     "id": "rta-moto-040",
-    "question_text": "Where is the best place to carry a load on a motorcycle?",
+    "question_text": "মোটরসাইকেলে মালপত্র বহনের সবচেয়ে ভালো জায়গা কোথায়?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-040-a",
-        "answer_text": "Over or just in front of the rear axle."
+        "answer_text": "পেছনের অ্যাক্সেলের উপরে বা ঠিক সামনে।"
       },
       {
         "id": "rta-moto-040-b",
-        "answer_text": "On the handlebars."
+        "answer_text": "হ্যান্ডেলবারে।"
       },
       {
         "id": "rta-moto-040-c",
-        "answer_text": "In a bag on your back."
+        "answer_text": "পিঠে ব্যাগে।"
       }
     ]
   },
   {
     "id": "rta-moto-046",
-    "question_text": "Which of the following points apply to correct loading of a motorcycle?",
+    "question_text": "মোটরসাইকেলে সঠিকভাবে মালপত্র বোঝাই করার জন্য নিচের কোন বিষয়টি প্রযোজ্য?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-046-a",
-        "answer_text": "Keep the load high and forward."
+        "answer_text": "মালপত্র উঁচুতে এবং সামনে রাখুন।"
       },
       {
         "id": "rta-moto-046-b",
-        "answer_text": "Keep the load high and evenly distributed."
+        "answer_text": "মালপত্র উঁচুতে এবং সমানভাবে বিতরণ করে রাখুন।"
       },
       {
         "id": "rta-moto-046-c",
-        "answer_text": "Keep the load forward and evenly distributed."
+        "answer_text": "মালপত্র সামনে এবং সমানভাবে বিতরণ করে রাখুন।"
       }
     ]
   },
   {
     "id": "rta-moto-047",
-    "question_text": "Which of the following motorcycle parts require lubrication?",
+    "question_text": "মোটরসাইকেলের নিচের কোন কোন যন্ত্রাংশে লুব্রিকেশন প্রয়োজন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-047-a",
-        "answer_text": "Chain."
+        "answer_text": "চেইন।"
       },
       {
         "id": "rta-moto-047-b",
-        "answer_text": "Chain, brake linings and shock absorbers."
+        "answer_text": "চেইন, ব্রেক লাইনিং এবং শক অ্যাবজর্বার।"
       },
       {
         "id": "rta-moto-047-c",
-        "answer_text": "Brake linings and shock absorbers."
+        "answer_text": "ব্রেক লাইনিং এবং শক অ্যাবজর্বার।"
       }
     ]
   },
   {
     "id": "rta-moto-052",
-    "question_text": "If your throttle is stuck open in traffic, the first thing you should do is:",
+    "question_text": "যদি ট্রাফিকে আপনার থ্রটল খোলা অবস্থায় আটকে যায়, তাহলে প্রথমে আপনার কী করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-052-a",
-        "answer_text": "apply the brakes."
+        "answer_text": "ব্রেক প্রয়োগ করুন।"
       },
       {
         "id": "rta-moto-052-b",
-        "answer_text": "move the throttle back and forth and try to unstick it."
+        "answer_text": "থ্রটল সামনে-পেছনে নাড়িয়ে আটকামুক্ত করার চেষ্টা করুন।"
       },
       {
         "id": "rta-moto-052-c",
-        "answer_text": "pull in the clutch."
+        "answer_text": "ক্লাচ টেনে ধরুন।"
       }
     ]
   },
   {
     "id": "rta-moto-080",
-    "question_text": "When riding, bumps on the road can :",
+    "question_text": "রাইড করার সময় রাস্তার উঁচু-নিচু অংশ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-080-a",
-        "answer_text": "affect your directional control."
+        "answer_text": "আপনার দিকনির্দেশনা নিয়ন্ত্রণকে প্রভাবিত করতে পারে।"
       },
       {
         "id": "rta-moto-080-b",
-        "answer_text": "affect your steering as well as suspension."
+        "answer_text": "আপনার স্টিয়ারিং এবং সাসপেনশন উভয়কেই প্রভাবিত করতে পারে।"
       },
       {
         "id": "rta-moto-080-c",
-        "answer_text": "affect your destination"
+        "answer_text": "আপনার গন্তব্যকে প্রভাবিত করতে পারে।"
       }
     ]
   },
   {
     "id": "rta-moto-081",
-    "question_text": "If you are riding in rough roads, slowing down will.",
+    "question_text": "যদি আপনি খারাপ রাস্তায় রাইড করছেন, তাহলে ধীর হওয়া:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-081-a",
-        "answer_text": "help give your bike's suspension time to work."
+        "answer_text": "আপনার বাইকের সাসপেনশনকে কাজ করার সময় দেবে।"
       },
       {
         "id": "rta-moto-081-b",
-        "answer_text": "help you raise yourself on foot pegs."
+        "answer_text": "আপনাকে ফুট পেগে উঠে দাঁড়াতে সাহায্য করবে।"
       },
       {
         "id": "rta-moto-081-c",
-        "answer_text": "help you use the rear brakes."
+        "answer_text": "আপনাকে পেছনের ব্রেক ব্যবহার করতে সাহায্য করবে।"
       }
     ]
   },
   {
     "id": "rta-moto-085",
-    "question_text": "Why must you ride slower at night than during day time?",
+    "question_text": "দিনের তুলনায় রাতে কেন আস্তে চালাতে হবে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-085-a",
-        "answer_text": "because your headlights show limited area only."
+        "answer_text": "কারণ আপনার হেডলাইট শুধুমাত্র সীমিত এলাকা দেখায়।"
       },
       {
         "id": "rta-moto-085-b",
-        "answer_text": "because other road users also travel slower."
+        "answer_text": "কারণ সড়কের অন্যান্য ব্যবহারকারীরাও আস্তে চলে।"
       },
       {
         "id": "rta-moto-085-c",
-        "answer_text": "because the road is slower at night."
+        "answer_text": "কারণ রাতে সড়ক আস্তে হয়।"
       }
     ]
   },
   {
     "id": "rta-moto-089",
-    "question_text": "When riding at night or when  visibility is poor, you must:",
+    "question_text": "রাতে বা দৃশ্যমানতা কম থাকলে রাইড করার সময়, আপনাকে অবশ্যই:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-089-a",
-        "answer_text": "switch on headlights."
+        "answer_text": "হেডলাইট চালু করুন।"
       },
       {
         "id": "rta-moto-089-b",
-        "answer_text": "switch on brake lights."
+        "answer_text": "ব্রেক লাইট চালু করুন।"
       },
       {
         "id": "rta-moto-089-c",
-        "answer_text": "switch on streetlights."
+        "answer_text": "রাস্তার বাতি চালু করুন।"
       }
     ]
   },
   {
     "id": "rta-moto-095",
-    "question_text": "When carrying load or passenger, how is motorcycle affected?",
+    "question_text": "মালামাল বা যাত্রী বহন করলে মোটরসাইকেলে কী প্রভাব পড়ে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-095-a",
-        "answer_text": "it may take longer time to stop."
+        "answer_text": "থামতে আরও বেশি সময় লাগতে পারে।"
       },
       {
         "id": "rta-moto-095-b",
-        "answer_text": "it will accelerate faster."
+        "answer_text": "এটি দ্রুত গতি তুলবে।"
       },
       {
         "id": "rta-moto-095-c",
-        "answer_text": "it may ride around corner easier."
+        "answer_text": "এটি সহজে কোণ নিতে পারবে।"
       }
     ]
   },
   {
     "id": "rta-moto-101",
-    "question_text": "To ensure you have proper maintenance guide, check:",
+    "question_text": "সঠিক রক্ষণাবেক্ষণ গাইড নিশ্চিত করতে, দেখুন:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-101-a",
-        "answer_text": "the mechanic nearby."
+        "answer_text": "কাছের মেকানিককে।"
       },
       {
         "id": "rta-moto-101-b",
-        "answer_text": "the owner's manual."
+        "answer_text": "মালিকের ম্যানুয়ালটি।"
       },
       {
         "id": "rta-moto-101-c",
-        "answer_text": "the parts of the bike."
+        "answer_text": "বাইকের যন্ত্রাংশগুলি।"
       }
     ]
   },
   {
     "id": "rta-moto-118",
-    "question_text": "When buying a helmet, these are the factors that must be considered:",
+    "question_text": "হেলমেট কেনার সময়, এই বিষয়গুলো অবশ্যই বিবেচনা করতে হবে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-118-a",
-        "answer_text": "New and good fitting"
+        "answer_text": "নতুন এবং ভালোভাবে ফিট হওয়া"
       },
       {
         "id": "rta-moto-118-b",
-        "answer_text": "Light weight and brightly colored"
+        "answer_text": "হালকা ওজন এবং উজ্জ্বল রঙের"
       },
       {
         "id": "rta-moto-118-c",
-        "answer_text": "Full face protection and foldable"
+        "answer_text": "সম্পূর্ণ মুখের সুরক্ষা এবং ভাঁজযোগ্য"
       }
     ]
   },
   {
     "id": "rta-moto-128",
-    "question_text": "To have good control of the throttle and easily reach the clutch and brake levers;",
+    "question_text": "থ্রটলের উপর ভালো নিয়ন্ত্রণ রাখতে এবং ক্লাচ ও ব্রেক লিভারে সহজে পৌঁছাতে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-128-a",
-        "answer_text": "firmly hold the handgrips and keep your wrists high"
+        "answer_text": "হ্যান্ডগ্রিপ শক্তভাবে ধরুন এবং কব্জি উঁচুতে রাখুন"
       },
       {
         "id": "rta-moto-128-b",
-        "answer_text": "firmly hold the handgrips and keep your wrists low"
+        "answer_text": "হ্যান্ডগ্রিপ শক্তভাবে ধরুন এবং কব্জি নিচে রাখুন"
       },
       {
         "id": "rta-moto-128-c",
-        "answer_text": "sit closest to the front of the bike"
+        "answer_text": "বাইকের সামনের দিকে কাছে বসুন"
       }
     ]
   },
   {
     "id": "rta-moto-130",
-    "question_text": "You want to know what is the correct pressure on your tire. What should you do?",
+    "question_text": "আপনি আপনার টায়ারের সঠিক চাপ জানতে চান। আপনার কী করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-130-a",
-        "answer_text": "check your owner's manual for the correct pressure on the tire"
+        "answer_text": "টায়ারের সঠিক চাপের জন্য আপনার মালিকের ম্যানুয়াল দেখুন"
       },
       {
         "id": "rta-moto-130-b",
-        "answer_text": "check that the tread depth is more than 2mm all over the tire tread."
+        "answer_text": "পরীক্ষা করুন যে ট্রেডের গভীরতা পুরো টায়ার ট্রেড জুড়ে 2mm-এর বেশি"
       },
       {
         "id": "rta-moto-130-c",
-        "answer_text": "make sure that the tire tread is free of cuts, nails or cracks"
+        "answer_text": "নিশ্চিত করুন যে টায়ার ট্রেড কাটা, পেরেক বা ফাটল থেকে মুক্ত"
       }
     ]
   },
   {
     "id": "rta-moto-132",
-    "question_text": "Upon checking, you found that the tread depth of your tire is less than 2mm. What is the problem with this?",
+    "question_text": "পরীক্ষা করার পর, আপনি দেখলেন যে আপনার টায়ারের ট্রেড গভীরতা 2mm-এর কম। এতে কী সমস্যা?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-132-a",
-        "answer_text": "no problem if the tire pressure is correct"
+        "answer_text": "টায়ারের চাপ সঠিক হলে কোনো সমস্যা নেই"
       },
       {
         "id": "rta-moto-132-b",
-        "answer_text": "tire tread depth that is less than 2mm is very dangerous"
+        "answer_text": "2mm-এর কম টায়ার ট্রেড গভীরতা অত্যন্ত বিপজ্জনক"
       },
       {
         "id": "rta-moto-132-c",
-        "answer_text": "there is no problem with this"
+        "answer_text": "এতে কোনো সমস্যা নেই"
       }
     ]
   },
   {
     "id": "rta-moto-159",
-    "question_text": "You are riding at night with high beam lights on. As you approach another vehicle from behind, you should;",
+    "question_text": "আপনি রাতে হাই বিম লাইট জ্বালিয়ে রাইড করছেন। যখন আপনি পেছন থেকে অন্য একটি যানবাহনের কাছে আসছেন, তখন আপনার উচিত;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-159-a",
-        "answer_text": "sound your horn in a loud manner"
+        "answer_text": "জোরে হর্ন বাজানো"
       },
       {
         "id": "rta-moto-159-b",
-        "answer_text": "dip your headlights"
+        "answer_text": "হেডলাইট ডিপ করা"
       },
       {
         "id": "rta-moto-159-c",
-        "answer_text": "flash your headlights for a few seconds"
+        "answer_text": "কয়েক সেকেন্ডের জন্য হেডলাইট ফ্ল্যাশ করা"
       }
     ]
   },
   {
     "id": "rta-moto-160",
-    "question_text": "A motorcycle carrying a pillion passenger will accelerate slower and;",
+    "question_text": "পিলিয়ন যাত্রী বহনকারী মোটরসাইকেল ধীরে গতি পাবে এবং;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-160-a",
-        "answer_text": "have less cornering clearance in corners"
+        "answer_text": "মোড়ে কর্নারিং ক্লিয়ারেন্স কম হবে"
       },
       {
         "id": "rta-moto-160-b",
-        "answer_text": "have more power to stop"
+        "answer_text": "থামানোর জন্য বেশি শক্তি থাকবে"
       },
       {
         "id": "rta-moto-160-c",
-        "answer_text": "clutch will work more effectively"
+        "answer_text": "ক্লাচ আরও কার্যকরভাবে কাজ করবে"
       }
     ]
   },
   {
     "id": "rta-moto-164",
-    "question_text": "When securing your load, what kind of material can potentially damage your eye?",
+    "question_text": "মালামাল বাঁধার সময়, কোন ধরনের উপকরণ আপনার চোখের ক্ষতি করতে পারে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-164-a",
-        "answer_text": "metal casing"
+        "answer_text": "ধাতব আবরণ"
       },
       {
         "id": "rta-moto-164-b",
-        "answer_text": "the use elastic straps with metal hooks"
+        "answer_text": "ধাতব হুক সহ ইলাস্টিক স্ট্র্যাপের ব্যবহার"
       },
       {
         "id": "rta-moto-164-c",
-        "answer_text": "ropes made of nylon material"
+        "answer_text": "নাইলন উপকরণ দিয়ে তৈরি দড়ি"
       }
     ]
   },
   {
     "id": "rta-moto-165",
-    "question_text": "For stability and good handling of the bike, how would you arrange the placement of the load?",
+    "question_text": "বাইকের স্থিতিশীলতা এবং ভালো হ্যান্ডলিংয়ের জন্য, আপনি মালামালের অবস্থান কীভাবে সাজাবেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-165-a",
-        "answer_text": "heavy loads may be placed  at the back of the rider to be more secured"
+        "answer_text": "ভারী মালামাল আরও নিরাপদ হতে রাইডারের পেছনে রাখা যেতে পারে"
       },
       {
         "id": "rta-moto-165-b",
-        "answer_text": "load may be placed  behind the rear axle"
+        "answer_text": "মালামাল পিছনের অ্যাক্সেলের পেছনে রাখা যেতে পারে"
       },
       {
         "id": "rta-moto-165-c",
-        "answer_text": "load should be placed  above or in front of the rear axle"
+        "answer_text": "মালামাল পিছনের অ্যাক্সেলের উপরে বা সামনে রাখতে হবে"
       }
     ]
   },
   {
     "id": "rta-moto-166",
-    "question_text": "When placing load on your bike, make sure to balance the weight. How do you do this?",
+    "question_text": "বাইকে মালামাল রাখার সময়, ওজন সুষম রাখুন। আপনি এটি কীভাবে করবেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-166-a",
-        "answer_text": "Keep the load low and secured"
+        "answer_text": "মালামাল নিচে এবং নিরাপদভাবে রাখুন"
       },
       {
         "id": "rta-moto-166-b",
-        "answer_text": "Keep the high low and secured"
+        "answer_text": "উচ্চতা কম এবং নিরাপদভাবে রাখুন"
       },
       {
         "id": "rta-moto-166-c",
-        "answer_text": "Keep the load covered"
+        "answer_text": "মালামাল ঢেকে রাখুন"
       }
     ]
   },
   {
     "id": "rta-moto-167",
-    "question_text": "You are transporting a bulky load over a long distance. What should you remember to do during the ride?",
+    "question_text": "আপনি দীর্ঘ দূরত্বে বড় মালামাল পরিবহন করছেন। রাইডের সময় আপনার কী করতে মনে রাখা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-167-a",
-        "answer_text": "check the load frequently to make sure it is still secured"
+        "answer_text": "নিশ্চিত করতে মালামাল ঘন ঘন পরীক্ষা করুন যে এটি এখনও নিরাপদ আছে"
       },
       {
         "id": "rta-moto-167-b",
-        "answer_text": "remember to stop frequently"
+        "answer_text": "ঘন ঘন থামতে মনে রাখুন"
       },
       {
         "id": "rta-moto-167-c",
-        "answer_text": "remember to check your tires before leaving"
+        "answer_text": "রওনা হওয়ার আগে টায়ার পরীক্ষা করতে মনে রাখুন"
       }
     ]
   },
   {
     "id": "rta-moto-183",
-    "question_text": "You suddenly felt a huge bang from the back of the bike and felt the bike free wheeling. What can you do?",
+    "question_text": "আপনি হঠাৎ বাইকের পেছন থেকে জোরালো বিস্ফোরণ অনুভব করলেন এবং বাইক মুক্তভাবে চলতে লাগল। আপনি কী করতে পারেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-183-a",
-        "answer_text": "keep the throttle on"
+        "answer_text": "থ্রটল চালু রাখুন"
       },
       {
         "id": "rta-moto-183-b",
-        "answer_text": "close the throttle and brake to a stop"
+        "answer_text": "থ্রটল বন্ধ করুন এবং ব্রেক করে থামুন"
       },
       {
         "id": "rta-moto-183-c",
-        "answer_text": "Try turning the engine off"
+        "answer_text": "ইঞ্জিন বন্ধ করার চেষ্টা করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-004",
-    "question_text": "Reflective triangles must be used when a vehicle with an unladen weight of more than two and a half tones is disabled:",
+    "question_text": "রিফ্লেক্টিভ ত্রিভুজ ব্যবহার করতে হবে যখন আড়াই টনের বেশি খালি ওজনের যানবাহন অকেজো হয়ে যায়:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-004-a",
-        "answer_text": "at anytime and there are no street lights for 200 meters."
+        "answer_text": "যেকোনো সময় এবং ২০০ মিটারের জন্য কোনো রাস্তার আলো না থাকলে।"
       },
       {
         "id": "rta-hvb-004-b",
-        "answer_text": "at night and not visible for 200 meters in any direction."
+        "answer_text": "রাতে এবং যেকোনো দিক থেকে ২০০ মিটার পর্যন্ত দৃশ্যমান না হলে।"
       },
       {
         "id": "rta-hvb-004-c",
-        "answer_text": "at night and not visible in street lights for 200 meters and not showing all required lights, or within 100 meters if approaching drivers can't see the vehicle."
+        "answer_text": "রাতে এবং রাস্তার আলোতে ২০০ মিটার পর্যন্ত দৃশ্যমান না হলে এবং সমস্ত প্রয়োজনীয় আলো না দেখালে, অথবা ১০০ মিটারের মধ্যে যদি আসন্ন চালকরা যানবাহন দেখতে না পান।"
       }
     ]
   },
   {
     "id": "rta-hvb-017",
-    "question_text": "In vehicles equipped with air brakes, braking begins:",
+    "question_text": "এয়ার ব্রেক সজ্জিত যানবাহনে, ব্রেকিং শুরু হয়:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-017-a",
-        "answer_text": "a short time after your foot presses the pedal."
+        "answer_text": "পা দিয়ে প্যাডেল চাপার কিছুক্ষণ পরে।"
       },
       {
         "id": "rta-hvb-017-b",
-        "answer_text": "as your foot presses the pedal."
+        "answer_text": "যখন পা প্যাডেল চাপে।"
       },
       {
         "id": "rta-hvb-017-c",
-        "answer_text": "only after full pressure is applied to the pedal."
+        "answer_text": "শুধুমাত্র প্যাডেলে পূর্ণ চাপ প্রয়োগের পর।"
       }
     ]
   },
   {
     "id": "rta-hvb-018",
-    "question_text": "If you hold the steering wheel with one hand and the vehicle hits a curb or pot  hole this may:",
+    "question_text": "যদি আপনি এক হাতে স্টিয়ারিং ধরে থাকেন এবং গাড়িটি কোনো পাথর বা গর্তে আঘাত করে তাহলে এটি হতে পারে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-018-a",
-        "answer_text": "result to loss of control."
+        "answer_text": "নিয়ন্ত্রণ হারিয়ে ফেলা।"
       },
       {
         "id": "rta-hvb-018-b",
-        "answer_text": "cause injury."
+        "answer_text": "আঘাত পাওয়া।"
       },
       {
         "id": "rta-hvb-018-c",
-        "answer_text": "damage the tires."
+        "answer_text": "টায়ারের ক্ষতি হওয়া।"
       }
     ]
   },
   {
     "id": "rta-hvb-019",
-    "question_text": "When turning a corner in an articulated vehicle, the trailer rear wheels follow:",
+    "question_text": "আর্টিকুলেটেড যানবাহনে বাঁক নেওয়ার সময়, ট্রেলারের পিছনের চাকা চলে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-019-a",
-        "answer_text": "a shorter path than the prime mover rear wheels."
+        "answer_text": "প্রাইম মুভারের পিছনের চাকার চেয়ে ছোট পথে।"
       },
       {
         "id": "rta-hvb-019-b",
-        "answer_text": "a longer path than the prime mover rear wheels."
+        "answer_text": "প্রাইম মুভারের পিছনের চাকার চেয়ে দীর্ঘ পথে।"
       },
       {
         "id": "rta-hvb-019-c",
-        "answer_text": "the same path as the prime mover rear wheels."
+        "answer_text": "প্রাইম মুভারের পিছনের চাকার মতো একই পথে।"
       }
     ]
   },
   {
     "id": "rta-hvb-020",
-    "question_text": "Two (2) types of brake systems usually being used on heavy vehicles:",
+    "question_text": "ভারী যানবাহনে সাধারণত ব্যবহৃত দুই (২) ধরনের ব্রেক সিস্টেম:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-020-a",
-        "answer_text": "Air brakes and hydraulic brakes."
+        "answer_text": "এয়ার ব্রেক এবং হাইড্রোলিক ব্রেক।"
       },
       {
         "id": "rta-hvb-020-b",
-        "answer_text": "Air brakes and cable brakes."
+        "answer_text": "এয়ার ব্রেক এবং কেবল ব্রেক।"
       },
       {
         "id": "rta-hvb-020-c",
-        "answer_text": "Hydraulic brakes and cable brakes."
+        "answer_text": "হাইড্রোলিক ব্রেক এবং কেবল ব্রেক।"
       }
     ]
   },
   {
     "id": "rta-hvb-021",
-    "question_text": "With air brakes, it is wise to apply brake pressure:",
+    "question_text": "এয়ার ব্রেকের সাথে, ব্রেক চাপ প্রয়োগ করা বুদ্ধিমানের কাজ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-021-a",
-        "answer_text": "earlier than with hydraulic brakes."
+        "answer_text": "হাইড্রোলিক ব্রেকের আগে।"
       },
       {
         "id": "rta-hvb-021-b",
-        "answer_text": "later than with hydraulic brakes."
+        "answer_text": "হাইড্রোলিক ব্রেকের পরে।"
       },
       {
         "id": "rta-hvb-021-c",
-        "answer_text": "at the same time as with hydraulic brakes."
+        "answer_text": "হাইড্রোলিক ব্রেকের মতো একই সময়ে।"
       }
     ]
   },
   {
     "id": "rta-hvb-022",
-    "question_text": "When carrying a light load, rather than a heavy load, a heavy vehicle takes:",
+    "question_text": "ভারী বোঝার পরিবর্তে হালকা বোঝা বহন করার সময়, একটি ভারী যানবাহন থামতে নেয়:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-022-a",
-        "answer_text": "less distance to stop."
+        "answer_text": "কম দূরত্ব।"
       },
       {
         "id": "rta-hvb-022-b",
-        "answer_text": "more distance to stop."
+        "answer_text": "বেশি দূরত্ব।"
       },
       {
         "id": "rta-hvb-022-c",
-        "answer_text": "the same distance to stop."
+        "answer_text": "একই দূরত্ব।"
       }
     ]
   },
   {
     "id": "rta-hvb-026",
-    "question_text": "Is the handling of your heavy vehicle affected by its load?",
+    "question_text": "আপনার ভারী যানবাহনের পরিচালনা কি তার বোঝা দ্বারা প্রভাবিত হয়?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-026-a",
-        "answer_text": "No, not at all."
+        "answer_text": "না, একেবারেই না।"
       },
       {
         "id": "rta-hvb-026-b",
-        "answer_text": "No, unless it is badly loaded."
+        "answer_text": "না, যদি না বোঝা ঠিকমতো না লোড করা হয়।"
       },
       {
         "id": "rta-hvb-026-c",
-        "answer_text": "Yes, in all circumstances."
+        "answer_text": "হ্যাঁ, সব পরিস্থিতিতে।"
       }
     ]
   },
   {
     "id": "rta-hvb-057",
-    "question_text": "When loading a truck, the centre of gravity should be kept as low as possible. This is done by placing heavy items:",
+    "question_text": "ট্রাকে মাল বোঝাই করার সময়, মাধ্যাকর্ষণ কেন্দ্র যতটা সম্ভব নীচে রাখতে হবে। ভারী জিনিসপত্র রেখে এটি করা হয়:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-057-a",
-        "answer_text": "on each side of the vehicle."
+        "answer_text": "যানবাহনের প্রতিটি পাশে।"
       },
       {
         "id": "rta-hvb-057-b",
-        "answer_text": "at the back of the load."
+        "answer_text": "মালের পিছনের অংশে।"
       },
       {
         "id": "rta-hvb-057-c",
-        "answer_text": "at the bottom of the load."
+        "answer_text": "মালের নীচের অংশে।"
       }
     ]
   },
   {
     "id": "rta-hvb-058",
-    "question_text": "To keep the centre of gravity of a load low, you should place:",
+    "question_text": "মালের মাধ্যাকর্ষণ কেন্দ্র নীচু রাখতে, আপনার রাখা উচিত:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-058-a",
-        "answer_text": "heavy items at the back of the load."
+        "answer_text": "ভারী জিনিসপত্র মালের পিছনের অংশে।"
       },
       {
         "id": "rta-hvb-058-b",
-        "answer_text": "heavy items at the bottom of the load."
+        "answer_text": "ভারী জিনিসপত্র মালের নীচের অংশে।"
       },
       {
         "id": "rta-hvb-058-c",
-        "answer_text": "light items at the back of the load."
+        "answer_text": "হালকা জিনিসপত্র মালের পিছনের অংশে।"
       }
     ]
   },
   {
     "id": "rta-hvb-060",
-    "question_text": "The maximum height of a vehicle and its load is measured from:",
+    "question_text": "একটি যানবাহন এবং তার মালের সর্বোচ্চ উচ্চতা পরিমাপ করা হয়:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-060-a",
-        "answer_text": "the top of the trailer tray."
+        "answer_text": "ট্রেলার ট্রের শীর্ষ থেকে।"
       },
       {
         "id": "rta-hvb-060-b",
-        "answer_text": "the ground."
+        "answer_text": "মাটি থেকে।"
       },
       {
         "id": "rta-hvb-060-c",
-        "answer_text": "the rear axle."
+        "answer_text": "পিছনের এক্সেল থেকে।"
       }
     ]
   },
   {
     "id": "rta-hvb-061",
-    "question_text": "When loading a heavy vehicle, you must keep within:",
+    "question_text": "ভারী যানবাহনে মাল বোঝাই করার সময়, আপনাকে এই সীমার মধ্যে থাকতে হবে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-061-a",
-        "answer_text": "vehicle height and length limits only."
+        "answer_text": "শুধুমাত্র যানবাহনের উচ্চতা ও দৈর্ঘ্যের সীমা।"
       },
       {
         "id": "rta-hvb-061-b",
-        "answer_text": "vehicle wheel and axle load limits only."
+        "answer_text": "শুধুমাত্র যানবাহনের চাকা ও এক্সেলের ওজন সীমা।"
       },
       {
         "id": "rta-hvb-061-c",
-        "answer_text": "all vehicle specification limits."
+        "answer_text": "সমস্ত যানবাহন স্পেসিফিকেশন সীমা।"
       }
     ]
   },
   {
     "id": "rta-hvb-063",
-    "question_text": "When you are unhooking a trailer from a prime mover, support the trailer by lowering the landing gear until the wheels:",
+    "question_text": "যখন আপনি প্রাইম মুভার থেকে ট্রেলার খুলছেন, তখন ল্যান্ডিং গিয়ার নামিয়ে ট্রেলারটিকে সহায়তা করুন যতক্ষণ না চাকাগুলো:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-063-a",
-        "answer_text": "just touch the ground."
+        "answer_text": "মাটি সবে স্পর্শ করে।"
       },
       {
         "id": "rta-hvb-063-b",
-        "answer_text": "have touched the ground and the prime mover stops rising."
+        "answer_text": "মাটি স্পর্শ করে এবং প্রাইম মুভার উপরে উঠা বন্ধ করে।"
       },
       {
         "id": "rta-hvb-063-c",
-        "answer_text": "have touched the ground and the trailer stops rising."
+        "answer_text": "মাটি স্পর্শ করে এবং ট্রেলার উপরে উঠা বন্ধ করে।"
       }
     ]
   },
   {
     "id": "rta-hvb-064",
-    "question_text": "When hooking up a prime mover to a trailer, check that they are properly joined by:",
+    "question_text": "প্রাইম মুভারকে ট্রেলারের সাথে সংযুক্ত করার সময়, সঠিকভাবে যুক্ত হয়েছে কিনা তা পরীক্ষা করুন:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-064-a",
-        "answer_text": "making a slow tight turn."
+        "answer_text": "আস্তে আস্তে একটি সরু মোড় নিয়ে।"
       },
       {
         "id": "rta-hvb-064-b",
-        "answer_text": "looking under the trailer and checking that the jaws on the turntable have gone around the shaft."
+        "answer_text": "ট্রেলারের নীচে দেখে এবং নিশ্চিত করে যে টার্নটেবলের চোয়াল শ্যাফটের চারপাশে আবৃত হয়েছে।"
       },
       {
         "id": "rta-hvb-064-c",
-        "answer_text": "moving the whole vehicle slowly backwards and listening for unusual noises."
+        "answer_text": "পুরো যানবাহনটি আস্তে আস্তে পিছিয়ে নিয়ে এবং অস্বাভাবিক শব্দ শুনে।"
       }
     ]
   },
   {
     "id": "rta-hvb-065",
-    "question_text": "The trailer brakes should always be used:",
+    "question_text": "ট্রেলারের ব্রেক সবসময় ব্যবহার করা উচিত:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-065-a",
-        "answer_text": "to keep the trailer stationary when coupling or uncoupling."
+        "answer_text": "সংযোগ বা বিচ্ছেদের সময় ট্রেলারকে স্থির রাখতে।"
       },
       {
         "id": "rta-hvb-065-b",
-        "answer_text": "to prevent a jack-knife."
+        "answer_text": "জ্যাক-নাইফ প্রতিরোধ করতে।"
       },
       {
         "id": "rta-hvb-065-c",
-        "answer_text": "before using the foot brake on downhill slopes."
+        "answer_text": "নিচের ঢালে ফুট ব্রেক ব্যবহার করার আগে।"
       }
     ]
   },
   {
     "id": "rta-hvb-066",
-    "question_text": "When uncoupling, first move the prime mover from the trailer:",
+    "question_text": "আলাদা করার সময়, প্রথমে ট্রেলার থেকে প্রাইম মুভার সরান:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-066-a",
-        "answer_text": "by moving in a straight line until the prime mover is clear of the trailer."
+        "answer_text": "সরলরেখায় এগিয়ে যেতে যেতে যতক্ষণ না প্রাইম মুভার ট্রেলার থেকে পরিষ্কার হয়।"
       },
       {
         "id": "rta-hvb-066-b",
-        "answer_text": "no further than the air lines and electrical cables will reach."
+        "answer_text": "এয়ার লাইন ও বিদ্যুৎ তারের দৈর্ঘ্য যতটুকু অনুমতি দেয় ততটুকুর বেশি নয়।"
       },
       {
         "id": "rta-hvb-066-c",
-        "answer_text": "by moving the prime mover forward until the turntable begins to clear the semi-trailer skid plate."
+        "answer_text": "প্রাইম মুভারকে সামনে এগিয়ে নিয়ে যতক্ষণ না টার্নটেবল সেমি-ট্রেলার স্কিড প্লেট থেকে সরতে শুরু করে।"
       }
     ]
   },
   {
     "id": "rta-hvb-068",
-    "question_text": "When you are hooking up to a semi-trailer, you should line up using your:",
+    "question_text": "যখন আপনি সেমি-ট্রেলারের সাথে সংযুক্ত হচ্ছেন, তখন আপনার এগুলো ব্যবহার করে সারিবদ্ধ করা উচিত:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-068-a",
-        "answer_text": "left mirror and right rear wheel of the prime mover and the right edge of the trailer."
+        "answer_text": "বাম আয়না এবং প্রাইম মুভারের ডান পিছনের চাকা ও ট্রেলারের ডান প্রান্ত।"
       },
       {
         "id": "rta-hvb-068-b",
-        "answer_text": "both mirrors and both rear wheels of the prime mover and both edges of the trailer."
+        "answer_text": "উভয় আয়না এবং প্রাইম মুভারের উভয় পিছনের চাকা ও ট্রেলারের উভয় প্রান্ত।"
       },
       {
         "id": "rta-hvb-068-c",
-        "answer_text": "left mirror and left rear wheel of the prime mover and the left edge of the trailer."
+        "answer_text": "বাম আয়না এবং প্রাইম মুভারের বাম পিছনের চাকা ও ট্রেলারের বাম প্রান্ত।"
       }
     ]
   },
   {
     "id": "rta-hvb-069",
-    "question_text": "The coupling mechanism should be checked:",
+    "question_text": "কাপলিং মেকানিজম পরীক্ষা করা উচিত:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-069-a",
-        "answer_text": "for damage."
+        "answer_text": "ক্ষতির জন্য।"
       },
       {
         "id": "rta-hvb-069-b",
-        "answer_text": "to see that it fits together correctly."
+        "answer_text": "এটি সঠিকভাবে একসাথে ফিট হয় কিনা তা দেখতে।"
       },
       {
         "id": "rta-hvb-069-c",
-        "answer_text": "both of these."
+        "answer_text": "এই দুটির জন্যই।"
       }
     ]
   },
   {
     "id": "rta-hvb-070",
-    "question_text": "When coupling a prime mover to a trailer, the brake lines should be checked for:",
+    "question_text": "প্রাইম মুভারকে ট্রেলারের সাথে সংযুক্ত করার সময়, ব্রেক লাইনগুলি পরীক্ষা করতে হবে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-070-a",
-        "answer_text": "length for tight turns."
+        "answer_text": "তীক্ষ্ণ বাঁকের জন্য দৈর্ঘ্য।"
       },
       {
         "id": "rta-hvb-070-b",
-        "answer_text": "height above the ground."
+        "answer_text": "মাটি থেকে উচ্চতা।"
       },
       {
         "id": "rta-hvb-070-c",
-        "answer_text": "clearance from the rear wheels."
+        "answer_text": "পেছনের চাকা থেকে ফাঁক।"
       }
     ]
   },
   {
     "id": "rta-hvb-071",
-    "question_text": "When inspecting coupling equipment you should:",
+    "question_text": "কাপলিং সরঞ্জাম পরিদর্শন করার সময় আপনার উচিত:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-071-a",
-        "answer_text": "not go under the nose of the semi-trailer, until it is supported by the prime mover."
+        "answer_text": "সেমি-ট্রেলারের নাকের নিচে না যাওয়া, যতক্ষণ না প্রাইম মুভার এটিকে সমর্থন করে।"
       },
       {
         "id": "rta-hvb-071-b",
-        "answer_text": "go under the nose of the semi-trailer only if the wheels are chocked."
+        "answer_text": "শুধুমাত্র তখনই সেমি-ট্রেলারের নাকের নিচে যাওয়া যখন চাকাগুলিতে চোক লাগানো থাকে।"
       },
       {
         "id": "rta-hvb-071-c",
-        "answer_text": "only go under the nose of the semi-trailer to inspect the landing gear."
+        "answer_text": "শুধুমাত্র ল্যান্ডিং গিয়ার পরীক্ষা করতে সেমি-ট্রেলারের নাকের নিচে যাওয়া।"
       }
     ]
   },
   {
     "id": "rta-hvb-086",
-    "question_text": "When driving a loaded truck, these items must not be covered:",
+    "question_text": "মালবাহী ট্রাক চালানোর সময়, এই জিনিসগুলি ঢেকে রাখা যাবে না:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-086-a",
-        "answer_text": "light, medium and heavy loads."
+        "answer_text": "হালকা, মাঝারি ও ভারী মাল।"
       },
       {
         "id": "rta-hvb-086-b",
-        "answer_text": "tarpaulins and lashings."
+        "answer_text": "ত্রিপল এবং বাঁধন।"
       },
       {
         "id": "rta-hvb-086-c",
-        "answer_text": "lights, plate number, mirrors."
+        "answer_text": "লাইট, নম্বর প্লেট, আয়না।"
       }
     ]
   },
   {
     "id": "rta-hvb-089",
-    "question_text": "To maintain stability of load, heavy items should be placed at:",
+    "question_text": "মালের স্থিতিশীলতা বজায় রাখতে, ভারী জিনিসপত্র রাখতে হবে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-089-a",
-        "answer_text": "the front side of the vehicle."
+        "answer_text": "গাড়ির সামনের দিকে।"
       },
       {
         "id": "rta-hvb-089-b",
-        "answer_text": "the center line of the vehicle."
+        "answer_text": "গাড়ির কেন্দ্র রেখায়।"
       },
       {
         "id": "rta-hvb-089-c",
-        "answer_text": "to the rear side of the vehicle."
+        "answer_text": "গাড়ির পেছনের দিকে।"
       }
     ]
   },
   {
     "id": "rta-hvb-092",
-    "question_text": "In most heavy  vehicles, brake operate:",
+    "question_text": "বেশিরভাগ ভারী যানবাহনে, ব্রেক কাজ করে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-092-a",
-        "answer_text": "more efficiently when loaded."
+        "answer_text": "মাল বোঝাই থাকলে আরও কার্যকরভাবে।"
       },
       {
         "id": "rta-hvb-092-b",
-        "answer_text": "less efficiently when loaded."
+        "answer_text": "মাল বোঝাই থাকলে কম কার্যকরভাবে।"
       },
       {
         "id": "rta-hvb-092-c",
-        "answer_text": "the same way whether loaded or not loaded."
+        "answer_text": "মাল থাকুক বা না থাকুক, একইভাবে।"
       }
     ]
   },
   {
     "id": "rta-hvb-094",
-    "question_text": "Changing gears at the wrong engine speed can:",
+    "question_text": "ভুল ইঞ্জিন গতিতে গিয়ার পরিবর্তন করলে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-094-a",
-        "answer_text": "damage the transmission."
+        "answer_text": "ট্রান্সমিশন ক্ষতিগ্রস্ত হতে পারে।"
       },
       {
         "id": "rta-hvb-094-b",
-        "answer_text": "damage the engine."
+        "answer_text": "ইঞ্জিন ক্ষতিগ্রস্ত হতে পারে।"
       },
       {
         "id": "rta-hvb-094-c",
-        "answer_text": "damage the clutch."
+        "answer_text": "ক্লাচ ক্ষতিগ্রস্ত হতে পারে।"
       }
     ]
   },
   {
     "id": "rta-hvb-095",
-    "question_text": "Changing gears without clutching properly will also:",
+    "question_text": "ক্লাচ সঠিকভাবে না চেপে গিয়ার পরিবর্তন করলে:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-095-a",
-        "answer_text": "damage the transmission."
+        "answer_text": "ট্রান্সমিশন ক্ষতিগ্রস্ত হতে পারে।"
       },
       {
         "id": "rta-hvb-095-b",
-        "answer_text": "damage the engine."
+        "answer_text": "ইঞ্জিন ক্ষতিগ্রস্ত হতে পারে।"
       },
       {
         "id": "rta-hvb-095-c",
-        "answer_text": "damage the clutch."
+        "answer_text": "ক্লাচ ক্ষতিগ্রস্ত হতে পারে।"
       }
     ]
   },
   {
     "id": "rta-hvb-096",
-    "question_text": "There are the two ways to know when to change gears. These are:",
+    "question_text": "গিয়ার কখন পরিবর্তন করতে হবে তা জানার দুটি উপায় আছে। এগুলো হলো:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-096-a",
-        "answer_text": "speed and load of the vehicle."
+        "answer_text": "গাড়ির গতি এবং মাল।"
       },
       {
         "id": "rta-hvb-096-b",
-        "answer_text": "speed and sound of engine."
+        "answer_text": "গতি এবং ইঞ্জিনের শব্দ।"
       },
       {
         "id": "rta-hvb-096-c",
-        "answer_text": "sound and speed of clutch."
+        "answer_text": "ক্লাচের শব্দ এবং গতি।"
       }
     ]
   },
   {
     "id": "rta-hvb-114",
-    "question_text": "When fighting heavy vehicles fire, 3 very important actions to remember:",
+    "question_text": "ভারী যানবাহনের আগুন নেভানোর সময় মনে রাখার জন্য ৩টি অত্যন্ত গুরুত্বপূর্ণ পদক্ষেপ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-114-a",
-        "answer_text": "pull off the road, stop the engine, use correct fire extinguisher."
+        "answer_text": "রাস্তার পাশে থামুন, ইঞ্জিন বন্ধ করুন, সঠিক অগ্নিনির্বাপক ব্যবহার করুন।"
       },
       {
         "id": "rta-hvb-114-b",
-        "answer_text": "stop the engine, isolate battery, remove the load."
+        "answer_text": "ইঞ্জিন বন্ধ করুন, ব্যাটারি আলাদা করুন, ভার সরিয়ে নিন।"
       },
       {
         "id": "rta-hvb-114-c",
-        "answer_text": "pull off the road, notify emergency service, bring plenty of water."
+        "answer_text": "রাস্তার পাশে থামুন, জরুরি সেবাকে জানান, প্রচুর পানি আনুন।"
       }
     ]
   },
   {
     "id": "rta-hvb-122",
-    "question_text": "Bus drivers need to drive more smoothly compared to truck drivers because:",
+    "question_text": "বাস চালকদের ট্রাক চালকদের তুলনায় আরও মসৃণভাবে গাড়ি চালাতে হবে কারণ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-122-a",
-        "answer_text": "bus load is made up of people."
+        "answer_text": "বাসের ভার মানুষ দিয়ে তৈরি।"
       },
       {
         "id": "rta-hvb-122-b",
-        "answer_text": "it is required by the company."
+        "answer_text": "কোম্পানির পক্ষ থেকে এটি প্রয়োজনীয়।"
       },
       {
         "id": "rta-hvb-122-c",
-        "answer_text": "buses stop frequently."
+        "answer_text": "বাস ঘন ঘন থামে।"
       }
     ]
   },
   {
     "id": "rta-hvb-140",
-    "question_text": "How can you make sure your foot can freely operate the brake pedals when driving?",
+    "question_text": "আপনি কীভাবে নিশ্চিত করতে পারেন যে গাড়ি চালানোর সময় আপনার পা ব্রেক পেডেল স্বাধীনভাবে পরিচালনা করতে পারে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-140-a",
-        "answer_text": "Perform pre-drive checks outside the vehicle"
+        "answer_text": "গাড়ির বাইরে ড্রাইভ-পূর্ব পরীক্ষা করুন"
       },
       {
         "id": "rta-hvb-140-b",
-        "answer_text": "Clear the floor or cabin of any loose things"
+        "answer_text": "মেঝে বা কেবিন থেকে যেকোনো আলগা জিনিস পরিষ্কার করুন"
       },
       {
         "id": "rta-hvb-140-c",
-        "answer_text": "Check the engine oil level"
+        "answer_text": "ইঞ্জিন তেলের মাত্রা পরীক্ষা করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-145",
-    "question_text": "If there is a need to change wheels by the road, what precautions should be taken?",
+    "question_text": "রাস্তার পাশে চাকা পরিবর্তন করার প্রয়োজন হলে কী সতর্কতা অবলম্বন করতে হবে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-145-a",
-        "answer_text": "Switch on head lights"
+        "answer_text": "হেডলাইট চালু করুন"
       },
       {
         "id": "rta-hvb-145-b",
-        "answer_text": "Use the horn and reflective vest"
+        "answer_text": "হর্ন এবং প্রতিফলক ভেস্ট ব্যবহার করুন"
       },
       {
         "id": "rta-hvb-145-c",
-        "answer_text": "Use hazards warning lights and warning triangles"
+        "answer_text": "হ্যাজার্ড ওয়ার্নিং লাইট এবং ওয়ার্নিং ট্রায়াঙ্গেল ব্যবহার করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-147",
-    "question_text": "Why is it important to conduct daily pre-trip inspections of your vehicle?",
+    "question_text": "প্রতিদিন যাত্রার আগে আপনার গাড়ি পরিদর্শন করা কেন গুরুত্বপূর্ণ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-147-a",
-        "answer_text": "Keeping the vehicle clean and tidy"
+        "answer_text": "গাড়িটি পরিষ্কার ও পরিপাটি রাখা"
       },
       {
         "id": "rta-hvb-147-b",
-        "answer_text": "Keeping your vehicle in good condition"
+        "answer_text": "আপনার গাড়িটি ভালো অবস্থায় রাখা"
       },
       {
         "id": "rta-hvb-147-c",
-        "answer_text": "Ensuring the lights are working properly"
+        "answer_text": "নিশ্চিত করা যে লাইটগুলো সঠিকভাবে কাজ করছে"
       }
     ]
   },
   {
     "id": "rta-hvb-150",
-    "question_text": "As you will be driving through low bridges, what should you check?",
+    "question_text": "যেহেতু আপনি নিচু পুলের মধ্য দিয়ে যাবেন, আপনার কী পরীক্ষা করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-150-a",
-        "answer_text": "Load Security"
+        "answer_text": "মালামালের নিরাপত্তা"
       },
       {
         "id": "rta-hvb-150-b",
-        "answer_text": "Load Height"
+        "answer_text": "মালামালের উচ্চতা"
       },
       {
         "id": "rta-hvb-150-c",
-        "answer_text": "Vehicle Damage"
+        "answer_text": "যানবাহনের ক্ষতি"
       }
     ]
   },
   {
     "id": "rta-hvb-156",
-    "question_text": "If you are checking the fluid levels, you should check for crank case oil, radiator coolant as well as;",
+    "question_text": "যদি আপনি তরল স্তর পরীক্ষা করেন তাহলে ক্র্যাংক কেস তেল, রেডিয়েটর কুল্যান্টের পাশাপাশি কী পরীক্ষা করতে হবে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-156-a",
-        "answer_text": "Power steering and lighter fluids"
+        "answer_text": "পাওয়ার স্টিয়ারিং এবং লাইটার তরল"
       },
       {
         "id": "rta-hvb-156-b",
-        "answer_text": "Battery and windscreen washer fluids"
+        "answer_text": "ব্যাটারি এবং উইন্ডস্ক্রিন ওয়াশার তরল"
       },
       {
         "id": "rta-hvb-156-c",
-        "answer_text": "Automatic transmission and belt fluids"
+        "answer_text": "অটোমেটিক ট্রান্সমিশন এবং বেল্ট তরল"
       }
     ]
   },
   {
     "id": "rta-hvb-159",
-    "question_text": "You want to adjust a pulley that is loosely connected, how would you adjust it correctly?",
+    "question_text": "আপনি একটি ঢিলা পুলি ঠিক করতে চান, এটি সঠিকভাবে কীভাবে সমন্বয় করবেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-159-a",
-        "answer_text": "Adjust it according to your liking"
+        "answer_text": "নিজের পছন্দ অনুযায়ী সমন্বয় করুন"
       },
       {
         "id": "rta-hvb-159-b",
-        "answer_text": "Compare with that of the other vehicle"
+        "answer_text": "অন্য গাড়ির পুলির সাথে তুলনা করুন"
       },
       {
         "id": "rta-hvb-159-c",
-        "answer_text": "Check the manufacturer's handbook"
+        "answer_text": "প্রস্তুতকারকের হ্যান্ডবুক দেখুন"
       }
     ]
   },
   {
     "id": "rta-hvb-160",
-    "question_text": "Some of the important emergency and safety equipment to be considered during pre-trip inspection are:",
+    "question_text": "ট্রিপ-পূর্ব পরিদর্শনের সময় বিবেচনা করার জন্য কিছু গুরুত্বপূর্ণ জরুরি এবং নিরাপত্তা সরঞ্জাম হল:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-160-a",
-        "answer_text": "Seatbelts, fully charged fire extinguishers, reflective triangles"
+        "answer_text": "সিটবেল্ট, সম্পূর্ণ চার্জড অগ্নি নির্বাপক যন্ত্র, প্রতিফলনকারী ত্রিভুজ"
       },
       {
         "id": "rta-hvb-160-b",
-        "answer_text": "Drinking water, spare fuses, seatbelts"
+        "answer_text": "পানীয় জল, অতিরিক্ত ফিউজ, সিটবেল্ট"
       },
       {
         "id": "rta-hvb-160-c",
-        "answer_text": "Fire extinguishers, first aid kit, battery"
+        "answer_text": "অগ্নি নির্বাপক যন্ত্র, প্রাথমিক চিকিৎসা কিট, ব্যাটারি"
       }
     ]
   },
   {
     "id": "rta-hvb-161",
-    "question_text": "The primary controls that need to be checked for proper working conditions are;",
+    "question_text": "প্রাথমিক নিয়ন্ত্রণগুলি যা সঠিকভাবে কাজ করার জন্য পরীক্ষা করতে হবে সেগুলি হল:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-161-a",
-        "answer_text": "Accelerator, horn and dashboard lights"
+        "answer_text": "অ্যাক্সিলারেটর, হর্ন এবং ড্যাশবোর্ড লাইট"
       },
       {
         "id": "rta-hvb-161-b",
-        "answer_text": "Steering wheel, brakes, clutch and accelerator"
+        "answer_text": "স্টিয়ারিং হুইল, ব্রেক, ক্লাচ এবং অ্যাক্সিলারেটর"
       },
       {
         "id": "rta-hvb-161-c",
-        "answer_text": "Brake lights, reflectors and steering wheel"
+        "answer_text": "ব্রেক লাইট, প্রতিফলক এবং স্টিয়ারিং হুইল"
       }
     ]
   },
   {
     "id": "rta-hvb-163",
-    "question_text": "How do you check if the clutch is working properly?",
+    "question_text": "আপনি কীভাবে পরীক্ষা করবেন যে ক্লাচ সঠিকভাবে কাজ করছে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-163-a",
-        "answer_text": "Press and feel no resistance at all"
+        "answer_text": "চাপ দিন এবং কোনো প্রতিরোধ অনুভব করবেন না"
       },
       {
         "id": "rta-hvb-163-b",
-        "answer_text": "Press until you feel a slight resistance"
+        "answer_text": "যতক্ষণ না সামান্য প্রতিরোধ অনুভব করেন ততক্ষণ চাপুন"
       },
       {
         "id": "rta-hvb-163-c",
-        "answer_text": "Press and feel hard resistance"
+        "answer_text": "চাপ দিন এবং শক্ত প্রতিরোধ অনুভব করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-164",
-    "question_text": "When checking your heavy vehicle with air brakes, what should you check for?",
+    "question_text": "এয়ার ব্রেক সহ আপনার ভারী যানবাহন পরীক্ষা করার সময়, আপনার কী পরীক্ষা করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-164-a",
-        "answer_text": "Air intake filter is not clogged"
+        "answer_text": "এয়ার ইনটেক ফিল্টার বন্ধ নয়"
       },
       {
         "id": "rta-hvb-164-b",
-        "answer_text": "Exhaust pipe is not clogged"
+        "answer_text": "এক্সজস্ট পাইপ বন্ধ নয়"
       },
       {
         "id": "rta-hvb-164-c",
-        "answer_text": "Air escapes when brake pedal is depressed"
+        "answer_text": "ব্রেক পেডেল চাপলে বাতাস বেরিয়ে যায়"
       }
     ]
   },
   {
     "id": "rta-hvb-165",
-    "question_text": "After turning the engine on, the gauge should show steady increase in air pressure. It should take;",
+    "question_text": "ইঞ্জিন চালু করার পরে, গেজে বায়ু চাপে স্থির বৃদ্ধি দেখানো উচিত। এতে লাগা উচিত:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-165-a",
-        "answer_text": "Less than one minute"
+        "answer_text": "এক মিনিটেরও কম"
       },
       {
         "id": "rta-hvb-165-b",
-        "answer_text": "Less than 5 minutes"
+        "answer_text": "৫ মিনিটেরও কম"
       },
       {
         "id": "rta-hvb-165-c",
-        "answer_text": "Less than 3 minutes"
+        "answer_text": "৩ মিনিটেরও কম"
       }
     ]
   },
   {
     "id": "rta-hvb-166",
-    "question_text": "When clearing the air intake filter of air brakes and some oil that comes out, there is possible problem with;",
+    "question_text": "এয়ার ব্রেকের এয়ার ইনটেক ফিল্টার পরিষ্কার করার সময় যদি কিছু তেল বের হয়, তাহলে সম্ভাব্য সমস্যা হল:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-166-a",
-        "answer_text": "Engine"
+        "answer_text": "ইঞ্জিন"
       },
       {
         "id": "rta-hvb-166-b",
-        "answer_text": "Compressor"
+        "answer_text": "কম্প্রেসার"
       },
       {
         "id": "rta-hvb-166-c",
-        "answer_text": "Brake pedal"
+        "answer_text": "ব্রেক পেডেল"
       }
     ]
   },
   {
     "id": "rta-hvb-167",
-    "question_text": "What is the main benefit for conducting a pre-trip inspection?",
+    "question_text": "ট্রিপ-পূর্ব পরিদর্শন পরিচালনার প্রধান সুবিধা কী?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-167-a",
-        "answer_text": "Keeping Your Vehicle in Good Condition"
+        "answer_text": "আপনার যানবাহন ভালো অবস্থায় রাখা"
       },
       {
         "id": "rta-hvb-167-b",
-        "answer_text": "Keeping healthy diet"
+        "answer_text": "স্বাস্থ্যকর খাদ্যাভ্যাস বজায় রাখা"
       },
       {
         "id": "rta-hvb-167-c",
-        "answer_text": "Ensuring the engine is working properly"
+        "answer_text": "ইঞ্জিন সঠিকভাবে কাজ করছে তা নিশ্চিত করা"
       }
     ]
   },
   {
     "id": "rta-hvb-168",
-    "question_text": "To check the brake of the trailer, apply trailer brakes only and try to move forward gently. The vehicle;",
+    "question_text": "ট্রেলারের ব্রেক পরীক্ষা করতে, শুধু ট্রেলার ব্রেক লাগান এবং আস্তে সামনে যাওয়ার চেষ্টা করুন। যানবাহনটি:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-168-a",
-        "answer_text": "Must hold for second and then move"
+        "answer_text": "এক সেকেন্ড ধরে রাখতে হবে তারপর চলতে হবে"
       },
       {
         "id": "rta-hvb-168-b",
-        "answer_text": "Should not move"
+        "answer_text": "নড়া উচিত নয়"
       },
       {
         "id": "rta-hvb-168-c",
-        "answer_text": "Should move just a little"
+        "answer_text": "সামান্য নড়া উচিত"
       }
     ]
   },
   {
     "id": "rta-hvb-169",
-    "question_text": "For vehicles with hydraulic brakes, what must you do before driving the vehicle?",
+    "question_text": "হাইড্রোলিক ব্রেক সহ যানবাহনের জন্য, যানবাহন চালানোর আগে আপনাকে কী করতে হবে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-169-a",
-        "answer_text": "Must ensure there is no leak in the system"
+        "answer_text": "নিশ্চিত করতে হবে যে সিস্টেমে কোনো লিক নেই"
       },
       {
         "id": "rta-hvb-169-b",
-        "answer_text": "Have a qualified mechanic check the vehicle before driving"
+        "answer_text": "গাড়ি চালানোর আগে একজন যোগ্য মেকানিক দিয়ে যানবাহন পরীক্ষা করিয়ে নিন"
       },
       {
         "id": "rta-hvb-169-c",
-        "answer_text": "Must ensure wipers are working properly"
+        "answer_text": "নিশ্চিত করতে হবে যে ওয়াইপার সঠিকভাবে কাজ করছে"
       }
     ]
   },
   {
     "id": "rta-hvb-172",
-    "question_text": "How will you check for slack in the coupling of semi trailer and prime mover?",
+    "question_text": "আপনি কীভাবে সেমি ট্রেলার এবং প্রাইম মুভারের কাপলিংয়ে শিথিলতা পরীক্ষা করবেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-172-a",
-        "answer_text": "By pushing the trailer side to side"
+        "answer_text": "ট্রেলারকে পাশে পাশে ঠেলে"
       },
       {
         "id": "rta-hvb-172-b",
-        "answer_text": "By making a sudden pull on the prime mover"
+        "answer_text": "প্রাইম মুভারে হঠাৎ টান দিয়ে"
       },
       {
         "id": "rta-hvb-172-c",
-        "answer_text": "By moving gently forward and back"
+        "answer_text": "আস্তে সামনে ও পিছনে চলে"
       }
     ]
   },
   {
     "id": "rta-hvb-173",
-    "question_text": "Before driving your heavy vehicle, always ask yourself;",
+    "question_text": "আপনার ভারী যানবাহন চালানোর আগে, সর্বদা নিজেকে জিজ্ঞাসা করুন:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-173-a",
-        "answer_text": "Have I checked the delivery checklist"
+        "answer_text": "আমি কি ডেলিভারি চেকলিস্ট পরীক্ষা করেছি"
       },
       {
         "id": "rta-hvb-173-b",
-        "answer_text": "Have I carried out my pre-trip inspection"
+        "answer_text": "আমি কি আমার ট্রিপ-পূর্ব পরিদর্শন করেছি"
       },
       {
         "id": "rta-hvb-173-c",
-        "answer_text": "Have I filled out the registration form"
+        "answer_text": "আমি কি নিবন্ধন ফর্ম পূরণ করেছি"
       }
     ]
   },
   {
     "id": "rta-hvb-174",
-    "question_text": "As you drive, what should you regularly check?",
+    "question_text": "গাড়ি চালানোর সময় আপনার নিয়মিত কী পরীক্ষা করা উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-174-a",
-        "answer_text": "Make sure the battery is charged"
+        "answer_text": "নিশ্চিত করুন যে ব্যাটারি চার্জ আছে"
       },
       {
         "id": "rta-hvb-174-b",
-        "answer_text": "Make sure the wirings are not cracked"
+        "answer_text": "নিশ্চিত করুন যে তারগুলি ফাটেনি"
       },
       {
         "id": "rta-hvb-174-c",
-        "answer_text": "Make sure that your load is secure"
+        "answer_text": "নিশ্চিত করুন যে আপনার মাল সুরক্ষিত আছে"
       }
     ]
   },
   {
     "id": "rta-hvb-176",
-    "question_text": "Make sure the electrical leads are properly connected and working;",
+    "question_text": "নিশ্চিত করুন যে বৈদ্যুতিক সংযোগ সঠিকভাবে যুক্ত এবং কাজ করছে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-176-a",
-        "answer_text": "While driving your prime mover and semi trailer"
+        "answer_text": "আপনার প্রাইম মুভার এবং সেমি-ট্রেইলার চালানোর সময়"
       },
       {
         "id": "rta-hvb-176-b",
-        "answer_text": "Before driving your prime mover and semi trailer"
+        "answer_text": "আপনার প্রাইম মুভার এবং সেমি-ট্রেইলার চালানোর আগে"
       },
       {
         "id": "rta-hvb-176-c",
-        "answer_text": "After you arrive at your destination"
+        "answer_text": "আপনার গন্তব্যে পৌঁছানোর পরে"
       }
     ]
   },
   {
     "id": "rta-hvb-177",
-    "question_text": "When checking for slack in the turntable connection, ensure the;",
+    "question_text": "টার্নটেবল সংযোগে ঢিলাভাব পরীক্ষা করার সময়, নিশ্চিত করুন যে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-177-a",
-        "answer_text": "Trailers legs are down"
+        "answer_text": "ট্রেইলারের পা নিচে আছে"
       },
       {
         "id": "rta-hvb-177-b",
-        "answer_text": "The trailer brake is on"
+        "answer_text": "ট্রেইলারের ব্রেক চালু আছে"
       },
       {
         "id": "rta-hvb-177-c",
-        "answer_text": "The prime mover brake is on"
+        "answer_text": "প্রাইম মুভারের ব্রেক চালু আছে"
       }
     ]
   },
   {
     "id": "rta-hvb-178",
-    "question_text": "How will you check for excessive heat radiating  from the brake drum?",
+    "question_text": "আপনি ব্রেক ড্রাম থেকে অতিরিক্ত তাপ বিকিরণ কীভাবে পরীক্ষা করবেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-178-a",
-        "answer_text": "Place your hand near the brake drum"
+        "answer_text": "ব্রেক ড্রামের কাছে হাত রাখুন"
       },
       {
         "id": "rta-hvb-178-b",
-        "answer_text": "Touch the drum with your hands"
+        "answer_text": "হাত দিয়ে ড্রাম স্পর্শ করুন"
       },
       {
         "id": "rta-hvb-178-c",
-        "answer_text": "Check your temperature gauge"
+        "answer_text": "তাপমাত্রা গেজ পরীক্ষা করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-179",
-    "question_text": "If you feel excessive heat radiating from the brake drum of your vehicle, it means;",
+    "question_text": "যদি আপনি আপনার গাড়ির ব্রেক ড্রাম থেকে অতিরিক্ত তাপ অনুভব করেন, তার মানে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-179-a",
-        "answer_text": "The clutch is not biting properly"
+        "answer_text": "ক্লাচ সঠিকভাবে কামড়াচ্ছে না"
       },
       {
         "id": "rta-hvb-179-b",
-        "answer_text": "Your brakes are not working"
+        "answer_text": "আপনার ব্রেক কাজ করছে না"
       },
       {
         "id": "rta-hvb-179-c",
-        "answer_text": "Your brakes are overheating"
+        "answer_text": "আপনার ব্রেক অতিরিক্ত গরম হচ্ছে"
       }
     ]
   },
   {
     "id": "rta-hvb-180",
-    "question_text": "When coupling semi-trailers, what must be long enough for making tight turns?",
+    "question_text": "সেমি-ট্রেইলার যুক্ত করার সময়, শক্ত বাঁক নেওয়ার জন্য কোনটি যথেষ্ট লম্বা হতে হবে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-180-a",
-        "answer_text": "Steering"
+        "answer_text": "স্টিয়ারিং"
       },
       {
         "id": "rta-hvb-180-b",
-        "answer_text": "Brake lines"
+        "answer_text": "ব্রেক লাইন"
       },
       {
         "id": "rta-hvb-180-c",
-        "answer_text": "Brake system"
+        "answer_text": "ব্রেক সিস্টেম"
       }
     ]
   },
   {
     "id": "rta-hvb-182",
-    "question_text": "How do you chock the wheels of a semi-trailer so it does not move?",
+    "question_text": "আপনি সেমি-ট্রেইলারের চাকাগুলো কীভাবে চক করবেন যাতে সেগুলো নড়াচড়া না করে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-182-a",
-        "answer_text": "Place a wedge in front of the wheels"
+        "answer_text": "চাকার সামনে একটি কীলক রাখুন"
       },
       {
         "id": "rta-hvb-182-b",
-        "answer_text": "Place a wedge on both from and rear sides of the wheels"
+        "answer_text": "চাকার সামনে ও পেছনে উভয় পাশে একটি কীলক রাখুন"
       },
       {
         "id": "rta-hvb-182-c",
-        "answer_text": "Place a wedge at the back of the wheels"
+        "answer_text": "চাকার পেছনে একটি কীলক রাখুন"
       }
     ]
   },
   {
     "id": "rta-hvb-183",
-    "question_text": "When coupling semi-trailers, which shows the correct step by step procedure?",
+    "question_text": "সেমি-ট্রেইলার যুক্ত করার সময়, কোনটি সঠিক ধাপে ধাপে পদ্ধতি দেখায়?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-183-a",
-        "answer_text": "1. Inspect the area and secure the semi-trailer\n2. Inspect or check coupling devices for damage\n3. Check semi-trailer height"
+        "answer_text": "১. এলাকা পরিদর্শন করুন এবং সেমি-ট্রেইলার সুরক্ষিত করুন\n২. ক্ষতির জন্য কাপলিং ডিভাইসগুলো পরীক্ষা করুন\n৩. সেমি-ট্রেইলারের উচ্চতা পরীক্ষা করুন"
       },
       {
         "id": "rta-hvb-183-b",
-        "answer_text": "1. Check semi-trailer height\n2. Inspect the area and secure the semi-trailer\n3.Inspect or check coupling devices for damage"
+        "answer_text": "১. সেমি-ট্রেইলারের উচ্চতা পরীক্ষা করুন\n২. এলাকা পরিদর্শন করুন এবং সেমি-ট্রেইলার সুরক্ষিত করুন\n৩. ক্ষতির জন্য কাপলিং ডিভাইসগুলো পরীক্ষা করুন"
       },
       {
         "id": "rta-hvb-183-c",
-        "answer_text": "Front and back, 1. Back the prime mover slowly\n2. Check the semi-trailer height\n3.Inspect or check coupling devices for damage side of the wheels"
+        "answer_text": "সামনে ও পেছনে, ১. প্রাইম মুভারটি আস্তে পিছিয়ে নিন\n২. সেমি-ট্রেইলারের উচ্চতা পরীক্ষা করুন\n৩. ক্ষতির জন্য কাপলিং ডিভাইসগুলো পরীক্ষা করুন চাকার পাশে"
       }
     ]
   },
   {
     "id": "rta-hvb-184",
-    "question_text": "If your semi-trailer is equipped with spring loaded brakes, there is;",
+    "question_text": "যদি আপনার সেমি-ট্রেইলারে স্প্রিং লোডেড ব্রেক থাকে, তাহলে;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-184-a",
-        "answer_text": "No need to check the brakes"
+        "answer_text": "ব্রেক পরীক্ষার প্রয়োজন নেই"
       },
       {
         "id": "rta-hvb-184-b",
-        "answer_text": "A need to chock the wheels"
+        "answer_text": "চাকা চক করার প্রয়োজন আছে"
       },
       {
         "id": "rta-hvb-184-c",
-        "answer_text": "No need to chock the wheels"
+        "answer_text": "চাকা চক করার প্রয়োজন নেই"
       }
     ]
   },
   {
     "id": "rta-hvb-185",
-    "question_text": "What do you check for the coupling devices before coupling your semi-trailer?",
+    "question_text": "সেমি-ট্রেইলার যুক্ত করার আগে আপনি কাপলিং ডিভাইসগুলোতে কী পরীক্ষা করেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-185-a",
-        "answer_text": "Check if the turntable is visible from the mirrors"
+        "answer_text": "পরীক্ষা করুন যে টার্নটেবল আয়না থেকে দেখা যায়"
       },
       {
         "id": "rta-hvb-185-b",
-        "answer_text": "Check for damage and to see that they will fit together correctly"
+        "answer_text": "ক্ষতির জন্য পরীক্ষা করুন এবং দেখুন যে সেগুলো সঠিকভাবে ফিট হবে"
       },
       {
         "id": "rta-hvb-185-c",
-        "answer_text": "The turntable is connected to the brake lines"
+        "answer_text": "টার্নটেবল ব্রেক লাইনের সাথে যুক্ত"
       }
     ]
   },
   {
     "id": "rta-hvb-187",
-    "question_text": "What can happen if the prime mover is not lined up accurately with the semi-trailer?",
+    "question_text": "যদি প্রাইম মুভার সেমি-ট্রেইলারের সাথে সঠিকভাবে সারিবদ্ধ না হয় তাহলে কী হতে পারে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-187-a",
-        "answer_text": "You could damage the semi-trailer,  the load or the prime mover"
+        "answer_text": "আপনি সেমি-ট্রেইলার, মাল বা প্রাইম মুভার ক্ষতিগ্রস্ত করতে পারেন"
       },
       {
         "id": "rta-hvb-187-b",
-        "answer_text": "The prime mover will not move"
+        "answer_text": "প্রাইম মুভার নড়বে না"
       },
       {
         "id": "rta-hvb-187-c",
-        "answer_text": "The semi-trailer will not have any damage"
+        "answer_text": "সেমি-ট্রেইলারের কোনো ক্ষতি হবে না"
       }
     ]
   },
   {
     "id": "rta-hvb-188",
-    "question_text": "When checking semi-trailer height, what could seriously injure or kill you?",
+    "question_text": "সেমি-ট্রেইলারের উচ্চতা পরীক্ষা করার সময়, কী আপনাকে গুরুতরভাবে আহত বা মেরে ফেলতে পারে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-188-a",
-        "answer_text": "If the semi-trailer does not move"
+        "answer_text": "যদি সেমি-ট্রেইলার না নড়ে"
       },
       {
         "id": "rta-hvb-188-b",
-        "answer_text": "If the load is not properly secured"
+        "answer_text": "যদি মাল সঠিকভাবে সুরক্ষিত না থাকে"
       },
       {
         "id": "rta-hvb-188-c",
-        "answer_text": "If the landing gear collapses"
+        "answer_text": "যদি ল্যান্ডিং গিয়ার ভেঙে পড়ে"
       }
     ]
   },
   {
     "id": "rta-hvb-189",
-    "question_text": "During coupling procedure, how do you secure the prime mover?",
+    "question_text": "কাপলিং প্রক্রিয়ার সময়, আপনি প্রাইম মুভারটি কীভাবে সুরক্ষিত করবেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-189-a",
-        "answer_text": "Apply the parking brake"
+        "answer_text": "পার্কিং ব্রেক লাগান"
       },
       {
         "id": "rta-hvb-189-b",
-        "answer_text": "Use the foot brakes properly"
+        "answer_text": "ফুট ব্রেক সঠিকভাবে ব্যবহার করুন"
       },
       {
         "id": "rta-hvb-189-c",
-        "answer_text": "Switching off the engine"
+        "answer_text": "ইঞ্জিন বন্ধ করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-190",
-    "question_text": "When coupling trailer, ensure safety while climbing on the back of the prime mover by;",
+    "question_text": "ট্রেলার সংযোগ করার সময়, প্রাইম মুভারের পেছনে উঠতে গিয়ে নিরাপত্তা নিশ্চিত করুন;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-190-a",
-        "answer_text": "Looking for the torch and safety shoes"
+        "answer_text": "টর্চ এবং নিরাপত্তা জুতা খুঁজুন"
       },
       {
         "id": "rta-hvb-190-b",
-        "answer_text": "Being careful of greasy and wet areas on the truck"
+        "answer_text": "ট্রাকে তৈলাক্ত ও ভেজা জায়গাগুলো থেকে সাবধান থাকুন"
       },
       {
         "id": "rta-hvb-190-c",
-        "answer_text": "Using only the best quality boots"
+        "answer_text": "শুধুমাত্র সর্বোচ্চ মানের বুট ব্যবহার করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-192",
-    "question_text": "When uncoupling the trailer, find a surface that is able to support the trailer and;",
+    "question_text": "ট্রেলার বিযুক্ত করার সময়, এমন একটি পৃষ্ঠ খুঁজুন যা ট্রেলার ধরে রাখতে পারবে এবং;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-192-a",
-        "answer_text": "The bases of the landing gear"
+        "answer_text": "ল্যান্ডিং গিয়ারের ভিত্তি"
       },
       {
         "id": "rta-hvb-192-b",
-        "answer_text": "The surface maybe on inclined position"
+        "answer_text": "পৃষ্ঠটি হেলানো অবস্থায় থাকতে পারে"
       },
       {
         "id": "rta-hvb-192-c",
-        "answer_text": "Perform the uncoupling quickly"
+        "answer_text": "দ্রুত বিযুক্তকরণ সম্পন্ন করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-193",
-    "question_text": "To complete the uncoupling procedure, when do you release the parking brake and pull clear of the trailer?",
+    "question_text": "আনকাপলিং প্রক্রিয়া সম্পন্ন করতে, আপনি কখন পার্কিং ব্রেক ছাড়বেন এবং ট্রেলার থেকে সরে যাবেন?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-193-a",
-        "answer_text": "Before inspecting the semi-trailer support and ensuring the ground is stable"
+        "answer_text": "সেমি-ট্রেলার সাপোর্ট পরিদর্শন করার এবং মাটি স্থিতিশীল নিশ্চিত করার আগে"
       },
       {
         "id": "rta-hvb-193-b",
-        "answer_text": "After inspecting the semi-trailer support and ensuring the ground is stable"
+        "answer_text": "সেমি-ট্রেলার সাপোর্ট পরিদর্শন করার এবং মাটি স্থিতিশীল নিশ্চিত করার পরে"
       },
       {
         "id": "rta-hvb-193-c",
-        "answer_text": "At anytime during the uncoupling procedure"
+        "answer_text": "আনকাপলিং প্রক্রিয়া চলাকালীন যেকোনো সময়"
       }
     ]
   },
   {
     "id": "rta-hvb-195",
-    "question_text": "When uncoupling semi-trailer, secure the vehicle by applying the parking brakes and;",
+    "question_text": "সেমি-ট্রেলার বিযুক্ত করার সময়, পার্কিং ব্রেক লাগিয়ে যানবাহন সুরক্ষিত করুন এবং;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-195-a",
-        "answer_text": "If necessary, chock all the wheels of the semi-trailer"
+        "answer_text": "প্রয়োজনে সেমি-ট্রেলারের সব চাকায় চক দিন"
       },
       {
         "id": "rta-hvb-195-b",
-        "answer_text": "If necessary, chock the wheels of the prime mover"
+        "answer_text": "প্রয়োজনে প্রাইম মুভারের চাকায় চক দিন"
       },
       {
         "id": "rta-hvb-195-c",
-        "answer_text": "Check if possible to chock the wheels"
+        "answer_text": "চাকায় চক দেওয়া সম্ভব কিনা পরীক্ষা করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-196",
-    "question_text": "When coupling or uncoupling a semi-trailer, make sure to follow the steps and;",
+    "question_text": "সেমি-ট্রেলার সংযোগ বা বিযুক্ত করার সময়, ধাপগুলো অনুসরণ করুন এবং;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-196-a",
-        "answer_text": "Do the quickest possible procedure"
+        "answer_text": "সবচেয়ে দ্রুত সম্ভব প্রক্রিয়া অনুসরণ করুন"
       },
       {
         "id": "rta-hvb-196-b",
-        "answer_text": "Do not take shortcuts"
+        "answer_text": "শর্টকাট নেবেন না"
       },
       {
         "id": "rta-hvb-196-c",
-        "answer_text": "Ensure to complete the process on time"
+        "answer_text": "সময়মতো প্রক্রিয়া সম্পন্ন করা নিশ্চিত করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-199",
-    "question_text": "Perform vehicle safety checks and decide on the appropriate route for the load and height of the vehicle.",
+    "question_text": "যানবাহনের নিরাপত্তা পরীক্ষা করুন এবং যানবাহনের ভার ও উচ্চতার জন্য উপযুক্ত রাস্তা নির্ধারণ করুন।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-199-a",
-        "answer_text": "Do this during the trip"
+        "answer_text": "যাত্রাকালীন এটি করুন"
       },
       {
         "id": "rta-hvb-199-b",
-        "answer_text": "Do this before the trip"
+        "answer_text": "যাত্রার আগে এটি করুন"
       },
       {
         "id": "rta-hvb-199-c",
-        "answer_text": "Do this right after the trip"
+        "answer_text": "যাত্রার পরপরই এটি করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-201",
-    "question_text": "When driving a loaded truck, remember not expose persons or property to any danger and;",
+    "question_text": "মালবাহী ট্রাক চালানোর সময়, মনে রাখবেন যে ব্যক্তি বা সম্পত্তিকে কোনো বিপদে ফেলবেন না এবং;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-201-a",
-        "answer_text": "Not allow soil or any harmful substance to leak from your vehicle"
+        "answer_text": "আপনার যানবাহন থেকে মাটি বা কোনো ক্ষতিকর পদার্থ বের হতে দেবেন না"
       },
       {
         "id": "rta-hvb-201-b",
-        "answer_text": "Conduct pre-drive checks"
+        "answer_text": "ড্রাইভিং-পূর্ব পরীক্ষা পরিচালনা করুন"
       },
       {
         "id": "rta-hvb-201-c",
-        "answer_text": "Check the transmission oil every trip"
+        "answer_text": "প্রতিটি যাত্রায় ট্রান্সমিশন অয়েল পরীক্ষা করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-204",
-    "question_text": "What can you do to secure the load when the vehicle floor surface and the load surface are both metal?",
+    "question_text": "যানবাহনের মেঝের পৃষ্ঠ এবং মালের পৃষ্ঠ উভয়ই ধাতব হলে মাল সুরক্ষিত করতে কী করা যায়?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-204-a",
-        "answer_text": "Place timber or rubber between the metal surfaces"
+        "answer_text": "ধাতব পৃষ্ঠের মধ্যে কাঠ বা রাবার রাখুন"
       },
       {
         "id": "rta-hvb-204-b",
-        "answer_text": "Place paper or story foam between the metal surfaces"
+        "answer_text": "ধাতব পৃষ্ঠের মধ্যে কাগজ বা স্টোরি ফোম রাখুন"
       },
       {
         "id": "rta-hvb-204-c",
-        "answer_text": "Place soil between the metal surfaces"
+        "answer_text": "ধাতব পৃষ্ঠের মধ্যে মাটি রাখুন"
       }
     ]
   },
   {
     "id": "rta-hvb-208",
-    "question_text": "What is the first step in estimating the height of the heavy vehicle?",
+    "question_text": "ভারী গাড়ির উচ্চতা অনুমান করার প্রথম ধাপ কী?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-208-a",
-        "answer_text": "Measure from ground to the top of cabin"
+        "answer_text": "মাটি থেকে কেবিনের ছাদ পর্যন্ত পরিমাপ করুন"
       },
       {
         "id": "rta-hvb-208-b",
-        "answer_text": "Measure from top of cabin down to the seating level"
+        "answer_text": "কেবিনের ছাদ থেকে আসনের স্তর পর্যন্ত পরিমাপ করুন"
       },
       {
         "id": "rta-hvb-208-c",
-        "answer_text": "Simply estimate the height of the load"
+        "answer_text": "শুধু বোঝার উচ্চতা অনুমান করুন"
       }
     ]
   },
   {
     "id": "rta-hvb-211",
-    "question_text": "Brakes should be applied with steady pressure initially, and then eased off as the vehicle slows. This is for;",
+    "question_text": "ব্রেক প্রথমে একসমান চাপ দিয়ে প্রয়োগ করতে হবে, তারপর গাড়ি ধীর হলে ধীরে ধীরে ছাড়তে হবে। এটি কীসের জন্য?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-211-a",
-        "answer_text": "Air brakes only"
+        "answer_text": "শুধুমাত্র বায়বীয় ব্রেক"
       },
       {
         "id": "rta-hvb-211-b",
-        "answer_text": "All types of brakes"
+        "answer_text": "সব ধরনের ব্রেক"
       },
       {
         "id": "rta-hvb-211-c",
-        "answer_text": "Hydraulic brakes only"
+        "answer_text": "শুধুমাত্র হাইড্রোলিক ব্রেক"
       }
     ]
   },
   {
     "id": "rta-hvb-212",
-    "question_text": "When carrying heavy loads, braking should generally be;",
+    "question_text": "ভারী বোঝা বহনের সময় সাধারণত ব্রেকিং কেমন হওয়া উচিত?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-212-a",
-        "answer_text": "Earlier and harder"
+        "answer_text": "আগে এবং শক্তভাবে"
       },
       {
         "id": "rta-hvb-212-b",
-        "answer_text": "Sudden and lighter"
+        "answer_text": "হঠাৎ এবং হালকাভাবে"
       },
       {
         "id": "rta-hvb-212-c",
-        "answer_text": "Smooth and lighter"
+        "answer_text": "মসৃণ এবং হালকাভাবে"
       }
     ]
   },
   {
     "id": "rta-hvb-216",
-    "question_text": "What should be remembered when carrying high loads?",
+    "question_text": "উঁচু বোঝা বহনের সময় কী মনে রাখতে হবে?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-216-a",
-        "answer_text": "The stability is the same as lower loads"
+        "answer_text": "স্থিতিশীলতা নিচু বোঝার মতোই থাকে"
       },
       {
         "id": "rta-hvb-216-b",
-        "answer_text": "The load is less stable"
+        "answer_text": "বোঝা কম স্থিতিশীল থাকে"
       },
       {
         "id": "rta-hvb-216-c",
-        "answer_text": "The load is more stable"
+        "answer_text": "বোঝা বেশি স্থিতিশীল থাকে"
       }
     ]
   }

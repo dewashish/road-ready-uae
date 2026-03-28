@@ -5075,647 +5075,647 @@
   },
   {
     "id": "rta-lmv-482",
-    "question_text": "A police report issued in white form signifies that neither party is at fault or;",
+    "question_text": "വെള്ള ഫോമിൽ ജാരി ചെയ്ത പോലീസ് റിപ്പോർട്ട് സൂചിപ്പിക്കുന്നത് ഒരു കക്ഷിക്കും തെറ്റില്ല അല്ലെങ്കിൽ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-482-a",
-        "answer_text": "both parties are at fault"
+        "answer_text": "ഇരു കക്ഷികളും തെറ്റുകാരാണ്"
       },
       {
         "id": "rta-lmv-482-b",
-        "answer_text": "that the other party is unknown"
+        "answer_text": "മറ്റേ കക്ഷി അജ്ഞാതമാണ്"
       },
       {
         "id": "rta-lmv-482-c",
-        "answer_text": "that the other party is unknown"
+        "answer_text": "മറ്റേ കക്ഷി അജ്ഞാതമാണ്"
       }
     ]
   },
   {
     "id": "rta-lmv-491",
-    "question_text": "You have a green light at an intersection. You can  proceed;",
+    "question_text": "ഒരു ക്രോസ്‌റോഡിൽ നിങ്ങൾക്ക് പച്ച ലൈറ്റ് ഉണ്ട്. നിങ്ങൾക്ക് മുന്നോട്ട് പോകാം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-491-a",
-        "answer_text": "only if the intersection is clear and it is safe to proceed"
+        "answer_text": "ക്രോസ്‌റോഡ് ശൂന്യമാണെങ്കിലും മുന്നോട്ട് പോകുന്നത് സുരക്ഷിതമാണെങ്കിൽ മാത്രം"
       },
       {
         "id": "rta-lmv-491-b",
-        "answer_text": "as quickly as possible to avoid delaying the traffic"
+        "answer_text": "ഗതാഗതം വൈകിക്കാതിരിക്കാൻ കഴിയുന്നത്ര വേഗത്തിൽ"
       },
       {
         "id": "rta-lmv-491-c",
-        "answer_text": "once there are no emergency vehicles around"
+        "answer_text": "ചുറ്റും അടിയന്തര വാഹനങ്ങൾ ഇല്ലാത്തപ്പോൾ"
       }
     ]
   },
   {
     "id": "rta-rm-001",
-    "question_text": "What does a continuous longitudinal yellow line along the carriageway indicate?",
-    "explanation": null,
+    "question_text": "റോഡിലൂടെ തുടർച്ചയായ മഞ്ഞ ദൈർഘ്യ രേഖ എന്ത് സൂചിപ്പിക്കുന്നു?",
+    "explanation": "റോഡ് ബോഡ്ഡിലൂടെ തുടർച്ചയായ മഞ്ഞ വര ഒരു നിയന്ത്രണ റോഡ് മാർക്കിംഗ് ആണ്, ഇത് 'നോ പാസിംഗ് ലൈൻ' സൂചിപ്പിക്കുന്നു — ഓവർടേക്ക് ചെയ്യാൻ ഇത് മറികടക്കരുത്.",
     "answers": [
       {
         "id": "rta-rm-001-a",
-        "answer_text": "No passing / no overtaking zone"
+        "answer_text": "ഓവർടേക്കിംഗ് നിരോധിത മേഖല"
       },
       {
         "id": "rta-rm-001-b",
-        "answer_text": "Edge of the carriageway"
+        "answer_text": "റോഡിന്റെ അറ്റം"
       },
       {
         "id": "rta-rm-001-c",
-        "answer_text": "Bus lane ahead"
+        "answer_text": "മുന്നിൽ ബസ് ലൈൻ"
       }
     ]
   },
   {
     "id": "rta-rm-002",
-    "question_text": "A continuous longitudinal line across the carriageway at an intersection indicates:",
-    "explanation": null,
+    "question_text": "ഒരു ജംഗ്ഷനിൽ റോഡ് കുറുകെ കടന്ന് പോകുന്ന തുടർച്ചയായ ദൈർഘ്യ രേഖ എന്ത് സൂചിപ്പിക്കുന്നു?",
+    "explanation": "റോഡ് കുറുകെ വരയ്ക്കപ്പെട്ട തുടർച്ചയായ ദൈർഘ്യ രേഖ സ്റ്റോപ്പ് ലൈൻ അടയാളപ്പെടുത്തുന്നു, അവിടെ മുന്നോട്ട് പോകുന്നതിന് മുൻപ് നിർത്തണം.",
     "answers": [
       {
         "id": "rta-rm-002-a",
-        "answer_text": "A stop line — you must stop here"
+        "answer_text": "സ്റ്റോപ്പ് ലൈൻ — ഇവിടെ നിർത്തണം"
       },
       {
         "id": "rta-rm-002-b",
-        "answer_text": "A pedestrian crossing"
+        "answer_text": "കാൽനട ക്രോസിംഗ്"
       },
       {
         "id": "rta-rm-002-c",
-        "answer_text": "A speed reduction zone"
+        "answer_text": "വേഗം കുറയ്ക്കേണ്ട മേഖല"
       }
     ]
   },
   {
     "id": "rta-rm-003",
-    "question_text": "Short intermittent lines across the carriageway indicate:",
-    "explanation": null,
+    "question_text": "റോഡ് കുറുകെ ചെറിയ ഇടവിട്ട രേഖകൾ എന്ത് സൂചിപ്പിക്കുന്നു?",
+    "explanation": "റോഡ് കുറുകെ ചെറിയ ഇടവിട്ട (ഡാഷ്ഡ്) രേഖകൾ 'ഗിവ് വേ ലൈൻ' അടയാളപ്പെടുത്തുന്നു — പ്രധാന റോഡിലെ ഗതാഗതത്തിന് വഴി നൽകണം.",
     "answers": [
       {
         "id": "rta-rm-003-a",
-        "answer_text": "A give way line"
+        "answer_text": "ഗിവ് വേ ലൈൻ"
       },
       {
         "id": "rta-rm-003-b",
-        "answer_text": "A pedestrian crossing"
+        "answer_text": "കാൽനട ക്രോസിംഗ്"
       },
       {
         "id": "rta-rm-003-c",
-        "answer_text": "A speed bump warning"
+        "answer_text": "സ്പീഡ് ബമ്പ് മുന്നറിയിപ്പ്"
       }
     ]
   },
   {
     "id": "rta-rm-004",
-    "question_text": "What does a yellow box with diagonal squares painted on the road indicate?",
-    "explanation": null,
+    "question_text": "റോഡിൽ വരച്ചിരിക്കുന്ന ഡയഗണൽ ചതുരങ്ങളോടുകൂടിയ മഞ്ഞ ബോക്സ് എന്ത് സൂചിപ്പിക്കുന്നു?",
+    "explanation": "മഞ്ഞ ബോക്സ് ജംഗ്ഷൻ അർത്ഥമാക്കുന്നത്, നിങ്ങളുടെ പുറത്തുകടക്കാനുള്ള വഴി ഒഴിഞ്ഞിരിക്കുന്നില്ലെങ്കിൽ ബോക്സിലേക്ക് കടക്കരുത് എന്നാണ്. നിങ്ങൾ വലത്തേക്ക് തിരിയുകയും എതിരേ വരുന്ന ഗതാഗതം കാത്തിരിക്കുകയും ചെയ്യുമ്പോൾ മാത്രം ബോക്സിൽ നിർത്താം.",
     "answers": [
       {
         "id": "rta-rm-004-a",
-        "answer_text": "A box junction — do not enter unless your exit is clear"
+        "answer_text": "ബോക്സ് ജംഗ്ഷൻ — പുറത്തുകടക്കൽ ഒഴിഞ്ഞിരിക്കാതെ കടക്കരുത്"
       },
       {
         "id": "rta-rm-004-b",
-        "answer_text": "A parking zone for authorized vehicles"
+        "answer_text": "അനുമതിയുള്ള വാഹനങ്ങൾക്കുള്ള പാർക്കിംഗ് മേഖല"
       },
       {
         "id": "rta-rm-004-c",
-        "answer_text": "A speed restriction area"
+        "answer_text": "വേഗ നിയന്ത്രണ മേഖല"
       }
     ]
   },
   {
     "id": "rta-rm-005",
-    "question_text": "What do zig-zag lines on the road near a crossing indicate?",
-    "explanation": null,
+    "question_text": "ക്രോസിംഗിനടുത്ത് റോഡിൽ സിഗ്-സാഗ് രേഖകൾ എന്ത് സൂചിപ്പിക്കുന്നു?",
+    "explanation": "സിഗ്-സാഗ് രേഖകൾ ഒരു മേഖലയ്ക്ക് അടയാളം ഇടുന്നു, അവിടെ പാർക്കിംഗും ഓവർടേക്കിംഗും നിരോധിതമാണ്, സാധാരണ കാൽനട ക്രോസിംഗുകൾക്കടുത്ത്, വ്യക്തമായ ദൃശ്യത ഉറപ്പ് വരുത്താൻ.",
     "answers": [
       {
         "id": "rta-rm-005-a",
-        "answer_text": "No parking or overtaking zone near a crossing"
+        "answer_text": "ക്രോസിംഗിനടുത്ത് പാർക്കിംഗ് അല്ലെങ്കിൽ ഓവർടേക്കിംഗ് നിരോധിത മേഖല"
       },
       {
         "id": "rta-rm-005-b",
-        "answer_text": "A speed bump area"
+        "answer_text": "സ്പീഡ് ബമ്പ് മേഖല"
       },
       {
         "id": "rta-rm-005-c",
-        "answer_text": "A tram-only zone"
+        "answer_text": "ട്രാം മാത്രം മേഖല"
       }
     ]
   },
   {
     "id": "rta-rm-006",
-    "question_text": "What do rumble strips on the road surface warn you about?",
-    "explanation": null,
+    "question_text": "റോഡ് ഉപരിതലത്തിലെ റംബിൾ സ്ട്രിപ്സ് നിങ്ങൾക്ക് എന്തിനെക്കുറിച്ച് മുന്നറിയിപ്പ് നൽകുന്നു?",
+    "explanation": "റംബിൾ സ്ട്രിപ്സ് ഉയർന്നതോ ഘടനയുള്ളതോ ആയ അടയാളങ്ങളാണ്, അവയ്ക്ക് മുകളിലൂടെ ഓടിക്കുമ്പോൾ കമ്പനവും ശബ്ദവും ഉണ്ടാക്കുന്നു, ജംഗ്ഷൻ അല്ലെങ്കിൽ കൂർത്ത വളവ് പോലുള്ള അപകടസ്ഥലങ്ങൾ സമീപിക്കുന്നതായി ഡ്രൈവർമാർക്ക് മുന്നറിയിപ്പ് നൽകുന്നു.",
     "answers": [
       {
         "id": "rta-rm-006-a",
-        "answer_text": "You are approaching a hazard — reduce speed"
+        "answer_text": "നിങ്ങൾ ഒരു അപകടസ്ഥലം സമീപിക്കുന്നു — വേഗം കുറയ്ക്കുക"
       },
       {
         "id": "rta-rm-006-b",
-        "answer_text": "The road surface is damaged"
+        "answer_text": "റോഡ് ഉപരിതലം കേടായിരിക്കുന്നു"
       },
       {
         "id": "rta-rm-006-c",
-        "answer_text": "You are entering a toll zone"
+        "answer_text": "നിങ്ങൾ ടോൾ മേഖലയിൽ പ്രവേശിക്കുകയാണ്"
       }
     ]
   },
   {
     "id": "rta-rm-007",
-    "question_text": "What do broken yellow lines in the centre of the road indicate?",
-    "explanation": null,
+    "question_text": "റോഡിന്റെ മധ്യത്തിലെ മുറിഞ്ഞ മഞ്ഞ രേഖകൾ എന്ത് സൂചിപ്പിക്കുന്നു?",
+    "explanation": "റോഡിന്റെ കേന്ദ്രത്തിലെ മുറിഞ്ഞ മഞ്ഞ രേഖകൾ ഗൈഡൻസ് മാർക്കിംഗുകളാണ്, ഇത് സൂചിപ്പിക്കുന്നത് സുരക്ഷിതമാണെങ്കിൽ ഓവർടേക്ക് ചെയ്യാൻ ഇത് മറികടക്കാം.",
     "answers": [
       {
         "id": "rta-rm-007-a",
-        "answer_text": "You may cross to overtake when safe"
+        "answer_text": "സുരക്ഷിതമാണെങ്കിൽ ഓവർടേക്ക് ചെയ്യാൻ മറികടക്കാം"
       },
       {
         "id": "rta-rm-007-b",
-        "answer_text": "No crossing allowed at any time"
+        "answer_text": "ഒരിക്കലും കടക്കുവാൻ അനുമതിയില്ല"
       },
       {
         "id": "rta-rm-007-c",
-        "answer_text": "Lane change prohibited"
+        "answer_text": "ലൈൻ മാറ്റം നിരോധിതമാണ്"
       }
     ]
   },
   {
     "id": "rta-rm-008",
-    "question_text": "What does an 'X' marking on the road ahead indicate?",
-    "explanation": null,
+    "question_text": "മുന്നിലെ റോഡിൽ 'X' അടയാളം എന്ത് സൂചിപ്പിക്കുന്നു?",
+    "explanation": "റോഡിലെ X അടയാളം മുന്നിൽ ഒരു റെയിൽവേ അല്ലെങ്കിൽ ട്രാം ലെവൽ ക്രോസിംഗ് ഉണ്ടെന്ന് സൂചിപ്പിക്കുന്നു. നിങ്ങൾ വേഗം കുറയ്ക്കണം, നിർത്തൽ ആവശ്യമായി വരാം.",
     "answers": [
       {
         "id": "rta-rm-008-a",
-        "answer_text": "A railway or tram level crossing ahead"
+        "answer_text": "മുന്നിൽ റെയിൽവേ അല്ലെങ്കിൽ ട്രാം ലെവൽ ക്രോസിംഗ്"
       },
       {
         "id": "rta-rm-008-b",
-        "answer_text": "Road closed ahead"
+        "answer_text": "മുന്നിൽ റോഡ് അടഞ്ഞിരിക്കുന്നു"
       },
       {
         "id": "rta-rm-008-c",
-        "answer_text": "A box junction"
+        "answer_text": "ബോക്സ് ജംഗ്ഷൻ"
       }
     ]
   },
   {
     "id": "rta-rm-009",
-    "question_text": "At a traffic-controlled intersection, what does a red light with a green left arrow mean?",
-    "explanation": null,
+    "question_text": "ട്രാഫിക്-നിയന്ത്രിത ജംഗ്ഷനിൽ, ഹരിത ഇടത്-അമ്പ് ഉള്ള ചുവന്ന ലൈറ്റ് എന്ത് അർത്ഥമാക്കുന്നു?",
+    "explanation": "ഹരിത അമ്പ് ഉള്ള ചുവന്ന ലൈറ്റ് അർത്ഥമാക്കുന്നത്, ചുവന്ന ലൈറ്റിന് നിർത്തണം, എന്നാൽ ഹരിത അമ്പിന്റെ ദിശയിൽ നിയന്ത്രിത രീതിയിൽ മുന്നോട്ട് പോകാം.",
     "answers": [
       {
         "id": "rta-rm-009-a",
-        "answer_text": "Stop for red, but may proceed in the green arrow direction"
+        "answer_text": "ചുവപ്പിന് നിർത്തുക, ഹരിത അമ്പ് ദിശയിൽ മുന്നോട്ട് പോകാം"
       },
       {
         "id": "rta-rm-009-b",
-        "answer_text": "Stop completely and wait for a full green light"
+        "answer_text": "പൂർണ്ണമായി നിർത്തി, ഹരിത ലൈറ്റ് പൂർണ്ണമാകുന്നത് കാത്തിരിക്കുക"
       },
       {
         "id": "rta-rm-009-c",
-        "answer_text": "Proceed with caution in any direction"
+        "answer_text": "ഏത് ദിശയിലും ജാഗ്രതയോടെ മുന്നോട്ട് പോകുക"
       }
     ]
   },
   {
     "id": "rta-rm-010",
-    "question_text": "Yellow triangular markings on the road surface warn you of:",
-    "explanation": null,
+    "question_text": "റോഡ് പ്രതലത്തിലെ മഞ്ഞ ത്രികോണ അടയാളങ്ങൾ നിങ്ങൾക്ക് എന്തിനെക്കുറിച്ച് മുന്നറിയിപ്പ് നൽകുന്നു?",
+    "explanation": "റോഡ് പ്രതലത്തിലെ മഞ്ഞ ത്രികോണ അടയാളങ്ങൾ (സ്പീഡ് ഹമ്പ് അടയാളങ്ങൾ) ഡ്രൈവർമാർക്ക് മുന്നിലുള്ള സ്പീഡ് ഹമ്പുകളെക്കുറിച്ച് അറിയിക്കുകയും വേഗത കുറയ്ക്കാൻ മുന്നറിയിപ്പ് നൽകുകയും ചെയ്യുന്നു.",
     "answers": [
       {
         "id": "rta-rm-010-a",
-        "answer_text": "Speed humps ahead — reduce speed"
+        "answer_text": "മുന്നിൽ സ്പീഡ് ഹമ്പുകൾ — വേഗത കുറയ്ക്കുക"
       },
       {
         "id": "rta-rm-010-b",
-        "answer_text": "Construction zone warning"
+        "answer_text": "നിർമ്മാണ മേഖലയുടെ മുന്നറിയിപ്പ്"
       },
       {
         "id": "rta-rm-010-c",
-        "answer_text": "School zone ahead"
+        "answer_text": "മുന്നിൽ സ്കൂൾ മേഖല"
       }
     ]
   },
   {
     "id": "rta-fk-039",
-    "question_text": "Similar to public roads, forklift operators must also comply with this at workplaces.",
+    "question_text": "പൊതു റോഡുകൾ പോലെ, ഫോർക്ക്‌ലിഫ്റ്റ് ഓപ്പറേറ്റർമാരും ജോലിസ്ഥലങ്ങളിൽ ഇത് പാലിക്കണം.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-039-a",
-        "answer_text": "Speed restriction signs"
+        "answer_text": "വേഗ നിയന്ത്രണ ചിഹ്നങ്ങൾ"
       },
       {
         "id": "rta-fk-039-b",
-        "answer_text": "Hard hat area signs"
+        "answer_text": "ഹാർഡ് ഹാറ്റ് ഏരിയ ചിഹ്നങ്ങൾ"
       },
       {
         "id": "rta-fk-039-c",
-        "answer_text": "Reflective vest signs"
+        "answer_text": "റിഫ്ലക്ടിവ് വെസ്റ്റ് ചിഹ്നങ്ങൾ"
       }
     ]
   },
   {
     "id": "rta-fk-061",
-    "question_text": "During the pre-use visual checks, why is there a need to check the overhead?",
+    "question_text": "ഉപയോഗിക്കുന്നതിന് മുമ്പുള്ള ദൃശ്യ പരിശോധനയ്ക്കിടെ, മുകളിൽ പരിശോധിക്കേണ്ടത് എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-061-a",
-        "answer_text": "To make sure there are no obstructions"
+        "answer_text": "തടസ്സങ്ങൾ ഇല്ലെന്ന് ഉറപ്പാക്കാൻ"
       },
       {
         "id": "rta-fk-061-b",
-        "answer_text": "To make sure the ceiling is clean"
+        "answer_text": "മേൽക്കൂര വൃത്തിയാണെന്ന് ഉറപ്പാക്കാൻ"
       },
       {
         "id": "rta-fk-061-c",
-        "answer_text": "To make sure all the signage's are properly placed"
+        "answer_text": "എല്ലാ സൈനേജുകളും ശരിയായ സ്ഥാനത്ത് ഇരിക്കുന്നുവെന്ന് ഉറപ്പാക്കാൻ"
       }
     ]
   },
   {
     "id": "rta-hfk-036",
-    "question_text": "Identify at least 3 important information that you must know as part of emergency procedure;",
+    "question_text": "അടിയന്തര നടപടിക്രമത്തിന്റെ ഭാഗമായി നിങ്ങൾ അറിഞ്ഞിരിക്കേണ്ട കുറഞ്ഞത് 3 പ്രധാന വിവരങ്ങൾ തിരിച്ചറിയുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-036-a",
-        "answer_text": "Location of; showers, breathing apparatus and fire extinguishers"
+        "answer_text": "സ്ഥാനം: ഷവർ, ശ്വസന ഉപകരണങ്ങൾ, അഗ്നിശമന യന്ത്രങ്ങൾ"
       },
       {
         "id": "rta-hfk-036-b",
-        "answer_text": "Location of; assembly point, smoking areas and coffee machines"
+        "answer_text": "സ്ഥാനം: ഒത്തുചേരൽ സ്ഥലം, പുകവലി മേഖലകൾ, കോഫി മെഷീനുകൾ"
       },
       {
         "id": "rta-hfk-036-c",
-        "answer_text": "Location of; Warning Signs, trampolines and trap doors"
+        "answer_text": "സ്ഥാനം: മുന്നറിയിപ്പ് ചിഹ്നങ്ങൾ, ട്രാമ്പോളിൻ, ട്രാപ്പ് ഡോർ"
       }
     ]
   },
   {
     "id": "rta-hfk-043",
-    "question_text": "Before starting the engine of your shovel, why should you sound the horn first?",
+    "question_text": "നിങ്ങളുടെ ഷോവലിന്റെ എഞ്ചിൻ സ്റ്റാർട്ട് ചെയ്യുന്നതിന് മുമ്പ്, എന്തുകൊണ്ടാണ് ആദ്യം ഹോൺ മുഴക്കേണ്ടത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-043-a",
-        "answer_text": "To alert for anyone  for any possible danger"
+        "answer_text": "ഏതെങ്കിലും സാധ്യമായ അപകടത്തെക്കുറിച്ച് ആരെയെങ്കിലും ജാഗ്രതപ്പെടുത്താൻ"
       },
       {
         "id": "rta-hfk-043-b",
-        "answer_text": "To signal the start of your work"
+        "answer_text": "ജോലി ആരംഭിക്കുന്നതിന്റെ സൂചന നൽകാൻ"
       },
       {
         "id": "rta-hfk-043-c",
-        "answer_text": "To make sure the shovel is properly checked"
+        "answer_text": "ഷോവൽ ശരിയായി പരിശോധിച്ചിട്ടുണ്ടെന്ന് ഉറപ്പാക്കാൻ"
       }
     ]
   },
   {
     "id": "rta-hfk-068",
-    "question_text": "Most shovels are designed so that one hand handles the  steering and the other hand;",
+    "question_text": "മിക്ക ഷോവലുകളും ഒരു കൈ സ്റ്റിയറിങ് കൈകാര്യം ചെയ്യുകയും മറ്റൊരു കൈ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-068-a",
-        "answer_text": "Maneuvers other single movements"
+        "answer_text": "മറ്റ് ഒറ്റ ചലനങ്ങൾ നിയന്ത്രിക്കുന്നു"
       },
       {
         "id": "rta-hfk-068-b",
-        "answer_text": "May maneuver more than one movement"
+        "answer_text": "ഒന്നിലധികം ചലനങ്ങൾ നിയന്ത്രിക്കാൻ കഴിയും"
       },
       {
         "id": "rta-hfk-068-c",
-        "answer_text": "May maneuver multiple movements with foot controls"
+        "answer_text": "കാൽ നിയന്ത്രണങ്ങൾ ഉപയോഗിച്ച് ഒന്നിലധികം ചലനങ്ങൾ നിയന്ത്രിക്കാൻ കഴിയും"
       }
     ]
   },
   {
     "id": "rta-moto-042",
-    "question_text": "When carrying a passenger, the mirrors of a motorcycle should be adjusted:",
+    "question_text": "ഒരു യാത്രക്കാരനെ കൊണ്ടുപോകുമ്പോൾ മോട്ടോർസൈക്കിളിന്റെ കണ്ണാടികൾ എപ്പോൾ ക്രമീകരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-042-a",
-        "answer_text": "before the passenger gets on."
+        "answer_text": "യാത്രക്കാരൻ കയറുന്നതിന് മുമ്പ്."
       },
       {
         "id": "rta-moto-042-b",
-        "answer_text": "after the passenger has got on."
+        "answer_text": "യാത്രക്കാരൻ കയറിയ ശേഷം."
       },
       {
         "id": "rta-moto-042-c",
-        "answer_text": "when stopped at traffic lights."
+        "answer_text": "ട്രാഫിക് ലൈറ്റിൽ നിർത്തുമ്പോൾ."
       }
     ]
   },
   {
     "id": "rta-moto-060",
-    "question_text": "Painted lane markings can be dangerous because:",
+    "question_text": "ചായം തേച്ച ലെയ്ൻ മാർക്കിംഗുകൾ അപകടകരമാകാം കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-060-a",
-        "answer_text": "they are shiny and may dazzle at night."
+        "answer_text": "അവ തിളങ്ങുന്നതും രാത്രിയിൽ കണ്ണഞ്ചിക്കുന്നതുമാകാം."
       },
       {
         "id": "rta-moto-060-b",
-        "answer_text": "they are slippery."
+        "answer_text": "അവ വഴുക്കൽ ഉള്ളതാണ്."
       },
       {
         "id": "rta-moto-060-c",
-        "answer_text": "their surface may be rough causing the bike to jolt."
+        "answer_text": "അവയുടെ ഉപരിതലം പരുക്കനായിരിക്കാം, ഇത് ബൈക്കിന് കുലുക്കമുണ്ടാക്കാം."
       }
     ]
   },
   {
     "id": "rta-moto-140",
-    "question_text": "As you make a turn, how do you make sure you are ready to respond to things before they happen?",
+    "question_text": "തിരിവ് ഉണ്ടാക്കുമ്പോൾ, കാര്യങ്ങൾ സംഭവിക്കുന്നതിന് മുൻപ് അതിൽ പ്രതികരിക്കാൻ നിങ്ങൾ തയ്യാറാണ് എന്ന് എങ്ങനെ ഉറപ്പ് വരുത്തും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-140-a",
-        "answer_text": "always look ahead to where you want to go"
+        "answer_text": "എപ്പോഴും പോകാൻ ആഗ്രഹിക്കുന്ന ദിശയിൽ മുൻനോക്കി നോക്കുക"
       },
       {
         "id": "rta-moto-140-b",
-        "answer_text": "always look for the signs and be ready to stop"
+        "answer_text": "എപ്പോഴും അടയാളങ്ങൾ നോക്കി നിർത്താൻ തയ്യാറായിരിക്കുക"
       },
       {
         "id": "rta-moto-140-c",
-        "answer_text": "always make sure you are following the road markings and the speed limit"
+        "answer_text": "എപ്പോഴും റോഡ് അടയാളങ്ങളും വേഗ പരിധിയും പാലിക്കുന്നുണ്ടെന്ന് ഉറപ്പ് വരുത്തുക"
       }
     ]
   },
   {
     "id": "rta-moto-189",
-    "question_text": "How will wet roads, painted line and other markings affect your riding?",
+    "question_text": "നനഞ്ഞ റോഡുകൾ, പെയിന്റ് ചെയ്ത വരകൾ, മറ്റ് അടയാളങ്ങൾ എന്നിവ നിങ്ങളുടെ റൈഡിംഗിനെ എങ്ങനെ ബാധിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-189-a",
-        "answer_text": "reduce the grip of the tires, affecting your stability"
+        "answer_text": "ടയറുകളുടെ പിടി കുറയ്ക്കുന്നു, ഇത് നിങ്ങളുടെ സ്ഥിരതയെ ബാധിക്കുന്നു"
       },
       {
         "id": "rta-moto-189-b",
-        "answer_text": "increase the grip of the tires, making riding safer"
+        "answer_text": "ടയറുകളുടെ പിടി വർദ്ധിപ്പിക്കുന്നു, റൈഡിംഗ് കൂടുതൽ സുരക്ഷിതമാക്കുന്നു"
       },
       {
         "id": "rta-moto-189-c",
-        "answer_text": "improve your riding stability"
+        "answer_text": "നിങ്ങളുടെ റൈഡിംഗ് സ്ഥിരത മെച്ചപ്പെടുത്തുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-202",
-    "question_text": "This warning sign warns the drivers to check and be aware of the;",
+    "question_text": "ഈ മുന്നറിയിപ്പ് ചിഹ്നം ഡ്രൈവർമാരോട് പരിശോധിക്കാനും ശ്രദ്ധിക്കാനും ആവശ്യപ്പെടുന്നത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-202-a",
-        "answer_text": "Maximum length of their vehicle"
+        "answer_text": "അവരുടെ വാഹനത്തിന്റെ പരമാവധി നീളം"
       },
       {
         "id": "rta-moto-202-b",
-        "answer_text": "Maximum width of their vehicle"
+        "answer_text": "അവരുടെ വാഹനത്തിന്റെ പരമാവധി വീതി"
       },
       {
         "id": "rta-moto-202-c",
-        "answer_text": "Maximum weight of their vehicle"
+        "answer_text": "അവരുടെ വാഹനത്തിന്റെ പരമാവധി ഭാരം"
       }
     ]
   },
   {
     "id": "rta-hvb-002",
-    "question_text": "Portable warning signals must be carried at night by all:",
+    "question_text": "രാത്രിയിൽ എല്ലാ _______ യും പോർട്ടബിൾ വാർണിംഗ് സിഗ്നലുകൾ കൊണ്ടുനടക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-002-a",
-        "answer_text": "articulated vehicles."
+        "answer_text": "ആർടിക്കുലേറ്റഡ് വാഹനങ്ങൾ."
       },
       {
         "id": "rta-hvb-002-b",
-        "answer_text": "heavy vehicles."
+        "answer_text": "ഭാരമേറിയ വാഹനങ്ങൾ."
       },
       {
         "id": "rta-hvb-002-c",
-        "answer_text": "vehicles with a gross vehicle mass over 4.5 tones."
+        "answer_text": "4.5 ടണ്ണിൽ കൂടുതൽ മൊത്ത വാഹന ഭാരമുള്ള വാഹനങ്ങൾ."
       }
     ]
   },
   {
     "id": "rta-hvb-032",
-    "question_text": "Intersection markings:",
+    "question_text": "ചൌരാഹ അടയാളങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-032-a",
-        "answer_text": "do not apply to large vehicles."
+        "answer_text": "വലിയ വാഹനങ്ങൾക്ക് ബാധകമല്ല."
       },
       {
         "id": "rta-hvb-032-b",
-        "answer_text": "are sometimes too tight for large vehicles."
+        "answer_text": "ചിലപ്പോൾ വലിയ വാഹനങ്ങൾക്ക് വളരെ ഇടുങ്ങിയതാണ്."
       },
       {
         "id": "rta-hvb-032-c",
-        "answer_text": "must always be obeyed, even if it means running over the curb."
+        "answer_text": "കർബ്ബ് കടക്കേണ്ടിവന്നാലും എല്ലായ്‌പ്പോഴും പാലിക്കണം."
       }
     ]
   },
   {
     "id": "rta-hvb-033",
-    "question_text": "If you have a helper to guide you when reversing, that person should stand:",
+    "question_text": "പിന്നോക്കം പോകുമ്പോൾ നിങ്ങളെ നയിക്കാൻ ഒരു സഹായി ഉണ്ടെങ്കിൽ, ആ വ്യക്തി നിൽക്കേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-033-a",
-        "answer_text": "behind the vehicle."
+        "answer_text": "വാഹനത്തിന് പിന്നിൽ."
       },
       {
         "id": "rta-hvb-033-b",
-        "answer_text": "where they get the clearest view of your vehicle and can signal to you."
+        "answer_text": "നിങ്ങളുടെ വാഹനത്തിന്റെ ഏറ്റവും വ്യക്തമായ ദൃശ്യം ലഭിക്കുന്ന സ്ഥലത്ത്, അവർക്ക് നിങ്ങൾക്ക് സിഗ്നൽ നൽകാൻ കഴിയുന്നിടത്ത്."
       },
       {
         "id": "rta-hvb-033-c",
-        "answer_text": "at the front and to one side of the vehicle."
+        "answer_text": "വാഹനത്തിന് മുന്നിൽ ഒരു വശത്ത്."
       }
     ]
   },
   {
     "id": "rta-hvb-035",
-    "question_text": "Before you change lanes, check the mirrors:",
+    "question_text": "ലെയ്ൻ മാറ്റുന്നതിന് മുൻപ് കണ്ണാടികൾ പരിശോധിക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-035-a",
-        "answer_text": "to make sure no-one is beside you or about to overtake you."
+        "answer_text": "ആരെങ്കിലും നിങ്ങളുടെ അരികിൽ ഉണ്ടോ അല്ലെങ്കിൽ ഓവർടേക്ക് ചെയ്യാൻ ഒരുങ്ങുന്നുണ്ടോ എന്ന് ഉറപ്പ് വരുത്താൻ."
       },
       {
         "id": "rta-hvb-035-b",
-        "answer_text": "first in the direction you are turning, then once on the other side."
+        "answer_text": "ആദ്യം തിരിയുന്ന ദിശയിൽ, പിന്നെ മറുവശത്ത് എത്തിയ ശേഷം."
       },
       {
         "id": "rta-hvb-035-c",
-        "answer_text": "twice after putting on the turn signal for 30 meters."
+        "answer_text": "30 മീറ്ററിനായി ടേൺ സിഗ്നൽ ഇട്ടതിന് ശേഷം രണ്ടുതവണ."
       }
     ]
   },
   {
     "id": "rta-hvb-039",
-    "question_text": "If your heavy vehicle is broken down at night in a built-up area, your reflective triangles should be placed:",
+    "question_text": "രാത്രിയിൽ ഒരു ജനവാസ മേഖലയിൽ നിങ്ങളുടെ ഭാരവാഹനം കേടായാൽ, പ്രതിഫലന ത്രികോണങ്ങൾ എവിടെ വയ്ക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-039-a",
-        "answer_text": "at the rear, facing oncoming traffic."
+        "answer_text": "പിന്നിൽ, എതിർദിശയിൽ വരുന്ന ഗതാഗതത്തിന് നേരെ."
       },
       {
         "id": "rta-hvb-039-b",
-        "answer_text": "one to the front, one to the rear, and one 200 meters behind the vehicle."
+        "answer_text": "ഒന്ന് മുന്നിൽ, ഒന്ന് പിന്നിൽ, ഒന്ന് വാഹനത്തിൽ നിന്ന് 200 മീറ്റർ പുറകിൽ."
       },
       {
         "id": "rta-hvb-039-c",
-        "answer_text": "one to the front, one to the rear, and one to the side of the vehicle, nearest the center of the road."
+        "answer_text": "ഒന്ന് മുന്നിൽ, ഒന്ന് പിന്നിൽ, ഒന്ന് വാഹനത്തിന്റെ വശത്ത്, റോഡിന്റെ മധ്യഭാഗത്തോട് ഏറ്റവും അടുത്ത്."
       }
     ]
   },
   {
     "id": "rta-hvb-040",
-    "question_text": "At night, you may have to use three reflective warning signs if your heavy vehicle is disabled and:",
+    "question_text": "രാത്രിയിൽ, നിങ്ങളുടെ ഭാരവാഹനം നിഷ്ക്രിയമാകുകയും ഇനിപ്പറയുന്ന സ്ഥിതിയാണെങ്കിൽ മൂന്ന് പ്രതിഫലന മുന്നറിയിപ്പ് ചിഹ്നങ്ങൾ ഉപയോഗിക്കേണ്ടി വന്നേക്കാം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-040-a",
-        "answer_text": "cannot be seen for a distance of 500 meters in any direction."
+        "answer_text": "ഏത് ദിശയിൽ നിന്നും 500 മീറ്റർ ദൂരത്ത് നിന്ന് കാണാൻ കഴിയില്ല."
       },
       {
         "id": "rta-hvb-040-b",
-        "answer_text": "cannot be seen for a distance of 200 meters in any direction."
+        "answer_text": "ഏത് ദിശയിൽ നിന്നും 200 മീറ്റർ ദൂരത്ത് നിന്ന് കാണാൻ കഴിയില്ല."
       },
       {
         "id": "rta-hvb-040-c",
-        "answer_text": "is parked more than 100 meters from a corner."
+        "answer_text": "ഒരു വളവിൽ നിന്ന് 100 മീറ്ററിലധികം അകലെ പാർക്ക് ചെയ്തിരിക്കുന്നു."
       }
     ]
   },
   {
     "id": "rta-hvb-048",
-    "question_text": "The main sign of tire failure is\"",
+    "question_text": "ടയർ പൊട്ടിപ്പോകുന്നതിന്റെ പ്രധാന ലക്ഷണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-048-a",
-        "answer_text": "a loud bang."
+        "answer_text": "ഒരു ഉച്ചത്തിലുള്ള ശബ്ദം."
       },
       {
         "id": "rta-hvb-048-b",
-        "answer_text": "a light feeling to the steering."
+        "answer_text": "സ്റ്റീയറിങ്ങിൽ ലഘുത്വം അനുഭവപ്പെടുക."
       },
       {
         "id": "rta-hvb-048-c",
-        "answer_text": "loss of pressure in the brake system."
+        "answer_text": "ബ്രേക്ക് സിസ്റ്റത്തിൽ മർദ്ദ നഷ്ടം."
       }
     ]
   },
   {
     "id": "rta-hvb-081",
-    "question_text": "On long drive and you start blinking your eyes more often, it is a sign that:",
+    "question_text": "ദീർഘ ഡ്രൈവിൽ കൂടുതൽ തവണ കണ്ണ് ചിമ്മാൻ തുടങ്ങുമ്പോൾ, ഇത് ഒരു സൂചനയാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-081-a",
-        "answer_text": "you are starting to regain your alertness."
+        "answer_text": "നിങ്ങൾ വീണ്ടും ഉണർവ് വീണ്ടെടുക്കാൻ തുടങ്ങുന്നു."
       },
       {
         "id": "rta-hvb-081-b",
-        "answer_text": "you are starting to wake up."
+        "answer_text": "നിങ്ങൾ ഉണർന്ന് തുടങ്ങുന്നു."
       },
       {
         "id": "rta-hvb-081-c",
-        "answer_text": "you are starting to get tired."
+        "answer_text": "നിങ്ങൾ ക്ഷീണിക്കാൻ തുടങ്ങുന്നു."
       }
     ]
   },
   {
     "id": "rta-hvb-170",
-    "question_text": "At your next stop do a quick check around the vehicle. What signs should you look for?",
+    "question_text": "നിങ്ങളുടെ അടുത്ത സ്റ്റോപ്പിൽ വാഹനത്തിന് ചുറ്റും ഒരു ദ്രുത പരിശോധന നടത്തുക. നിങ്ങൾ എന്ത് ലക്ഷണങ്ങൾ നോക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-170-a",
-        "answer_text": "Under-inflated tires and over-heated brakes"
+        "answer_text": "കുറഞ്ഞ മർദ്ദമുള്ള ടയറുകൾ, അമിത ചൂടായ ബ്രേക്കുകൾ"
       },
       {
         "id": "rta-hvb-170-b",
-        "answer_text": "Under-inflated tires and over-heated brakes"
+        "answer_text": "കുറഞ്ഞ മർദ്ദമുള്ള ടയറുകൾ, അമിത ചൂടായ ബ്രേക്കുകൾ"
       },
       {
         "id": "rta-hvb-170-c",
-        "answer_text": "Clutch that is not biting"
+        "answer_text": "ബൈറ്റ് ചെയ്യാത്ത ക്ലച്ച്"
       }
     ]
   },
   {
     "id": "rta-hvb-200",
-    "question_text": "Drive at lower speeds and be mindful of low structures along the way obeying height limit signs.",
+    "question_text": "ഉയരം പരിധി ചിഹ്നങ്ങൾ പാലിച്ച്, കുറഞ്ഞ വേഗതയിൽ ഓടിക്കുകയും വഴിയിലെ താഴ്ന്ന ഘടനകളെ കുറിച്ച് ബോധവാനായിരിക്കുകയും ചെയ്യുക.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-200-a",
-        "answer_text": "Do this before the trip"
+        "answer_text": "യാത്രയ്ക്ക് മുമ്പ് ഇത് ചെയ്യുക"
       },
       {
         "id": "rta-hvb-200-b",
-        "answer_text": "Do this right after the trip"
+        "answer_text": "യാത്ര കഴിഞ്ഞ ഉടൻ ഇത് ചെയ്യുക"
       },
       {
         "id": "rta-hvb-200-c",
-        "answer_text": "Do this during the trip"
+        "answer_text": "യാത്രയ്ക്കിടയിൽ ഇത് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-hvb-202",
-    "question_text": "You are transporting long poles and logs, this should arrange lengthways? How do you ensure load security?",
+    "question_text": "നിങ്ങൾ നീണ്ട തൂണുകളും മരക്കഷ്ണങ്ങളും കൊണ്ടുപോകുന്നു, ഇവ നീളത്തിന് അനുകൂലമായി ക്രമീകരിക്കണം? ലോഡ് സുരക്ഷ എങ്ങനെ ഉറപ്പ് വരുത്തും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-202-a",
-        "answer_text": "Fully cover with tarpaulin and secure with thick rope"
+        "answer_text": "ടർപ്പോളിൻ കൊണ്ട് പൂർണ്ണമായി മൂടി കട്ടിയുള്ള കയർ കൊണ്ട് ബന്ധിക്കുക"
       },
       {
         "id": "rta-hvb-202-b",
-        "answer_text": "Support with steel chocks and chained to the vehicle with at least two sets of chains."
+        "answer_text": "സ്റ്റീൽ ചോക്കുകൾ കൊണ്ട് താങ്ങിനിർത്തി ചുരുങ്ങിയത് രണ്ട് സെറ്റ് ചങ്ങലകൾ കൊണ്ട് വാഹനവുമായി ബന്ധിക്കുക"
       },
       {
         "id": "rta-hvb-202-c",
-        "answer_text": "Tightly secure with rope and place warning signal"
+        "answer_text": "കയർ കൊണ്ട് മുറുക്കി ബന്ധിച്ച് മുന്നറിയിപ്പ് ചിഹ്നം സ്ഥാപിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-215",
-    "question_text": "At the beginning of the neighborhood, you may encounter this sign. What should you do?",
+    "question_text": "പ്രദേശത്തിന്‍റെ ആരംഭത്തിൽ ഈ ചിഹ്നം കാണപ്പെടാം. നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-215-a",
-        "answer_text": "A road may be a private property"
+        "answer_text": "റോഡ് സ്വകാര്യ സ്വത്ത് ആകാം"
       },
       {
         "id": "rta-hvb-215-b",
-        "answer_text": "A road may be closed by a gate ahead"
+        "answer_text": "മുന്നിൽ റോഡ് ഒരു ഗേറ്റ് കൊണ്ട് അടഞ്ഞിരിക്കാം"
       },
       {
         "id": "rta-hvb-215-c",
-        "answer_text": "A road may be closed ahead"
+        "answer_text": "മുന്നിൽ റോഡ് അടഞ്ഞിരിക്കാം"
       }
     ]
   }

@@ -4243,3459 +4243,3459 @@
   },
   {
     "id": "rta-lmv-485",
-    "question_text": "Eco-friendly driving habits help protect the environment. It can also;",
+    "question_text": "പരിസ്ഥിതി സൗഹൃദ ഡ്രൈവിങ് ശീലങ്ങൾ പരിസ്ഥിതി സംരക്ഷിക്കാൻ സഹായിക്കുന്നു. ഇത് കൂടാതെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-485-a",
-        "answer_text": "help save money on fuel"
+        "answer_text": "ഇന്ധനത്തിൽ പണം ലാഭിക്കാൻ സഹായിക്കുന്നു"
       },
       {
         "id": "rta-lmv-485-b",
-        "answer_text": "help save time and money"
+        "answer_text": "സമയവും പണവും ലാഭിക്കാൻ സഹായിക്കുന്നു"
       },
       {
         "id": "rta-lmv-485-c",
-        "answer_text": "help save money and water"
+        "answer_text": "പണവും വെള്ളവും ലാഭിക്കാൻ സഹായിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-lmv-486",
-    "question_text": "One of the many ways to drive in an eco friendly manner is;",
+    "question_text": "പരിസ്ഥിതി സൗഹൃദ രീതിയിൽ വണ്ടി ഓടിക്കുന്നതിനുള്ള പല മാർഗ്ഗങ്ങളിൽ ഒന്ന്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-486-a",
-        "answer_text": "maintaining shorter following distance with other vehicles"
+        "answer_text": "മറ്റ് വാഹനങ്ങളുമായി കുറഞ്ഞ അകലം നിലനിർത്തുക"
       },
       {
         "id": "rta-lmv-486-b",
-        "answer_text": "gradual acceleration and braking"
+        "answer_text": "ക്രമേണ വേഗം കൂട്ടുകയും ബ്രേക്ക് ഇടുകയും ചെയ്യുക"
       },
       {
         "id": "rta-lmv-486-c",
-        "answer_text": "more aggressive acceleration and braking"
+        "answer_text": "കൂടുതൽ ആക്രമണകാരിയായ വേഗ ത്വരണവും ബ്രേക്കിടലും"
       }
     ]
   },
   {
     "id": "rta-lmv-487",
-    "question_text": "Driving at lower engine speeds means lower emissions. It is a good demonstration of;",
+    "question_text": "കുറഞ്ഞ എഞ്ചിൻ വേഗതയിൽ ഓടിക്കുന്നത് കുറഞ്ഞ ഉദ്‌വമനം ഉണ്ടാക്കുന്നു. ഇത് ഒരു നല്ല തെളിവ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-487-a",
-        "answer_text": "eco-friendly driving habit and results to fuel economy"
+        "answer_text": "പരിസ്ഥിതി സൗഹൃദ ഡ്രൈവിങ് ശീലം, ഇന്ധന ലാഭത്തിന്റെ ഫലം"
       },
       {
         "id": "rta-lmv-487-b",
-        "answer_text": "lower driving skills and results to delays"
+        "answer_text": "കുറഞ്ഞ ഡ്രൈവിങ് കഴിവ്, കാലതാമസത്തിന്റെ ഫലം"
       },
       {
         "id": "rta-lmv-487-c",
-        "answer_text": "trained driving skills resulting from experience"
+        "answer_text": "അനുഭവത്തിൽ നിന്ന് ലഭിച്ച പരിശീലിത ഡ്രൈവിങ് കഴിവ്"
       }
     ]
   },
   {
     "id": "rta-lmv-497",
-    "question_text": "The green car is indicating to turn left, what should be the correct behavior to stay safe?",
+    "question_text": "പച്ച കാർ ഇടത്തേക്ക് തിരിയുന്നതിന്റെ സൂചന നൽകുന്നു, സുരക്ഷിതമായി തുടരാൻ ശരിയായ പെരുമാറ്റം എന്തായിരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-497-a",
-        "answer_text": "the car's position should be on the left lane"
+        "answer_text": "കാർ ഇടത് ലെയ്‌നിൽ ആയിരിക്കണം"
       },
       {
         "id": "rta-lmv-497-b",
-        "answer_text": "there is no problem with the car's position"
+        "answer_text": "കാറിന്റെ സ്ഥാനത്ത് ഒരു പ്രശ്‌നവുമില്ല"
       },
       {
         "id": "rta-lmv-497-c",
-        "answer_text": "the car may still turn left if there are no other cars around"
+        "answer_text": "ചുറ്റും മറ്റ് കാറുകൾ ഇല്ലെങ്കിൽ കാർ ഇടത്തേക്ക് തിരിയാം"
       }
     ]
   },
   {
     "id": "rta-fk-007",
-    "question_text": "A forklift is a vehicle similar to a small truck that has;",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റ് ഒരു ചെറിയ ട്രക്കിനു സമാനമായ വാഹനമാണ്, അതിൽ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-007-a",
-        "answer_text": "Two metal forks on the front used to lift cargo"
+        "answer_text": "ചരക്ക് ഉയർത്താൻ ഉപയോഗിക്കുന്ന മുന്ഭാഗത്ത് രണ്ട് ലോഹ ഫോർക്കുകൾ ഉണ്ട്"
       },
       {
         "id": "rta-fk-007-b",
-        "answer_text": "A metal bucket on the front used to lift cargo"
+        "answer_text": "ചരക്ക് ഉയർത്താൻ ഉപയോഗിക്കുന്ന മുന്ഭാഗത്ത് ഒരു ലോഹ ബക്കറ്റ് ഉണ്ട്"
       },
       {
         "id": "rta-fk-007-c",
-        "answer_text": "Two metal forks at the back used to lift cargo"
+        "answer_text": "ചരക്ക് ഉയർത്താൻ ഉപയോഗിക്കുന്ന പിൻഭാഗത്ത് രണ്ട് ലോഹ ഫോർക്കുകൾ ഉണ്ട്"
       }
     ]
   },
   {
     "id": "rta-fk-008",
-    "question_text": "The metal forks of a forklift are also called;",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റിന്റെ ലോഹ ഫോർക്കുകളെ ഇങ്ങനെയും വിളിക്കുന്നു;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-008-a",
-        "answer_text": "Dredgers"
+        "answer_text": "ഡ്രെഡ്ജറുകൾ"
       },
       {
         "id": "rta-fk-008-b",
-        "answer_text": "Blades or Tines"
+        "answer_text": "ബ്ലേഡുകൾ അല്ലെങ്കിൽ ടൈനുകൾ"
       },
       {
         "id": "rta-fk-008-c",
-        "answer_text": "Stackers"
+        "answer_text": "സ്റ്റാക്കറുകൾ"
       }
     ]
   },
   {
     "id": "rta-fk-012",
-    "question_text": "If operating inside a warehouse, what type of forklift is most suitable to use?",
+    "question_text": "ഒരു വെയർഹൗസിനകത്ത് ഓപ്പറേറ്റ് ചെയ്യുകയാണെങ്കിൽ, ഏത് തരം ഫോർക്ക്‌ലിഫ്റ്റ് ഉപയോഗിക്കുന്നത് ഏറ്റവും അനുയോജ്യമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-012-a",
-        "answer_text": "Gas powered forklift"
+        "answer_text": "ഗ്യാസ് ഉപയോഗിക്കുന്ന ഫോർക്ക്‌ലിഫ്റ്റ്"
       },
       {
         "id": "rta-fk-012-b",
-        "answer_text": "Internal combustion forklift"
+        "answer_text": "ആന്തരിക ദഹന ഫോർക്ക്‌ലിഫ്റ്റ്"
       },
       {
         "id": "rta-fk-012-c",
-        "answer_text": "Electric forklift"
+        "answer_text": "ഇലക്ട്രിക് ഫോർക്ക്‌ലിഫ്റ്റ്"
       }
     ]
   },
   {
     "id": "rta-fk-015",
-    "question_text": "If you are handling batteries, wear protection for your;",
+    "question_text": "നിങ്ങൾ ബാറ്ററികൾ കൈകാര്യം ചെയ്യുകയാണെങ്കിൽ, ഇവ സംരക്ഷിക്കുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-015-a",
-        "answer_text": "Eyes, face body, hand and feet"
+        "answer_text": "കണ്ണുകൾ, മുഖം, ശരീരം, കൈകൾ, കാലുകൾ"
       },
       {
         "id": "rta-fk-015-b",
-        "answer_text": "Clothes, shoes and gloves"
+        "answer_text": "വസ്ത്രങ്ങൾ, ഷൂസ്, ഗ്ലൗസ്"
       },
       {
         "id": "rta-fk-015-c",
-        "answer_text": "Eye glasses, face mask and boots"
+        "answer_text": "കണ്ണടകൾ, ഫേസ് മാസ്ക്, ബൂട്ടുകൾ"
       }
     ]
   },
   {
     "id": "rta-fk-016",
-    "question_text": "When recharging lead batteries, ensure there is no naked flame or sparks to;",
+    "question_text": "ലെഡ് ബാറ്ററികൾ റീചാർജ് ചെയ്യുമ്പോൾ, തുറന്ന തീ അല്ലെങ്കിൽ തീപ്പൊരി ഉണ്ടാകരുത്, അതിനാൽ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-016-a",
-        "answer_text": "Avoid build up of hydrogen"
+        "answer_text": "ഹൈഡ്രജൻ അടിഞ്ഞുകൂടുന്നത് ഒഴിവാക്കാൻ"
       },
       {
         "id": "rta-fk-016-b",
-        "answer_text": "Avoid possible explosion"
+        "answer_text": "സ്ഫോടനം ഒഴിവാക്കാൻ"
       },
       {
         "id": "rta-fk-016-c",
-        "answer_text": "Avoid exposure to flame"
+        "answer_text": "അഗ്നിജ്വാലയുമായുള്ള സമ്പർക്കം ഒഴിവാക്കാൻ"
       }
     ]
   },
   {
     "id": "rta-fk-017",
-    "question_text": "Hydrogen level can build up when recharging lead batteries. This can be avoided by;",
+    "question_text": "ലെഡ് ബാറ്ററികൾ റീചാർജ് ചെയ്യുമ്പോൾ ഹൈഡ്രജൻ അളവ് വർദ്ധിക്കാം. ഇത് ഒഴിവാക്കാൻ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-017-a",
-        "answer_text": "Avoiding recharging during working hours"
+        "answer_text": "പ്രവൃത്തി സമയത്ത് റീചാർജ് ചെയ്യുന്നത് ഒഴിവാക്കി"
       },
       {
         "id": "rta-fk-017-b",
-        "answer_text": "Recharging at areas with good enclosure"
+        "answer_text": "നല്ല ആവൃതമായ സ്ഥലത്ത് റീചാർജ് ചെയ്ത്"
       },
       {
         "id": "rta-fk-017-c",
-        "answer_text": "Recharging at areas with good ventilation"
+        "answer_text": "നല്ല വായു സഞ്ചാരമുള്ള സ്ഥലത്ത് റീചാർജ് ചെയ്ത്"
       }
     ]
   },
   {
     "id": "rta-fk-023",
-    "question_text": "This lever is used to make directional change. It is called;",
+    "question_text": "ദിശ മാറ്റുന്നതിന് ഈ ലിവർ ഉപയോഗിക്കുന്നു. ഇതിനെ വിളിക്കുന്നത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-023-a",
-        "answer_text": "Forward-Reverse Lever"
+        "answer_text": "ഫോർവേഡ്-റിവേഴ്‌സ് ലിവർ"
       },
       {
         "id": "rta-fk-023-b",
-        "answer_text": "Gear Shift Lever"
+        "answer_text": "ഗിയർ ഷിഫ്റ്റ് ലിവർ"
       },
       {
         "id": "rta-fk-023-c",
-        "answer_text": "Lift Lever"
+        "answer_text": "ലിഫ്റ്റ് ലിവർ"
       }
     ]
   },
   {
     "id": "rta-fk-024",
-    "question_text": "This permits the selection of different gear ratios.",
+    "question_text": "ഇത് വ്യത്യസ്ത ഗിയർ അനുപാതങ്ങൾ തിരഞ്ഞെടുക്കാൻ അനുവദിക്കുന്നു.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-024-a",
-        "answer_text": "Gear Shift Lever"
+        "answer_text": "ഗിയർ ഷിഫ്റ്റ് ലിവർ"
       },
       {
         "id": "rta-fk-024-b",
-        "answer_text": "Tilt Lever"
+        "answer_text": "ടിൽറ്റ് ലിവർ"
       },
       {
         "id": "rta-fk-024-c",
-        "answer_text": "Lift Lever"
+        "answer_text": "ലിഫ്റ്റ് ലിവർ"
       }
     ]
   },
   {
     "id": "rta-fk-025",
-    "question_text": "This is used to tilt the mast forward and backward.",
+    "question_text": "മാസ്റ്റ് മുന്നോട്ടും പിന്നോട്ടും ചരിക്കാൻ ഇത് ഉപയോഗിക്കുന്നു.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-025-a",
-        "answer_text": "Accelerator pedal"
+        "answer_text": "ആക്‌സിലറേറ്റർ പെഡൽ"
       },
       {
         "id": "rta-fk-025-b",
-        "answer_text": "Lift Lever"
+        "answer_text": "ലിഫ്റ്റ് ലിവർ"
       },
       {
         "id": "rta-fk-025-c",
-        "answer_text": "Tilt Lever"
+        "answer_text": "ടിൽറ്റ് ലിവർ"
       }
     ]
   },
   {
     "id": "rta-fk-027",
-    "question_text": "If you are operating an indoor forklift, this forklift will likely use;",
+    "question_text": "നിങ്ങൾ ഇൻഡോർ ഫോർക്ക്‌ലിഫ്റ്റ് ഓടിക്കുകയാണെങ്കിൽ, ഈ ഫോർക്ക്‌ലിഫ്റ്റ് ഉപയോഗിക്കുന്നത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-027-a",
-        "answer_text": "Polyurethane tires"
+        "answer_text": "പോളിയുറീതൈൻ ടയറുകൾ"
       },
       {
         "id": "rta-fk-027-b",
-        "answer_text": "Solid rubber tires"
+        "answer_text": "ഖര റബ്ബർ ടയറുകൾ"
       },
       {
         "id": "rta-fk-027-c",
-        "answer_text": "Pneumatic tires"
+        "answer_text": "ന്യൂമാറ്റിക് ടയറുകൾ"
       }
     ]
   },
   {
     "id": "rta-fk-028",
-    "question_text": "For greater maneuverability, forklifts will usually have;",
+    "question_text": "മികച്ച ചലനക്ഷമതയ്ക്കായി, ഫോർക്ക്‌ലിഫ്റ്റുകളിൽ സാധാരണ ഉണ്ടാകുന്നത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-028-a",
-        "answer_text": "Front wheel steering"
+        "answer_text": "മുൻ ചക്ര സ്റ്റിയറിംഗ്"
       },
       {
         "id": "rta-fk-028-b",
-        "answer_text": "Rear wheel steering"
+        "answer_text": "പിൻ ചക്ര സ്റ്റിയറിംഗ്"
       },
       {
         "id": "rta-fk-028-c",
-        "answer_text": "All wheel steering"
+        "answer_text": "എല്ലാ ചക്ര സ്റ്റിയറിംഗ്"
       }
     ]
   },
   {
     "id": "rta-fk-032",
-    "question_text": "A forklift attachment that is used for lifting and emptying heavy drums:",
+    "question_text": "ഭാരമുള്ള ഡ്രമ്മുകൾ ഉയർത്താനും ശൂന്യമാക്കാനും ഉപയോഗിക്കുന്ന ഒരു ഫോർക്ക്‌ലിഫ്റ്റ് അറ്റാച്ച്‌മെന്റ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-032-a",
-        "answer_text": "Long Spikes"
+        "answer_text": "നീണ്ട സ്പൈക്‌സ്"
       },
       {
         "id": "rta-fk-032-b",
-        "answer_text": "Drum Clamps"
+        "answer_text": "ഡ്രം ക്ലാമ്പ്‌സ്"
       },
       {
         "id": "rta-fk-032-c",
-        "answer_text": "Fixed Jib"
+        "answer_text": "ഫിക്‌സഡ് ജിബ്"
       }
     ]
   },
   {
     "id": "rta-fk-047",
-    "question_text": "When operating a forklift, the operator must know that the;",
+    "question_text": "ഫോർക്ക്ലിഫ്റ്റ് ഓടിക്കുമ്പോൾ, ഓപ്പറേറ്റർ അറിഞ്ഞിരിക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-047-a",
-        "answer_text": "Recommended limits of the forklift does not affect the safety"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റിന്റെ ശുപാർശ ചെയ്ത പരിധികൾ സുരക്ഷയെ ബാധിക്കുന്നില്ല"
       },
       {
         "id": "rta-fk-047-b",
-        "answer_text": "Recommended limits of the forklift must not be exceeded"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റിന്റെ ശുപാർശ ചെയ്ത പരിധികൾ കടക്കരുത്"
       },
       {
         "id": "rta-fk-047-c",
-        "answer_text": "Recommended limits of the forklift can be  exceed a little"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റിന്റെ ശുപാർശ ചെയ്ത പരിധികൾ അൽപ്പം കടക്കാം"
       }
     ]
   },
   {
     "id": "rta-fk-050",
-    "question_text": "If work requires mounting and dismounting lift truck, it's best to wear;",
+    "question_text": "ജോലിക്ക് ലിഫ്റ്റ് ട്രക്കിൽ കയറേണ്ടിയും ഇറങ്ങേണ്ടിയും വരുന്നെങ്കിൽ, ധരിക്കുന്നത് നല്ലത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-050-a",
-        "answer_text": "Fully laced boots with ankle support"
+        "answer_text": "കണങ്കൽ താങ്ങ് ഉള്ള പൂർണ്ണമായി ലേസ് ബൂട്ടുകൾ"
       },
       {
         "id": "rta-fk-050-b",
-        "answer_text": "Thick socks with your shoes"
+        "answer_text": "ഷൂസിനൊപ്പം കട്ടിയുള്ള സോക്സ്"
       },
       {
         "id": "rta-fk-050-c",
-        "answer_text": "Spiked shoes for better traction"
+        "answer_text": "മെച്ചപ്പെട്ട ഗ്രിപ്പിനായി സ്പൈക്ക് ഷൂ"
       }
     ]
   },
   {
     "id": "rta-fk-058",
-    "question_text": "The general condition and cleanliness of the equipment and workplace must be inspected;",
+    "question_text": "ഉപകരണത്തിന്റെയും ജോലിസ്ഥലത്തിന്റെയും പൊതു അവസ്ഥയും വൃത്തിയും പരിശോധിക്കേണ്ടത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-058-a",
-        "answer_text": "After the scheduled shift"
+        "answer_text": "നിര്ദ്ദേശിത ഷിഫ്റ്റ് കഴിഞ്ഞ ശേഷം"
       },
       {
         "id": "rta-fk-058-b",
-        "answer_text": "Before the scheduled shift"
+        "answer_text": "നിര്ദ്ദേശിത ഷിഫ്റ്റ് ആരംഭിക്കുന്നതിന് മുൻപ്"
       },
       {
         "id": "rta-fk-058-c",
-        "answer_text": "During the scheduled shift"
+        "answer_text": "നിര്ദ്ദേശിത ഷിഫ്റ്റ് സമയത്ത്"
       }
     ]
   },
   {
     "id": "rta-fk-063",
-    "question_text": "If you want to be sure there are no fluid leaks, what should you be looking for?",
+    "question_text": "ദ്രാവക ചോർച്ചകൾ ഇല്ലെന്ന് ഉറപ്പാക്കണമെങ്കിൽ, എന്ത് നോക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-063-a",
-        "answer_text": "No loose or rusty bolts"
+        "answer_text": "അയഞ്ഞ അല്ലെങ്കിൽ തുരുമ്പിച്ച ബോൾട്ടുകൾ ഇല്ല"
       },
       {
         "id": "rta-fk-063-b",
-        "answer_text": "No damp spots or drips"
+        "answer_text": "നനഞ്ഞ കറകൾ അല്ലെങ്കിൽ തുള്ളികൾ ഇല്ല"
       },
       {
         "id": "rta-fk-063-c",
-        "answer_text": "No bent or loose pins"
+        "answer_text": "വളഞ്ഞ അല്ലെങ്കിൽ അയഞ്ഞ പിന്നുകൾ ഇല്ല"
       }
     ]
   },
   {
     "id": "rta-fk-064",
-    "question_text": "If your forklift has pneumatic tires, you should be checking the;",
+    "question_text": "നിങ്ങളുടെ ഫോർക്ക്‌ലിഫ്റ്റിൽ ന്യൂമാറ്റിക് ടയറുകൾ ഉണ്ടെങ്കിൽ, എന്ത് പരിശോധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-064-a",
-        "answer_text": "Wheels and tires for wear, damage and air pressure"
+        "answer_text": "ചക്രങ്ങളും ടയറുകളും തേയ്മാനം, കേടുപാടുകൾ, വായു മർദ്ദം എന്നിവയ്ക്കായി"
       },
       {
         "id": "rta-fk-064-b",
-        "answer_text": "Chain anchor pins are not worn, loose or bent"
+        "answer_text": "ചെയ്ൻ ആങ്കർ പിന്നുകൾ തേഞ്ഞതോ, അയഞ്ഞതോ, വളഞ്ഞതോ അല്ല"
       },
       {
         "id": "rta-fk-064-c",
-        "answer_text": "Hoses are held securely; not loose, crimped, worn or rubbing"
+        "answer_text": "ഹോസുകൾ സുരക്ഷിതമായി ഘടിപ്പിച്ചിരിക്കുന്നു; അയഞ്ഞതോ, ഞെരുങ്ങിയതോ, തേഞ്ഞതോ, ഉരസുന്നതോ അല്ല"
       }
     ]
   },
   {
     "id": "rta-fk-069",
-    "question_text": "What action should you take if you detect a hydraulic oil leak?",
+    "question_text": "ഹൈഡ്രോളിക് ഓയിൽ ചോർച്ച കണ്ടെത്തിയാൽ എന്ത് നടപടി സ്വീകരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-069-a",
-        "answer_text": "Place a warning tag on the forklift and report it to your supervisor"
+        "answer_text": "ഫോർക്ക്‌ലിഫ്റ്റിൽ മുന്നറിയിപ്പ് ടാഗ് ഘടിപ്പിക്കുക, സൂപ്പർവൈസറെ അറിയിക്കുക"
       },
       {
         "id": "rta-fk-069-b",
-        "answer_text": "Find a clean cloth and wipe the leak clean"
+        "answer_text": "ഒരു വൃത്തിയുള്ള തുണി എടുത്ത് ചോർച്ച തുടച്ചെടുക്കുക"
       },
       {
         "id": "rta-fk-069-c",
-        "answer_text": "Immediately plug the leak with rubber band"
+        "answer_text": "ഉടൻ റബ്ബർ ബാൻഡ് ഉപയോഗിച്ച് ചോർച്ച അടക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-076",
-    "question_text": "You are carrying load that is high and blocking your view. How should you travel?",
+    "question_text": "നിങ്ങൾ ഉയരമുള്ള ഭാരം വഹിക്കുന്നു, അത് നിങ്ങളുടെ കാഴ്ചയെ തടസ്സപ്പെടുത്തുന്നു. നിങ്ങൾ എങ്ങനെ സഞ്ചരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-076-a",
-        "answer_text": "Travel in reverse looking at the direction of travel"
+        "answer_text": "യാത്രയുടെ ദിശ നോക്കി പിൻഭാഗത്തേക്ക് സഞ്ചരിക്കുക"
       },
       {
         "id": "rta-fk-076-b",
-        "answer_text": "Travel in reverse looking at the mirrors for direction"
+        "answer_text": "ദിശയ്ക്കായി കണ്ണാടി നോക്കി പിൻഭാഗത്തേക്ക് സഞ്ചരിക്കുക"
       },
       {
         "id": "rta-fk-076-c",
-        "answer_text": "Travel in reverse assisted by another person for direction"
+        "answer_text": "ദിശയ്ക്കായി മറ്റൊരു വ്യക്തിയുടെ സഹായത്തോടെ പിൻഭാഗത്തേക്ക് സഞ്ചരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-078",
-    "question_text": "Decrease speed at all corners, sound horn and watch the swing of both the rear of the lift truck and the load.",
+    "question_text": "എല്ലാ കോണുകളിലും വേഗത കുറയ്ക്കുക, ഹോൺ മുഴക്കുക, ലിഫ്റ്റ് ട്രക്കിന്റെ പിൻഭാഗത്തിന്റെയും ഭാരത്തിന്റെയും ആന്ദോളനം ശ്രദ്ധിക്കുക.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-078-a",
-        "answer_text": "Travel in reverse looking at the direction of travel"
+        "answer_text": "യാത്രയുടെ ദിശ നോക്കി പിൻഭാഗത്തേക്ക് സഞ്ചരിക്കുക"
       },
       {
         "id": "rta-fk-078-b",
-        "answer_text": "Travel in reverse looking at the mirrors for direction"
+        "answer_text": "ദിശയ്ക്കായി കണ്ണാടി നോക്കി പിൻഭാഗത്തേക്ക് സഞ്ചരിക്കുക"
       },
       {
         "id": "rta-fk-078-c",
-        "answer_text": "Travel in reverse assisted by another person for direction"
+        "answer_text": "ദിശയ്ക്കായി മറ്റൊരു വ്യക്തിയുടെ സഹായത്തോടെ പിൻഭാഗത്തേക്ക് സഞ്ചരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-079",
-    "question_text": "When moving a loaded forklift at speed, it is unsafe to;",
+    "question_text": "ഒരു ലോഡ് ചെയ്ത ഫോർക്ക്ലിഫ്റ്റ് വേഗത്തിൽ നീങ്ങുമ്പോൾ, ഇത് അരക്ഷിതമാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-079-a",
-        "answer_text": "Turn the lift truck steering sharply"
+        "answer_text": "ലിഫ്റ്റ് ട്രക്ക് സ്റ്റിയറിംഗ് കൂർമ്മയായി തിരിക്കുക"
       },
       {
         "id": "rta-fk-079-b",
-        "answer_text": "Carry the load by the front wheels"
+        "answer_text": "മുൻ ചക്രങ്ങൾ കൊണ്ട് ഭാരം വഹിക്കുക"
       },
       {
         "id": "rta-fk-079-c",
-        "answer_text": "Stop smoothly"
+        "answer_text": "മൃദുവായി നിർത്തുക"
       }
     ]
   },
   {
     "id": "rta-fk-082",
-    "question_text": "In order to improve the stability, a forklift with extendable mast can;",
+    "question_text": "സ്ഥിരത മെച്ചപ്പെടുത്താൻ, വിപുലീകരിക്കാവുന്ന മാസ്റ്റ് ഉള്ള ഒരു ഫോർക്ക്ലിഫ്റ്റിന്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-082-a",
-        "answer_text": "Tilt the mast sideways"
+        "answer_text": "മാസ്റ്റ് വശത്തേക്ക് ചരിക്കുക"
       },
       {
         "id": "rta-fk-082-b",
-        "answer_text": "Tilt the mast forwards"
+        "answer_text": "മാസ്റ്റ് മുന്നോട്ട് ചരിക്കുക"
       },
       {
         "id": "rta-fk-082-c",
-        "answer_text": "Tilt the mast backwards"
+        "answer_text": "മാസ്റ്റ് പിന്നോട്ട് ചരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-083",
-    "question_text": "Before inserting the forks into a pallet, the mast must be;",
+    "question_text": "പാലറ്റിലേക്ക് ഫോർക്കുകൾ തിരുകുന്നതിന് മുമ്പ്, മാസ്റ്റ് ആയിരിക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-083-a",
-        "answer_text": "In an upright position"
+        "answer_text": "നേരായ സ്ഥാനത്ത്"
       },
       {
         "id": "rta-fk-083-b",
-        "answer_text": "Tilted forwards"
+        "answer_text": "മുന്നോട്ട് ചരിഞ്ഞ"
       },
       {
         "id": "rta-fk-083-c",
-        "answer_text": "Tilted backwards"
+        "answer_text": "പിന്നോട്ട് ചരിഞ്ഞ"
       }
     ]
   },
   {
     "id": "rta-fk-088",
-    "question_text": "Driving fast, turning sharply, turning on sloping ground can be;",
+    "question_text": "വേഗത്തിൽ ഓടിക്കൽ, കൂർമ്മയായി തിരിയൽ, ചരിഞ്ഞ നിലത്ത് തിരിയൽ എന്നിവ ആകാം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-088-a",
-        "answer_text": "Causes of tipping"
+        "answer_text": "മറിഞ്ഞ് വീഴുന്നതിന്റെ കാരണങ്ങൾ"
       },
       {
         "id": "rta-fk-088-b",
-        "answer_text": "Good operator skills"
+        "answer_text": "ഓപ്പറേറ്ററുടെ നല്ല കഴിവ്"
       },
       {
         "id": "rta-fk-088-c",
-        "answer_text": "Good practice of an operator"
+        "answer_text": "ഓപ്പറേറ്ററുടെ നല്ല പ്രയോഗം"
       }
     ]
   },
   {
     "id": "rta-fk-090",
-    "question_text": "If your forklift becomes unstable and is overturning, the safest thing to do for the operator is;",
+    "question_text": "നിങ്ങളുടെ ഫോർക്ക്ലിഫ്റ്റ് അസ്ഥിരമാകുകയും മറിഞ്ഞുവീഴുകയും ചെയ്യുകയാണെങ്കിൽ, ഓപ്പറേറ്റർക്ക് ഏറ്റവും സുരക്ഷിതമായ കാര്യം ഏതാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-090-a",
-        "answer_text": "To remain inside the cabin"
+        "answer_text": "ക്യാബിനിനുള്ളിൽ തന്നെ തുടരുക"
       },
       {
         "id": "rta-fk-090-b",
-        "answer_text": "To jump out of the forklift"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റിൽ നിന്ന് ചാടിയിറങ്ങുക"
       },
       {
         "id": "rta-fk-090-c",
-        "answer_text": "To make the forklift stable"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റ് സ്ഥിരപ്പെടുത്തുക"
       }
     ]
   },
   {
     "id": "rta-fk-091",
-    "question_text": "When travelling up a ramp, why must the load face uphill?",
+    "question_text": "റാമ്പിൽ മുകളിലേക്ക് പോകുമ്പോൾ ലോഡ് മുകൾ ഭാഗത്തേക്ക് അഭിമുഖമായിരിക്കണം എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-091-a",
-        "answer_text": "To ensure the load gets lighter as it travels upwards"
+        "answer_text": "മുകളിലേക്ക് പോകുന്തോറും ലോഡ് ഭാരം കുറയുന്നത് ഉറപ്പാക്കാൻ"
       },
       {
         "id": "rta-fk-091-b",
-        "answer_text": "To keep the forklift stable; AND to stop the load falling off the fork arms"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റ് സ്ഥിരമായി നിലനിർത്താൻ; കൂടാതെ ഫോർക്ക് ആംസിൽ നിന്ന് ലോഡ് വീഴുന്നത് തടയാൻ"
       },
       {
         "id": "rta-fk-091-c",
-        "answer_text": "To keep the load gravity as high as possible"
+        "answer_text": "ലോഡിന്റെ ഗുരുത്വാകർഷണം പരമാവധി ഉയരത്തിൽ നിലനിർത്താൻ"
       }
     ]
   },
   {
     "id": "rta-hfk-005",
-    "question_text": "The bucket at the end of the arms of the shovel is;",
+    "question_text": "ഷോവലിന്റെ ആംസിന്റെ അറ്റത്തുള്ള ബക്കറ്റ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-005-a",
-        "answer_text": "A permanent attachment of the shovel"
+        "answer_text": "ഷോവലിന്റെ ശാശ്വത അറ്റാച്ച്മെന്റ് ആണ്"
       },
       {
         "id": "rta-hfk-005-b",
-        "answer_text": "Either permanent or removal attachment of the shovel"
+        "answer_text": "ഷോവലിന്റെ ശാശ്വത അല്ലെങ്കിൽ നീക്കം ചെയ്യാവുന്ന അറ്റാച്ച്മെന്റ് ആണ്"
       },
       {
         "id": "rta-hfk-005-c",
-        "answer_text": "Always a removal attachment of the shovel"
+        "answer_text": "എല്ലായ്പ്പോഴും ഷോവലിന്റെ നീക്കം ചെയ്യാവുന്ന അറ്റാച്ച്മെന്റ് ആണ്"
       }
     ]
   },
   {
     "id": "rta-hfk-009",
-    "question_text": "When you hear a warning alarm sound in your shovel, what is the safest thing to do?",
+    "question_text": "നിങ്ങളുടെ ഷോവലിൽ മുന്നറിയിപ്പ് അലാറം ശബ്ദം കേൾക്കുമ്പോൾ, ഏറ്റവും സുരക്ഷിതമായ കാര്യം എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-009-a",
-        "answer_text": "Ignore the alarm sound and continue working"
+        "answer_text": "അലാറം ശബ്ദം അവഗണിച്ച് ജോലി തുടരുക"
       },
       {
         "id": "rta-hfk-009-b",
-        "answer_text": "Try and fix the shovel to stop the alarm"
+        "answer_text": "അലാറം നിർത്താൻ ഷോവൽ ശരിയാക്കാൻ ശ്രമിക്കുക"
       },
       {
         "id": "rta-hfk-009-c",
-        "answer_text": "Discontinue use of that shovel"
+        "answer_text": "ആ ഷോവൽ ഉപയോഗിക്കുന്നത് നിർത്തുക"
       }
     ]
   },
   {
     "id": "rta-hfk-010",
-    "question_text": "The controls to lift the bucket are float, lower, hold and;",
+    "question_text": "ബക്കറ്റ് ഉയർത്തുന്നതിനുള്ള കൺട്രോളുകൾ ഫ്ലോട്ട്, ലോവർ, ഹോൾഡ്, കൂടാതെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-010-a",
-        "answer_text": "Raise"
+        "answer_text": "റെയ്സ്"
       },
       {
         "id": "rta-hfk-010-b",
-        "answer_text": "Crowd"
+        "answer_text": "ക്രൗഡ്"
       },
       {
         "id": "rta-hfk-010-c",
-        "answer_text": "Dump"
+        "answer_text": "ഡംപ്"
       }
     ]
   },
   {
     "id": "rta-hfk-011",
-    "question_text": "What should you do before inspecting underneath a bucket safely?",
+    "question_text": "ബക്കറ്റിന്റെ താഴെ സുരക്ഷിതമായി പരിശോധിക്കുന്നതിന് മുമ്പ് നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-011-a",
-        "answer_text": "Lower the bucket first to the ground"
+        "answer_text": "ആദ്യം ബക്കറ്റ് നിലത്തേക്ക് താഴ്ത്തുക"
       },
       {
         "id": "rta-hfk-011-b",
-        "answer_text": "Secure the raised bucket safe by engaging the park brakes"
+        "answer_text": "പാർക്ക് ബ്രേക്ക് ഇടുന്നതിലൂടെ ഉയർത്തിയ ബക്കറ്റ് സുരക്ഷിതമാക്കുക"
       },
       {
         "id": "rta-hfk-011-c",
-        "answer_text": "Secure the raised bucket safe by using chocks, blocks or safety bars"
+        "answer_text": "ചോക്കുകൾ, ബ്ലോക്കുകൾ അല്ലെങ്കിൽ സേഫ്റ്റി ബാറുകൾ ഉപയോഗിച്ച് ഉയർത്തിയ ബക്കറ്റ് സുരക്ഷിതമാക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-013",
-    "question_text": "As part of work site safety precaution, you should not wear oily clothes because;",
+    "question_text": "ജോലിസ്ഥലത്തെ സുരക്ഷാ മുൻകരുതലിന്റെ ഭാഗമായി, നിങ്ങൾ എണ്ണ പുരണ്ട വസ്ത്രങ്ങൾ ധരിക്കരുത് കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-013-a",
-        "answer_text": "Oily clothes are flammable"
+        "answer_text": "എണ്ണ പുരണ്ട വസ്ത്രങ്ങൾ കത്തിപ്പിടിക്കുന്നവയാണ്"
       },
       {
         "id": "rta-hfk-013-b",
-        "answer_text": "Oily clothes may be difficult to wash"
+        "answer_text": "എണ്ണ പുരണ്ട വസ്ത്രങ്ങൾ കഴുകാൻ ബുദ്ധിമുട്ടായിരിക്കും"
       },
       {
         "id": "rta-hfk-013-c",
-        "answer_text": "Oily clothes may cause entanglement"
+        "answer_text": "എണ്ണ പുരണ്ട വസ്ത്രങ്ങൾ കുരുക്കിൽ പെടുത്തിയേക്കാം"
       }
     ]
   },
   {
     "id": "rta-hfk-017",
-    "question_text": "When adding air to the tire, why should you stand to one side of the wheel?",
+    "question_text": "ടയറിൽ വായു നിറയ്ക്കുമ്പോൾ നിങ്ങൾ ചക്രത്തിന്റെ ഒരു വശത്ത് നിൽക്കേണ്ടത് എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-017-a",
-        "answer_text": "To ensure quicker refilling of air"
+        "answer_text": "വേഗത്തിൽ വായു നിറയ്ക്കൽ ഉറപ്പാക്കാൻ"
       },
       {
         "id": "rta-hfk-017-b",
-        "answer_text": "Tires have been known to fly off the rim."
+        "answer_text": "ടയറുകൾ റിമ്മിൽ നിന്ന് തെറിച്ചു പോകുന്നതായി അറിയപ്പെടുന്നു"
       },
       {
         "id": "rta-hfk-017-c",
-        "answer_text": "To ensure well balanced air distribution"
+        "answer_text": "സമതുലിതമായ വായു വിതരണം ഉറപ്പാക്കാൻ"
       }
     ]
   },
   {
     "id": "rta-hfk-021",
-    "question_text": "Newly fitted tires with a demountable split rim should be inflated in a special safety cage  because;",
+    "question_text": "ഡിമൗണ്ടബിൾ സ്പ്ലിറ്റ് റിം ഉള്ള പുതുതായി ഘടിപ്പിച്ച ടയറുകൾ ഒരു പ്രത്യേക സേഫ്റ്റി കൂടിൽ വീർപ്പിക്കണം കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-021-a",
-        "answer_text": "The rim can fly off if you are not careful"
+        "answer_text": "ശ്രദ്ധിച്ചില്ലെങ്കിൽ റിം തെറിച്ചു പോകാം"
       },
       {
         "id": "rta-hfk-021-b",
-        "answer_text": "The rim has to be handled in a special way"
+        "answer_text": "റിം ഒരു പ്രത്യേക രീതിയിൽ കൈകാര്യം ചെയ്യേണ്ടതുണ്ട്"
       },
       {
         "id": "rta-hfk-021-c",
-        "answer_text": "Careful handling of the rim for safety"
+        "answer_text": "സുരക്ഷയ്ക്കായി റിം ശ്രദ്ധാപൂർവ്വം കൈകാര്യം ചെയ്യൽ"
       }
     ]
   },
   {
     "id": "rta-hfk-022",
-    "question_text": "When changing the wheel of a shovel, when is the right time to tighten the wheel nuts?",
+    "question_text": "ഷോവലിന്റെ ചക്രം മാറ്റുമ്പോൾ വീൽ നട്ടുകൾ മുറുക്കാനുള്ള ശരിയായ സമയം എപ്പോഴാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-022-a",
-        "answer_text": "When the shovel has been re-started"
+        "answer_text": "ഷോവൽ വീണ്ടും സ്റ്റാർട്ട് ചെയ്തശേഷം"
       },
       {
         "id": "rta-hfk-022-b",
-        "answer_text": "While the shovel is still jacked up"
+        "answer_text": "ഷോവൽ ഇപ്പോഴും ജാക്കിൽ ഇരിക്കുമ്പോൾ"
       },
       {
         "id": "rta-hfk-022-c",
-        "answer_text": "When the shovel is fully lowered"
+        "answer_text": "ഷോവൽ പൂർണ്ണമായും താഴ്ത്തിയശേഷം"
       }
     ]
   },
   {
     "id": "rta-hfk-024",
-    "question_text": "Equipment should be refueled after use to cool the remaining fuel and;",
+    "question_text": "ഉപയോഗത്തിന് ശേഷം ഉപകരണങ്ങൾ ഇന്ധനം നിറയ്ക്കണം, അവശേഷിക്കുന്ന ഇന്ധനം തണുക്കാനും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-024-a",
-        "answer_text": "Minimize the intake of moisture from atmosphere overnight"
+        "answer_text": "രാത്രി മുഴുവൻ അന്തരീക്ഷത്തിൽ നിന്ന് ഈർപ്പം ആഗിരണം കുറയ്ക്കാൻ"
       },
       {
         "id": "rta-hfk-024-b",
-        "answer_text": "Minimize the intake of fuel for the next day's work"
+        "answer_text": "അടുത്ത ദിവസത്തെ ജോലിക്ക് ഇന്ധന ഉപഭോഗം കുറയ്ക്കാൻ"
       },
       {
         "id": "rta-hfk-024-c",
-        "answer_text": "Ensure the continuation of work the next day"
+        "answer_text": "അടുത്ത ദിവസം ജോലി തുടരുന്നത് ഉറപ്പാക്കാൻ"
       }
     ]
   },
   {
     "id": "rta-hfk-026",
-    "question_text": "Escaping hydraulic oil under pressure can penetrate skin. If oil is injected into skin, it must be;",
+    "question_text": "മർദ്ദത്തിൽ പുറത്തു വരുന്ന ഹൈഡ്രോളിക് ഓയിൽ ചർമ്മം തുളച്ചു കയറും. ഓയിൽ ചർമ്മത്തിലേക്ക് ഇഞ്ചക്ട് ചെയ്യപ്പെട്ടാൽ, അത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-026-a",
-        "answer_text": "Surgically removed within a few hours by a doctor or gangrene may result"
+        "answer_text": "ഒരു ഡോക്ടർ ഏതാനും മണിക്കൂറുകൾക്കുള്ളിൽ ശസ്ത്രക്രിയയിലൂടെ നീക്കം ചെയ്യണം അല്ലെങ്കിൽ ഗ്യാംഗ്രീൻ ഉണ്ടാകാം"
       },
       {
         "id": "rta-hfk-026-b",
-        "answer_text": "Washed off thoroughly within the first few hours"
+        "answer_text": "ആദ്യ ഏതാനും മണിക്കൂറുകൾക്കുള്ളിൽ നന്നായി കഴുകി കളയണം"
       },
       {
         "id": "rta-hfk-026-c",
-        "answer_text": "Cleaned with hot water and soap"
+        "answer_text": "ചൂടുവെള്ളവും സോപ്പും ഉപയോഗിച്ച് വൃത്തിയാക്കണം"
       }
     ]
   },
   {
     "id": "rta-hfk-027",
-    "question_text": "The fuel tank breather if uncleaned may cause  vacuum in the fuel tank. This can result to;",
+    "question_text": "ഇന്ധന ടാങ്കിന്റെ ബ്രീദർ വൃത്തിയാക്കിയില്ലെങ്കിൽ ടാങ്കിൽ വാക്വം ഉണ്ടാകാം. ഇത് ഇതിലേക്ക് നയിക്കും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-027-a",
-        "answer_text": "Efficient flow of fuel"
+        "answer_text": "ഇന്ധനത്തിന്റെ കാര്യക്ഷമമായ ഒഴുക്ക്"
       },
       {
         "id": "rta-hfk-027-b",
-        "answer_text": "Reduced or stoppage of fuel flow"
+        "answer_text": "ഇന്ധന ഒഴുക്ക് കുറയൽ അല്ലെങ്കിൽ നിലക്കൽ"
       },
       {
         "id": "rta-hfk-027-c",
-        "answer_text": "Reduced fuel consumption"
+        "answer_text": "ഇന്ധന ഉപഭോഗം കുറയൽ"
       }
     ]
   },
   {
     "id": "rta-hfk-029",
-    "question_text": "When searching for hydraulic leaks, wear eye protection and do not use your hands. Instead;",
+    "question_text": "ഹൈഡ്രോലിക് ലീക്ക് തിരയുമ്പോൾ, കണ്ണിന്റെ സംരക്ഷണം ധരിക്കുക, കൈകൾ ഉപയോഗിക്കരുത്. പകരം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-029-a",
-        "answer_text": "Use a dipstick or a metallic object"
+        "answer_text": "ഡിപ്‌സ്റ്റിക്കോ ലോഹ വസ്തുവോ ഉപയോഗിക്കുക"
       },
       {
         "id": "rta-hfk-029-b",
-        "answer_text": "Use your foot and wear leather boots"
+        "answer_text": "കാൽ ഉപയോഗിക്കുക, തുകൽ ബൂട്ട് ധരിക്കുക"
       },
       {
         "id": "rta-hfk-029-c",
-        "answer_text": "Use a piece of cardboard or wood"
+        "answer_text": "ഒരു കഷ്ണം കാർഡ്ബോർഡോ മരമോ ഉപയോഗിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-038",
-    "question_text": "Always lower the work equipment completely to the ground, set the safety lock lever to the LOCK position;",
+    "question_text": "ജോലി ഉപകരണങ്ങൾ എപ്പോഴും നിലത്ത് പൂർണ്ണമായി താഴ്ത്തുക, സേഫ്റ്റി ലോക്ക് ലിവർ LOCK സ്ഥാനത്ത് സെറ്റ് ചെയ്യുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-038-a",
-        "answer_text": "When starting the shovel"
+        "answer_text": "ഷോവൽ ആരംഭിക്കുമ്പോൾ"
       },
       {
         "id": "rta-hfk-038-b",
-        "answer_text": "When leaving the Shovel"
+        "answer_text": "ഷോവൽ വിടുമ്പോൾ"
       },
       {
         "id": "rta-hfk-038-c",
-        "answer_text": "When reversing the shovel"
+        "answer_text": "ഷോവൽ പിന്നോക്കം ഓടിക്കുമ്പോൾ"
       }
     ]
   },
   {
     "id": "rta-hfk-040",
-    "question_text": "What you must never hold when getting on or getting off the shovel?",
+    "question_text": "ഷോവലിൽ കയറുകയോ ഇറങ്ങുകയോ ചെയ്യുമ്പോൾ നിങ്ങൾ ഒരിക്കലും പിടിക്കരുതാത്തത് ഏതാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-040-a",
-        "answer_text": "Any of the control levers"
+        "answer_text": "ഏതെങ്കിലും കൺട്രോൾ ലിവർ"
       },
       {
         "id": "rta-hfk-040-b",
-        "answer_text": "Any of the handles"
+        "answer_text": "ഏതെങ്കിലും ഹാൻഡിൽ"
       },
       {
         "id": "rta-hfk-040-c",
-        "answer_text": "Any of the control pedals"
+        "answer_text": "ഏതെങ്കിലും കൺട്രോൾ പെഡൽ"
       }
     ]
   },
   {
     "id": "rta-hfk-060",
-    "question_text": "If possible, remain inside the cabin if the shovel gets in contact with live power lines because;",
+    "question_text": "സാധ്യമെങ്കിൽ, ഷോവൽ ലൈവ് വൈദ്യുതി ലൈനുകളുമായി സംബർക്കത്തിൽ വന്നാൽ ക്യാബിനിൽ തന്നെ ഉണ്ടായിരിക്കുക, കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-060-a",
-        "answer_text": "When dismounting, you may step into wet floor and slip"
+        "answer_text": "ഇറങ്ങുമ്പോൾ, നനഞ്ഞ നിലത്ത് ചവിട്ടി വഴുതി വീഴാം"
       },
       {
         "id": "rta-hfk-060-b",
-        "answer_text": "The electric current will cause the cabin to lock automatically"
+        "answer_text": "വൈദ്യുത പ്രവാഹം ക്യാബിൻ സ്വയം ലോക്ക് ചെയ്യും"
       },
       {
         "id": "rta-hfk-060-c",
-        "answer_text": "When dismounting, you may touch the “live” truck, causing the power to earth through you"
+        "answer_text": "ഇറങ്ങുമ്പോൾ, 'ലൈവ്' ട്രക്ക് സ്പർശിക്കാം, ഇതുവഴി വൈദ്യുതി നിങ്ങളിലൂടെ ഭൂമിയിലേക്ക് കടക്കും"
       }
     ]
   },
   {
     "id": "rta-hfk-067",
-    "question_text": "One of the many considerations when planning for safety at workplace include;",
+    "question_text": "ജോലിസ്ഥലത്ത് സുരക്ഷ ആസൂത്രണം ചെയ്യുന്നതിനുള്ള പ്രധാന പരിഗണനകളിൽ ഒന്ന് ഉൾപ്പെടുന്നു;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-067-a",
-        "answer_text": "Locations of speed cameras on the roads"
+        "answer_text": "റോഡുകളിൽ സ്പീഡ് ക്യാമറകളുടെ സ്ഥാനങ്ങൾ"
       },
       {
         "id": "rta-hfk-067-b",
-        "answer_text": "Working safely around other shovels and people"
+        "answer_text": "മറ്റ് ഷോവലുകൾക്കും ആളുകൾക്കും ചുറ്റും സുരക്ഷിതമായി ജോലി ചെയ്യുക"
       },
       {
         "id": "rta-hfk-067-c",
-        "answer_text": "Safety procedure for starting the shovel"
+        "answer_text": "ഷോവൽ ആരംഭിക്കുന്നതിനുള്ള സുരക്ഷ നടപടിക്രമം"
       }
     ]
   },
   {
     "id": "rta-hfk-070",
-    "question_text": "When filling the bucket from a stockpile;",
+    "question_text": "ഒരു ശേഖരത്തിൽ നിന്ന് ബക്കറ്റ് നിറക്കുമ്പോൾ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-070-a",
-        "answer_text": "Set the shovel facing directly to the front"
+        "answer_text": "ഷോവൽ നേരെ മുന്നിലേക്ക് നിൽക്കുന്നതായി സജ്ജമാക്കുക"
       },
       {
         "id": "rta-hfk-070-b",
-        "answer_text": "Set the shovel slightly downwards"
+        "answer_text": "ഷോവൽ അൽപ്പം താഴേക്ക് ചരിഞ്ഞ് സജ്ജമാക്കുക"
       },
       {
         "id": "rta-hfk-070-c",
-        "answer_text": "Set the shovel slightly upwards"
+        "answer_text": "ഷോവൽ അൽപ്പം മുകളിലേക്ക് ചരിഞ്ഞ് സജ്ജമാക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-072",
-    "question_text": "Smooth shovel operations enable efficient and speedy use of shovel. This also results in;",
+    "question_text": "സുഗമമായ ഷോവൽ പ്രവർത്തനം ഷോവലിന്റെ കാര്യക്ഷമവും വേഗമേറിയതുമായ ഉപയോഗം സാധ്യമാക്കുന്നു. ഇത് ഇതിലും കലാശിക്കുന്നു;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-072-a",
-        "answer_text": "Less wear and tear to the shovel and less fatigue to the operator"
+        "answer_text": "ഷോവലിന്റെ കുറഞ്ഞ തേയ്മാനം, ഓപ്പറേറ്ററുടെ കുറഞ്ഞ ക്ഷീണം"
       },
       {
         "id": "rta-hfk-072-b",
-        "answer_text": "Less worktime for the shovel and for the operator"
+        "answer_text": "ഷോവലിനും ഓപ്പറേറ്ററിനും കുറഞ്ഞ ജോലി സമയം"
       },
       {
         "id": "rta-hfk-072-c",
-        "answer_text": "More safety and more rest time for the operator"
+        "answer_text": "ഓപ്പറേറ്ററിന് കൂടുതൽ സുരക്ഷ, കൂടുതൽ വിശ്രമ സമയം"
       }
     ]
   },
   {
     "id": "rta-hfk-075",
-    "question_text": "How do you reduce the resistance when driving the shovel forward on level ground?",
+    "question_text": "സമതലമായ നിലത്ത് ഷവൽ മുന്നോട്ട് ഓടിക്കുമ്പോൾ പ്രതിരോധം എങ്ങനെ കുറയ്ക്കാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-075-a",
-        "answer_text": "Operate the lift arm control lever heavy on one side"
+        "answer_text": "ലിഫ്റ്റ് ആം കൺട്രോൾ ലിവർ ഒരു വശത്ത് ശക്തിയോടെ പ്രവർത്തിപ്പിക്കുക"
       },
       {
         "id": "rta-hfk-075-b",
-        "answer_text": "Operate the lift arm control lever slightly downwards"
+        "answer_text": "ലിഫ്റ്റ് ആം കൺട്രോൾ ലിവർ അല്പം താഴേക്ക് പ്രവർത്തിപ്പിക്കുക"
       },
       {
         "id": "rta-hfk-075-c",
-        "answer_text": "Operate the lift arm control lever slightly up and down"
+        "answer_text": "ലിഫ്റ്റ് ആം കൺട്രോൾ ലിവർ അല്പം മുകളിലേക്കും താഴേക്കും പ്രവർത്തിപ്പിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-080",
-    "question_text": "When performing levelling and pushing operations, it is best conducted with;",
+    "question_text": "നിരപ്പാക്കൽ, തള്ളൽ പ്രവർത്തനങ്ങൾ നടത്തുമ്പോൾ, ഏറ്റവും നല്ല രീതി;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-080-a",
-        "answer_text": "The shovel moving sideward"
+        "answer_text": "ഷവൽ വശങ്ങളിലേക്ക് നീങ്ങുന്ന അവസ്ഥയിൽ"
       },
       {
         "id": "rta-hfk-080-b",
-        "answer_text": "The shovel moving forward"
+        "answer_text": "ഷവൽ മുന്നോട്ട് നീങ്ങുന്ന അവസ്ഥയിൽ"
       },
       {
         "id": "rta-hfk-080-c",
-        "answer_text": "The shovel in reverse"
+        "answer_text": "ഷവൽ റിവേഴ്സിൽ"
       }
     ]
   },
   {
     "id": "rta-hfk-081",
-    "question_text": "When carrying out pushing operations, the bottom of the bucket should be;",
+    "question_text": "തള്ളൽ പ്രവർത്തനങ്ങൾ നടത്തുമ്പോൾ, ബക്കറ്റിന്റെ അടിഭാഗം ആയിരിക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-081-a",
-        "answer_text": "Set parallel to the ground surface"
+        "answer_text": "നിലത്തിന്റെ ഉപരിതലത്തിന് സമാന്തരമായി"
       },
       {
         "id": "rta-hfk-081-b",
-        "answer_text": "Set upwards against the ground surface"
+        "answer_text": "നിലത്തിന്റെ ഉപരിതലത്തിനെതിരെ മുകളിലേക്ക്"
       },
       {
         "id": "rta-hfk-081-c",
-        "answer_text": "Set downwards against the ground surface"
+        "answer_text": "നിലത്തിന്റെ ഉപരിതലത്തിനെതിരെ താഴേക്ക്"
       }
     ]
   },
   {
     "id": "rta-hfk-082",
-    "question_text": "When carrying out pushing operations, never set the bucket in;",
+    "question_text": "തള്ളൽ പ്രവർത്തനങ്ങൾ നടത്തുമ്പോൾ, ബക്കറ്റ് ഒരിക്കലും ഈ സ്ഥാനത്ത് വയ്ക്കരുത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-082-a",
-        "answer_text": "Scoop position"
+        "answer_text": "സ്കൂപ്പ് സ്ഥാനം"
       },
       {
         "id": "rta-hfk-082-b",
-        "answer_text": "Dump position"
+        "answer_text": "ഡംപ് സ്ഥാനം"
       },
       {
         "id": "rta-hfk-082-c",
-        "answer_text": "Forward Position"
+        "answer_text": "മുന്നോട്ടുള്ള സ്ഥാനം"
       }
     ]
   },
   {
     "id": "rta-hfk-083",
-    "question_text": "When travelling down incline, how do you minimize the need for brake operation?",
+    "question_text": "ചരിവിലൂടെ താഴേക്ക് ഓടുമ്പോൾ, ബ്രേക്ക് ഉപയോഗിക്കേണ്ടതിന്റെ ആവശ്യം കുറയ്ക്കാൻ എന്ത് ചെയ്യും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-083-a",
-        "answer_text": "Maximize engine braking by selecting low gear"
+        "answer_text": "താഴ്ന്ന ഗിയർ തിരഞ്ഞെടുത്ത് എഞ്ചിൻ ബ്രേക്കിംഗ് പരമാവധി ഉപയോഗിക്കുക"
       },
       {
         "id": "rta-hfk-083-b",
-        "answer_text": "Select a high gear and decrease speed"
+        "answer_text": "ഉയർന്ന ഗിയർ തിരഞ്ഞെടുത്ത് വേഗത കുറയ്ക്കുക"
       },
       {
         "id": "rta-hfk-083-c",
-        "answer_text": "Select the neutral gear and freewheel"
+        "answer_text": "ന്യൂട്രൽ ഗിയർ തിരഞ്ഞെടുത്ത് സ്വതന്ത്രമായി ഓടുക"
       }
     ]
   },
   {
     "id": "rta-hfk-084",
-    "question_text": "When travelling across inclines, the center of gravity of the machine should be as low as possible and;",
+    "question_text": "ചരിവുകളിലൂടെ യാത്ര ചെയ്യുമ്പോൾ, യന്ത്രത്തിന്റെ ഗുരുത്വകേന്ദ്രം കഴിയുന്നത്ര താഴ്ന്നിരിക്കണം, കൂടാതെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-084-a",
-        "answer_text": "Do not make any turns at all cost"
+        "answer_text": "ഒരു കാരണവശാലും ഒരു വളവും തിരിയരുത്"
       },
       {
         "id": "rta-hfk-084-b",
-        "answer_text": "Avoid making sudden changes in speed or direction"
+        "answer_text": "വേഗതയിലോ ദിശയിലോ പെട്ടെന്നുള്ള മാറ്റങ്ങൾ ഒഴിവാക്കുക"
       },
       {
         "id": "rta-hfk-084-c",
-        "answer_text": "Avoid making changes to the position of the shovel"
+        "answer_text": "ഷവലിന്റെ സ്ഥാനത്ത് മാറ്റങ്ങൾ ഒഴിവാക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-085",
-    "question_text": "The Clam shell operation of the bucket is used for;",
+    "question_text": "ബക്കറ്റിന്റെ ക്ലാം ഷെൽ ഓപ്പറേഷൻ ഏത് ആവശ്യത്തിന് ഉപയോഗിക്കുന്നു?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-085-a",
-        "answer_text": "Spreading materials and grading"
+        "answer_text": "മേൽ‌ക്കൂര വ്യാപിപ്പിക്കലിനും ഗ്രേഡിംഗിനും"
       },
       {
         "id": "rta-hfk-085-b",
-        "answer_text": "Picking up objects or grab and hold"
+        "answer_text": "വസ്തുക്കൾ പൊക്കിയെടുക്കാനോ പിടിച്ചുവയ്ക്കാനോ"
       },
       {
         "id": "rta-hfk-085-c",
-        "answer_text": "Scraping and levelling"
+        "answer_text": "ചുരണ്ടലിനും നിരപ്പാക്കലിനും"
       }
     ]
   },
   {
     "id": "rta-hfk-087",
-    "question_text": "When travelling up or down inclines, the loaded bucket should be;",
+    "question_text": "ചരിവുകളിലൂടെ മുകളിലേക്കോ താഴേക്കോ യാത്ര ചെയ്യുമ്പോൾ, നിറഞ്ഞ ബക്കറ്റ് ആയിരിക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-087-a",
-        "answer_text": "Uphill of the machine"
+        "answer_text": "യന്ത്രത്തിന്റെ കുന്നിൻ ഭാഗത്ത്"
       },
       {
         "id": "rta-hfk-087-b",
-        "answer_text": "Downhill of the machine"
+        "answer_text": "യന്ത്രത്തിന്റെ താഴ്‌വശത്ത്"
       },
       {
         "id": "rta-hfk-087-c",
-        "answer_text": "Sideways of the machine"
+        "answer_text": "യന്ത്രത്തിന്റെ വശത്ത്"
       }
     ]
   },
   {
     "id": "rta-hfk-088",
-    "question_text": "A position of the multi-purpose bucket used for general pushing, spreading and grading:",
+    "question_text": "പൊതുവായ തള്ളൽ, വ്യാപനം, ഗ്രേഡിംഗ് എന്നിവയ്ക്ക് ഉപയോഗിക്കുന്ന മൾട്ടി-പർപ്പസ് ബക്കറ്റിന്റെ സ്ഥാനം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-088-a",
-        "answer_text": "Blade"
+        "answer_text": "ബ്ലേഡ്"
       },
       {
         "id": "rta-hfk-088-b",
-        "answer_text": "Clam Shell"
+        "answer_text": "ക്ലാം ഷെൽ"
       },
       {
         "id": "rta-hfk-088-c",
-        "answer_text": "Bucket"
+        "answer_text": "ബക്കറ്റ്"
       }
     ]
   },
   {
     "id": "rta-hfk-090",
-    "question_text": "The job requires you to  prepare hard ground for removal. What attachment should be used?",
+    "question_text": "ജോലിക്ക് കഠിനമായ മണ്ണ് നീക്കം ചെയ്യാൻ തയ്യാറാക്കേണ്ടതുണ്ട്. ഏത് അറ്റാച്ച്മെന്റ് ഉപയോഗിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-090-a",
-        "answer_text": "Grabs"
+        "answer_text": "ഗ്രാബ്സ്"
       },
       {
         "id": "rta-hfk-090-b",
-        "answer_text": "Rippers"
+        "answer_text": "റിപ്പേഴ്സ്"
       },
       {
         "id": "rta-hfk-090-c",
-        "answer_text": "Augers"
+        "answer_text": "ഓഗേഴ്സ്"
       }
     ]
   },
   {
     "id": "rta-hfk-091",
-    "question_text": "The job require logs and drums to be moved to another location. What attachment should be used?",
+    "question_text": "ജോലിക്ക് മരത്തടികളും ഡ്രമ്മുകളും മറ്റൊരു സ്ഥലത്തേക്ക് മാറ്റേണ്ടതുണ്ട്. ഏത് അറ്റാച്ച്മെന്റ് ഉപയോഗിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-091-a",
-        "answer_text": "Augers"
+        "answer_text": "ഓഗേഴ്സ്"
       },
       {
         "id": "rta-hfk-091-b",
-        "answer_text": "Rippers"
+        "answer_text": "റിപ്പേഴ്സ്"
       },
       {
         "id": "rta-hfk-091-c",
-        "answer_text": "Grabs"
+        "answer_text": "ഗ്രാബ്സ്"
       }
     ]
   },
   {
     "id": "rta-moto-002",
-    "question_text": "When checking your brakes, the rear brake should be adjusted so that:",
+    "question_text": "ബ്രേക്കുകൾ പരിശോധിക്കുമ്പോൾ, പിൻ ബ്രേക്ക് ഇങ്ങനെ ക്രമീകരിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-002-a",
-        "answer_text": "it stops the motorcycle when the brake is lightly applied."
+        "answer_text": "ബ്രേക്ക് ലഘുവായി പ്രയോഗിക്കുമ്പോൾ മോട്ടോർസൈക്കിൾ നിൽക്കുന്നു."
       },
       {
         "id": "rta-moto-002-b",
-        "answer_text": "it stops the motorcycle when the brake is fully applied."
+        "answer_text": "ബ്രേക്ക് പൂർണ്ണമായി പ്രയോഗിക്കുമ്പോൾ മോട്ടോർസൈക്കിൾ നിൽക്കുന്നു."
       },
       {
         "id": "rta-moto-002-c",
-        "answer_text": "it does not stop the motorcycle when the brake is fully applied."
+        "answer_text": "ബ്രേക്ക് പൂർണ്ണമായി പ്രയോഗിക്കുമ്പോൾ മോട്ടോർസൈക്കിൾ നിൽക്കുന്നില്ല."
       }
     ]
   },
   {
     "id": "rta-moto-003",
-    "question_text": "When checking your brakes, the front brake should be adjusted so that it:",
+    "question_text": "ബ്രേക്കുകൾ പരിശോധിക്കുമ്പോൾ, മുൻ ബ്രേക്ക് ഇങ്ങനെ ക്രമീകരിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-003-a",
-        "answer_text": "stops the motorcycle when the brake is lightly applied."
+        "answer_text": "ബ്രേക്ക് ലഘുവായി പ്രയോഗിക്കുമ്പോൾ മോട്ടോർസൈക്കിൾ നിർത്തുന്നു."
       },
       {
         "id": "rta-moto-003-b",
-        "answer_text": "stops the motorcycle when the brake is fully applied."
+        "answer_text": "ബ്രേക്ക് പൂർണ്ണമായി പ്രയോഗിക്കുമ്പോൾ മോട്ടോർസൈക്കിൾ നിർത്തുന്നു."
       },
       {
         "id": "rta-moto-003-c",
-        "answer_text": "does not stop the motorcycle when the brake is fully applied."
+        "answer_text": "ബ്രേക്ക് പൂർണ്ണമായി പ്രയോഗിക്കുമ്പോൾ മോട്ടോർസൈക്കിൾ നിർത്തുന്നില്ല."
       }
     ]
   },
   {
     "id": "rta-moto-004",
-    "question_text": "What should each mirror fitted to your motorcycle let you see?",
+    "question_text": "നിങ്ങളുടെ മോട്ടോർസൈക്കിളിൽ ഘടിപ്പിച്ച ഓരോ കണ്ണാടിയും നിങ്ങളെ എന്ത് കാണിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-004-a",
-        "answer_text": "Mainly the traffic in the lane behind you."
+        "answer_text": "പ്രധാനമായും നിങ്ങളുടെ പിന്നിലെ ലെയ്നിലെ ഗതാഗതം."
       },
       {
         "id": "rta-moto-004-b",
-        "answer_text": "Only the lane next to you."
+        "answer_text": "നിങ്ങളുടെ അടുത്ത ലെയ്ൻ മാത്രം."
       },
       {
         "id": "rta-moto-004-c",
-        "answer_text": "As much as possible of the lane next to you and of the traffic behind you"
+        "answer_text": "നിങ്ങളുടെ അടുത്ത ലെയ്നും പിന്നിലെ ഗതാഗതവും കഴിയുന്നത്ര കൂടുതൽ."
       }
     ]
   },
   {
     "id": "rta-moto-006",
-    "question_text": "When fully applied, which of the brakes should be able to hold a motorcycle?",
+    "question_text": "പൂർണ്ണമായി പ്രയോഗിക്കുമ്പോൾ, ഏത് ബ്രേക്ക് മോട്ടോർസൈക്കിൾ പിടിച്ചുനിർത്താൻ കഴിയണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-006-a",
-        "answer_text": "The front brake."
+        "answer_text": "മുൻ ബ്രേക്ക്."
       },
       {
         "id": "rta-moto-006-b",
-        "answer_text": "The rear brake."
+        "answer_text": "പിൻ ബ്രേക്ക്."
       },
       {
         "id": "rta-moto-006-c",
-        "answer_text": "Both the front and rear brakes."
+        "answer_text": "മുൻ ബ്രേക്കും പിൻ ബ്രേക്കും ഒരുമിച്ച്."
       }
     ]
   },
   {
     "id": "rta-moto-007",
-    "question_text": "When checking the throttle, if it is opened wide and released it should then:",
+    "question_text": "ത്രോട്ടൽ പരിശോധിക്കുമ്പോൾ, അത് പൂർണ്ണമായി തുറന്ന് വിട്ടാൽ അത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-007-a",
-        "answer_text": "snap shut."
+        "answer_text": "ഉടൻ അടഞ്ഞുപോകണം."
       },
       {
         "id": "rta-moto-007-b",
-        "answer_text": "gradually close."
+        "answer_text": "പതുക്കെ അടഞ്ഞുപോകണം."
       },
       {
         "id": "rta-moto-007-c",
-        "answer_text": "remain where it is."
+        "answer_text": "അവിടെ തന്നെ ഇരിക്കണം."
       }
     ]
   },
   {
     "id": "rta-moto-008",
-    "question_text": "The drive chain of a motorcycle should:",
+    "question_text": "മോട്ടോർസൈക്കിളിന്റെ ഡ്രൈവ് ചെയിൻ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-008-a",
-        "answer_text": "have no slack."
+        "answer_text": "ഒട്ടും അയഞ്ഞതാകരുത്."
       },
       {
         "id": "rta-moto-008-b",
-        "answer_text": "be lubricated and the tension adjusted correctly."
+        "answer_text": "ലൂബ്രിക്കേറ്റ് ചെയ്തതും ടെൻഷൻ ശരിയായി ക്രമീകരിച്ചതും ആയിരിക്കണം."
       },
       {
         "id": "rta-moto-008-c",
-        "answer_text": "have 10-20 mm of slack."
+        "answer_text": "10-20 മില്ലിമീറ്റർ അയവ് ഉണ്ടായിരിക്കണം."
       }
     ]
   },
   {
     "id": "rta-moto-011",
-    "question_text": "When turning or riding through a corner, a motorcycle rider should:",
+    "question_text": "വളവ് തിരിയുമ്പോഴോ കോണിലൂടെ കടക്കുമ്പോഴോ, മോട്ടോർസൈക്കിൾ യാത്രക്കാരൻ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-011-a",
-        "answer_text": "stay as upright as possible, while letting the cycle lean."
+        "answer_text": "സൈക്കിൾ ചരിഞ്ഞുകൊള്ളട്ടെ, പക്ഷേ കഴിവതും നേരെ നിൽക്കുക."
       },
       {
         "id": "rta-moto-011-b",
-        "answer_text": "lean with the cycle while keeping his head up."
+        "answer_text": "സൈക്കിളിനൊപ്പം ചരിഞ്ഞ്, തല ഉയർത്തി നിൽക്കുക."
       },
       {
         "id": "rta-moto-011-c",
-        "answer_text": "lean, but keep the cycle as upright as possible."
+        "answer_text": "ചരിയുക, പക്ഷേ സൈക്കിൾ കഴിവതും നേരെ നിർത്തുക."
       }
     ]
   },
   {
     "id": "rta-moto-012",
-    "question_text": "When turning, you should:",
+    "question_text": "തിരിയുമ്പോൾ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-012-a",
-        "answer_text": "watch carefully the road directly in front of you."
+        "answer_text": "നേരെ മുന്നിലുള്ള റോഡ് ശ്രദ്ധാപൂർവ്വം നോക്കുക."
       },
       {
         "id": "rta-moto-012-b",
-        "answer_text": "grasp the fuel tank firmly with your knees"
+        "answer_text": "മുട്ടുകൾ ഉപയോഗിച്ച് ഫ്യൂവൽ ടാങ്ക് ദൃഢമായി പിടിക്കുക."
       },
       {
         "id": "rta-moto-012-c",
-        "answer_text": "drag one foot along the ground."
+        "answer_text": "ഒരു കാൽ നിലത്ത് വലിച്ചിഴക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-014",
-    "question_text": "Which one of these statements is correct?",
+    "question_text": "ഇവയിൽ ഏത് പ്രസ്താവന ശരിയാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-014-a",
-        "answer_text": "Ride with your arms bent outwards."
+        "answer_text": "കൈകൾ പുറത്തേക്ക് വളച്ച് സഞ്ചരിക്കുക."
       },
       {
         "id": "rta-moto-014-b",
-        "answer_text": "Do not bend your arms while you ride."
+        "answer_text": "സഞ്ചരിക്കുമ്പോൾ കൈകൾ വളക്കരുത്."
       },
       {
         "id": "rta-moto-014-c",
-        "answer_text": "Ride with your elbows slightly bent."
+        "answer_text": "കൈമുട്ടുകൾ ചെറുതായി വളച്ച് സഞ്ചരിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-016",
-    "question_text": "When turning, should a rider lean with the motorcycle?",
+    "question_text": "തിരിയുമ്പോൾ, യാത്രക്കാരൻ മോട്ടോർസൈക്കിളിനൊപ്പം ചരിയണോ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-016-a",
-        "answer_text": "No"
+        "answer_text": "ഇല്ല"
       },
       {
         "id": "rta-moto-016-b",
-        "answer_text": "Yes, and keeping your sight level with the  road"
+        "answer_text": "അതേ, കൂടാതെ റോഡുമായി കണ്ണിന്റെ നില നിലനിർത്തുക"
       },
       {
         "id": "rta-moto-016-c",
-        "answer_text": "Yes, but less so as speed increases."
+        "answer_text": "അതേ, പക്ഷേ വേഗത കൂടുംതോറും കുറഞ്ഞ അളവിൽ."
       }
     ]
   },
   {
     "id": "rta-moto-017",
-    "question_text": "In a right hand corner, you should:",
+    "question_text": "വലത് ഭാഗത്തേക്കുള്ള വളവിൽ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-017-a",
-        "answer_text": "move to a position that will allow you to see through the corner."
+        "answer_text": "വളവ് ദൃശ്യമാകുന്ന സ്ഥാനത്തേക്ക് നീങ്ങുക."
       },
       {
         "id": "rta-moto-017-b",
-        "answer_text": "move to the right of the lane."
+        "answer_text": "ലെയ്‌നിന്റെ വലതുഭാഗത്തേക്ക് നീങ്ങുക."
       },
       {
         "id": "rta-moto-017-c",
-        "answer_text": "stand up slightly on the footpegs."
+        "answer_text": "ഫൂട്ട്‌പെഗ്‌സിൽ ചെറുതായി എഴുന്നേൽക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-018",
-    "question_text": "When braking, you should concentrate most upon:",
+    "question_text": "ബ്രേക്ക് ചെയ്യുമ്പോൾ, നിങ്ങൾ ഏറ്റവും കൂടുതൽ ശ്രദ്ധ കൊടുക്കേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-018-a",
-        "answer_text": "counter steering."
+        "answer_text": "കൗണ്ടർ സ്റ്റിയറിംഗിൽ."
       },
       {
         "id": "rta-moto-018-b",
-        "answer_text": "changing down gears."
+        "answer_text": "ഗിയർ താഴ്ത്തുന്നതിൽ."
       },
       {
         "id": "rta-moto-018-c",
-        "answer_text": "not locking the wheels."
+        "answer_text": "ചക്രങ്ങൾ ലോക്ക് ആകാതിരിക്കാൻ."
       }
     ]
   },
   {
     "id": "rta-moto-019",
-    "question_text": "When braking in a curve, pressure upon the brakes should be:",
+    "question_text": "ഒരു കർവിൽ ബ്രേക്ക് ചെയ്യുമ്പോൾ, ബ്രേക്കുകളിൽ സമ്മർദ്ദം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-019-a",
-        "answer_text": "started off gently."
+        "answer_text": "സൌമ്യമായി ആരംഭിക്കണം."
       },
       {
         "id": "rta-moto-019-b",
-        "answer_text": "increased after you have straightened up."
+        "answer_text": "നേരെ ആയ ശേഷം വർദ്ധിപ്പിക്കണം."
       },
       {
         "id": "rta-moto-019-c",
-        "answer_text": "kept constant as you slow."
+        "answer_text": "മന്ദഗതിയിൽ ആകുമ്പോൾ സ്ഥിരമായി നിലനിർത്തണം."
       }
     ]
   },
   {
     "id": "rta-moto-020",
-    "question_text": "When turning you should:",
+    "question_text": "തിരിയുമ്പോൾ നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-020-a",
-        "answer_text": "lean the motorcycle."
+        "answer_text": "മോട്ടോർസൈക്കിൾ ചരിക്കുക."
       },
       {
         "id": "rta-moto-020-b",
-        "answer_text": "increase your speed."
+        "answer_text": "വേഗത കൂട്ടുക."
       },
       {
         "id": "rta-moto-020-c",
-        "answer_text": "use your brakes."
+        "answer_text": "ബ്രേക്ക് ഉപയോഗിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-023",
-    "question_text": "When riding behind a car, it is best to ride:",
+    "question_text": "ഒരു കാറിന്റെ പിന്നിൽ ഓടിക്കുമ്പോൾ, ഏറ്റവും നല്ലത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-023-a",
-        "answer_text": "in the right wheel track of the car."
+        "answer_text": "കാറിന്റെ വലത് ചക്ര ട്രാക്കിൽ."
       },
       {
         "id": "rta-moto-023-b",
-        "answer_text": "in the middle of the lane."
+        "answer_text": "ലെയ്‌നിന്റെ മധ്യഭാഗത്ത്."
       },
       {
         "id": "rta-moto-023-c",
-        "answer_text": "in the left wheel track of the car."
+        "answer_text": "കാറിന്റെ ഇടത് ചക്ര ട്രാക്കിൽ."
       }
     ]
   },
   {
     "id": "rta-moto-027",
-    "question_text": "When changing position within a lane, which one of the following is the best thing to do?",
+    "question_text": "ഒരു ലെയ്നിനുള്ളിൽ സ്ഥാനം മാറ്റുമ്പോൾ, ഇനിപ്പറയുന്നവയിൽ ഏതാണ് ഏറ്റവും നല്ലത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-027-a",
-        "answer_text": "Use your indicator and move over quickly."
+        "answer_text": "ഇൻഡിക്കേറ്റർ ഉപയോഗിച്ച് വേഗം മാറുക."
       },
       {
         "id": "rta-moto-027-b",
-        "answer_text": "Make a head check and use your mirrors."
+        "answer_text": "തല തിരിച്ച് പരിശോധിക്കുകയും കണ്ണാടി ഉപയോഗിക്കുകയും ചെയ്യുക."
       },
       {
         "id": "rta-moto-027-c",
-        "answer_text": "Use your mirror and your indicator."
+        "answer_text": "കണ്ണാടിയും ഇൻഡിക്കേറ്ററും ഉപയോഗിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-029",
-    "question_text": "In traffic, you can see better than car drivers by:",
+    "question_text": "ട്രാഫിക്കിൽ കാർ ഡ്രൈവർമാരേക്കാൾ നിങ്ങൾക്ക് നന്നായി കാണാൻ കഴിയും:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-029-a",
-        "answer_text": "riding between lanes."
+        "answer_text": "ലെയ്നുകൾക്കിടയിൽ ഓടിക്കുന്നതിലൂടെ."
       },
       {
         "id": "rta-moto-029-b",
-        "answer_text": "looking through or over the tops of cars."
+        "answer_text": "കാറുകൾക്ക് മുകളിലൂടെ അല്ലെങ്കിൽ ടോപ്പ് ഭാഗത്തൂടെ നോക്കിക്കൊണ്ട്."
       },
       {
         "id": "rta-moto-029-c",
-        "answer_text": "riding on the extreme right of the road."
+        "answer_text": "റോഡിന്റെ ഏറ്റവും വലതു ഭാഗത്ത് ഓടിക്കുന്നതിലൂടെ."
       }
     ]
   },
   {
     "id": "rta-moto-030",
-    "question_text": "Under ordinary conditions, how much distance should an inexperienced rider keep from the vehicle ahead?",
+    "question_text": "സാധാരണ സാഹചര്യങ്ങളിൽ, ഒരു പരിചയമില്ലാത്ത ചാലകൻ മുൻഭാഗത്തെ വാഹനത്തിൽ നിന്ന് എത്ര ദൂരം നിലനിർത്തണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-030-a",
-        "answer_text": "At least two seconds."
+        "answer_text": "കുറഞ്ഞത് രണ്ട് സെക്കൻഡ്."
       },
       {
         "id": "rta-moto-030-b",
-        "answer_text": "At least three seconds."
+        "answer_text": "കുറഞ്ഞത് മൂന്ന് സെക്കൻഡ്."
       },
       {
         "id": "rta-moto-030-c",
-        "answer_text": "At least four seconds."
+        "answer_text": "കുറഞ്ഞത് നാല് സെക്കൻഡ്."
       }
     ]
   },
   {
     "id": "rta-moto-036",
-    "question_text": "Riding at night is more difficult because:",
+    "question_text": "രാത്രി ഓടിക്കുന്നത് കൂടുതൽ ബുദ്ധിമുട്ടാണ് കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-036-a",
-        "answer_text": "it is harder to see and be seen."
+        "answer_text": "കാണുന്നതും കണ്ടുപിടിക്കപ്പെടുന്നതും ബുദ്ധിമുട്ടാണ്."
       },
       {
         "id": "rta-moto-036-b",
-        "answer_text": "traffic is likely to be jammed."
+        "answer_text": "ട്രാഫിക് കുടുങ്ങാൻ സാധ്യതയുണ്ട്."
       },
       {
         "id": "rta-moto-036-c",
-        "answer_text": "it is harder to switch gear."
+        "answer_text": "ഗിയർ മാറ്റുന്നത് ബുദ്ധിമുട്ടാണ്."
       }
     ]
   },
   {
     "id": "rta-moto-037",
-    "question_text": "At night, you should follow a vehicle ahead:",
+    "question_text": "രാത്രിയിൽ, നിങ്ങൾ മുൻഭാഗത്തെ വാഹനത്തിന് പിന്നാലെ പോകണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-037-a",
-        "answer_text": "more closely than during the day."
+        "answer_text": "പകൽ സമയത്തേക്കാൾ അടുത്ത്."
       },
       {
         "id": "rta-moto-037-b",
-        "answer_text": "at the same distance as during the day."
+        "answer_text": "പകൽ സമയത്ത് ഉള്ളത്ര ദൂരത്ത്."
       },
       {
         "id": "rta-moto-037-c",
-        "answer_text": "at a greater distance than during the day."
+        "answer_text": "പകൽ സമയത്തേക്കാൾ കൂടുതൽ ദൂരത്ത്."
       }
     ]
   },
   {
     "id": "rta-moto-041",
-    "question_text": "Which of the following aspects of a motorcycles handling are affected by carrying a passenger?",
+    "question_text": "ഒരു യാത്രക്കാരനെ കൊണ്ടുപോകുമ്പോൾ മോട്ടോർസൈക്കിളിന്റെ ഹാൻഡ്‌ലിംഗിലെ ഏതൊക്കെ വശങ്ങൾ ബാധിക്കപ്പെടുന്നു?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-041-a",
-        "answer_text": "Braking and cornering."
+        "answer_text": "ബ്രേക്കിംഗും വളവ് തിരിയലും."
       },
       {
         "id": "rta-moto-041-b",
-        "answer_text": "Cornering and accelerating."
+        "answer_text": "വളവ് തിരിയലും ത്വരണവും."
       },
       {
         "id": "rta-moto-041-c",
-        "answer_text": "Braking, cornering and accelerating"
+        "answer_text": "ബ്രേക്കിംഗ്, വളവ് തിരിയൽ, ത്വരണം."
       }
     ]
   },
   {
     "id": "rta-moto-043",
-    "question_text": "If carrying a passenger who is not used to riding a bike you should:",
+    "question_text": "ബൈക്ക് സവാരിക്ക് ശീലമില്ലാത്ത ഒരു യാത്രക്കാരനെ കൊണ്ടുപോകുകയാണെങ്കിൽ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-043-a",
-        "answer_text": "Ask him to relax and lean against the bike."
+        "answer_text": "അദ്ദേഹത്തോട് ശാന്തനായി ബൈക്കിനെതിരായി ചരിയാൻ ആവശ്യപ്പെടുക."
       },
       {
         "id": "rta-moto-043-b",
-        "answer_text": "Ask him to relax and just lean with the bike."
+        "answer_text": "അദ്ദേഹത്തോട് ശാന്തനായി ബൈക്കിനൊപ്പം ചരിയാൻ ആവശ്യപ്പെടുക."
       },
       {
         "id": "rta-moto-043-c",
-        "answer_text": "Ask him to relax and lean forwards always."
+        "answer_text": "അദ്ദേഹത്തോട് ശാന്തനായി എപ്പോഴും മുന്നോട്ട് ചാഞ്ഞിരിക്കാൻ ആവശ്യപ്പെടുക."
       }
     ]
   },
   {
     "id": "rta-moto-044",
-    "question_text": "Should a passenger on a motorcycle hold on to the rider's waist?",
+    "question_text": "മോട്ടോർസൈക്കിളിൽ ഒരു യാത്രക്കാരൻ ഡ്രൈവറുടെ അരക്കെട്ട് പിടിക്കണോ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-044-a",
-        "answer_text": "Yes, this is acceptable."
+        "answer_text": "അതെ, ഇത് സ്വീകാര്യമാണ്."
       },
       {
         "id": "rta-moto-044-b",
-        "answer_text": "No, the approved handgrip must be used."
+        "answer_text": "ഇല്ല, അനുമോദിത ഹാൻഡ്‌ഗ്രിപ്പ് ഉപയോഗിക്കണം."
       },
       {
         "id": "rta-moto-044-c",
-        "answer_text": "No, unless the motorcycle does not have an approved handgrip."
+        "answer_text": "ഇല്ല, മോട്ടോർസൈക്കിളിൽ അനുമോദിത ഹാൻഡ്‌ഗ്രിപ്പ് ഇല്ലാത്ത സ്ഥിതിക്ക് മാത്രം."
       }
     ]
   },
   {
     "id": "rta-moto-048",
-    "question_text": "If approaching a curve too fast, it is best to:",
+    "question_text": "ഒരു വളവിലേക്ക് വളരെ വേഗത്തിൽ അടുക്കുകയാണെങ്കിൽ, ഏറ്റവും നല്ലത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-048-a",
-        "answer_text": "brake while in the curve."
+        "answer_text": "വളവിനുള്ളിൽ ബ്രേക്ക് ചെയ്യുക."
       },
       {
         "id": "rta-moto-048-b",
-        "answer_text": "brake before reaching the curve."
+        "answer_text": "വളവിൽ എത്തുന്നതിന് മുമ്പ് ബ്രേക്ക് ചെയ്യുക."
       },
       {
         "id": "rta-moto-048-c",
-        "answer_text": "begin braking as you enter the curve."
+        "answer_text": "വളവിലേക്ക് കടക്കുമ്പോൾ ബ്രേക്ക് ചെയ്യാൻ തുടങ്ങുക."
       }
     ]
   },
   {
     "id": "rta-moto-054",
-    "question_text": "If the rear tyre goes flat while you are riding along, you will probably feel:",
+    "question_text": "വാഹനം ഓടിക്കുമ്പോൾ പിൻ ടയർ പഞ്ചറായാൽ, നിങ്ങൾക്ക് ഒരുപക്ഷേ അനുഭവപ്പെടുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-054-a",
-        "answer_text": "the back of the cycle tend to slide from side to side."
+        "answer_text": "മോട്ടോർസൈക്കിളിന്റെ പിൻഭാഗം ഇടത്തോട്ടും വലത്തോട്ടും വഴുതുന്നു."
       },
       {
         "id": "rta-moto-054-b",
-        "answer_text": "the steering go \"heavy\"."
+        "answer_text": "സ്റ്റിയറിംഗ് \"ഭാരമേറിയ\" ആകുന്നു."
       },
       {
         "id": "rta-moto-054-c",
-        "answer_text": "the back of the cycle drop down slightly."
+        "answer_text": "മോട്ടോർസൈക്കിളിന്റെ പിൻഭാഗം അൽപ്പം താഴേക്ക് ഇറങ്ങുന്നു."
       }
     ]
   },
   {
     "id": "rta-moto-057",
-    "question_text": "In counter steering, to make a quick turn to the right, you should:",
+    "question_text": "കൌണ്ടർ സ്റ്റിയറിംഗിൽ വലതുഭാഗത്തേക്ക് വേഗത്തിൽ തിരിയാൻ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-057-a",
-        "answer_text": "lean to the right."
+        "answer_text": "വലതുഭാഗത്തേക്ക് ചരിയുക."
       },
       {
         "id": "rta-moto-057-b",
-        "answer_text": "press forward on the right handgrip."
+        "answer_text": "വലത് ഹാൻഡ്ഗ്രിപ്പ് മുന്നോട്ട് അമർത്തുക."
       },
       {
         "id": "rta-moto-057-c",
-        "answer_text": "press forward on the left handgrip."
+        "answer_text": "ഇടത് ഹാൻഡ്ഗ്രിപ്പ് മുന്നോട്ട് അമർത്തുക."
       }
     ]
   },
   {
     "id": "rta-moto-064",
-    "question_text": "If you ride under the influence of alcohol,",
+    "question_text": "മദ്യത്തിന്റെ സ്വാധീനത്തിൽ ഓടിക്കുകയാണെങ്കിൽ,",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-064-a",
-        "answer_text": "your riding skills improve."
+        "answer_text": "നിങ്ങളുടെ ഓടിക്കൽ കഴിവ് മെച്ചപ്പെടുന്നു."
       },
       {
         "id": "rta-moto-064-b",
-        "answer_text": "your reflexes become tired."
+        "answer_text": "നിങ്ങളുടെ പ്രതിവർത്തനങ്ങൾ ക്ഷീണിക്കുന്നു."
       },
       {
         "id": "rta-moto-064-c",
-        "answer_text": "your hazard awareness is reduced."
+        "answer_text": "അപകടങ്ങളെക്കുറിച്ചുള്ള നിങ്ങളുടെ ബോധം കുറയുന്നു."
       }
     ]
   },
   {
     "id": "rta-moto-065",
-    "question_text": "Because tiredness affects your  balance and vision, you should:",
+    "question_text": "ക്ഷീണം നിങ്ങളുടെ സന്തുലനത്തെയും കാഴ്ചശക്തിയെയും ബാധിക്കുന്നതിനാൽ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-065-a",
-        "answer_text": "Not ride if you are tired."
+        "answer_text": "ക്ഷീണിച്ചിരിക്കുമ്പോൾ ഓടിക്കരുത്."
       },
       {
         "id": "rta-moto-065-b",
-        "answer_text": "Not avoid riding if you are tired."
+        "answer_text": "ക്ഷീണിച്ചിരിക്കുമ്പോൾ ഓടിക്കൽ ഒഴിവാക്കരുത്."
       },
       {
         "id": "rta-moto-065-c",
-        "answer_text": "Not delay riding if you are tired."
+        "answer_text": "ക്ഷീണിച്ചിരിക്കുമ്പോൾ ഓടിക്കൽ വൈകിക്കരുത്."
       }
     ]
   },
   {
     "id": "rta-moto-066",
-    "question_text": "Make your ride less tiring by:",
+    "question_text": "ഓടിക്കൽ കൂടുതൽ ക്ഷീണകരമല്ലാതാക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-066-a",
-        "answer_text": "riding at night only."
+        "answer_text": "രാത്രി മാത്രം ഓടിക്കുന്നതിലൂടെ."
       },
       {
         "id": "rta-moto-066-b",
-        "answer_text": "taking coffee or tea frequently."
+        "answer_text": "പതിവായി ചായ അല്ലെങ്കിൽ കാപ്പി കുടിക്കുന്നതിലൂടെ."
       },
       {
         "id": "rta-moto-066-c",
-        "answer_text": "wearing protective clothing."
+        "answer_text": "സംരക്ഷണ വസ്ത്രങ്ങൾ ധരിക്കുന്നതിലൂടെ."
       }
     ]
   },
   {
     "id": "rta-moto-067",
-    "question_text": "Wearing bright clothing when riding is:",
+    "question_text": "ഓടിക്കുമ്പോൾ തിളക്കമുള്ള വസ്ത്രം ധരിക്കൽ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-067-a",
-        "answer_text": "enough to guarantee safety."
+        "answer_text": "സുരക്ഷ ഉറപ്പുനൽകാൻ പര്യാപ്തമാണ്."
       },
       {
         "id": "rta-moto-067-b",
-        "answer_text": "enough to expect others to see you."
+        "answer_text": "മറ്റുള്ളവർ നിങ്ങളെ കാണുമെന്ന് പ്രതീക്ഷിക്കാൻ പര്യാപ്തമാണ്."
       },
       {
         "id": "rta-moto-067-c",
-        "answer_text": "not enough to guarantee safety."
+        "answer_text": "സുരക്ഷ ഉറപ്പുനൽകാൻ പര്യാപ്തമല്ല."
       }
     ]
   },
   {
     "id": "rta-moto-072",
-    "question_text": "To protect your eyes and face when riding, you must wear:",
+    "question_text": "ഓടിക്കുമ്പോൾ കണ്ണുകളും മുഖവും സംരക്ഷിക്കാൻ, നിങ്ങൾ ധരിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-072-a",
-        "answer_text": "a helmet."
+        "answer_text": "ഒരു ഹെൽമെറ്റ്."
       },
       {
         "id": "rta-moto-072-b",
-        "answer_text": "visors or goggles."
+        "answer_text": "വൈസർ അല്ലെങ്കിൽ ഗോഗിൾസ്."
       },
       {
         "id": "rta-moto-072-c",
-        "answer_text": "helmet and gloves."
+        "answer_text": "ഹെൽമെറ്റും ഗ്ലൗസും."
       }
     ]
   },
   {
     "id": "rta-moto-075",
-    "question_text": "When riding with a pillion passenger, helmet is:",
+    "question_text": "പിൻ സീറ്റ് യാത്രക്കാരനൊടൊപ്പം ഓടിക്കുമ്പോൾ, ഹെൽമെറ്റ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-075-a",
-        "answer_text": "required for the rider only."
+        "answer_text": "ഓടിക്കുന്ന ആൾക്ക് മാത്രം ആവശ്യമാണ്."
       },
       {
         "id": "rta-moto-075-b",
-        "answer_text": "not required for the pillion passenger."
+        "answer_text": "പിൻ സീറ്റ് യാത്രക്കാരന് ആവശ്യമില്ല."
       },
       {
         "id": "rta-moto-075-c",
-        "answer_text": "required for both rider and pillion passenger."
+        "answer_text": "ഓടിക്കുന്ന ആൾക്കും പിൻ സീറ്റ് യാത്രക്കാരനും ഇരുവർക്കും ആവശ്യമാണ്."
       }
     ]
   },
   {
     "id": "rta-moto-076",
-    "question_text": "It is best  to use bright colored helmet because:",
+    "question_text": "തിളക്കമുള്ള നിറത്തിലുള്ള ഹെൽമെറ്റ് ഉപയോഗിക്കുന്നതാണ് ഉത്തമം, കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-076-a",
-        "answer_text": "it makes the ride more enjoyable."
+        "answer_text": "ഇത് യാത്രയെ കൂടുതൽ ആനന്ദദായകമാക്കുന്നു."
       },
       {
         "id": "rta-moto-076-b",
-        "answer_text": "it makes the ride a lot easier."
+        "answer_text": "ഇത് യാത്ര വളരെ എളുപ്പമാക്കുന്നു."
       },
       {
         "id": "rta-moto-076-c",
-        "answer_text": "it helps the rider to be more visible."
+        "answer_text": "ഇത് ഓടിക്കുന്ന ആൾ കൂടുതൽ ദൃശ്യമാകാൻ സഹായിക്കുന്നു."
       }
     ]
   },
   {
     "id": "rta-moto-078",
-    "question_text": "When riding, wearing bright colored clothing will help:",
+    "question_text": "ഓടിക്കുമ്പോൾ തിളക്കമുള്ള നിറത്തിലുള്ള വസ്ത്രം ധരിക്കുന്നത് സഹായിക്കും:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-078-a",
-        "answer_text": "other road users see and able to avoid you."
+        "answer_text": "റോഡിലെ മറ്റ് ഉപയോക്താക്കൾക്ക് നിങ്ങളെ കണ്ട് ഒഴിവാക്കാൻ."
       },
       {
         "id": "rta-moto-078-b",
-        "answer_text": "other road users provide you direction."
+        "answer_text": "റോഡിലെ മറ്റ് ഉപയോക്താക്കൾ നിങ്ങൾക്ക് ദിശ കാട്ടാൻ."
       },
       {
         "id": "rta-moto-078-c",
-        "answer_text": "other road users stay closer to you."
+        "answer_text": "റോഡിലെ മറ്റ് ഉപയോക്താക്കൾ നിങ്ങൾക്ക് അടുത്ത് നിൽക്കാൻ."
       }
     ]
   },
   {
     "id": "rta-moto-079",
-    "question_text": "If you are riding in rough roads, slowing down will:",
+    "question_text": "ഇടുങ്ങിയ/ ഉരസൽ നിറഞ്ഞ റോഡുകളിൽ ഓടിക്കുന്നെങ്കിൽ, വേഗം കുറക്കുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-079-a",
-        "answer_text": "help you become oriented."
+        "answer_text": "നിങ്ങൾക്ക് ദിശ മനസ്സിലാക്കാൻ സഹായിക്കും."
       },
       {
         "id": "rta-moto-079-b",
-        "answer_text": "help reduce road shocks."
+        "answer_text": "റോഡ് ഷോക്കുകൾ കുറക്കാൻ സഹായിക്കും."
       },
       {
         "id": "rta-moto-079-c",
-        "answer_text": "help give you time to rest."
+        "answer_text": "നിങ്ങൾക്ക് വിശ്രമിക്കാൻ സമയം നൽകും."
       }
     ]
   },
   {
     "id": "rta-moto-086",
-    "question_text": "Compared to daytime, the speed and distance at night is:",
+    "question_text": "പകലിനെ അപേക്ഷിച്ച് രാത്രിയിൽ വേഗതയും ദൂരവും:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-086-a",
-        "answer_text": "longer than daytime."
+        "answer_text": "പകലിനേക്കാൾ കൂടുതലാണ്."
       },
       {
         "id": "rta-moto-086-b",
-        "answer_text": "more difficult to judge."
+        "answer_text": "കണക്കാക്കാൻ കൂടുതൽ ബുദ്ധിമുട്ടാണ്."
       },
       {
         "id": "rta-moto-086-c",
-        "answer_text": "more difficult to see."
+        "answer_text": "കാണാൻ കൂടുതൽ ബുദ്ധിമുട്ടാണ്."
       }
     ]
   },
   {
     "id": "rta-moto-091",
-    "question_text": "Improve your safety when riding at night by:",
+    "question_text": "രാത്രിയിൽ ഓടിക്കുമ്പോൾ സുരക്ഷ മെച്ചപ്പെടുത്തുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-091-a",
-        "answer_text": "reducing your travel time."
+        "answer_text": "യാത്രാ സമയം കുറച്ചുകൊണ്ട്."
       },
       {
         "id": "rta-moto-091-b",
-        "answer_text": "increasing your visibility."
+        "answer_text": "നിങ്ങളുടെ ദൃശ്യതീവ്രത വർദ്ധിപ്പിച്ചുകൊണ്ട്."
       },
       {
         "id": "rta-moto-091-c",
-        "answer_text": "reducing your following distance."
+        "answer_text": "പിന്തുടരൽ ദൂരം കുറച്ചുകൊണ്ട്."
       }
     ]
   },
   {
     "id": "rta-moto-094",
-    "question_text": "When the bike leans to the right, the pillion passenger should stabilize by:",
+    "question_text": "ബൈക്ക് വലത്തോട്ട് ചരിയുമ്പോൾ, പിന്നിലിരിക്കുന്ന യാത്രക്കാരൻ സ്ഥിരത നിലനിർത്താൻ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-094-a",
-        "answer_text": "leaning to the opposite side."
+        "answer_text": "എതിർ ദിശയിലേക്ക് ചരിയണം."
       },
       {
         "id": "rta-moto-094-b",
-        "answer_text": "leaning to the same (right) side."
+        "answer_text": "അതേ (വലത്) ദിശയിലേക്ക് ചരിയണം."
       },
       {
         "id": "rta-moto-094-c",
-        "answer_text": "leaning forward."
+        "answer_text": "മുന്നോട്ട് ചരിയണം."
       }
     ]
   },
   {
     "id": "rta-moto-096",
-    "question_text": "The chain in your bike should be properly adjusted,",
+    "question_text": "നിങ്ങളുടെ ബൈക്കിലെ ചെയിൻ ശരിയായി ക്രമീകരിക്കണം,",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-096-a",
-        "answer_text": "cleaned and lubricated"
+        "answer_text": "വൃത്തിയാക്കി ലൂബ്രിക്കേറ്റ് ചെയ്തത്"
       },
       {
         "id": "rta-moto-096-b",
-        "answer_text": "clean and fixed."
+        "answer_text": "വൃത്തിയും ഉറപ്പിച്ചതും."
       },
       {
         "id": "rta-moto-096-c",
-        "answer_text": "clean and tidy."
+        "answer_text": "വൃത്തിയും ഭംഗിയുള്ളതും."
       }
     ]
   },
   {
     "id": "rta-moto-099",
-    "question_text": "You will know if your brake is still good by:",
+    "question_text": "നിങ്ങളുടെ ബ്രേക്ക് ഇപ്പോഴും നല്ലതാണെന്ന് നിങ്ങൾക്ക് എങ്ങനെ അറിയാം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-099-a",
-        "answer_text": "looking at wear indicators of the brake pads."
+        "answer_text": "ബ്രേക്ക് പാഡുകളുടെ വേർ ഇൻഡിക്കേറ്ററുകൾ നോക്കി."
       },
       {
         "id": "rta-moto-099-b",
-        "answer_text": "looking at the brake lever."
+        "answer_text": "ബ്രേക്ക് ലിവർ നോക്കി."
       },
       {
         "id": "rta-moto-099-c",
-        "answer_text": "looking at the tires."
+        "answer_text": "ടയറുകൾ നോക്കി."
       }
     ]
   },
   {
     "id": "rta-moto-100",
-    "question_text": "Loose or missing nuts and bolts is among those that:",
+    "question_text": "അയഞ്ഞതോ നഷ്ടപ്പെട്ടതോ ആയ നട്ടുകളും ബോൾട്ടുകളും ഇവയ്ക്കിടയിലുള്ളവയാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-100-a",
-        "answer_text": "must be checked before you go for a ride."
+        "answer_text": "യാത്ര ആരംഭിക്കുന്നതിന് മുമ്പ് പരിശോധിക്കണം."
       },
       {
         "id": "rta-moto-100-b",
-        "answer_text": "must be checked after you go for a ride."
+        "answer_text": "യാത്ര കഴിഞ്ഞ ശേഷം പരിശോധിക്കണം."
       },
       {
         "id": "rta-moto-100-c",
-        "answer_text": "must be checked during the duration of the ride."
+        "answer_text": "യാത്രയ്ക്കിടെ പരിശോധിക്കണം."
       }
     ]
   },
   {
     "id": "rta-moto-102",
-    "question_text": "Before going for a ride, check for:",
+    "question_text": "യാത്ര ആരംഭിക്കുന്നതിന് മുമ്പ്, പരിശോധിക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-102-a",
-        "answer_text": "tire  pressure and tire damage."
+        "answer_text": "ടയർ മർദ്ദവും ടയർ നാശവും."
       },
       {
         "id": "rta-moto-102-b",
-        "answer_text": "the spare tire."
+        "answer_text": "സ്പെയർ ടയർ."
       },
       {
         "id": "rta-moto-102-c",
-        "answer_text": "tire proper lubrication."
+        "answer_text": "ടയറിന്റെ ശരിയായ ലൂബ്രിക്കേഷൻ."
       }
     ]
   },
   {
     "id": "rta-moto-103",
-    "question_text": "To help ensure rider's safety, pre-drive checks:",
+    "question_text": "റൈഡറുടെ സുരക്ഷ ഉറപ്പാക്കാൻ സഹായിക്കുന്നതിന്, ഡ്രൈവ് മുൻ പരിശോധനകൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-103-a",
-        "answer_text": "should be conducted by every rider."
+        "answer_text": "ഓരോ റൈഡറും നടത്തണം."
       },
       {
         "id": "rta-moto-103-b",
-        "answer_text": "should be conducted by pillion passenger."
+        "answer_text": "പിൻ സീറ്റ് യാത്രക്കാരൻ നടത്തണം."
       },
       {
         "id": "rta-moto-103-c",
-        "answer_text": "should be conducted by a new rider."
+        "answer_text": "പുതിയ റൈഡർ മാത്രം നടത്തണം."
       }
     ]
   },
   {
     "id": "rta-moto-104",
-    "question_text": "To prepare for many hazards on the road, build up your skills gradually by;",
+    "question_text": "റോഡിലെ പല അപകടങ്ങൾക്കും തയ്യാറാകാൻ, ക്രമേണ നിങ്ങളുടെ കഴിവുകൾ വർദ്ധിപ്പിക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-104-a",
-        "answer_text": "Riding in daylight before riding at night"
+        "answer_text": "രാത്രി ഓടിക്കുന്നതിന് മുമ്പ് പകൽ ഓടിക്കുക"
       },
       {
         "id": "rta-moto-104-b",
-        "answer_text": "Riding in night time mostly"
+        "answer_text": "കൂടുതലും രാത്രി ഓടിക്കുക"
       },
       {
         "id": "rta-moto-104-c",
-        "answer_text": "Night time or day time is fine for practice riding"
+        "answer_text": "പ്രാക്ടീസ് ഓടിക്കലിന് രാത്രിയോ പകലോ ഇരുതുമോ ശരി"
       }
     ]
   },
   {
     "id": "rta-moto-105",
-    "question_text": "Be aware that your emotion can affect your ability to ride safely. This includes;",
+    "question_text": "നിങ്ങളുടെ വൈകാരിക അവസ്ഥ സുരക്ഷിതമായി ഓടിക്കാനുള്ള നിങ്ങളുടെ കഴിവിനെ ബാധിക്കുമെന്ന് ശ്രദ്ധിക്കുക. ഇതിൽ ഉൾപ്പെടുന്നു:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-105-a",
-        "answer_text": "Being cautious"
+        "answer_text": "ജാഗ്രതയോടെ ഇരിക്കുക"
       },
       {
         "id": "rta-moto-105-b",
-        "answer_text": "Being upset or angry"
+        "answer_text": "അസ്വസ്ഥനോ ദേഷ്യക്കാരനോ ആകുക"
       },
       {
         "id": "rta-moto-105-c",
-        "answer_text": "Being confident"
+        "answer_text": "ആത്മവിശ്വാസമുള്ളവനാകുക"
       }
     ]
   },
   {
     "id": "rta-moto-106",
-    "question_text": "This makes it difficult to concentrate and control your bike at the same time.",
+    "question_text": "ഇത് ഒരേ സമയം ശ്രദ്ധ കേന്ദ്രീകരിക്കാനും ബൈക്ക് നിയന്ത്രിക്കാനും നിങ്ങൾക്ക് ബുദ്ധിമുട്ടാക്കുന്നു.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-106-a",
-        "answer_text": "Learning new techniques"
+        "answer_text": "പുതിയ സാങ്കേതിക വിദ്യകൾ പഠിക്കൽ"
       },
       {
         "id": "rta-moto-106-b",
-        "answer_text": "Taking lots of practice ride"
+        "answer_text": "ധാരാളം പ്രാക്ടീസ് ഓടിക്കൽ"
       },
       {
         "id": "rta-moto-106-c",
-        "answer_text": "Consuming alcohol"
+        "answer_text": "മദ്യം ഉപഭോഗം"
       }
     ]
   },
   {
     "id": "rta-moto-107",
-    "question_text": "What can affect your ability to ride safely on the roads?",
+    "question_text": "റോഡുകളിൽ സുരക്ഷിതമായി ഓടിക്കാനുള്ള നിങ്ങളുടെ കഴിവിനെ എന്ത് ബാധിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-107-a",
-        "answer_text": "Being overconfident"
+        "answer_text": "അമിതമായ ആത്മവിശ്വാസം"
       },
       {
         "id": "rta-moto-107-b",
-        "answer_text": "Being patient"
+        "answer_text": "ക്ഷമ ഉള്ളവനാകുക"
       },
       {
         "id": "rta-moto-107-c",
-        "answer_text": "Riding in the best mood"
+        "answer_text": "ഏറ്റവും നല്ല മനോഭാവത്തോടെ ഓടിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-109",
-    "question_text": "This can make it difficult for you to concentrate and control your bike.",
+    "question_text": "ഇത് ശ്രദ്ധ കേന്ദ്രീകരിക്കാനും ബൈക്ക് നിയന്ത്രിക്കാനും നിങ്ങൾക്ക് ബുദ്ധിമുട്ടാക്കും.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-109-a",
-        "answer_text": "Eating healthy breakfast"
+        "answer_text": "ആരോഗ്യകരമായ പ്രഭാതഭക്ഷണം കഴിക്കൽ"
       },
       {
         "id": "rta-moto-109-b",
-        "answer_text": "Taking lots of practice ride"
+        "answer_text": "ധാരാളം പ്രാക്ടീസ് ഓടിക്കൽ"
       },
       {
         "id": "rta-moto-109-c",
-        "answer_text": "Consuming a small amount of alcohol"
+        "answer_text": "ചെറിയ അളവിൽ മദ്യം കഴിക്കൽ"
       }
     ]
   },
   {
     "id": "rta-moto-112",
-    "question_text": "How can you give yourself more space on the road when riding?",
+    "question_text": "ഓടിക്കുമ്പോൾ റോഡിൽ സ്വയം കൂടുതൽ ഇടം നൽകാൻ എങ്ങനെ കഴിയും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-112-a",
-        "answer_text": "By riding slow"
+        "answer_text": "മന്ദഗതിയിൽ ഓടിക്കുക"
       },
       {
         "id": "rta-moto-112-b",
-        "answer_text": "By thinking ahead"
+        "answer_text": "മുൻകൂട്ടി ചിന്തിക്കുക"
       },
       {
         "id": "rta-moto-112-c",
-        "answer_text": "By checking your mirrors"
+        "answer_text": "കണ്ണാടികൾ പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-115",
-    "question_text": "Wear protective clothing because it helps prevent dehydration. It also;",
+    "question_text": "സംരക്ഷക വസ്ത്രം ധരിക്കുക, കാരണം ഇത് നിർജ്ജലീകരണം തടയാൻ സഹായിക്കുന്നു. ഇത് കൂടാതെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-115-a",
-        "answer_text": "Makes your riding less tiring"
+        "answer_text": "നിങ്ങളുടെ റൈഡിംഗ് കൂടുതൽ ക്ഷീണമില്ലാത്തതാക്കുന്നു"
       },
       {
         "id": "rta-moto-115-b",
-        "answer_text": "Helps to have more balance"
+        "answer_text": "കൂടുതൽ സന്തുലനം നിലനിർത്താൻ സഹായിക്കുന്നു"
       },
       {
         "id": "rta-moto-115-c",
-        "answer_text": "Makes you more fatigued"
+        "answer_text": "നിങ്ങളെ കൂടുതൽ ക്ഷീണിപ്പിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-116",
-    "question_text": "If you are riding for a long period, it helps to;",
+    "question_text": "ദീർഘനേരം റൈഡ് ചെയ്യുകയാണെങ്കിൽ, ഇത് സഹായിക്കും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-116-a",
-        "answer_text": "Ride fast and arrive early"
+        "answer_text": "വേഗത്തിൽ ഓടിക്കുക, നേരത്തെ എത്തുക"
       },
       {
         "id": "rta-moto-116-b",
-        "answer_text": "Have more frequent stops"
+        "answer_text": "കൂടുതൽ ഇടവേളകൾ എടുക്കുക"
       },
       {
         "id": "rta-moto-116-c",
-        "answer_text": "Have heavy meals when taking breaks"
+        "answer_text": "ഇടവേളകളിൽ ഭക്ഷണം കഴിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-117",
-    "question_text": "Resting before you start. It helps in making your;",
+    "question_text": "തുടങ്ങുന്നതിനു മുൻപ് വിശ്രമിക്കുക. ഇത് നിങ്ങളുടെ റൈഡിംഗിനെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-117-a",
-        "answer_text": "Following distance longer"
+        "answer_text": "പിൻ‌ദൂരം കൂടുതൽ ദൈർഘ്യമേറിയതാക്കുന്നു"
       },
       {
         "id": "rta-moto-117-b",
-        "answer_text": "Ride less safe"
+        "answer_text": "റൈഡിംഗ് കൂടുതൽ അസുരക്ഷിതമാക്കുന്നു"
       },
       {
         "id": "rta-moto-117-c",
-        "answer_text": "Ride less tiring"
+        "answer_text": "റൈഡിംഗ് കൂടുതൽ ക്ഷീണമില്ലാത്തതാക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-119",
-    "question_text": "It is not advisable to buy a second hand helmet because:",
+    "question_text": "ഉപയോഗിച്ച ഹെൽമറ്റ് വാങ്ങുന്നത് ഉചിതമല്ല കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-119-a",
-        "answer_text": "Secondhand helmets affects your riding ability"
+        "answer_text": "ഉപയോഗിച്ച ഹെൽമറ്റ് നിങ്ങളുടെ ഓടിക്കൽ ശേഷിയെ ബാധിക്കുന്നു"
       },
       {
         "id": "rta-moto-119-b",
-        "answer_text": "Secondhand helmets may have damage you cannot see"
+        "answer_text": "ഉപയോഗിച്ച ഹെൽമറ്റിന് കാണാനാകാത്ത കേടുകൾ ഉണ്ടായിരിക്കാം"
       },
       {
         "id": "rta-moto-119-c",
-        "answer_text": "Secondhand helmets do not meet the safety standards"
+        "answer_text": "ഉപയോഗിച്ച ഹെൽമറ്റ് സുരക്ഷാ മാനദണ്ഡങ്ങൾ പാലിക്കുന്നില്ല"
       }
     ]
   },
   {
     "id": "rta-moto-120",
-    "question_text": "How can you protect your eyes when riding?",
+    "question_text": "റൈഡ് ചെയ്യുമ്പോൾ നിങ്ങൾക്ക് കണ്ണുകൾ എങ്ങനെ സംരക്ഷിക്കാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-120-a",
-        "answer_text": "Use eye drops"
+        "answer_text": "കണ്ണ് തുള്ളി ഉപയോഗിക്കുക"
       },
       {
         "id": "rta-moto-120-b",
-        "answer_text": "Wear high quality helmet"
+        "answer_text": "ഉയർന്ന നിലവാരത്തിലുള്ള ഹെൽമറ്റ് ധരിക്കുക"
       },
       {
         "id": "rta-moto-120-c",
-        "answer_text": "Wear goggles or visors"
+        "answer_text": "ഗോഗ്ഗിൾസ് അല്ലെങ്കിൽ വൈസർ ധരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-121",
-    "question_text": "If the googles or visors you are using is damaged, it can:",
+    "question_text": "നിങ്ങൾ ഉപയോഗിക്കുന്ന ഗോഗ്ഗിൾസ് അല്ലെങ്കിൽ വൈസർ കേടുപ്പെട്ടിരുന്നാൽ, ഇത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-121-a",
-        "answer_text": "Blur and distort light at night"
+        "answer_text": "രാത്രിയിൽ വെളിച്ചം മങ്ങലാകുകയും വക്രമാകുകയും ചെയ്യാം"
       },
       {
         "id": "rta-moto-121-b",
-        "answer_text": "Affect the effectiveness of your helmet"
+        "answer_text": "നിങ്ങളുടെ ഹെൽമറ്റിന്റെ ഫലപ്രദത ബാധിക്കാം"
       },
       {
         "id": "rta-moto-121-c",
-        "answer_text": "Cause you to ride safely"
+        "answer_text": "നിങ്ങളെ സുരക്ഷിതമായി ഓടിക്കാൻ സഹായിക്കാം"
       }
     ]
   },
   {
     "id": "rta-moto-123",
-    "question_text": "What can help other drivers to see and avoid you on the road especially in poorly lighted areas?",
+    "question_text": "പ്രത്യേകിച്ച് വെളിച്ചം കുറഞ്ഞ പ്രദേശങ്ങളിൽ റോഡിൽ മറ്റ് ഡ്രൈവർമാർക്ക് നിങ്ങളെ കാണാനും ഒഴിവാക്കാനും എന്ത് സഹായിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-123-a",
-        "answer_text": "If you ride fast enough"
+        "answer_text": "നിങ്ങൾ മതിയായ വേഗതയിൽ ഓടിക്കുകയാണെങ്കിൽ"
       },
       {
         "id": "rta-moto-123-b",
-        "answer_text": "If your helmet is brand new"
+        "answer_text": "നിങ്ങളുടെ ഹെൽമറ്റ് ബ്രാൻഡ് പുതിയതാണെങ്കിൽ"
       },
       {
         "id": "rta-moto-123-c",
-        "answer_text": "If you are wearing bright colored clothes"
+        "answer_text": "നിങ്ങൾ തിളക്കമുള്ള നിറത്തിലുള്ള വസ്ത്രം ധരിക്കുകയാണെങ്കിൽ"
       }
     ]
   },
   {
     "id": "rta-moto-125",
-    "question_text": "As you conduct pre-drive check for your bike, the brake should;",
+    "question_text": "ബൈക്കിന്റെ പ്രി-ഡ്രൈവ് ചെക്ക് ചെയ്യുമ്പോൾ, ബ്രേക്ക്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-125-a",
-        "answer_text": "Be well oiled"
+        "answer_text": "നന്നായി എണ്ണ ഇടണം"
       },
       {
         "id": "rta-moto-125-b",
-        "answer_text": "Work smoothly"
+        "answer_text": "സുഗമമായി പ്രവർത്തിക്കണം"
       },
       {
         "id": "rta-moto-125-c",
-        "answer_text": "Pull the cables firmly"
+        "answer_text": "കേബിളുകൾ ദൃഢമായി വലിക്കണം"
       }
     ]
   },
   {
     "id": "rta-moto-126",
-    "question_text": "When is the best time to check and adjust your mirrors?",
+    "question_text": "കണ്ണാടി പരിശോധിക്കാനും ക്രമീകരിക്കാനും ഏറ്റവും നല്ല സമയം എപ്പോഴാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-126-a",
-        "answer_text": "When doing head check"
+        "answer_text": "ഹെഡ് ചെക്ക് ചെയ്യുമ്പോൾ"
       },
       {
         "id": "rta-moto-126-b",
-        "answer_text": "While riding"
+        "answer_text": "ഓടിക്കുമ്പോൾ"
       },
       {
         "id": "rta-moto-126-c",
-        "answer_text": "During pre-ride checks"
+        "answer_text": "പ്രി-റൈഡ് ചെക്കിനിടെ"
       }
     ]
   },
   {
     "id": "rta-moto-129",
-    "question_text": "Proper setting up with your bike require your elbows should be slightly bent and tucked in. Why?",
+    "question_text": "ബൈക്കിൽ ശരിയായ ഇരിപ്പ് ഉറപ്പാക്കാൻ നിങ്ങളുടെ കൈമുട്ടുകൾ അൽപ്പം വളച്ച് അകത്തോട്ടു ചേർത്ത് വയ്ക്കണം. എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-129-a",
-        "answer_text": "to hold the fuel tank firmly with your knees for balance"
+        "answer_text": "സന്തുലനത്തിനായി മുട്ടുകൾ ഉപയോഗിച്ച് ഇന്ധന ടാങ്ക് ഉറപ്പായി പിടിക്കാൻ"
       },
       {
         "id": "rta-moto-129-b",
-        "answer_text": "the soft seat allows you relax and ride safely"
+        "answer_text": "മൃദുവായ സീറ്റ് നിങ്ങളെ ആരാമത്തോടെ സുരക്ഷിതമായി ഓടിക്കാൻ സഹായിക്കുന്നു"
       },
       {
         "id": "rta-moto-129-c",
-        "answer_text": "to absorb bumps when you brake"
+        "answer_text": "ബ്രേക്ക് ചെയ്യുമ്പോൾ കുലുക്കങ്ങൾ ആഗിരണം ചെയ്യാൻ"
       }
     ]
   },
   {
     "id": "rta-moto-138",
-    "question_text": "One of many ways to improve your safety when riding motorcycle is the use of brakes. How?",
+    "question_text": "മോട്ടോർസൈക്കിൾ ഓടിക്കുമ്പോൾ സുരക്ഷ മെച്ചപ്പെടുത്താൻ പല വഴികളിൽ ഒന്ന് ബ്രേക്ക് ഉപയോഗിക്കലാണ്. എങ്ങനെ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-138-a",
-        "answer_text": "start braking early so drivers know you are slowing down"
+        "answer_text": "നേരത്തെ ബ്രേക്ക് ചെയ്യാൻ തുടങ്ങുക, ഡ്രൈവർമാർക്ക് നിങ്ങൾ പതുക്കെ ആകുന്നത് മനസ്സിലാകട്ടെ"
       },
       {
         "id": "rta-moto-138-b",
-        "answer_text": "use bright colored reflective clothing to become more visible"
+        "answer_text": "കൂടുതൽ ദൃശ്യമാകാൻ തിളക്കമുള്ള നിറത്തിലുള്ള പ്രതിഫലന വസ്ത്രം ധരിക്കുക"
       },
       {
         "id": "rta-moto-138-c",
-        "answer_text": "proper use of headlights during the day"
+        "answer_text": "പകൽ ഹെഡ്‌ലൈറ്റിന്റെ ശരിയായ ഉപയോഗം"
       }
     ]
   },
   {
     "id": "rta-moto-144",
-    "question_text": "When you are riding behind a big vehicle, it may be wise to;",
+    "question_text": "ഒരു വലിയ വാഹനത്തിന് പിന്നിൽ ഓടിക്കുമ്പോൾ, ബുദ്ധിപൂർവമായ കാര്യം ഇതായിരിക്കും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-144-a",
-        "answer_text": "Increase your following distance to more than 3 seconds"
+        "answer_text": "3 സെക്കൻഡിലധികം ഫോളോയിങ് ദൂരം വർധിപ്പിക്കുക"
       },
       {
         "id": "rta-moto-144-b",
-        "answer_text": "Increase your speed and reduce your following distance"
+        "answer_text": "വേഗം കൂട്ടി ഫോളോയിങ് ദൂരം കുറക്കുക"
       },
       {
         "id": "rta-moto-144-c",
-        "answer_text": "Stay in that position for as long possible"
+        "answer_text": "കഴിയുന്നത്ര നേരം ആ സ്ഥാനത്ത് തന്നെ നിൽക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-145",
-    "question_text": "As a rider, having more safe space is the best protection you may have. How far should a following distance be?",
+    "question_text": "ഒരു റൈഡർ എന്ന നിലയിൽ, കൂടുതൽ സുരക്ഷിത ഇടം ഉണ്ടായിരിക്കുക എന്നതാണ് നിങ്ങളുടെ ഏറ്റവും മികച്ച സംരക്ഷണം. ഫോളോയിങ് ദൂരം എത്ര ആയിരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-145-a",
-        "answer_text": "2-second gap"
+        "answer_text": "2 സെക്കൻഡ് ഇടവേള"
       },
       {
         "id": "rta-moto-145-b",
-        "answer_text": "3-second gap"
+        "answer_text": "3 സെക്കൻഡ് ഇടവേള"
       },
       {
         "id": "rta-moto-145-c",
-        "answer_text": "1-second gap"
+        "answer_text": "1 സെക്കൻഡ് ഇടവേള"
       }
     ]
   },
   {
     "id": "rta-moto-146",
-    "question_text": "You are riding behind a large vehicle and you estimate you have about 3 seconds behind. What should you do to be more safe?",
+    "question_text": "നിങ്ങൾ ഒരു വലിയ വാഹനത്തിന് പിന്നിൽ ഓടിക്കുകയാണ്, ഏകദേശം 3 സെക്കൻഡ് ദൂരം ഉണ്ടെന്ന് കണക്കാക്കുന്നു. കൂടുതൽ സുരക്ഷിതമാകാൻ നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-146-a",
-        "answer_text": "improve your forward view by increasing the following distance"
+        "answer_text": "ഫോളോയിങ് ദൂരം കൂട്ടി മുന്നിലെ കാഴ്ച മെച്ചപ്പെടുത്തുക"
       },
       {
         "id": "rta-moto-146-b",
-        "answer_text": "maintain the current following distance"
+        "answer_text": "നിലവിലെ ഫോളോയിങ് ദൂരം നിലനിർത്തുക"
       },
       {
         "id": "rta-moto-146-c",
-        "answer_text": "position away from the blind spots of the other vehicles"
+        "answer_text": "മറ്റ് വാഹനങ്ങളുടെ ബ്ലൈൻഡ് സ്പോട്ടുകളിൽ നിന്ന് മാറി നിൽക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-147",
-    "question_text": "On your ride you noticed that you are giving more attention  the vehicle in front of you. What should you do?",
+    "question_text": "യാത്രയ്ക്കിടെ മുന്നിലെ വാഹനത്തിൽ കൂടുതൽ ശ്രദ്ധ കൊടുക്കുകയാണെന്ന് നിങ്ങൾ ശ്രദ്ധിച്ചു. നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-147-a",
-        "answer_text": "speed up, your following distance may be too long"
+        "answer_text": "വേഗം കൂട്ടുക, ഫോളോയിങ് ദൂരം ഒരുപക്ഷേ വളരെ കൂടുതലാണ്"
       },
       {
         "id": "rta-moto-147-b",
-        "answer_text": "slow down, your following distance may be too short"
+        "answer_text": "വേഗം കുറക്കുക, ഫോളോയിങ് ദൂരം ഒരുപക്ഷേ വളരെ കുറവാണ്"
       },
       {
         "id": "rta-moto-147-c",
-        "answer_text": "sound your horn, so the vehicle in front will move to the next lane"
+        "answer_text": "ഹോൺ മുഴക്കുക, മുന്നിലെ വാഹനം അടുത്ത ലേനിലേക്ക് മാറും"
       }
     ]
   },
   {
     "id": "rta-moto-161",
-    "question_text": "To improve safety, it is best for pillion passenger to;",
+    "question_text": "സുരക്ഷ മെച്ചപ്പെടുത്താൻ, പിൻ യാത്രക്കാരന് ഏറ്റവും നല്ലത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-161-a",
-        "answer_text": "serve as counter weight when the rider leans during turns"
+        "answer_text": "വളവുകളിൽ റൈഡർ ചരിയുമ്പോൾ കൌണ്ടർ വെയ്റ്റ് ആയി പ്രവർത്തിക്കുക"
       },
       {
         "id": "rta-moto-161-b",
-        "answer_text": "sit as far back as possible"
+        "answer_text": "കഴിവതും പിന്നിൽ ഇരിക്കുക"
       },
       {
         "id": "rta-moto-161-c",
-        "answer_text": "wear brightly colored protective clothing and helmet as the rider."
+        "answer_text": "റൈഡർ ധരിക്കുന്നതുപോലെ തിളക്കമുള്ള നിറത്തിൽ സംരക്ഷണ വസ്ത്രവും ഹെൽമറ്റും ധരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-162",
-    "question_text": "During the ride, the rider and pillion passenger should avoid talking to each other because;",
+    "question_text": "യാത്രയ്ക്കിടെ, റൈഡറും പിൻ യാത്രക്കാരനും പരസ്പരം സംസാരിക്കുന്നത് ഒഴിവാക്കണം, കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-162-a",
-        "answer_text": "this will improve the ride and make it safer"
+        "answer_text": "ഇത് യാത്ര മെച്ചപ്പെടുത്തുകയും സുരക്ഷിതമാക്കുകയും ചെയ്യും"
       },
       {
         "id": "rta-moto-162-b",
-        "answer_text": "this will reduce the rider's focus and attention on the road"
+        "answer_text": "ഇത് റോഡിൽ റൈഡറുടെ ശ്രദ്ധ കുറയ്ക്കും"
       },
       {
         "id": "rta-moto-162-c",
-        "answer_text": "talking on the phone while riding is not allowed"
+        "answer_text": "യാത്ര ചെയ്യുമ്പോൾ ഫോണിൽ സംസാരിക്കുന്നത് അനുവദിക്കപ്പെടുന്നില്ല"
       }
     ]
   },
   {
     "id": "rta-moto-163",
-    "question_text": "You and your friend have seated on the bike and ready for a ride. To have a better view of the traffic around, what should you do?",
+    "question_text": "നിങ്ങളും നിങ്ങളുടെ സുഹൃത്തും ബൈക്കിൽ ഇരുന്ന് യാത്രയ്ക്ക് തയ്യാറാണ്. ചുറ്റുമുള്ള ഗതാഗതം കൂടുതൽ വ്യക്തമായി കാണാൻ നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-163-a",
-        "answer_text": "adjust the mirrors before the ride when both you and your friend have seated"
+        "answer_text": "നിങ്ങൾ ഇരുവരും ഇരുന്ന ശേഷം യാത്രയ്ക്ക് മുൻപ് മിററുകൾ ക്രമീകരിക്കുക"
       },
       {
         "id": "rta-moto-163-b",
-        "answer_text": "adjust the mirrors during the ride and when both you and your friend have seated"
+        "answer_text": "നിങ്ങൾ ഇരുവരും ഇരുന്ന ശേഷം യാത്രയ്ക്കിടെ മിററുകൾ ക്രമീകരിക്കുക"
       },
       {
         "id": "rta-moto-163-c",
-        "answer_text": "ask your friend to check the view from the rear view mirrors from time to time"
+        "answer_text": "നിങ്ങളുടെ സുഹൃത്തിനോട് ഇടയ്ക്കിടെ റിയർ വ്യൂ മിററിൽ നിന്ന് കാഴ്ച പരിശോധിക്കാൻ ആവശ്യപ്പെടുക"
       }
     ]
   },
   {
     "id": "rta-moto-174",
-    "question_text": "The tire is not flat but your bike begins to wobble from side to side. What should you do first in this situation?",
+    "question_text": "ടയർ പഞ്ചർ ആയിട്ടില്ലെങ്കിലും നിങ്ങളുടെ ബൈക്ക് ഒരു വശത്തുനിന്ന് മറുവശത്തേക്ക് ആടാൻ തുടങ്ങുന്നു. ഈ സാഹചര്യത്തിൽ നിങ്ങൾ ആദ്യം എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-174-a",
-        "answer_text": "apply both brakes carefully and slow down gradually"
+        "answer_text": "രണ്ട് ബ്രേക്കുകളും ശ്രദ്ധാപൂർവ്വം പ്രയോഗിക്കുക, ക്രമേണ വേഗത കുറയ്ക്കുക"
       },
       {
         "id": "rta-moto-174-b",
-        "answer_text": "check the tires for wear and tear"
+        "answer_text": "ടയറുകളുടെ തേയ്മാനം പരിശോധിക്കുക"
       },
       {
         "id": "rta-moto-174-c",
-        "answer_text": "a heavy load is evenly distributed"
+        "answer_text": "ഭാരമേറിയ ഭാരം തുല്യമായി വിതരണം ചെയ്തിട്ടുണ്ട്"
       }
     ]
   },
   {
     "id": "rta-moto-176",
-    "question_text": "Your throttle is stuck  when you are not able to slow the speed of the engine. What are two (2) things you can do?",
+    "question_text": "നിങ്ങളുടെ ത്രോട്ടിൽ കുടുങ്ങി എഞ്ചിന്റെ വേഗത കുറയ്ക്കാൻ കഴിയുന്നില്ല. നിങ്ങൾക്ക് ചെയ്യാൻ കഴിയുന്ന രണ്ട് (2) കാര്യങ്ങൾ എന്തൊക്കെ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-176-a",
-        "answer_text": "try and unstock the throttle and then slow down to stop"
+        "answer_text": "ത്രോട്ടിൽ അഴിക്കാൻ ശ്രമിക്കുക, പിന്നെ പതുക്കെ നിർത്തുക"
       },
       {
         "id": "rta-moto-176-b",
-        "answer_text": "pull off the road and brake gently to a stop, then stop engine"
+        "answer_text": "റോഡിൽ നിന്ന് മാറുക, ബ്രേക്ക് ചെയ്ത് നിർത്തുക, ശേഷം എഞ്ചിൻ ഓഫ് ചെയ്യുക"
       },
       {
         "id": "rta-moto-176-c",
-        "answer_text": "call emergency service immediately"
+        "answer_text": "ഉടൻ അടിയന്തര സേവനങ്ങളെ വിളിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-186",
-    "question_text": "The road is slippery making the riding condition poor. It is a good idea to;",
+    "question_text": "റോഡ് വഴുക്കലുള്ളതാണ്, ഇത് റൈഡിംഗ് അവസ്ഥ മോശമാക്കുന്നു. ഇത് ചെയ്യുന്നത് നല്ലതാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-186-a",
-        "answer_text": "increase the speed and reach destination quickly"
+        "answer_text": "വേഗം കൂട്ടി ലക്ഷ്യസ്ഥാനത്ത് വേഗം എത്തുക"
       },
       {
         "id": "rta-moto-186-b",
-        "answer_text": "increase the following distance to 3 seconds"
+        "answer_text": "പിൻദൂരം 3 സെക്കൻഡ് ആക്കി കൂട്ടുക"
       },
       {
         "id": "rta-moto-186-c",
-        "answer_text": "increase the following distance to more than 3 seconds"
+        "answer_text": "പിൻദൂരം 3 സെക്കൻഡിലും കൂടുതൽ ആക്കി കൂട്ടുക"
       }
     ]
   },
   {
     "id": "rta-moto-187",
-    "question_text": "You are passing cars that are parked on the side, what precaution can you take to stay safe?",
+    "question_text": "വശത്ത് പാർക്ക് ചെയ്ത കാറുകളുടെ അടുത്ത് കൂടി കടന്നുപോകുകയാണ്, സുരക്ഷിതരായിരിക്കാൻ നിങ്ങൾ എന്ത് മുൻകരുതൽ എടുക്കാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-187-a",
-        "answer_text": "change position and have more space to maneuver"
+        "answer_text": "സ്ഥാനം മാറ്റി കൗശലത്തിന് കൂടുതൽ ഇടം ഉണ്ടാക്കുക"
       },
       {
         "id": "rta-moto-187-b",
-        "answer_text": "speed up to pass the area quickly"
+        "answer_text": "പ്രദേശം വേഗം കടന്നുപോകാൻ വേഗം കൂട്ടുക"
       },
       {
         "id": "rta-moto-187-c",
-        "answer_text": "look for alternative routes to use"
+        "answer_text": "ഉപയോഗിക്കാൻ ബദൽ റൂട്ടുകൾ തിരയുക"
       }
     ]
   },
   {
     "id": "rta-moto-191",
-    "question_text": "Riding on  bumpy roads, how can you let your bike suspension to work properly?",
+    "question_text": "ഉരുളൻ റോഡുകളിൽ റൈഡ് ചെയ്യുമ്പോൾ, ബൈക്കിന്റെ സസ്പെൻഷൻ ശരിയായി പ്രവർത്തിക്കാൻ അനുവദിക്കാൻ നിങ്ങൾ എന്തുചെയ്യും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-191-a",
-        "answer_text": "By speeding up"
+        "answer_text": "വേഗത കൂട്ടി"
       },
       {
         "id": "rta-moto-191-b",
-        "answer_text": "by riding upright"
+        "answer_text": "നേരെ ഇരുന്ന് റൈഡ് ചെയ്ത്"
       },
       {
         "id": "rta-moto-191-c",
-        "answer_text": "by slowing down"
+        "answer_text": "വേഗത കുറച്ച്"
       }
     ]
   },
   {
     "id": "rta-moto-192",
-    "question_text": "Riding on bumpy roads can affect your steering as well as the suspension. Improve your control by;",
+    "question_text": "ഉരുളൻ റോഡുകളിൽ റൈഡ് ചെയ്യുന്നത് നിങ്ങളുടെ സ്റ്റിയറിംഗ്, സസ്പെൻഷൻ രണ്ടിനെയും ബാധിക്കാം. ഇങ്ങനെ നിയന്ത്രണം മെച്ചപ്പെടുത്തുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-192-a",
-        "answer_text": "raising yourself a little on the foot pegs to lessen the shocks on knees and elbows."
+        "answer_text": "മുട്ടുകളിലും കൈമുട്ടുകളിലും ആഘാതം കുറയ്ക്കാൻ ഫുട്ട് പെഗ്ഗുകളിൽ അൽപ്പം ഉയർന്ന് ഇരിക്കുക"
       },
       {
         "id": "rta-moto-192-b",
-        "answer_text": "staying on seated position and reducing the speed"
+        "answer_text": "ഇരിക്കുന്ന നിലയിൽ നിൽക്കുകയും വേഗത കുറയ്ക്കുകയും ചെയ്യുക"
       },
       {
         "id": "rta-moto-192-c",
-        "answer_text": "leaning forward and increasing the speed"
+        "answer_text": "മുന്നോട്ട് ചരിഞ്ഞ് വേഗത കൂട്ടുക"
       }
     ]
   },
   {
     "id": "rta-hvb-001",
-    "question_text": "A Light Bus may seat:",
+    "question_text": "ഒരു ലൈറ്റ് ബസ്സിൽ ഇരിക്കാം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-001-a",
-        "answer_text": "up to 26 passengers not including the driver."
+        "answer_text": "ഡ്രൈവർ ഒഴികെ 26 യാത്രക്കാർ വരെ."
       },
       {
         "id": "rta-hvb-001-b",
-        "answer_text": "up to 12 adults, including the driver."
+        "answer_text": "ഡ്രൈവർ ഉൾപ്പെടെ 12 മുതിർന്നവർ വരെ."
       },
       {
         "id": "rta-hvb-001-c",
-        "answer_text": "up to 12 adults, not including the driver."
+        "answer_text": "ഡ്രൈവർ ഒഴികെ 12 മുതിർന്നവർ വരെ."
       }
     ]
   },
   {
     "id": "rta-hvb-005",
-    "question_text": "If you must drive long distances with a cold, it's best to:",
+    "question_text": "ജലദോഷം ഉള്ളപ്പോൾ നിങ്ങൾ ദീർഘദൂരം ഓടിക്കേണ്ടി വന്നാൽ, ഉത്തമം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-005-a",
-        "answer_text": "take cold tablets."
+        "answer_text": "ജലദോഷ ഗുളികകൾ കഴിക്കുക."
       },
       {
         "id": "rta-hvb-005-b",
-        "answer_text": "drive longer periods before taking a break."
+        "answer_text": "ഇടവേള എടുക്കുന്നതിന് മുമ്പ് കൂടുതൽ നേരം ഓടിക്കുക."
       },
       {
         "id": "rta-hvb-005-c",
-        "answer_text": "drive with the cold."
+        "answer_text": "ജലദോഷം ഉള്ളപ്പോൾ ഓടിക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-006",
-    "question_text": "The best way to prevent fatigue is to make trips during:",
+    "question_text": "ക്ഷീണം തടയാനുള്ള ഏറ്റവും നല്ല മാർഗം _______ സമയത്ത് യാത്ര ചെയ്യുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-006-a",
-        "answer_text": "hours you are normally awake."
+        "answer_text": "നിങ്ങൾ സാധാരണ ഉണർന്നിരിക്കുന്ന മണിക്കൂറുകൾ."
       },
       {
         "id": "rta-hvb-006-b",
-        "answer_text": "daylight hours only."
+        "answer_text": "പകൽ മണിക്കൂറുകൾ മാത്രം."
       },
       {
         "id": "rta-hvb-006-c",
-        "answer_text": "at night only."
+        "answer_text": "രാത്രി മാത്രം."
       }
     ]
   },
   {
     "id": "rta-hvb-007",
-    "question_text": "During rest periods, light exercise such as touching your toes:",
+    "question_text": "വിശ്രമ ഇടവേളകളിൽ, കാൽവിരൽ തൊടുന്നത് പോലുള്ള ലഘു വ്യായാമം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-007-a",
-        "answer_text": "can help you keep awake."
+        "answer_text": "നിങ്ങളെ ഉണർന്നിരിക്കാൻ സഹായിക്കും."
       },
       {
         "id": "rta-hvb-007-b",
-        "answer_text": "does not affect your level of alertness."
+        "answer_text": "നിങ്ങളുടെ ജാഗ്രതയുടെ അളവ് ബാധിക്കില്ല."
       },
       {
         "id": "rta-hvb-007-c",
-        "answer_text": "should not be done before a long trip."
+        "answer_text": "ദീർഘ യാത്രയ്ക്ക് മുമ്പ് ചെയ്യരുത്."
       }
     ]
   },
   {
     "id": "rta-hvb-008",
-    "question_text": "Which is most likely to cause drowsiness when driving?",
+    "question_text": "ഡ്രൈവ് ചെയ്യുമ്പോൾ മയക്കം ഉണ്ടാകാൻ ഏറ്റവും സാധ്യത ഏതിൽ നിന്ന്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-008-a",
-        "answer_text": "Taking cold tablets."
+        "answer_text": "ജലദോഷ ഗുളികകൾ കഴിക്കുന്നത്."
       },
       {
         "id": "rta-hvb-008-b",
-        "answer_text": "Suffering from hay-fever."
+        "answer_text": "ഹേ-ഫീവർ ബാധിക്കുന്നത്."
       },
       {
         "id": "rta-hvb-008-c",
-        "answer_text": "Taking a short nap before driving."
+        "answer_text": "ഡ്രൈവ് ചെയ്യുന്നതിന് മുമ്പ് ഒരു ഹ്രസ്വ ഉറക്കം."
       }
     ]
   },
   {
     "id": "rta-hvb-009",
-    "question_text": "The best time to take a short break is:",
+    "question_text": "ഒരു ഹ്രസ്വ വിശ്രമം എടുക്കാനുള്ള ഏറ്റവും നല്ല സമയം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-009-a",
-        "answer_text": "before you become tired."
+        "answer_text": "ക്ഷീണം അനുഭവപ്പെടുന്നതിന് മുമ്പ്."
       },
       {
         "id": "rta-hvb-009-b",
-        "answer_text": "as soon as you become tired."
+        "answer_text": "ക്ഷീണം അനുഭവപ്പെടുന്നതോടെ."
       },
       {
         "id": "rta-hvb-009-c",
-        "answer_text": "as soon as you reach your destination."
+        "answer_text": "ലക്ഷ്യസ്ഥാനത്ത് എത്തുന്നതോടെ."
       }
     ]
   },
   {
     "id": "rta-hvb-010",
-    "question_text": "Which food would be best for eating on a long trip?",
+    "question_text": "ദീർഘ യാത്രയിൽ കഴിക്കാൻ ഏറ്റവും അനുയോജ്യമായ ഭക്ഷണം ഏതാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-010-a",
-        "answer_text": "A hamburger."
+        "answer_text": "ഒരു ഹാംബർഗർ."
       },
       {
         "id": "rta-hvb-010-b",
-        "answer_text": "A bag of fruit."
+        "answer_text": "ഒരു ബാഗ് പഴങ്ങൾ."
       },
       {
         "id": "rta-hvb-010-c",
-        "answer_text": "A bowl of pasta."
+        "answer_text": "ഒരു കിണ്ണം പാസ്ത."
       }
     ]
   },
   {
     "id": "rta-hvb-012",
-    "question_text": "Low tire pressure:",
+    "question_text": "ടയറിൽ കുറഞ്ഞ മർദ്ദം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-012-a",
-        "answer_text": "makes handling more difficult and increases the chance of a tire fire."
+        "answer_text": "വാഹനം ഓടിക്കുന്നത് ബുദ്ധിമുട്ടാക്കുകയും ടയർ തീ പിടിക്കാനുള്ള സാധ്യത വർദ്ധിപ്പിക്കുകയും ചെയ്യുന്നു."
       },
       {
         "id": "rta-hvb-012-b",
-        "answer_text": "makes handling more difficult, but lessens the chance of a tire fire."
+        "answer_text": "വാഹനം ഓടിക്കുന്നത് ബുദ്ധിമുട്ടാക്കുന്നു, എന്നാൽ ടയർ തീ പിടിക്കാനുള്ള സാധ്യത കുറയ്ക്കുന്നു."
       },
       {
         "id": "rta-hvb-012-c",
-        "answer_text": "improves handling and increases the chance of a tire fire."
+        "answer_text": "വാഹനം ഓടിക്കുന്നത് മെച്ചപ്പെടുത്തുകയും ടയർ തീ പിടിക്കാനുള്ള സാധ്യത വർദ്ധിപ്പിക്കുകയും ചെയ്യുന്നു."
       }
     ]
   },
   {
     "id": "rta-hvb-014",
-    "question_text": "The main worry about rust streaks around wheel nuts is that:",
+    "question_text": "ചക്ര നട്ടുകൾക്ക് ചുറ്റുമുള്ള തുരുമ്പ് വരകളെക്കുറിച്ചുള്ള പ്രധാന ആശങ്ക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-014-a",
-        "answer_text": "the wheel nuts might be loose."
+        "answer_text": "ചക്ര നട്ടുകൾ അയഞ്ഞുപോകാം."
       },
       {
         "id": "rta-hvb-014-b",
-        "answer_text": "the wheel might become damaged by rust."
+        "answer_text": "ചക്രം തുരുമ്പ് മൂലം കേടാകാം."
       },
       {
         "id": "rta-hvb-014-c",
-        "answer_text": "the tire is likely to lose pressure or come off the rim."
+        "answer_text": "ടയറിന്റെ മർദ്ദം കുറയാം അല്ലെങ്കിൽ റിമിൽ നിന്ന് ഊർന്നുപോകാം."
       }
     ]
   },
   {
     "id": "rta-hvb-015",
-    "question_text": "To take a curve to the left, your vehicle should be steered:",
+    "question_text": "ഇടതുവശത്തേക്ക് വളവ് എടുക്കാൻ, നിങ്ങളുടെ വാഹനം ഓടിക്കേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-015-a",
-        "answer_text": "close to the centre line."
+        "answer_text": "കേന്ദ്ര രേഖയ്ക്ക് അടുത്ത്."
       },
       {
         "id": "rta-hvb-015-b",
-        "answer_text": "close to the right side of your lane"
+        "answer_text": "നിങ്ങളുടെ ലെയ്നിന്റെ വലതുവശത്തിന് അടുത്ത്."
       },
       {
         "id": "rta-hvb-015-c",
-        "answer_text": "near the middle of your lane."
+        "answer_text": "നിങ്ങളുടെ ലെയ്നിന്റെ മധ്യഭാഗത്തിന് അടുത്ത്."
       }
     ]
   },
   {
     "id": "rta-hvb-016",
-    "question_text": "The amount of cut-in of a heavy vehicle depends on:",
+    "question_text": "ഒരു ഭാരമേറിയ വാഹനത്തിന്റെ കട്ട്-ഇൻ എത്രമാത്രമുണ്ടാകും എന്നത് ആശ്രയിക്കുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-016-a",
-        "answer_text": "the length of the vehicle and the sharpness of the turn."
+        "answer_text": "വാഹനത്തിന്റെ നീളത്തിലും വളവിന്റെ തീക്ഷ്ണതയിലും."
       },
       {
         "id": "rta-hvb-016-b",
-        "answer_text": "the width of the vehicle."
+        "answer_text": "വാഹനത്തിന്റെ വീതിയിൽ."
       },
       {
         "id": "rta-hvb-016-c",
-        "answer_text": "the width of the street you are entering."
+        "answer_text": "നിങ്ങൾ പ്രവേശിക്കുന്ന തെരുവിന്റെ വീതിയിൽ."
       }
     ]
   },
   {
     "id": "rta-hvb-023",
-    "question_text": "When driving a heavy vehicle on a left hand bend, you should drive:",
+    "question_text": "ഇടതു കൈ വളവിൽ ഭാരമേറിയ വാഹനം ഓടിക്കുമ്പോൾ, നിങ്ങൾ ഓടിക്കേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-023-a",
-        "answer_text": "close to the right of the lane."
+        "answer_text": "ലെയ്നിന്റെ വലതുവശത്തിന് അടുത്ത്."
       },
       {
         "id": "rta-hvb-023-b",
-        "answer_text": "close to the left of the lane."
+        "answer_text": "ലെയ്നിന്റെ ഇടതുവശത്തിന് അടുത്ത്."
       },
       {
         "id": "rta-hvb-023-c",
-        "answer_text": "in the middle of the lane."
+        "answer_text": "ലെയ്നിന്റെ മധ്യഭാഗത്ത്."
       }
     ]
   },
   {
     "id": "rta-hvb-024",
-    "question_text": "On a sharp left turn, cut-in is:",
+    "question_text": "ഒരു കൂർത്ത ഇടത് വളവിൽ, കട്ട്-ഇൻ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-024-a",
-        "answer_text": "more than on a wide turn."
+        "answer_text": "വിശാലമായ വളവിനേക്കാൾ കൂടുതലാണ്."
       },
       {
         "id": "rta-hvb-024-b",
-        "answer_text": "less than on a wide turn."
+        "answer_text": "വിശാലമായ വളവിനേക്കാൾ കുറവാണ്."
       },
       {
         "id": "rta-hvb-024-c",
-        "answer_text": "the same as on a wide turn."
+        "answer_text": "വിശാലമായ വളവിലേതിന് തുല്യമാണ്."
       }
     ]
   },
   {
     "id": "rta-hvb-025",
-    "question_text": "For a longer vehicle, cut-in is:",
+    "question_text": "നീളമുള്ള വാഹനത്തിന്, കട്ട്-ഇൻ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-025-a",
-        "answer_text": "greater than it is for a shorter vehicle."
+        "answer_text": "ചെറിയ വാഹനത്തേക്കാൾ കൂടുതലാണ്."
       },
       {
         "id": "rta-hvb-025-b",
-        "answer_text": "smaller than it is for a shorter vehicle."
+        "answer_text": "ചെറിയ വാഹനത്തേക്കാൾ കുറവാണ്."
       },
       {
         "id": "rta-hvb-025-c",
-        "answer_text": "the same as it is for a shorter vehicle."
+        "answer_text": "ചെറിയ വാഹനത്തിലേതിന് തുല്യമാണ്."
       }
     ]
   },
   {
     "id": "rta-hvb-027",
-    "question_text": "Because large vehicles take a longer time to slow down, you should know what is on the road ahead up to:",
+    "question_text": "വലിയ വാഹനങ്ങൾ മന്ദഗതിയിലാകാൻ കൂടുതൽ സമയം ആവശ്യമായതിനാൽ, മുന്നോട്ടുള്ള റോഡിൽ എന്തുണ്ടെന്ന് നിങ്ങൾ അറിഞ്ഞിരിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-027-a",
-        "answer_text": "8 to 10 seconds."
+        "answer_text": "8 മുതൽ 10 സെക്കൻഡ് വരെ."
       },
       {
         "id": "rta-hvb-027-b",
-        "answer_text": "12 to 15 seconds."
+        "answer_text": "12 മുതൽ 15 സെക്കൻഡ് വരെ."
       },
       {
         "id": "rta-hvb-027-c",
-        "answer_text": "4 to 6 seconds."
+        "answer_text": "4 മുതൽ 6 സെക്കൻഡ് വരെ."
       }
     ]
   },
   {
     "id": "rta-hvb-028",
-    "question_text": "When driving in the city, look ahead as far as:",
+    "question_text": "നഗരത്തിൽ വാഹനം ഓടിക്കുമ്പോൾ, ഇത്ര ദൂരം മുന്നോട്ട് നോക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-028-a",
-        "answer_text": "one-quarter block."
+        "answer_text": "കാൽ ബ്ലോക്ക്."
       },
       {
         "id": "rta-hvb-028-b",
-        "answer_text": "one-half block."
+        "answer_text": "അര ബ്ലോക്ക്."
       },
       {
         "id": "rta-hvb-028-c",
-        "answer_text": "one full block."
+        "answer_text": "ഒരു മുഴുവൻ ബ്ലോക്ക്."
       }
     ]
   },
   {
     "id": "rta-hvb-034",
-    "question_text": "3 things a heavy vehicle driver must consider when reversing:",
+    "question_text": "പിന്നോക്കം പോകുമ്പോൾ ഒരു ഭാരമേറിയ വാഹന ഡ്രൈവർ പരിഗണിക്കേണ്ട 3 കാര്യങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-034-a",
-        "answer_text": "Reverse slowly, check tires, adjust steering."
+        "answer_text": "പതുക്കെ പിന്നോക്കം പോകുക, ടയറുകൾ പരിശോധിക്കുക, സ്റ്റിയറിംഗ് ക്രമീകരിക്കുക."
       },
       {
         "id": "rta-hvb-034-b",
-        "answer_text": "Inspect path, check path, reverse on right side only."
+        "answer_text": "വഴി പരിശോധിക്കുക, വഴി ചെക്ക് ചെയ്യുക, വലത് വശത്ത് മാത്രം പിന്നോക്കം പോകുക."
       },
       {
         "id": "rta-hvb-034-c",
-        "answer_text": "Inspect path, Check clearance, Reverse slowly."
+        "answer_text": "വഴി പരിശോധിക്കുക, ക്ലിയറൻസ് ചെക്ക് ചെയ്യുക, പതുക്കെ പിന്നോക്കം പോകുക."
       }
     ]
   },
   {
     "id": "rta-hvb-043",
-    "question_text": "Most brake system failures occur because of:",
+    "question_text": "ബ്രേക്ക് സിസ്റ്റം തകരാറുകളിൽ ഭൂരിഭാഗവും ഉണ്ടാകുന്നത് ഇതുമൂലമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-043-a",
-        "answer_text": "unsuitable brake use."
+        "answer_text": "അനുചിതമായ ബ്രേക്ക് ഉപയോഗം."
       },
       {
         "id": "rta-hvb-043-b",
-        "answer_text": "poorly maintained brakes."
+        "answer_text": "അശ്രദ്ധയോടെ സൂക്ഷിക്കപ്പെട്ട ബ്രേക്കുകൾ."
       },
       {
         "id": "rta-hvb-043-c",
-        "answer_text": "damaged brakes."
+        "answer_text": "കേടായ ബ്രേക്കുകൾ."
       }
     ]
   },
   {
     "id": "rta-hvb-062",
-    "question_text": "When uncoupling an articulated vehicle, if the turntable release handle will not move, release pressure by:",
+    "question_text": "ഒരു ആർട്ടിക്കുലേറ്റഡ് വാഹനം വേർപ്പെടുത്തുമ്പോൾ, ടേൺടേബിൾ റിലീസ് ഹാൻഡിൽ അനങ്ങുന്നില്ലെങ്കിൽ, മർദ്ദം ഒഴിവാക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-062-a",
-        "answer_text": "gently reversing the prime mover."
+        "answer_text": "പ്രൈം മൂവർ സാവധാനം പിന്നോട്ട് ഓടിച്ചുകൊണ്ട്."
       },
       {
         "id": "rta-hvb-062-b",
-        "answer_text": "raising the landing gear slightly."
+        "answer_text": "ലാൻഡിംഗ് ഗിയർ അൽപ്പം ഉയർത്തുന്നതിലൂടെ."
       },
       {
         "id": "rta-hvb-062-c",
-        "answer_text": "lowering the landing gear further."
+        "answer_text": "ലാൻഡിംഗ് ഗിയർ കൂടുതൽ താഴ്ത്തുന്നതിലൂടെ."
       }
     ]
   },
   {
     "id": "rta-hvb-072",
-    "question_text": "Before pulling out from a bus stop you should:",
+    "question_text": "ബസ് സ്റ്റോപ്പിൽ നിന്ന് പുറത്തിറങ്ങുന്നതിന് മുമ്പ് നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-072-a",
-        "answer_text": "close passenger doors, then re-check your mirrors."
+        "answer_text": "യാത്രക്കാരുടെ വാതിലുകൾ അടയ്ക്കുക, തുടർന്ന് കണ്ണാടികൾ വീണ്ടും പരിശോധിക്കുക."
       },
       {
         "id": "rta-hvb-072-b",
-        "answer_text": "ask all passengers to sit down."
+        "answer_text": "എല്ലാ യാത്രക്കാരോടും ഇരിക്കാൻ ആവശ്യപ്പെടുക."
       },
       {
         "id": "rta-hvb-072-c",
-        "answer_text": "close doors while leaving the curb."
+        "answer_text": "നടപ്പാത വിടുമ്പോൾ വാതിലുകൾ അടയ്ക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-073",
-    "question_text": "Bus drivers are responsible for the safety of their passengers:",
+    "question_text": "ബസ് ഡ്രൈവർമാർ അവരുടെ യാത്രക്കാരുടെ സുരക്ഷയ്ക്ക് ഉത്തരവാദികൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-073-a",
-        "answer_text": "only when they are getting on or off the bus."
+        "answer_text": "അവർ ബസിൽ കയറുകയോ ഇറങ്ങുകയോ ചെയ്യുമ്പോൾ മാത്രം."
       },
       {
         "id": "rta-hvb-073-b",
-        "answer_text": "only when they are travelling in a moving bus."
+        "answer_text": "അവർ ഓടുന്ന ബസിൽ യാത്ര ചെയ്യുമ്പോൾ മാത്രം."
       },
       {
         "id": "rta-hvb-073-c",
-        "answer_text": "at all times during their travel."
+        "answer_text": "യാത്രയ്ക്കിടയിൽ എല്ലായ്പ്പോഴും."
       }
     ]
   },
   {
     "id": "rta-hvb-074",
-    "question_text": "Before starting your bus trip you should check to see that:",
+    "question_text": "ബസ് യാത്ര ആരംഭിക്കുന്നതിന് മുമ്പ് നിങ്ങൾ പരിശോധിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-074-a",
-        "answer_text": "passenger seats are free to slide and tilt."
+        "answer_text": "യാത്രക്കാരുടെ ഇരിക്കകൾ സ്വതന്ത്രമായി സ്ലൈഡ് ചെയ്യാനും ചരിക്കാനും കഴിയും."
       },
       {
         "id": "rta-hvb-074-b",
-        "answer_text": "steps and walkways are clear for passengers."
+        "answer_text": "യാത്രക്കാർക്കായി പടികളും നടവഴികളും ഒഴിഞ്ഞിരിക്കുന്നു."
       },
       {
         "id": "rta-hvb-074-c",
-        "answer_text": "mirrors can be adjusted while you are driving."
+        "answer_text": "ഡ്രൈവ് ചെയ്യുമ്പോൾ കണ്ണാടികൾ ക്രമീകരിക്കാം."
       }
     ]
   },
   {
     "id": "rta-hvb-076",
-    "question_text": "The bus driver is responsible for passengers:",
+    "question_text": "ബസ് ഡ്രൈവർ യാത്രക്കാർക്ക് ഉത്തരവാദി:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-076-a",
-        "answer_text": "only when the bus is moving."
+        "answer_text": "ബസ് ഓടുമ്പോൾ മാത്രം."
       },
       {
         "id": "rta-hvb-076-b",
-        "answer_text": "at all times."
+        "answer_text": "എല്ലായ്പ്പോഴും."
       },
       {
         "id": "rta-hvb-076-c",
-        "answer_text": "when they are getting on and off the bus."
+        "answer_text": "അവർ ബസിൽ കയറുകയും ഇറങ്ങുകയും ചെയ്യുമ്പോൾ."
       }
     ]
   },
   {
     "id": "rta-hvb-077",
-    "question_text": "A bus driver:",
+    "question_text": "ഒരു ബസ് ഡ്രൈവർ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-077-a",
-        "answer_text": "is not responsible for passengers getting on or off the bus."
+        "answer_text": "ബസിൽ കയറുകയോ ഇറങ്ങുകയോ ചെയ്യുന്ന യാത്രക്കാർക്ക് ഉത്തരവാദിയല്ല."
       },
       {
         "id": "rta-hvb-077-b",
-        "answer_text": "should make sure any passenger having difficulty getting on or off the bus has help."
+        "answer_text": "ബസിൽ കയറാനോ ഇറങ്ങാനോ ബുദ്ധിമുട്ടുള്ള ഏതൊരു യാത്രക്കാർക്കും സഹായം ലഭ്യമാക്കുന്നുവെന്ന് ഉറപ്പാക്കണം."
       },
       {
         "id": "rta-hvb-077-c",
-        "answer_text": "should insist that passengers get on or off quickly."
+        "answer_text": "യാത്രക്കാർ വേഗം കയറാനും ഇറങ്ങാനും നിർദ്ദേശിക്കണം."
       }
     ]
   },
   {
     "id": "rta-hvb-084",
-    "question_text": "Because a 10-wheeler truck has many tires, it is acceptable to travel if:",
+    "question_text": "ഒരു 10-ചക്ര ട്രക്കിൽ നിരവധി ടയറുകൾ ഉള്ളതിനാൽ, യാത്ര അനുവദനീയമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-084-a",
-        "answer_text": "not one of the tires has any damage."
+        "answer_text": "ഒരു ടയറിനും കേടുപാടുകൾ ഇല്ലെങ്കിൽ."
       },
       {
         "id": "rta-hvb-084-b",
-        "answer_text": "all front tires have no damage."
+        "answer_text": "എല്ലാ മുൻ ടയറുകൾക്കും കേടുപാടുകൾ ഇല്ലെങ്കിൽ."
       },
       {
         "id": "rta-hvb-084-c",
-        "answer_text": "only one of the rear tires is damaged."
+        "answer_text": "ഒരു പിൻ ടയർ മാത്രം കേടായിരിക്കുന്നെങ്കിൽ."
       }
     ]
   },
   {
     "id": "rta-hvb-091",
-    "question_text": "When driving a loaded truck, one of the best times to change gear is:",
+    "question_text": "ചരക്ക് നിറഞ്ഞ ട്രക്ക് ഓടിക്കുമ്പോൾ, ഗിയർ മാറ്റാനുള്ള ഏറ്റവും നല്ല സമയം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-091-a",
-        "answer_text": "when going downhill."
+        "answer_text": "ഇറക്കത്തിൽ ഇറങ്ങുമ്പോൾ."
       },
       {
         "id": "rta-hvb-091-b",
-        "answer_text": "before going downhill."
+        "answer_text": "ഇറക്കത്തിൽ ഇറങ്ങുന്നതിന് മുമ്പ്."
       },
       {
         "id": "rta-hvb-091-c",
-        "answer_text": "after going downhill."
+        "answer_text": "ഇറക്കത്തിൽ ഇറങ്ങിയ ശേഷം."
       }
     ]
   },
   {
     "id": "rta-hvb-093",
-    "question_text": "When travelling downhill, brake fade can occur due to:",
+    "question_text": "ഇറക്കത്തിൽ ഇറങ്ങുമ്പോൾ, ബ്രേക്ക് ഫേഡ് ഉണ്ടാകാം ഈ കാരണത്താൽ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-093-a",
-        "answer_text": "continuous engine braking."
+        "answer_text": "തുടർച്ചയായ എഞ്ചിൻ ബ്രേക്കിംഗ്."
       },
       {
         "id": "rta-hvb-093-b",
-        "answer_text": "Fanned braking."
+        "answer_text": "ഫാൻഡ് ബ്രേക്കിംഗ്."
       },
       {
         "id": "rta-hvb-093-c",
-        "answer_text": "continuous heavy braking."
+        "answer_text": "തുടർച്ചയായ ഭാരമേറിയ ബ്രേക്കിംഗ്."
       }
     ]
   },
   {
     "id": "rta-hvb-100",
-    "question_text": "If your heavy vehicle is not equipped with power steering, you:",
+    "question_text": "നിങ്ങളുടെ ഭാരമുള്ള വാഹനത്തിൽ പവർ സ്റ്റിയറിംഗ് ഇല്ലെങ്കിൽ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-100-a",
-        "answer_text": "will need to start turning early."
+        "answer_text": "നേരത്തെ തിരിക്കാൻ തുടങ്ങേണ്ടിവരും."
       },
       {
         "id": "rta-hvb-100-b",
-        "answer_text": "will need to turn a little late."
+        "answer_text": "അൽപം വൈകി തിരിക്കേണ്ടിവരും."
       },
       {
         "id": "rta-hvb-100-c",
-        "answer_text": "will need to steer more aggressively."
+        "answer_text": "കൂടുതൽ ആക്രമണാത്മകമായി സ്റ്റിയർ ചെയ്യേണ്ടിവരും."
       }
     ]
   },
   {
     "id": "rta-hvb-101",
-    "question_text": "What is the advantage of reversing slowly?",
+    "question_text": "പതുക്കെ റിവേഴ്‌സ് ചെയ്യുന്നതിന്റെ ഗുണം എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-101-a",
-        "answer_text": "You can easily make  corrections in steering errors."
+        "answer_text": "സ്റ്റിയറിംഗ് പിഴവുകൾ എളുപ്പത്തിൽ തിരുത്താൻ കഴിയും."
       },
       {
         "id": "rta-hvb-101-b",
-        "answer_text": "You are able make adjustments in the speed."
+        "answer_text": "വേഗതയിൽ ക്രമീകരണം ചെയ്യാൻ കഴിയും."
       },
       {
         "id": "rta-hvb-101-c",
-        "answer_text": "You are able to complete the reverse faster."
+        "answer_text": "റിവേഴ്‌സ് വേഗത്തിൽ പൂർത്തിയാക്കാൻ കഴിയും."
       }
     ]
   },
   {
     "id": "rta-hvb-102",
-    "question_text": "When driving a heavy vehicle, the cars on the ___are ___to see in the mirrors.",
+    "question_text": "ഭാരമുള്ള വാഹനം ഓടിക്കുമ്പോൾ, ___ വശത്തെ കാറുകൾ കണ്ണാടിയിൽ കാണുന്നത് ___ ആണ്.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-102-a",
-        "answer_text": "right; easier."
+        "answer_text": "വലത്; എളുപ്പം."
       },
       {
         "id": "rta-hvb-102-b",
-        "answer_text": "left; difficult."
+        "answer_text": "ഇടത്; ബുദ്ധിമുട്ട്."
       },
       {
         "id": "rta-hvb-102-c",
-        "answer_text": "right; difficult."
+        "answer_text": "വലത്; ബുദ്ധിമുട്ട്."
       }
     ]
   },
   {
     "id": "rta-hvb-104",
-    "question_text": "One way to remain calm and focused on the road while driving is:",
+    "question_text": "വാഹനം ഓടിക്കുമ്പോൾ റോഡിൽ ശാന്തവും ശ്രദ്ധാപൂർവ്വവുമായിരിക്കാനുള്ള ഒരു മാർഗ്ഗം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-104-a",
-        "answer_text": "maintain positive attitude."
+        "answer_text": "ഒരു നല്ല മനോഭാവം നിലനിർത്തുക."
       },
       {
         "id": "rta-hvb-104-b",
-        "answer_text": "maintain sufficient following distance."
+        "answer_text": "മതിയായ ഫോളോയിംഗ് ദൂരം നിലനിർത്തുക."
       },
       {
         "id": "rta-hvb-104-c",
-        "answer_text": "always travel early and avoid traffic."
+        "answer_text": "എപ്പോഴും നേരത്തെ യാത്ര ചെയ്യുകയും ഗതാഗതം ഒഴിവാക്കുകയും ചെയ്യുക."
       }
     ]
   },
   {
     "id": "rta-hvb-123",
-    "question_text": "Before starting the trip, bus driver must ensure that the:",
+    "question_text": "യാത്ര ആരംഭിക്കുന്നതിന് മുമ്പ്, ബസ് ഡ്രൈവർ ഇക്കാര്യം ഉറപ്പാക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-123-a",
-        "answer_text": "seats are properly spaced."
+        "answer_text": "സീറ്റുകൾ ശരിയായ ഇടവേളയിൽ സ്ഥിതിചെയ്യുന്നു."
       },
       {
         "id": "rta-hvb-123-b",
-        "answer_text": "seats are secured and not moving."
+        "answer_text": "സീറ്റുകൾ ഭദ്രമാണ്, അനങ്ങുന്നില്ല."
       },
       {
         "id": "rta-hvb-123-c",
-        "answer_text": "seats are free of any writings."
+        "answer_text": "സീറ്റുകളിൽ എഴുത്തൊന്നും ഇല്ല."
       }
     ]
   },
   {
     "id": "rta-hvb-124",
-    "question_text": "Proper adjustments of the mirrors must be done:",
+    "question_text": "കണ്ണാടികളുടെ ശരിയായ ക്രമീകരണം ഇപ്പോൾ ചെയ്യണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-124-a",
-        "answer_text": "before the trip ends."
+        "answer_text": "യാത്ര അവസാനിക്കുന്നതിന് മുമ്പ്."
       },
       {
         "id": "rta-hvb-124-b",
-        "answer_text": "during the trip itself."
+        "answer_text": "യാത്രയ്ക്കിടയിൽ."
       },
       {
         "id": "rta-hvb-124-c",
-        "answer_text": "before the start of the trip."
+        "answer_text": "യാത്ര ആരംഭിക്കുന്നതിന് മുമ്പ്."
       }
     ]
   },
   {
     "id": "rta-hvb-126",
-    "question_text": "Knowing that you have a long drive the next day. How would you prepare for this trip?",
+    "question_text": "അടുത്ത ദിവസം ദീർഘദൂര യാത്ര ഉണ്ടെന്ന് അറിഞ്ഞാൽ, ഈ യാത്രയ്ക്ക് നിങ്ങൾ എങ്ങനെ തയ്യാറെടുക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-126-a",
-        "answer_text": "Have plenty of water the night before"
+        "answer_text": "തലേ രാത്രി ധാരാളം വെള്ളം കുടിക്കുക."
       },
       {
         "id": "rta-hvb-126-b",
-        "answer_text": "Have plenty of sleep the night before"
+        "answer_text": "തലേ രാത്രി ധാരാളം ഉറങ്ങുക."
       },
       {
         "id": "rta-hvb-126-c",
-        "answer_text": "Engage in sports activities the night before"
+        "answer_text": "തലേ രാത്രി കായിക പ്രവർത്തനങ്ങളിൽ ഏർപ്പെടുക."
       }
     ]
   },
   {
     "id": "rta-hvb-128",
-    "question_text": "When taking breaks on long drives, it is also helpful to;",
+    "question_text": "ദീർഘദൂര യാത്രകളിൽ ഇടവേളകൾ എടുക്കുമ്പോൾ, ഇതും സഹായകരമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-128-a",
-        "answer_text": "Eat heavy meals"
+        "answer_text": "ഭാരമേറിയ ഭക്ഷണം കഴിക്കുക."
       },
       {
         "id": "rta-hvb-128-b",
-        "answer_text": "Do some simple physical  exercises, such as running on the spot"
+        "answer_text": "ഒരിടത്ത് ഓടുക പോലുള്ള ലളിതമായ ശാരീരിക വ്യായാമങ്ങൾ ചെയ്യുക."
       },
       {
         "id": "rta-hvb-128-c",
-        "answer_text": "Take very hot coffee or tea"
+        "answer_text": "വളരെ ചൂടുള്ള കോഫി അല്ലെങ്കിൽ ചായ കുടിക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-130",
-    "question_text": "If you need to drive at night you need to be extra careful because you can be tired easily. Why?",
+    "question_text": "രാത്രിയിൽ വാഹനം ഓടിക്കേണ്ടി വന്നാൽ നിങ്ങൾ അധികം ശ്രദ്ധിക്കണം കാരണം നിങ്ങൾക്ക് എളുപ്പം ക്ഷീണം ഉണ്ടാകും. എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-130-a",
-        "answer_text": "Night time has less traffic"
+        "answer_text": "രാത്രിയിൽ ട്രാഫിക് കുറവാണ്"
       },
       {
         "id": "rta-hvb-130-b",
-        "answer_text": "Day time is more hectic"
+        "answer_text": "പകൽ സമയം കൂടുതൽ തിരക്കുള്ളതാണ്"
       },
       {
         "id": "rta-hvb-130-c",
-        "answer_text": "Night time is usually spent for sleeping"
+        "answer_text": "രാത്രി സമയം സാധാരണയായി ഉറക്കത്തിനായി ഉപയോഗിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-hvb-131",
-    "question_text": "While it is not the best time, driving at night cannot be avoided due to;",
+    "question_text": "ഇത് ഏറ്റവും നല്ല സമയമല്ലെങ്കിലും, ഇക്കാരണങ്ങളാൽ രാത്രി ഡ്രൈവിംഗ് ഒഴിവാക്കാൻ കഴിയില്ല;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-131-a",
-        "answer_text": "Traffic restrictions during the day"
+        "answer_text": "പകൽ ട്രാഫിക് നിയന്ത്രണങ്ങൾ"
       },
       {
         "id": "rta-hvb-131-b",
-        "answer_text": "Traffic congestions during the day"
+        "answer_text": "പകൽ ട്രാഫിക് തിരക്ക്"
       },
       {
         "id": "rta-hvb-131-c",
-        "answer_text": "Some drivers prefer driving at night"
+        "answer_text": "ചില ഡ്രൈവർമാർ രാത്രി ഓടിക്കാൻ ഇഷ്ടപ്പെടുന്നു"
       }
     ]
   },
   {
     "id": "rta-hvb-132",
-    "question_text": "When making long drives, make sure not to drive for;",
+    "question_text": "ദീർഘദൂര യാത്ര ചെയ്യുമ്പോൾ, ഇത്രയധികം ഓടിക്കാതെ ശ്രദ്ധിക്കുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-132-a",
-        "answer_text": "Less than 10 hours in any 24 hour period"
+        "answer_text": "ഏതെങ്കിലും 24 മണിക്കൂർ കാലയളവിൽ 10 മണിക്കൂറിൽ കുറവ്"
       },
       {
         "id": "rta-hvb-132-b",
-        "answer_text": "More than 10 hours in any 24 hour period"
+        "answer_text": "ഏതെങ്കിലും 24 മണിക്കൂർ കാലയളവിൽ 10 മണിക്കൂറിൽ കൂടുതൽ"
       },
       {
         "id": "rta-hvb-132-c",
-        "answer_text": "More than 10 hours in any 48 hour period"
+        "answer_text": "ഏതെങ്കിലും 48 മണിക്കൂർ കാലയളവിൽ 10 മണിക്കൂറിൽ കൂടുതൽ"
       }
     ]
   },
   {
     "id": "rta-hvb-137",
-    "question_text": "If you eat foods like fries, pasta or pies during long drives, how will this affect your driving?",
+    "question_text": "ദീർഘദൂര യാത്രയിൽ ഫ്രൈ, പാസ്തา അല്ലെങ്കിൽ പൈ പോലുള്ള ഭക്ഷണം കഴിച്ചാൽ, ഇത് നിങ്ങളുടെ ഓടിക്കലിനെ എങ്ങനെ ബാധിക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-137-a",
-        "answer_text": "Enjoy your journey"
+        "answer_text": "യാത്ര ആസ്വദിക്കുക"
       },
       {
         "id": "rta-hvb-137-b",
-        "answer_text": "Get tired more quickly"
+        "answer_text": "കൂടുതൽ വേഗത്തിൽ ക്ഷീണിക്കും"
       },
       {
         "id": "rta-hvb-137-c",
-        "answer_text": "Help you to be more alert"
+        "answer_text": "കൂടുതൽ ജാഗ്രതയോടെ ഇരിക്കാൻ സഹായിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-146",
-    "question_text": "If lifting heavy objects, how do you do it properly?",
+    "question_text": "ഭാരമുള്ള വസ്തുക്കൾ ഉയർത്തുമ്പോൾ അത് ശരിയായ രീതിയിൽ എങ്ങനെ ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-146-a",
-        "answer_text": "Back straight and knees straight"
+        "answer_text": "പുറം നേരെ, കാൽമുട്ടുകൾ നേരെ"
       },
       {
         "id": "rta-hvb-146-b",
-        "answer_text": "Back straight and knees bent"
+        "answer_text": "പുറം നേരെ, കാൽമുട്ടുകൾ മടക്കി"
       },
       {
         "id": "rta-hvb-146-c",
-        "answer_text": "Knees bent, back bent"
+        "answer_text": "കാൽമുട്ടുകൾ മടക്കി, പുറം കുനിച്ച്"
       }
     ]
   },
   {
     "id": "rta-hvb-151",
-    "question_text": "If we are checking the wheel nuts, what should we be ensuring?",
+    "question_text": "വീൽ നട്ടുകൾ പരിശോധിക്കുമ്പോൾ നാം എന്ത് ഉറപ്പുവരുത്തണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-151-a",
-        "answer_text": "That most of the wheel nuts are intact"
+        "answer_text": "മിക്ക വീൽ നട്ടുകളും സ്ഥാനത്തുണ്ടെന്ന്"
       },
       {
         "id": "rta-hvb-151-b",
-        "answer_text": "That not a single wheel nut is missing"
+        "answer_text": "ഒരു വീൽ നട്ടും കാണാതെ പോകാത്തതെന്ന്"
       },
       {
         "id": "rta-hvb-151-c",
-        "answer_text": "That available wheel nuts are tightly shut"
+        "answer_text": "ലഭ്യമായ വീൽ നട്ടുകൾ ഭദ്രമായി മുറുകിയിട്ടുണ്ടെന്ന്"
       }
     ]
   },
   {
     "id": "rta-hvb-152",
-    "question_text": "What is the danger in leaking grease from wheel bearings and seals?",
+    "question_text": "വീൽ ബെയറിങ്ങുകളിൽ നിന്നും സീലുകളിൽ നിന്നും ഗ്രീസ് ചോർന്നാൽ എന്ത് അപകടമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-152-a",
-        "answer_text": "It can cause fire or a wheel to lock"
+        "answer_text": "ഇത് തീ പിടിക്കാനോ ചക്രം ജാം ആകാനോ കാരണമാകും"
       },
       {
         "id": "rta-hvb-152-b",
-        "answer_text": "It can slow down the speed of the heavy vehicle"
+        "answer_text": "ഇത് ഭാരവാഹനത്തിന്റെ വേഗത കുറയ്ക്കും"
       },
       {
         "id": "rta-hvb-152-c",
-        "answer_text": "It can cause the load to tilt on one side"
+        "answer_text": "ഇത് ചരക്ക് ഒരു വശത്തേക്ക് ചരിയാൻ കാരണമാകും"
       }
     ]
   },
   {
     "id": "rta-hvb-154",
-    "question_text": "In a ten wheeler heavy vehicle, a problem in one of the wheels;",
+    "question_text": "പത്ത് ചക്രമുള്ള ഭാരവാഹനത്തിൽ, ഒരു ചക്രത്തിൽ പ്രശ്നം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-154-a",
-        "answer_text": "Can be ignored and continue with the trip"
+        "answer_text": "അവഗണിക്കാൻ കഴിയും, യാത്ര തുടരാം"
       },
       {
         "id": "rta-hvb-154-b",
-        "answer_text": "Cannot be ignored, trip must be discontinued"
+        "answer_text": "അവഗണിക്കാൻ കഴിയില്ല, യാത്ര നിർത്തണം"
       },
       {
         "id": "rta-hvb-154-c",
-        "answer_text": "Will not cause problem to other wheels"
+        "answer_text": "മറ്റ് ചക്രങ്ങൾക്ക് പ്രശ്നം ഉണ്ടാക്കില്ല"
       }
     ]
   },
   {
     "id": "rta-hvb-155",
-    "question_text": "You ensure the tank is firmly attached, caps are tight and no leaks. What system are you checking?",
+    "question_text": "ടാങ്ക് ഭദ്രമായി ഘടിപ്പിച്ചിട്ടുണ്ടെന്നും ക്യാപ്പുകൾ മുറുകിയിട്ടുണ്ടെന്നും ചോർച്ചയില്ലെന്നും നിങ്ങൾ ഉറപ്പുവരുത്തുന്നു. ഏത് സിസ്റ്റം ആണ് നിങ്ങൾ പരിശോധിക്കുന്നത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-155-a",
-        "answer_text": "Electrical system"
+        "answer_text": "ഇലക്ട്രിക്കൽ സിസ്റ്റം"
       },
       {
         "id": "rta-hvb-155-b",
-        "answer_text": "Brake system"
+        "answer_text": "ബ്രേക്ക് സിസ്റ്റം"
       },
       {
         "id": "rta-hvb-155-c",
-        "answer_text": "Fuel system"
+        "answer_text": "ഇന്ധന സിസ്റ്റം"
       }
     ]
   },
   {
     "id": "rta-hvb-171",
-    "question_text": "When checking the brakes, you felt the vehicle pull to one side. What must you do to be safe?",
+    "question_text": "ബ്രേക്ക് പരിശോധിക്കുമ്പോൾ, വാഹനം ഒരു വശത്തേക്ക് വലിക്കുന്നതായി നിങ്ങൾ അനുഭവിച്ചു. സുരക്ഷിതരായിരിക്കാൻ നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-171-a",
-        "answer_text": "Remember to hold the steering more firmly when braking"
+        "answer_text": "ബ്രേക്ക് ചെയ്യുമ്പോൾ സ്റ്റിയറിങ് കൂടുതൽ ദൃഢമായി പിടിക്കാൻ ഓർക്കുക"
       },
       {
         "id": "rta-hvb-171-b",
-        "answer_text": "Have a qualified mechanic check the vehicle before driving"
+        "answer_text": "ഓടിക്കുന്നതിന് മുൻപ് ഒരു യോഗ്യതയുള്ള മെക്കാനിക്ക് വാഹനം പരിശോധിക്കട്ടെ"
       },
       {
         "id": "rta-hvb-171-c",
-        "answer_text": "Pull over on the next rest stop and rest"
+        "answer_text": "അടുത്ത വിശ്രമ കേന്ദ്രത്തിൽ നിർത്തി വിശ്രമിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-186",
-    "question_text": "Use both mirrors to line up the outside edges of the rear prime mover wheels. You also need to;",
+    "question_text": "പ്രൈം മൂവറിന്റെ പിൻ ചക്രങ്ങളുടെ പുറം അറ്റങ്ങൾ വരിനിരത്താൻ ഇരു കണ്ണാടികളും ഉപയോഗിക്കുക. നിങ്ങൾക്ക് ഇതും ചെയ്യേണ്ടതുണ്ട്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-186-a",
-        "answer_text": "Get out and check they are lined up accurately"
+        "answer_text": "ഇറങ്ങി അവ കൃത്യമായി നിരനിരയിലാണോ എന്ന് പരിശോധിക്കുക"
       },
       {
         "id": "rta-hvb-186-b",
-        "answer_text": "Stop and see both sides are clear"
+        "answer_text": "നിർത്തി ഇരുവശങ്ങളും തെളിഞ്ഞതാണോ എന്ന് നോക്കുക"
       },
       {
         "id": "rta-hvb-186-c",
-        "answer_text": "Check your forward view clearly"
+        "answer_text": "നിങ്ങളുടെ മുൻ ദൃശ്യം വ്യക്തമായി പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-203",
-    "question_text": "If the anchoring points are not strong enough or cannot be used, what can be done to be safe?",
+    "question_text": "ആങ്കറിംഗ് പോയന്റുകൾ മതിയായ ശക്തിയുള്ളവയല്ലെങ്കിൽ അല്ലെങ്കിൽ ഉപയോഗിക്കാൻ കഴിയില്ലെങ്കിൽ, സുരക്ഷിതമാകാൻ എന്ത് ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-203-a",
-        "answer_text": "Fully cover with tarpaulin and secure with thick rope"
+        "answer_text": "ടർപ്പോളിൻ കൊണ്ട് പൂർണ്ണമായി മൂടി കട്ടിയുള്ള കയർ കൊണ്ട് ബന്ധിക്കുക"
       },
       {
         "id": "rta-hvb-203-b",
-        "answer_text": "Call a mechanic to strengthen the anchoring points"
+        "answer_text": "ആങ്കറിംഗ് പോയന്റുകൾ ശക്തിപ്പെടുത്താൻ മെക്കാനിക്കിനെ വിളിക്കുക"
       },
       {
         "id": "rta-hvb-203-c",
-        "answer_text": "Extra lashing will be required."
+        "answer_text": "അധിക ബന്ധനം ആവശ്യമായിരിക്കും"
       }
     ]
   },
   {
     "id": "rta-hvb-205",
-    "question_text": "Lashings must be prevented from having contact with sharp edges of the vehicle. How?",
+    "question_text": "ബന്ധനങ്ങൾ വാഹനത്തിന്റെ മൂർച്ചയുള്ള കോണുകളിൽ സ്പർശിക്കാതെ എങ്ങനെ തടയാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-205-a",
-        "answer_text": "Use of sharp knives"
+        "answer_text": "മൂർച്ചയുള്ള കത്തികളുടെ ഉപയോഗം"
       },
       {
         "id": "rta-hvb-205-b",
-        "answer_text": "Use of corner protectors, sleeves or other packing materials"
+        "answer_text": "കോണ്‍ പ്രൊട്ടക്ടറുകൾ, സ്ലീവുകൾ അല്ലെങ്കിൽ മറ്റ് പ്യാക്കിങ് സാമഗ്രികൾ ഉപയോഗിക്കുക"
       },
       {
         "id": "rta-hvb-205-c",
-        "answer_text": "Use metal boards or metal chains"
+        "answer_text": "ലോഹ ബോർഡുകൾ അല്ലെങ്കിൽ ലോഹ ശൃംഖലകൾ ഉപയോഗിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-210",
-    "question_text": "You lost direction control of  your heavy vehicle when you hit a curb or pothole. What was the likely cause?",
+    "question_text": "ഒരു കർബ് അല്ലെങ്കിൽ കുഴിയിൽ ഇടിച്ചതിന് ശേഷം നിങ്ങളുടെ ഭാരമേറിയ വാഹനത്തിന്‍റെ ദിശ നിയന്ത്രണം നഷ്ടപ്പെട്ടു. ഇതിന്‍റെ ഏറ്റവും സാധ്യതയുള്ള കാരണം എന്തായിരുന്നു?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-210-a",
-        "answer_text": "The brakes were not checked properly"
+        "answer_text": "ബ്രേക്കുകൾ ശരിയായി പരിശോധിച്ചിരുന്നില്ല"
       },
       {
         "id": "rta-hvb-210-b",
-        "answer_text": "The tires are not properly inflated"
+        "answer_text": "ടയറുകൾ ശരിയായി നിറഞ്ഞിരുന്നില്ല"
       },
       {
         "id": "rta-hvb-210-c",
-        "answer_text": "Steering was not held firmly with both hands"
+        "answer_text": "സ്റ്റിയറിങ് രണ്ട് കൈകൾ കൊണ്ടും ദൃഢമായി പിടിച്ചിരുന്നില്ല"
       }
     ]
   },
   {
     "id": "rta-hvb-218",
-    "question_text": "On your approach to a left bend, how do you ensure the rear tires can safely pass an obstacle on the left?",
+    "question_text": "ഇടത് വളവിലേക്ക് അടുക്കുമ്പോൾ, ഇടതുഭാഗത്തെ ഒരു തടസ്സം പിൻ ടയറുകൾ സുരക്ഷിതമായി കടക്കാൻ കഴിയുമെന്ന് നിങ്ങൾ എങ്ങനെ ഉറപ്പാക്കും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-218-a",
-        "answer_text": "Steer close to the right of the lane"
+        "answer_text": "ലൈനിന്‍റെ വലതുഭാഗത്ത് അടുത്ത് ഓടിക്കുക"
       },
       {
         "id": "rta-hvb-218-b",
-        "answer_text": "Steer close to the left of the lane"
+        "answer_text": "ലൈനിന്‍റെ ഇടതുഭാഗത്ത് അടുത്ത് ഓടിക്കുക"
       },
       {
         "id": "rta-hvb-218-c",
-        "answer_text": "Stick to the middle of the lane"
+        "answer_text": "ലൈനിന്‍റെ മധ്യഭാഗത്ത് തന്നെ ഇരിക്കുക"
       }
     ]
   }

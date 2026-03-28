@@ -5075,406 +5075,406 @@
   },
   {
     "id": "rta-lmv-482",
-    "question_text": "A police report issued in white form signifies that neither party is at fault or;",
+    "question_text": "سفید فارم پر جاری کردہ پولیس رپورٹ یہ ظاہر کرتی ہے کہ کوئی بھی فریق قصوروار نہیں ہے یا؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-482-a",
-        "answer_text": "both parties are at fault"
+        "answer_text": "دونوں فریق قصوروار ہیں"
       },
       {
         "id": "rta-lmv-482-b",
-        "answer_text": "that the other party is unknown"
+        "answer_text": "دوسرا فریق نامعلوم ہے"
       },
       {
         "id": "rta-lmv-482-c",
-        "answer_text": "that the other party is unknown"
+        "answer_text": "دوسرا فریق نامعلوم ہے"
       }
     ]
   },
   {
     "id": "rta-lmv-491",
-    "question_text": "You have a green light at an intersection. You can  proceed;",
+    "question_text": "چوراہے پر آپ کی سبز بتی ہے۔ آپ آگے بڑھ سکتے ہیں؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-491-a",
-        "answer_text": "only if the intersection is clear and it is safe to proceed"
+        "answer_text": "صرف اگر چوراہا صاف ہو اور آگے بڑھنا محفوظ ہو"
       },
       {
         "id": "rta-lmv-491-b",
-        "answer_text": "as quickly as possible to avoid delaying the traffic"
+        "answer_text": "ٹریفک میں تاخیر سے بچنے کے لیے جلد از جلد"
       },
       {
         "id": "rta-lmv-491-c",
-        "answer_text": "once there are no emergency vehicles around"
+        "answer_text": "جب اردگرد کوئی ایمرجنسی گاڑی نہ ہو"
       }
     ]
   },
   {
     "id": "rta-rm-001",
-    "question_text": "What does a continuous longitudinal yellow line along the carriageway indicate?",
-    "explanation": null,
+    "question_text": "سڑک کے ساتھ مسلسل لمبی پیلی لکیر کیا ظاہر کرتی ہے؟",
+    "explanation": "سڑک کے ساتھ مسلسل پیلی لکیر ایک ریگولیٹری روڈ مارکنگ ہے جو 'نو پاسنگ لائن' کو ظاہر کرتی ہے — آپ کو آگے نکلنے کے لیے اسے عبور نہیں کرنا چاہیے۔",
     "answers": [
       {
         "id": "rta-rm-001-a",
-        "answer_text": "No passing / no overtaking zone"
+        "answer_text": "آگے نکلنے کی ممانعت کا علاقہ"
       },
       {
         "id": "rta-rm-001-b",
-        "answer_text": "Edge of the carriageway"
+        "answer_text": "سڑک کا کنارہ"
       },
       {
         "id": "rta-rm-001-c",
-        "answer_text": "Bus lane ahead"
+        "answer_text": "آگے بس لین"
       }
     ]
   },
   {
     "id": "rta-rm-002",
-    "question_text": "A continuous longitudinal line across the carriageway at an intersection indicates:",
-    "explanation": null,
+    "question_text": "چوراہے پر سڑک کے پار مسلسل لمبی لکیر کیا ظاہر کرتی ہے؟",
+    "explanation": "سڑک کے پار کھینچی گئی مسلسل لمبی لکیر اسٹاپ لائن کو نشان زد کرتی ہے جہاں آپ کو آگے بڑھنے سے پہلے رکنا ضروری ہے۔",
     "answers": [
       {
         "id": "rta-rm-002-a",
-        "answer_text": "A stop line — you must stop here"
+        "answer_text": "اسٹاپ لائن — آپ کو یہاں رکنا ضروری ہے"
       },
       {
         "id": "rta-rm-002-b",
-        "answer_text": "A pedestrian crossing"
+        "answer_text": "پیدل چلنے والوں کا کراسنگ"
       },
       {
         "id": "rta-rm-002-c",
-        "answer_text": "A speed reduction zone"
+        "answer_text": "رفتار کم کرنے کا علاقہ"
       }
     ]
   },
   {
     "id": "rta-rm-003",
-    "question_text": "Short intermittent lines across the carriageway indicate:",
-    "explanation": null,
+    "question_text": "سڑک کے پار چھوٹی وقفہ وقفہ لکیریں کیا ظاہر کرتی ہیں؟",
+    "explanation": "سڑک کے پار چھوٹی وقفہ وقفہ (ڈیشڈ) لکیریں 'گیو وے لائن' کو نشان زد کرتی ہیں — آپ کو مرکزی سڑک پر ٹریفک کو راستہ دینا ضروری ہے۔",
     "answers": [
       {
         "id": "rta-rm-003-a",
-        "answer_text": "A give way line"
+        "answer_text": "گیو وے لائن"
       },
       {
         "id": "rta-rm-003-b",
-        "answer_text": "A pedestrian crossing"
+        "answer_text": "پیدل چلنے والوں کا کراسنگ"
       },
       {
         "id": "rta-rm-003-c",
-        "answer_text": "A speed bump warning"
+        "answer_text": "اسپیڈ بمپ کی تنبیہ"
       }
     ]
   },
   {
     "id": "rta-rm-004",
-    "question_text": "What does a yellow box with diagonal squares painted on the road indicate?",
-    "explanation": null,
+    "question_text": "سڑک پر پینٹ کی گئی اخترن مربعوں والی پیلی باکس کیا ظاہر کرتی ہے؟",
+    "explanation": "پیلی باکس جنکشن کا مطلب ہے کہ آپ کو باکس میں داخل نہیں ہونا چاہیے جب تک کہ آپ کا راستہ صاف نہ ہو۔ آپ باکس میں صرف تبھی رک سکتے ہیں جب آپ دائیں موڑ لے رہے ہوں اور آنے والی ٹریفک کا انتظار کر رہے ہوں۔",
     "answers": [
       {
         "id": "rta-rm-004-a",
-        "answer_text": "A box junction — do not enter unless your exit is clear"
+        "answer_text": "باکس جنکشن — جب تک راستہ صاف نہ ہو داخل نہ ہوں"
       },
       {
         "id": "rta-rm-004-b",
-        "answer_text": "A parking zone for authorized vehicles"
+        "answer_text": "مجاز گاڑیوں کے لیے پارکنگ زون"
       },
       {
         "id": "rta-rm-004-c",
-        "answer_text": "A speed restriction area"
+        "answer_text": "رفتار کی پابندی کا علاقہ"
       }
     ]
   },
   {
     "id": "rta-rm-005",
-    "question_text": "What do zig-zag lines on the road near a crossing indicate?",
-    "explanation": null,
+    "question_text": "کراسنگ کے قریب سڑک پر زگ زیگ لکیریں کیا ظاہر کرتی ہیں؟",
+    "explanation": "زگ زیگ لکیریں ایک ایسے علاقے کو نشان زد کرتی ہیں جہاں پارکنگ اور آگے نکلنا ممنوع ہے، عام طور پر پیدل چلنے والوں کے کراسنگ کے قریب، واضح مرئیت کو یقینی بنانے کے لیے۔",
     "answers": [
       {
         "id": "rta-rm-005-a",
-        "answer_text": "No parking or overtaking zone near a crossing"
+        "answer_text": "کراسنگ کے قریب پارکنگ یا آگے نکلنے کی ممانعت"
       },
       {
         "id": "rta-rm-005-b",
-        "answer_text": "A speed bump area"
+        "answer_text": "اسپیڈ بمپ علاقہ"
       },
       {
         "id": "rta-rm-005-c",
-        "answer_text": "A tram-only zone"
+        "answer_text": "صرف ٹرام زون"
       }
     ]
   },
   {
     "id": "rta-rm-006",
-    "question_text": "What do rumble strips on the road surface warn you about?",
-    "explanation": null,
+    "question_text": "سڑک کی سطح پر رمبل اسٹرپس آپ کو کس بارے میں متنبہ کرتی ہیں؟",
+    "explanation": "رمبل اسٹرپس اُبھری یا بناوٹی نشانیاں ہیں جو ان پر سے گزرنے پر کمپن اور شور پیدا کرتی ہیں، ڈرائیوروں کو خبردار کرتی ہیں کہ وہ کسی خطرے جیسے چوراہے یا تیز موڑ کے قریب پہنچ رہے ہیں۔",
     "answers": [
       {
         "id": "rta-rm-006-a",
-        "answer_text": "You are approaching a hazard — reduce speed"
+        "answer_text": "آپ کسی خطرے کے قریب ہیں — رفتار کم کریں"
       },
       {
         "id": "rta-rm-006-b",
-        "answer_text": "The road surface is damaged"
+        "answer_text": "سڑک کی سطح خراب ہے"
       },
       {
         "id": "rta-rm-006-c",
-        "answer_text": "You are entering a toll zone"
+        "answer_text": "آپ ٹول زون میں داخل ہو رہے ہیں"
       }
     ]
   },
   {
     "id": "rta-rm-007",
-    "question_text": "What do broken yellow lines in the centre of the road indicate?",
-    "explanation": null,
+    "question_text": "سڑک کے وسط میں ٹوٹی ہوئی پیلی لکیریں کیا ظاہر کرتی ہیں؟",
+    "explanation": "سڑک کے وسط میں ٹوٹی ہوئی پیلی لکیریں رہنمائی کی نشانیاں ہیں جو ظاہر کرتی ہیں کہ محفوظ ہو تو آپ آگے نکلنے کے لیے انہیں عبور کر سکتے ہیں۔",
     "answers": [
       {
         "id": "rta-rm-007-a",
-        "answer_text": "You may cross to overtake when safe"
+        "answer_text": "محفوظ ہونے پر آپ آگے نکلنے کے لیے عبور کر سکتے ہیں"
       },
       {
         "id": "rta-rm-007-b",
-        "answer_text": "No crossing allowed at any time"
+        "answer_text": "کسی بھی وقت کراسنگ کی اجازت نہیں"
       },
       {
         "id": "rta-rm-007-c",
-        "answer_text": "Lane change prohibited"
+        "answer_text": "لین تبدیل کرنا ممنوع ہے"
       }
     ]
   },
   {
     "id": "rta-rm-008",
-    "question_text": "What does an 'X' marking on the road ahead indicate?",
-    "explanation": null,
+    "question_text": "آگے سڑک پر 'X' نشان کیا ظاہر کرتا ہے؟",
+    "explanation": "سڑک پر X نشان آگے ریلوے یا ٹرام لیول کراسنگ کو ظاہر کرتا ہے۔ آپ کو رفتار کم کرنی چاہیے اور رکنے کے لیے تیار رہنا چاہیے۔",
     "answers": [
       {
         "id": "rta-rm-008-a",
-        "answer_text": "A railway or tram level crossing ahead"
+        "answer_text": "آگے ریلوے یا ٹرام لیول کراسنگ"
       },
       {
         "id": "rta-rm-008-b",
-        "answer_text": "Road closed ahead"
+        "answer_text": "آگے سڑک بند ہے"
       },
       {
         "id": "rta-rm-008-c",
-        "answer_text": "A box junction"
+        "answer_text": "باکس جنکشن"
       }
     ]
   },
   {
     "id": "rta-rm-009",
-    "question_text": "At a traffic-controlled intersection, what does a red light with a green left arrow mean?",
-    "explanation": null,
+    "question_text": "ٹریفک کنٹرولڈ چوراہے پر، سبز بائیں تیر کے ساتھ سرخ بتی کا کیا مطلب ہے؟",
+    "explanation": "سبز تیر کے ساتھ سرخ بتی کا مطلب ہے کہ آپ کو سرخ بتی کے لیے رکنا ضروری ہے، لیکن آپ سبز تیر کی سمت میں کنٹرول طریقے سے آگے بڑھ سکتے ہیں۔",
     "answers": [
       {
         "id": "rta-rm-009-a",
-        "answer_text": "Stop for red, but may proceed in the green arrow direction"
+        "answer_text": "سرخ کے لیے رکیں، لیکن سبز تیر کی سمت میں آگے بڑھ سکتے ہیں"
       },
       {
         "id": "rta-rm-009-b",
-        "answer_text": "Stop completely and wait for a full green light"
+        "answer_text": "مکمل رکیں اور مکمل سبز بتی کا انتظار کریں"
       },
       {
         "id": "rta-rm-009-c",
-        "answer_text": "Proceed with caution in any direction"
+        "answer_text": "کسی بھی سمت میں احتیاط سے آگے بڑھیں"
       }
     ]
   },
   {
     "id": "rta-rm-010",
-    "question_text": "Yellow triangular markings on the road surface warn you of:",
-    "explanation": null,
+    "question_text": "سڑک کی سطح پر پیلے رنگ کے مثلثی نشانات آپ کو کس چیز سے آگاہ کرتے ہیں؟",
+    "explanation": "سڑک کی سطح پر پیلے رنگ کے مثلثی نشانات (اسپیڈ ہمپ کے نشانات) ڈرائیوروں کو آگے اسپیڈ ہمپ کے بارے میں خبردار کرتے ہیں، انہیں رفتار کم کرنے کی تنبیہ دیتے ہیں۔",
     "answers": [
       {
         "id": "rta-rm-010-a",
-        "answer_text": "Speed humps ahead — reduce speed"
+        "answer_text": "آگے اسپیڈ ہمپ ہیں — رفتار کم کریں"
       },
       {
         "id": "rta-rm-010-b",
-        "answer_text": "Construction zone warning"
+        "answer_text": "تعمیراتی زون کی تنبیہ"
       },
       {
         "id": "rta-rm-010-c",
-        "answer_text": "School zone ahead"
+        "answer_text": "آگے اسکول زون ہے"
       }
     ]
   },
   {
     "id": "rta-fk-039",
-    "question_text": "Similar to public roads, forklift operators must also comply with this at workplaces.",
+    "question_text": "عوامی سڑکوں کی طرح، فورک لفٹ آپریٹرز کو بھی کام کی جگہوں پر اس کی پابندی کرنی ہوگی۔",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-039-a",
-        "answer_text": "Speed restriction signs"
+        "answer_text": "رفتار کی پابندی کے نشانات"
       },
       {
         "id": "rta-fk-039-b",
-        "answer_text": "Hard hat area signs"
+        "answer_text": "ہارڈ ہیٹ ایریا کے نشانات"
       },
       {
         "id": "rta-fk-039-c",
-        "answer_text": "Reflective vest signs"
+        "answer_text": "ریفلیکٹیو واسکٹ کے نشانات"
       }
     ]
   },
   {
     "id": "rta-fk-061",
-    "question_text": "During the pre-use visual checks, why is there a need to check the overhead?",
+    "question_text": "استعمال سے پہلے بصری جانچ کے دوران، اوپر چھت کا معائنہ کرنا کیوں ضروری ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-061-a",
-        "answer_text": "To make sure there are no obstructions"
+        "answer_text": "اس بات کو یقینی بنانے کے لیے کہ کوئی رکاوٹ نہ ہو"
       },
       {
         "id": "rta-fk-061-b",
-        "answer_text": "To make sure the ceiling is clean"
+        "answer_text": "اس بات کو یقینی بنانے کے لیے کہ چھت صاف ہو"
       },
       {
         "id": "rta-fk-061-c",
-        "answer_text": "To make sure all the signage's are properly placed"
+        "answer_text": "اس بات کو یقینی بنانے کے لیے کہ تمام نشانیاں صحیح جگہ پر لگی ہوں"
       }
     ]
   },
   {
     "id": "rta-hfk-036",
-    "question_text": "Identify at least 3 important information that you must know as part of emergency procedure;",
+    "question_text": "ہنگامی طریقہ کار کے حصے کے طور پر کم از کم 3 اہم معلومات شناخت کریں جو آپ کو معلوم ہونی چاہئیں؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-036-a",
-        "answer_text": "Location of; showers, breathing apparatus and fire extinguishers"
+        "answer_text": "مقام: شاور، سانس لینے کے آلات اور آگ بجھانے والے آلات"
       },
       {
         "id": "rta-hfk-036-b",
-        "answer_text": "Location of; assembly point, smoking areas and coffee machines"
+        "answer_text": "مقام: اجتماعی جگہ، تمباکو نوشی کے علاقے اور کافی مشینیں"
       },
       {
         "id": "rta-hfk-036-c",
-        "answer_text": "Location of; Warning Signs, trampolines and trap doors"
+        "answer_text": "مقام: وارننگ نشانات، ٹرامپولین اور ٹریپ ڈور"
       }
     ]
   },
   {
     "id": "rta-hfk-043",
-    "question_text": "Before starting the engine of your shovel, why should you sound the horn first?",
+    "question_text": "اپنے شاول کا انجن شروع کرنے سے پہلے، آپ کو پہلے ہارن کیوں بجانا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-043-a",
-        "answer_text": "To alert for anyone  for any possible danger"
+        "answer_text": "کسی بھی ممکنہ خطرے سے لوگوں کو آگاہ کرنے کے لیے"
       },
       {
         "id": "rta-hfk-043-b",
-        "answer_text": "To signal the start of your work"
+        "answer_text": "کام شروع ہونے کا اشارہ دینے کے لیے"
       },
       {
         "id": "rta-hfk-043-c",
-        "answer_text": "To make sure the shovel is properly checked"
+        "answer_text": "یہ یقینی کرنے کے لیے کہ شاول کی مناسب جانچ ہو چکی ہے"
       }
     ]
   },
   {
     "id": "rta-hfk-068",
-    "question_text": "Most shovels are designed so that one hand handles the  steering and the other hand;",
+    "question_text": "زیادہ تر شاول اس طرح ڈیزائن کیے گئے ہیں کہ ایک ہاتھ اسٹیئرنگ سنبھالتا ہے اور دوسرا ہاتھ؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-068-a",
-        "answer_text": "Maneuvers other single movements"
+        "answer_text": "دیگر انفرادی حرکات کنٹرول کرتا ہے"
       },
       {
         "id": "rta-hfk-068-b",
-        "answer_text": "May maneuver more than one movement"
+        "answer_text": "ایک سے زیادہ حرکات کنٹرول کر سکتا ہے"
       },
       {
         "id": "rta-hfk-068-c",
-        "answer_text": "May maneuver multiple movements with foot controls"
+        "answer_text": "پیر کے کنٹرولز سے متعدد حرکات کنٹرول کر سکتا ہے"
       }
     ]
   },
   {
     "id": "rta-moto-042",
-    "question_text": "When carrying a passenger, the mirrors of a motorcycle should be adjusted:",
+    "question_text": "مسافر بٹھانے کے وقت موٹرسائیکل کے آئینوں کو کب درست کیا جانا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-042-a",
-        "answer_text": "before the passenger gets on."
+        "answer_text": "مسافر کے بیٹھنے سے پہلے۔"
       },
       {
         "id": "rta-moto-042-b",
-        "answer_text": "after the passenger has got on."
+        "answer_text": "مسافر کے بیٹھنے کے بعد۔"
       },
       {
         "id": "rta-moto-042-c",
-        "answer_text": "when stopped at traffic lights."
+        "answer_text": "ٹریفک لائٹس پر رکنے کے وقت۔"
       }
     ]
   },
   {
     "id": "rta-moto-060",
-    "question_text": "Painted lane markings can be dangerous because:",
+    "question_text": "پینٹ کی گئی لین نشانیاں خطرناک ہو سکتی ہیں کیونکہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-060-a",
-        "answer_text": "they are shiny and may dazzle at night."
+        "answer_text": "وہ چمکیلی ہوتی ہیں اور رات کو چکاچوند کر سکتی ہیں۔"
       },
       {
         "id": "rta-moto-060-b",
-        "answer_text": "they are slippery."
+        "answer_text": "وہ پھسلن دار ہوتی ہیں۔"
       },
       {
         "id": "rta-moto-060-c",
-        "answer_text": "their surface may be rough causing the bike to jolt."
+        "answer_text": "ان کی سطح کھردری ہو سکتی ہے جس سے موٹرسائیکل جھٹکا کھا سکتی ہے۔"
       }
     ]
   },
   {
     "id": "rta-moto-140",
-    "question_text": "As you make a turn, how do you make sure you are ready to respond to things before they happen?",
+    "question_text": "موڑ لیتے وقت، آپ یہ کیسے یقینی بناتے ہیں کہ آپ چیزیں ہونے سے پہلے ان پر ردعمل دینے کے لیے تیار ہیں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-140-a",
-        "answer_text": "always look ahead to where you want to go"
+        "answer_text": "ہمیشہ آگے اس جگہ دیکھیں جہاں آپ جانا چاہتے ہیں"
       },
       {
         "id": "rta-moto-140-b",
-        "answer_text": "always look for the signs and be ready to stop"
+        "answer_text": "ہمیشہ نشانات دیکھیں اور رکنے کے لیے تیار رہیں"
       },
       {
         "id": "rta-moto-140-c",
-        "answer_text": "always make sure you are following the road markings and the speed limit"
+        "answer_text": "ہمیشہ یقینی بنائیں کہ آپ سڑک کی نشانیاں اور رفتار کی حد کی پیروی کر رہے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-189",
-    "question_text": "گیلی سڑکیں، پینٹ لائن اور دیگر نشانات آپ کی سواری کو کیسے متاثر کریں گے؟",
+    "question_text": "گیلی سڑکیں، پینٹ کی گئی لائنیں اور دیگر نشانات آپ کی سواری کو کیسے متاثر کریں گے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-189-a",
-        "answer_text": "ٹائروں کی گرفت کو کم کریں، جو آپ کے استحکام کو متاثر کرتا ہے۔"
+        "answer_text": "ٹائروں کی پکڑ کم کر دیتے ہیں، جس سے آپ کا توازن متاثر ہوتا ہے"
       },
       {
         "id": "rta-moto-189-b",
-        "answer_text": "ٹائروں کی گرفت کو بڑھانا، سواری کو محفوظ بنانا"
+        "answer_text": "ٹائروں کی پکڑ بڑھا دیتے ہیں، سواری کو محفوظ بناتے ہیں"
       },
       {
         "id": "rta-moto-189-c",
-        "answer_text": "اپنی سواری کے استحکام کو بہتر بنائیں"
+        "answer_text": "آپ کی سواری کا توازن بہتر بناتے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-202",
-    "question_text": "یہ انتباہی نشان ڈرائیوروں کو خبردار کرتا ہے کہ وہ چیک کریں اور اس سے آگاہ رہیں۔",
+    "question_text": "یہ انتباہی نشان ڈرائیوروں کو اپنی گاڑی کی جانچ اور آگاہی کے لیے خبردار کرتا ہے؛",
     "explanation": null,
     "answers": [
       {
@@ -5493,54 +5493,54 @@
   },
   {
     "id": "rta-hvb-002",
-    "question_text": "پورٹ ایبل انتباہی سگنل رات کے وقت سب کے پاس ہونا چاہیے:",
+    "question_text": "رات کو تمام _______ کے لیے پورٹیبل وارننگ سگنلز ساتھ رکھنا ضروری ہے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-002-a",
-        "answer_text": "مخصوص گاڑیاں."
+        "answer_text": "آرٹیکولیٹڈ گاڑیاں۔"
       },
       {
         "id": "rta-hvb-002-b",
-        "answer_text": "بھاری گاڑیاں."
+        "answer_text": "بھاری گاڑیاں۔"
       },
       {
         "id": "rta-hvb-002-c",
-        "answer_text": "4.5 ٹن سے زیادہ گاڑیوں کا مجموعی وزن۔"
+        "answer_text": "وہ گاڑیاں جن کا مجموعی وزن 4.5 ٹن سے زیادہ ہو۔"
       }
     ]
   },
   {
     "id": "rta-hvb-032",
-    "question_text": "چوراہے کے نشانات:",
+    "question_text": "چوراہے کی نشانیاں:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-032-a",
-        "answer_text": "بڑی گاڑیوں پر لاگو نہ کریں۔"
+        "answer_text": "بڑی گاڑیوں پر لاگو نہیں ہوتیں۔"
       },
       {
         "id": "rta-hvb-032-b",
-        "answer_text": "بعض اوقات بڑی گاڑیوں کے لیے بہت تنگ ہوتے ہیں۔"
+        "answer_text": "کبھی کبھی بڑی گاڑیوں کے لیے بہت تنگ ہوتی ہیں۔"
       },
       {
         "id": "rta-hvb-032-c",
-        "answer_text": "ہمیشہ اطاعت کی جانی چاہیے، چاہے اس کا مطلب روک پر بھاگنا ہو۔"
+        "answer_text": "ہمیشہ ماننی چاہییں، چاہے فٹ پاتھ پر چڑھنا پڑے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-033",
-    "question_text": "اگر پلٹتے وقت آپ کی رہنمائی کے لیے آپ کے پاس کوئی مددگار ہے، تو اس شخص کو کھڑا ہونا چاہیے:",
+    "question_text": "اگر پیچھے جاتے وقت آپ کی رہنمائی کے لیے کوئی مددگار ہو، تو اسے کھڑا ہونا چاہیے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-033-a",
-        "answer_text": "گاڑی کے پیچھے."
+        "answer_text": "گاڑی کے پیچھے۔"
       },
       {
         "id": "rta-hvb-033-b",
-        "answer_text": "جہاں انہیں آپ کی گاڑی کا سب سے واضح نظارہ ملتا ہے اور وہ آپ کو سگنل دے سکتے ہیں۔"
+        "answer_text": "جہاں سے وہ آپ کی گاڑی کا سب سے واضح منظر دیکھ سکے اور آپ کو اشارہ کر سکے۔"
       },
       {
         "id": "rta-hvb-033-c",
@@ -5555,167 +5555,167 @@
     "answers": [
       {
         "id": "rta-hvb-035-a",
-        "answer_text": "اس بات کو یقینی بنانے کے لیے کہ کوئی آپ کے ساتھ نہیں ہے یا آپ کو پیچھے چھوڑنے والا ہے۔"
+        "answer_text": "یہ یقینی کرنے کے لیے کہ کوئی آپ کے برابر میں یا اوورٹیک کرنے والا نہ ہو۔"
       },
       {
         "id": "rta-hvb-035-b",
-        "answer_text": "پہلے آپ جس سمت مڑ رہے ہیں، پھر ایک بار دوسری طرف۔"
+        "answer_text": "پہلے اس سمت میں جس طرف موڑنا ہے، پھر دوسری طرف آنے کے بعد۔"
       },
       {
         "id": "rta-hvb-035-c",
-        "answer_text": "30 میٹر تک ٹرن سگنل لگانے کے بعد دو بار۔"
+        "answer_text": "30 میٹر کے لیے ٹرن سگنل لگانے کے بعد دو بار۔"
       }
     ]
   },
   {
     "id": "rta-hvb-039",
-    "question_text": "اگر آپ کی بھاری گاڑی رات کے وقت کسی تعمیر شدہ علاقے میں ٹوٹ جاتی ہے، تو آپ کے عکاس مثلث رکھے جائیں:",
+    "question_text": "اگر رات کے وقت کسی آباد علاقے میں آپ کی بھاری گاڑی خراب ہو جائے، تو عکاسی مثلث کہاں رکھنے چاہئیں:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-039-a",
-        "answer_text": "عقب میں، آنے والی ٹریفک کا سامنا۔"
+        "answer_text": "پیچھے کی طرف، آنے والی ٹریفک کے سامنے۔"
       },
       {
         "id": "rta-hvb-039-b",
-        "answer_text": "ایک آگے کی طرف، ایک پیچھے کی طرف، اور ایک گاڑی کے پیچھے 200 میٹر۔"
+        "answer_text": "ایک آگے، ایک پیچھے، اور ایک گاڑی سے ۲۰۰ میٹر پیچھے۔"
       },
       {
         "id": "rta-hvb-039-c",
-        "answer_text": "ایک سامنے کی طرف، ایک پیچھے کی طرف، اور ایک گاڑی کے کنارے، سڑک کے بیچ کے قریب۔"
+        "answer_text": "ایک آگے، ایک پیچھے، اور ایک گاڑی کے پہلو میں، سڑک کے درمیان کے قریب۔"
       }
     ]
   },
   {
     "id": "rta-hvb-040",
-    "question_text": "رات کے وقت، اگر آپ کی بھاری گاڑی غیر فعال ہے تو آپ کو تین عکاس انتباہی نشانات استعمال کرنے پڑ سکتے ہیں اور:",
+    "question_text": "رات کے وقت، آپ کو تین عکاسی انتباہی نشانات استعمال کرنے پڑ سکتے ہیں اگر آپ کی بھاری گاڑی ناکارہ ہو اور:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-040-a",
-        "answer_text": "کسی بھی سمت میں 500 میٹر کے فاصلے تک نہیں دیکھا جا سکتا۔"
+        "answer_text": "کسی بھی سمت سے ۵۰۰ میٹر کی دوری سے نظر نہ آئے۔"
       },
       {
         "id": "rta-hvb-040-b",
-        "answer_text": "کسی بھی سمت میں 200 میٹر کے فاصلے تک نہیں دیکھا جا سکتا۔"
+        "answer_text": "کسی بھی سمت سے ۲۰۰ میٹر کی دوری سے نظر نہ آئے۔"
       },
       {
         "id": "rta-hvb-040-c",
-        "answer_text": "ایک کونے سے 100 میٹر سے زیادہ کے فاصلے پر کھڑی ہے۔"
+        "answer_text": "کسی موڑ سے ۱۰۰ میٹر سے زیادہ دور کھڑی ہو۔"
       }
     ]
   },
   {
     "id": "rta-hvb-048",
-    "question_text": "ٹائر فیل ہونے کی اہم علامت یہ ہے\"",
+    "question_text": "ٹائر خراب ہونے کی بنیادی علامت:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-048-a",
-        "answer_text": "ایک زور دار دھماکے"
+        "answer_text": "ایک زور دار دھماکے کی آواز۔"
       },
       {
         "id": "rta-hvb-048-b",
-        "answer_text": "اسٹیئرنگ پر ہلکا سا احساس۔"
+        "answer_text": "اسٹیئرنگ میں ہلکا پن محسوس ہونا۔"
       },
       {
         "id": "rta-hvb-048-c",
-        "answer_text": "بریک سسٹم میں دباؤ کا نقصان۔"
+        "answer_text": "بریک سسٹم میں دباؤ کا کم ہو جانا۔"
       }
     ]
   },
   {
     "id": "rta-hvb-081",
-    "question_text": "لانگ ڈرائیو پر اور آپ اپنی آنکھیں کثرت سے جھپکنے لگیں، یہ اس بات کی علامت ہے کہ:",
+    "question_text": "لمبے سفر پر جب آپ زیادہ کثرت سے پلکیں جھپکانے لگیں، تو یہ اس بات کی علامت ہے کہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-081-a",
-        "answer_text": "آپ اپنی چوکسی دوبارہ حاصل کرنا شروع کر رہے ہیں۔"
+        "answer_text": "آپ دوبارہ چوکس ہونا شروع کر رہے ہیں۔"
       },
       {
         "id": "rta-hvb-081-b",
-        "answer_text": "آپ جاگنا شروع کر رہے ہیں."
+        "answer_text": "آپ جاگنا شروع کر رہے ہیں۔"
       },
       {
         "id": "rta-hvb-081-c",
-        "answer_text": "آپ تھکنے لگے ہیں."
+        "answer_text": "آپ تھکنا شروع کر رہے ہیں۔"
       }
     ]
   },
   {
     "id": "rta-hvb-170",
-    "question_text": "اپنے اگلے اسٹاپ پر گاڑی کے ارد گرد فوری چیک کریں۔ آپ کو کن علامات کی تلاش کرنی چاہئے؟",
+    "question_text": "اپنے اگلے پڑاؤ پر گاڑی کے گرد فوری معائنہ کریں۔ آپ کو کون سی علامات تلاش کرنی چاہئیں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-170-a",
-        "answer_text": "کم فلانے والے ٹائر اور زیادہ گرم بریک"
+        "answer_text": "کم ہوا والے ٹائر اور زیادہ گرم بریک"
       },
       {
         "id": "rta-hvb-170-b",
-        "answer_text": "کم فلانے والے ٹائر اور زیادہ گرم بریک"
+        "answer_text": "کم ہوا والے ٹائر اور زیادہ گرم بریک"
       },
       {
         "id": "rta-hvb-170-c",
-        "answer_text": "کلچ جو کاٹ نہیں رہا ہے۔"
+        "answer_text": "کلچ جو بائٹ نہیں کر رہا"
       }
     ]
   },
   {
     "id": "rta-hvb-200",
-    "question_text": "کم رفتار سے گاڑی چلائیں اور اونچائی کی حد کے اشارے پر عمل کرتے ہوئے راستے میں کم ڈھانچے کا خیال رکھیں۔",
+    "question_text": "کم رفتار سے چلائیں اور اونچائی کی حد کے نشانات کی پاسداری کرتے ہوئے راستے میں نیچی ساخت کا خیال رکھیں۔",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-200-a",
-        "answer_text": "یہ سفر سے پہلے کریں۔"
+        "answer_text": "یہ سفر سے پہلے کریں"
       },
       {
         "id": "rta-hvb-200-b",
-        "answer_text": "یہ سفر کے فوراً بعد کریں۔"
+        "answer_text": "یہ سفر کے فوراً بعد کریں"
       },
       {
         "id": "rta-hvb-200-c",
-        "answer_text": "سفر کے دوران ایسا کریں۔"
+        "answer_text": "یہ سفر کے دوران کریں"
       }
     ]
   },
   {
     "id": "rta-hvb-202",
-    "question_text": "آپ لمبے کھمبے اور نوشتہ جات لے جا رہے ہیں، اس سے لمبے راستے کا بندوبست کرنا چاہیے؟ آپ لوڈ سیکورٹی کو کیسے یقینی بناتے ہیں؟",
+    "question_text": "آپ لمبے کھمبے اور لاٹھیاں لے جا رہے ہیں، انہیں لمبائی کے رخ ترتیب دینا چاہیے؟ آپ بوجھ کی حفاظت کیسے یقینی بنائیں گے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-202-a",
-        "answer_text": "مکمل طور پر ترپال سے ڈھانپیں اور موٹی رسی سے محفوظ کریں۔"
+        "answer_text": "تارپولین سے مکمل ڈھانپیں اور موٹی رسی سے باندھیں"
       },
       {
         "id": "rta-hvb-202-b",
-        "answer_text": "اسٹیل چوکس کے ساتھ سپورٹ اور گاڑی کو زنجیروں کے کم از کم دو سیٹوں کے ساتھ جکڑے ہوئے ہیں۔"
+        "answer_text": "سٹیل چاکس سے سہارا دیں اور گاڑی کے ساتھ کم از کم دو سیٹ زنجیروں سے باندھیں"
       },
       {
         "id": "rta-hvb-202-c",
-        "answer_text": "رسی اور جگہ انتباہی سگنل کے ساتھ مضبوطی سے محفوظ کریں۔"
+        "answer_text": "رسی سے مضبوطی سے باندھیں اور انتباہی نشان لگائیں"
       }
     ]
   },
   {
     "id": "rta-hvb-215",
-    "question_text": "پڑوس کے شروع میں، آپ کو اس نشانی کا سامنا ہو سکتا ہے۔ آپ کو کیا کرنا چاہیے؟",
+    "question_text": "محلے کے شروع میں آپ کو یہ نشان مل سکتا ہے۔ آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-215-a",
-        "answer_text": "سڑک ایک نجی ملکیت ہو سکتی ہے۔"
+        "answer_text": "سڑک نجی ملکیت ہو سکتی ہے"
       },
       {
         "id": "rta-hvb-215-b",
-        "answer_text": "آگے گیٹ سے سڑک بند ہو سکتی ہے۔"
+        "answer_text": "آگے سڑک گیٹ سے بند ہو سکتی ہے"
       },
       {
         "id": "rta-hvb-215-c",
-        "answer_text": "آگے سڑک بند ہو سکتی ہے۔"
+        "answer_text": "آگے سڑک بند ہو سکتی ہے"
       }
     ]
   }

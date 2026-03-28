@@ -2488,39 +2488,39 @@
   },
   {
     "id": "rta-fk-040",
-    "question_text": "آپ کے فورک لفٹ کو ایندھن بھرنا اچھی ہوادار جگہوں پر کیا جانا چاہیے کیونکہ؛",
+    "question_text": "آپ کی فورک لفٹ کو ایندھن بھرنا اچھی ہوادار جگہوں پر ہونا چاہیے کیونکہ؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-040-a",
-        "answer_text": "ایندھن کے اسٹیشن بہت دور ہیں۔"
+        "answer_text": "ایندھن کے اسٹیشن بہت دور ہیں"
       },
       {
         "id": "rta-fk-040-b",
-        "answer_text": "پیٹرول اور ایل پی جی کا دھواں بہت دھماکہ خیز ہوتا ہے۔"
+        "answer_text": "پٹرول اور LPG کے دھوئیں بہت دھماکہ خیز ہیں"
       },
       {
         "id": "rta-fk-040-c",
-        "answer_text": "ہو سکتا ہے آگ بجھانے والے آلات دستیاب نہ ہوں۔"
+        "answer_text": "آگ بجھانے والے آلات دستیاب نہ ہوں"
       }
     ]
   },
   {
     "id": "rta-fk-059",
-    "question_text": "بصری استعمال سے پہلے کی جانچ میں یہ یقینی بنانا شامل ہے کہ؛",
+    "question_text": "بصری استعمال سے پہلے جانچ میں یہ یقینی بنانا شامل ہے کہ؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-059-a",
-        "answer_text": "آگ بجھانے والا مشین مناسب طریقے سے واقع ہے۔"
+        "answer_text": "آگ بجھانے والا آلہ مناسب جگہ پر ہے"
       },
       {
         "id": "rta-fk-059-b",
-        "answer_text": "آگ بجھانے والا آلہ موجود ہے اور چارج کیا گیا ہے۔"
+        "answer_text": "آگ بجھانے والا آلہ موجود اور چارج ہے"
       },
       {
         "id": "rta-fk-059-c",
-        "answer_text": "آگ بجھانے والے کا مناسب لیبل لگا ہوا ہے۔"
+        "answer_text": "آگ بجھانے والے آلے پر مناسب لیبل لگا ہے"
       }
     ]
   },
@@ -2531,661 +2531,661 @@
     "answers": [
       {
         "id": "rta-fk-089-a",
-        "answer_text": "ڈرائیور الٹنے والی فورک لفٹ پر کیبن کے اندر رہتے ہیں۔"
+        "answer_text": "ڈرائیور پلٹتی فورک لفٹ میں کیبن کے اندر رہتے ہیں"
       },
       {
         "id": "rta-fk-089-b",
-        "answer_text": "ڈرائیور الٹنے والی فورک لفٹ سے چھلانگ لگانے کی کوشش کر رہے ہیں۔"
+        "answer_text": "ڈرائیور پلٹتی فورک لفٹ سے کودنے کی کوشش کرتے ہیں"
       },
       {
         "id": "rta-fk-089-c",
-        "answer_text": "ڈرائیور الٹنے والی فورک لفٹ کو روکنے کی کوشش کر رہے ہیں۔"
+        "answer_text": "ڈرائیور پلٹتی فورک لفٹ کو روکنے کی کوشش کرتے ہیں"
       }
     ]
   },
   {
     "id": "rta-hfk-014",
-    "question_text": "اگر آپ بیلچہ چلا رہے ہیں تو ڈھیلے کپڑوں اور زیورات اور ڈھیلے لمبے بالوں سے پرہیز کریں کیونکہ؛",
+    "question_text": "اگر آپ شاول چلا رہے ہیں، تو ڈھیلے کپڑے، زیورات، اور لمبے کھلے بالوں سے پرہیز کریں کیونکہ؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-014-a",
-        "answer_text": "وہ بیلچوں کو خراب کرنے کا سبب بن سکتے ہیں۔"
+        "answer_text": "یہ شاول کو خرابی کا شکار کر سکتے ہیں"
       },
       {
         "id": "rta-hfk-014-b",
-        "answer_text": "وہ کنٹرول یا حرکت پذیر حصوں کو پکڑ سکتے ہیں اور سنگین حادثے کا باعث بن سکتے ہیں۔"
+        "answer_text": "یہ کنٹرولز یا حرکت کرنے والے پرزوں میں پھنس کر سنگین حادثے کا باعث بن سکتے ہیں"
       },
       {
         "id": "rta-hfk-014-c",
-        "answer_text": "وہ کام کی پیشرفت میں تاخیر کا سبب بن سکتے ہیں۔"
+        "answer_text": "یہ کام کی پیشرفت میں تاخیر کا سبب بن سکتے ہیں"
       }
     ]
   },
   {
     "id": "rta-hfk-035",
-    "question_text": "کارروائی کی جانی ہے، کس کو رپورٹ کرنا ہے اور کہاں اور ہنگامی فون نمبرز ہیں؛",
+    "question_text": "اقدامات، کسے رپورٹ کرنا ہے اور کہاں، اور ہنگامی فون نمبر؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-035-a",
-        "answer_text": "مالکان کے دستورالعمل کا حصہ"
+        "answer_text": "مالک کی دستورالعمل کا حصہ ہیں"
       },
       {
         "id": "rta-hfk-035-b",
-        "answer_text": "پری آپریشنل چیکس کا حصہ"
+        "answer_text": "قبل از آپریشن چیک کا حصہ ہیں"
       },
       {
         "id": "rta-hfk-035-c",
-        "answer_text": "ورک سائٹ کے ہنگامی طریقہ کار کا حصہ"
+        "answer_text": "کام کی جگہ کے ہنگامی طریقہ کار کا حصہ ہیں"
       }
     ]
   },
   {
     "id": "rta-hfk-057",
-    "question_text": "آپ کے بیلچے میں آگ لگنے کی صورت میں آپ کون سے دو (2) فوری اقدامات کر سکتے ہیں؟ اور تلاش کریں؛",
+    "question_text": "اگر آپ کے شاول میں آگ لگ جائے تو آپ کیا دو (2) فوری اقدامات کر سکتے ہیں؟ اور کیا دیکھیں؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-057-a",
-        "answer_text": "آگ بجھانے والے آلات تلاش کریں اور مدد کے لیے کال کریں۔"
+        "answer_text": "آگ بجھانے والے آلات تلاش کریں اور مدد کے لیے پکاریں"
       },
       {
         "id": "rta-hfk-057-b",
-        "answer_text": "کام کی جگہ کو صاف کریں اور لوگوں کو خبردار کریں۔"
+        "answer_text": "کام کی جگہ صاف کریں اور لوگوں کو خبردار کریں"
       },
       {
         "id": "rta-hfk-057-c",
-        "answer_text": "بیلچہ بند کرو اور انجن کو بند کرو"
+        "answer_text": "شاول روکیں اور انجن بند کریں"
       }
     ]
   },
   {
     "id": "rta-hfk-061",
-    "question_text": "اگر آپ کو بیلچے کے کیبن کو آگ یا دیگر وجوہات کی وجہ سے چھوڑنا پڑے تو یقینی بنائیں۔",
+    "question_text": "اگر آپ کو آگ یا کسی اور وجہ سے شاول کا کیبن چھوڑنا پڑے، تو یقینی بنائیں؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-061-a",
-        "answer_text": "بیلچے سے جہاں تک ممکن ہو چھلانگ لگانا"
+        "answer_text": "شاول سے جتنا ممکن ہو دور کود جائیں"
       },
       {
         "id": "rta-hfk-061-b",
-        "answer_text": "ایسا آہستہ اور احتیاط سے کرنا"
+        "answer_text": "آہستہ اور احتیاط سے نکلیں"
       },
       {
         "id": "rta-hfk-061-c",
-        "answer_text": "معمول سے اترنے کا طریقہ کار استعمال کرنے کے لیے"
+        "answer_text": "معمول کا اترنے کا طریقہ اپنائیں"
       }
     ]
   },
   {
     "id": "rta-hfk-063",
-    "question_text": "آپ کی شفٹ کے اختتام پر، آپ کے بیلچے میں اسٹیئرنگ کی خرابی ہے۔ آپ کو کیا کرنا چاہیے؟",
+    "question_text": "اپنی شفٹ کے اختتام پر، آپ کے شاول میں اسٹیئرنگ خرابی آ گئی ہے۔ آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-063-a",
-        "answer_text": "گھر جاؤ، تمہاری شفٹ ختم ہو گئی ہے۔"
+        "answer_text": "گھر جائیں، آپ کی شفٹ ختم ہو گئی ہے"
       },
       {
         "id": "rta-hfk-063-b",
-        "answer_text": "کیبن کے اندر رہیں اور اپنے سپروائزر کا انتظار کریں۔"
+        "answer_text": "کیبن میں رہیں اور اپنے سپروائزر کا انتظار کریں"
       },
       {
         "id": "rta-hfk-063-c",
-        "answer_text": "گھر جانے سے پہلے مسئلہ کی اطلاع دیں۔"
+        "answer_text": "گھر جانے سے پہلے مسئلے کی اطلاع دیں"
       }
     ]
   },
   {
     "id": "rta-hfk-064",
-    "question_text": "اگر آپ کے بیلچے میں کھڑی ریمپ یا سڑک پر بریک فیل ہو گئی ہے تو بالٹی ہو سکتی ہے۔",
+    "question_text": "اگر تیز ڈھلان یا سڑک پر آپ کے شاول کی بریک فیل ہو جائے، تو بالٹی کو؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-064-a",
-        "answer_text": "گرنے پر بریک کے طور پر استعمال کیا جاتا ہے۔"
+        "answer_text": "گرانے پر بریک کے طور پر استعمال کیا جا سکتا ہے"
       },
       {
         "id": "rta-hfk-064-b",
-        "answer_text": "محفوظ طریقے سے روکنے کے لیے گائیڈ کے طور پر استعمال کیا جاتا ہے۔"
+        "answer_text": "محفوظ طریقے سے رکنے کے لیے رہنما کے طور پر استعمال کیا جا سکتا ہے"
       },
       {
         "id": "rta-hfk-064-c",
-        "answer_text": "اسٹیئرنگ کے آلے کے طور پر استعمال کیا جاتا ہے۔"
+        "answer_text": "اسٹیئرنگ کے آلے کے طور پر استعمال کیا جا سکتا ہے"
       }
     ]
   },
   {
     "id": "rta-hfk-065",
-    "question_text": "اس صورت حال میں، کیبن کے اندر رہنا اور مدد کے لیے کال کرنا بہتر ہے۔",
+    "question_text": "اس صورتحال میں، کیبن کے اندر رہنا اور مدد کے لیے کال کرنا بہتر ہے۔",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-065-a",
-        "answer_text": "بیلچے میں بریک فیل ہیں۔"
+        "answer_text": "شاول کی بریک فیل ہو جائے"
       },
       {
         "id": "rta-hfk-065-b",
-        "answer_text": "بیلچہ ڈھلوان پر لڑھکتا ہے یا جزوی طور پر لڑھکتا ہے۔"
+        "answer_text": "شاول پلٹ جائے یا ڈھلان پر جزوی طور پر پلٹے"
       },
       {
         "id": "rta-hfk-065-c",
-        "answer_text": "بیلچہ میں اسٹیئرنگ کی خرابی ہے۔"
+        "answer_text": "شاول کی اسٹیئرنگ فیل ہو جائے"
       }
     ]
   },
   {
     "id": "rta-moto-013",
-    "question_text": "مندرجہ ذیل میں سے کون سی صورتیں پچھلا پہیہ پھسلنے کا سبب بن سکتی ہیں؟",
+    "question_text": "درج ذیل میں سے کون سی صورت میں پچھلا پہیہ پھسل سکتا ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-013-a",
-        "answer_text": "سامنے والی بریک کو کریو میں لگانا۔"
+        "answer_text": "موڑ میں اگلا بریک لگانا۔"
       },
       {
         "id": "rta-moto-013-b",
-        "answer_text": "بہت تیزی سے تیز ہو رہا ہے۔"
+        "answer_text": "بہت تیزی سے رفتار بڑھانا۔"
       },
       {
         "id": "rta-moto-013-c",
-        "answer_text": "آہستہ آہستہ چلتے ہوئے اونچے گیئر میں تبدیل کرنا۔"
+        "answer_text": "آہستہ چلتے ہوئے اونچے گیئر میں تبدیل کرنا۔"
       }
     ]
   },
   {
     "id": "rta-moto-049",
-    "question_text": "زیادہ بریک لگانے کی وجہ سے پچھلے پہیے کے سکڈ کو سنبھالنے کا بہترین طریقہ یہ ہے:",
+    "question_text": "زیادہ بریک لگانے سے پچھلے پہیے کی سلپ کو سنبھالنے کا بہترین طریقہ یہ ہے کہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-049-a",
-        "answer_text": "سکڈ کی سمت کی طرف بڑھیں اور پیچھے کی بریک چھوڑ دیں۔"
+        "answer_text": "سلپ کی سمت میں اسٹیئر کریں اور پچھلی بریک چھوڑ دیں۔"
       },
       {
         "id": "rta-moto-049-b",
-        "answer_text": "ایک پاؤں زمین پر رکھ کر آہستہ آہستہ بریکوں کو آسان کریں۔"
+        "answer_text": "آہستہ آہستہ بریک ڈھیلی کریں اور ایک پاؤں زمین پر رکھیں۔"
       },
       {
         "id": "rta-moto-049-c",
-        "answer_text": "سکڈ سے تھوڑا سا دور رہیں اور بریکوں کو تیزی سے چھوڑ دیں۔"
+        "answer_text": "سلپ سے تھوڑا دور اسٹیئر کریں اور بریک تیزی سے چھوڑ دیں۔"
       }
     ]
   },
   {
     "id": "rta-moto-050",
-    "question_text": "آپ کا پچھلا پہیہ لاک ہو جاتا ہے، انجن اچانک تیز ہو جاتا ہے اور آپ کا سائیکل پھسلنا شروع ہو جاتا ہے۔ اس کی ممکنہ وجہ یہ ہے:",
+    "question_text": "آپ کا پچھلا پہیہ لاک ہو جاتا ہے، انجن اچانک تیز ہو جاتا ہے اور آپ کی سائیکل سلپ کرنے لگتی ہے۔ اس کی ممکنہ وجہ یہ ہے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-050-a",
-        "answer_text": "ایک ٹوٹی ہوئی زنجیر."
+        "answer_text": "چین کا ٹوٹ جانا۔"
       },
       {
         "id": "rta-moto-050-b",
-        "answer_text": "ایک پھنس ہوا تھروٹل۔"
+        "answer_text": "تھروٹل کا پھنس جانا۔"
       },
       {
         "id": "rta-moto-050-c",
-        "answer_text": "پچھلا پہیہ پھٹنا۔"
+        "answer_text": "پچھلے پہیے کا پنکچر۔"
       }
     ]
   },
   {
     "id": "rta-moto-051",
-    "question_text": "اگر آپ کا ٹائر پھٹ جاتا ہے تو سب سے پہلے آپ کو یہ کرنا چاہئے:",
+    "question_text": "اگر آپ کے ٹائر کا پنکچر ہو جائے تو سب سے پہلے آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-051-a",
-        "answer_text": "ہینڈ گرپس کو مضبوطی سے پکڑیں ​​اور سیدھا راستہ چلانے کی کوشش کریں۔"
+        "answer_text": "ہینڈ گرپ کو مضبوطی سے پکڑیں اور سیدھی سمت میں اسٹیئر کرنے کی کوشش کریں۔"
       },
       {
         "id": "rta-moto-051-b",
-        "answer_text": "دونوں بریکوں کا استعمال کرتے ہوئے آہستہ سے بریک لگائیں اور تھروٹل کو آسان کریں۔"
+        "answer_text": "دونوں بریک استعمال کرتے ہوئے آہستگی سے بریک لگائیں اور تھروٹل کم کریں۔"
       },
       {
         "id": "rta-moto-051-c",
-        "answer_text": "سڑک کے کنارے کی طرف بڑھو."
+        "answer_text": "سڑک کے کنارے کی طرف اسٹیئر کریں۔"
       }
     ]
   },
   {
     "id": "rta-moto-053",
-    "question_text": "آپ تیزی سے رکنے کی کوشش کر رہے ہیں، لیکن آپ کا اگلا پہیہ پھسلنا شروع ہو جاتا ہے۔ آپ کو چاہیے:",
+    "question_text": "آپ تیزی سے رکنے کی کوشش کر رہے ہیں، لیکن آپ کا اگلا پہیہ سلپ کرنے لگتا ہے۔ آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-053-a",
-        "answer_text": "پچھلی بریک کو زیادہ مضبوطی سے لگائیں۔"
+        "answer_text": "پچھلی بریک زیادہ مضبوطی سے لگائیں۔"
       },
       {
         "id": "rta-moto-053-b",
-        "answer_text": "نچلے گیئر میں تبدیل کریں۔"
+        "answer_text": "نیچے گیئر میں جائیں۔"
       },
       {
         "id": "rta-moto-053-c",
-        "answer_text": "سامنے کی بریک فوری طور پر چھوڑ دیں۔"
+        "answer_text": "فوری طور پر اگلی بریک چھوڑ دیں۔"
       }
     ]
   },
   {
     "id": "rta-moto-055",
-    "question_text": "When braking, if the rear wheel starts skidding out to the right, you should:",
+    "question_text": "بریک لگاتے وقت اگر پچھلا پہیہ دائیں طرف پھسلنے لگے تو آپ کو چاہیے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-055-a",
-        "answer_text": "apply both brakes gently."
+        "answer_text": "دونوں بریک آہستہ سے لگائیں۔"
       },
       {
         "id": "rta-moto-055-b",
-        "answer_text": "steer slightly to the right."
+        "answer_text": "تھوڑا دائیں طرف اسٹیئر کریں۔"
       },
       {
         "id": "rta-moto-055-c",
-        "answer_text": "counter steer to the left."
+        "answer_text": "بائیں طرف کاؤنٹر اسٹیئر کریں۔"
       }
     ]
   },
   {
     "id": "rta-moto-058",
-    "question_text": "If the back of the motorcycle starts skidding while accelerating, which of the following actions should the rider take immediately?",
+    "question_text": "اگر رفتار بڑھاتے وقت موٹرسائیکل کا پچھلا حصہ پھسلنے لگے تو سوار کو فوری طور پر کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-058-a",
-        "answer_text": "Ease off the throttle."
+        "answer_text": "تھروٹل کو آہستہ سے چھوڑیں۔"
       },
       {
         "id": "rta-moto-058-b",
-        "answer_text": "Ease off the throttle, steer hard to the left and apply the rear brake gently."
+        "answer_text": "تھروٹل چھوڑیں، بائیں طرف تیزی سے اسٹیئر کریں اور پچھلی بریک آہستہ سے لگائیں۔"
       },
       {
         "id": "rta-moto-058-c",
-        "answer_text": "Steer hard to the left, apply the rear brake gently and sit as far back on the seat as possible."
+        "answer_text": "بائیں طرف تیزی سے اسٹیئر کریں، پچھلی بریک آہستہ سے لگائیں اور سیٹ پر جتنا ممکن ہو پیچھے بیٹھیں۔"
       }
     ]
   },
   {
     "id": "rta-moto-092",
-    "question_text": "Keeping a safe distance of at least 3 seconds is important because:",
+    "question_text": "کم از کم 3 سیکنڈ کا محفوظ فاصلہ رکھنا اہم ہے کیونکہ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-092-a",
-        "answer_text": "it gives you more time to stop in an emergency."
+        "answer_text": "یہ آپ کو ہنگامی صورت میں رکنے کے لیے زیادہ وقت دیتا ہے۔"
       },
       {
         "id": "rta-moto-092-b",
-        "answer_text": "it allows you more room to accelerate faster."
+        "answer_text": "یہ آپ کو تیزی سے رفتار بڑھانے کے لیے زیادہ جگہ دیتا ہے۔"
       },
       {
         "id": "rta-moto-092-c",
-        "answer_text": "you can swerve easily."
+        "answer_text": "آپ آسانی سے سمت بدل سکتے ہیں۔"
       }
     ]
   },
   {
     "id": "rta-moto-168",
-    "question_text": "You are trying to make an emergency stop for your bike but your tire starts skidding. What could be the reason?",
+    "question_text": "آپ اپنی بائیک کے لیے ہنگامی اسٹاپ کرنے کی کوشش کر رہے ہیں لیکن آپ کا ٹائر پھسلنا شروع ہو جاتا ہے۔ اس کی کیا وجہ ہو سکتی ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-168-a",
-        "answer_text": "the front brakes were not working properly"
+        "answer_text": "سامنے کے بریک صحیح طریقے سے کام نہیں کر رہے تھے"
       },
       {
         "id": "rta-moto-168-b",
-        "answer_text": "the rear brake pedal was pressed too hard"
+        "answer_text": "پچھلا بریک پیڈل بہت زور سے دبایا گیا تھا"
       },
       {
         "id": "rta-moto-168-c",
-        "answer_text": "both front and rear brakes are working just fine"
+        "answer_text": "سامنے اور پچھلے دونوں بریک بالکل ٹھیک کام کر رہے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-170",
-    "question_text": "If your bike skids for any reason, how should you position your feet while you are dealing with the skid?",
+    "question_text": "اگر کسی وجہ سے آپ کی بائیک پھسل جائے، تو پھسلن سے نمٹتے وقت آپ کے پیروں کی پوزیشن کیسی ہونی چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-170-a",
-        "answer_text": "your feet should be positioned on the ground"
+        "answer_text": "آپ کے پیر زمین پر ہونے چاہئیں"
       },
       {
         "id": "rta-moto-170-b",
-        "answer_text": "your feet should be kept positioned on the foot pegs"
+        "answer_text": "آپ کے پیر فٹ پیگس پر رکھے رہنے چاہئیں"
       },
       {
         "id": "rta-moto-170-c",
-        "answer_text": "your feet should be neither on the foot pegs nor the ground"
+        "answer_text": "آپ کے پیر نہ فٹ پیگس پر ہونے چاہئیں اور نہ زمین پر"
       }
     ]
   },
   {
     "id": "rta-moto-171",
-    "question_text": "The most common cause of skidding is grabbing or suddenly applying the brakes. How?",
+    "question_text": "پھسلنے کی سب سے عام وجہ بریک پکڑنا یا اچانک لگانا ہے۔ کیسے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-171-a",
-        "answer_text": "the brakes do not have any grip on the surface"
+        "answer_text": "بریک کی سطح پر کوئی گرفت نہیں ہے"
       },
       {
         "id": "rta-moto-171-b",
-        "answer_text": "the front brakes not work as good as the rear brakes"
+        "answer_text": "سامنے کے بریک پچھلے بریک کی طرح اچھے کام نہیں کرتے"
       },
       {
         "id": "rta-moto-171-c",
-        "answer_text": "this can lock up one or both wheels while braking."
+        "answer_text": "اس سے بریک لگاتے وقت ایک یا دونوں پہیے لاک ہو سکتے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-173",
-    "question_text": "Having a tire blow-out is a result of a quick puncture to the tire. What is your best protection from this?",
+    "question_text": "ٹائر کا پھٹنا ٹائر میں جلدی پنکچر کا نتیجہ ہے۔ اس سے آپ کا بہترین تحفظ کیا ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-173-a",
-        "answer_text": "ride your bike during day time only"
+        "answer_text": "صرف دن کے وقت بائیک چلائیں"
       },
       {
         "id": "rta-moto-173-b",
-        "answer_text": "replace your tires before they become too worn"
+        "answer_text": "ٹائر بہت زیادہ گھِسنے سے پہلے تبدیل کریں"
       },
       {
         "id": "rta-moto-173-c",
-        "answer_text": "replace your tires every six months"
+        "answer_text": "ہر چھ مہینے بعد ٹائر تبدیل کریں"
       }
     ]
   },
   {
     "id": "rta-moto-175",
-    "question_text": "The chain of your bike breaks and it locks the wheel. What should you do to stay safe?",
+    "question_text": "آپ کی بائیک کی چین ٹوٹ جاتی ہے اور پہیہ جام ہو جاتا ہے۔ محفوظ رہنے کے لیے آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-175-a",
-        "answer_text": "release the brakes and steer to the opposite direction of the skid"
+        "answer_text": "بریک چھوڑیں اور سکڈ کی مخالف سمت میں اسٹیئر کریں"
       },
       {
         "id": "rta-moto-175-b",
-        "answer_text": "put pressure on the brakes and steer to the direction of the skid"
+        "answer_text": "بریک دبائیں اور سکڈ کی سمت میں اسٹیئر کریں"
       },
       {
         "id": "rta-moto-175-c",
-        "answer_text": "release the brakes and steer to the direction of the skid"
+        "answer_text": "بریک چھوڑیں اور سکڈ کی سمت میں اسٹیئر کریں"
       }
     ]
   },
   {
     "id": "rta-moto-179",
-    "question_text": "A quick way to swerve around an obstacle called counter steering. When doing this;",
+    "question_text": "کسی رکاوٹ کے گرد تیزی سے گھومنے کے طریقے کو کاؤنٹر اسٹیئرنگ کہتے ہیں۔ ایسا کرتے وقت؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-179-a",
-        "answer_text": "you should not use any of the brakes."
+        "answer_text": "آپ کو کوئی بھی بریک استعمال نہیں کرنی چاہیے"
       },
       {
         "id": "rta-moto-179-b",
-        "answer_text": "you may use the front brake"
+        "answer_text": "آپ اگلی بریک استعمال کر سکتے ہیں"
       },
       {
         "id": "rta-moto-179-c",
-        "answer_text": "you may use  the rear brake"
+        "answer_text": "آپ پچھلی بریک استعمال کر سکتے ہیں"
       }
     ]
   },
   {
     "id": "rta-moto-180",
-    "question_text": "Riding towards an obstacle on the road that is flat like a card board or metal sheet, what should you do?",
+    "question_text": "سڑک پر کسی چپٹی رکاوٹ جیسے گتے یا دھات کی چادر کی طرف جاتے ہوئے آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-180-a",
-        "answer_text": "make an evasive maneuver"
+        "answer_text": "بچنے کا مینیور کریں"
       },
       {
         "id": "rta-moto-180-b",
-        "answer_text": "ride straight over the top and do not brake"
+        "answer_text": "سیدھے اوپر سے گزریں اور بریک مت لگائیں"
       },
       {
         "id": "rta-moto-180-c",
-        "answer_text": "do an emergency braking"
+        "answer_text": "ہنگامی بریک لگائیں"
       }
     ]
   },
   {
     "id": "rta-moto-181",
-    "question_text": "Riding towards an obstacle on the road that is bigger or a rough road, what should you do?",
+    "question_text": "سڑک پر کسی بڑی رکاوٹ یا ناہموار سڑک کی طرف جاتے ہوئے آپ کو کیا کرنا چاہیے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-181-a",
-        "answer_text": "ride straight over the top and do not brake"
+        "answer_text": "سیدھے اوپر سے گزریں اور بریک مت لگائیں"
       },
       {
         "id": "rta-moto-181-b",
-        "answer_text": "speed up and try to jump over the object"
+        "answer_text": "رفتار بڑھائیں اور اشیاء کو پھاندنے کی کوشش کریں"
       },
       {
         "id": "rta-moto-181-c",
-        "answer_text": "if possible, brake before you reach the object, but release the brake before you hit it."
+        "answer_text": "اگر ممکن ہو تو رکاوٹ سے پہلے بریک لگائیں، لیکن ٹکرانے سے پہلے بریک چھوڑ دیں"
       }
     ]
   },
   {
     "id": "rta-moto-182",
-    "question_text": "In dealing with riding emergency, what can you do to reduce the likelihood of falling over?",
+    "question_text": "سواری کی ہنگامی صورتحال میں، گرنے کے امکانات کو کم کرنے کے لیے آپ کیا کر سکتے ہیں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-182-a",
-        "answer_text": "try to keep the bike upright in a straight line"
+        "answer_text": "بائیک کو سیدھا اور سیدھی لائن میں رکھنے کی کوشش کریں"
       },
       {
         "id": "rta-moto-182-b",
-        "answer_text": "try to use the front brake only"
+        "answer_text": "صرف اگلی بریک استعمال کرنے کی کوشش کریں"
       },
       {
         "id": "rta-moto-182-c",
-        "answer_text": "try to wear the top quality helmets only"
+        "answer_text": "صرف اعلیٰ معیار کے ہیلمٹ پہننے کی کوشش کریں"
       }
     ]
   },
   {
     "id": "rta-moto-184",
-    "question_text": "To swerve quickly to the left and perform a counter steering, you need to;",
+    "question_text": "بائیں طرف تیزی سے مڑنے اور کاؤنٹر اسٹیئرنگ کرنے کے لیے، آپ کو؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-184-a",
-        "answer_text": "press forward on the left handgrip."
+        "answer_text": "بائیں ہینڈ گرپ کو آگے دبائیں"
       },
       {
         "id": "rta-moto-184-b",
-        "answer_text": "press forward on the right handgrip."
+        "answer_text": "دائیں ہینڈ گرپ کو آگے دبائیں"
       },
       {
         "id": "rta-moto-184-c",
-        "answer_text": "lean and turn your head to the right"
+        "answer_text": "جھکیں اور اپنا سر دائیں طرف موڑیں"
       }
     ]
   },
   {
     "id": "rta-moto-188",
-    "question_text": "As a rider, you want to have more time to stop in case of emergency. How can you do this?",
+    "question_text": "ایک سوار کے طور پر، آپ ہنگامی صورت میں رکنے کے لیے زیادہ وقت چاہتے ہیں۔ آپ یہ کیسے کر سکتے ہیں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-188-a",
-        "answer_text": "by wearing highly reflective clothing"
+        "answer_text": "انتہائی عکاس لباس پہن کر"
       },
       {
         "id": "rta-moto-188-b",
-        "answer_text": "by increasing your following distance and being alert"
+        "answer_text": "پیچھے کا فاصلہ بڑھا کر اور چوکس رہ کر"
       },
       {
         "id": "rta-moto-188-c",
-        "answer_text": "by maintaining your bike properly"
+        "answer_text": "اپنی بائیک کی مناسب دیکھ بھال کر کے"
       }
     ]
   },
   {
     "id": "rta-hvb-044",
-    "question_text": "In an emergency, to stop quickly and control the vehicle, you should use the brakes:",
+    "question_text": "ہنگامی صورتحال میں، جلدی رکنے اور گاڑی کو قابو میں رکھنے کے لیے، آپ کو بریک استعمال کرنی چاہیے:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-044-a",
-        "answer_text": "until you lock the wheels and keep them locked."
+        "answer_text": "جب تک پہیے لاک نہ ہو جائیں اور انہیں لاک رکھیں۔"
       },
       {
         "id": "rta-hvb-044-b",
-        "answer_text": "until you almost lock the wheels, then release the brakes and apply again."
+        "answer_text": "جب تک پہیے تقریباً لاک نہ ہو جائیں، پھر بریک چھوڑیں اور دوبارہ لگائیں۔"
       },
       {
         "id": "rta-hvb-044-c",
-        "answer_text": "after changing through the gears."
+        "answer_text": "گیئر بدلنے کے بعد۔"
       }
     ]
   },
   {
     "id": "rta-hvb-046",
-    "question_text": "To put out a fire, use the fire extinguisher until:",
+    "question_text": "آگ بجھانے کے لیے، آگ بجھانے والا آلہ اس وقت تک استعمال کریں جب تک:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-046-a",
-        "answer_text": "the flame is gone."
+        "answer_text": "شعلہ بجھ نہ جائے۔"
       },
       {
         "id": "rta-hvb-046-b",
-        "answer_text": "whatever was burning is cool."
+        "answer_text": "جو چیز جل رہی تھی وہ ٹھنڈی نہ ہو جائے۔"
       },
       {
         "id": "rta-hvb-046-c",
-        "answer_text": "the smoke has cleared."
+        "answer_text": "دھواں صاف نہ ہو جائے۔"
       }
     ]
   },
   {
     "id": "rta-hvb-052",
-    "question_text": "If you have accelerated too hard, and your drive wheels spin, you should:",
+    "question_text": "اگر آپ نے بہت زیادہ رفتار سے چلایا ہو اور آپ کے ڈرائیو پہیے گھومنے لگیں، تو آپ کو:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-052-a",
-        "answer_text": "brake hard."
+        "answer_text": "زور سے بریک لگائیں۔"
       },
       {
         "id": "rta-hvb-052-b",
-        "answer_text": "press the clutch pedal."
+        "answer_text": "کلچ پیڈل دبائیں۔"
       },
       {
         "id": "rta-hvb-052-c",
-        "answer_text": "ease off the accelerator."
+        "answer_text": "ایکسیلیریٹر سے پاؤں ہٹائیں۔"
       }
     ]
   },
   {
     "id": "rta-hvb-112",
-    "question_text": "The three (3) very dangerous vehicle emergencies are;",
+    "question_text": "گاڑیوں کی تین (3) انتہائی خطرناک ہنگامی صورتحال یہ ہیں:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-112-a",
-        "answer_text": "brake failure, fires, steering failure."
+        "answer_text": "بریک فیل، آگ لگنا، اسٹیئرنگ فیل۔"
       },
       {
         "id": "rta-hvb-112-b",
-        "answer_text": "tire failure, brake failure, fires."
+        "answer_text": "ٹائر فیل، بریک فیل، آگ لگنا۔"
       },
       {
         "id": "rta-hvb-112-c",
-        "answer_text": "tire failure, brake failure, sleepiness."
+        "answer_text": "ٹائر فیل، بریک فیل، نیند آنا۔"
       }
     ]
   },
   {
     "id": "rta-hvb-144",
-    "question_text": "If you have to change wheels by the road, how can you safely position your vehicle?",
+    "question_text": "اگر آپ کو سڑک کے کنارے پہیے بدلنے ہوں، تو آپ اپنی گاڑی کو محفوظ طریقے سے کیسے پوزیشن دے سکتے ہیں؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-144-a",
-        "answer_text": "The vehicle should be facing the opposite direction"
+        "answer_text": "گاڑی کا رخ مخالف سمت میں ہونا چاہیے"
       },
       {
         "id": "rta-hvb-144-b",
-        "answer_text": "Move as far off the road as possible"
+        "answer_text": "سڑک سے جتنا ممکن ہو دور جائیں"
       },
       {
         "id": "rta-hvb-144-c",
-        "answer_text": "Move to the hard shoulder"
+        "answer_text": "ہارڈ شولڈر کی طرف جائیں"
       }
     ]
   },
   {
     "id": "rta-hvb-153",
-    "question_text": "Excessive wear and worn tires can cause;",
+    "question_text": "ضرورت سے زیادہ گھسے ہوئے اور پرانے ٹائر کا نتیجہ کیا ہو سکتا ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-153-a",
-        "answer_text": "Complete brake failure"
+        "answer_text": "بریک مکمل طور پر فیل ہو جانا"
       },
       {
         "id": "rta-hvb-153-b",
-        "answer_text": "Wheel nuts to loosen"
+        "answer_text": "پہیے کے نٹ ڈھیلے ہو جانا"
       },
       {
         "id": "rta-hvb-153-c",
-        "answer_text": "Loss of steering control"
+        "answer_text": "اسٹیئرنگ کنٹرول کا نقصان"
       }
     ]
   },
   {
     "id": "rta-hvb-191",
-    "question_text": "When backing up the prime mover under the semi-trailer skid plate, which gear must be used?",
+    "question_text": "سیمی ٹریلر کے سکڈ پلیٹ کے نیچے پرائم موور کو پیچھے لے جاتے وقت کون سا گیئر استعمال کرنا ضروری ہے؟",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-191-a",
-        "answer_text": "The lowest possible reverse gear"
+        "answer_text": "سب سے کم ممکنہ ریورس گیئر"
       },
       {
         "id": "rta-hvb-191-b",
-        "answer_text": "The second lowest possible reverse gear"
+        "answer_text": "دوسرا سب سے کم ممکنہ ریورس گیئر"
       },
       {
         "id": "rta-hvb-191-c",
-        "answer_text": "Any of the reverse gear is possible"
+        "answer_text": "کوئی بھی ریورس گیئر ممکن ہے"
       }
     ]
   },
   {
     "id": "rta-hvb-197",
-    "question_text": "If you stand on or near the turntable to connect airlines or electrical cables, be careful because;",
+    "question_text": "اگر آپ ایئر لائنز یا بجلی کی تاریں جوڑنے کے لیے ٹرن ٹیبل پر یا اس کے قریب کھڑے ہوں تو محتاط رہیں کیونکہ؛",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-197-a",
-        "answer_text": "It can cause fire or a wheel to lock"
+        "answer_text": "اس سے آگ لگ سکتی ہے یا پہیہ لاک ہو سکتا ہے"
       },
       {
         "id": "rta-hvb-197-b",
-        "answer_text": "The fuel line may have leaks"
+        "answer_text": "ایندھن کی لائن میں رساو ہو سکتا ہے"
       },
       {
         "id": "rta-hvb-197-c",
-        "answer_text": "It is easy to slip on greasy parts."
+        "answer_text": "چکنے حصوں پر پھسلنا آسان ہے"
       }
     ]
   }

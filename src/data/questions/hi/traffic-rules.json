@@ -11962,235 +11962,235 @@
   },
   {
     "id": "rta-lmv-483",
-    "question_text": "Following a collision and the police report has been issued, the logical next step is to;",
+    "question_text": "टक्कर के बाद पुलिस रिपोर्ट जारी होने पर तार्किक अगला कदम क्या है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-483-a",
-        "answer_text": "inform your insurance company or car-hire company about what has happened"
+        "answer_text": "अपनी बीमा कंपनी या कार किराये की कंपनी को जो हुआ उसके बारे में सूचित करें"
       },
       {
         "id": "rta-lmv-483-b",
-        "answer_text": "inform the police about what has happened"
+        "answer_text": "पुलिस को जो हुआ उसके बारे में सूचित करें"
       },
       {
         "id": "rta-lmv-483-c",
-        "answer_text": "take your car to the nearest garage for repairs"
+        "answer_text": "अपनी गाड़ी को मरम्मत के लिए निकटतम गैरेज ले जाएं"
       }
     ]
   },
   {
     "id": "rta-lmv-488",
-    "question_text": "Throwing waste from vehicles onto the roads is an offense. It also dangerous because;",
+    "question_text": "वाहनों से सड़कों पर कचरा फेंकना एक अपराध है। यह खतरनाक भी है क्योंकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-488-a",
-        "answer_text": "fine and black points may be imposed"
+        "answer_text": "जुर्माना और ब्लैक पॉइंट लगाए जा सकते हैं"
       },
       {
         "id": "rta-lmv-488-b",
-        "answer_text": "any debris on the road that drivers run over or avoid can cause chain collision to happen"
+        "answer_text": "सड़क पर कोई भी मलबा जिस पर ड्राइवर चढ़ जाएं या जिससे बचने की कोशिश करें, उससे श्रृंखलाबद्ध टक्कर हो सकती है"
       },
       {
         "id": "rta-lmv-488-c",
-        "answer_text": "Dubai roads are clean, an image of a world class city"
+        "answer_text": "दुबई की सड़कें साफ हैं, यह एक विश्व स्तरीय शहर की छवि है"
       }
     ]
   },
   {
     "id": "rta-lmv-490",
-    "question_text": "Why is it important to stop in a safe place away from traffic if involved in a crash without injuries?",
+    "question_text": "बिना चोट के किसी दुर्घटना में शामिल होने पर ट्रैफिक से दूर सुरक्षित स्थान पर रुकना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-490-a",
-        "answer_text": "to avoid obstructing the traffic and creating a traffic jam"
+        "answer_text": "ट्रैफिक में बाधा और ट्रैफिक जाम से बचने के लिए"
       },
       {
         "id": "rta-lmv-490-b",
-        "answer_text": "to enable inspecting the vehicle and be able to leave immediately"
+        "answer_text": "वाहन का निरीक्षण करने और तुरंत जाने में सक्षम होने के लिए"
       },
       {
         "id": "rta-lmv-490-c",
-        "answer_text": "to avoid being blamed for the crash"
+        "answer_text": "दुर्घटना का दोष लगने से बचने के लिए"
       }
     ]
   },
   {
     "id": "rta-lmv-493",
-    "question_text": "You have a green light and making right turn at an intersection. A pedestrian is trying to cross the road. What should you do?",
+    "question_text": "आपके पास हरी बत्ती है और आप चौराहे पर दाएं मुड़ रहे हैं। एक पैदल यात्री सड़क पार करने की कोशिश कर रहा है। आपको क्या करना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-493-a",
-        "answer_text": "change lane quickly to move around the pedestrian"
+        "answer_text": "पैदल यात्री के आसपास जाने के लिए तेज़ी से लेन बदलें"
       },
       {
         "id": "rta-lmv-493-b",
-        "answer_text": "the pedestrian has the priority at all times"
+        "answer_text": "पैदल यात्री को हमेशा प्राथमिकता मिलती है"
       },
       {
         "id": "rta-lmv-493-c",
-        "answer_text": "slow down and give way to the pedestrian"
+        "answer_text": "धीमे हों और पैदल यात्री को रास्ता दें"
       }
     ]
   },
   {
     "id": "rta-lmv-494",
-    "question_text": "A person is walking across a footpath that you are going to cross. How should you behave to be safe?",
+    "question_text": "एक व्यक्ति उस पैदल पथ पर चल रहा है जिसे आप पार करने वाले हैं। सुरक्षित रहने के लिए आपका व्यवहार कैसा होना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-494-a",
-        "answer_text": "drive slowly, give way to the pedestrian"
+        "answer_text": "धीरे गाड़ी चलाएं, पैदल यात्री को रास्ता दें"
       },
       {
         "id": "rta-lmv-494-b",
-        "answer_text": "proceed cautiously, the pedestrian should give way"
+        "answer_text": "सावधानी से आगे बढ़ें, पैदल यात्री को रास्ता देना चाहिए"
       },
       {
         "id": "rta-lmv-494-c",
-        "answer_text": "drive on, the pedestrian should stop"
+        "answer_text": "गाड़ी चलाते रहें, पैदल यात्री को रुकना चाहिए"
       }
     ]
   },
   {
     "id": "rta-lmv-495",
-    "question_text": "In this scenario, you need to give way to vehicles coming from the right. You are not allowed to;",
+    "question_text": "इस परिदृश्य में, आपको दाईं ओर से आने वाले वाहनों को रास्ता देना होगा। आपको यह करने की अनुमति नहीं है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-495-a",
-        "answer_text": "make a right turn here"
+        "answer_text": "यहाँ दाएं मुड़ना"
       },
       {
         "id": "rta-lmv-495-b",
-        "answer_text": "make a left turn"
+        "answer_text": "बाएं मुड़ना"
       },
       {
         "id": "rta-lmv-495-c",
-        "answer_text": "stop before the stop line"
+        "answer_text": "स्टॉप लाइन से पहले रुकना"
       }
     ]
   },
   {
     "id": "rta-lmv-496",
-    "question_text": "UAE traffic law prohibits overtaking in these areas.",
+    "question_text": "UAE यातायात कानून इन क्षेत्रों में ओवरटेक करने से मना करता है।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-496-a",
-        "answer_text": "at freeways and open roads"
+        "answer_text": "फ्रीवे और खुली सड़कों पर"
       },
       {
         "id": "rta-lmv-496-b",
-        "answer_text": "at roundabouts and intersections"
+        "answer_text": "राउंडअबाउट और चौराहों पर"
       },
       {
         "id": "rta-lmv-496-c",
-        "answer_text": "after the roundabouts and intersections"
+        "answer_text": "राउंडअबाउट और चौराहों के बाद"
       }
     ]
   },
   {
     "id": "rta-lmv-498",
-    "question_text": "Using the Dubai Police App, you may have access to this service;",
+    "question_text": "दुबई पुलिस ऐप का उपयोग करके, आप यह सेवा प्राप्त कर सकते हैं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-498-a",
-        "answer_text": "Pay visa fees"
+        "answer_text": "वीजा शुल्क भुगतान करें"
       },
       {
         "id": "rta-lmv-498-b",
-        "answer_text": "Pay traffic fines"
+        "answer_text": "ट्रैफिक जुर्माना भुगतान करें"
       },
       {
         "id": "rta-lmv-498-c",
-        "answer_text": "Pay medical services"
+        "answer_text": "चिकित्सा सेवाओं का भुगतान करें"
       }
     ]
   },
   {
     "id": "rta-lmv-499",
-    "question_text": "If you are trying to report a traffic accident using the Dubai Police App, what safety message you will see on the app?",
+    "question_text": "यदि आप दुबई पुलिस ऐप का उपयोग करके ट्रैफिक दुर्घटना रिपोर्ट करने का प्रयास कर रहे हैं, तो ऐप पर कौन सा सुरक्षा संदेश दिखाई देगा?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-499-a",
-        "answer_text": "Move to safe location, do not obstruct traffic"
+        "answer_text": "सुरक्षित स्थान पर जाएं, यातायात में बाधा न डालें"
       },
       {
         "id": "rta-lmv-499-b",
-        "answer_text": "Drive Safely, every time"
+        "answer_text": "हर बार सुरक्षित गाड़ी चलाएं"
       },
       {
         "id": "rta-lmv-499-c",
-        "answer_text": "Buckle up, always"
+        "answer_text": "हमेशा सीट बेल्ट बांधें"
       }
     ]
   },
   {
     "id": "rta-lmv-500",
-    "question_text": "What type of traffic accident can you report using the Dubai Police App?",
+    "question_text": "दुबई पुलिस ऐप का उपयोग करके आप किस प्रकार की ट्रैफिक दुर्घटना रिपोर्ट कर सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-500-a",
-        "answer_text": "Injury accidents"
+        "answer_text": "चोट वाली दुर्घटनाएं"
       },
       {
         "id": "rta-lmv-500-b",
-        "answer_text": "Major accidents"
+        "answer_text": "बड़ी दुर्घटनाएं"
       },
       {
         "id": "rta-lmv-500-c",
-        "answer_text": "Minor accidents"
+        "answer_text": "मामूली दुर्घटनाएं"
       }
     ]
   },
   {
     "id": "rta-lmv-501",
-    "question_text": "This feature of the Dubai Police App is meant to connect users to the Dubai Police quickly;",
+    "question_text": "दुबई पुलिस ऐप की यह सुविधा उपयोगकर्ताओं को दुबई पुलिस से जल्दी जोड़ने के लिए है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-501-a",
-        "answer_text": "SOS button"
+        "answer_text": "SOS बटन"
       },
       {
         "id": "rta-lmv-501-b",
-        "answer_text": "e-crime"
+        "answer_text": "ई-क्राइम"
       },
       {
         "id": "rta-lmv-501-c",
-        "answer_text": "Home security"
+        "answer_text": "गृह सुरक्षा"
       }
     ]
   },
   {
     "id": "rta-lmv-502",
-    "question_text": "When reporting a traffic accident using the Dubai Police App, which 3 information is required:",
+    "question_text": "दुबई पुलिस ऐप का उपयोग करके ट्रैफिक दुर्घटना रिपोर्ट करते समय, कौन सी 3 जानकारी आवश्यक है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-502-a",
-        "answer_text": "injured passengers, mobile number, liable vehicle"
+        "answer_text": "घायल यात्री, मोबाइल नंबर, जिम्मेदार वाहन"
       },
       {
         "id": "rta-lmv-502-b",
-        "answer_text": "vehicle plate number, license number, picture of damages"
+        "answer_text": "वाहन प्लेट नंबर, लाइसेंस नंबर, नुकसान की तस्वीर"
       },
       {
         "id": "rta-lmv-502-c",
-        "answer_text": "picture of damages, email address, vehicle plate number"
+        "answer_text": "नुकसान की तस्वीर, ईमेल पता, वाहन प्लेट नंबर"
       }
     ]
   },
   {
     "id": "rta-lmv-503",
-    "question_text": "Using the Dubai Police App, find the nearest police station via;",
+    "question_text": "दुबई पुलिस ऐप का उपयोग करके, निकटतम पुलिस स्टेशन इसके माध्यम से खोजें;",
     "explanation": null,
     "answers": [
       {
@@ -12199,17 +12199,17 @@
       },
       {
         "id": "rta-lmv-503-b",
-        "answer_text": "Google Map"
+        "answer_text": "गूगल मैप"
       },
       {
         "id": "rta-lmv-503-c",
-        "answer_text": "Dubai Map"
+        "answer_text": "दुबई मैप"
       }
     ]
   },
   {
     "id": "rta-lmv-504",
-    "question_text": "The Dubai Police App provides voice alerts for nearby accidents to help avoid hazards with its;",
+    "question_text": "दुबई पुलिस ऐप खतरों से बचने के लिए पास की दुर्घटनाओं के लिए आवाज अलर्ट प्रदान करती है, इसकी यह सुविधा है;",
     "explanation": null,
     "answers": [
       {
@@ -12218,169 +12218,169 @@
       },
       {
         "id": "rta-lmv-504-b",
-        "answer_text": "Drive Mode"
+        "answer_text": "ड्राइव मोड"
       },
       {
         "id": "rta-lmv-504-c",
-        "answer_text": "Police Eye"
+        "answer_text": "पुलिस आई"
       }
     ]
   },
   {
     "id": "rta-lmv-505",
-    "question_text": "You want to report a suspicious activity. Which feature of Dubai Police App allows you to do this?",
+    "question_text": "आप कोई संदिग्ध गतिविधि रिपोर्ट करना चाहते हैं। दुबई पुलिस ऐप की कौन सी सुविधा आपको यह करने देती है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-505-a",
-        "answer_text": "Police Eye"
+        "answer_text": "पुलिस आई"
       },
       {
         "id": "rta-lmv-505-b",
-        "answer_text": "Police Station Mode"
+        "answer_text": "पुलिस स्टेशन मोड"
       },
       {
         "id": "rta-lmv-505-c",
-        "answer_text": "Scan Plate"
+        "answer_text": "स्कैन प्लेट"
       }
     ]
   },
   {
     "id": "rta-lmv-506",
-    "question_text": "To inquire about traffic fines using the Dubai Police App, you may use the plate number, TC number, license and;",
+    "question_text": "दुबई पुलिस ऐप का उपयोग करके ट्रैफिक जुर्माने के बारे में पूछताछ करने के लिए आप प्लेट नंबर, TC नंबर, लाइसेंस और इसका उपयोग कर सकते हैं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-506-a",
-        "answer_text": "Vehicle ID Number (VIN)"
+        "answer_text": "वाहन पहचान संख्या (VIN)"
       },
       {
         "id": "rta-lmv-506-b",
-        "answer_text": "Ticket number"
+        "answer_text": "टिकट नंबर"
       },
       {
         "id": "rta-lmv-506-c",
-        "answer_text": "Makani number"
+        "answer_text": "मकानी नंबर"
       }
     ]
   },
   {
     "id": "rta-lmv-507",
-    "question_text": "If you are visiting a police station around Dubai, which feature of Dubai Police App allows you to avoid the queue?",
+    "question_text": "यदि आप दुबई में किसी पुलिस स्टेशन जा रहे हैं, तो दुबई पुलिस ऐप की कौन सी सुविधा आपको कतार से बचाती है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-507-a",
-        "answer_text": "Police Station Mode"
+        "answer_text": "पुलिस स्टेशन मोड"
       },
       {
         "id": "rta-lmv-507-b",
-        "answer_text": "Police Eye"
+        "answer_text": "पुलिस आई"
       },
       {
         "id": "rta-lmv-507-c",
-        "answer_text": "Drive Mode"
+        "answer_text": "ड्राइव मोड"
       }
     ]
   },
   {
     "id": "rta-lmv-508",
-    "question_text": "Use the Drive Mode feature of the Dubai Police App to drive smart by;",
+    "question_text": "दुबई पुलिस ऐप की ड्राइव मोड सुविधा का उपयोग करके स्मार्ट तरीके से गाड़ी चलाएं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-508-a",
-        "answer_text": "Knowing what's happening on the roads"
+        "answer_text": "सड़कों पर क्या हो रहा है इससे अवगत रहना"
       },
       {
         "id": "rta-lmv-508-b",
-        "answer_text": "Reporting all traffic accidents"
+        "answer_text": "सभी ट्रैफिक दुर्घटनाएं रिपोर्ट करना"
       },
       {
         "id": "rta-lmv-508-c",
-        "answer_text": "Knowing the locations of all police stations"
+        "answer_text": "सभी पुलिस स्टेशनों की लोकेशन जानना"
       }
     ]
   },
   {
     "id": "rta-lmv-509",
-    "question_text": "Which of these services can be obtained using the Dubai Police App?",
+    "question_text": "दुबई पुलिस ऐप का उपयोग करके इनमें से कौन सी सेवा प्राप्त की जा सकती है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-509-a",
-        "answer_text": "Vehicle Registration Renewal"
+        "answer_text": "वाहन पंजीकरण नवीनीकरण"
       },
       {
         "id": "rta-lmv-509-b",
-        "answer_text": "Vehicle Inspection Request"
+        "answer_text": "वाहन निरीक्षण अनुरोध"
       },
       {
         "id": "rta-lmv-509-c",
-        "answer_text": "Driver's License Renewal"
+        "answer_text": "ड्राइविंग लाइसेंस नवीनीकरण"
       }
     ]
   },
   {
     "id": "rta-lmv-510",
-    "question_text": "Using the Dubai Police App and under the Criminal Services category, you may;",
+    "question_text": "दुबई पुलिस ऐप का उपयोग करते हुए और Criminal Services श्रेणी के अंतर्गत, आप;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-510-a",
-        "answer_text": "File a criminal complaint"
+        "answer_text": "आपराधिक शिकायत दर्ज कर सकते हैं"
       },
       {
         "id": "rta-lmv-510-b",
-        "answer_text": "Request for Reissuing traffic accident report"
+        "answer_text": "ट्रैफिक दुर्घटना रिपोर्ट पुनः जारी करने का अनुरोध करें"
       },
       {
         "id": "rta-lmv-510-c",
-        "answer_text": "Request for Night work Permit"
+        "answer_text": "रात के काम की अनुमति के लिए अनुरोध करें"
       }
     ]
   },
   {
     "id": "rta-lmv-512",
-    "question_text": "Save People Life is a service category inside Dubai Police App. Using this feature you may report;",
+    "question_text": "'Save People Life' दुबई पुलिस ऐप के अंदर एक सेवा श्रेणी है। इस सुविधा का उपयोग करके आप क्या रिपोर्ट कर सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-512-a",
-        "answer_text": "Traffic violations"
+        "answer_text": "यातायात उल्लंघन"
       },
       {
         "id": "rta-lmv-512-b",
-        "answer_text": "Human Trafficking crimes"
+        "answer_text": "मानव तस्करी के अपराध"
       },
       {
         "id": "rta-lmv-512-c",
-        "answer_text": "A labor complaint"
+        "answer_text": "श्रम संबंधी शिकायत"
       }
     ]
   },
   {
     "id": "rta-lmv-513",
-    "question_text": "The Sheikh Mohammad Program inside the Dubai Police App is meant for;",
+    "question_text": "दुबई पुलिस ऐप के अंदर शेख मोहम्मद प्रोग्राम किस उद्देश्य के लिए है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-513-a",
-        "answer_text": "Tracking your fitness"
+        "answer_text": "आपकी फिटनेस ट्रैक करना"
       },
       {
         "id": "rta-lmv-513-b",
-        "answer_text": "Tracking your movement"
+        "answer_text": "आपकी गतिविधि ट्रैक करना"
       },
       {
         "id": "rta-lmv-513-c",
-        "answer_text": "Registering your complaints"
+        "answer_text": "आपकी शिकायतें दर्ज करना"
       }
     ]
   },
   {
     "id": "rta-lmv-514",
-    "question_text": "To obtain a Police Clearance Certificate, under which service category on the Dubai Police App will you find this?",
+    "question_text": "पुलिस क्लियरेंस सर्टिफिकेट प्राप्त करने के लिए, दुबई पुलिस ऐप पर आप इसे किस सेवा श्रेणी में पाएंगे?",
     "explanation": null,
     "answers": [
       {
@@ -12389,1252 +12389,1252 @@
       },
       {
         "id": "rta-lmv-514-b",
-        "answer_text": "Traffic Services"
+        "answer_text": "ट्रैफिक सेवाएं"
       },
       {
         "id": "rta-lmv-514-c",
-        "answer_text": "Certificates and Permits"
+        "answer_text": "प्रमाण पत्र और परमिट"
       }
     ]
   },
   {
     "id": "rta-lmv-515",
-    "question_text": "If you want to report a bounced check using the Dubai Police App, one of the conditions is;",
+    "question_text": "यदि आप दुबई पुलिस ऐप का उपयोग करके बाउंस्ड चेक रिपोर्ट करना चाहते हैं, तो इसकी एक शर्त यह है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-515-a",
-        "answer_text": "The checks received are from Dubai only"
+        "answer_text": "प्राप्त चेक केवल दुबई से हों"
       },
       {
         "id": "rta-lmv-515-b",
-        "answer_text": "The checks received are expired"
+        "answer_text": "प्राप्त चेक की समय सीमा समाप्त हो"
       },
       {
         "id": "rta-lmv-515-c",
-        "answer_text": "The checks have amounts not more than 100,000."
+        "answer_text": "चेकों की राशि 1,00,000 से अधिक न हो"
       }
     ]
   },
   {
     "id": "rta-lmv-516",
-    "question_text": "To request for road closure permit using the Dubai Police App, you will first need a;",
+    "question_text": "दुबई पुलिस ऐप का उपयोग करके सड़क बंद करने के परमिट के लिए आवेदन करने हेतु, आपको पहले क्या चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-516-a",
-        "answer_text": "Compliance certificate from RTA"
+        "answer_text": "RTA से अनुपालन प्रमाण पत्र"
       },
       {
         "id": "rta-lmv-516-b",
-        "answer_text": "No objection letter from RTA"
+        "answer_text": "RTA से अनापत्ति पत्र"
       },
       {
         "id": "rta-lmv-516-c",
-        "answer_text": "No objection letter from your employer"
+        "answer_text": "आपके नियोक्ता से अनापत्ति पत्र"
       }
     ]
   },
   {
     "id": "rta-lmv-517",
-    "question_text": "When you try to activate the SOS feature of the Dubai Police App, the first thing that will appear is;",
+    "question_text": "जब आप दुबई पुलिस ऐप की SOS सुविधा सक्रिय करने का प्रयास करते हैं, तो सबसे पहले क्या दिखाई देता है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-517-a",
-        "answer_text": "Your location in the map"
+        "answer_text": "नक्शे पर आपका स्थान"
       },
       {
         "id": "rta-lmv-517-b",
-        "answer_text": "The location of your house"
+        "answer_text": "आपके घर का स्थान"
       },
       {
         "id": "rta-lmv-517-c",
-        "answer_text": "The location of your work"
+        "answer_text": "आपके कार्यस्थल का स्थान"
       }
     ]
   },
   {
     "id": "rta-fk-003",
-    "question_text": "In order to apply for a Forklift license, you must be;",
+    "question_text": "फोर्कलिफ्ट लाइसेंस के लिए आवेदन करने के लिए, आपकी आयु होनी चाहिए;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-003-a",
-        "answer_text": "Under 20 years old"
+        "answer_text": "20 वर्ष से कम"
       },
       {
         "id": "rta-fk-003-b",
-        "answer_text": "Above 19 years old"
+        "answer_text": "19 वर्ष से अधिक"
       },
       {
         "id": "rta-fk-003-c",
-        "answer_text": "Over 20 years old"
+        "answer_text": "20 वर्ष से अधिक"
       }
     ]
   },
   {
     "id": "rta-fk-010",
-    "question_text": "Forklifts with internal combustion motors must;",
+    "question_text": "आंतरिक दहन मोटर वाली फोर्कलिफ्ट को चाहिए;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-010-a",
-        "answer_text": "Not be operated in a confined space"
+        "answer_text": "बंद स्थान में न चलाई जाए"
       },
       {
         "id": "rta-fk-010-b",
-        "answer_text": "Be operated with dual controls only"
+        "answer_text": "केवल दोहरे नियंत्रणों के साथ चलाई जाए"
       },
       {
         "id": "rta-fk-010-c",
-        "answer_text": "Not be operated manually"
+        "answer_text": "मैन्युअल रूप से न चलाई जाए"
       }
     ]
   },
   {
     "id": "rta-fk-011",
-    "question_text": "It is dangerous to operate an internal combustion motors in a confined space because;",
+    "question_text": "बंद स्थान में आंतरिक दहन मोटर चलाना खतरनाक है क्योंकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-011-a",
-        "answer_text": "people working in the confined space may  not see well due to smoke"
+        "answer_text": "बंद स्थान में काम करने वाले लोग धुएं के कारण ठीक से नहीं देख सकते"
       },
       {
         "id": "rta-fk-011-b",
-        "answer_text": "people working in the confined space may be overcome by fumes"
+        "answer_text": "बंद स्थान में काम करने वाले लोग धुएं से अभिभूत हो सकते हैं"
       },
       {
         "id": "rta-fk-011-c",
-        "answer_text": "mobility in such space is limited"
+        "answer_text": "ऐसे स्थान में गतिशीलता सीमित होती है"
       }
     ]
   },
   {
     "id": "rta-fk-035",
-    "question_text": "When lifting heavy loads, it is important to move the center of gravity;",
+    "question_text": "भारी भार उठाते समय, गुरुत्वाकर्षण केंद्र को स्थानांतरित करना महत्वपूर्ण है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-035-a",
-        "answer_text": "Away from the machine"
+        "answer_text": "मशीन से दूर"
       },
       {
         "id": "rta-fk-035-b",
-        "answer_text": "Closer to the machine"
+        "answer_text": "मशीन के करीब"
       },
       {
         "id": "rta-fk-035-c",
-        "answer_text": "Higher from the ground"
+        "answer_text": "जमीन से ऊंचा"
       }
     ]
   },
   {
     "id": "rta-fk-044",
-    "question_text": "When stopping, starting, lifting and tilting, the operator needs to;",
+    "question_text": "रुकते, शुरू करते, उठाते और झुकाते समय, ऑपरेटर को चाहिए;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-044-a",
-        "answer_text": "Operate the equipment the quick way"
+        "answer_text": "उपकरण को तेजी से संचालित करें"
       },
       {
         "id": "rta-fk-044-b",
-        "answer_text": "Operate the equipment smoothly"
+        "answer_text": "उपकरण को सुचारू रूप से संचालित करें"
       },
       {
         "id": "rta-fk-044-c",
-        "answer_text": "Operate the equipment the most efficient way"
+        "answer_text": "उपकरण को सबसे कुशल तरीके से संचालित करें"
       }
     ]
   },
   {
     "id": "rta-fk-046",
-    "question_text": "At the start of each work shift, it is important to do this to the forklift.",
+    "question_text": "प्रत्येक कार्य शिफ्ट की शुरुआत में, फोर्कलिफ्ट पर यह करना महत्वपूर्ण है।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-046-a",
-        "answer_text": "Visual and operational checks"
+        "answer_text": "दृश्य और परिचालन जांच"
       },
       {
         "id": "rta-fk-046-b",
-        "answer_text": "Load assessments"
+        "answer_text": "भार आकलन"
       },
       {
         "id": "rta-fk-046-c",
-        "answer_text": "Torque assessment"
+        "answer_text": "टॉर्क आकलन"
       }
     ]
   },
   {
     "id": "rta-fk-054",
-    "question_text": "While forklift is moving, operator must ensure his hands, arms, head, feet and legs are;",
+    "question_text": "फोर्कलिफ्ट चलते समय, ऑपरेटर को यह सुनिश्चित करना चाहिए कि उसके हाथ, बाहें, सिर, पाँव और पैर;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-054-a",
-        "answer_text": "Inside the confines of the forklift"
+        "answer_text": "फोर्कलिफ्ट की सीमा के अंदर हों"
       },
       {
         "id": "rta-fk-054-b",
-        "answer_text": "Securely hidden from view"
+        "answer_text": "दृष्टि से सुरक्षित रूप से छिपे हों"
       },
       {
         "id": "rta-fk-054-c",
-        "answer_text": "Working simultaneously"
+        "answer_text": "एक साथ काम कर रहे हों"
       }
     ]
   },
   {
     "id": "rta-fk-057",
-    "question_text": "An important pre-use visual check to do to ensure smooth operation in the work place.",
+    "question_text": "कार्यस्थल पर सुचारू संचालन सुनिश्चित करने के लिए एक महत्वपूर्ण उपयोग-पूर्व दृश्य जांच।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-057-a",
-        "answer_text": "The doorways are large enough to fit through"
+        "answer_text": "दरवाजे गुजरने के लिए काफी बड़े हैं"
       },
       {
         "id": "rta-fk-057-b",
-        "answer_text": "The location of the fire extinguishers"
+        "answer_text": "अग्निशामक यंत्रों का स्थान"
       },
       {
         "id": "rta-fk-057-c",
-        "answer_text": "Visitors are well attended to"
+        "answer_text": "आगंतुकों की अच्छी तरह देखभाल की जाती है"
       }
     ]
   },
   {
     "id": "rta-fk-068",
-    "question_text": "What important function does a load backrest perform on a forklift?",
+    "question_text": "फोर्कलिफ्ट पर लोड बैकरेस्ट क्या महत्वपूर्ण कार्य करता है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-068-a",
-        "answer_text": "The backrest serves as rest area for the operator"
+        "answer_text": "बैकरेस्ट ऑपरेटर के लिए आराम क्षेत्र का काम करता है"
       },
       {
         "id": "rta-fk-068-b",
-        "answer_text": "The backrest stops the load from falling onto the operator"
+        "answer_text": "बैकरेस्ट भार को ऑपरेटर पर गिरने से रोकता है"
       },
       {
         "id": "rta-fk-068-c",
-        "answer_text": "The backrest creates all around protection for the operator"
+        "answer_text": "बैकरेस्ट ऑपरेटर के लिए चारों ओर सुरक्षा प्रदान करता है"
       }
     ]
   },
   {
     "id": "rta-fk-073",
-    "question_text": "When starting the machine, make sure you are seated and;",
+    "question_text": "मशीन स्टार्ट करते समय, सुनिश्चित करें कि आप बैठे हुए हैं और;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-073-a",
-        "answer_text": "The machine is already idling"
+        "answer_text": "मशीन पहले से आइडल चल रही हो"
       },
       {
         "id": "rta-fk-073-b",
-        "answer_text": "The seatbelt is fastened"
+        "answer_text": "सीट बेल्ट बंधी हुई हो"
       },
       {
         "id": "rta-fk-073-c",
-        "answer_text": "The park brake is disengaged"
+        "answer_text": "पार्क ब्रेक हटाई गई हो"
       }
     ]
   },
   {
     "id": "rta-fk-081",
-    "question_text": "When loaded, the most important safety consideration is;",
+    "question_text": "जब लोड हो तो सबसे महत्वपूर्ण सुरक्षा विचार है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-081-a",
-        "answer_text": "The skill of the operator"
+        "answer_text": "ऑपरेटर का कौशल"
       },
       {
         "id": "rta-fk-081-b",
-        "answer_text": "The center of gravity of the load"
+        "answer_text": "भार का गुरुत्व केंद्र"
       },
       {
         "id": "rta-fk-081-c",
-        "answer_text": "The stability of the forklift"
+        "answer_text": "फोर्कलिफ्ट की स्थिरता"
       }
     ]
   },
   {
     "id": "rta-fk-084",
-    "question_text": "When the load of a forklift is raised, it is important to remember that;",
+    "question_text": "जब फोर्कलिफ्ट का भार उठाया जाए, तो याद रखना महत्वपूर्ण है कि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-084-a",
-        "answer_text": "The forklift is more stable and therefore safe"
+        "answer_text": "फोर्कलिफ्ट अधिक स्थिर और इसलिए सुरक्षित है"
       },
       {
         "id": "rta-fk-084-b",
-        "answer_text": "The forklift is less stable and less safe"
+        "answer_text": "फोर्कलिफ्ट कम स्थिर और कम सुरक्षित है"
       },
       {
         "id": "rta-fk-084-c",
-        "answer_text": "The load is more stable and safe"
+        "answer_text": "भार अधिक स्थिर और सुरक्षित है"
       }
     ]
   },
   {
     "id": "rta-hfk-002",
-    "question_text": "Until you get your license to operate, you may drive a Shovel;",
+    "question_text": "जब तक आपको संचालन का लाइसेंस न मिल जाए, आप शावेल चला सकते हैं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-002-a",
-        "answer_text": "Under the supervision of a shovel instructor"
+        "answer_text": "शावेल प्रशिक्षक की निगरानी में"
       },
       {
         "id": "rta-hfk-002-b",
-        "answer_text": "Under the supervision of a forklift instructor"
+        "answer_text": "फोर्कलिफ्ट प्रशिक्षक की निगरानी में"
       },
       {
         "id": "rta-hfk-002-c",
-        "answer_text": "Under the supervision of a heavy vehicle instructor"
+        "answer_text": "भारी वाहन प्रशिक्षक की निगरानी में"
       }
     ]
   },
   {
     "id": "rta-hfk-003",
-    "question_text": "What age do you have to be to apply for your shovel license?",
+    "question_text": "शावेल लाइसेंस के लिए आवेदन करने की न्यूनतम आयु क्या है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-003-a",
-        "answer_text": "You must be over 19 years of age."
+        "answer_text": "आपकी उम्र 19 वर्ष से अधिक होनी चाहिए।"
       },
       {
         "id": "rta-hfk-003-b",
-        "answer_text": "You must be under 20 years of age."
+        "answer_text": "आपकी उम्र 20 वर्ष से कम होनी चाहिए।"
       },
       {
         "id": "rta-hfk-003-c",
-        "answer_text": "You must be over 20 years of age."
+        "answer_text": "आपकी उम्र 20 वर्ष से अधिक होनी चाहिए।"
       }
     ]
   },
   {
     "id": "rta-hfk-006",
-    "question_text": "Locating the controls and familiarizing with  their functions is an important exercise;",
+    "question_text": "नियंत्रणों का पता लगाना और उनके कार्यों से परिचित होना एक महत्वपूर्ण अभ्यास है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-006-a",
-        "answer_text": "After starting the shift duty"
+        "answer_text": "शिफ्ट ड्यूटी शुरू होने के बाद"
       },
       {
         "id": "rta-hfk-006-b",
-        "answer_text": "Before starting or operating your shovel"
+        "answer_text": "अपना शावेल शुरू करने या चलाने से पहले"
       },
       {
         "id": "rta-hfk-006-c",
-        "answer_text": "Before lifting the shovel bucket"
+        "answer_text": "शावेल बाल्टी उठाने से पहले"
       }
     ]
   },
   {
     "id": "rta-hfk-007",
-    "question_text": "Before starting or operating your shovel, it is important to;",
+    "question_text": "अपना शावेल शुरू करने या चलाने से पहले, यह महत्वपूर्ण है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-007-a",
-        "answer_text": "Ensure the work area is well paved"
+        "answer_text": "सुनिश्चित करें कि कार्यक्षेत्र अच्छी तरह पक्का हो"
       },
       {
         "id": "rta-hfk-007-b",
-        "answer_text": "Check the position and operation of park brakes and emergency devices"
+        "answer_text": "पार्क ब्रेक और आपातकालीन उपकरणों की स्थिति और संचालन जांचें"
       },
       {
         "id": "rta-hfk-007-c",
-        "answer_text": "Check the position of the pedestrians nearby"
+        "answer_text": "आसपास के पैदल यात्रियों की स्थिति जांचें"
       }
     ]
   },
   {
     "id": "rta-hfk-012",
-    "question_text": "How do you get to know when the shovel is not operating properly or when there is a danger?",
+    "question_text": "आपको कैसे पता चलता है कि शावेल ठीक से काम नहीं कर रहा या कोई खतरा है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-012-a",
-        "answer_text": "You will get notifications on your mobile phone"
+        "answer_text": "आपके मोबाइल फोन पर सूचनाएं आएंगी"
       },
       {
         "id": "rta-hfk-012-b",
-        "answer_text": "A warning alarm sound gets activated"
+        "answer_text": "चेतावनी अलार्म की आवाज सक्रिय हो जाती है"
       },
       {
         "id": "rta-hfk-012-c",
-        "answer_text": "you will be prompted by an automated voice."
+        "answer_text": "आपको स्वचालित आवाज द्वारा सूचित किया जाएगा।"
       }
     ]
   },
   {
     "id": "rta-hfk-016",
-    "question_text": "Before operating the shovel, understand the general safety rules by checking this;",
+    "question_text": "शावल चलाने से पहले, इसे जांच कर सामान्य सुरक्षा नियमों को समझें;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-016-a",
-        "answer_text": "Safety decals and shovel specifications"
+        "answer_text": "सुरक्षा लेबल और शावल की विशेषताएं"
       },
       {
         "id": "rta-hfk-016-b",
-        "answer_text": "Brand sticker and brand name"
+        "answer_text": "ब्रांड स्टिकर और ब्रांड का नाम"
       },
       {
         "id": "rta-hfk-016-c",
-        "answer_text": "Registration card of the shovel"
+        "answer_text": "शावल का रजिस्ट्रेशन कार्ड"
       }
     ]
   },
   {
     "id": "rta-hfk-025",
-    "question_text": "An important safety precaution when refueling a shovel;",
+    "question_text": "शावल में ईंधन भरते समय एक महत्वपूर्ण सुरक्षा सावधानी;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-025-a",
-        "answer_text": "Do not fuel the shovel until work is completed"
+        "answer_text": "काम पूरा होने तक शावल में ईंधन न भरें"
       },
       {
         "id": "rta-hfk-025-b",
-        "answer_text": "Do not fuel the shovel near a water source"
+        "answer_text": "पानी के स्रोत के पास शावल में ईंधन न भरें"
       },
       {
         "id": "rta-hfk-025-c",
-        "answer_text": "Do not fuel the shovel near any fire or flame"
+        "answer_text": "किसी भी आग या लौ के पास शावल में ईंधन न भरें"
       }
     ]
   },
   {
     "id": "rta-hfk-037",
-    "question_text": "Always face the shovel and maintain three-point contact (both feet and one hand, or both hands and one foot).",
+    "question_text": "हमेशा शॉवेल की ओर मुख करके तीन-बिंदु संपर्क बनाए रखें (दोनों पैर और एक हाथ, या दोनों हाथ और एक पैर)।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-037-a",
-        "answer_text": "An important procedure when getting on or off the shovel"
+        "answer_text": "शॉवेल पर चढ़ते या उतरते समय एक महत्वपूर्ण प्रक्रिया"
       },
       {
         "id": "rta-hfk-037-b",
-        "answer_text": "An important information during emergencies"
+        "answer_text": "आपातकाल के दौरान एक महत्वपूर्ण जानकारी"
       },
       {
         "id": "rta-hfk-037-c",
-        "answer_text": "An important information during breaks"
+        "answer_text": "विश्राम के दौरान एक महत्वपूर्ण जानकारी"
       }
     ]
   },
   {
     "id": "rta-hfk-039",
-    "question_text": "When leaving the shovel, set the parking brake to the ON position and ;",
+    "question_text": "शॉवेल छोड़ते समय, पार्किंग ब्रेक को ON स्थिति पर सेट करें और;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-039-a",
-        "answer_text": "Keep the Engine running"
+        "answer_text": "इंजन चलता रहने दें"
       },
       {
         "id": "rta-hfk-039-b",
-        "answer_text": "Always leave the key in the ignition"
+        "answer_text": "हमेशा चाबी इग्निशन में छोड़ें"
       },
       {
         "id": "rta-hfk-039-c",
-        "answer_text": "Always take the key with you"
+        "answer_text": "हमेशा चाबी अपने साथ ले जाएं"
       }
     ]
   },
   {
     "id": "rta-hfk-051",
-    "question_text": "Why is it important to idle down the shovel for 3 to 5 minutes before engine shutdown?",
+    "question_text": "इंजन बंद करने से पहले शॉवेल को 3 से 5 मिनट तक धीरे चलाना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-051-a",
-        "answer_text": "To allow the engine to remain cooled down"
+        "answer_text": "ताकि इंजन ठंडा बना रहे"
       },
       {
         "id": "rta-hfk-051-b",
-        "answer_text": "To allow the components to remain lubricated and cool down"
+        "answer_text": "ताकि घटक चिकनाईयुक्त रहें और ठंडे हो जाएं"
       },
       {
         "id": "rta-hfk-051-c",
-        "answer_text": "To allow turbine shaft to work efficiently"
+        "answer_text": "ताकि टर्बाइन शाफ्ट कुशलता से काम करे"
       }
     ]
   },
   {
     "id": "rta-hfk-058",
-    "question_text": "If your shovel gets in contact with live power lines, it is important to;",
+    "question_text": "यदि आपका शॉवेल लाइव बिजली की लाइनों के संपर्क में आ जाए, तो यह महत्वपूर्ण है कि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-058-a",
-        "answer_text": "Jump outside of the cabin"
+        "answer_text": "केबिन से बाहर कूद जाएं"
       },
       {
         "id": "rta-hfk-058-b",
-        "answer_text": "Remain clam and not panic"
+        "answer_text": "शांत रहें और घबराएं नहीं"
       },
       {
         "id": "rta-hfk-058-c",
-        "answer_text": "Remain seated"
+        "answer_text": "बैठे रहें"
       }
     ]
   },
   {
     "id": "rta-hfk-076",
-    "question_text": "When travelling with a loaded bucket, it is important to;",
+    "question_text": "भरी हुई बाल्टी के साथ यात्रा करते समय, यह महत्वपूर्ण है कि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-076-a",
-        "answer_text": "Carry the loaded bucket as low as possible"
+        "answer_text": "भरी हुई बाल्टी को जितना संभव हो उतना नीचे रखें"
       },
       {
         "id": "rta-hfk-076-b",
-        "answer_text": "Carry the loaded bucket as high as possible"
+        "answer_text": "भरी हुई बाल्टी को जितना संभव हो उतना ऊपर रखें"
       },
       {
         "id": "rta-hfk-076-c",
-        "answer_text": "Move the loaded bucket as quickly as possible"
+        "answer_text": "भरी हुई बाल्टी को जितना संभव हो उतनी तेजी से ले जाएं"
       }
     ]
   },
   {
     "id": "rta-hfk-077",
-    "question_text": "Why is it important to transport a fully loaded bucket as low as possible?",
+    "question_text": "पूरी तरह भरी हुई बाल्टी को जितना संभव हो उतना नीचे रखकर ले जाना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-077-a",
-        "answer_text": "For better steering control"
+        "answer_text": "बेहतर स्टीयरिंग नियंत्रण के लिए"
       },
       {
         "id": "rta-hfk-077-b",
-        "answer_text": "For best visibility and stability"
+        "answer_text": "सर्वोत्तम दृश्यता और स्थिरता के लिए"
       },
       {
         "id": "rta-hfk-077-c",
-        "answer_text": "For faster acceleration"
+        "answer_text": "तेज त्वरण के लिए"
       }
     ]
   },
   {
     "id": "rta-hfk-092",
-    "question_text": "To ensure safe changing of attachments, the shovel must be;",
+    "question_text": "अटैचमेंट की सुरक्षित बदलाई सुनिश्चित करने के लिए, शावल होना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-092-a",
-        "answer_text": "Stopped on a firm and flat surface"
+        "answer_text": "सख्त और समतल सतह पर रुका हुआ"
       },
       {
         "id": "rta-hfk-092-b",
-        "answer_text": "In a confined and enclosed space"
+        "answer_text": "सीमित और बंद जगह में"
       },
       {
         "id": "rta-hfk-092-c",
-        "answer_text": "Well prepared for operations"
+        "answer_text": "संचालन के लिए अच्छी तरह तैयार"
       }
     ]
   },
   {
     "id": "rta-hfk-093",
-    "question_text": "When mounting a bucket or attachment, it is important to;",
+    "question_text": "बकेट या अटैचमेंट लगाते समय, यह ज़रूरी है कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-093-a",
-        "answer_text": "Apply grease to pins and bushes"
+        "answer_text": "पिनों और बुशों पर ग्रीस लगाएं"
       },
       {
         "id": "rta-hfk-093-b",
-        "answer_text": "Clean all pins and bushes thoroughly"
+        "answer_text": "सभी पिनों और बुशों को अच्छी तरह साफ करें"
       },
       {
         "id": "rta-hfk-093-c",
-        "answer_text": "Use a piece of cardboard or wood"
+        "answer_text": "गत्ते या लकड़ी के टुकड़े का उपयोग करें"
       }
     ]
   },
   {
     "id": "rta-hfk-094",
-    "question_text": "When removing a bucket or attachment, it is important to;",
+    "question_text": "बकेट या अटैचमेंट उतारते समय, यह ज़रूरी है कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-094-a",
-        "answer_text": "Stop the engine"
+        "answer_text": "इंजन बंद करें"
       },
       {
         "id": "rta-hfk-094-b",
-        "answer_text": "Idle the engine"
+        "answer_text": "इंजन को आइडल पर रखें"
       },
       {
         "id": "rta-hfk-094-c",
-        "answer_text": "Rev the engine slowly"
+        "answer_text": "इंजन को धीरे-धीरे रेव करें"
       }
     ]
   },
   {
     "id": "rta-moto-015",
-    "question_text": "When correctly positioned, your wrists should be:",
+    "question_text": "जब आप सही स्थिति में हों, तो आपकी कलाइयाँ होनी चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-015-a",
-        "answer_text": "low with the knuckles straight."
+        "answer_text": "नीची और पोर सीधे।"
       },
       {
         "id": "rta-moto-015-b",
-        "answer_text": "low with the knuckles at the highest point."
+        "answer_text": "नीची और पोर सबसे ऊंचे बिंदु पर।"
       },
       {
         "id": "rta-moto-015-c",
-        "answer_text": "in whatever position feels comfortable for you."
+        "answer_text": "जो स्थिति आपको आरामदायक लगे।"
       }
     ]
   },
   {
     "id": "rta-moto-022",
-    "question_text": "To safely ride a motorcycle, road position is important. You should always:",
+    "question_text": "मोटरसाइकिल सुरक्षित रूप से चलाने के लिए, सड़क पर स्थिति महत्वपूर्ण है। आपको हमेशा:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-022-a",
-        "answer_text": "ride in the right hand wheel track position when travelling on a freeway."
+        "answer_text": "फ्रीवे पर चलते समय दाएं पहिए की ट्रैक स्थिति में राइड करें।"
       },
       {
         "id": "rta-moto-022-b",
-        "answer_text": "travel beside a larger vehicle."
+        "answer_text": "किसी बड़े वाहन के बगल में चलें।"
       },
       {
         "id": "rta-moto-022-c",
-        "answer_text": "position where you can see clearly and you can be seen by other drivers."
+        "answer_text": "ऐसी स्थिति में रहें जहाँ से आप स्पष्ट रूप से देख सकें और अन्य चालक आपको देख सकें।"
       }
     ]
   },
   {
     "id": "rta-moto-024",
-    "question_text": "It is important to keep a close watch on the road ahead. When scanning the road you should look:",
+    "question_text": "सामने की सड़क पर नजर रखना जरूरी है। सड़क को स्कैन करते समय आपको देखना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-024-a",
-        "answer_text": "well ahead and to the sides."
+        "answer_text": "काफी आगे और दोनों किनारों की तरफ।"
       },
       {
         "id": "rta-moto-024-b",
-        "answer_text": "for about the length of a city block."
+        "answer_text": "लगभग एक शहरी ब्लॉक की लंबाई तक।"
       },
       {
         "id": "rta-moto-024-c",
-        "answer_text": "for the length of your braking distance."
+        "answer_text": "अपनी ब्रेकिंग दूरी की लंबाई तक।"
       }
     ]
   },
   {
     "id": "rta-moto-028",
-    "question_text": "If you are following a large and tall vehicle, it is best to:",
+    "question_text": "यदि आप किसी बड़े और ऊंचे वाहन के पीछे चल रहे हैं, तो बेहतर है कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-028-a",
-        "answer_text": "speed up and overtake quickly."
+        "answer_text": "गति बढ़ाएं और जल्दी से आगे निकल जाएं।"
       },
       {
         "id": "rta-moto-028-b",
-        "answer_text": "follow close behind that vehicle."
+        "answer_text": "उस वाहन के बिल्कुल पीछे चलें।"
       },
       {
         "id": "rta-moto-028-c",
-        "answer_text": "increase following distance."
+        "answer_text": "अनुसरण दूरी बढ़ाएं।"
       }
     ]
   },
   {
     "id": "rta-moto-031",
-    "question_text": "When being overtaken on your left, you should:",
+    "question_text": "जब आपको बाईं ओर से ओवरटेक किया जा रहा हो, तो आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-031-a",
-        "answer_text": "maintain your position in the lane."
+        "answer_text": "लेन में अपनी स्थिति बनाए रखें।"
       },
       {
         "id": "rta-moto-031-b",
-        "answer_text": "move towards the right of your lane."
+        "answer_text": "अपनी लेन के दाईं ओर जाएं।"
       },
       {
         "id": "rta-moto-031-c",
-        "answer_text": "move towards the left of your lane."
+        "answer_text": "अपनी लेन के बाईं ओर जाएं।"
       }
     ]
   },
   {
     "id": "rta-moto-032",
-    "question_text": "When being followed extremely close by a vehicle you should:",
+    "question_text": "जब कोई वाहन आपके बहुत करीब से पीछा कर रहा हो, तो आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-032-a",
-        "answer_text": "move to the extreme right of the lane."
+        "answer_text": "लेन के एकदम दाईं ओर चले जाएं।"
       },
       {
         "id": "rta-moto-032-b",
-        "answer_text": "increase speed to outdistance the tailgater."
+        "answer_text": "टेलगेटर से दूर होने के लिए गति बढ़ाएं।"
       },
       {
         "id": "rta-moto-032-c",
-        "answer_text": "slow down and allow the vehicle to overtake."
+        "answer_text": "धीमे हो जाएं और वाहन को ओवरटेक करने दें।"
       }
     ]
   },
   {
     "id": "rta-moto-045",
-    "question_text": "You should only carry a load if:",
+    "question_text": "आपको सामान केवल तभी ले जाना चाहिए जब:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-045-a",
-        "answer_text": "the motorcycle is fitted with saddlebags."
+        "answer_text": "मोटरसाइकिल में सैडलबैग लगे हों।"
       },
       {
         "id": "rta-moto-045-b",
-        "answer_text": "the load can be properly positioned and secured."
+        "answer_text": "सामान को सही ढंग से रखा और सुरक्षित किया जा सके।"
       },
       {
         "id": "rta-moto-045-c",
-        "answer_text": "you have held a motorcycle license for 12 months."
+        "answer_text": "आपके पास 12 महीने से मोटरसाइकिल लाइसेंस हो।"
       }
     ]
   },
   {
     "id": "rta-moto-061",
-    "question_text": "Brakes need regular checking. The most important thing to do is:",
+    "question_text": "ब्रेक की नियमित जांच आवश्यक है। सबसे महत्वपूर्ण काम यह है कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-061-a",
-        "answer_text": "check the brake pads."
+        "answer_text": "ब्रेक पैड की जांच करें।"
       },
       {
         "id": "rta-moto-061-b",
-        "answer_text": "check the brake lever."
+        "answer_text": "ब्रेक लीवर की जांच करें।"
       },
       {
         "id": "rta-moto-061-c",
-        "answer_text": "lots of heavy braking."
+        "answer_text": "बार-बार जोरदार ब्रेक लगाएं।"
       }
     ]
   },
   {
     "id": "rta-moto-063",
-    "question_text": "Being patient when riding is one way of:",
+    "question_text": "सवारी करते समय धैर्य रखना एक तरीका है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-063-a",
-        "answer_text": "avoiding riding hazards."
+        "answer_text": "सवारी के खतरों से बचने का।"
       },
       {
         "id": "rta-moto-063-b",
-        "answer_text": "reaching destination early."
+        "answer_text": "जल्दी गंतव्य तक पहुंचने का।"
       },
       {
         "id": "rta-moto-063-c",
-        "answer_text": "showing off riding skills."
+        "answer_text": "सवारी कौशल दिखाने का।"
       }
     ]
   },
   {
     "id": "rta-moto-068",
-    "question_text": "Why you must not ride under the influence of alcohol?",
+    "question_text": "आपको शराब के प्रभाव में सवारी क्यों नहीं करनी चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-068-a",
-        "answer_text": "because it makes you take risks."
+        "answer_text": "क्योंकि यह आपको जोखिम उठाने पर मजबूर करती है।"
       },
       {
         "id": "rta-moto-068-b",
-        "answer_text": "because it makes you sleepy at night."
+        "answer_text": "क्योंकि यह आपको रात में नींद आने देती है।"
       },
       {
         "id": "rta-moto-068-c",
-        "answer_text": "because it makes you sensitive to sound."
+        "answer_text": "क्योंकि यह आपको आवाजों के प्रति संवेदनशील बनाती है।"
       }
     ]
   },
   {
     "id": "rta-moto-070",
-    "question_text": "Why is it important to wear protective clothing when riding?",
+    "question_text": "सवारी करते समय सुरक्षात्मक कपड़े पहनना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-070-a",
-        "answer_text": "Because it makes the ride smooth."
+        "answer_text": "क्योंकि यह सवारी को सुगम बनाता है।"
       },
       {
         "id": "rta-moto-070-b",
-        "answer_text": "Because it helps prevent dehydration."
+        "answer_text": "क्योंकि यह निर्जलीकरण को रोकने में मदद करता है।"
       },
       {
         "id": "rta-moto-070-c",
-        "answer_text": "Because it helps the bike go faster."
+        "answer_text": "क्योंकि यह बाइक को तेज चलाने में मदद करता है।"
       }
     ]
   },
   {
     "id": "rta-moto-071",
-    "question_text": "Why is it important to wear helmet when riding a bike?",
+    "question_text": "बाइक चलाते समय हेलमेट पहनना क्यों जरूरी है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-071-a",
-        "answer_text": "Because it helps prevent serious head injuries."
+        "answer_text": "क्योंकि यह गंभीर सिर की चोटों को रोकने में मदद करता है।"
       },
       {
         "id": "rta-moto-071-b",
-        "answer_text": "Because it protects the rider's face."
+        "answer_text": "क्योंकि यह सवार के चेहरे की रक्षा करता है।"
       },
       {
         "id": "rta-moto-071-c",
-        "answer_text": "Because it helps the rider focus."
+        "answer_text": "क्योंकि यह सवार को ध्यान केंद्रित करने में मदद करता है।"
       }
     ]
   },
   {
     "id": "rta-moto-074",
-    "question_text": "Why is it important to use new helmet?",
+    "question_text": "नया हेलमेट उपयोग करना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-074-a",
-        "answer_text": "because new helmet is more visible."
+        "answer_text": "क्योंकि नया हेलमेट अधिक दिखाई देता है।"
       },
       {
         "id": "rta-moto-074-b",
-        "answer_text": "because a used helmet may have damage you cannot see."
+        "answer_text": "क्योंकि पुराने हेलमेट में ऐसी क्षति हो सकती है जो दिखाई न दे।"
       },
       {
         "id": "rta-moto-074-c",
-        "answer_text": "because a new helmet is required."
+        "answer_text": "क्योंकि नया हेलमेट आवश्यक है।"
       }
     ]
   },
   {
     "id": "rta-moto-077",
-    "question_text": "Wearing the right clothing when riding helps the rider to:",
+    "question_text": "सवारी करते समय सही कपड़े पहनने से सवार को मदद मिलती है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-077-a",
-        "answer_text": "be comfortable and focus on riding properly."
+        "answer_text": "आरामदायक रहने और सवारी पर ध्यान केंद्रित करने में।"
       },
       {
         "id": "rta-moto-077-b",
-        "answer_text": "ride better and safer."
+        "answer_text": "बेहतर और सुरक्षित सवारी करने में।"
       },
       {
         "id": "rta-moto-077-c",
-        "answer_text": "stay clear of hazards."
+        "answer_text": "खतरों से दूर रहने में।"
       }
     ]
   },
   {
     "id": "rta-moto-088",
-    "question_text": "To see clearly and ride safely at night:",
+    "question_text": "रात में साफ देखने और सुरक्षित राइड करने के लिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-088-a",
-        "answer_text": "do not exceed the speed limit."
+        "answer_text": "गति सीमा से अधिक न जाएं।"
       },
       {
         "id": "rta-moto-088-b",
-        "answer_text": "do not use brakes very often."
+        "answer_text": "ब्रेक का बहुत अधिक उपयोग न करें।"
       },
       {
         "id": "rta-moto-088-c",
-        "answer_text": "do not use tinted glasses."
+        "answer_text": "रंगीन चश्मे का उपयोग न करें।"
       }
     ]
   },
   {
     "id": "rta-moto-098",
-    "question_text": "Maintaining your bike properly includes",
+    "question_text": "अपनी बाइक की उचित देखभाल में शामिल है",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-098-a",
-        "answer_text": "checking if registration is valid."
+        "answer_text": "पंजीकरण की वैधता जांचना।"
       },
       {
         "id": "rta-moto-098-b",
-        "answer_text": "checking if it looks good."
+        "answer_text": "यह जांचना कि यह अच्छी दिखती है।"
       },
       {
         "id": "rta-moto-098-c",
-        "answer_text": "checking the oil regularly."
+        "answer_text": "नियमित रूप से तेल की जांच करना।"
       }
     ]
   },
   {
     "id": "rta-moto-108",
-    "question_text": "Riding under the influence of alcohol is dangerous because;",
+    "question_text": "शराब के प्रभाव में सवारी करना खतरनाक है क्योंकि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-108-a",
-        "answer_text": "It makes you learn new techniques"
+        "answer_text": "यह आपको नई तकनीक सीखाती है"
       },
       {
         "id": "rta-moto-108-b",
-        "answer_text": "It affects your sense of balance"
+        "answer_text": "यह आपकी संतुलन की भावना को प्रभावित करती है"
       },
       {
         "id": "rta-moto-108-c",
-        "answer_text": "It makes you ride slow"
+        "answer_text": "यह आपको धीमी सवारी कराती है"
       }
     ]
   },
   {
     "id": "rta-moto-111",
-    "question_text": "What are some dangers when riding under the influence of alcohol?",
+    "question_text": "शराब के प्रभाव में सवारी के दौरान कुछ खतरे क्या हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-111-a",
-        "answer_text": "Makes you more careful"
+        "answer_text": "आपको अधिक सावधान बनाती है"
       },
       {
         "id": "rta-moto-111-b",
-        "answer_text": "Affects the protection of the helmet"
+        "answer_text": "हेलमेट की सुरक्षा को प्रभावित करती है"
       },
       {
         "id": "rta-moto-111-c",
-        "answer_text": "Affects your sense of balance"
+        "answer_text": "आपकी संतुलन की भावना को प्रभावित करती है"
       }
     ]
   },
   {
     "id": "rta-moto-113",
-    "question_text": "If any kind of drugs can affect your riding ability, what can you do to be safe?",
+    "question_text": "यदि किसी प्रकार की दवा आपकी सवारी क्षमता को प्रभावित कर सकती है, तो सुरक्षित रहने के लिए आप क्या कर सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-113-a",
-        "answer_text": "Check with a pharmacist or doctor before you ride"
+        "answer_text": "सवारी से पहले फार्मासिस्ट या डॉक्टर से जांच करें"
       },
       {
         "id": "rta-moto-113-b",
-        "answer_text": "Ride slowly and take small streets"
+        "answer_text": "धीमी सवारी करें और छोटी सड़कें लें"
       },
       {
         "id": "rta-moto-113-c",
-        "answer_text": "Check the mirrors more frequently"
+        "answer_text": "दर्पण अधिक बार जांचें"
       }
     ]
   },
   {
     "id": "rta-moto-114",
-    "question_text": "If you have taken some drugs but unsure of the effect, it is best to;",
+    "question_text": "यदि आपने कुछ दवाएं ली हैं लेकिन उनके प्रभाव के बारे में अनिश्चित हैं, तो सबसे अच्छा है कि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-114-a",
-        "answer_text": "Avoid taking the drugs"
+        "answer_text": "दवाएं लेने से बचें"
       },
       {
         "id": "rta-moto-114-b",
-        "answer_text": "Avoid riding at all"
+        "answer_text": "बिल्कुल भी सवारी न करें"
       },
       {
         "id": "rta-moto-114-c",
-        "answer_text": "Inform RTA of your medical condition"
+        "answer_text": "RTA को अपनी चिकित्सा स्थिति के बारे में सूचित करें"
       }
     ]
   },
   {
     "id": "rta-moto-124",
-    "question_text": "Why is it important to check your bike before each ride in ensuring safety?",
+    "question_text": "सुरक्षा सुनिश्चित करने के लिए प्रत्येक सवारी से पहले अपनी बाइक की जांच करना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-124-a",
-        "answer_text": "Your safety begins with your machine"
+        "answer_text": "आपकी सुरक्षा आपकी मशीन से शुरू होती है"
       },
       {
         "id": "rta-moto-124-b",
-        "answer_text": "Following distance is more important"
+        "answer_text": "फॉलोइंग दूरी अधिक महत्वपूर्ण है"
       },
       {
         "id": "rta-moto-124-c",
-        "answer_text": "Safety is assured when riding slowly"
+        "answer_text": "धीरे सवारी करने से सुरक्षा सुनिश्चित होती है"
       }
     ]
   },
   {
     "id": "rta-moto-127",
-    "question_text": "When setting up yourself and your bike, it is important to;",
+    "question_text": "जब आप खुद को और अपनी बाइक को सेट करें, तो यह महत्वपूर्ण है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-127-a",
-        "answer_text": "keep your head up and your line of sight level with the road"
+        "answer_text": "अपना सिर ऊंचा रखें और नज़र की रेखा सड़क के समान रखें"
       },
       {
         "id": "rta-moto-127-b",
-        "answer_text": "lean with the bike while turning"
+        "answer_text": "मुड़ते समय बाइक के साथ झुकें"
       },
       {
         "id": "rta-moto-127-c",
-        "answer_text": "sit comfortably with your  hands placed on your sides"
+        "answer_text": "आराम से बैठें और हाथ अपनी तरफ रखें"
       }
     ]
   },
   {
     "id": "rta-moto-131",
-    "question_text": "An important safety check that every rider should carry out before riding out;",
+    "question_text": "एक महत्वपूर्ण सुरक्षा जाँच जो हर सवार को सवारी से पहले करनी चाहिए;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-131-a",
-        "answer_text": "make sure that the tire tread is free of cuts, nails or cracks."
+        "answer_text": "सुनिश्चित करें कि टायर ट्रेड कटों, कीलों या दरारों से मुक्त है"
       },
       {
         "id": "rta-moto-131-b",
-        "answer_text": "the right hand is able to grab the handle freely"
+        "answer_text": "दाहिना हाथ हैंडल को स्वतंत्र रूप से पकड़ सके"
       },
       {
         "id": "rta-moto-131-c",
-        "answer_text": "the left foot is able to reach the foot pegs easily"
+        "answer_text": "बाएँ पैर से फुट पेग तक आसानी से पहुँचा जा सके"
       }
     ]
   },
   {
     "id": "rta-moto-133",
-    "question_text": "Safety checks before each ride should include controls, mirrors, tires and chains. You also need to check;",
+    "question_text": "हर सवारी से पहले सुरक्षा जाँच में नियंत्रण, दर्पण, टायर और चेन शामिल होने चाहिए। आपको यह भी जाँचना होगा;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-133-a",
-        "answer_text": "yourself - if you are dressed safely and properly"
+        "answer_text": "स्वयं को - कि आपने सुरक्षित और उचित कपड़े पहने हैं"
       },
       {
         "id": "rta-moto-133-b",
-        "answer_text": "yourself - to see the limit of your ability to ride"
+        "answer_text": "स्वयं को - सवारी करने की अपनी क्षमता की सीमा जानने के लिए"
       },
       {
         "id": "rta-moto-133-c",
-        "answer_text": "other riders - if they are complying with the traffic rules"
+        "answer_text": "अन्य सवारों को - कि वे यातायात नियमों का पालन कर रहे हैं या नहीं"
       }
     ]
   },
   {
     "id": "rta-moto-142",
-    "question_text": "Keeping a safe space when riding a motorcycle means;",
+    "question_text": "मोटरसाइकिल चलाते समय सुरक्षित दूरी बनाए रखने का मतलब है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-142-a",
-        "answer_text": "Having more time to stop in case of emergency"
+        "answer_text": "आपातकाल में रुकने के लिए अधिक समय होना"
       },
       {
         "id": "rta-moto-142-b",
-        "answer_text": "Having more time to enjoy the scenery"
+        "answer_text": "दृश्यों का आनंद लेने के लिए अधिक समय होना"
       },
       {
         "id": "rta-moto-142-c",
-        "answer_text": "Following the 2-second rule"
+        "answer_text": "2 सेकंड के नियम का पालन करना"
       }
     ]
   },
   {
     "id": "rta-moto-148",
-    "question_text": "As you ride you need to look ahead, to gather information, to prioritize and to make decisions. You are actually;",
+    "question_text": "सवारी करते समय आपको आगे देखना, जानकारी इकट्ठा करना, प्राथमिकता तय करना और निर्णय लेने की जरूरत होती है। आप वास्तव में;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-148-a",
-        "answer_text": "scanning the road in order to be safe"
+        "answer_text": "सुरक्षित रहने के लिए सड़क को स्कैन कर रहे हैं"
       },
       {
         "id": "rta-moto-148-b",
-        "answer_text": "scanning is very important"
+        "answer_text": "स्कैनिंग बहुत जरूरी है"
       },
       {
         "id": "rta-moto-148-c",
-        "answer_text": "making sure your bike is safe to ride"
+        "answer_text": "यह सुनिश्चित कर रहे हैं कि आपकी बाइक सवारी के लिए सुरक्षित है"
       }
     ]
   },
   {
     "id": "rta-moto-150",
-    "question_text": "Why is it important to be patient when dealing with school buses?",
+    "question_text": "स्कूल बसों के साथ व्यवहार करते समय धैर्य रखना क्यों जरूरी है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-150-a",
-        "answer_text": "school buses need to travel at lower speeds sometimes"
+        "answer_text": "स्कूल बसें कभी-कभी कम गति से चलती हैं"
       },
       {
         "id": "rta-moto-150-b",
-        "answer_text": "school buses stop at bus stops only"
+        "answer_text": "स्कूल बसें केवल बस स्टॉप पर रुकती हैं"
       },
       {
         "id": "rta-moto-150-c",
-        "answer_text": "school buses may stop for several minutes when picking up or dropping students"
+        "answer_text": "स्कूल बसें छात्रों को लेने या छोड़ने के लिए कई मिनटों तक रुक सकती हैं"
       }
     ]
   },
   {
     "id": "rta-moto-152",
-    "question_text": "You are travelling on a busy road and you hear a loud siren of an emergency vehicle. What should you do?",
+    "question_text": "आप एक व्यस्त सड़क पर सफर कर रहे हैं और आपने एक आपातकालीन वाहन का तेज सायरन सुना। आपको क्या करना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-152-a",
-        "answer_text": "emergency vehicles have the priority when the siren is on"
+        "answer_text": "सायरन चलने पर आपातकालीन वाहनों को प्राथमिकता मिलती है"
       },
       {
         "id": "rta-moto-152-b",
-        "answer_text": "try to move out of the way of the emergency vehicle as quickly and safely as possible."
+        "answer_text": "जितनी जल्दी और सुरक्षित तरीके से हो सके, आपातकालीन वाहन के रास्ते से हटें"
       },
       {
         "id": "rta-moto-152-c",
-        "answer_text": "military vehicles have priority when they proceed as convoys."
+        "answer_text": "काफिले में चलने पर सैन्य वाहनों को प्राथमिकता मिलती है"
       }
     ]
   },
   {
     "id": "rta-moto-185",
-    "question_text": "As an unprotected rider, safe following distance is very important because;",
+    "question_text": "एक असुरक्षित सवार के रूप में, सुरक्षित अनुसरण दूरी बहुत महत्वपूर्ण है क्योंकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-185-a",
-        "answer_text": "you will have more time to respond to hazards on the road"
+        "answer_text": "आपके पास सड़क पर खतरों का जवाब देने के लिए अधिक समय होगा"
       },
       {
         "id": "rta-moto-185-b",
-        "answer_text": "you will be able to avoid stopping"
+        "answer_text": "आप रुकने से बच सकेंगे"
       },
       {
         "id": "rta-moto-185-c",
-        "answer_text": "you will reach your destination earlier"
+        "answer_text": "आप अपनी मंजिल पर जल्दी पहुंचेंगे"
       }
     ]
   },
   {
     "id": "rta-moto-197",
-    "question_text": "In this scenario, what can possibly start a hazardous situation?",
+    "question_text": "इस परिदृश्य में, क्या चीज़ खतरनाक स्थिति शुरू कर सकती है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-197-a",
-        "answer_text": "the taxi stopping on the left side of the road"
+        "answer_text": "सड़क के बाईं तरफ टैक्सी का रुकना"
       },
       {
         "id": "rta-moto-197-b",
-        "answer_text": "the person on the right side trying to hail a taxi"
+        "answer_text": "दाईं तरफ मौजूद व्यक्ति का टैक्सी रोकने की कोशिश करना"
       },
       {
         "id": "rta-moto-197-c",
-        "answer_text": "the white car in front for not stopping"
+        "answer_text": "आगे की सफेद कार का न रुकना"
       }
     ]
   },
   {
     "id": "rta-moto-200",
-    "question_text": "When you are following a school bus, what is the correct riding attitude?",
+    "question_text": "जब आप स्कूल बस के पीछे चल रहे हों, तो राइडिंग का सही रवैया क्या है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-200-a",
-        "answer_text": "to ride fast and pass the school bus quickly"
+        "answer_text": "तेज चलाकर स्कूल बस को जल्दी पार कर लेना"
       },
       {
         "id": "rta-moto-200-b",
-        "answer_text": "to be patient when dealing with school buses"
+        "answer_text": "स्कूल बसों से निपटते समय धैर्य रखना"
       },
       {
         "id": "rta-moto-200-c",
-        "answer_text": "never overtake a school bus"
+        "answer_text": "स्कूल बस को कभी ओवरटेक न करें"
       }
     ]
   },
   {
     "id": "rta-moto-203",
-    "question_text": "If you are using an Android smart phone, you may download the Dubai Police App from;",
+    "question_text": "यदि आप एंड्रॉइड स्मार्टफोन उपयोग कर रहे हैं, तो आप दुबई पुलिस ऐप कहाँ से डाउनलोड कर सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-203-a",
-        "answer_text": "App Store"
+        "answer_text": "ऐप स्टोर"
       },
       {
         "id": "rta-moto-203-b",
-        "answer_text": "Play Store"
+        "answer_text": "प्ले स्टोर"
       },
       {
         "id": "rta-moto-203-c",
-        "answer_text": "App Gallery"
+        "answer_text": "ऐप गैलरी"
       }
     ]
   },
   {
     "id": "rta-moto-204",
-    "question_text": "The name of the virtual assistant of Dubai Police App;",
+    "question_text": "दुबई पुलिस ऐप के वर्चुअल असिस्टेंट का नाम;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-204-a",
-        "answer_text": "Shaima"
+        "answer_text": "शैमा"
       },
       {
         "id": "rta-moto-204-b",
-        "answer_text": "Amna"
+        "answer_text": "आमना"
       },
       {
         "id": "rta-moto-204-c",
-        "answer_text": "Meera"
+        "answer_text": "मीरा"
       }
     ]
   },
   {
     "id": "rta-moto-205",
-    "question_text": "The smart camera of the Dubai Police App is an all in one reporting tool for vehicle obstruction, police eye and;",
+    "question_text": "दुबई पुलिस ऐप का स्मार्ट कैमरा वाहन अवरोध, पुलिस आई और _______ के लिए एक ऑल इन वन रिपोर्टिंग टूल है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-205-a",
-        "answer_text": "we are all police"
+        "answer_text": "हम सब पुलिस हैं"
       },
       {
         "id": "rta-moto-205-b",
-        "answer_text": "sea rescue"
+        "answer_text": "समुद्री बचाव"
       },
       {
         "id": "rta-moto-205-c",
-        "answer_text": "police station mode"
+        "answer_text": "पुलिस स्टेशन मोड"
       }
     ]
   },
   {
     "id": "rta-moto-206",
-    "question_text": "The five service categories inside the Dubai Police App are Community, Certificates & Permits, Traffic, Criminal and;",
+    "question_text": "दुबई पुलिस ऐप के अंदर पाँच सेवा श्रेणियाँ कम्युनिटी, सर्टिफिकेट और परमिट, ट्रैफिक, क्रिमिनल और _______ हैं;",
     "explanation": null,
     "answers": [
       {
@@ -13643,74 +13643,74 @@
       },
       {
         "id": "rta-moto-206-b",
-        "answer_text": "Save People Life"
+        "answer_text": "लोगों की जान बचाएं"
       },
       {
         "id": "rta-moto-206-c",
-        "answer_text": "Sea Rescue"
+        "answer_text": "समुद्री बचाव"
       }
     ]
   },
   {
     "id": "rta-moto-207",
-    "question_text": "Under the Criminal Services category of the Dubai Police App, you may;",
+    "question_text": "दुबई पुलिस ऐप की क्रिमिनल सर्विसेज श्रेणी के अंतर्गत, आप _______ कर सकते हैं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-207-a",
-        "answer_text": "Report A Crime"
+        "answer_text": "अपराध की रिपोर्ट करें"
       },
       {
         "id": "rta-moto-207-b",
-        "answer_text": "Report Traffic Accident"
+        "answer_text": "ट्रैफिक दुर्घटना रिपोर्ट करें"
       },
       {
         "id": "rta-moto-207-c",
-        "answer_text": "Pay fine payments"
+        "answer_text": "जुर्माना भुगतान"
       }
     ]
   },
   {
     "id": "rta-moto-208",
-    "question_text": "If you are planning to travel abroad, secure your home in Dubai for free by using  this feature of Dubai Police app;",
+    "question_text": "यदि आप विदेश यात्रा की योजना बना रहे हैं, तो दुबई पुलिस ऐप की इस सुविधा का उपयोग करके दुबई में अपना घर मुफ्त में सुरक्षित करें;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-208-a",
-        "answer_text": "Sail safely"
+        "answer_text": "सुरक्षित नौकायन करें"
       },
       {
         "id": "rta-moto-208-b",
-        "answer_text": "Home Security"
+        "answer_text": "होम सिक्योरिटी"
       },
       {
         "id": "rta-moto-208-c",
-        "answer_text": "e-crime"
+        "answer_text": "ई-क्राइम"
       }
     ]
   },
   {
     "id": "rta-moto-209",
-    "question_text": "Under the Community Services category of the Dubai Police App, you may find;",
+    "question_text": "दुबई पुलिस ऐप की कम्युनिटी सर्विसेज श्रेणी के अंतर्गत, आप _______ पा सकते हैं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-209-a",
-        "answer_text": "Leaders at your service"
+        "answer_text": "आपकी सेवा में नेता"
       },
       {
         "id": "rta-moto-209-b",
-        "answer_text": "Fine payment"
+        "answer_text": "जुर्माना भुगतान"
       },
       {
         "id": "rta-moto-209-c",
-        "answer_text": "We Are All Police"
+        "answer_text": "हम सब पुलिस हैं"
       }
     ]
   },
   {
     "id": "rta-moto-210",
-    "question_text": "You want to report a traffic violation. Which feature of Dubai Police App allows you to do this?",
+    "question_text": "आप ट्रैफिक उल्लंघन की रिपोर्ट करना चाहते हैं। दुबई पुलिस ऐप की कौन सी सुविधा आपको यह करने देती है?",
     "explanation": null,
     "answers": [
       {
@@ -13723,569 +13723,569 @@
       },
       {
         "id": "rta-moto-210-c",
-        "answer_text": "We Are All Police"
+        "answer_text": "हम सब पुलिस हैं"
       }
     ]
   },
   {
     "id": "rta-hvb-003",
-    "question_text": "It is an offence to drive a vehicle if you do not have:",
+    "question_text": "वाहन चलाना अपराध है यदि आपके पास नहीं है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-003-a",
-        "answer_text": "at least one years driving experience."
+        "answer_text": "कम से कम एक वर्ष का ड्राइविंग अनुभव।"
       },
       {
         "id": "rta-hvb-003-b",
-        "answer_text": "a passenger in the vehicle with you at all times."
+        "answer_text": "हर समय वाहन में आपके साथ एक यात्री।"
       },
       {
         "id": "rta-hvb-003-c",
-        "answer_text": "the right category of license for the vehicle being driven"
+        "answer_text": "चलाए जा रहे वाहन के लिए सही श्रेणी का लाइसेंस।"
       }
     ]
   },
   {
     "id": "rta-hvb-030",
-    "question_text": "When turning right in your long vehicle you need to watch for drivers:",
+    "question_text": "अपने लंबे वाहन में दाईं ओर मुड़ते समय आपको उन चालकों पर नज़र रखनी चाहिए जो:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-030-a",
-        "answer_text": "overtaking on the right."
+        "answer_text": "दाईं ओर से ओवरटेक कर रहे हों।"
       },
       {
         "id": "rta-hvb-030-b",
-        "answer_text": "overtaking on the left."
+        "answer_text": "बाईं ओर से ओवरटेक कर रहे हों।"
       },
       {
         "id": "rta-hvb-030-c",
-        "answer_text": "coming from the opposite direction."
+        "answer_text": "विपरीत दिशा से आ रहे हों।"
       }
     ]
   },
   {
     "id": "rta-hvb-036",
-    "question_text": "The speed you are travelling affects your stopping distance. This means:",
+    "question_text": "आप जिस गति से यात्रा कर रहे हैं वह आपकी रुकने की दूरी को प्रभावित करती है। इसका अर्थ है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-036-a",
-        "answer_text": "lower speed, longer stopping distance."
+        "answer_text": "कम गति, अधिक रुकने की दूरी।"
       },
       {
         "id": "rta-hvb-036-b",
-        "answer_text": "higher speed, longer stopping distance."
+        "answer_text": "अधिक गति, अधिक रुकने की दूरी।"
       },
       {
         "id": "rta-hvb-036-c",
-        "answer_text": "higher speed, faster stopping distance."
+        "answer_text": "अधिक गति, कम रुकने की दूरी।"
       }
     ]
   },
   {
     "id": "rta-hvb-037",
-    "question_text": "In an 80 km/h zone, a heavy vehicle may travel at:",
+    "question_text": "80 किमी/घंटा क्षेत्र में, एक भारी वाहन चल सकता है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-037-a",
-        "answer_text": "80 km/h if visibility is good."
+        "answer_text": "80 किमी/घंटा यदि दृश्यता अच्छी हो।"
       },
       {
         "id": "rta-hvb-037-b",
-        "answer_text": "up to 80 km/h provided it is safe."
+        "answer_text": "80 किमी/घंटा तक बशर्ते सुरक्षित हो।"
       },
       {
         "id": "rta-hvb-037-c",
-        "answer_text": "80 km/h at all times."
+        "answer_text": "हर समय 80 किमी/घंटा।"
       }
     ]
   },
   {
     "id": "rta-hvb-045",
-    "question_text": "If your hydraulic brakes fail, the first thing you should do is:",
+    "question_text": "यदि आपकी हाइड्रॉलिक ब्रेक फेल हो जाए, तो सबसे पहले आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-045-a",
-        "answer_text": "apply the parking brake."
+        "answer_text": "पार्किंग ब्रेक लगाएं।"
       },
       {
         "id": "rta-hvb-045-b",
-        "answer_text": "change down through the gears."
+        "answer_text": "गियर नीचे करें।"
       },
       {
         "id": "rta-hvb-045-c",
-        "answer_text": "warn other motorists by using your hazard lights."
+        "answer_text": "हैज़र्ड लाइट जलाकर अन्य चालकों को सावधान करें।"
       }
     ]
   },
   {
     "id": "rta-hvb-049",
-    "question_text": "If your hydraulic brake system loses pressure, it is most important to",
+    "question_text": "यदि आपके हाइड्रॉलिक ब्रेक सिस्टम का दबाव कम हो जाए, तो सबसे महत्वपूर्ण काम है",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-049-a",
-        "answer_text": "pump the brakes."
+        "answer_text": "ब्रेक को बार-बार दबाएं।"
       },
       {
         "id": "rta-hvb-049-b",
-        "answer_text": "select a higher gear."
+        "answer_text": "ऊंचा गियर लगाएं।"
       },
       {
         "id": "rta-hvb-049-c",
-        "answer_text": "switch on your hazard lights."
+        "answer_text": "हैज़र्ड लाइट जलाएं।"
       }
     ]
   },
   {
     "id": "rta-hvb-050",
-    "question_text": "If your hydraulic brake system loses pressure, it is most important to:",
+    "question_text": "यदि आपके हाइड्रॉलिक ब्रेक सिस्टम का दबाव कम हो जाए, तो सबसे महत्वपूर्ण काम है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-050-a",
-        "answer_text": "find an escape route."
+        "answer_text": "निकास का रास्ता ढूंढें।"
       },
       {
         "id": "rta-hvb-050-b",
-        "answer_text": "press the clutch pedal."
+        "answer_text": "क्लच पेडल दबाएं।"
       },
       {
         "id": "rta-hvb-050-c",
-        "answer_text": "keep away from the edge of the road."
+        "answer_text": "सड़क के किनारे से दूर रहें।"
       }
     ]
   },
   {
     "id": "rta-hvb-055",
-    "question_text": "If your vehicle is involved in a crash with another vehicle, you are required by law to:",
+    "question_text": "यदि आपका वाहन किसी दूसरे वाहन के साथ दुर्घटना में शामिल हो जाए, तो कानून के अनुसार आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-055-a",
-        "answer_text": "sweep any debris, such as broken glass, off the roadway."
+        "answer_text": "सड़क से मलबा, जैसे टूटा हुआ कांच, साफ करना होगा।"
       },
       {
         "id": "rta-hvb-055-b",
-        "answer_text": "exchange all required details."
+        "answer_text": "सभी आवश्यक विवरणों का आदान-प्रदान करना होगा।"
       },
       {
         "id": "rta-hvb-055-c",
-        "answer_text": "inform the police."
+        "answer_text": "पुलिस को सूचित करना होगा।"
       }
     ]
   },
   {
     "id": "rta-hvb-059",
-    "question_text": "It is most important that loads are properly secured to prevent:",
+    "question_text": "यह अत्यंत महत्वपूर्ण है कि सामान को ठीक से सुरक्षित किया जाए ताकि रोका जा सके:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-059-a",
-        "answer_text": "a danger to other road users."
+        "answer_text": "अन्य सड़क उपयोगकर्ताओं के लिए खतरा।"
       },
       {
         "id": "rta-hvb-059-b",
-        "answer_text": "goods being stolen from the vehicle."
+        "answer_text": "वाहन से सामान की चोरी।"
       },
       {
         "id": "rta-hvb-059-c",
-        "answer_text": "overloading and poor performance."
+        "answer_text": "अधिभार और खराब प्रदर्शन।"
       }
     ]
   },
   {
     "id": "rta-hvb-067",
-    "question_text": "When hooking up a prime mover and semi-trailer, it is important to line up:",
+    "question_text": "प्राइम मूवर और सेमी-ट्रेलर को जोड़ते समय, यह संरेखित करना महत्वपूर्ण है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-067-a",
-        "answer_text": "the wheels and the turntable."
+        "answer_text": "पहिए और टर्नटेबल।"
       },
       {
         "id": "rta-hvb-067-b",
-        "answer_text": "the king-pin and the turntable."
+        "answer_text": "किंग-पिन और टर्नटेबल।"
       },
       {
         "id": "rta-hvb-067-c",
-        "answer_text": "the mirrors and the king-pin."
+        "answer_text": "दर्पण और किंग-पिन।"
       }
     ]
   },
   {
     "id": "rta-hvb-075",
-    "question_text": "Before pulling in to a bus stop you should:",
+    "question_text": "बस स्टॉप में प्रवेश करने से पहले आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-075-a",
-        "answer_text": "slow down as quickly as possible."
+        "answer_text": "जितनी जल्दी हो सके रफ्तार कम करें।"
       },
       {
         "id": "rta-hvb-075-b",
-        "answer_text": "indicate correctly and slow down."
+        "answer_text": "सही तरीके से संकेत दें और रफ्तार कम करें।"
       },
       {
         "id": "rta-hvb-075-c",
-        "answer_text": "begin to open the passenger doors before stopping."
+        "answer_text": "रुकने से पहले यात्री दरवाजे खोलना शुरू करें।"
       }
     ]
   },
   {
     "id": "rta-hvb-079",
-    "question_text": "You should check whether the parking brake is working by:",
+    "question_text": "आपको पार्किंग ब्रेक के काम करने की जाँच करनी चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-079-a",
-        "answer_text": "checking to see whether a warning light is on."
+        "answer_text": "यह देखकर कि कोई चेतावनी बत्ती जल रही है या नहीं।"
       },
       {
         "id": "rta-hvb-079-b",
-        "answer_text": "trying to drive forward in low gear while the parking brake is on."
+        "answer_text": "पार्किंग ब्रेक लगी होने पर कम गियर में आगे चलाने की कोशिश करके।"
       },
       {
         "id": "rta-hvb-079-c",
-        "answer_text": "looking to see whether the brake is on."
+        "answer_text": "यह देखकर कि ब्रेक लगी हुई है।"
       }
     ]
   },
   {
     "id": "rta-hvb-083",
-    "question_text": "Why is it important to know the height of your load?",
+    "question_text": "अपने भार की ऊँचाई जानना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-083-a",
-        "answer_text": "To avoid passing through low bridges."
+        "answer_text": "नीचे पुलों से गुजरने से बचने के लिए।"
       },
       {
         "id": "rta-hvb-083-b",
-        "answer_text": "To avoid passing through congested areas."
+        "answer_text": "भीड़-भाड़ वाले क्षेत्रों से गुजरने से बचने के लिए।"
       },
       {
         "id": "rta-hvb-083-c",
-        "answer_text": "To avoid passing through narrow roads."
+        "answer_text": "संकरी सड़कों से गुजरने से बचने के लिए।"
       }
     ]
   },
   {
     "id": "rta-hvb-085",
-    "question_text": "It is important to check the space between dual wheels because:",
+    "question_text": "दोहरे पहियों के बीच की जगह जांचना जरूरी है क्योंकि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-085-a",
-        "answer_text": "space maybe too tight and damage the tires."
+        "answer_text": "जगह बहुत तंग हो सकती है और टायरों को नुकसान पहुंचा सकती है।"
       },
       {
         "id": "rta-hvb-085-b",
-        "answer_text": "space may have rocks that can damage the tires."
+        "answer_text": "जगह में पत्थर हो सकते हैं जो टायरों को नुकसान पहुंचा सकते हैं।"
       },
       {
         "id": "rta-hvb-085-c",
-        "answer_text": "space maybe too far and make the tires loose."
+        "answer_text": "जगह बहुत अधिक हो सकती है और टायरों को ढीला कर सकती है।"
       }
     ]
   },
   {
     "id": "rta-hvb-090",
-    "question_text": "When lashing, it is important that the lashing must not:",
+    "question_text": "बंधन करते समय यह जरूरी है कि रस्सी:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-090-a",
-        "answer_text": "be in contact with tarpaulins and covers."
+        "answer_text": "तिरपाल और ढक्कनों के संपर्क में न हो।"
       },
       {
         "id": "rta-hvb-090-b",
-        "answer_text": "have very tight knots and tangles."
+        "answer_text": "बहुत कड़ी गांठें और उलझनें न हों।"
       },
       {
         "id": "rta-hvb-090-c",
-        "answer_text": "be in contact with sharp edges of the load or vehicle."
+        "answer_text": "सामान या वाहन के तेज किनारों के संपर्क में न हो।"
       }
     ]
   },
   {
     "id": "rta-hvb-099",
-    "question_text": "When making a left turn with a heavy vehicle, it is important to:",
+    "question_text": "भारी वाहन से बाईं ओर मुड़ते समय, यह जरूरी है कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-099-a",
-        "answer_text": "allow space for the cut-in of the front-end."
+        "answer_text": "अगले सिरे के कट-इन के लिए जगह दी जाए।"
       },
       {
         "id": "rta-hvb-099-b",
-        "answer_text": "allow space for the cut-in of the rear-end."
+        "answer_text": "पिछले सिरे के कट-इन के लिए जगह दी जाए।"
       },
       {
         "id": "rta-hvb-099-c",
-        "answer_text": "allow space for the middle track."
+        "answer_text": "बीच के ट्रैक के लिए जगह दी जाए।"
       }
     ]
   },
   {
     "id": "rta-hvb-103",
-    "question_text": "Why is important to drive with courtesy?",
+    "question_text": "शिष्टाचार के साथ गाड़ी चलाना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-103-a",
-        "answer_text": "The road is always busy with traffic."
+        "answer_text": "सड़क हमेशा यातायात से भरी रहती है।"
       },
       {
         "id": "rta-hvb-103-b",
-        "answer_text": "It is important especially when stopping."
+        "answer_text": "यह विशेष रूप से रुकते समय महत्वपूर्ण है।"
       },
       {
         "id": "rta-hvb-103-c",
-        "answer_text": "The road is there for all road users."
+        "answer_text": "सड़क सभी सड़क उपयोगकर्ताओं के लिए है।"
       }
     ]
   },
   {
     "id": "rta-hvb-105",
-    "question_text": "One way to avoid being a victim of another driver's anger easily is:",
+    "question_text": "किसी अन्य ड्राइवर के क्रोध का शिकार होने से बचने का एक आसान तरीका है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-105-a",
-        "answer_text": "driving independently at all times."
+        "answer_text": "हर समय स्वतंत्र रूप से गाड़ी चलाना।"
       },
       {
         "id": "rta-hvb-105-b",
-        "answer_text": "acknowledging when you made a mistake."
+        "answer_text": "जब आपसे गलती हो तो उसे स्वीकार करना।"
       },
       {
         "id": "rta-hvb-105-c",
-        "answer_text": "pointing out clearly when other drivers make mistakes."
+        "answer_text": "अन्य ड्राइवरों की गलतियों को स्पष्ट रूप से इंगित करना।"
       }
     ]
   },
   {
     "id": "rta-hvb-107",
-    "question_text": "Why is it important for heavy vehicles to reduce speed before coming to a bend?",
+    "question_text": "भारी वाहनों के लिए मोड़ से पहले गति कम करना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-107-a",
-        "answer_text": "Because heavy vehicles have higher center of gravity."
+        "answer_text": "क्योंकि भारी वाहनों का गुरुत्व केंद्र ऊंचा होता है।"
       },
       {
         "id": "rta-hvb-107-b",
-        "answer_text": "Because heavy vehicles have lighter center of gravity."
+        "answer_text": "क्योंकि भारी वाहनों का गुरुत्व केंद्र हल्का होता है।"
       },
       {
         "id": "rta-hvb-107-c",
-        "answer_text": "Because heavy vehicles have lower center of gravity."
+        "answer_text": "क्योंकि भारी वाहनों का गुरुत्व केंद्र नीचा होता है।"
       }
     ]
   },
   {
     "id": "rta-hvb-110",
-    "question_text": "When braking and the vehicle skids, why is it important to stop braking?",
+    "question_text": "ब्रेक लगाते समय वाहन फिसल जाए तो ब्रेक बंद करना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-110-a",
-        "answer_text": "This helps restore traction."
+        "answer_text": "इससे ट्रैक्शन वापस आता है।"
       },
       {
         "id": "rta-hvb-110-b",
-        "answer_text": "This helps restore direction."
+        "answer_text": "इससे दिशा वापस आती है।"
       },
       {
         "id": "rta-hvb-110-c",
-        "answer_text": "This helps restore steering."
+        "answer_text": "इससे स्टीयरिंग वापस आती है।"
       }
     ]
   },
   {
     "id": "rta-hvb-111",
-    "question_text": "When performing emergency steering, it is important to:",
+    "question_text": "आपातकालीन स्टीयरिंग करते समय यह महत्वपूर्ण है कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-111-a",
-        "answer_text": "maintain the same speed while turning."
+        "answer_text": "मोड़ते समय एक जैसी गति बनाए रखें।"
       },
       {
         "id": "rta-hvb-111-b",
-        "answer_text": "avoid turning steering with both hands."
+        "answer_text": "दोनों हाथों से स्टीयरिंग मोड़ने से बचें।"
       },
       {
         "id": "rta-hvb-111-c",
-        "answer_text": "avoid braking while turning the steering."
+        "answer_text": "स्टीयरिंग मोड़ते समय ब्रेक लगाने से बचें।"
       }
     ]
   },
   {
     "id": "rta-hvb-115",
-    "question_text": "In case you are involved in a crash, what should be the first thing to do?",
+    "question_text": "यदि आप किसी दुर्घटना में शामिल हों, तो सबसे पहले क्या करना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-115-a",
-        "answer_text": "Prevent another crash from happening at the same spot."
+        "answer_text": "उसी जगह पर दूसरी दुर्घटना होने से रोकें।"
       },
       {
         "id": "rta-hvb-115-b",
-        "answer_text": "Prevent other drivers from seeing you."
+        "answer_text": "दूसरे ड्राइवरों को आपको देखने से रोकें।"
       },
       {
         "id": "rta-hvb-115-c",
-        "answer_text": "Ensure you have your license with you at that time."
+        "answer_text": "सुनिश्चित करें कि उस समय आपके पास लाइसेंस है।"
       }
     ]
   },
   {
     "id": "rta-hvb-116",
-    "question_text": "When putting out the fire, it is important to aim the extinguisher:",
+    "question_text": "आग बुझाते समय, अग्निशामक यंत्र को निशाना बनाना महत्वपूर्ण है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-116-a",
-        "answer_text": "directly at the engine of the vehicle."
+        "answer_text": "सीधे वाहन के इंजन पर।"
       },
       {
         "id": "rta-hvb-116-b",
-        "answer_text": "directly at the top of the flames."
+        "answer_text": "सीधे लपटों की चोटी पर।"
       },
       {
         "id": "rta-hvb-116-c",
-        "answer_text": "directly at the base of the fire."
+        "answer_text": "सीधे आग की जड़ पर।"
       }
     ]
   },
   {
     "id": "rta-hvb-118",
-    "question_text": "In a crash where there are injuries, why is it important to give your exact location?",
+    "question_text": "घायलों वाली दुर्घटना में, अपना सटीक स्थान बताना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-118-a",
-        "answer_text": "so emergency response can arrive without delay."
+        "answer_text": "ताकि आपातकालीन सहायता बिना देरी के पहुंच सके।"
       },
       {
         "id": "rta-hvb-118-b",
-        "answer_text": "so emergency response can be arranged."
+        "answer_text": "ताकि आपातकालीन सहायता की व्यवस्था की जा सके।"
       },
       {
         "id": "rta-hvb-118-c",
-        "answer_text": "so emergency actions can be decided fast."
+        "answer_text": "ताकि आपातकालीन कार्रवाई जल्दी तय की जा सके।"
       }
     ]
   },
   {
     "id": "rta-hvb-119",
-    "question_text": "If you are involved in a crash, you will be committing an offense if:",
+    "question_text": "यदि आप किसी दुर्घटना में शामिल हों, तो आप अपराध करेंगे यदि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-119-a",
-        "answer_text": "you do not clean the area immediately."
+        "answer_text": "आप तुरंत जगह साफ नहीं करते।"
       },
       {
         "id": "rta-hvb-119-b",
-        "answer_text": "you call the police immediately."
+        "answer_text": "आप तुरंत पुलिस को फोन करते हैं।"
       },
       {
         "id": "rta-hvb-119-c",
-        "answer_text": "you do not stop your vehicle."
+        "answer_text": "आप अपना वाहन नहीं रोकते।"
       }
     ]
   },
   {
     "id": "rta-hvb-127",
-    "question_text": "When driving a heavy vehicle, one way to prevent tiredness is to;",
+    "question_text": "भारी वाहन चलाते समय, थकान से बचने का एक तरीका यह है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-127-a",
-        "answer_text": "Take short breaks"
+        "answer_text": "छोटे-छोटे ब्रेक लें।"
       },
       {
         "id": "rta-hvb-127-b",
-        "answer_text": "Keep looking at scenery"
+        "answer_text": "दृश्य देखते रहें।"
       },
       {
         "id": "rta-hvb-127-c",
-        "answer_text": "Chat with some friends"
+        "answer_text": "दोस्तों से बात करें।"
       }
     ]
   },
   {
     "id": "rta-hvb-129",
-    "question_text": "Touching your toes or knee-bends are just some of the physical exercises you can do while;",
+    "question_text": "पैर की उंगलियों को छूना या घुटने मोड़ना कुछ शारीरिक व्यायाम हैं जो आप कर सकते हैं जब:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-129-a",
-        "answer_text": "Taking a break from driving"
+        "answer_text": "ड्राइविंग से ब्रेक ले रहे हों।"
       },
       {
         "id": "rta-hvb-129-b",
-        "answer_text": "Driving during the night"
+        "answer_text": "रात में गाड़ी चला रहे हों।"
       },
       {
         "id": "rta-hvb-129-c",
-        "answer_text": "Stopping to take breaks"
+        "answer_text": "ब्रेक के लिए रुक रहे हों।"
       }
     ]
   },
   {
     "id": "rta-hvb-134",
-    "question_text": "Why is it important to be comfortable on the drivers seat especially on long drives?",
+    "question_text": "विशेष रूप से लंबी ड्राइव पर ड्राइवर की सीट पर आरामदायक होना क्यों महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-134-a",
-        "answer_text": "In order not to get tired easily"
+        "answer_text": "आसानी से न थकने के लिए"
       },
       {
         "id": "rta-hvb-134-b",
-        "answer_text": "So as to stay on schedule"
+        "answer_text": "समय पर पहुंचने के लिए"
       },
       {
         "id": "rta-hvb-134-c",
-        "answer_text": "In order to drive for more than 10 hours straight"
+        "answer_text": "लगातार 10 घंटे से अधिक गाड़ी चलाने के लिए"
       }
     ]
   },
   {
     "id": "rta-hvb-135",
-    "question_text": "Sit with back and shoulders against the back rest and feet comfortably reaching the pedals in order to;",
+    "question_text": "पीठ और कंधों को बैकरेस्ट से लगाकर और पैर आराम से पेडल तक पहुंचते हुए बैठें ताकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-135-a",
-        "answer_text": "Adjust the seat closest to the steering"
+        "answer_text": "सीट को स्टीयरिंग के सबसे नजदीक एडजस्ट करें"
       },
       {
         "id": "rta-hvb-135-b",
-        "answer_text": "Reach the destitution soonest"
+        "answer_text": "जल्द से जल्द मंजिल तक पहुंचें"
       },
       {
         "id": "rta-hvb-135-c",
-        "answer_text": "Stay comfortable especially while driving for longer hours"
+        "answer_text": "विशेष रूप से लंबे घंटों तक गाड़ी चलाते समय आरामदायक रहें"
       }
     ]
   },
   {
     "id": "rta-hvb-136",
-    "question_text": "केबिन में ताज़ी हवा की निरंतर आपूर्ति के लिए खिड़कियाँ खोलना महत्वपूर्ण है;",
+    "question_text": "केबिन में ताजी हवा की निरंतर आपूर्ति के लिए खिड़कियां खोलना इसके लिए महत्वपूर्ण है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-136-a",
-        "answer_text": "सुबह के समय ड्राइविंग"
+        "answer_text": "सुबह के समय गाड़ी चलाना"
       },
       {
         "id": "rta-hvb-136-b",
@@ -14293,37 +14293,37 @@
       },
       {
         "id": "rta-hvb-136-c",
-        "answer_text": "चारों ओर सुरक्षित स्थान सुनिश्चित करना"
+        "answer_text": "चारों तरफ सुरक्षित स्थान सुनिश्चित करना"
       }
     ]
   },
   {
     "id": "rta-hvb-139",
-    "question_text": "लंबी यात्रा के दौरान सतर्क रहने के लिए आप क्या कदम उठा सकते हैं?",
+    "question_text": "लंबी ड्राइव पर सतर्क रहने के लिए आप क्या कदम उठा सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-139-a",
-        "answer_text": "भरपूर नींद लें, ब्रेक लें और अपने खान-पान पर ध्यान दें"
+        "answer_text": "पर्याप्त नींद लें, ब्रेक लें और अपने खाने का ध्यान रखें"
       },
       {
         "id": "rta-hvb-139-b",
-        "answer_text": "शराब से बचें, सड़क पर ध्यान रखें और लगातार गाड़ी चलाएं"
+        "answer_text": "शराब से बचें, ध्यान सड़क पर रखें और लगातार गाड़ी चलाएं"
       },
       {
         "id": "rta-hvb-139-c",
-        "answer_text": "आराम से रहें, शांत रहें और फ्राइज़ या पास्ता खाएं"
+        "answer_text": "आरामदायक रहें, ठंडे रहें और फ्राइज या पास्ता खाएं"
       }
     ]
   },
   {
     "id": "rta-hvb-149",
-    "question_text": "अपनी यात्रा-पूर्व निरीक्षण करते समय एक महत्वपूर्ण विचार यह है;",
+    "question_text": "यात्रा पूर्व निरीक्षण करते समय एक महत्वपूर्ण बात यह है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-149-a",
-        "answer_text": "सुरक्षा लोड करें"
+        "answer_text": "माल की सुरक्षा"
       },
       {
         "id": "rta-hvb-149-b",
@@ -14331,108 +14331,108 @@
       },
       {
         "id": "rta-hvb-149-c",
-        "answer_text": "लोड अवैध नहीं है"
+        "answer_text": "माल अवैध नहीं है"
       }
     ]
   },
   {
     "id": "rta-hvb-158",
-    "question_text": "बेल्ट और पुली की जाँच करते समय, आपको कौन सी महत्वपूर्ण जानकारी पर ध्यान देना चाहिए?",
+    "question_text": "बेल्ट और पुली जांचते समय कौन सी महत्वपूर्ण जानकारी नोट करनी चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-158-a",
-        "answer_text": "सुनिश्चित करें कि वे मजबूती से घूम रहे हैं"
+        "answer_text": "सुनिश्चित करें कि वे मजबूती से घूम रही हैं"
       },
       {
         "id": "rta-hvb-158-b",
-        "answer_text": "सुनिश्चित करें कि वे बरकरार हैं और टूटे नहीं हैं"
+        "answer_text": "सुनिश्चित करें कि वे सही हालत में हैं और दरार नहीं आई है"
       },
       {
         "id": "rta-hvb-158-c",
-        "answer_text": "सुनिश्चित करें कि कोई रिसाव न देखा जा सके"
+        "answer_text": "सुनिश्चित करें कि कोई रिसाव दिखाई न दे"
       }
     ]
   },
   {
     "id": "rta-hvb-162",
-    "question_text": "प्राथमिक नियंत्रणों (स्टीयरिंग सिस्टम) में से किसी एक की जाँच करते समय, कौन सी जानकारी महत्वपूर्ण है?",
+    "question_text": "प्राथमिक नियंत्रण (स्टीयरिंग सिस्टम) में से एक की जाँच करते समय, कौन सी जानकारी महत्वपूर्ण है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-162-a",
-        "answer_text": "किसी भी प्रकार की ढिलाई के लिए स्टीयरिंग व्हील की जाँच करें"
+        "answer_text": "स्टीयरिंग व्हील में किसी भी ढीलेपन की जाँच करें"
       },
       {
         "id": "rta-hvb-162-b",
-        "answer_text": "ऊँचाई के लिए स्टीयरिंग व्हील की जाँच करें"
+        "answer_text": "स्टीयरिंग व्हील की ऊंचाई की जाँच करें"
       },
       {
         "id": "rta-hvb-162-c",
-        "answer_text": "स्नेहन के लिए स्टीयरिंग व्हील की जाँच करें"
+        "answer_text": "स्टीयरिंग व्हील के स्नेहन की जाँच करें"
       }
     ]
   },
   {
     "id": "rta-hvb-181",
-    "question_text": "सेमी-ट्रेलर का निरीक्षण और सुरक्षा करते समय, पहियों को बंद करना महत्वपूर्ण है;",
+    "question_text": "सेमी-ट्रेलर का निरीक्षण और उसे सुरक्षित करते समय, पहियों को चॉक करना महत्वपूर्ण है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-181-a",
-        "answer_text": "आगे और पीछे, पहियों के दोनों ओर"
+        "answer_text": "पहियों के आगे और पीछे, दोनों तरफ"
       },
       {
         "id": "rta-hvb-181-b",
-        "answer_text": "पीछे की ओर, पहियों के दोनों ओर"
+        "answer_text": "पहियों की पिछली तरफ, दोनों ओर"
       },
       {
         "id": "rta-hvb-181-c",
-        "answer_text": "आगे और पीछे, पहियों के दाहिनी ओर"
+        "answer_text": "पहियों के आगे और पीछे, दाईं तरफ"
       }
     ]
   },
   {
     "id": "rta-hvb-194",
-    "question_text": "जब आप कपलिंग को अलग कर रहे हों और आप इतने आश्वस्त न हों कि सतह ट्रेलर को सहारा देगी, तो यह सबसे अच्छा है;",
+    "question_text": "जब ट्रेलर अलग करते समय आपको यकीन न हो कि सतह ट्रेलर को सहारा देगी, तो बेहतर है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-194-a",
-        "answer_text": "प्रक्रिया को हमेशा की तरह जारी रखें"
+        "answer_text": "सामान्य रूप से प्रक्रिया जारी रखें"
       },
       {
         "id": "rta-hvb-194-b",
-        "answer_text": "पार्किंग ब्रेक का प्रयोग करें और यह ठीक रहेगा"
+        "answer_text": "पार्किंग ब्रेक का उपयोग करें और सब ठीक हो जाएगा"
       },
       {
         "id": "rta-hvb-194-c",
-        "answer_text": "लैंडिंग गियर के आधार को सहारा देने के लिए बेस बोर्ड का उपयोग करें"
+        "answer_text": "लैंडिंग गियर की आधार संरचना को सहारा देने के लिए बेस बोर्ड का उपयोग करें"
       }
     ]
   },
   {
     "id": "rta-hvb-220",
-    "question_text": "यदि आप गाड़ी चलाते समय सहज नहीं हैं, तो क्या होने की सबसे अधिक संभावना है?",
+    "question_text": "यदि आप गाड़ी चलाते समय आरामदायक महसूस नहीं कर रहे, तो सबसे अधिक क्या होने की संभावना है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-220-a",
-        "answer_text": "अधिक जल्दी थक जाते हैं"
+        "answer_text": "अधिक जल्दी थक जाएंगे"
       },
       {
         "id": "rta-hvb-220-b",
-        "answer_text": "सड़क को देखते हुए अधिक समय व्यतीत करें"
+        "answer_text": "सड़क देखने में अधिक समय बिताएंगे"
       },
       {
         "id": "rta-hvb-220-c",
-        "answer_text": "ड्राइविंग पर अच्छा फोकस बनाए रखें"
+        "answer_text": "ड्राइविंग पर अच्छा ध्यान बनाए रखेंगे"
       }
     ]
   },
   {
     "id": "rta-hvb-221",
-    "question_text": "बेल्ट और पुली की जांच करते समय आपको कौन सी महत्वपूर्ण जानकारी पर ध्यान देना चाहिए?",
+    "question_text": "बेल्ट और पुली की जांच करते समय, आपको कौन सी महत्वपूर्ण जानकारी नोट करनी चाहिए?",
     "explanation": null,
     "answers": [
       {
@@ -14441,11 +14441,11 @@
       },
       {
         "id": "rta-hvb-221-b",
-        "answer_text": "सुनिश्चित करें कि वे बरकरार हैं और टूटे नहीं हैं"
+        "answer_text": "सुनिश्चित करें कि वे सही स्थिति में हैं और टूटे-फटे नहीं हैं"
       },
       {
         "id": "rta-hvb-221-c",
-        "answer_text": "सुनिश्चित करें कि कोई रिसाव न देखा जा सके"
+        "answer_text": "सुनिश्चित करें कि कोई रिसाव नज़र न आए"
       }
     ]
   }

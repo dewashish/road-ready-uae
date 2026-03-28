@@ -4418,1369 +4418,1369 @@
   },
   {
     "id": "rta-lmv-484",
-    "question_text": "You encountered a collision on your way and you are not involved, what is the best behavior here?",
+    "question_text": "യാത്രയ്ക്കിടെ ഒരു അപകടം കണ്ടു, നിങ്ങൾ അതിൽ ഉൾപ്പെട്ടിട്ടില്ല, ഇവിടെ ഏറ്റവും നല്ല പെരുമാറ്റം എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-484-a",
-        "answer_text": "try and slow down to see what happened"
+        "answer_text": "എന്ത് സംഭവിച്ചു എന്ന് നോക്കാൻ വേഗം കുറയ്ക്കാൻ ശ്രമിക്കുക"
       },
       {
         "id": "rta-lmv-484-b",
-        "answer_text": "avoid slowing down to look as it may cause more traffic or cause another collision"
+        "answer_text": "നോക്കാൻ വേഗം കുറയ്ക്കുന്നത് ഒഴിവാക്കുക, കാരണം ഇത് കൂടുതൽ ഗതാഗതം അല്ലെങ്കിൽ മറ്റൊരു അപകടം ഉണ്ടാക്കാം"
       },
       {
         "id": "rta-lmv-484-c",
-        "answer_text": "stop on the side of the road and ask around what really happened"
+        "answer_text": "റോഡരികിൽ നിർത്തി ശരിക്ക് എന്ത് സംഭവിച്ചു എന്ന് ചോദിച്ചറിയുക"
       }
     ]
   },
   {
     "id": "rta-lmv-489",
-    "question_text": "If you are involved in a crash, turn your hazards lights on, exit your vehicle carefully and;",
+    "question_text": "ഒരു അപകടത്തിൽ ഉൾപ്പെട്ടാൽ ഹസാർഡ് ലൈറ്റുകൾ ഇടുക, ശ്രദ്ധാപൂർവ്വം വാഹനത്തിൽ നിന്ന് ഇറങ്ങുക, പിന്നെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-489-a",
-        "answer_text": "turn your headlights on"
+        "answer_text": "ഹെഡ്‌ലൈറ്റുകൾ ഇടുക"
       },
       {
         "id": "rta-lmv-489-b",
-        "answer_text": "wear high visibility jackets if possible"
+        "answer_text": "സാധ്യമെങ്കിൽ ഹൈ വിസിബിലിറ്റി ജാക്കറ്റ് ധരിക്കുക"
       },
       {
         "id": "rta-lmv-489-c",
-        "answer_text": "immediately move out anyone who may be injured"
+        "answer_text": "പരിക്കേറ്റ ഏതൊരാളെയും ഉടൻ നീക്കം ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-lmv-492",
-    "question_text": "Broken yellow lines across the road warn motorists that there is a speed hump in the roadway. What should you expect?",
+    "question_text": "റോഡിലുടനീളം മുറിഞ്ഞ മഞ്ഞ വരകൾ മോട്ടോർ ഡ്രൈവർമാർക്ക് റോഡ്‌വേയിൽ ഒരു സ്പീഡ് ഹംപ് ഉണ്ടെന്ന് മുന്നറിയിപ്പ് നൽകുന്നു. നിങ്ങൾ എന്ത് പ്രതീക്ഷിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-492-a",
-        "answer_text": "be alert for any animals as they may be crossing this area"
+        "answer_text": "ഏതൊരു മൃഗത്തെക്കുറിച്ചും ജാഗ്രത പുലർത്തുക, അവ ഈ മേഖലയിൽ കടന്നു പോകുന്നുണ്ടാകാം"
       },
       {
         "id": "rta-lmv-492-b",
-        "answer_text": "be alert for pedestrians, as they may use this as a crossing point"
+        "answer_text": "കാൽനടക്കാരെക്കുറിച്ച് ജാഗ്രത പുലർത്തുക, അവർ ഇതൊരു ക്രോസ്സിംഗ് പോയിന്റായി ഉപയോഗിച്ചേക്കാം"
       },
       {
         "id": "rta-lmv-492-c",
-        "answer_text": "be alert for heavy vehicles crossing this area"
+        "answer_text": "ഈ മേഖലയിൽ കടന്നു പോകുന്ന ഭാരവാഹനങ്ങളെക്കുറിച്ച് ജാഗ്രത പുലർത്തുക"
       }
     ]
   },
   {
     "id": "rta-fk-020",
-    "question_text": "Which type of forklifts have the highest lifting capacity?",
+    "question_text": "ഏത് തരം ഫോർക്ക്‌ലിഫ്റ്റിന് ഏറ്റവും കൂടുതൽ ഉയർത്തൽ ശേഷിയുണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-020-a",
-        "answer_text": "Rough terrain forklifts"
+        "answer_text": "ഒരുക്കമില്ലാത്ത ഭൂഭാഗ ഫോർക്ക്‌ലിഫ്റ്റ്"
       },
       {
         "id": "rta-fk-020-b",
-        "answer_text": "Pedestrian operated forklifts"
+        "answer_text": "കാൽനടക്കാർ ഓടിക്കുന്ന ഫോർക്ക്‌ലിഫ്റ്റ്"
       },
       {
         "id": "rta-fk-020-c",
-        "answer_text": "Ride on forklifts"
+        "answer_text": "റൈഡ്-ഓൺ ഫോർക്ക്‌ലിഫ്റ്റ്"
       }
     ]
   },
   {
     "id": "rta-fk-030",
-    "question_text": "When moving forward and steering, the rear end swing will be 3 times faster than the forward speed of the forklift. This creates;",
+    "question_text": "മുന്നോട്ട് നീങ്ങുകയും സ്റ്റിയർ ചെയ്യുകയും ചെയ്യുമ്പോൾ, ഫോർക്ക്‌ലിഫ്റ്റിന്റെ മുന്നോട്ടുള്ള വേഗതയേക്കാൾ 3 മടങ്ങ് വേഗത്തിൽ പിൻഭാഗം ആടും. ഇത് സൃഷ്ടിക്കുന്നത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-030-a",
-        "answer_text": "Forward and reverse movement"
+        "answer_text": "മുന്നോട്ടും പിന്നോട്ടുമുള്ള ചലനം"
       },
       {
         "id": "rta-fk-030-b",
-        "answer_text": "Sideways movement and dangers to pedestrians"
+        "answer_text": "പാർശ്വ ചലനവും കാൽനടക്കാർക്കുള്ള അപകടങ്ങളും"
       },
       {
         "id": "rta-fk-030-c",
-        "answer_text": "Sudden changes in directions"
+        "answer_text": "ദിശകളിൽ പെട്ടെന്നുള്ള മാറ്റങ്ങൾ"
       }
     ]
   },
   {
     "id": "rta-fk-049",
-    "question_text": "Where forklift is operating, what should be kept away",
+    "question_text": "ഫോർക്ക്ലിഫ്റ്റ് പ്രവർത്തിക്കുന്ന ഇടത്ത് നിന്ന് ആരെ അകറ്റി നിർത്തണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-049-a",
-        "answer_text": "Safety equipment"
+        "answer_text": "സുരക്ഷാ ഉപകരണങ്ങൾ"
       },
       {
         "id": "rta-fk-049-b",
-        "answer_text": "Loads"
+        "answer_text": "ഭാരങ്ങൾ"
       },
       {
         "id": "rta-fk-049-c",
-        "answer_text": "Pedestrians"
+        "answer_text": "കാൽനടക്കാർ"
       }
     ]
   },
   {
     "id": "rta-fk-056",
-    "question_text": "Before operating a forklift, this should be done as part of pre-use visual check;",
+    "question_text": "ഫോർക്ക്ലിഫ്റ്റ് ഓടിക്കുന്നതിന് മുൻപ്, ഉപയോഗ-മുൻ ദൃശ്യ പരിശോധനയുടെ ഭാഗമായി ഇത് ചെയ്യണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-056-a",
-        "answer_text": "Location of the fire stations"
+        "answer_text": "അഗ്നിശമനകേന്ദ്രങ്ങളുടെ സ്ഥാനം"
       },
       {
         "id": "rta-fk-056-b",
-        "answer_text": "Know the location of the doorways"
+        "answer_text": "വാതിലുകളുടെ സ്ഥാനം അറിയുക"
       },
       {
         "id": "rta-fk-056-c",
-        "answer_text": "know the location of the dangerous goods"
+        "answer_text": "അപകടകരമായ സാധനങ്ങളുടെ സ്ഥാനം അറിയുക"
       }
     ]
   },
   {
     "id": "rta-fk-066",
-    "question_text": "If you need to control the movement of people around for safety, what measure can you use?",
+    "question_text": "സുരക്ഷയ്ക്കായി ആളുകളുടെ ചലനം നിയന്ത്രിക്കണമെങ്കിൽ, ഏത് നടപടി ഉപയോഗിക്കാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-066-a",
-        "answer_text": "Block all entrance and exits for pedestrians"
+        "answer_text": "കാൽനടക്കാർക്കുള്ള എല്ലാ പ്രവേശന-നിർഗമന മാർഗ്ഗങ്ങളും തടയുക"
       },
       {
         "id": "rta-fk-066-b",
-        "answer_text": "Insist on setting up traffic lights"
+        "answer_text": "ട്രാഫിക് ലൈറ്റ് സ്ഥാപിക്കണമെന്ന് നിർബന്ധിക്കുക"
       },
       {
         "id": "rta-fk-066-c",
-        "answer_text": "Include use of a flag person to warn of dangers and control movement"
+        "answer_text": "അപകടങ്ങളെ കുറിച്ച് മുന്നറിയിപ്പ് നൽകാനും ചലനം നിയന്ത്രിക്കാനും ഒരു ഫ്ലാഗ് വ്യക്തിയെ ഉപയോഗിക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-077",
-    "question_text": "Rough surfaces, people and other vehicles are some of the _______when operating forklift.",
+    "question_text": "പരുക്കൻ പ്രതലങ്ങൾ, ആളുകൾ, മറ്റ് വാഹനങ്ങൾ എന്നിവ ഫോർക്ക്ലിഫ്റ്റ് ഓടിക്കുമ്പോൾ _______ ൽ ചിലതാണ്.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-077-a",
-        "answer_text": "Workplace disturbances"
+        "answer_text": "ജോലിസ്ഥലത്തെ അസ്വസ്ഥതകൾ"
       },
       {
         "id": "rta-fk-077-b",
-        "answer_text": "Dangers to watch for"
+        "answer_text": "ശ്രദ്ധിക്കേണ്ട അപകടങ്ങൾ"
       },
       {
         "id": "rta-fk-077-c",
-        "answer_text": "Safety areas"
+        "answer_text": "സുരക്ഷിത മേഖലകൾ"
       }
     ]
   },
   {
     "id": "rta-hfk-042",
-    "question_text": "Before starting the shovel, you noticed a warning tag attached to one of the controls. What should you do?",
+    "question_text": "ഷോവൽ ആരംഭിക്കുന്നതിന് മുൻപ്, ഒരു കൺട്രോളിൽ മുന്നറിയിപ്പ് ടാഗ് ഘടിപ്പിച്ചിരിക്കുന്നത് നിങ്ങൾ ശ്രദ്ധിച്ചു. നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-042-a",
-        "answer_text": "Start the engine, you have work to do"
+        "answer_text": "എഞ്ചിൻ ആരംഭിക്കുക, നിങ്ങൾക്ക് ജോലിയുണ്ട്"
       },
       {
         "id": "rta-hfk-042-b",
-        "answer_text": "Do not start the engine, there is safety risk"
+        "answer_text": "എഞ്ചിൻ ആരംഭിക്കരുത്, സുരക്ഷാ അപകടമുണ്ട്"
       },
       {
         "id": "rta-hfk-042-c",
-        "answer_text": "Remove the tag and place it in the storage compartment"
+        "answer_text": "ടാഗ് നീക്കം ചെയ്ത് സ്റ്റോറേജ് കമ്പാർട്ട്‌മെന്റിൽ വയ്ക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-054",
-    "question_text": "When refueling, reduce  risk of fire by;",
+    "question_text": "ഇന്ധനം നിറയ്ക്കുമ്പോൾ, തീ പിടിക്കുന്നതിന്റെ അപകടസാധ്യത കുറയ്ക്കാൻ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-054-a",
-        "answer_text": "Ensuring there are no naked flames nearby"
+        "answer_text": "സമീപത്ത് തുറന്ന തീ ഇല്ലെന്ന് ഉറപ്പ് വരുത്തുക"
       },
       {
         "id": "rta-hfk-054-b",
-        "answer_text": "Ensuring the fuel used is not flammable"
+        "answer_text": "ഉപയോഗിക്കുന്ന ഇന്ധനം ജ്വലനശേഷിയുള്ളതല്ലെന്ന് ഉറപ്പ് വരുത്തുക"
       },
       {
         "id": "rta-hfk-054-c",
-        "answer_text": "Making sure the area is free of leaks"
+        "answer_text": "സ്ഥലം ചോർച്ചകൾ ഇല്ലാത്തതാണെന്ന് ഉറപ്പ് വരുത്തുക"
       }
     ]
   },
   {
     "id": "rta-hfk-066",
-    "question_text": "To avoid overturning dangers for shovel operations, you should look for;",
+    "question_text": "ഷോവൽ പ്രവർത്തനത്തിൽ മറിഞ്ഞ് വീഴുന്ന അപകടങ്ങൾ ഒഴിവാക്കാൻ, നിങ്ങൾ ശ്രദ്ധിക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-066-a",
-        "answer_text": "Sloping ground, hidden holes and drop-offs."
+        "answer_text": "ചരിഞ്ഞ നിലം, മറഞ്ഞ കുഴികൾ, ഒഴിഞ്ഞ കൊണ്ടുള്ള അറ്റങ്ങൾ"
       },
       {
         "id": "rta-hfk-066-b",
-        "answer_text": "Overhead cables and telephone lines"
+        "answer_text": "മുകളിലൂടെ കടന്ന് പോകുന്ന കേബിളുകൾ, ടെലിഫോൺ ലൈനുകൾ"
       },
       {
         "id": "rta-hfk-066-c",
-        "answer_text": "Site speed limits"
+        "answer_text": "സൈറ്റ് വേഗ പരിധികൾ"
       }
     ]
   },
   {
     "id": "rta-hfk-079",
-    "question_text": "What is the danger when transporting loads such as boulders?",
+    "question_text": "കല്ലുകൾ പോലുള്ള ഭാരം കൊണ്ടുപോകുമ്പോൾ എന്ത് അപകടം ഉണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-079-a",
-        "answer_text": "The bucket may not be of the right size"
+        "answer_text": "ബക്കറ്റ് ശരിയായ വലുപ്പത്തിലല്ലായിരിക്കാം"
       },
       {
         "id": "rta-hfk-079-b",
-        "answer_text": "The bucket could tip as it is raised and cause injury or damage"
+        "answer_text": "ബക്കറ്റ് ഉയർത്തുമ്പോൾ മറിഞ്ഞ് പരിക്കോ നാശനഷ്ടമോ ഉണ്ടാകാം"
       },
       {
         "id": "rta-hfk-079-c",
-        "answer_text": "The bucket may slip and loose brakes while travelling"
+        "answer_text": "ബക്കറ്റ് വഴുതി വീഴാം, യാത്രയ്ക്കിടയിൽ ബ്രേക്ക് അയഞ്ഞുപോകാം"
       }
     ]
   },
   {
     "id": "rta-hfk-086",
-    "question_text": "When working on inclines, what can cause the machine to slide and be placed in a dangerous position?",
+    "question_text": "ചരിവുകളിൽ ജോലി ചെയ്യുമ്പോൾ, എന്ത് കാരണത്താൽ യന്ത്രം വഴുതി അപകടകരമായ സ്ഥാനത്തേക്ക് പോകാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-086-a",
-        "answer_text": "Very low center of gravity of the machine"
+        "answer_text": "യന്ത്രത്തിന്റെ വളരെ താഴ്ന്ന ഗുരുത്വകേന്ദ്രം"
       },
       {
         "id": "rta-hfk-086-b",
-        "answer_text": "Hard and sticky material on the surface"
+        "answer_text": "ഉപരിതലത്തിൽ കഠിനവും ഒട്ടും ഉള്ളതുമായ വസ്തു"
       },
       {
         "id": "rta-hfk-086-c",
-        "answer_text": "Loose material on the surface"
+        "answer_text": "ഉപരിതലത്തിൽ അയഞ്ഞ വസ്തു"
       }
     ]
   },
   {
     "id": "rta-hfk-089",
-    "question_text": "The rear attachment of shovels generally used during fence construction;",
+    "question_text": "വേലി നിർമ്മാണ സമയത്ത് പൊതുവായി ഉപയോഗിക്കുന്ന ഷോവലിന്റെ പിൻ അറ്റാച്ച്മെന്റ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-089-a",
-        "answer_text": "Rippers"
+        "answer_text": "റിപ്പേഴ്സ്"
       },
       {
         "id": "rta-hfk-089-b",
-        "answer_text": "Grabs"
+        "answer_text": "ഗ്രാബ്സ്"
       },
       {
         "id": "rta-hfk-089-c",
-        "answer_text": "Augers"
+        "answer_text": "ഓഗേഴ്സ്"
       }
     ]
   },
   {
     "id": "rta-moto-005",
-    "question_text": "Why is it dangerous to use second hand helmet?",
+    "question_text": "ഉപയോഗിച്ച ഹെൽമെറ്റ് ഉപയോഗിക്കുന്നത് അപകടകരമായിരിക്കുന്നത് എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-005-a",
-        "answer_text": "Because it may have damage you cannot see"
+        "answer_text": "കാരണം ഇതിന് കാണാൻ കഴിയാത്ത നാശം ഉണ്ടാകാം."
       },
       {
         "id": "rta-moto-005-b",
-        "answer_text": "Because it may be outdated."
+        "answer_text": "കാരണം ഇത് കാലഹരണപ്പെട്ടതാകാം."
       },
       {
         "id": "rta-moto-005-c",
-        "answer_text": "Because it is not acceptable."
+        "answer_text": "കാരണം ഇത് സ്വീകാര്യമല്ല."
       }
     ]
   },
   {
     "id": "rta-moto-009",
-    "question_text": "When riding around a corner:",
+    "question_text": "ഒരു വളവ് ചുറ്റി സഞ്ചരിക്കുമ്പോൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-009-a",
-        "answer_text": "stay right of centre in your lane to keep away from oncoming vehicles."
+        "answer_text": "എതിർദിശയിൽ വരുന്ന വാഹനങ്ങളിൽ നിന്ന് അകന്നു നിൽക്കാൻ നിങ്ങളുടെ ലെയ്‌നിന്റെ മധ്യത്തിൽ നിന്ന് വലതുഭാഗത്ത് നിൽക്കുക."
       },
       {
         "id": "rta-moto-009-b",
-        "answer_text": "stay left of centre in your lane where you are most easily seen."
+        "answer_text": "നിങ്ങളെ എളുപ്പം കാണാൻ കഴിയുന്ന ലെയ്‌നിന്റെ മധ്യഭാഗത്തിന്റെ ഇടതുഭാഗത്ത് നിൽക്കുക."
       },
       {
         "id": "rta-moto-009-c",
-        "answer_text": "position yourself on the road so that you can see through the corner."
+        "answer_text": "വളവ് കാണാൻ കഴിയുന്ന രീതിയിൽ റോഡിൽ സ്ഥാനം ക്രമീകരിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-021",
-    "question_text": "Most collisions between cars and motorcycles happen:",
+    "question_text": "കാറുകളും മോട്ടോർസൈക്കിളുകളും തമ്മിലുള്ള ഭൂരിഭാഗം കൂട്ടിയിടിയും ഉണ്ടാകുന്നത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-021-a",
-        "answer_text": "at intersections."
+        "answer_text": "കവലകളിൽ."
       },
       {
         "id": "rta-moto-021-b",
-        "answer_text": "at high speeds."
+        "answer_text": "ഉയർന്ന വേഗതയിൽ."
       },
       {
         "id": "rta-moto-021-c",
-        "answer_text": "between vehicles travelling in the same direction."
+        "answer_text": "ഒരേ ദിശയിൽ സഞ്ചരിക്കുന്ന വാഹനങ്ങൾ തമ്മിൽ."
       }
     ]
   },
   {
     "id": "rta-moto-025",
-    "question_text": "You are riding past a line of parked cars and one seems to be pulling out. You should:",
+    "question_text": "നിങ്ങൾ നിരനിരയായി പാർക്ക് ചെയ്ത കാറുകൾക്ക് അരികിലൂടെ പോകുകയാണ്, ഒരു കാർ പുറത്തു വരുന്നതായി തോന്നുന്നു. നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-025-a",
-        "answer_text": "change your lane position to avoid a crash."
+        "answer_text": "അപകടം ഒഴിവാക്കാൻ ലെയ്ൻ സ്ഥാനം മാറ്റുക."
       },
       {
         "id": "rta-moto-025-b",
-        "answer_text": "stop as quickly as you can."
+        "answer_text": "കഴിയുന്നത്ര വേഗം നിർത്തുക."
       },
       {
         "id": "rta-moto-025-c",
-        "answer_text": "accelerate straight ahead to pass the car."
+        "answer_text": "കാർ കടക്കാൻ നേരെ മുന്നോട്ട് വേഗം കൂട്ടുക."
       }
     ]
   },
   {
     "id": "rta-moto-026",
-    "question_text": "Why must motorcyclist not position at the extreme edges of the lane?",
+    "question_text": "മോട്ടോർസൈക്കിൾ ചാലകൻ ലെയ്നിന്റെ ഏറ്റവും അരികിൽ നിൽക്കരുതെന്ന് ഏത് കാരണത്താൽ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-026-a",
-        "answer_text": "To ensure better forward view."
+        "answer_text": "മുൻഭാഗത്തെ കാഴ്ച മെച്ചപ്പെടുത്താൻ."
       },
       {
         "id": "rta-moto-026-b",
-        "answer_text": "To avoid disturbing other drivers."
+        "answer_text": "മറ്റ് ഡ്രൈവർമാരെ ശല്യപ്പെടുത്താതിരിക്കാൻ."
       },
       {
         "id": "rta-moto-026-c",
-        "answer_text": "To avoid being trapped by other vehicles."
+        "answer_text": "മറ്റ് വാഹനങ്ങൾക്കിടയിൽ കുടുങ്ങാതിരിക്കാൻ."
       }
     ]
   },
   {
     "id": "rta-moto-033",
-    "question_text": "Oil dropped by cars on the road is particularly dangerous to motorcyclists:",
+    "question_text": "റോഡിൽ കാറുകൾ ഇട്ട എണ്ണ മോട്ടോർസൈക്കിൾ ചാലകർക്ക് പ്രത്യേകിച്ച് അപകടകരമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-033-a",
-        "answer_text": "at the edges of the road"
+        "answer_text": "റോഡിന്റെ അരികിൽ"
       },
       {
         "id": "rta-moto-033-b",
-        "answer_text": "on freeways."
+        "answer_text": "ഫ്രീവേകളിൽ."
       },
       {
         "id": "rta-moto-033-c",
-        "answer_text": "in the centre of lanes."
+        "answer_text": "ലെയ്നുകളുടെ നടുഭാഗത്ത്."
       }
     ]
   },
   {
     "id": "rta-moto-059",
-    "question_text": "You should always buy a new motorcycle helmet because:",
+    "question_text": "നിങ്ങൾ എപ്പോഴും പുതിയ മോട്ടോർസൈക്കിൾ ഹെൽമെറ്റ് വാങ്ങണം കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-059-a",
-        "answer_text": "it will be the latest fashion."
+        "answer_text": "അത് ഏറ്റവും പുതിയ ഫാഷനിലുള്ളതായിരിക്കും."
       },
       {
         "id": "rta-moto-059-b",
-        "answer_text": "it is likely to be a bright colour."
+        "answer_text": "അത് ഒരുപക്ഷേ തിളക്കമുള്ള നിറത്തിലുള്ളതായിരിക്കും."
       },
       {
         "id": "rta-moto-059-c",
-        "answer_text": "secondhand helmets can be dangerous in a crash."
+        "answer_text": "പഴയ ഹെൽമെറ്റുകൾ അപകടത്തിൽ അപകടകരമാകാം."
       }
     ]
   },
   {
     "id": "rta-moto-062",
-    "question_text": "Among the many hazards of riding a motorbike is:",
+    "question_text": "മോട്ടോർസൈക്കിൾ ഓടിക്കുന്നതിലെ പല അപകടങ്ങളിൽ ഒന്ന്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-062-a",
-        "answer_text": "riding at daytime only."
+        "answer_text": "പകൽ മാത്രം ഓടിക്കൽ."
       },
       {
         "id": "rta-moto-062-b",
-        "answer_text": "riding overconfident."
+        "answer_text": "അമിത ആത്മവിശ്വാസത്തോടെ ഓടിക്കൽ."
       },
       {
         "id": "rta-moto-062-c",
-        "answer_text": "riding as pillion passenger."
+        "answer_text": "പില്ലിയൻ യാത്രക്കാരനായി ഓടിക്കൽ."
       }
     ]
   },
   {
     "id": "rta-moto-069",
-    "question_text": "When you ride, yourself can be a hazard if:",
+    "question_text": "നിങ്ങൾ വാഹനം ഓടിക്കുമ്പോൾ, നിങ്ങൾ തന്നെ ഒരു അപകടമാകാം, ഇനി പറയുന്ന അവസ്ഥയിൽ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-069-a",
-        "answer_text": "you ride with friends."
+        "answer_text": "നിങ്ങൾ സുഹൃത്തുക്കളോടൊപ്പം ഓടിക്കുന്നു."
       },
       {
         "id": "rta-moto-069-b",
-        "answer_text": "you ride in a bad mood."
+        "answer_text": "നിങ്ങൾ മോശം മാനസികാവസ്ഥയിൽ ഓടിക്കുന്നു."
       },
       {
         "id": "rta-moto-069-c",
-        "answer_text": "you ride for a short period only."
+        "answer_text": "നിങ്ങൾ ഒരു ചെറിയ സമയത്തേക്ക് മാത്രം ഓടിക്കുന്നു."
       }
     ]
   },
   {
     "id": "rta-moto-073",
-    "question_text": "Visors or goggles must be free of scratch because:",
+    "question_text": "വൈസർ അല്ലെങ്കിൽ ഗോഗിൾസ് മാന്തലുകളിൽ നിന്ന് മുക്തമായിരിക്കണം, കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-073-a",
-        "answer_text": "It can affect vision of the rider."
+        "answer_text": "ഇത് ഓടിക്കുന്നയാളിന്റെ ദൃഷ്ടിശക്തിയെ ബാധിക്കും."
       },
       {
         "id": "rta-moto-073-b",
-        "answer_text": "It can affect the performance of the motorcycle."
+        "answer_text": "ഇത് മോട്ടോർസൈക്കിളിന്റെ പ്രകടനത്തെ ബാധിക്കും."
       },
       {
         "id": "rta-moto-073-c",
-        "answer_text": "It can slow the reaction of the rider."
+        "answer_text": "ഇത് ഓടിക്കുന്നയാളിന്റെ പ്രതികരണം മന്ദഗതിയാക്കും."
       }
     ]
   },
   {
     "id": "rta-moto-084",
-    "question_text": "Riding in the middle of the lanes maybe dangerous because:",
+    "question_text": "ലെയ്‌നിന്റെ നടുവിൽ ഓടിക്കുന്നത് അപകടകരമാകാം, കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-084-a",
-        "answer_text": "other riders are using the middle lanes."
+        "answer_text": "മറ്റ് റൈഡർമാർ നടുവിലെ ലെയ്‌ൻ ഉപയോഗിക്കുന്നു."
       },
       {
         "id": "rta-moto-084-b",
-        "answer_text": "spilled grease and oil  make the area slippery."
+        "answer_text": "ചോർന്ന ഗ്രീസും എണ്ണയും ആ പ്രദേശം വഴുക്കലുള്ളതാക്കുന്നു."
       },
       {
         "id": "rta-moto-084-c",
-        "answer_text": "middle lanes are always patchy."
+        "answer_text": "നടുവിലെ ലെയ്‌നുകൾ എപ്പോഴും ഉടഞ്ഞതാണ്."
       }
     ]
   },
   {
     "id": "rta-moto-087",
-    "question_text": "When riding at night, avoid affecting your vision by:",
+    "question_text": "രാത്രിയിൽ ഓടിക്കുമ്പോൾ, ദൃഷ്ടി ബാധിക്കാതിരിക്കാൻ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-087-a",
-        "answer_text": "looking at the side of the road ahead."
+        "answer_text": "മുന്നിലെ റോഡിന്റെ വശത്തേക്ക് നോക്കുക."
       },
       {
         "id": "rta-moto-087-b",
-        "answer_text": "looking directly at the lights of oncoming traffic."
+        "answer_text": "എതിർദിശയിൽ വരുന്ന വാഹനങ്ങളുടെ ലൈറ്റുകളിലേക്ക് നേരിട്ട് നോക്കുക."
       },
       {
         "id": "rta-moto-087-c",
-        "answer_text": "focusing on the vehicle in front."
+        "answer_text": "മുന്നിലെ വാഹനത്തിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-090",
-    "question_text": "It is important to ride slower at night in order to:",
+    "question_text": "രാത്രിയിൽ പതുക്കെ ഓടിക്കുന്നത് പ്രധാനമാണ്, കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-090-a",
-        "answer_text": "have a relaxing trip."
+        "answer_text": "ആഹ്ലാദകരമായ യാത്ര ചെയ്യാൻ."
       },
       {
         "id": "rta-moto-090-b",
-        "answer_text": "have longer time to react to hazards."
+        "answer_text": "അപകടങ്ങളോട് പ്രതികരിക്കാൻ കൂടുതൽ സമയം ലഭിക്കാൻ."
       },
       {
         "id": "rta-moto-090-c",
-        "answer_text": "make others ride slower also."
+        "answer_text": "മറ്റുള്ളവരെയും പതുക്കെ ഓടിക്കാൻ പ്രേരിപ്പിക്കാൻ."
       }
     ]
   },
   {
     "id": "rta-moto-093",
-    "question_text": "Why must you do head check before lane every change?",
+    "question_text": "ഓരോ ലെയ്‌ൻ മാറ്റത്തിനും മുമ്പ് തലതിരിച്ച് പരിശോധിക്കണം, എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-093-a",
-        "answer_text": "because mirrors are sometimes not working."
+        "answer_text": "കാരണം ചിലപ്പോൾ കണ്ണാടികൾ പ്രവർത്തിക്കുന്നില്ല."
       },
       {
         "id": "rta-moto-093-b",
-        "answer_text": "because it is a good exercise for your neck."
+        "answer_text": "കാരണം ഇത് കഴുത്തിനുള്ള നല്ല വ്യായാമമാണ്."
       },
       {
         "id": "rta-moto-093-c",
-        "answer_text": "because mirrors will not show all hazards."
+        "answer_text": "കാരണം കണ്ണാടികൾ എല്ലാ അപകടങ്ങളും കാണിക്കുന്നില്ല."
       }
     ]
   },
   {
     "id": "rta-moto-110",
-    "question_text": "If you ride under the influence of alcohol you might;",
+    "question_text": "മദ്യത്തിന്റെ സ്വാധീനത്തിൽ ഓടിക്കുകയാണെങ്കിൽ നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-110-a",
-        "answer_text": "Not see hazards and react in time"
+        "answer_text": "അപകടങ്ങൾ കാണില്ല, സമയത്ത് പ്രതികരിക്കില്ല"
       },
       {
         "id": "rta-moto-110-b",
-        "answer_text": "See hazards early and react in time"
+        "answer_text": "അപകടങ്ങൾ നേരത്തേ കാണും, സമയത്ത് പ്രതികരിക്കും"
       },
       {
         "id": "rta-moto-110-c",
-        "answer_text": "Ride much better at night"
+        "answer_text": "രാത്രിയിൽ കൂടുതൽ നന്നായി ഓടിക്കും"
       }
     ]
   },
   {
     "id": "rta-moto-122",
-    "question_text": "Because a motorcycle is small in size, it helps improve your visibility and safety if;",
+    "question_text": "മോട്ടോർ സൈക്കിൾ ചെറിയ വലിപ്പമുള്ളതിനാൽ, ഇത് നിങ്ങളുടെ ദൃശ്യത്വവും സുരക്ഷയും മെച്ചപ്പെടുത്തും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-122-a",
-        "answer_text": "You are wearing a black helmet"
+        "answer_text": "നിങ്ങൾ കറുത്ത ഹെൽമറ്റ് ധരിക്കുകയാണ്"
       },
       {
         "id": "rta-moto-122-b",
-        "answer_text": "You are wearing a bright colored clothing"
+        "answer_text": "നിങ്ങൾ തിളക്കമുള്ള നിറത്തിലുള്ള വസ്ത്രം ധരിക്കുകയാണ്"
       },
       {
         "id": "rta-moto-122-c",
-        "answer_text": "You use hazard lights always"
+        "answer_text": "നിങ്ങൾ എപ്പോഴും ഹസാർഡ് ലൈറ്റ് ഉപയോഗിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-134",
-    "question_text": "You discovered that the engine oil of your bike is low. You decided not to ride it. Why?",
+    "question_text": "നിങ്ങളുടെ ബൈക്കിന്റെ എഞ്ചിൻ ഓയിൽ കുറവാണെന്ന് കണ്ടെത്തി. നിങ്ങൾ അത് ഓടിക്കേണ്ടെന്ന് തീരുമാനിച്ചു. എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-134-a",
-        "answer_text": "engine with less oil will need more time to warm up and be ready for a ride"
+        "answer_text": "കുറഞ്ഞ ഓയിൽ ഉള്ള എഞ്ചിൻ ചൂടാകാനും ഓടിക്കാൻ തയ്യാറാകാനും കൂടുതൽ സമയം എടുക്കും"
       },
       {
         "id": "rta-moto-134-b",
-        "answer_text": "engine with less oil  could damage the engine and could lead to a crash"
+        "answer_text": "കുറഞ്ഞ ഓയിൽ ഉള്ള എഞ്ചിൻ എഞ്ചിനെ നശിപ്പിക്കും, അത് അപകടത്തിലേക്ക് നയിക്കാം"
       },
       {
         "id": "rta-moto-134-c",
-        "answer_text": "less engine oil means less gas consumption"
+        "answer_text": "കുറഞ്ഞ എഞ്ചിൻ ഓയിൽ കുറഞ്ഞ ഇന്ധന ഉപഭോഗം എന്നർത്ഥം"
       }
     ]
   },
   {
     "id": "rta-moto-136",
-    "question_text": "As you ride your motorcycle, you know you need to look well ahead and see clearly to be safe. Why?",
+    "question_text": "മോട്ടോർസൈക്കിൾ ഓടിക്കുമ്പോൾ, സുരക്ഷിതമായിരിക്കാൻ നന്നായി മുൻനോക്കി വ്യക്തമായി കാണണമെന്ന് നിങ്ങൾക്കറിയാം. എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-136-a",
-        "answer_text": "to be ready to respond to things before they happen"
+        "answer_text": "കാര്യങ്ങൾ സംഭവിക്കുന്നതിന് മുൻപ് അതിൽ പ്രതികരിക്കാൻ തയ്യാറായിരിക്കാൻ"
       },
       {
         "id": "rta-moto-136-b",
-        "answer_text": "to have the headlight working so that others can see you clearly"
+        "answer_text": "ഹെഡ്‌ലൈറ്റ് പ്രവർത്തിക്കുന്നതിന് മറ്റുള്ളവർക്ക് നിങ്ങളെ വ്യക്തമായി കാണാൻ"
       },
       {
         "id": "rta-moto-136-c",
-        "answer_text": "other drivers are not able to see you in their blind spots"
+        "answer_text": "മറ്റ് ഡ്രൈവർമാർക്ക് അവരുടെ ബ്ലൈൻഡ് സ്പോട്ടിൽ നിങ്ങളെ കാണാൻ കഴിയില്ല"
       }
     ]
   },
   {
     "id": "rta-moto-139",
-    "question_text": "When riding, place your yourself where you can see and be seen by other drivers. This means;",
+    "question_text": "ഓടിക്കുമ്പോൾ, മറ്റ് ഡ്രൈവർമാരെ കാണാനും അവർക്ക് നിങ്ങളെ കാണാനും പറ്റുന്ന സ്ഥലത്ത് ഇരിക്കുക. ഇതിനർത്ഥം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-139-a",
-        "answer_text": "lean with your bike while you turn"
+        "answer_text": "തിരിവ് ഉണ്ടാകുമ്പോൾ ബൈക്കിനൊപ്പം ചരിയുക"
       },
       {
         "id": "rta-moto-139-b",
-        "answer_text": "look as far ahead as possible so you can respond quickly"
+        "answer_text": "കഴിവുള്ളത്ര മുൻനോക്കി നോക്കുക, ഉടൻ പ്രതികരിക്കാൻ"
       },
       {
         "id": "rta-moto-139-c",
-        "answer_text": "avoid positioning on the blind spots of other drivers"
+        "answer_text": "മറ്റ് ഡ്രൈവർമാരുടെ ബ്ലൈൻഡ് സ്പോട്ടിൽ നിൽക്കുന്നത് ഒഴിവാക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-141",
-    "question_text": "You are ready to ride your motorcycle with a full face helmet and black clothing. What else can you so other drivers can see you better?",
+    "question_text": "നിങ്ങൾ ഫുൾ ഫേസ് ഹെൽമെറ്റും കറുത്ത വസ്ത്രവും ധരിച്ച് മോട്ടോർസൈക്കിൾ ഓടിക്കാൻ തയ്യാറാണ്. മറ്റ് ഡ്രൈവർമാർ നിങ്ങളെ കൂടുതൽ നന്നായി കാണാൻ മറ്റ് എന്ത് ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-141-a",
-        "answer_text": "wear black riding boots also"
+        "answer_text": "കറുത്ത റൈഡിംഗ് ബൂട്ടും ധരിക്കുക"
       },
       {
         "id": "rta-moto-141-b",
-        "answer_text": "You need to be ready to avoid a crash at all times"
+        "answer_text": "നിങ്ങൾ എല്ലായ്‌പ്പോഴും അപകടം ഒഴിവാക്കാൻ തയ്യാറായിരിക്കണം"
       },
       {
         "id": "rta-moto-141-c",
-        "answer_text": "wear a bright colored, reflective vest"
+        "answer_text": "തിളക്കമുള്ള നിറത്തിലുള്ള പ്രതിഫലന വേഷ്ടി ധരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-143",
-    "question_text": "When you are riding too close to the vehicle in front of you, what could be the danger?",
+    "question_text": "മുൻ വാഹനത്തിന് വളരെ അടുത്ത് ഓടിക്കുമ്പോൾ, എന്ത് അപകടം ഉണ്ടാകാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-143-a",
-        "answer_text": "When you are riding too close to the vehicle in front of you, what could be the danger?"
+        "answer_text": "മുൻ വാഹനത്തിന് വളരെ അടുത്ത് ഓടിക്കുമ്പോൾ, എന്ത് അപകടം ഉണ്ടാകാം?"
       },
       {
         "id": "rta-moto-143-b",
-        "answer_text": "The vehicle in front may suddenly speed away"
+        "answer_text": "മുൻ വാഹനം പെട്ടെന്ന് വേഗത്തിൽ ഓടിപ്പോകാം"
       },
       {
         "id": "rta-moto-143-c",
-        "answer_text": "You may be neglecting what is happening ahead"
+        "answer_text": "മുൻപ് എന്ത് നടക്കുന്നു എന്ന് നിങ്ങൾ അശ്രദ്ധ കാട്ടിയേക്കാം"
       }
     ]
   },
   {
     "id": "rta-moto-149",
-    "question_text": "Hazard is anything that can cause you to change direction, position or speed of your vehicle. To avoid hazards;",
+    "question_text": "അപകടം എന്നത് നിങ്ങളുടെ വാഹനത്തിന്റെ ദിശ, സ്ഥാനം അല്ലെങ്കിൽ വേഗം മാറ്റാൻ നിങ്ങളെ നിർബന്ധിക്കുന്ന ഏതൊരു കാര്യവുമാണ്. അപകടങ്ങൾ ഒഴിവാക്കാൻ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-149-a",
-        "answer_text": "hazards may be moving or not moving"
+        "answer_text": "അപകടങ്ങൾ ചലിക്കുന്നതോ ചലിക്കാത്തതോ ആകാം"
       },
       {
         "id": "rta-moto-149-b",
-        "answer_text": "you need to anticipate and forecast what may happen next"
+        "answer_text": "അടുത്തതായി എന്ത് സംഭവിക്കാമെന്ന് നിങ്ങൾ മുൻകൂട്ടി കണക്കാക്കേണ്ടതുണ്ട്"
       },
       {
         "id": "rta-moto-149-c",
-        "answer_text": "you need to make sure you use your mirrors correctly"
+        "answer_text": "കണ്ണാടികൾ ശരിയായി ഉപയോഗിക്കുന്നുണ്ടെന്ന് ഉറപ്പ് വരുത്തേണ്ടതുണ്ട്"
       }
     ]
   },
   {
     "id": "rta-moto-151",
-    "question_text": "Why is it important to be extra cautious when there are school buses traveling nearby?",
+    "question_text": "അടുത്ത് സ്കൂൾ ബസുകൾ സഞ്ചരിക്കുമ്പോൾ അധിക ജാഗ്രത പാലിക്കേണ്ടത് എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-151-a",
-        "answer_text": "school buses need to travel at lower speeds sometimes"
+        "answer_text": "സ്കൂൾ ബസുകൾ ചിലപ്പോൾ കുറഞ്ഞ വേഗതയിൽ സഞ്ചരിക്കേണ്ടതായി വരുന്നു"
       },
       {
         "id": "rta-moto-151-b",
-        "answer_text": "school bus drivers have special training requirements"
+        "answer_text": "സ്കൂൾ ബസ് ഡ്രൈവർമാർക്ക് പ്രത്യേക പരിശീലന ആവശ്യകതകൾ ഉണ്ട്"
       },
       {
         "id": "rta-moto-151-c",
-        "answer_text": "school buses need to travel smoothly to ensure safety of the school children"
+        "answer_text": "സ്കൂൾ കുട്ടികളുടെ സുരക്ഷ ഉറപ്പ് വരുത്താൻ സ്കൂൾ ബസുകൾ സുഗമമായി സഞ്ചരിക്കണം"
       }
     ]
   },
   {
     "id": "rta-moto-169",
-    "question_text": "When cornering, what is the danger in trying to stop the bike in an upright position?",
+    "question_text": "വളവ് തിരിയുമ്പോൾ, നേരെ നിൽക്കുന്ന ഒരു സ്ഥാനത്ത് ബൈക്ക് നിർത്താൻ ശ്രമിക്കുന്നതിന്റെ അപകടം എന്ത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-169-a",
-        "answer_text": "the bike will travel in a straight line and run into the path of other traffic"
+        "answer_text": "ബൈക്ക് നേർരേഖയിൽ സഞ്ചരിക്കുകയും മറ്റ് ഗതാഗതത്തിന്റെ പാതയിലേക്ക് കടക്കുകയും ചെയ്യും"
       },
       {
         "id": "rta-moto-169-b",
-        "answer_text": "the bike will be able to stop more quickly"
+        "answer_text": "ബൈക്ക് കൂടുതൽ വേഗം നിർത്താൻ കഴിയും"
       },
       {
         "id": "rta-moto-169-c",
-        "answer_text": "the tires may not have good friction on the road surface"
+        "answer_text": "ടയറുകൾക്ക് റോഡ് ഉപരിതലത്തിൽ ആവശ്യമായ ഘർഷണം ഉണ്ടാകില്ല"
       }
     ]
   },
   {
     "id": "rta-moto-178",
-    "question_text": "If you need to stop by the roadside, do so well away from the road to;",
+    "question_text": "റോഡരികിൽ നിർത്തേണ്ടിവന്നാൽ, റോഡിൽ നിന്ന് ദൂരെ നിർത്തുക, അങ്ങനെ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-178-a",
-        "answer_text": "avoid going full  speed"
+        "answer_text": "പൂർണ്ണ വേഗത്തിൽ പോകുന്നത് ഒഴിവാക്കുക"
       },
       {
         "id": "rta-moto-178-b",
-        "answer_text": "avoid being hit by other vehicles and cause a crash"
+        "answer_text": "മറ്റ് വാഹനങ്ങൾ ഇടിക്കുന്നത് ഒഴിവാക്കുക, അപകടം ഉണ്ടാകാതിരിക്കുക"
       },
       {
         "id": "rta-moto-178-c",
-        "answer_text": "remove the possibility being stuck on the sand"
+        "answer_text": "മണലിൽ കുടുങ്ങാനുള്ള സാധ്യത ഒഴിവാക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-193",
-    "question_text": "You sounded your horn to avoid another vehicle that drifted towards your lane. What else can you do to avoid a crash?",
+    "question_text": "നിങ്ങളുടെ ലെയ്‌നിലേക്ക് വന്ന മറ്റൊരു വാഹനം ഒഴിവാക്കാൻ നിങ്ങൾ ഹോൺ മുഴക്കി. അപകടം ഒഴിവാക്കാൻ മറ്റെന്ത് ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-193-a",
-        "answer_text": "be ready to slow down to avoid a crash"
+        "answer_text": "അപകടം ഒഴിവാക്കാൻ വേഗത കുറയ്ക്കാൻ തയ്യാറായിരിക്കുക"
       },
       {
         "id": "rta-moto-193-b",
-        "answer_text": "be always looking ahead and be ready to react"
+        "answer_text": "എപ്പോഴും മുന്നിലേക്ക് നോക്കി പ്രതികരിക്കാൻ തയ്യാറായിരിക്കുക"
       },
       {
         "id": "rta-moto-193-c",
-        "answer_text": "sound a louder horn to stop the other vehicle from changing lane"
+        "answer_text": "മറ്റ് വാഹനത്തെ ലെയ്‌ൻ മാറ്റത്തിൽ നിന്ന് തടയാൻ ഉറക്കെ ഹോൺ മുഴക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-194",
-    "question_text": "Your riding is smooth and are able to clearly see possible hazards ahead. This maybe due to;",
+    "question_text": "നിങ്ങളുടെ റൈഡിംഗ് സുഗമമാണ്, മുന്നിലുള്ള അപകടങ്ങൾ വ്യക്തമായി കാണുന്നു. ഇതിന്റെ കാരണം ഒരുപക്ഷേ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-194-a",
-        "answer_text": "The new bike you are riding"
+        "answer_text": "നിങ്ങൾ ഓടിക്കുന്ന പുതിയ ബൈക്ക്"
       },
       {
         "id": "rta-moto-194-b",
-        "answer_text": "Long gap between you and the vehicle ahead"
+        "answer_text": "നിങ്ങളും മുന്നിലെ വാഹനവും തമ്മിലുള്ള ദൈർഘ്യമേറിയ ഇടവേള"
       },
       {
         "id": "rta-moto-194-c",
-        "answer_text": "The rider ahead is giving wrong indicator"
+        "answer_text": "മുന്നിലെ റൈഡർ തെറ്റായ ഇൻഡിക്കേറ്റർ നൽകുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-195",
-    "question_text": "As you are riding you noticed another vehicle merging from the right side. You need to change position because;",
+    "question_text": "റൈഡ് ചെയ്യുന്നതിനിടെ, വലതുവശത്ത് നിന്ന് ഒരു വാഹനം ലയിക്കുന്നത് നിങ്ങൾ ശ്രദ്ധിച്ചു. നിങ്ങൾ സ്ഥാനം മാറ്റേണ്ടതുണ്ട്, കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-195-a",
-        "answer_text": "that vehicle could turn into your path"
+        "answer_text": "ആ വാഹനം നിങ്ങളുടെ പാതയിലേക്ക് തിരിഞ്ഞേക്കാം"
       },
       {
         "id": "rta-moto-195-b",
-        "answer_text": "that vehicle is on your blind spot"
+        "answer_text": "ആ വാഹനം നിങ്ങളുടെ ബ്ലൈൻഡ് സ്പോട്ടിലാണ്"
       },
       {
         "id": "rta-moto-195-c",
-        "answer_text": "that vehicle will stop and give way"
+        "answer_text": "ആ വാഹനം നിർത്തി വഴി നൽകും"
       }
     ]
   },
   {
     "id": "rta-moto-196",
-    "question_text": "What should you do to avoid possible collision with the car on the left side?",
+    "question_text": "ഇടതുവശത്തെ കാറുമായി ഉണ്ടാകാവുന്ന കൂട്ടിയിടി ഒഴിവാക്കാൻ എന്തുചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-196-a",
-        "answer_text": "passing the car in front on the right side is illegal and dangerous"
+        "answer_text": "മുന്നിലെ കാർ വലതുഭാഗം ചുറ്റി കടക്കുന്നത് നിയമവിരുദ്ധവും അപകടകരവുമാണ്"
       },
       {
         "id": "rta-moto-196-b",
-        "answer_text": "the car on the left side may be on your blind spot"
+        "answer_text": "ഇടതുവശത്തെ കാർ നിങ്ങളുടെ ബ്ലൈൻഡ് സ്പോട്ടിലായിരിക്കാം"
       },
       {
         "id": "rta-moto-196-c",
-        "answer_text": "check your mirrors and do a head check before changing lanes"
+        "answer_text": "ലെയ്‌ൻ മാറ്റത്തിന് മുൻപ് മിററുകൾ പരിശോധിക്കുക, ഹെഡ് ചെക്ക് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-moto-198",
-    "question_text": "In this scenario, what should you do to stay safe in a potentially hazardous situation?",
+    "question_text": "ഈ സാഹചര്യത്തിൽ, അപകടകരമായ അവസ്ഥയിൽ സുരക്ഷിതരായിരിക്കാൻ നിങ്ങൾ എന്തുചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-198-a",
-        "answer_text": "anticipate the taxi may suddenly stop in front to pick up the person on the right side"
+        "answer_text": "ടാക്‌സി വലതുവശത്തുള്ള വ്യക്തിയെ കയറ്റാൻ പെട്ടെന്ന് മുന്നിൽ നിർത്തിയേക്കാം എന്ന് പ്രതീക്ഷിക്കുക"
       },
       {
         "id": "rta-moto-198-b",
-        "answer_text": "the white car in front may suddenly stop in reaction to the reversing grey car"
+        "answer_text": "മുന്നിലെ വെള്ള കാർ പിന്നിൽ നിന്ന് വരുന്ന ചാര കാറിന്റെ പ്രതിക്രിയയ്ക്ക് പെട്ടെന്ന് നിർത്തിയേക്കാം"
       },
       {
         "id": "rta-moto-198-c",
-        "answer_text": "the taxi may be slowing down for the white vehicle in front of it"
+        "answer_text": "ടാക്‌സി തന്റെ മുന്നിലുള്ള വെള്ള വാഹനം കാരണം പതുക്കെ ഓടുന്നതായിരിക്കാം"
       }
     ]
   },
   {
     "id": "rta-moto-199",
-    "question_text": "When picking up or dropping off students, school buses will stop frequently. How do you deal with this situation?",
+    "question_text": "വിദ്യാർഥികളെ കൂട്ടുമ്പോഴോ ഇറക്കുമ്പോഴോ, സ്‌കൂൾ ബസ്സുകൾ ഇടയ്ക്കിടെ നിർത്തും. ഈ സ്ഥിതി എങ്ങനെ കൈകാര്യം ചെയ്യും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-199-a",
-        "answer_text": "stop, if the stop arm of the school bus is working"
+        "answer_text": "നിർത്തുക, സ്‌കൂൾ ബസ്സിന്റെ സ്റ്റോപ്പ് ആം പ്രവർത്തിക്കുകയാണെങ്കിൽ"
       },
       {
         "id": "rta-moto-199-b",
-        "answer_text": "slow down and pass wide if the stop arm of the school bus is working"
+        "answer_text": "വേഗത കുറച്ച് വലതുഭാഗം ചുറ്റി കടക്കുക, സ്‌കൂൾ ബസ്സിന്റെ സ്റ്റോപ്പ് ആം പ്രവർത്തിക്കുകയാണെങ്കിൽ"
       },
       {
         "id": "rta-moto-199-c",
-        "answer_text": "the stop arm is out it means students are getting off the school bus"
+        "answer_text": "സ്റ്റോപ്പ് ആം നീണ്ടിരിക്കുന്നത് വിദ്യാർഥികൾ ബസ്സിൽ നിന്ന് ഇറങ്ങുന്നു എന്നാണ് അർഥം"
       }
     ]
   },
   {
     "id": "rta-moto-201",
-    "question_text": "You are riding on a small road and you came across this scenario. What is the right thing to do here?",
+    "question_text": "നിങ്ങൾ ഒരു ചെറിയ റോഡിൽ റൈഡ് ചെയ്യുകയാണ്, ഈ സ്ഥിതി അഭിമുഖീകരിച്ചു. ഇവിടെ ശരിയായ ചെയ്തി ഏതാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-201-a",
-        "answer_text": "stop and wait for the stop arm to be pulled back by the driver"
+        "answer_text": "നിർത്തി കാത്തിരിക്കുക, ഡ്രൈവർ സ്റ്റോപ്പ് ആം തിരിച്ചെടുക്കുന്നതുവരെ"
       },
       {
         "id": "rta-moto-201-b",
-        "answer_text": "proceed once the student has crossed the road"
+        "answer_text": "വിദ്യാർഥി റോഡ് മുറിച്ചുകടന്നാൽ മുന്നോട്ട് പോകുക"
       },
       {
         "id": "rta-moto-201-c",
-        "answer_text": "swing wide and ride slowly to avoid the hazard"
+        "answer_text": "അപകടം ഒഴിവാക്കാൻ വലതുഭാഗം ചുറ്റി പതുക്കെ ഓടിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-031",
-    "question_text": "For heavy vehicles, blind spots are a problem which:",
+    "question_text": "ഭാരമേറിയ വാഹനങ്ങൾക്ക്, ബ്ലൈൻഡ് സ്‌പോട്ടുകൾ ഒരു പ്രശ്‌നമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-031-a",
-        "answer_text": "only occur when reversing and turning."
+        "answer_text": "പിന്നോക്കം പോകുമ്പോഴും തിരിയുമ്പോഴും മാത്രം ഉണ്ടാകുന്നത്."
       },
       {
         "id": "rta-hvb-031-b",
-        "answer_text": "can be overcome by correct use of mirrors. Block."
+        "answer_text": "കണ്ണാടികളുടെ ശരിയായ ഉപയോഗത്തിലൂടെ പൂർണ്ണമായും പരിഹരിക്കാൻ കഴിയുന്നത്."
       },
       {
         "id": "rta-hvb-031-c",
-        "answer_text": "can be helped but not always overcome by correct use of mirrors."
+        "answer_text": "കണ്ണാടികളുടെ ശരിയായ ഉപയോഗം സഹായിക്കുമെങ്കിലും എല്ലായ്‌പ്പോഴും പരിഹരിക്കാൻ കഴിയാത്തത്."
       }
     ]
   },
   {
     "id": "rta-hvb-038",
-    "question_text": "While waiting to finish turning at an intersection, your indicator:",
+    "question_text": "ഒരു ജംഗ്ഷനിൽ തിരിവ് പൂർത്തിയാക്കാൻ കാത്തിരിക്കുമ്പോൾ, നിങ്ങളുടെ ഇൻഡിക്കേറ്റർ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-038-a",
-        "answer_text": "need not be working."
+        "answer_text": "പ്രവർത്തിക്കേണ്ടതില്ല."
       },
       {
         "id": "rta-hvb-038-b",
-        "answer_text": "needs to be working only while you are moving."
+        "answer_text": "നിങ്ങൾ ചലിക്കുമ്പോൾ മാത്രം പ്രവർത്തിക്കേണ്ടതുണ്ട്."
       },
       {
         "id": "rta-hvb-038-c",
-        "answer_text": "needs to be working at all times."
+        "answer_text": "എല്ലായ്‌പ്പോഴും പ്രവർത്തിക്കേണ്ടതുണ്ട്."
       }
     ]
   },
   {
     "id": "rta-hvb-041",
-    "question_text": "During the day, hazard warning lights should be used when a heavy vehicle is:",
+    "question_text": "പകൽ സമയത്ത്, ഒരു ഭാരവാഹനം ഇനിപ്പറയുന്ന അവസ്ഥയിലായിരിക്കുമ്പോൾ ഹാസ്സർഡ് മുന്നറിയിപ്പ് ലൈറ്റുകൾ ഉപയോഗിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-041-a",
-        "answer_text": "stopped and there may be a danger to traffic."
+        "answer_text": "നിർത്തിയിരിക്കുകയും ഗതാഗതത്തിന് അപകടം ഉണ്ടാകാൻ സാധ്യതയുള്ളപ്പോൾ."
       },
       {
         "id": "rta-hvb-041-b",
-        "answer_text": "making a right hand turn on a divided road."
+        "answer_text": "വിഭജിത റോഡിൽ വലത് വഴിത്തിരിവ് നടത്തുന്ന സമയത്ത്."
       },
       {
         "id": "rta-hvb-041-c",
-        "answer_text": "reversing into a roadside parking bay."
+        "answer_text": "റോഡരികിലെ പാർക്കിംഗ് ബേയിലേക്ക് പിന്നോക്കം ഗതി നടത്തുന്ന സമയത്ത്."
       }
     ]
   },
   {
     "id": "rta-hvb-042",
-    "question_text": "If an oncoming driver has drifted into your lane, you should:",
+    "question_text": "എതിർദിശയിൽ വരുന്ന ഒരു ഡ്രൈവർ നിങ്ങളുടെ ലെയ്നിലേക്ക് കടന്നുവന്നാൽ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-042-a",
-        "answer_text": "Move to the right."
+        "answer_text": "വലത് വശത്തേക്ക് നീങ്ങുക."
       },
       {
         "id": "rta-hvb-042-b",
-        "answer_text": "move to the left."
+        "answer_text": "ഇടത് വശത്തേക്ക് നീങ്ങുക."
       },
       {
         "id": "rta-hvb-042-c",
-        "answer_text": "stay in the center of your lane."
+        "answer_text": "നിങ്ങളുടെ ലെയ്നിന്റെ മധ്യഭാഗത്ത് തന്നെ തുടരുക."
       }
     ]
   },
   {
     "id": "rta-hvb-047",
-    "question_text": "If the air brake pressure has fallen to a dangerously low level, the first thing to do is to:",
+    "question_text": "എയർ ബ്രേക്ക് മർദ്ദം അപകടകരമായ നിലയിൽ കുറഞ്ഞാൽ, ആദ്യം ചെയ്യേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-047-a",
-        "answer_text": "change down gears."
+        "answer_text": "ഗിയർ താഴ്ത്തുക."
       },
       {
         "id": "rta-hvb-047-b",
-        "answer_text": "apply the emergency brake."
+        "answer_text": "അടിയന്തര ബ്രേക്ക് ഇടുക."
       },
       {
         "id": "rta-hvb-047-c",
-        "answer_text": "pump the brakes to build pressure."
+        "answer_text": "മർദ്ദം നിർമ്മിക്കാൻ ബ്രേക്ക് ആവർത്തിച്ച് ചവിട്ടുക."
       }
     ]
   },
   {
     "id": "rta-hvb-053",
-    "question_text": "If your vehicle is involved in a crash, you can best protect the area by:",
+    "question_text": "നിങ്ങളുടെ വാഹനം ഒരു അപകടത്തിൽ ഉൾപ്പെട്ടാൽ, ഈ പ്രദേശം ഏറ്റവും നന്നായി സംരക്ഷിക്കാൻ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-053-a",
-        "answer_text": "moving your vehicle to the side of the road if possible and using hazard warning lights and emergency signs."
+        "answer_text": "സാധ്യമെങ്കിൽ വാഹനം റോഡരികിലേക്ക് മാറ്റി ഹാസ്സർഡ് മുന്നറിയിപ്പ് ലൈറ്റുകളും അടിയന്തര ചിഹ്നങ്ങളും ഉപയോഗിക്കുക."
       },
       {
         "id": "rta-hvb-053-b",
-        "answer_text": "directing traffic around the crash site."
+        "answer_text": "അപകടസ്ഥലത്തിന് ചുറ്റും ഗതാഗതം നിർദ്ദേശിക്കുക."
       },
       {
         "id": "rta-hvb-053-c",
-        "answer_text": "removing any injured people from the vehicle, or vehicles involved in the crash."
+        "answer_text": "അപകടത്തിൽ ഉൾപ്പെട്ട വാഹനത്തിൽ നിന്നോ വാഹനങ്ങളിൽ നിന്നോ പരിക്കേറ്റ ആളുകളെ നീക്കം ചെയ്യുക."
       }
     ]
   },
   {
     "id": "rta-hvb-054",
-    "question_text": "If your vehicle is involved in a crash, you need to take quick actions to:",
+    "question_text": "നിങ്ങളുടെ വാഹനം ഒരു അപകടത്തിൽ ഉൾപ്പെട്ടാൽ, ഇനിപ്പറയുന്നതിനായി ദ്രുത നടപടികൾ കൈക്കൊള്ളണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-054-a",
-        "answer_text": "prevent further injury or damage."
+        "answer_text": "കൂടുതൽ പരിക്കോ നാശനഷ്ടമോ തടയാൻ."
       },
       {
         "id": "rta-hvb-054-b",
-        "answer_text": "ensure the other party gets the blame."
+        "answer_text": "മറ്റേ കക്ഷിക്ക് കുറ്റം ആരോപിക്കാൻ."
       },
       {
         "id": "rta-hvb-054-c",
-        "answer_text": "prevent the other party from going away."
+        "answer_text": "മറ്റേ കക്ഷിയെ പോകുന്നതിൽ നിന്ന് തടയാൻ."
       }
     ]
   },
   {
     "id": "rta-hvb-056",
-    "question_text": "If your vehicle is involved in a crash with another vehicle, protect the area using:",
+    "question_text": "നിങ്ങളുടെ വാഹനം മറ്റൊരു വാഹനവുമായി അപകടത്തിൽ ഉൾപ്പെട്ടാൽ, ഇവ ഉപയോഗിച്ച് സ്ഥലം സംരക്ഷിക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-056-a",
-        "answer_text": "hazard warning lights and parking lights plus headlights."
+        "answer_text": "ഹസ്സാർഡ് വാണിംഗ് ലൈറ്റുകളും പാർക്കിംഗ് ലൈറ്റുകളും ഹെഡ്‌ലൈറ്റുകളും."
       },
       {
         "id": "rta-hvb-056-b",
-        "answer_text": "hazard warning lights and/or emergency warning triangle."
+        "answer_text": "ഹസ്സാർഡ് വാണിംഗ് ലൈറ്റുകളും/അല്ലെങ്കിൽ എമർജൻസി വാണിംഗ് ട്രയാംഗിളും."
       },
       {
         "id": "rta-hvb-056-c",
-        "answer_text": "hazard warning lights and parking lights plus reverse lights."
+        "answer_text": "ഹസ്സാർഡ് വാണിംഗ് ലൈറ്റുകളും പാർക്കിംഗ് ലൈറ്റുകളും റിവേഴ്‌സ് ലൈറ്റുകളും."
       }
     ]
   },
   {
     "id": "rta-hvb-078",
-    "question_text": "While driving a bus, you should:",
+    "question_text": "ബസ് ഓടിക്കുമ്പോൾ നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-078-a",
-        "answer_text": "regularly scan internal mirrors to check the safety of passengers."
+        "answer_text": "യാത്രക്കാരുടെ സുരക്ഷ പരിശോധിക്കാൻ ആന്തരിക കണ്ണാടികൾ പതിവായി സ്കാൻ ചെയ്യണം."
       },
       {
         "id": "rta-hvb-078-b",
-        "answer_text": "be prepared to stop suddenly to drop off passengers in a hurry."
+        "answer_text": "തിടുക്കത്തിൽ യാത്രക്കാരെ ഇറക്കാൻ പെട്ടെന്ന് നിർത്താൻ തയ്യാറാകണം."
       },
       {
         "id": "rta-hvb-078-c",
-        "answer_text": "insist that passengers remain seated until the bus stops."
+        "answer_text": "ബസ് നിർത്തുന്നതുവരെ യാത്രക്കാർ ഇരിക്കണമെന്ന് നിർദ്ദേശിക്കണം."
       }
     ]
   },
   {
     "id": "rta-hvb-082",
-    "question_text": "Driving under influence of alcohol is dangerous because:",
+    "question_text": "മദ്യത്തിന്റെ സ്വാധീനത്തിൽ വാഹനമോടിക്കൽ അപകടകരമാണ്, കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-082-a",
-        "answer_text": "it slows the driver's reaction time."
+        "answer_text": "ഇത് ഡ്രൈവറുടെ പ്രതികരണ സമയം കുറയ്ക്കുന്നു."
       },
       {
         "id": "rta-hvb-082-b",
-        "answer_text": "it slows the speed of the vehicle."
+        "answer_text": "ഇത് വാഹനത്തിന്റെ വേഗത കുറയ്ക്കുന്നു."
       },
       {
         "id": "rta-hvb-082-c",
-        "answer_text": "it quickens the driver's reaction time."
+        "answer_text": "ഇത് ഡ്രൈവറുടെ പ്രതികരണ സമയം വർദ്ധിപ്പിക്കുന്നു."
       }
     ]
   },
   {
     "id": "rta-hvb-098",
-    "question_text": "Driving through a road with parked cars on the sides, look out for:",
+    "question_text": "ഇരുവശങ്ങളിലും പാർക്ക് ചെയ്ത കാറുകൾ ഉള്ള റോഡിലൂടെ ഓടിക്കുമ്പോൾ, ശ്രദ്ധിക്കേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-098-a",
-        "answer_text": "other vehicles following you very closely."
+        "answer_text": "നിങ്ങളുടെ ഉടനെ പിന്നിൽ ഓടുന്ന മറ്റ് വാഹനങ്ങൾ."
       },
       {
         "id": "rta-hvb-098-b",
-        "answer_text": "drivers seating on their cars."
+        "answer_text": "കാറുകളിൽ ഇരിക്കുന്ന ഡ്രൈവർമാർ."
       },
       {
         "id": "rta-hvb-098-c",
-        "answer_text": "pedestrians crossing from between parked cars."
+        "answer_text": "പാർക്ക് ചെയ്ത കാറുകൾക്കിടയിലൂടെ കടക്കുന്ന കാൽനടയാത്രക്കാർ."
       }
     ]
   },
   {
     "id": "rta-hvb-106",
-    "question_text": "If your vehicle breaks down, why should you use reflective triangle?",
+    "question_text": "നിങ്ങളുടെ വാഹനം തകരാറിലായാൽ, പ്രതിഫലന ത്രികോണം എന്തുകൊണ്ട് ഉപയോഗിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-106-a",
-        "answer_text": "To avoid being fined for obstruction."
+        "answer_text": "തടസ്സത്തിന് പിഴ ഒഴിവാക്കാൻ."
       },
       {
         "id": "rta-hvb-106-b",
-        "answer_text": "To avoid becoming a danger to traffic."
+        "answer_text": "ഗതാഗതത്തിന് അപകടമാകുന്നത് ഒഴിവാക്കാൻ."
       },
       {
         "id": "rta-hvb-106-c",
-        "answer_text": "To avoid congesting traffic."
+        "answer_text": "ഗതാഗതം തടസ്സപ്പെടുത്തുന്നത് ഒഴിവാക്കാൻ."
       }
     ]
   },
   {
     "id": "rta-hvb-108",
-    "question_text": "Name two (2) of many ways to reduce driving risk.",
+    "question_text": "ഡ്രൈവിംഗ് അപകടം കുറയ്ക്കാനുള്ള പല മാർഗ്ഗങ്ങളിൽ നിന്ന് രണ്ടെണ്ണം (2) പറയൂ.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-108-a",
-        "answer_text": "Choose to drive slower, always stay behind other vehicles."
+        "answer_text": "പതുക്കെ ഓടിക്കാൻ തിരഞ്ഞെടുക്കൂ, എപ്പോഴും മറ്റ് വാഹനങ്ങളുടെ പിന്നിൽ നിൽക്കൂ."
       },
       {
         "id": "rta-hvb-108-b",
-        "answer_text": "Scan for hazards, travel at same speed always."
+        "answer_text": "അപകടങ്ങൾ പരിശോധിക്കൂ, എപ്പോഴും ഒരേ വേഗതയിൽ സഞ്ചരിക്കൂ."
       },
       {
         "id": "rta-hvb-108-c",
-        "answer_text": "Choose to drive slower, increase following distance."
+        "answer_text": "പതുക്കെ ഓടിക്കാൻ തിരഞ്ഞെടുക്കൂ, ഫോളോയിംഗ് ദൂരം വർദ്ധിപ്പിക്കൂ."
       }
     ]
   },
   {
     "id": "rta-hvb-113",
-    "question_text": "The three (3) major causes of heavy vehicle fires are;",
+    "question_text": "ഭാരമുള്ള വാഹനങ്ങളിൽ തീ പടരുന്നതിന്റെ മൂന്ന് (3) പ്രധാന കാരണങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-113-a",
-        "answer_text": "Damaged electrical system, under-inflated tires, excessive braking."
+        "answer_text": "തകരാറിലായ വൈദ്യുത സംവിധാനം, കുറഞ്ഞ വായു ടയറുകൾ, അമിത ബ്രേക്കിംഗ്."
       },
       {
         "id": "rta-hvb-113-b",
-        "answer_text": "Exhaust system not properly insulated, tires properly inflated, crashes."
+        "answer_text": "എക്‌സ്‌ഹോസ്റ്റ് സിസ്റ്റം ശരിയായി ഇൻസുലേറ്റ് ചെയ്‌തിട്ടില്ല, ടയറുകൾ ശരിയായി നിറച്ചിരിക്കുന്നു, അപകടങ്ങൾ."
       },
       {
         "id": "rta-hvb-113-c",
-        "answer_text": "Spilled fuel due to crash, wheel bearing unlubricated, steering malfunction."
+        "answer_text": "അപകടത്തിൽ ഇന്ധനം ചൊരിഞ്ഞൊഴുകൽ, ലൂബ്രിക്കേഷൻ ഇല്ലാത്ത വീൽ ബെയറിംഗ്, സ്റ്റിയറിംഗ് തകരാർ."
       }
     ]
   },
   {
     "id": "rta-hvb-117",
-    "question_text": "If your vehicle is involved in a crash and somebody is hurt, it is:",
+    "question_text": "നിങ്ങളുടെ വാഹനം അപകടത്തിൽ പെടുകയും ആരെങ്കിലും പരിക്കേൽക്കുകയും ചെയ്താൽ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-117-a",
-        "answer_text": "allowed to move your vehicle."
+        "answer_text": "നിങ്ങൾക്ക് വാഹനം മാറ്റാൻ അനുമതിയുണ്ട്."
       },
       {
         "id": "rta-hvb-117-b",
-        "answer_text": "not allowed to move your vehicle ."
+        "answer_text": "നിങ്ങൾക്ക് വാഹനം മാറ്റാൻ അനുമതിയില്ല."
       },
       {
         "id": "rta-hvb-117-c",
-        "answer_text": "allowed that you move from the vehicle."
+        "answer_text": "നിങ്ങൾക്ക് വാഹനത്തിൽ നിന്ന് അകന്നുപോകാൻ അനുമതിയുണ്ട്."
       }
     ]
   },
   {
     "id": "rta-hvb-120",
-    "question_text": "Two (2) basic steps that must be taken in a crash scene.",
+    "question_text": "അപകടസ്ഥലത്ത് സ്വീകരിക്കേണ്ട രണ്ട് (2) അടിസ്ഥാന നടപടികൾ.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-120-a",
-        "answer_text": "stop, look for cleaning tools."
+        "answer_text": "നിർത്തുക, വൃത്തിയാക്കൽ ഉപകരണങ്ങൾ തേടുക."
       },
       {
         "id": "rta-hvb-120-b",
-        "answer_text": "stop, protect the area."
+        "answer_text": "നിർത്തുക, സ്ഥലം സംരക്ഷിക്കുക."
       },
       {
         "id": "rta-hvb-120-c",
-        "answer_text": "stop, look for shelter."
+        "answer_text": "നിർത്തുക, അഭയം തേടുക."
       }
     ]
   },
   {
     "id": "rta-hvb-121",
-    "question_text": "If your vehicle is involved in a crash and nobody is hurt, why should you try to move your vehicle?",
+    "question_text": "നിങ്ങളുടെ വാഹനം അപകടത്തിൽ പെടുകയും ആരും പരിക്കേൽക്കാതിരിക്കുകയും ചെയ്താൽ, വാഹനം മാറ്റാൻ ശ്രമിക്കേണ്ടത് എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-121-a",
-        "answer_text": "To allow the traffic to flow."
+        "answer_text": "ഗതാഗതം സുഗമമായി ഒഴുകാൻ അനുവദിക്കാൻ."
       },
       {
         "id": "rta-hvb-121-b",
-        "answer_text": "To stop pedestrians from crossing"
+        "answer_text": "കാൽനടക്കാർ റോഡ് കടക്കുന്നത് തടയാൻ."
       },
       {
         "id": "rta-hvb-121-c",
-        "answer_text": "To allow time for rest."
+        "answer_text": "വിശ്രമിക്കാൻ സമയം നൽകാൻ."
       }
     ]
   },
   {
     "id": "rta-hvb-125",
-    "question_text": "During the trip, why should public bus drivers be scanning the internal mirrors?",
+    "question_text": "യാത്രയ്ക്കിടയിൽ, പൊതു ബസ് ഡ്രൈവർമാർ ആന്തരിക കണ്ണാടികൾ എന്തുകൊണ്ട് നിരന്തരം പരിശോധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-125-a",
-        "answer_text": "To ensure all passengers are in no danger."
+        "answer_text": "എല്ലാ യാത്രക്കാരും അപകടത്തിലല്ല എന്ന് ഉറപ്പാക്കാൻ."
       },
       {
         "id": "rta-hvb-125-b",
-        "answer_text": "To be able to tell who are getting off to the next stop."
+        "answer_text": "അടുത്ത സ്റ്റോപ്പിൽ ആര് ഇറങ്ങും എന്ന് അറിയാൻ."
       },
       {
         "id": "rta-hvb-125-c",
-        "answer_text": "To be able to anticipate emergency."
+        "answer_text": "അടിയന്തരാവസ്ഥ മുൻകൂട്ടി പ്രതീക്ഷിക്കാൻ."
       }
     ]
   },
   {
     "id": "rta-hvb-133",
-    "question_text": "What is the danger in driving on long, straight roads especially at night?",
+    "question_text": "പ്രത്യേകിച്ച് രാത്രിയിൽ നീളമേറിയ, നേരെ ഉള്ള റോഡുകളിൽ ഓടിക്കുന്നതിലെ അപകടം എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-133-a",
-        "answer_text": "It can become boring and take your mind off the road"
+        "answer_text": "ഇത് വിരസമായിത്തീരുകയും റോഡിൽ നിന്ന് ശ്രദ്ധ തിരിക്കുകയും ചെയ്യാം"
       },
       {
         "id": "rta-hvb-133-b",
-        "answer_text": "It can be very exciting and keep your focus"
+        "answer_text": "ഇത് വളരെ ആവേശകരമാകുകയും ശ്രദ്ധ നിലനിർത്തുകയും ചെയ്യാം"
       },
       {
         "id": "rta-hvb-133-c",
-        "answer_text": "It helps you focus on the road"
+        "answer_text": "ഇത് റോഡിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ സഹായിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-hvb-138",
-    "question_text": "When driving while tired, the level of alertness is low.  What is the danger in this situation?",
+    "question_text": "ക്ഷീണത്തോടെ ഓടിക്കുമ്പോൾ ജാഗ്രതയുടെ നില കുറവായിരിക്കും. ഈ സാഹചര്യത്തിലെ അപകടം എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-138-a",
-        "answer_text": "The road may be slippery"
+        "answer_text": "റോഡ് വഴുക്കലുള്ളതാകാം"
       },
       {
         "id": "rta-hvb-138-b",
-        "answer_text": "Driver may perform some exercises"
+        "answer_text": "ഡ്രൈവർ ചില വ്യായാമങ്ങൾ ചെയ്തേക്കാം"
       },
       {
         "id": "rta-hvb-138-c",
-        "answer_text": "Driver may fall asleep and cause fatal accidents"
+        "answer_text": "ഡ്രൈവർ ഉറങ്ങിപ്പോകുകയും മാരകമായ അപകടങ്ങൾ ഉണ്ടാക്കുകയും ചെയ്തേക്കാം"
       }
     ]
   },
   {
     "id": "rta-hvb-141",
-    "question_text": "If your vehicle is parked on the side of the road, which should you approach the vehicle to be safe?",
+    "question_text": "നിങ്ങളുടെ വാഹനം റോഡിന്റെ ഒരു വശത്ത് പാർക്ക് ചെയ്തിട്ടുണ്ടെങ്കിൽ, സുരക്ഷിതമായിരിക്കാൻ ഏത് ഭാഗത്ത് നിന്ന് വാഹനത്തിനടുത്ത് ചെല്ലണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-141-a",
-        "answer_text": "From the rear so that your back is on the oncoming traffic"
+        "answer_text": "പിന്നിൽ നിന്ന്, നിങ്ങളുടെ പിൻഭാഗം വരുന്ന ട്രാഫിക്കിലേക്ക് ആകത്തക്കവണ്ണം"
       },
       {
         "id": "rta-hvb-141-b",
-        "answer_text": "Clear the traffic first then approach from the rear"
+        "answer_text": "ആദ്യം ട്രാഫിക് ഒഴിഞ്ഞ് പിന്നിൽ നിന്ന് സമീപിക്കുക"
       },
       {
         "id": "rta-hvb-141-c",
-        "answer_text": "From the front so that you are facing the oncoming traffic"
+        "answer_text": "മുന്നിൽ നിന്ന്, നിങ്ങൾ വരുന്ന ട്രാഫിക്കിലേക്ക് അഭിമുഖമായി ആകത്തക്കവണ്ണം"
       }
     ]
   },
   {
     "id": "rta-hvb-142",
-    "question_text": "If you are leaving the cab of your truck, how should you climb out of it?",
+    "question_text": "നിങ്ങൾ ട്രക്കിന്റെ ക്യാബ് വിട്ടിറങ്ങുകയാണെങ്കിൽ, നിങ്ങൾ അതിൽ നിന്ന് എങ്ങനെ ഇറങ്ങണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-142-a",
-        "answer_text": "Facing the cab, then jump out of it"
+        "answer_text": "ക്യാബിനെ അഭിമുഖീകരിച്ച്, പിന്നീട് അതിൽ നിന്ന് ചാടിയിറങ്ങുക"
       },
       {
         "id": "rta-hvb-142-b",
-        "answer_text": "Facing the cab, but watch out for oncoming traffic"
+        "answer_text": "ക്യാബിനെ അഭിമുഖീകരിച്ച്, എന്നാൽ വരുന്ന ട്രാഫിക്കിൽ ശ്രദ്ധ ഉണ്ടായിരിക്കുക"
       },
       {
         "id": "rta-hvb-142-c",
-        "answer_text": "Climb out of the cab sideways"
+        "answer_text": "ക്യാബിൽ നിന്ന് വശത്തേക്ക് ഇറങ്ങുക"
       }
     ]
   },
   {
     "id": "rta-hvb-198",
-    "question_text": "What could be dangerous and costly if a  heavy vehicle driver happen to neglect these?",
+    "question_text": "ഒരു ഹെവി വെഹിക്കിൾ ഡ്രൈവർ ഇവ അവഗണിക്കുകയാണെങ്കിൽ എന്ത് അപകടകരവും ചെലവേറിയതും ആകും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-198-a",
-        "answer_text": "The height and width of the vehicle"
+        "answer_text": "വാഹനത്തിന്റെ ഉയരവും വീതിയും"
       },
       {
         "id": "rta-hvb-198-b",
-        "answer_text": "The weight and plate number of the vehicle"
+        "answer_text": "വാഹനത്തിന്റെ ഭാരവും നമ്പർ പ്ലേറ്റും"
       },
       {
         "id": "rta-hvb-198-c",
-        "answer_text": "The rest areas for heavy vehicles"
+        "answer_text": "ഹെവി വെഹിക്കിളുകൾക്കുള്ള വിശ്രമ മേഖലകൾ"
       }
     ]
   },
   {
     "id": "rta-hvb-209",
-    "question_text": "It is very dangerous to carry goods that exceed the height limit as it can damage low hanging bridges and;",
+    "question_text": "ഉയര പരിധി കവിഞ്ഞ ചരക്ക് കൊണ്ടുപോകുന്നത് വളരെ അപകടകരമാണ്, ഇത് നിലത്ത് തൂങ്ങുന്ന പാലങ്ങൾക്ക് കേടുണ്ടാക്കും;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-209-a",
-        "answer_text": "Electric Poles"
+        "answer_text": "വൈദ്യുത കൈകൾ"
       },
       {
         "id": "rta-hvb-209-b",
-        "answer_text": "Can cause serious injuries to other road users"
+        "answer_text": "മറ്റ് റോഡ് ഉപഭോക്താക്കൾക്ക് ഗുരുതരമായ പരിക്കുകൾ ഉണ്ടാക്കാം"
       },
       {
         "id": "rta-hvb-209-c",
-        "answer_text": "Roads that are under repair"
+        "answer_text": "അറ്റകുറ്റം നടക്കുന്ന റോഡുകൾ"
       }
     ]
   },
   {
     "id": "rta-hvb-214",
-    "question_text": "Fanned braking (alternately apply and release) may be used on slippery surfaces. What is the danger with this technique?",
+    "question_text": "വഴുക്കലുള്ള പ്രതലങ്ങളിൽ ഫ്യാൻഡ് ബ്രേക്കിങ് (മാറ്റമായി പ്രയോഗിക്കൽ, ഒഴിവാക്കൽ) ഉപയോഗിക്കാം. ഈ ടെക്നിക്കിൽ എന്ത് അപകടമുണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-214-a",
-        "answer_text": "Fanning increases air pressure"
+        "answer_text": "ഫ്യാനിങ് വായു മർദ്ദം വർദ്ധിപ്പിക്കും"
       },
       {
         "id": "rta-hvb-214-b",
-        "answer_text": "Fanning reduces air pressure"
+        "answer_text": "ഫ്യാനിങ് വായു മർദ്ദം കുറയ്ക്കും"
       },
       {
         "id": "rta-hvb-214-c",
-        "answer_text": "Fanning does not affect the air pressure"
+        "answer_text": "ഫ്യാനിങ് വായു മർദ്ദത്തെ ബാധിക്കില്ല"
       }
     ]
   }

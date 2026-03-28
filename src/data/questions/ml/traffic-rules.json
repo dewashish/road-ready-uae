@@ -11962,235 +11962,235 @@
   },
   {
     "id": "rta-lmv-483",
-    "question_text": "Following a collision and the police report has been issued, the logical next step is to;",
+    "question_text": "അപകടത്തിനു ശേഷം പോലീസ് റിപ്പോർട്ട് ജാരി ചെയ്ത ശേഷം യുക്തിസഹമായ അടുത്ത നടപടി എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-483-a",
-        "answer_text": "inform your insurance company or car-hire company about what has happened"
+        "answer_text": "സംഭവിച്ചത് നിങ്ങളുടെ ഇൻഷുറൻസ് കമ്പനിയെ അല്ലെങ്കിൽ കാർ ഹയർ കമ്പനിയെ അറിയിക്കുക"
       },
       {
         "id": "rta-lmv-483-b",
-        "answer_text": "inform the police about what has happened"
+        "answer_text": "സംഭവിച്ചത് പോലീസിനെ അറിയിക്കുക"
       },
       {
         "id": "rta-lmv-483-c",
-        "answer_text": "take your car to the nearest garage for repairs"
+        "answer_text": "അറ്റകുറ്റപ്പണിക്ക് നിങ്ങളുടെ കാർ അടുത്തുള്ള ഗരാജിൽ കൊണ്ടുപോകുക"
       }
     ]
   },
   {
     "id": "rta-lmv-488",
-    "question_text": "Throwing waste from vehicles onto the roads is an offense. It also dangerous because;",
+    "question_text": "വാഹനങ്ങളിൽ നിന്ന് റോഡുകളിലേക്ക് മാലിന്യം എറിയുന്നത് ഒരു കുറ്റകൃത്യമാണ്. ഇത് അപകടകരം കൂടിയാണ് കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-488-a",
-        "answer_text": "fine and black points may be imposed"
+        "answer_text": "പിഴയും ബ്ലാക്ക് പോയിന്റും ഏർപ്പെടുത്തിയേക്കാം"
       },
       {
         "id": "rta-lmv-488-b",
-        "answer_text": "any debris on the road that drivers run over or avoid can cause chain collision to happen"
+        "answer_text": "റോഡിലെ ഏതൊരു അവശിഷ്ടവും ഡ്രൈവർമാർ കയറ്റി പോകുകയോ ഒഴിവാക്കാൻ ശ്രമിക്കുകയോ ചെയ്താൽ ശൃംഖലാ അപകടം ഉണ്ടാക്കാം"
       },
       {
         "id": "rta-lmv-488-c",
-        "answer_text": "Dubai roads are clean, an image of a world class city"
+        "answer_text": "ദുബൈ റോഡുകൾ വൃത്തിയുള്ളതാണ്, ഇത് ഒരു ലോക നിലവാരമുള്ള നഗരത്തിന്റെ പ്രതിഛായ"
       }
     ]
   },
   {
     "id": "rta-lmv-490",
-    "question_text": "Why is it important to stop in a safe place away from traffic if involved in a crash without injuries?",
+    "question_text": "പരിക്കില്ലാത്ത ഒരു അപകടത്തിൽ ഉൾപ്പെട്ടാൽ ഗതാഗതത്തിൽ നിന്ന് അകലെ സുരക്ഷിതമായ സ്ഥലത്ത് നിർത്തുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-490-a",
-        "answer_text": "to avoid obstructing the traffic and creating a traffic jam"
+        "answer_text": "ഗതാഗതം തടസ്സപ്പെടുത്തുന്നതും ട്രാഫിക് ജാം ഉണ്ടാക്കുന്നതും ഒഴിവാക്കാൻ"
       },
       {
         "id": "rta-lmv-490-b",
-        "answer_text": "to enable inspecting the vehicle and be able to leave immediately"
+        "answer_text": "വാഹനം പരിശോധിക്കാനും ഉടൻ പോകാൻ കഴിയാനും"
       },
       {
         "id": "rta-lmv-490-c",
-        "answer_text": "to avoid being blamed for the crash"
+        "answer_text": "അപകടത്തിന് കുറ്റം ആരോപിക്കപ്പെടുന്നത് ഒഴിവാക്കാൻ"
       }
     ]
   },
   {
     "id": "rta-lmv-493",
-    "question_text": "You have a green light and making right turn at an intersection. A pedestrian is trying to cross the road. What should you do?",
+    "question_text": "നിങ്ങൾക്ക് പച്ച ലൈറ്റ് ഉണ്ട്, ഒരു ക്രോസ്‌റോഡിൽ വലത്തോട്ട് തിരിയുന്നു. ഒരു കാൽനടക്കാരൻ റോഡ് കടക്കാൻ ശ്രമിക്കുന്നു. നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-493-a",
-        "answer_text": "change lane quickly to move around the pedestrian"
+        "answer_text": "കാൽനടക്കാരനെ ചുറ്റി പോകാൻ പെട്ടെന്ന് ലെയ്ൻ മാറ്റുക"
       },
       {
         "id": "rta-lmv-493-b",
-        "answer_text": "the pedestrian has the priority at all times"
+        "answer_text": "കാൽനടക്കാരന് എല്ലായ്‌പ്പോഴും മുൻഗണനയുണ്ട്"
       },
       {
         "id": "rta-lmv-493-c",
-        "answer_text": "slow down and give way to the pedestrian"
+        "answer_text": "വേഗം കുറച്ച് കാൽനടക്കാരന് വഴി ഒഴിഞ്ഞ് കൊടുക്കുക"
       }
     ]
   },
   {
     "id": "rta-lmv-494",
-    "question_text": "A person is walking across a footpath that you are going to cross. How should you behave to be safe?",
+    "question_text": "ഒരു വ്യക്തി നിങ്ങൾ കടക്കാൻ പോകുന്ന ഒരു നടപ്പാതയിലൂടെ നടക്കുന്നു. സുരക്ഷിതമായിരിക്കാൻ നിങ്ങൾ എങ്ങനെ പെരുമാറണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-494-a",
-        "answer_text": "drive slowly, give way to the pedestrian"
+        "answer_text": "സ천ക്ഷമായി ഓടിക്കുക, കാൽനടക്കാരന് വഴി ഒഴിഞ്ഞ് കൊടുക്കുക"
       },
       {
         "id": "rta-lmv-494-b",
-        "answer_text": "proceed cautiously, the pedestrian should give way"
+        "answer_text": "ജാഗ്രതയോടെ മുന്നോട്ട് പോകുക, കാൽനടക്കാരൻ വഴി ഒഴിഞ്ഞ് കൊടുക്കണം"
       },
       {
         "id": "rta-lmv-494-c",
-        "answer_text": "drive on, the pedestrian should stop"
+        "answer_text": "ഓടിക്കുന്നത് തുടരുക, കാൽനടക്കാരൻ നിൽക്കണം"
       }
     ]
   },
   {
     "id": "rta-lmv-495",
-    "question_text": "In this scenario, you need to give way to vehicles coming from the right. You are not allowed to;",
+    "question_text": "ഈ സാഹചര്യത്തിൽ, വലതുവശത്ത് നിന്ന് വരുന്ന വാഹനങ്ങൾക്ക് നിങ്ങൾ വഴി ഒഴിഞ്ഞ് കൊടുക്കണം. നിങ്ങൾക്ക് അനുവദനീയമല്ലാത്തത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-495-a",
-        "answer_text": "make a right turn here"
+        "answer_text": "ഇവിടെ വലത്തോട്ട് തിരിയുക"
       },
       {
         "id": "rta-lmv-495-b",
-        "answer_text": "make a left turn"
+        "answer_text": "ഇടത്തോട്ട് തിരിയുക"
       },
       {
         "id": "rta-lmv-495-c",
-        "answer_text": "stop before the stop line"
+        "answer_text": "സ്റ്റോപ്പ് ലൈനിന് മുമ്പ് നിർത്തുക"
       }
     ]
   },
   {
     "id": "rta-lmv-496",
-    "question_text": "UAE traffic law prohibits overtaking in these areas.",
+    "question_text": "UAE ട്രാഫിക് നിയമം ഈ മേഖലകളിൽ ഓവർടേക്ക് ചെയ്യുന്നത് നിരോധിക്കുന്നു.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-496-a",
-        "answer_text": "at freeways and open roads"
+        "answer_text": "ഫ്രീവേകളിലും തുറന്ന റോഡുകളിലും"
       },
       {
         "id": "rta-lmv-496-b",
-        "answer_text": "at roundabouts and intersections"
+        "answer_text": "റൗണ്ടഅബൗട്ടുകളിലും ക്രോസ്‌റോഡുകളിലും"
       },
       {
         "id": "rta-lmv-496-c",
-        "answer_text": "after the roundabouts and intersections"
+        "answer_text": "റൗണ്ടഅബൗട്ടുകൾക്കും ക്രോസ്‌റോഡുകൾക്കും ശേഷം"
       }
     ]
   },
   {
     "id": "rta-lmv-498",
-    "question_text": "Using the Dubai Police App, you may have access to this service;",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പ് ഉപയോഗിച്ച്, നിങ്ങൾക്ക് ഈ സേവനം ആക്സസ് ചെയ്യാം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-498-a",
-        "answer_text": "Pay visa fees"
+        "answer_text": "വിസ ഫീസ് അടയ്ക്കുക"
       },
       {
         "id": "rta-lmv-498-b",
-        "answer_text": "Pay traffic fines"
+        "answer_text": "ട്രാഫിക് പിഴ അടയ്ക്കുക"
       },
       {
         "id": "rta-lmv-498-c",
-        "answer_text": "Pay medical services"
+        "answer_text": "വൈദ്യ സേവന ഫീസ് അടയ്ക്കുക"
       }
     ]
   },
   {
     "id": "rta-lmv-499",
-    "question_text": "If you are trying to report a traffic accident using the Dubai Police App, what safety message you will see on the app?",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പ് ഉപയോഗിച്ച് ഒരു ട്രാഫിക് അപകടം റിപ്പോർട്ട് ചെയ്യാൻ ശ്രമിക്കുകയാണെങ്കിൽ, ആപ്പിൽ ഏത് സുരക്ഷാ സന്ദേശം കാണും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-499-a",
-        "answer_text": "Move to safe location, do not obstruct traffic"
+        "answer_text": "സുരക്ഷിത സ്ഥലത്തേക്ക് മാറുക, ഗതാഗതം തടയരുത്"
       },
       {
         "id": "rta-lmv-499-b",
-        "answer_text": "Drive Safely, every time"
+        "answer_text": "എപ്പോഴും സുരക്ഷിതമായി ഓടിക്കുക"
       },
       {
         "id": "rta-lmv-499-c",
-        "answer_text": "Buckle up, always"
+        "answer_text": "എല്ലായ്‌പ്പോഴും സീറ്റ് ബെൽറ്റ് ധരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-lmv-500",
-    "question_text": "What type of traffic accident can you report using the Dubai Police App?",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പ് ഉപയോഗിച്ച് ഏത് തരം ട്രാഫിക് അപകടം റിപ്പോർട്ട് ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-500-a",
-        "answer_text": "Injury accidents"
+        "answer_text": "പരിക്ക് അപകടങ്ങൾ"
       },
       {
         "id": "rta-lmv-500-b",
-        "answer_text": "Major accidents"
+        "answer_text": "വലിയ അപകടങ്ങൾ"
       },
       {
         "id": "rta-lmv-500-c",
-        "answer_text": "Minor accidents"
+        "answer_text": "ചെറിയ അപകടങ്ങൾ"
       }
     ]
   },
   {
     "id": "rta-lmv-501",
-    "question_text": "This feature of the Dubai Police App is meant to connect users to the Dubai Police quickly;",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പിന്റെ ഈ ഫീച്ചർ ഉപയോക്താക്കളെ ദുബൈ പോലീസുമായി വേഗത്തിൽ ബന്ധിപ്പിക്കാൻ ഉദ്ദേശിച്ചതാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-501-a",
-        "answer_text": "SOS button"
+        "answer_text": "SOS ബട്ടൺ"
       },
       {
         "id": "rta-lmv-501-b",
-        "answer_text": "e-crime"
+        "answer_text": "ഇ-ക്രൈം"
       },
       {
         "id": "rta-lmv-501-c",
-        "answer_text": "Home security"
+        "answer_text": "ഹോം സെക്യൂരിറ്റി"
       }
     ]
   },
   {
     "id": "rta-lmv-502",
-    "question_text": "When reporting a traffic accident using the Dubai Police App, which 3 information is required:",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പ് ഉപയോഗിച്ച് ഒരു ട്രാഫിക് അപകടം റിപ്പോർട്ട് ചെയ്യുമ്പോൾ, ഏത് 3 വിവരങ്ങൾ ആവശ്യമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-502-a",
-        "answer_text": "injured passengers, mobile number, liable vehicle"
+        "answer_text": "പരിക്കേറ്റ യാത്രക്കാർ, മൊബൈൽ നമ്പർ, ഉത്തരവാദിത്ത വാഹനം"
       },
       {
         "id": "rta-lmv-502-b",
-        "answer_text": "vehicle plate number, license number, picture of damages"
+        "answer_text": "വാഹന നമ്പർ പ്ലേറ്റ്, ലൈസൻസ് നമ്പർ, നാശനഷ്ടത്തിന്റെ ഫോട്ടോ"
       },
       {
         "id": "rta-lmv-502-c",
-        "answer_text": "picture of damages, email address, vehicle plate number"
+        "answer_text": "നാശനഷ്ടത്തിന്റെ ഫോട്ടോ, ഇ-മെയിൽ വിലാസം, വാഹന നമ്പർ പ്ലേറ്റ്"
       }
     ]
   },
   {
     "id": "rta-lmv-503",
-    "question_text": "Using the Dubai Police App, find the nearest police station via;",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പ് ഉപയോഗിച്ച്, ഏറ്റവും അടുത്തുള്ള പോലീസ് സ്റ്റേഷൻ ഇതിലൂടെ കണ്ടെത്തുക;",
     "explanation": null,
     "answers": [
       {
@@ -12199,17 +12199,17 @@
       },
       {
         "id": "rta-lmv-503-b",
-        "answer_text": "Google Map"
+        "answer_text": "ഗൂഗിൾ മാപ്പ്"
       },
       {
         "id": "rta-lmv-503-c",
-        "answer_text": "Dubai Map"
+        "answer_text": "ദുബൈ മാപ്പ്"
       }
     ]
   },
   {
     "id": "rta-lmv-504",
-    "question_text": "The Dubai Police App provides voice alerts for nearby accidents to help avoid hazards with its;",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പ് അടുത്തുള്ള അപകടങ്ങൾക്ക് വോയ്‌സ് അലർട്ടുകൾ നൽകി അപകടങ്ങൾ ഒഴിവാക്കാൻ സഹായിക്കുന്നു, ഇതിന്റെ ഈ ഫീച്ചർ;",
     "explanation": null,
     "answers": [
       {
@@ -12218,169 +12218,169 @@
       },
       {
         "id": "rta-lmv-504-b",
-        "answer_text": "Drive Mode"
+        "answer_text": "ഡ്രൈവ് മോഡ്"
       },
       {
         "id": "rta-lmv-504-c",
-        "answer_text": "Police Eye"
+        "answer_text": "പോലീസ് ഐ"
       }
     ]
   },
   {
     "id": "rta-lmv-505",
-    "question_text": "You want to report a suspicious activity. Which feature of Dubai Police App allows you to do this?",
+    "question_text": "നിങ്ങൾ ഒരു സംശയാസ്പദ പ്രവർത്തനം റിപ്പോർട്ട് ചെയ്യാൻ ആഗ്രഹിക്കുന്നു. ദുബൈ പോലീസ് ആപ്പിന്റെ ഏത് ഫീച്ചർ ഇത് ചെയ്യാൻ അനുവദിക്കുന്നു?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-505-a",
-        "answer_text": "Police Eye"
+        "answer_text": "പോലീസ് ഐ"
       },
       {
         "id": "rta-lmv-505-b",
-        "answer_text": "Police Station Mode"
+        "answer_text": "പോലീസ് സ്റ്റേഷൻ മോഡ്"
       },
       {
         "id": "rta-lmv-505-c",
-        "answer_text": "Scan Plate"
+        "answer_text": "സ്കാൻ പ്ലേറ്റ്"
       }
     ]
   },
   {
     "id": "rta-lmv-506",
-    "question_text": "To inquire about traffic fines using the Dubai Police App, you may use the plate number, TC number, license and;",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പ് ഉപയോഗിച്ച് ട്രാഫിക് പിഴകളെ കുറിച്ച് അന്വേഷിക്കാൻ നമ്പർ പ്ലേറ്റ്, TC നമ്പർ, ലൈസൻസ്, ഇതും ഉപയോഗിക്കാം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-506-a",
-        "answer_text": "Vehicle ID Number (VIN)"
+        "answer_text": "വാഹന തിരിച്ചറിയൽ നമ്പർ (VIN)"
       },
       {
         "id": "rta-lmv-506-b",
-        "answer_text": "Ticket number"
+        "answer_text": "ടിക്കറ്റ് നമ്പർ"
       },
       {
         "id": "rta-lmv-506-c",
-        "answer_text": "Makani number"
+        "answer_text": "മക്കാനി നമ്പർ"
       }
     ]
   },
   {
     "id": "rta-lmv-507",
-    "question_text": "If you are visiting a police station around Dubai, which feature of Dubai Police App allows you to avoid the queue?",
+    "question_text": "ദുബൈയിലെ ഒരു പോലീസ് സ്റ്റേഷൻ സന്ദർശിക്കുകയാണെങ്കിൽ, ദുബൈ പോലീസ് ആപ്പിന്റെ ഏത് ഫീച്ചർ ക്യൂ ഒഴിവാക്കാൻ സഹായിക്കുന്നു?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-507-a",
-        "answer_text": "Police Station Mode"
+        "answer_text": "പോലീസ് സ്റ്റേഷൻ മോഡ്"
       },
       {
         "id": "rta-lmv-507-b",
-        "answer_text": "Police Eye"
+        "answer_text": "പോലീസ് ഐ"
       },
       {
         "id": "rta-lmv-507-c",
-        "answer_text": "Drive Mode"
+        "answer_text": "ഡ്രൈവ് മോഡ്"
       }
     ]
   },
   {
     "id": "rta-lmv-508",
-    "question_text": "Use the Drive Mode feature of the Dubai Police App to drive smart by;",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പിന്റെ ഡ്രൈവ് മോഡ് ഫീച്ചർ ഉപയോഗിച്ച് സ്മാർട്ടായി ഓടിക്കുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-508-a",
-        "answer_text": "Knowing what's happening on the roads"
+        "answer_text": "റോഡുകളിൽ നടക്കുന്നത് അറിഞ്ഞിരിക്കുക"
       },
       {
         "id": "rta-lmv-508-b",
-        "answer_text": "Reporting all traffic accidents"
+        "answer_text": "എല്ലാ ട്രാഫിക് അപകടങ്ങളും റിപ്പോർട്ട് ചെയ്യുക"
       },
       {
         "id": "rta-lmv-508-c",
-        "answer_text": "Knowing the locations of all police stations"
+        "answer_text": "എല്ലാ പോലീസ് സ്റ്റേഷനുകളുടെ സ്ഥാനങ്ങൾ അറിയുക"
       }
     ]
   },
   {
     "id": "rta-lmv-509",
-    "question_text": "Which of these services can be obtained using the Dubai Police App?",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പ് ഉപയോഗിച്ച് ഈ സേവനങ്ങളിൽ ഏത് ലഭ്യമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-509-a",
-        "answer_text": "Vehicle Registration Renewal"
+        "answer_text": "വാഹന രജിസ്‌ട്രേഷൻ പുതുക്കൽ"
       },
       {
         "id": "rta-lmv-509-b",
-        "answer_text": "Vehicle Inspection Request"
+        "answer_text": "വാഹന പരിശോധനാ അഭ്യർത്ഥന"
       },
       {
         "id": "rta-lmv-509-c",
-        "answer_text": "Driver's License Renewal"
+        "answer_text": "ഡ്രൈവിംഗ് ലൈസൻസ് പുതുക്കൽ"
       }
     ]
   },
   {
     "id": "rta-lmv-510",
-    "question_text": "Using the Dubai Police App and under the Criminal Services category, you may;",
+    "question_text": "ദുബൈ പോലീസ് ആപ്പ് ഉപയോഗിച്ച് Criminal Services വിഭാഗത്തിൽ, നിങ്ങൾക്ക്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-510-a",
-        "answer_text": "File a criminal complaint"
+        "answer_text": "ഒരു ക്രിമിനൽ പരാതി ഫയൽ ചെയ്യാം"
       },
       {
         "id": "rta-lmv-510-b",
-        "answer_text": "Request for Reissuing traffic accident report"
+        "answer_text": "ട്രാഫിക് അപകട റിപ്പോർട്ട് പുനഃ ഇഷ്യൂ ചെയ്യാൻ അഭ്യർത്ഥിക്കുക"
       },
       {
         "id": "rta-lmv-510-c",
-        "answer_text": "Request for Night work Permit"
+        "answer_text": "രാത്രി ജോലി അനുമതിക്ക് അഭ്യർത്ഥിക്കുക"
       }
     ]
   },
   {
     "id": "rta-lmv-512",
-    "question_text": "Save People Life is a service category inside Dubai Police App. Using this feature you may report;",
+    "question_text": "'Save People Life' എന്നത് ദുബായ് പോലീസ് ആപ്പിലെ ഒരു സേവന വിഭാഗമാണ്. ഈ ഫീച്ചർ ഉപയോഗിച്ച് നിങ്ങൾക്ക് എന്ത് റിപ്പോർട്ട് ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-512-a",
-        "answer_text": "Traffic violations"
+        "answer_text": "ഗതാഗത നിയമ ലംഘനങ്ങൾ"
       },
       {
         "id": "rta-lmv-512-b",
-        "answer_text": "Human Trafficking crimes"
+        "answer_text": "മനുഷ്യക്കടത്ത് കുറ്റകൃത്യങ്ങൾ"
       },
       {
         "id": "rta-lmv-512-c",
-        "answer_text": "A labor complaint"
+        "answer_text": "തൊഴിൽ പരാതി"
       }
     ]
   },
   {
     "id": "rta-lmv-513",
-    "question_text": "The Sheikh Mohammad Program inside the Dubai Police App is meant for;",
+    "question_text": "ദുബായ് പോലീസ് ആപ്പിലെ ഷെയ്ഖ് മുഹമ്മദ് പ്രോഗ്രാം എന്തിനുവേണ്ടിയുള്ളതാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-513-a",
-        "answer_text": "Tracking your fitness"
+        "answer_text": "നിങ്ങളുടെ ഫിറ്റ്നസ് ട്രാക്ക് ചെയ്യാൻ"
       },
       {
         "id": "rta-lmv-513-b",
-        "answer_text": "Tracking your movement"
+        "answer_text": "നിങ്ങളുടെ ചലനം ട്രാക്ക് ചെയ്യാൻ"
       },
       {
         "id": "rta-lmv-513-c",
-        "answer_text": "Registering your complaints"
+        "answer_text": "നിങ്ങളുടെ പരാതികൾ രജിസ്റ്റർ ചെയ്യാൻ"
       }
     ]
   },
   {
     "id": "rta-lmv-514",
-    "question_text": "To obtain a Police Clearance Certificate, under which service category on the Dubai Police App will you find this?",
+    "question_text": "പോലീസ് ക്ലിയറൻസ് സർട്ടിഫിക്കറ്റ് നേടാൻ, ദുബായ് പോലീസ് ആപ്പിൽ ഏത് സേവന വിഭാഗത്തിലാണ് ഇത് കണ്ടെത്തുക?",
     "explanation": null,
     "answers": [
       {
@@ -12389,1252 +12389,1252 @@
       },
       {
         "id": "rta-lmv-514-b",
-        "answer_text": "Traffic Services"
+        "answer_text": "ഗതാഗത സേവനങ്ങൾ"
       },
       {
         "id": "rta-lmv-514-c",
-        "answer_text": "Certificates and Permits"
+        "answer_text": "സർട്ടിഫിക്കറ്റുകളും പെർമിറ്റുകളും"
       }
     ]
   },
   {
     "id": "rta-lmv-515",
-    "question_text": "If you want to report a bounced check using the Dubai Police App, one of the conditions is;",
+    "question_text": "ദുബായ് പോലീസ് ആപ്പ് ഉപയോഗിച്ച് ഒരു ബൗൺസ്ഡ് ചെക്ക് റിപ്പോർട്ട് ചെയ്യാൻ ആഗ്രഹിക്കുന്നെങ്കിൽ, ഒരു നിബന്ധന ഇതാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-515-a",
-        "answer_text": "The checks received are from Dubai only"
+        "answer_text": "ലഭിച്ച ചെക്കുകൾ ദുബായിൽ നിന്ന് മാത്രമായിരിക്കണം"
       },
       {
         "id": "rta-lmv-515-b",
-        "answer_text": "The checks received are expired"
+        "answer_text": "ലഭിച്ച ചെക്കുകൾ കാലഹരണപ്പെട്ടിരിക്കണം"
       },
       {
         "id": "rta-lmv-515-c",
-        "answer_text": "The checks have amounts not more than 100,000."
+        "answer_text": "ചെക്കുകളുടെ തുക 1,00,000-ൽ കൂടരുത്"
       }
     ]
   },
   {
     "id": "rta-lmv-516",
-    "question_text": "To request for road closure permit using the Dubai Police App, you will first need a;",
+    "question_text": "ദുബായ് പോലീസ് ആപ്പ് ഉപയോഗിച്ച് റോഡ് ക്ലോഷർ പെർമിറ്റ് അഭ്യർത്ഥിക്കാൻ, നിങ്ങൾക്ക് ആദ്യം ആവശ്യമുള്ളത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-516-a",
-        "answer_text": "Compliance certificate from RTA"
+        "answer_text": "RTA-യിൽ നിന്ന് കംപ്ലയൻസ് സർട്ടിഫിക്കറ്റ്"
       },
       {
         "id": "rta-lmv-516-b",
-        "answer_text": "No objection letter from RTA"
+        "answer_text": "RTA-യിൽ നിന്ന് നിരാക്ഷേപ പത്രം"
       },
       {
         "id": "rta-lmv-516-c",
-        "answer_text": "No objection letter from your employer"
+        "answer_text": "നിങ്ങളുടെ തൊഴിലുടമയിൽ നിന്ന് നിരാക്ഷേപ പത്രം"
       }
     ]
   },
   {
     "id": "rta-lmv-517",
-    "question_text": "When you try to activate the SOS feature of the Dubai Police App, the first thing that will appear is;",
+    "question_text": "ദുബായ് പോലീസ് ആപ്പിന്റെ SOS ഫീച്ചർ സജ്ജീകരിക്കാൻ ശ്രമിക്കുമ്പോൾ, ആദ്യം പ്രത്യക്ഷപ്പെടുന്നത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-517-a",
-        "answer_text": "Your location in the map"
+        "answer_text": "മാപ്പിൽ നിങ്ങളുടെ സ്ഥാനം"
       },
       {
         "id": "rta-lmv-517-b",
-        "answer_text": "The location of your house"
+        "answer_text": "നിങ്ങളുടെ വീടിന്റെ സ്ഥാനം"
       },
       {
         "id": "rta-lmv-517-c",
-        "answer_text": "The location of your work"
+        "answer_text": "നിങ്ങളുടെ ജോലിസ്ഥലത്തിന്റെ സ്ഥാനം"
       }
     ]
   },
   {
     "id": "rta-fk-003",
-    "question_text": "In order to apply for a Forklift license, you must be;",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റ് ലൈസൻസിന് അപേക്ഷിക്കാൻ, നിങ്ങളുടെ പ്രായം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-003-a",
-        "answer_text": "Under 20 years old"
+        "answer_text": "20 വയസ്സിൽ താഴെ"
       },
       {
         "id": "rta-fk-003-b",
-        "answer_text": "Above 19 years old"
+        "answer_text": "19 വയസ്സിനു മുകളിൽ"
       },
       {
         "id": "rta-fk-003-c",
-        "answer_text": "Over 20 years old"
+        "answer_text": "20 വയസ്സിനു മുകളിൽ"
       }
     ]
   },
   {
     "id": "rta-fk-010",
-    "question_text": "Forklifts with internal combustion motors must;",
+    "question_text": "ആന്തരിക ദഹന മോട്ടോർ ഉള്ള ഫോർക്ക്‌ലിഫ്റ്റുകൾ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-010-a",
-        "answer_text": "Not be operated in a confined space"
+        "answer_text": "അടഞ്ഞ ഇടങ്ങളിൽ ഓടിക്കരുത്"
       },
       {
         "id": "rta-fk-010-b",
-        "answer_text": "Be operated with dual controls only"
+        "answer_text": "ഡ്യുവൽ കൺട്രോളുകൾ മാത്രം ഉപയോഗിച്ച് ഓടിക്കണം"
       },
       {
         "id": "rta-fk-010-c",
-        "answer_text": "Not be operated manually"
+        "answer_text": "മാനുവലായി ഓടിക്കരുത്"
       }
     ]
   },
   {
     "id": "rta-fk-011",
-    "question_text": "It is dangerous to operate an internal combustion motors in a confined space because;",
+    "question_text": "അടഞ്ഞ ഇടത്ത് ആന്തരിക ദഹന മോട്ടോർ ഓടിക്കുന്നത് അപകടകരമാണ്, കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-011-a",
-        "answer_text": "people working in the confined space may  not see well due to smoke"
+        "answer_text": "അടഞ്ഞ ഇടത്ത് ജോലി ചെയ്യുന്ന ആളുകൾക്ക് പുകമൂലം നന്നായി കാണാൻ കഴിഞ്ഞേക്കില്ല"
       },
       {
         "id": "rta-fk-011-b",
-        "answer_text": "people working in the confined space may be overcome by fumes"
+        "answer_text": "അടഞ്ഞ ഇടത്ത് ജോലി ചെയ്യുന്ന ആളുകൾ ഗ്യാസ് ശ്വസിച്ച് ബോധം നഷ്ടപ്പെടാം"
       },
       {
         "id": "rta-fk-011-c",
-        "answer_text": "mobility in such space is limited"
+        "answer_text": "അത്തരം ഇടത്ത് ചലനം പരിമിതമാണ്"
       }
     ]
   },
   {
     "id": "rta-fk-035",
-    "question_text": "When lifting heavy loads, it is important to move the center of gravity;",
+    "question_text": "ഭാരമുള്ള ലോഡുകൾ ഉയർത്തുമ്പോൾ, ഗുരുത്വാകർഷണ കേന്ദ്രം മാറ്റുന്നത് പ്രധാനമാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-035-a",
-        "answer_text": "Away from the machine"
+        "answer_text": "യന്ത്രത്തിൽ നിന്ന് അകലേക്ക്"
       },
       {
         "id": "rta-fk-035-b",
-        "answer_text": "Closer to the machine"
+        "answer_text": "യന്ത്രത്തോട് അടുത്തേക്ക്"
       },
       {
         "id": "rta-fk-035-c",
-        "answer_text": "Higher from the ground"
+        "answer_text": "നിലത്ത് നിന്ന് ഉയരത്തിലേക്ക്"
       }
     ]
   },
   {
     "id": "rta-fk-044",
-    "question_text": "When stopping, starting, lifting and tilting, the operator needs to;",
+    "question_text": "നിർത്തുമ്പോൾ, ആരംഭിക്കുമ്പോൾ, ഉയർത്തുമ്പോൾ, ചരിക്കുമ്പോൾ ഓപ്പറേറ്റർക്ക് ആവശ്യം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-044-a",
-        "answer_text": "Operate the equipment the quick way"
+        "answer_text": "ഉപകരണം വേഗത്തിൽ പ്രവർത്തിപ്പിക്കുക"
       },
       {
         "id": "rta-fk-044-b",
-        "answer_text": "Operate the equipment smoothly"
+        "answer_text": "ഉപകരണം സുഗമമായി പ്രവർത്തിപ്പിക്കുക"
       },
       {
         "id": "rta-fk-044-c",
-        "answer_text": "Operate the equipment the most efficient way"
+        "answer_text": "ഉപകരണം ഏറ്റവും കാര്യക്ഷമമായ രീതിയിൽ പ്രവർത്തിപ്പിക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-046",
-    "question_text": "At the start of each work shift, it is important to do this to the forklift.",
+    "question_text": "ഓരോ ജോലി ഷിഫ്റ്റിന്റെ ആരംഭത്തിൽ, ഫോർക്ക്ലിഫ്റ്റിൽ ഇത് ചെയ്യേണ്ടത് പ്രധാനമാണ്.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-046-a",
-        "answer_text": "Visual and operational checks"
+        "answer_text": "ദൃശ്യ, പ്രവർത്തന പരിശോധനകൾ"
       },
       {
         "id": "rta-fk-046-b",
-        "answer_text": "Load assessments"
+        "answer_text": "ലോഡ് വിലയിരുത്തൽ"
       },
       {
         "id": "rta-fk-046-c",
-        "answer_text": "Torque assessment"
+        "answer_text": "ടോർക്ക് വിലയിരുത്തൽ"
       }
     ]
   },
   {
     "id": "rta-fk-054",
-    "question_text": "While forklift is moving, operator must ensure his hands, arms, head, feet and legs are;",
+    "question_text": "ഫോർക്ക്ലിഫ്റ്റ് ചലിക്കുമ്പോൾ, ഓപ്പറേറ്റർ തന്റെ കൈകൾ, ഭുജങ്ങൾ, തല, കാലുകൾ, കാൽ ഉറകൾ ഉറപ്പാക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-054-a",
-        "answer_text": "Inside the confines of the forklift"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റിന്റെ അതിർത്തിക്കകത്ത് ആയിരിക്കുക"
       },
       {
         "id": "rta-fk-054-b",
-        "answer_text": "Securely hidden from view"
+        "answer_text": "കാഴ്ചയിൽ നിന്ന് സുരക്ഷിതമായി മറച്ചിരിക്കുക"
       },
       {
         "id": "rta-fk-054-c",
-        "answer_text": "Working simultaneously"
+        "answer_text": "ഒരേ സമയം പ്രവർത്തിക്കുക"
       }
     ]
   },
   {
     "id": "rta-fk-057",
-    "question_text": "An important pre-use visual check to do to ensure smooth operation in the work place.",
+    "question_text": "ജോലിസ്ഥലത്ത് സുഗമമായ പ്രവർത്തനം ഉറപ്പാക്കാൻ ഒരു പ്രധാന ഉപയോഗ-മുൻ ദൃശ്യ പരിശോധന.",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-057-a",
-        "answer_text": "The doorways are large enough to fit through"
+        "answer_text": "വാതിലുകൾ കടന്നുപോകാൻ തക്ക വലിപ്പത്തിൽ ഉണ്ട്"
       },
       {
         "id": "rta-fk-057-b",
-        "answer_text": "The location of the fire extinguishers"
+        "answer_text": "അഗ്നിശമന ഉപകരണങ്ങളുടെ സ്ഥാനം"
       },
       {
         "id": "rta-fk-057-c",
-        "answer_text": "Visitors are well attended to"
+        "answer_text": "സന്ദർശകർക്ക് നല്ല പരിചരണം ലഭിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-fk-068",
-    "question_text": "What important function does a load backrest perform on a forklift?",
+    "question_text": "ഫോർക്ക്‌ലിഫ്റ്റിലെ ലോഡ് ബ്യാക്ക്‌റെസ്റ്റ് ഏത് പ്രധാന ധർമ്മം നിർവഹിക്കുന്നു?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-068-a",
-        "answer_text": "The backrest serves as rest area for the operator"
+        "answer_text": "ബ്യാക്ക്‌റെസ്റ്റ് ഓപ്പറേറ്ററുടെ വിശ്രമ ഇടമായി പ്രവർത്തിക്കുന്നു"
       },
       {
         "id": "rta-fk-068-b",
-        "answer_text": "The backrest stops the load from falling onto the operator"
+        "answer_text": "ബ്യാക്ക്‌റെസ്റ്റ് ഓപ്പറേറ്ററുടെ മേൽ ഭാരം വീഴാതെ തടയുന്നു"
       },
       {
         "id": "rta-fk-068-c",
-        "answer_text": "The backrest creates all around protection for the operator"
+        "answer_text": "ബ്യാക്ക്‌റെസ്റ്റ് ഓപ്പറേറ്ററിന് ചുറ്റും സർവ്വ-സംരക്ഷണം നൽകുന്നു"
       }
     ]
   },
   {
     "id": "rta-fk-073",
-    "question_text": "When starting the machine, make sure you are seated and;",
+    "question_text": "മെഷീൻ സ്റ്റാർട്ട് ചെയ്യുമ്പോൾ, നിങ്ങൾ ഇരിക്കുന്നുവെന്നും ഉറപ്പ് വരുത്തുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-073-a",
-        "answer_text": "The machine is already idling"
+        "answer_text": "മെഷീൻ ഇതിനകം ഐഡ്ലിംഗ് ചെയ്യുന്നു"
       },
       {
         "id": "rta-fk-073-b",
-        "answer_text": "The seatbelt is fastened"
+        "answer_text": "സീറ്റ്‌ബെൽറ്റ് ബക്കിൾ ചെയ്തിരിക്കുന്നു"
       },
       {
         "id": "rta-fk-073-c",
-        "answer_text": "The park brake is disengaged"
+        "answer_text": "പാർക്ക് ബ്രേക്ക് ഡിസ്‌എൻഗേജ് ചെയ്തിരിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-fk-081",
-    "question_text": "When loaded, the most important safety consideration is;",
+    "question_text": "ലോഡ് ചെയ്യുമ്പോൾ ഏറ്റവും പ്രധാനപ്പെട്ട സുരക്ഷാ പരിഗണന;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-081-a",
-        "answer_text": "The skill of the operator"
+        "answer_text": "ഓപ്പറേറ്ററുടെ കഴിവ്"
       },
       {
         "id": "rta-fk-081-b",
-        "answer_text": "The center of gravity of the load"
+        "answer_text": "ഭാരത്തിന്റെ ഗുരുത്വ കേന്ദ്രം"
       },
       {
         "id": "rta-fk-081-c",
-        "answer_text": "The stability of the forklift"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റിന്റെ സ്ഥിരത"
       }
     ]
   },
   {
     "id": "rta-fk-084",
-    "question_text": "When the load of a forklift is raised, it is important to remember that;",
+    "question_text": "ഫോർക്ക്ലിഫ്റ്റിന്റെ ഭാരം ഉയർത്തുമ്പോൾ, ഓർത്തിരിക്കേണ്ടത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-084-a",
-        "answer_text": "The forklift is more stable and therefore safe"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റ് കൂടുതൽ സ്ഥിരവും അതിനാൽ സുരക്ഷിതവുമാണ്"
       },
       {
         "id": "rta-fk-084-b",
-        "answer_text": "The forklift is less stable and less safe"
+        "answer_text": "ഫോർക്ക്ലിഫ്റ്റ് കുറഞ്ഞ സ്ഥിരതയുള്ളതും കുറഞ്ഞ സുരക്ഷിതവുമാണ്"
       },
       {
         "id": "rta-fk-084-c",
-        "answer_text": "The load is more stable and safe"
+        "answer_text": "ഭാരം കൂടുതൽ സ്ഥിരവും സുരക്ഷിതവുമാണ്"
       }
     ]
   },
   {
     "id": "rta-hfk-002",
-    "question_text": "Until you get your license to operate, you may drive a Shovel;",
+    "question_text": "ഓപ്പറേറ്റ് ചെയ്യാനുള്ള ലൈസൻസ് ലഭിക്കുന്നത് വരെ, നിങ്ങൾക്ക് ഷോവൽ ഓടിക്കാം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-002-a",
-        "answer_text": "Under the supervision of a shovel instructor"
+        "answer_text": "ഒരു ഷോവൽ ഇൻസ്ട്രക്ടറുടെ മേൽനോട്ടത്തിൽ"
       },
       {
         "id": "rta-hfk-002-b",
-        "answer_text": "Under the supervision of a forklift instructor"
+        "answer_text": "ഒരു ഫോർക്ക്ലിഫ്റ്റ് ഇൻസ്ട്രക്ടറുടെ മേൽനോട്ടത്തിൽ"
       },
       {
         "id": "rta-hfk-002-c",
-        "answer_text": "Under the supervision of a heavy vehicle instructor"
+        "answer_text": "ഒരു ഹെവി വെഹിക്കിൾ ഇൻസ്ട്രക്ടറുടെ മേൽനോട്ടത്തിൽ"
       }
     ]
   },
   {
     "id": "rta-hfk-003",
-    "question_text": "What age do you have to be to apply for your shovel license?",
+    "question_text": "ഷോവൽ ലൈസൻസിന് അപേക്ഷിക്കാൻ നിങ്ങൾക്ക് എത്ര വയസ്സ് ഉണ്ടായിരിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-003-a",
-        "answer_text": "You must be over 19 years of age."
+        "answer_text": "നിങ്ങൾക്ക് 19 വയസ്സിൽ കൂടുതൽ ഉണ്ടായിരിക്കണം."
       },
       {
         "id": "rta-hfk-003-b",
-        "answer_text": "You must be under 20 years of age."
+        "answer_text": "നിങ്ങൾക്ക് 20 വയസ്സിൽ കുറവ് ഉണ്ടായിരിക്കണം."
       },
       {
         "id": "rta-hfk-003-c",
-        "answer_text": "You must be over 20 years of age."
+        "answer_text": "നിങ്ങൾക്ക് 20 വയസ്സിൽ കൂടുതൽ ഉണ്ടായിരിക്കണം."
       }
     ]
   },
   {
     "id": "rta-hfk-006",
-    "question_text": "Locating the controls and familiarizing with  their functions is an important exercise;",
+    "question_text": "കൺട്രോളുകൾ കണ്ടെത്തി അവയുടെ പ്രവർത്തനങ്ങളുമായി പരിചിതമാകുന്നത് ഒരു പ്രധാന വ്യായാമമാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-006-a",
-        "answer_text": "After starting the shift duty"
+        "answer_text": "ഷിഫ്റ്റ് ഡ്യൂട്ടി ആരംഭിച്ചതിനുശേഷം"
       },
       {
         "id": "rta-hfk-006-b",
-        "answer_text": "Before starting or operating your shovel"
+        "answer_text": "നിങ്ങളുടെ ഷോവൽ ആരംഭിക്കുന്നതിനോ ഓപ്പറേറ്റ് ചെയ്യുന്നതിനോ മുമ്പ്"
       },
       {
         "id": "rta-hfk-006-c",
-        "answer_text": "Before lifting the shovel bucket"
+        "answer_text": "ഷോവൽ ബക്കറ്റ് ഉയർത്തുന്നതിന് മുമ്പ്"
       }
     ]
   },
   {
     "id": "rta-hfk-007",
-    "question_text": "Before starting or operating your shovel, it is important to;",
+    "question_text": "നിങ്ങളുടെ ഷോവൽ ആരംഭിക്കുന്നതിനോ ഓപ്പറേറ്റ് ചെയ്യുന്നതിനോ മുമ്പ്, ഇത് പ്രധാനമാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-007-a",
-        "answer_text": "Ensure the work area is well paved"
+        "answer_text": "കാർ പാർക്ക് ഏരിയ ശരിയായി പൂർണ്ണ ആണ് ഉറപ്പ് വരുത്തുക"
       },
       {
         "id": "rta-hfk-007-b",
-        "answer_text": "Check the position and operation of park brakes and emergency devices"
+        "answer_text": "പാർക്ക് ബ്രേക്കുകളുടെയും അടിയന്തര ഉപകരണങ്ങളുടെയും സ്ഥാനവും പ്രവർത്തനവും പരിശോധിക്കുക"
       },
       {
         "id": "rta-hfk-007-c",
-        "answer_text": "Check the position of the pedestrians nearby"
+        "answer_text": "സമീപത്തുള്ള കാൽനടക്കാരുടെ സ്ഥാനം പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-012",
-    "question_text": "How do you get to know when the shovel is not operating properly or when there is a danger?",
+    "question_text": "ഷോവൽ ശരിയായി പ്രവർത്തിക്കുന്നില്ലെന്നോ അപകടമുണ്ടെന്നോ നിങ്ങൾക്ക് എങ്ങനെ അറിയാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-012-a",
-        "answer_text": "You will get notifications on your mobile phone"
+        "answer_text": "നിങ്ങളുടെ മൊബൈൽ ഫോണിൽ അറിയിപ്പുകൾ ലഭിക്കും"
       },
       {
         "id": "rta-hfk-012-b",
-        "answer_text": "A warning alarm sound gets activated"
+        "answer_text": "ഒരു മുന്നറിയിപ്പ് അലാറം ശബ്ദം സക്രിയമാകുന്നു"
       },
       {
         "id": "rta-hfk-012-c",
-        "answer_text": "you will be prompted by an automated voice."
+        "answer_text": "ഒരു ഓട്ടോമേറ്റഡ് ശബ്ദം നിങ്ങളെ അറിയിക്കും."
       }
     ]
   },
   {
     "id": "rta-hfk-016",
-    "question_text": "Before operating the shovel, understand the general safety rules by checking this;",
+    "question_text": "ഷോവൽ ഓപ്പറേറ്റ് ചെയ്യുന്നതിന് മുമ്പ്, ഇത് പരിശോധിച്ച് പൊതുവായ സുരക്ഷാ നിയമങ്ങൾ മനസ്സിലാക്കുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-016-a",
-        "answer_text": "Safety decals and shovel specifications"
+        "answer_text": "സേഫ്റ്റി ഡെക്കലുകളും ഷോവലിന്റെ സ്പെസിഫിക്കേഷനുകളും"
       },
       {
         "id": "rta-hfk-016-b",
-        "answer_text": "Brand sticker and brand name"
+        "answer_text": "ബ്രാൻഡ് സ്റ്റിക്കറും ബ്രാൻഡ് നാമവും"
       },
       {
         "id": "rta-hfk-016-c",
-        "answer_text": "Registration card of the shovel"
+        "answer_text": "ഷോവലിന്റെ രജിസ്ട്രേഷൻ കാർഡ്"
       }
     ]
   },
   {
     "id": "rta-hfk-025",
-    "question_text": "An important safety precaution when refueling a shovel;",
+    "question_text": "ഷോവലിൽ ഇന്ധനം നിറയ്ക്കുമ്പോൾ ഒരു പ്രധാനപ്പെട്ട സുരക്ഷാ മുൻകരുതൽ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-025-a",
-        "answer_text": "Do not fuel the shovel until work is completed"
+        "answer_text": "ജോലി പൂർത്തിയാകുന്നത് വരെ ഷോവലിൽ ഇന്ധനം നിറയ്ക്കരുത്"
       },
       {
         "id": "rta-hfk-025-b",
-        "answer_text": "Do not fuel the shovel near a water source"
+        "answer_text": "ജലസ്രോതസ്സിന് സമീപം ഷോവലിൽ ഇന്ധനം നിറയ്ക്കരുത്"
       },
       {
         "id": "rta-hfk-025-c",
-        "answer_text": "Do not fuel the shovel near any fire or flame"
+        "answer_text": "ഏതെങ്കിലും തീ അല്ലെങ്കിൽ ജ്വാലയ്ക്ക് സമീപം ഷോവലിൽ ഇന്ധനം നിറയ്ക്കരുത്"
       }
     ]
   },
   {
     "id": "rta-hfk-037",
-    "question_text": "Always face the shovel and maintain three-point contact (both feet and one hand, or both hands and one foot).",
+    "question_text": "എപ്പോഴും ഷോവലിനെ നേരിട്ട് മൂന്ന്-പോയിന്റ് സമ്പർക്കം നിലനിർത്തുക (രണ്ട് കാൽ ഒരു കൈ, അല്ലെങ്കിൽ രണ്ട് കൈ ഒരു കാൽ).",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-037-a",
-        "answer_text": "An important procedure when getting on or off the shovel"
+        "answer_text": "ഷോവലിൽ കയറുകയോ ഇറങ്ങുകയോ ചെയ്യുമ്പോഴുള്ള ഒരു പ്രധാന നടപടിക്രമം"
       },
       {
         "id": "rta-hfk-037-b",
-        "answer_text": "An important information during emergencies"
+        "answer_text": "അടിയന്തരഘട്ടത്തിൽ ഒരു പ്രധാന വിവരം"
       },
       {
         "id": "rta-hfk-037-c",
-        "answer_text": "An important information during breaks"
+        "answer_text": "ഇടവേളകളിൽ ഒരു പ്രധാന വിവരം"
       }
     ]
   },
   {
     "id": "rta-hfk-039",
-    "question_text": "When leaving the shovel, set the parking brake to the ON position and ;",
+    "question_text": "ഷോവൽ വിടുമ്പോൾ, പാർക്കിംഗ് ബ്രേക്ക് ON സ്ഥാനത്ത് സെറ്റ് ചെയ്ത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-039-a",
-        "answer_text": "Keep the Engine running"
+        "answer_text": "എഞ്ചിൻ പ്രവർത്തിക്കാൻ അനുവദിക്കുക"
       },
       {
         "id": "rta-hfk-039-b",
-        "answer_text": "Always leave the key in the ignition"
+        "answer_text": "എപ്പോഴും ഇഗ്നിഷനിൽ താക്കോൽ ഇടുക"
       },
       {
         "id": "rta-hfk-039-c",
-        "answer_text": "Always take the key with you"
+        "answer_text": "എപ്പോഴും താക്കോൽ കൂടെ കൊണ്ടുപോകുക"
       }
     ]
   },
   {
     "id": "rta-hfk-051",
-    "question_text": "Why is it important to idle down the shovel for 3 to 5 minutes before engine shutdown?",
+    "question_text": "എഞ്ചിൻ ഓഫ് ചെയ്യുന്നതിന് മുമ്പ് ഷോവൽ 3 മുതൽ 5 മിനിറ്റ് വരെ ഐഡിൽ ചെയ്യേണ്ടത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-051-a",
-        "answer_text": "To allow the engine to remain cooled down"
+        "answer_text": "എഞ്ചിൻ തണുത്ത് നിൽക്കാൻ അനുവദിക്കാൻ"
       },
       {
         "id": "rta-hfk-051-b",
-        "answer_text": "To allow the components to remain lubricated and cool down"
+        "answer_text": "ഘടകങ്ങൾ ലൂബ്രിക്കേറ്റ് ആയിരിക്കാനും ആർക്കാനും അനുവദിക്കാൻ"
       },
       {
         "id": "rta-hfk-051-c",
-        "answer_text": "To allow turbine shaft to work efficiently"
+        "answer_text": "ടർബൈൻ ഷാഫ്റ്റ് കാര്യക്ഷമമായി പ്രവർത്തിക്കാൻ അനുവദിക്കാൻ"
       }
     ]
   },
   {
     "id": "rta-hfk-058",
-    "question_text": "If your shovel gets in contact with live power lines, it is important to;",
+    "question_text": "നിങ്ങളുടെ ഷോവൽ ലൈവ് വൈദ്യുതി ലൈനുകളുമായി സംബർക്കത്തിൽ വന്നാൽ, ഇത് പ്രധാനമാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-058-a",
-        "answer_text": "Jump outside of the cabin"
+        "answer_text": "ക്യാബിനിന് പുറത്തേക്ക് ചാടുക"
       },
       {
         "id": "rta-hfk-058-b",
-        "answer_text": "Remain clam and not panic"
+        "answer_text": "ശാന്തമായി ഇരിക്കുക, പരിഭ്രമിക്കാതിരിക്കുക"
       },
       {
         "id": "rta-hfk-058-c",
-        "answer_text": "Remain seated"
+        "answer_text": "ഇരുന്നിരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-076",
-    "question_text": "When travelling with a loaded bucket, it is important to;",
+    "question_text": "നിറഞ്ഞ ബക്കറ്റുമായി യാത്ര ചെയ്യുമ്പോൾ, ഇത് പ്രധാനമാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-076-a",
-        "answer_text": "Carry the loaded bucket as low as possible"
+        "answer_text": "നിറഞ്ഞ ബക്കറ്റ് കഴിയുന്നത്ര താഴ്ത്തി കൊണ്ടുപോകുക"
       },
       {
         "id": "rta-hfk-076-b",
-        "answer_text": "Carry the loaded bucket as high as possible"
+        "answer_text": "നിറഞ്ഞ ബക്കറ്റ് കഴിയുന്നത്ര ഉയർത്തി കൊണ്ടുപോകുക"
       },
       {
         "id": "rta-hfk-076-c",
-        "answer_text": "Move the loaded bucket as quickly as possible"
+        "answer_text": "നിറഞ്ഞ ബക്കറ്റ് കഴിയുന്നത്ര വേഗത്തിൽ കൊണ്ടുപോകുക"
       }
     ]
   },
   {
     "id": "rta-hfk-077",
-    "question_text": "Why is it important to transport a fully loaded bucket as low as possible?",
+    "question_text": "പൂർണമായി നിറഞ്ഞ ബക്കറ്റ് കഴിയുന്നത്ര താഴ്ത്തി കൊണ്ടുപോകുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-077-a",
-        "answer_text": "For better steering control"
+        "answer_text": "മികച്ച സ്റ്റിയറിംഗ് നിയന്ത്രണത്തിന്"
       },
       {
         "id": "rta-hfk-077-b",
-        "answer_text": "For best visibility and stability"
+        "answer_text": "ഏറ്റവും മികച്ച ദൃശ്യതയ്ക്കും സ്ഥിരതയ്ക്കും"
       },
       {
         "id": "rta-hfk-077-c",
-        "answer_text": "For faster acceleration"
+        "answer_text": "വേഗത്തിലുള്ള ത്വരണത്തിന്"
       }
     ]
   },
   {
     "id": "rta-hfk-092",
-    "question_text": "To ensure safe changing of attachments, the shovel must be;",
+    "question_text": "അറ്റാച്ച്മെന്റ് സുരക്ഷിതമായി മാറ്റാൻ ഉറപ്പാക്കാൻ, ഷോവൽ ആയിരിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-092-a",
-        "answer_text": "Stopped on a firm and flat surface"
+        "answer_text": "ഉറച്ചതും പരന്നതുമായ പ്രതലത്തിൽ നിർത്തിയ നിലയിൽ"
       },
       {
         "id": "rta-hfk-092-b",
-        "answer_text": "In a confined and enclosed space"
+        "answer_text": "ഒതുങ്ങിയതും അടഞ്ഞതുമായ ഇടത്ത്"
       },
       {
         "id": "rta-hfk-092-c",
-        "answer_text": "Well prepared for operations"
+        "answer_text": "പ്രവർത്തനത്തിനായി നന്നായി തയ്യാറാക്കിയ നിലയിൽ"
       }
     ]
   },
   {
     "id": "rta-hfk-093",
-    "question_text": "When mounting a bucket or attachment, it is important to;",
+    "question_text": "ഒരു ബക്കറ്റ് അല്ലെങ്കിൽ അറ്റാച്ച്മെന്റ് ഘടിപ്പിക്കുമ്പോൾ, ഇത് ചെയ്യേണ്ടത് പ്രധാനമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-093-a",
-        "answer_text": "Apply grease to pins and bushes"
+        "answer_text": "പിന്നുകളിലും ബുഷുകളിലും ഗ്രീസ് പുരട്ടുക"
       },
       {
         "id": "rta-hfk-093-b",
-        "answer_text": "Clean all pins and bushes thoroughly"
+        "answer_text": "എല്ലാ പിന്നുകളും ബുഷുകളും നന്നായി വൃത്തിയാക്കുക"
       },
       {
         "id": "rta-hfk-093-c",
-        "answer_text": "Use a piece of cardboard or wood"
+        "answer_text": "കാർഡ്ബോർഡ് അല്ലെങ്കിൽ മരക്കഷണം ഉപയോഗിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hfk-094",
-    "question_text": "When removing a bucket or attachment, it is important to;",
+    "question_text": "ഒരു ബക്കറ്റ് അല്ലെങ്കിൽ അറ്റാച്ച്മെന്റ് നീക്കം ചെയ്യുമ്പോൾ, ഇത് ചെയ്യേണ്ടത് പ്രധാനമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-094-a",
-        "answer_text": "Stop the engine"
+        "answer_text": "എഞ്ചിൻ നിർത്തുക"
       },
       {
         "id": "rta-hfk-094-b",
-        "answer_text": "Idle the engine"
+        "answer_text": "എഞ്ചിൻ ഐഡിൽ ചെയ്യുക"
       },
       {
         "id": "rta-hfk-094-c",
-        "answer_text": "Rev the engine slowly"
+        "answer_text": "എഞ്ചിൻ സാവധാനം റെവ് ചെയ്യുക"
       }
     ]
   },
   {
     "id": "rta-moto-015",
-    "question_text": "When correctly positioned, your wrists should be:",
+    "question_text": "ശരിയായ സ്ഥാനത്ത് ഇരിക്കുമ്പോൾ, നിങ്ങളുടെ കൈത്തണ്ടകൾ ഇങ്ങനെ ആയിരിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-015-a",
-        "answer_text": "low with the knuckles straight."
+        "answer_text": "താഴ്ന്ന്, കണ്ണി നേരെ."
       },
       {
         "id": "rta-moto-015-b",
-        "answer_text": "low with the knuckles at the highest point."
+        "answer_text": "താഴ്ന്ന്, കണ്ണി ഏറ്റവും ഉയർന്ന സ്ഥാനത്ത്."
       },
       {
         "id": "rta-moto-015-c",
-        "answer_text": "in whatever position feels comfortable for you."
+        "answer_text": "നിങ്ങൾക്ക് സൗകര്യമുള്ള ഏത് സ്ഥാനത്തും."
       }
     ]
   },
   {
     "id": "rta-moto-022",
-    "question_text": "To safely ride a motorcycle, road position is important. You should always:",
+    "question_text": "മോട്ടോർസൈക്കിൾ സുരക്ഷിതമായി ഓടിക്കാൻ, റോഡ് സ്ഥാനം പ്രധാനമാണ്. നിങ്ങൾ എപ്പോഴും:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-022-a",
-        "answer_text": "ride in the right hand wheel track position when travelling on a freeway."
+        "answer_text": "ഫ്രീവേയിൽ സഞ്ചരിക്കുമ്പോൾ വലത് ചക്ര ട്രാക്ക് സ്ഥാനത്ത് ഓടിക്കുക."
       },
       {
         "id": "rta-moto-022-b",
-        "answer_text": "travel beside a larger vehicle."
+        "answer_text": "ഒരു വലിയ വാഹനത്തിനു അടുത്തായി സഞ്ചരിക്കുക."
       },
       {
         "id": "rta-moto-022-c",
-        "answer_text": "position where you can see clearly and you can be seen by other drivers."
+        "answer_text": "നിങ്ങൾക്ക് വ്യക്തമായി കാണാനും മറ്റ് ഡ്രൈവർമാർക്ക് നിങ്ങളെ കാണാനും കഴിയുന്ന സ്ഥാനത്ത് നിൽക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-024",
-    "question_text": "It is important to keep a close watch on the road ahead. When scanning the road you should look:",
+    "question_text": "മുൻഭാഗത്തെ റോഡിൽ ശ്രദ്ധ നിലനിർത്തുന്നത് പ്രധാനമാണ്. റോഡ് സ്കാൻ ചെയ്യുമ്പോൾ നിങ്ങൾ നോക്കേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-024-a",
-        "answer_text": "well ahead and to the sides."
+        "answer_text": "വളരെ മുൻഭാഗത്തേക്കും ഇരുവശങ്ങളിലേക്കും."
       },
       {
         "id": "rta-moto-024-b",
-        "answer_text": "for about the length of a city block."
+        "answer_text": "ഒരു നഗര ബ്ലോക്കിന്റെ ദൈർഘ്യം വരെ."
       },
       {
         "id": "rta-moto-024-c",
-        "answer_text": "for the length of your braking distance."
+        "answer_text": "നിങ്ങളുടെ ബ്രേക്കിംഗ് ദൂരത്തിന്റെ നീളം വരെ."
       }
     ]
   },
   {
     "id": "rta-moto-028",
-    "question_text": "If you are following a large and tall vehicle, it is best to:",
+    "question_text": "നിങ്ങൾ ഒരു വലിയ ഉയർന്ന വാഹനത്തിന് പിന്നാലെ പോകുകയാണെങ്കിൽ, ഉചിതം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-028-a",
-        "answer_text": "speed up and overtake quickly."
+        "answer_text": "വേഗം കൂട്ടി വേഗം മുന്നിലേക്ക് പോകുക."
       },
       {
         "id": "rta-moto-028-b",
-        "answer_text": "follow close behind that vehicle."
+        "answer_text": "ആ വാഹനത്തിന് തൊട്ടുപിന്നാലെ ഓടിക്കുക."
       },
       {
         "id": "rta-moto-028-c",
-        "answer_text": "increase following distance."
+        "answer_text": "പിന്തുടർന്നു പോകുന്ന ദൂരം വർദ്ധിപ്പിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-031",
-    "question_text": "When being overtaken on your left, you should:",
+    "question_text": "നിങ്ങളെ ഇടതുഭാഗത്ത് നിന്ന് ഓവർടേക്ക് ചെയ്യുമ്പോൾ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-031-a",
-        "answer_text": "maintain your position in the lane."
+        "answer_text": "ലെയ്നിൽ നിങ്ങളുടെ സ്ഥാനം നിലനിർത്തുക."
       },
       {
         "id": "rta-moto-031-b",
-        "answer_text": "move towards the right of your lane."
+        "answer_text": "ലെയ്നിന്റെ വലതുഭാഗത്തേക്ക് നീങ്ങുക."
       },
       {
         "id": "rta-moto-031-c",
-        "answer_text": "move towards the left of your lane."
+        "answer_text": "ലെയ്നിന്റെ ഇടതുഭാഗത്തേക്ക് നീങ്ങുക."
       }
     ]
   },
   {
     "id": "rta-moto-032",
-    "question_text": "When being followed extremely close by a vehicle you should:",
+    "question_text": "ഒരു വാഹനം നിങ്ങൾക്ക് വളരെ അടുത്ത് പിന്നാലെ വരുന്നുണ്ടെങ്കിൽ, നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-032-a",
-        "answer_text": "move to the extreme right of the lane."
+        "answer_text": "ലെയ്നിന്റെ ഏറ്റവും വലതുഭാഗത്തേക്ക് നീങ്ങുക."
       },
       {
         "id": "rta-moto-032-b",
-        "answer_text": "increase speed to outdistance the tailgater."
+        "answer_text": "ടെയ്ൽഗേറ്ററിൽ നിന്ന് അകലം കൂട്ടാൻ വേഗം വർദ്ധിപ്പിക്കുക."
       },
       {
         "id": "rta-moto-032-c",
-        "answer_text": "slow down and allow the vehicle to overtake."
+        "answer_text": "വേഗം കുറയ്ക്കുകയും വാഹനത്തിന് ഓവർടേക്ക് ചെയ്യാൻ അനുവദിക്കുകയും ചെയ്യുക."
       }
     ]
   },
   {
     "id": "rta-moto-045",
-    "question_text": "You should only carry a load if:",
+    "question_text": "നിങ്ങൾ ഭാരം വഹിക്കേണ്ടത് ഇനിപ്പറയുന്ന സന്ദർഭങ്ങളിൽ മാത്രം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-045-a",
-        "answer_text": "the motorcycle is fitted with saddlebags."
+        "answer_text": "മോട്ടോർസൈക്കിളിൽ സാഡിൽബാഗ് ഘടിപ്പിച്ചിരിക്കുമ്പോൾ."
       },
       {
         "id": "rta-moto-045-b",
-        "answer_text": "the load can be properly positioned and secured."
+        "answer_text": "ഭാരം ശരിയായ സ്ഥാനത്ത് വച്ച് സുരക്ഷിതമാക്കാൻ സാധിക്കുമ്പോൾ."
       },
       {
         "id": "rta-moto-045-c",
-        "answer_text": "you have held a motorcycle license for 12 months."
+        "answer_text": "നിങ്ങൾ 12 മാസമായി മോട്ടോർസൈക്കിൾ ലൈസൻസ് കൈവശം വച്ചിരിക്കുമ്പോൾ."
       }
     ]
   },
   {
     "id": "rta-moto-061",
-    "question_text": "Brakes need regular checking. The most important thing to do is:",
+    "question_text": "ബ്രേക്കുകൾ പതിവായി പരിശോധിക്കണം. ഏറ്റവും പ്രധാനപ്പെട്ട കാര്യം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-061-a",
-        "answer_text": "check the brake pads."
+        "answer_text": "ബ്രേക്ക് പാഡുകൾ പരിശോധിക്കുക."
       },
       {
         "id": "rta-moto-061-b",
-        "answer_text": "check the brake lever."
+        "answer_text": "ബ്രേക്ക് ലിവർ പരിശോധിക്കുക."
       },
       {
         "id": "rta-moto-061-c",
-        "answer_text": "lots of heavy braking."
+        "answer_text": "ഒരുപാട് ശക്തമായ ബ്രേക്കിംഗ്."
       }
     ]
   },
   {
     "id": "rta-moto-063",
-    "question_text": "Being patient when riding is one way of:",
+    "question_text": "ഓടിക്കുമ്പോൾ ക്ഷമ കാണിക്കൽ ഒരു മാർഗ്ഗമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-063-a",
-        "answer_text": "avoiding riding hazards."
+        "answer_text": "ഓടിക്കൽ അപകടങ്ങൾ ഒഴിവാക്കാനുള്ള."
       },
       {
         "id": "rta-moto-063-b",
-        "answer_text": "reaching destination early."
+        "answer_text": "ലക്ഷ്യസ്ഥാനത്ത് നേരത്തെ എത്താനുള്ള."
       },
       {
         "id": "rta-moto-063-c",
-        "answer_text": "showing off riding skills."
+        "answer_text": "ഓടിക്കൽ കഴിവ് പ്രദർശിപ്പിക്കാനുള്ള."
       }
     ]
   },
   {
     "id": "rta-moto-068",
-    "question_text": "Why you must not ride under the influence of alcohol?",
+    "question_text": "മദ്യത്തിന്റെ സ്വാധീനത്തിൽ ഓടിക്കരുതെന്നതിന്റെ കാരണം എന്ത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-068-a",
-        "answer_text": "because it makes you take risks."
+        "answer_text": "കാരണം അത് നിങ്ങളെ അപകടങ്ങൾ ഏൽക്കാൻ പ്രേരിപ്പിക്കുന്നു."
       },
       {
         "id": "rta-moto-068-b",
-        "answer_text": "because it makes you sleepy at night."
+        "answer_text": "കാരണം അത് രാത്രിയിൽ നിങ്ങൾക്ക് ഉറക്കം തോന്നിക്കുന്നു."
       },
       {
         "id": "rta-moto-068-c",
-        "answer_text": "because it makes you sensitive to sound."
+        "answer_text": "കാരണം അത് നിങ്ങളെ ശബ്ദങ്ങളോട് അതിസംവേദനക്ഷമനാക്കുന്നു."
       }
     ]
   },
   {
     "id": "rta-moto-070",
-    "question_text": "Why is it important to wear protective clothing when riding?",
+    "question_text": "വാഹനം ഓടിക്കുമ്പോൾ സംരക്ഷണ വസ്ത്രം ധരിക്കുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-070-a",
-        "answer_text": "Because it makes the ride smooth."
+        "answer_text": "കാരണം അത് യാത്ര സുഗമമാക്കുന്നു."
       },
       {
         "id": "rta-moto-070-b",
-        "answer_text": "Because it helps prevent dehydration."
+        "answer_text": "കാരണം അത് നിർജലീകരണം തടയാൻ സഹായിക്കുന്നു."
       },
       {
         "id": "rta-moto-070-c",
-        "answer_text": "Because it helps the bike go faster."
+        "answer_text": "കാരണം അത് ബൈക്ക് വേഗത്തിൽ ഓടാൻ സഹായിക്കുന്നു."
       }
     ]
   },
   {
     "id": "rta-moto-071",
-    "question_text": "Why is it important to wear helmet when riding a bike?",
+    "question_text": "ബൈക്ക് ഓടിക്കുമ്പോൾ ഹെൽമെറ്റ് ധരിക്കുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-071-a",
-        "answer_text": "Because it helps prevent serious head injuries."
+        "answer_text": "കാരണം അത് ഗുരുതരമായ തലയ്ക്ക് പരിക്ക് തടയാൻ സഹായിക്കുന്നു."
       },
       {
         "id": "rta-moto-071-b",
-        "answer_text": "Because it protects the rider's face."
+        "answer_text": "കാരണം അത് ഓടിക്കുന്ന ആളിന്റെ മുഖം സംരക്ഷിക്കുന്നു."
       },
       {
         "id": "rta-moto-071-c",
-        "answer_text": "Because it helps the rider focus."
+        "answer_text": "കാരണം അത് ഓടിക്കുന്ന ആളിന് ശ്രദ്ധ കേന്ദ്രീകരിക്കാൻ സഹായിക്കുന്നു."
       }
     ]
   },
   {
     "id": "rta-moto-074",
-    "question_text": "Why is it important to use new helmet?",
+    "question_text": "പുതിയ ഹെൽമെറ്റ് ഉപയോഗിക്കുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-074-a",
-        "answer_text": "because new helmet is more visible."
+        "answer_text": "കാരണം പുതിയ ഹെൽമെറ്റ് കൂടുതൽ ദൃശ്യമാണ്."
       },
       {
         "id": "rta-moto-074-b",
-        "answer_text": "because a used helmet may have damage you cannot see."
+        "answer_text": "കാരണം ഉപയോഗിച്ച ഹെൽമെറ്റിൽ കാണാൻ കഴിയാത്ത കേടുപാടുകൾ ഉണ്ടാകാം."
       },
       {
         "id": "rta-moto-074-c",
-        "answer_text": "because a new helmet is required."
+        "answer_text": "കാരണം പുതിയ ഹെൽമെറ്റ് ആവശ്യമാണ്."
       }
     ]
   },
   {
     "id": "rta-moto-077",
-    "question_text": "Wearing the right clothing when riding helps the rider to:",
+    "question_text": "ഓടിക്കുമ്പോൾ ശരിയായ വസ്ത്രം ധരിക്കുന്നത് ഓടിക്കുന്ന ആളിനെ സഹായിക്കുന്നു:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-077-a",
-        "answer_text": "be comfortable and focus on riding properly."
+        "answer_text": "സുഖകരമായി ഇരിക്കാനും ഓടിക്കലിൽ ശ്രദ്ധ കേന്ദ്രീകരിക്കാനും."
       },
       {
         "id": "rta-moto-077-b",
-        "answer_text": "ride better and safer."
+        "answer_text": "കൂടുതൽ നന്നായും സുരക്ഷിതമായും ഓടിക്കാൻ."
       },
       {
         "id": "rta-moto-077-c",
-        "answer_text": "stay clear of hazards."
+        "answer_text": "അപകടങ്ങളിൽ നിന്ന് അകലം പാലിക്കാൻ."
       }
     ]
   },
   {
     "id": "rta-moto-088",
-    "question_text": "To see clearly and ride safely at night:",
+    "question_text": "രാത്രിയിൽ വ്യക്തമായി കാണാനും സുരക്ഷിതമായി ഓടിക്കാനും:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-088-a",
-        "answer_text": "do not exceed the speed limit."
+        "answer_text": "വേഗപരിധി കവിയരുത്."
       },
       {
         "id": "rta-moto-088-b",
-        "answer_text": "do not use brakes very often."
+        "answer_text": "ബ്രേക്ക് അധികം ഉപയോഗിക്കരുത്."
       },
       {
         "id": "rta-moto-088-c",
-        "answer_text": "do not use tinted glasses."
+        "answer_text": "ടിന്റഡ് ഗ്ലാസ് ഉപയോഗിക്കരുത്."
       }
     ]
   },
   {
     "id": "rta-moto-098",
-    "question_text": "Maintaining your bike properly includes",
+    "question_text": "നിങ്ങളുടെ ബൈക്ക് ശരിയായി പരിപാലിക്കുന്നതിൽ ഉൾപ്പെടുന്നു",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-098-a",
-        "answer_text": "checking if registration is valid."
+        "answer_text": "രജിസ്ട്രേഷൻ സാധുതയുള്ളതാണോ എന്ന് പരിശോധിക്കുക."
       },
       {
         "id": "rta-moto-098-b",
-        "answer_text": "checking if it looks good."
+        "answer_text": "അത് നന്നായി കാണുന്നുണ്ടോ എന്ന് പരിശോധിക്കുക."
       },
       {
         "id": "rta-moto-098-c",
-        "answer_text": "checking the oil regularly."
+        "answer_text": "പതിവായി എണ്ണ പരിശോധിക്കുക."
       }
     ]
   },
   {
     "id": "rta-moto-108",
-    "question_text": "Riding under the influence of alcohol is dangerous because;",
+    "question_text": "മദ്യത്തിന്റെ സ്വാധീനത്തിൽ ഓടിക്കൽ അപകടകരമാണ് കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-108-a",
-        "answer_text": "It makes you learn new techniques"
+        "answer_text": "ഇത് നിങ്ങൾക്ക് പുതിയ സാങ്കേതിക വിദ്യകൾ പഠിക്കാൻ സഹായിക്കുന്നു"
       },
       {
         "id": "rta-moto-108-b",
-        "answer_text": "It affects your sense of balance"
+        "answer_text": "ഇത് നിങ്ങളുടെ സന്തുലനബോധത്തെ ബാധിക്കുന്നു"
       },
       {
         "id": "rta-moto-108-c",
-        "answer_text": "It makes you ride slow"
+        "answer_text": "ഇത് നിങ്ങൾ മന്ദഗതിയിൽ ഓടിക്കുന്നതിന് കാരണമാകുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-111",
-    "question_text": "What are some dangers when riding under the influence of alcohol?",
+    "question_text": "മദ്യത്തിന്റെ സ്വാധീനത്തിൽ ഓടിക്കുമ്പോൾ ചില അപകടങ്ങൾ എന്തൊക്കെ?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-111-a",
-        "answer_text": "Makes you more careful"
+        "answer_text": "നിങ്ങളെ കൂടുതൽ ശ്രദ്ധാലുവാക്കുന്നു"
       },
       {
         "id": "rta-moto-111-b",
-        "answer_text": "Affects the protection of the helmet"
+        "answer_text": "ഹെൽമറ്റിന്റെ സംരക്ഷണത്തെ ബാധിക്കുന്നു"
       },
       {
         "id": "rta-moto-111-c",
-        "answer_text": "Affects your sense of balance"
+        "answer_text": "നിങ്ങളുടെ സന്തുലനബോധത്തെ ബാധിക്കുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-113",
-    "question_text": "If any kind of drugs can affect your riding ability, what can you do to be safe?",
+    "question_text": "ഏതെങ്കിലും തരത്തിലുള്ള മരുന്ന് നിങ്ങളുടെ ഓടിക്കൽ കഴിവിനെ ബാധിക്കുമെങ്കിൽ, സുരക്ഷിതമായിരിക്കാൻ നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-113-a",
-        "answer_text": "Check with a pharmacist or doctor before you ride"
+        "answer_text": "ഓടിക്കുന്നതിന് മുമ്പ് ഫാർമസിസ്റ്റ് അല്ലെങ്കിൽ ഡോക്ടറോട് ഉപദേശം തേടുക"
       },
       {
         "id": "rta-moto-113-b",
-        "answer_text": "Ride slowly and take small streets"
+        "answer_text": "മന്ദഗതിയിൽ ഓടിക്കുകയും ചെറിയ തെരുവുകൾ തിരഞ്ഞെടുക്കുകയും ചെയ്യുക"
       },
       {
         "id": "rta-moto-113-c",
-        "answer_text": "Check the mirrors more frequently"
+        "answer_text": "കണ്ണാടികൾ കൂടുതൽ ഇടക്കിടെ പരിശോധിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-114",
-    "question_text": "If you have taken some drugs but unsure of the effect, it is best to;",
+    "question_text": "നിങ്ങൾ ചില മരുന്നുകൾ കഴിച്ചിട്ടുണ്ടെങ്കിലും അതിന്റെ ഫലത്തെ കുറിച്ച് ഉറപ്പില്ലെങ്കിൽ, ഏറ്റവും നല്ലത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-114-a",
-        "answer_text": "Avoid taking the drugs"
+        "answer_text": "മരുന്നുകൾ കഴിക്കുന്നത് ഒഴിവാക്കുക"
       },
       {
         "id": "rta-moto-114-b",
-        "answer_text": "Avoid riding at all"
+        "answer_text": "ഒട്ടും വാഹനം ഓടിക്കാതിരിക്കുക"
       },
       {
         "id": "rta-moto-114-c",
-        "answer_text": "Inform RTA of your medical condition"
+        "answer_text": "നിങ്ങളുടെ ആരോഗ്യസ്ഥിതി RTA-യെ അറിയിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-124",
-    "question_text": "Why is it important to check your bike before each ride in ensuring safety?",
+    "question_text": "സുരക്ഷ ഉറപ്പാക്കാൻ ഓരോ റൈഡിന് മുൻപും ബൈക്ക് പരിശോധിക്കുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-124-a",
-        "answer_text": "Your safety begins with your machine"
+        "answer_text": "നിങ്ങളുടെ സുരക്ഷ യന്ത്രത്തിൽ നിന്ന് ആരംഭിക്കുന്നു"
       },
       {
         "id": "rta-moto-124-b",
-        "answer_text": "Following distance is more important"
+        "answer_text": "പിൻ‌ദൂരം കൂടുതൽ പ്രധാനമാണ്"
       },
       {
         "id": "rta-moto-124-c",
-        "answer_text": "Safety is assured when riding slowly"
+        "answer_text": "പതുക്കെ ഓടിക്കുമ്പോൾ സുരക്ഷ ഉറപ്പാകുന്നു"
       }
     ]
   },
   {
     "id": "rta-moto-127",
-    "question_text": "When setting up yourself and your bike, it is important to;",
+    "question_text": "നിങ്ങൾ തന്നെയും ബൈക്കും ക്രമീകരിക്കുമ്പോൾ, പ്രധാനമായത്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-127-a",
-        "answer_text": "keep your head up and your line of sight level with the road"
+        "answer_text": "തല ഉയർത്തി, കാഴ്ചരേഖ റോഡുമായി നേർരേഖയിൽ നിർത്തുക"
       },
       {
         "id": "rta-moto-127-b",
-        "answer_text": "lean with the bike while turning"
+        "answer_text": "തിരിയുമ്പോൾ ബൈക്കിനൊപ്പം ചരിഞ്ഞ് ഇരിക്കുക"
       },
       {
         "id": "rta-moto-127-c",
-        "answer_text": "sit comfortably with your  hands placed on your sides"
+        "answer_text": "സുഖകരമായി ഇരുന്ന് കൈകൾ വശങ്ങളിൽ വെക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-131",
-    "question_text": "An important safety check that every rider should carry out before riding out;",
+    "question_text": "ഓടിക്കുന്നതിന് മുൻപ് ഓരോ ഡ്രൈവറും ചെയ്യേണ്ട ഒരു പ്രധാന സുരക്ഷ പരിശോധന;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-131-a",
-        "answer_text": "make sure that the tire tread is free of cuts, nails or cracks."
+        "answer_text": "ടയർ ട്രെഡ് മുറിവുകൾ, ആണികൾ അല്ലെങ്കിൽ വിള്ളലുകൾ ഇല്ലാത്തതാണെന്ന് ഉറപ്പ് വരുത്തുക"
       },
       {
         "id": "rta-moto-131-b",
-        "answer_text": "the right hand is able to grab the handle freely"
+        "answer_text": "വലതു കൈക്ക് ഹാൻഡിൽ സ്വതന്ത്രമായി പിടിക്കാൻ കഴിയണം"
       },
       {
         "id": "rta-moto-131-c",
-        "answer_text": "the left foot is able to reach the foot pegs easily"
+        "answer_text": "ഇടതു കാലിന് ഫൂട്ട് പെഗ്ഗിൽ എളുപ്പത്തിൽ എത്താൻ കഴിയണം"
       }
     ]
   },
   {
     "id": "rta-moto-133",
-    "question_text": "Safety checks before each ride should include controls, mirrors, tires and chains. You also need to check;",
+    "question_text": "ഓരോ യാത്രയ്ക്ക് മുൻപുള്ള സുരക്ഷ പരിശോധനയിൽ നിയന്ത്രണങ്ങൾ, കണ്ണാടികൾ, ടയറുകൾ, ചെയിൻ എന്നിവ ഉൾപ്പെടണം. നിങ്ങൾ ഇതും പരിശോധിക്കണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-133-a",
-        "answer_text": "yourself - if you are dressed safely and properly"
+        "answer_text": "നിങ്ങളെത്തന്നെ - നിങ്ങൾ സുരക്ഷിതവും ഉചിതവുമായ വേഷം ധരിച്ചിട്ടുണ്ടോ"
       },
       {
         "id": "rta-moto-133-b",
-        "answer_text": "yourself - to see the limit of your ability to ride"
+        "answer_text": "നിങ്ങളെത്തന്നെ - ഓടിക്കാനുള്ള നിങ്ങളുടെ ശേഷിയുടെ പരിധി അറിയാൻ"
       },
       {
         "id": "rta-moto-133-c",
-        "answer_text": "other riders - if they are complying with the traffic rules"
+        "answer_text": "മറ്റ് ഡ്രൈവർമാർ - ട്രാഫിക് നിയമങ്ങൾ പാലിക്കുന്നുണ്ടോ എന്ന്"
       }
     ]
   },
   {
     "id": "rta-moto-142",
-    "question_text": "Keeping a safe space when riding a motorcycle means;",
+    "question_text": "മോട്ടോർസൈക്കിൾ ഓടിക്കുമ്പോൾ സുരക്ഷിത അകലം പാലിക്കുക എന്നതിനർത്ഥം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-142-a",
-        "answer_text": "Having more time to stop in case of emergency"
+        "answer_text": "അടിയന്തര ഘട്ടത്തിൽ നിർത്താൻ കൂടുതൽ സമയം ഉണ്ടാകും"
       },
       {
         "id": "rta-moto-142-b",
-        "answer_text": "Having more time to enjoy the scenery"
+        "answer_text": "കാഴ്ചകൾ ആസ്വദിക്കാൻ കൂടുതൽ സമയം ഉണ്ടാകും"
       },
       {
         "id": "rta-moto-142-c",
-        "answer_text": "Following the 2-second rule"
+        "answer_text": "2 സെക്കൻഡ് നിയമം പാലിക്കുക"
       }
     ]
   },
   {
     "id": "rta-moto-148",
-    "question_text": "As you ride you need to look ahead, to gather information, to prioritize and to make decisions. You are actually;",
+    "question_text": "ഓടിക്കുമ്പോൾ മുന്നോട്ട് നോക്കേണ്ടതും, വിവരങ്ങൾ ശേഖരിക്കേണ്ടതും, മുൻഗണന നൽകേണ്ടതും, തീരുമാനങ്ങൾ എടുക്കേണ്ടതും ആണ്. നിങ്ങൾ യഥാർഥത്തിൽ;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-148-a",
-        "answer_text": "scanning the road in order to be safe"
+        "answer_text": "സുരക്ഷിതമായിരിക്കാൻ റോഡ് സ്കാൻ ചെയ്യുകയാണ്"
       },
       {
         "id": "rta-moto-148-b",
-        "answer_text": "scanning is very important"
+        "answer_text": "സ്കാനിംഗ് വളരെ പ്രധാനമാണ്"
       },
       {
         "id": "rta-moto-148-c",
-        "answer_text": "making sure your bike is safe to ride"
+        "answer_text": "നിങ്ങളുടെ ബൈക്ക് ഓടിക്കാൻ സുരക്ഷിതമാണ് എന്ന് ഉറപ്പ് വരുത്തുകയാണ്"
       }
     ]
   },
   {
     "id": "rta-moto-150",
-    "question_text": "Why is it important to be patient when dealing with school buses?",
+    "question_text": "സ്കൂൾ ബസുകളുമായി ഇടപെടുമ്പോൾ ക്ഷമ കാണിക്കേണ്ടത് എന്തുകൊണ്ട്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-150-a",
-        "answer_text": "school buses need to travel at lower speeds sometimes"
+        "answer_text": "സ്കൂൾ ബസുകൾ ചിലപ്പോൾ കുറഞ്ഞ വേഗതയിൽ സഞ്ചരിക്കേണ്ടതായി വരുന്നു"
       },
       {
         "id": "rta-moto-150-b",
-        "answer_text": "school buses stop at bus stops only"
+        "answer_text": "സ്കൂൾ ബസുകൾ ബസ് സ്റ്റോപ്പുകളിൽ മാത്രം നിർത്തുന്നു"
       },
       {
         "id": "rta-moto-150-c",
-        "answer_text": "school buses may stop for several minutes when picking up or dropping students"
+        "answer_text": "സ്കൂൾ ബസുകൾ വിദ്യാർഥികളെ കൂട്ടുകയോ ഇറക്കുകയോ ചെയ്യുമ്പോൾ നിമിഷങ്ങൾ നിർത്തിയേക്കാം"
       }
     ]
   },
   {
     "id": "rta-moto-152",
-    "question_text": "You are travelling on a busy road and you hear a loud siren of an emergency vehicle. What should you do?",
+    "question_text": "നിങ്ങൾ ഒരു തിരക്കേറിയ റോഡിൽ സഞ്ചരിക്കുകയാണ്, ഒരു അടിയന്തര വാഹനത്തിന്റെ ഉച്ചത്തിലുള്ള സൈറൺ കേട്ടു. നിങ്ങൾ എന്ത് ചെയ്യണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-152-a",
-        "answer_text": "emergency vehicles have the priority when the siren is on"
+        "answer_text": "സൈറൺ ഓണാകുമ്പോൾ അടിയന്തര വാഹനങ്ങൾക്ക് മുൻഗണന ഉണ്ട്"
       },
       {
         "id": "rta-moto-152-b",
-        "answer_text": "try to move out of the way of the emergency vehicle as quickly and safely as possible."
+        "answer_text": "കഴിയുന്നത്ര വേഗത്തിലും സുരക്ഷിതമായും അടിയന്തര വാഹനത്തിന്റെ വഴിയിൽ നിന്ന് മാറാൻ ശ്രമിക്കുക"
       },
       {
         "id": "rta-moto-152-c",
-        "answer_text": "military vehicles have priority when they proceed as convoys."
+        "answer_text": "കോൺവോയിൽ പോകുമ്പോൾ സൈനിക വാഹനങ്ങൾക്ക് മുൻഗണനയുണ്ട്"
       }
     ]
   },
   {
     "id": "rta-moto-185",
-    "question_text": "As an unprotected rider, safe following distance is very important because;",
+    "question_text": "സംരക്ഷണമില്ലാത്ത ഒരു റൈഡർ എന്ന നിലയിൽ, സുരക്ഷിത പിൻദൂരം വളരെ പ്രധാനമാണ്, കാരണം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-185-a",
-        "answer_text": "you will have more time to respond to hazards on the road"
+        "answer_text": "റോഡിലെ അപകടങ്ങളോട് പ്രതികരിക്കാൻ നിങ്ങൾക്ക് കൂടുതൽ സമയം ലഭിക്കും"
       },
       {
         "id": "rta-moto-185-b",
-        "answer_text": "you will be able to avoid stopping"
+        "answer_text": "നിർത്തുന്നത് ഒഴിവാക്കാൻ നിങ്ങൾക്ക് കഴിയും"
       },
       {
         "id": "rta-moto-185-c",
-        "answer_text": "you will reach your destination earlier"
+        "answer_text": "നിങ്ങൾ നേരത്തെ ലക്ഷ്യസ്ഥാനത്ത് എത്തും"
       }
     ]
   },
   {
     "id": "rta-moto-197",
-    "question_text": "In this scenario, what can possibly start a hazardous situation?",
+    "question_text": "ഈ സാഹചര്യത്തിൽ, അപകടകരമായ സ്ഥിതി ഉണ്ടാക്കാൻ സാധ്യതയുള്ളത് എന്ത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-197-a",
-        "answer_text": "the taxi stopping on the left side of the road"
+        "answer_text": "റോഡിന്റെ ഇടതുവശത്ത് ടാക്‌സി നിർത്തുന്നത്"
       },
       {
         "id": "rta-moto-197-b",
-        "answer_text": "the person on the right side trying to hail a taxi"
+        "answer_text": "വലതുവശത്തുള്ള വ്യക്തി ടാക്‌സി പിടിക്കാൻ ശ്രമിക്കുന്നത്"
       },
       {
         "id": "rta-moto-197-c",
-        "answer_text": "the white car in front for not stopping"
+        "answer_text": "മുന്നിലുള്ള വെള്ള കാർ നിർത്താത്തത്"
       }
     ]
   },
   {
     "id": "rta-moto-200",
-    "question_text": "When you are following a school bus, what is the correct riding attitude?",
+    "question_text": "ഒരു സ്‌കൂൾ ബസ്സിനെ പിന്തുടരുമ്പോൾ, ശരിയായ റൈഡിംഗ് മനോഭാവം ഏതാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-200-a",
-        "answer_text": "to ride fast and pass the school bus quickly"
+        "answer_text": "വേഗത്തിൽ ഓടിച്ച് സ്‌കൂൾ ബസ്സ് വേഗം കടന്നുപോകുക"
       },
       {
         "id": "rta-moto-200-b",
-        "answer_text": "to be patient when dealing with school buses"
+        "answer_text": "സ്‌കൂൾ ബസ്സുകൾ കൈകാര്യം ചെയ്യുമ്പോൾ ക്ഷമ കൈക്കൊള്ളുക"
       },
       {
         "id": "rta-moto-200-c",
-        "answer_text": "never overtake a school bus"
+        "answer_text": "ഒരിക്കലും സ്‌കൂൾ ബസ്സ് ഓവർടേക്ക് ചെയ്യരുത്"
       }
     ]
   },
   {
     "id": "rta-moto-203",
-    "question_text": "If you are using an Android smart phone, you may download the Dubai Police App from;",
+    "question_text": "നിങ്ങൾ ഒരു ആൻഡ്രോയ്ഡ് സ്മാർട്ട്‌ഫോൺ ഉപയോഗിക്കുകയാണെങ്കിൽ, ദുബായ് പോലീസ് ആപ്പ് എവിടെ നിന്ന് ഡൗൺലോഡ് ചെയ്യാം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-203-a",
-        "answer_text": "App Store"
+        "answer_text": "ആപ്പ് സ്റ്റോർ"
       },
       {
         "id": "rta-moto-203-b",
-        "answer_text": "Play Store"
+        "answer_text": "പ്ലേ സ്റ്റോർ"
       },
       {
         "id": "rta-moto-203-c",
-        "answer_text": "App Gallery"
+        "answer_text": "ആപ്പ് ഗ്യാലറി"
       }
     ]
   },
   {
     "id": "rta-moto-204",
-    "question_text": "The name of the virtual assistant of Dubai Police App;",
+    "question_text": "ദുബായ് പോലീസ് ആപ്പിന്റെ വെർച്വൽ അസിസ്റ്റന്റിന്റെ പേര്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-204-a",
-        "answer_text": "Shaima"
+        "answer_text": "ശൈമ"
       },
       {
         "id": "rta-moto-204-b",
-        "answer_text": "Amna"
+        "answer_text": "ആമ്‌ന"
       },
       {
         "id": "rta-moto-204-c",
-        "answer_text": "Meera"
+        "answer_text": "മീര"
       }
     ]
   },
   {
     "id": "rta-moto-205",
-    "question_text": "The smart camera of the Dubai Police App is an all in one reporting tool for vehicle obstruction, police eye and;",
+    "question_text": "ദുബായ് പോലീസ് ആപ്പിന്റെ സ്മാർട്ട് ക്യാമറ വാഹന തടസ്സം, പോലീസ് ഐ, _______ എന്നിവ റിപ്പോർട്ട് ചെയ്യാനുള്ള ഓൾ ഇൻ വൺ ടൂൾ ആണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-205-a",
-        "answer_text": "we are all police"
+        "answer_text": "നാം എല്ലാവരും പോലീസ് ആണ്"
       },
       {
         "id": "rta-moto-205-b",
-        "answer_text": "sea rescue"
+        "answer_text": "കടൽ രക്ഷ"
       },
       {
         "id": "rta-moto-205-c",
-        "answer_text": "police station mode"
+        "answer_text": "പോലീസ് സ്റ്റേഷൻ മോഡ്"
       }
     ]
   },
   {
     "id": "rta-moto-206",
-    "question_text": "The five service categories inside the Dubai Police App are Community, Certificates & Permits, Traffic, Criminal and;",
+    "question_text": "ദുബായ് പോലീസ് ആപ്പിലെ അഞ്ച് സേവന വിഭാഗങ്ങൾ കമ്മ്യൂണിറ്റി, സർട്ടിഫിക്കറ്റ്സ് & പെർമിറ്റ്സ്, ട്രാഫിക്, ക്രിമിനൽ, _______ എന്നിവയാണ്;",
     "explanation": null,
     "answers": [
       {
@@ -13643,74 +13643,74 @@
       },
       {
         "id": "rta-moto-206-b",
-        "answer_text": "Save People Life"
+        "answer_text": "ആളുകളുടെ ജീവൻ രക്ഷിക്കുക"
       },
       {
         "id": "rta-moto-206-c",
-        "answer_text": "Sea Rescue"
+        "answer_text": "കടൽ രക്ഷ"
       }
     ]
   },
   {
     "id": "rta-moto-207",
-    "question_text": "Under the Criminal Services category of the Dubai Police App, you may;",
+    "question_text": "ദുബായ് പോലീസ് ആപ്പിന്റെ ക്രിമിനൽ സർവീസസ് വിഭാഗത്തിൽ, നിങ്ങൾക്ക് _______ ചെയ്യാം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-207-a",
-        "answer_text": "Report A Crime"
+        "answer_text": "ഒരു കുറ്റകൃത്യം റിപ്പോർട്ട് ചെയ്യുക"
       },
       {
         "id": "rta-moto-207-b",
-        "answer_text": "Report Traffic Accident"
+        "answer_text": "ട്രാഫിക് അപകടം റിപ്പോർട്ട് ചെയ്യുക"
       },
       {
         "id": "rta-moto-207-c",
-        "answer_text": "Pay fine payments"
+        "answer_text": "പിഴ അടയ്ക്കൽ"
       }
     ]
   },
   {
     "id": "rta-moto-208",
-    "question_text": "If you are planning to travel abroad, secure your home in Dubai for free by using  this feature of Dubai Police app;",
+    "question_text": "നിങ്ങൾ വിദേശത്ത് യാത്ര ചെയ്യാൻ ആഗ്രഹിക്കുന്നുവെങ്കിൽ, ദുബായ് പോലീസ് ആപ്പിന്റെ ഈ ഫീച്ചർ ഉപയോഗിച്ച് ദുബായിൽ നിങ്ങളുടെ വീട് സൗജന്യമായി സുരക്ഷിതമാക്കുക;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-208-a",
-        "answer_text": "Sail safely"
+        "answer_text": "സുരക്ഷിതമായി സഞ്ചരിക്കൂ"
       },
       {
         "id": "rta-moto-208-b",
-        "answer_text": "Home Security"
+        "answer_text": "ഹോം സെക്യൂരിറ്റി"
       },
       {
         "id": "rta-moto-208-c",
-        "answer_text": "e-crime"
+        "answer_text": "ഇ-ക്രൈം"
       }
     ]
   },
   {
     "id": "rta-moto-209",
-    "question_text": "Under the Community Services category of the Dubai Police App, you may find;",
+    "question_text": "ദുബായ് പോലീസ് ആപ്പിന്റെ കമ്മ്യൂണിറ്റി സർവീസസ് വിഭാഗത്തിൽ, നിങ്ങൾക്ക് _______ കണ്ടെത്താം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-209-a",
-        "answer_text": "Leaders at your service"
+        "answer_text": "നിങ്ങളുടെ സേവനത്തിൽ നേതാക്കൾ"
       },
       {
         "id": "rta-moto-209-b",
-        "answer_text": "Fine payment"
+        "answer_text": "പിഴ അടയ്ക്കൽ"
       },
       {
         "id": "rta-moto-209-c",
-        "answer_text": "We Are All Police"
+        "answer_text": "നാം എല്ലാവരും പോലീസ് ആണ്"
       }
     ]
   },
   {
     "id": "rta-moto-210",
-    "question_text": "You want to report a traffic violation. Which feature of Dubai Police App allows you to do this?",
+    "question_text": "നിങ്ങൾ ഒരു ട്രാഫിക് ലംഘനം റിപ്പോർട്ട് ചെയ്യാൻ ആഗ്രഹിക്കുന്നു. ദുബായ് പോലീസ് ആപ്പിന്റെ ഏത് ഫീച്ചർ നിങ്ങളെ ഇത് ചെയ്യാൻ അനുവദിക്കുന്നു?",
     "explanation": null,
     "answers": [
       {
@@ -13723,653 +13723,653 @@
       },
       {
         "id": "rta-moto-210-c",
-        "answer_text": "We Are All Police"
+        "answer_text": "നാം എല്ലാവരും പോലീസ് ആണ്"
       }
     ]
   },
   {
     "id": "rta-hvb-003",
-    "question_text": "It is an offence to drive a vehicle if you do not have:",
+    "question_text": "ഇനിപ്പറയുന്നത് ഇല്ലെങ്കിൽ വാഹനം ഓടിക്കുന്നത് കുറ്റകരമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-003-a",
-        "answer_text": "at least one years driving experience."
+        "answer_text": "കുറഞ്ഞത് ഒരു വർഷത്തെ ഡ്രൈവിംഗ് അനുഭവം."
       },
       {
         "id": "rta-hvb-003-b",
-        "answer_text": "a passenger in the vehicle with you at all times."
+        "answer_text": "എല്ലാ സമയത്തും നിങ്ങളോടൊപ്പം വാഹനത്തിൽ ഒരു യാത്രക്കാരൻ."
       },
       {
         "id": "rta-hvb-003-c",
-        "answer_text": "the right category of license for the vehicle being driven"
+        "answer_text": "ഓടിക്കുന്ന വാഹനത്തിന് ശരിയായ വിഭാഗത്തിലെ ലൈസൻസ്."
       }
     ]
   },
   {
     "id": "rta-hvb-030",
-    "question_text": "When turning right in your long vehicle you need to watch for drivers:",
+    "question_text": "നിങ്ങളുടെ നീളമുള്ള വാഹനത്തിൽ വലത്തേക്ക് തിരിയുമ്പോൾ ഏത് ഡ്രൈവർമാരെ ശ്രദ്ധിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-030-a",
-        "answer_text": "overtaking on the right."
+        "answer_text": "വലതു വശത്ത് നിന്ന് ഓവർടേക്ക് ചെയ്യുന്നവർ."
       },
       {
         "id": "rta-hvb-030-b",
-        "answer_text": "overtaking on the left."
+        "answer_text": "ഇടത് വശത്ത് നിന്ന് ഓവർടേക്ക് ചെയ്യുന്നവർ."
       },
       {
         "id": "rta-hvb-030-c",
-        "answer_text": "coming from the opposite direction."
+        "answer_text": "എതിർ ദിശയിൽ നിന്ന് വരുന്നവർ."
       }
     ]
   },
   {
     "id": "rta-hvb-036",
-    "question_text": "The speed you are travelling affects your stopping distance. This means:",
+    "question_text": "നിങ്ങൾ യാത്ര ചെയ്യുന്ന വേഗത നിങ്ങളുടെ നിർത്തുന്ന ദൂരത്തെ ബാധിക്കുന്നു. ഇതിനർത്ഥം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-036-a",
-        "answer_text": "lower speed, longer stopping distance."
+        "answer_text": "കുറഞ്ഞ വേഗത, കൂടുതൽ നിർത്തുന്ന ദൂരം."
       },
       {
         "id": "rta-hvb-036-b",
-        "answer_text": "higher speed, longer stopping distance."
+        "answer_text": "കൂടുതൽ വേഗത, കൂടുതൽ നിർത്തുന്ന ദൂരം."
       },
       {
         "id": "rta-hvb-036-c",
-        "answer_text": "higher speed, faster stopping distance."
+        "answer_text": "കൂടുതൽ വേഗത, കുറഞ്ഞ നിർത്തുന്ന ദൂരം."
       }
     ]
   },
   {
     "id": "rta-hvb-037",
-    "question_text": "In an 80 km/h zone, a heavy vehicle may travel at:",
+    "question_text": "80 കിലോമീറ്റർ/മണിക്കൂർ സോണിൽ, ഒരു ഭാരമേറിയ വാഹനത്തിന് സഞ്ചരിക്കാം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-037-a",
-        "answer_text": "80 km/h if visibility is good."
+        "answer_text": "ദൃശ്യത നല്ലതാണെങ്കിൽ 80 കിലോമീറ്റർ/മണിക്കൂർ."
       },
       {
         "id": "rta-hvb-037-b",
-        "answer_text": "up to 80 km/h provided it is safe."
+        "answer_text": "സുരക്ഷിതമാണെങ്കിൽ 80 കിലോമീറ്റർ/മണിക്കൂർ വരെ."
       },
       {
         "id": "rta-hvb-037-c",
-        "answer_text": "80 km/h at all times."
+        "answer_text": "എല്ലായ്‌പ്പോഴും 80 കിലോമീറ്റർ/മണിക്കൂർ."
       }
     ]
   },
   {
     "id": "rta-hvb-045",
-    "question_text": "If your hydraulic brakes fail, the first thing you should do is:",
+    "question_text": "നിങ്ങളുടെ ഹൈഡ്രോലിക് ബ്രേക്കുകൾ പ്രവർത്തനരഹിതമാകുകയാണെങ്കിൽ, ആദ്യം ചെയ്യേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-045-a",
-        "answer_text": "apply the parking brake."
+        "answer_text": "പാർക്കിംഗ് ബ്രേക്ക് ഇടുക."
       },
       {
         "id": "rta-hvb-045-b",
-        "answer_text": "change down through the gears."
+        "answer_text": "ഗിയർ താഴ്ത്തുക."
       },
       {
         "id": "rta-hvb-045-c",
-        "answer_text": "warn other motorists by using your hazard lights."
+        "answer_text": "ഹാസ്സർഡ് ലൈറ്റ് ഉപയോഗിച്ച് മറ്റ് ഡ്രൈവർമാർക്ക് മുന്നറിയിപ്പ് നൽകുക."
       }
     ]
   },
   {
     "id": "rta-hvb-049",
-    "question_text": "If your hydraulic brake system loses pressure, it is most important to",
+    "question_text": "നിങ്ങളുടെ ഹൈഡ്രോലിക് ബ്രേക്ക് സിസ്റ്റം മർദ്ദം നഷ്ടപ്പെടുകയാണെങ്കിൽ, ഏറ്റവും പ്രധാനമായ കാര്യം",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-049-a",
-        "answer_text": "pump the brakes."
+        "answer_text": "ബ്രേക്ക് ആവർത്തിച്ച് ചവിട്ടുക."
       },
       {
         "id": "rta-hvb-049-b",
-        "answer_text": "select a higher gear."
+        "answer_text": "ഉയർന്ന ഗിയർ തിരഞ്ഞെടുക്കുക."
       },
       {
         "id": "rta-hvb-049-c",
-        "answer_text": "switch on your hazard lights."
+        "answer_text": "ഹാസ്സർഡ് ലൈറ്റ് ഓൺ ചെയ്യുക."
       }
     ]
   },
   {
     "id": "rta-hvb-050",
-    "question_text": "If your hydraulic brake system loses pressure, it is most important to:",
+    "question_text": "നിങ്ങളുടെ ഹൈഡ്രോലിക് ബ്രേക്ക് സിസ്റ്റം മർദ്ദം നഷ്ടപ്പെടുകയാണെങ്കിൽ, ഏറ്റവും പ്രധാനമായ കാര്യം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-050-a",
-        "answer_text": "find an escape route."
+        "answer_text": "ഒരു രക്ഷപ്പെടൽ മാർഗം കണ്ടെത്തുക."
       },
       {
         "id": "rta-hvb-050-b",
-        "answer_text": "press the clutch pedal."
+        "answer_text": "ക്ലച്ച് പെഡൽ ചവിട്ടുക."
       },
       {
         "id": "rta-hvb-050-c",
-        "answer_text": "keep away from the edge of the road."
+        "answer_text": "റോഡിന്റെ അരികിൽ നിന്ന് അകലം പാലിക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-055",
-    "question_text": "If your vehicle is involved in a crash with another vehicle, you are required by law to:",
+    "question_text": "നിങ്ങളുടെ വാഹനം മറ്റൊരു വാഹനവുമായി അപകടത്തിൽ ഉൾപ്പെട്ടാൽ, നിയമപ്രകാരം നിങ്ങൾ ചെയ്യേണ്ടത്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-055-a",
-        "answer_text": "sweep any debris, such as broken glass, off the roadway."
+        "answer_text": "പൊട്ടിയ ഗ്ലാസ് പോലുള്ള അവശിഷ്ടങ്ങൾ റോഡിൽ നിന്ന് വൃത്തിയാക്കണം."
       },
       {
         "id": "rta-hvb-055-b",
-        "answer_text": "exchange all required details."
+        "answer_text": "ആവശ്യമായ എല്ലാ വിവരങ്ങളും കൈമാറണം."
       },
       {
         "id": "rta-hvb-055-c",
-        "answer_text": "inform the police."
+        "answer_text": "പോലീസിനെ അറിയിക്കണം."
       }
     ]
   },
   {
     "id": "rta-hvb-059",
-    "question_text": "It is most important that loads are properly secured to prevent:",
+    "question_text": "ഇനിപ്പറയുന്നവ തടയാൻ ലോഡ് ശരിയായി ബന്ധിക്കുന്നത് ഏറ്റവും പ്രധാനപ്പെട്ടതാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-059-a",
-        "answer_text": "a danger to other road users."
+        "answer_text": "മറ്റ് റോഡ് ഉപയോക്താക്കൾക്ക് അപകടം."
       },
       {
         "id": "rta-hvb-059-b",
-        "answer_text": "goods being stolen from the vehicle."
+        "answer_text": "വാഹനത്തിൽ നിന്ന് സാധനങ്ങൾ മോഷ്ടിക്കപ്പെടുന്നത്."
       },
       {
         "id": "rta-hvb-059-c",
-        "answer_text": "overloading and poor performance."
+        "answer_text": "അമിത ഭാരം ചുമക്കലും മോശം പ്രകടനവും."
       }
     ]
   },
   {
     "id": "rta-hvb-067",
-    "question_text": "When hooking up a prime mover and semi-trailer, it is important to line up:",
+    "question_text": "ഒരു പ്രൈം മൂവറും സെമി-ട്രെയിലറും ബന്ധിപ്പിക്കുമ്പോൾ, ഇനിപ്പറയുന്നവ വരിയിലാക്കേണ്ടത് പ്രധാനമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-067-a",
-        "answer_text": "the wheels and the turntable."
+        "answer_text": "ചക്രങ്ങളും ടേൺടേബിളും."
       },
       {
         "id": "rta-hvb-067-b",
-        "answer_text": "the king-pin and the turntable."
+        "answer_text": "കിംഗ്-പിന്നും ടേൺടേബിളും."
       },
       {
         "id": "rta-hvb-067-c",
-        "answer_text": "the mirrors and the king-pin."
+        "answer_text": "കണ്ണാടികളും കിംഗ്-പിന്നും."
       }
     ]
   },
   {
     "id": "rta-hvb-075",
-    "question_text": "Before pulling in to a bus stop you should:",
+    "question_text": "ബസ് സ്റ്റോപ്പിലേക്ക് കയറുന്നതിന് മുമ്പ് നിങ്ങൾ:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-075-a",
-        "answer_text": "slow down as quickly as possible."
+        "answer_text": "കഴിയുന്നത്ര വേഗം കുറയ്ക്കുക."
       },
       {
         "id": "rta-hvb-075-b",
-        "answer_text": "indicate correctly and slow down."
+        "answer_text": "ശരിയായി സൂചന നൽകുകയും വേഗം കുറയ്ക്കുകയും ചെയ്യുക."
       },
       {
         "id": "rta-hvb-075-c",
-        "answer_text": "begin to open the passenger doors before stopping."
+        "answer_text": "നിർത്തുന്നതിന് മുമ്പ് യാത്രക്കാരുടെ വാതിലുകൾ തുറക്കാൻ ആരംഭിക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-079",
-    "question_text": "You should check whether the parking brake is working by:",
+    "question_text": "പാർക്കിംഗ് ബ്രേക്ക് പ്രവർത്തിക്കുന്നുണ്ടോ എന്ന് പരിശോധിക്കണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-079-a",
-        "answer_text": "checking to see whether a warning light is on."
+        "answer_text": "ഒരു മുന്നറിയിപ്പ് ലൈറ്റ് ജ്വലിക്കുന്നുണ്ടോ എന്ന് പരിശോധിച്ചുകൊണ്ട്."
       },
       {
         "id": "rta-hvb-079-b",
-        "answer_text": "trying to drive forward in low gear while the parking brake is on."
+        "answer_text": "പാർക്കിംഗ് ബ്രേക്ക് ഇട്ടിരിക്കുമ്പോൾ താഴ്ന്ന ഗിയറിൽ മുന്നോട്ട് ഓടിക്കാൻ ശ്രമിച്ചുകൊണ്ട്."
       },
       {
         "id": "rta-hvb-079-c",
-        "answer_text": "looking to see whether the brake is on."
+        "answer_text": "ബ്രേക്ക് ഇട്ടിരിക്കുന്നുണ്ടോ എന്ന് നോക്കിക്കൊണ്ട്."
       }
     ]
   },
   {
     "id": "rta-hvb-083",
-    "question_text": "Why is it important to know the height of your load?",
+    "question_text": "നിങ്ങളുടെ ചരക്കിന്റെ ഉയരം അറിയേണ്ടത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-083-a",
-        "answer_text": "To avoid passing through low bridges."
+        "answer_text": "താഴ്ന്ന പാലങ്ങൾ കടക്കുന്നത് ഒഴിവാക്കാൻ."
       },
       {
         "id": "rta-hvb-083-b",
-        "answer_text": "To avoid passing through congested areas."
+        "answer_text": "തിരക്കേറിയ പ്രദേശങ്ങൾ കടക്കുന്നത് ഒഴിവാക്കാൻ."
       },
       {
         "id": "rta-hvb-083-c",
-        "answer_text": "To avoid passing through narrow roads."
+        "answer_text": "ഇടുങ്ങിയ റോഡുകൾ കടക്കുന്നത് ഒഴിവാക്കാൻ."
       }
     ]
   },
   {
     "id": "rta-hvb-085",
-    "question_text": "It is important to check the space between dual wheels because:",
+    "question_text": "ഇരട്ട ടയറുകൾക്കിടയിലെ ഇടം പരിശോധിക്കുന്നത് പ്രധാനമാണ്, കാരണം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-085-a",
-        "answer_text": "space maybe too tight and damage the tires."
+        "answer_text": "ഇടം വളരെ ഇടുങ്ങിയതായിരിക്കാം, ടയറുകൾക്ക് കേടുണ്ടാക്കിയേക്കാം."
       },
       {
         "id": "rta-hvb-085-b",
-        "answer_text": "space may have rocks that can damage the tires."
+        "answer_text": "ഇടത്തിൽ കല്ലുകൾ ഉണ്ടാകാം, അവ ടയറുകൾക്ക് കേടുണ്ടാക്കിയേക്കാം."
       },
       {
         "id": "rta-hvb-085-c",
-        "answer_text": "space maybe too far and make the tires loose."
+        "answer_text": "ഇടം വളരെ കൂടുതലായിരിക്കാം, ടയറുകൾ അയഞ്ഞുപോകിയേക്കാം."
       }
     ]
   },
   {
     "id": "rta-hvb-090",
-    "question_text": "When lashing, it is important that the lashing must not:",
+    "question_text": "കെട്ടുമ്പോൾ, ബന്ധനം ഇങ്ങനെ ആകരുതെന്ന് ശ്രദ്ധിക്കേണ്ടത് പ്രധാനമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-090-a",
-        "answer_text": "be in contact with tarpaulins and covers."
+        "answer_text": "ടാർപ്പോളിനുകളുമായും ആവരണങ്ങളുമായും സമ്പർക്കത്തിൽ ആകരുത്."
       },
       {
         "id": "rta-hvb-090-b",
-        "answer_text": "have very tight knots and tangles."
+        "answer_text": "വളരെ ശക്തമായ കെട്ടുകളും കുഴപ്പങ്ങളും ഉണ്ടാകരുത്."
       },
       {
         "id": "rta-hvb-090-c",
-        "answer_text": "be in contact with sharp edges of the load or vehicle."
+        "answer_text": "ചരക്കിന്റെ അല്ലെങ്കിൽ വാഹനത്തിന്റെ മൂർച്ചയുള്ള അരികുകളുമായി സമ്പർക്കത്തിൽ ആകരുത്."
       }
     ]
   },
   {
     "id": "rta-hvb-099",
-    "question_text": "When making a left turn with a heavy vehicle, it is important to:",
+    "question_text": "ഒരു ഭാരവാഹനം ഉപയോഗിച്ച് ഇടത്തോട്ട് തിരിയുമ്പോൾ, ഇത് ശ്രദ്ധിക്കുക:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-099-a",
-        "answer_text": "allow space for the cut-in of the front-end."
+        "answer_text": "മുൻഭാഗത്തിന്റെ കട്ട്-ഇന്നിന് ഇടം നൽകണം."
       },
       {
         "id": "rta-hvb-099-b",
-        "answer_text": "allow space for the cut-in of the rear-end."
+        "answer_text": "പിൻഭാഗത്തിന്റെ കട്ട്-ഇന്നിന് ഇടം നൽകണം."
       },
       {
         "id": "rta-hvb-099-c",
-        "answer_text": "allow space for the middle track."
+        "answer_text": "മധ്യ ട്രാക്കിന് ഇടം നൽകണം."
       }
     ]
   },
   {
     "id": "rta-hvb-103",
-    "question_text": "Why is important to drive with courtesy?",
+    "question_text": "മര്യാദയോടെ വാഹനം ഓടിക്കുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-103-a",
-        "answer_text": "The road is always busy with traffic."
+        "answer_text": "റോഡ് എപ്പോഴും ഗതാഗതത്തോടെ തിരക്കുള്ളതാണ്."
       },
       {
         "id": "rta-hvb-103-b",
-        "answer_text": "It is important especially when stopping."
+        "answer_text": "നിർത്തുമ്പോൾ ഇത് പ്രത്യേകിച്ച് പ്രധാനമാണ്."
       },
       {
         "id": "rta-hvb-103-c",
-        "answer_text": "The road is there for all road users."
+        "answer_text": "റോഡ് എല്ലാ റോഡ് ഉപയോക്താക്കൾക്കും ഉള്ളതാണ്."
       }
     ]
   },
   {
     "id": "rta-hvb-105",
-    "question_text": "One way to avoid being a victim of another driver's anger easily is:",
+    "question_text": "മറ്റൊരു ഡ്രൈവറുടെ കോപത്തിന്റെ ഇരയാകുന്നത് ഒഴിവാക്കാനുള്ള ഒരു എളുപ്പ മാർഗ്ഗം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-105-a",
-        "answer_text": "driving independently at all times."
+        "answer_text": "എല്ലായ്‌പ്പോഴും സ്വതന്ത്രമായി വാഹനം ഓടിക്കുക."
       },
       {
         "id": "rta-hvb-105-b",
-        "answer_text": "acknowledging when you made a mistake."
+        "answer_text": "നിങ്ങൾ തെറ്റ് ചെയ്‌തതായി അംഗീകരിക്കുക."
       },
       {
         "id": "rta-hvb-105-c",
-        "answer_text": "pointing out clearly when other drivers make mistakes."
+        "answer_text": "മറ്റ് ഡ്രൈവർമാർ തെറ്റ് ചെയ്യുമ്പോൾ അത് വ്യക്തമായി ചൂണ്ടിക്കാണിക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-107",
-    "question_text": "Why is it important for heavy vehicles to reduce speed before coming to a bend?",
+    "question_text": "ഭാരമുള്ള വാഹനങ്ങൾ ഒരു വളവിന് മുൻപ് വേഗത കുറയ്ക്കുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-107-a",
-        "answer_text": "Because heavy vehicles have higher center of gravity."
+        "answer_text": "കാരണം ഭാരമുള്ള വാഹനങ്ങളുടെ ഗുരുത്വ കേന്ദ്രം ഉയർന്നതാണ്."
       },
       {
         "id": "rta-hvb-107-b",
-        "answer_text": "Because heavy vehicles have lighter center of gravity."
+        "answer_text": "കാരണം ഭാരമുള്ള വാഹനങ്ങളുടെ ഗുരുത്വ കേന്ദ്രം ലഘുവാണ്."
       },
       {
         "id": "rta-hvb-107-c",
-        "answer_text": "Because heavy vehicles have lower center of gravity."
+        "answer_text": "കാരണം ഭാരമുള്ള വാഹനങ്ങളുടെ ഗുരുത്വ കേന്ദ്രം താഴ്ന്നതാണ്."
       }
     ]
   },
   {
     "id": "rta-hvb-110",
-    "question_text": "When braking and the vehicle skids, why is it important to stop braking?",
+    "question_text": "ബ്രേക്ക് ചെയ്യുമ്പോൾ വാഹനം സ്‌കിഡ് ചെയ്‌താൽ ബ്രേക്ക് ചെയ്യുന്നത് നിർത്തുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-110-a",
-        "answer_text": "This helps restore traction."
+        "answer_text": "ഇത് ട്രാക്ഷൻ പുനഃസ്ഥാപിക്കാൻ സഹായിക്കുന്നു."
       },
       {
         "id": "rta-hvb-110-b",
-        "answer_text": "This helps restore direction."
+        "answer_text": "ഇത് ദിശ പുനഃസ്ഥാപിക്കാൻ സഹായിക്കുന്നു."
       },
       {
         "id": "rta-hvb-110-c",
-        "answer_text": "This helps restore steering."
+        "answer_text": "ഇത് സ്റ്റിയറിംഗ് പുനഃസ്ഥാപിക്കാൻ സഹായിക്കുന്നു."
       }
     ]
   },
   {
     "id": "rta-hvb-111",
-    "question_text": "When performing emergency steering, it is important to:",
+    "question_text": "അടിയന്തര സ്റ്റിയറിംഗ് ചെയ്യുമ്പോൾ ഇത് പ്രധാനമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-111-a",
-        "answer_text": "maintain the same speed while turning."
+        "answer_text": "തിരിക്കുമ്പോൾ ഒരേ വേഗത നിലനിർത്തുക."
       },
       {
         "id": "rta-hvb-111-b",
-        "answer_text": "avoid turning steering with both hands."
+        "answer_text": "രണ്ട് കൈകൊണ്ടും സ്റ്റിയറിംഗ് തിരിക്കുന്നത് ഒഴിവാക്കുക."
       },
       {
         "id": "rta-hvb-111-c",
-        "answer_text": "avoid braking while turning the steering."
+        "answer_text": "സ്റ്റിയറിംഗ് തിരിക്കുമ്പോൾ ബ്രേക്ക് ചെയ്യുന്നത് ഒഴിവാക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-115",
-    "question_text": "In case you are involved in a crash, what should be the first thing to do?",
+    "question_text": "ഒരു അപകടത്തിൽ പെട്ടാൽ, ആദ്യം ചെയ്യേണ്ടത് എന്താണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-115-a",
-        "answer_text": "Prevent another crash from happening at the same spot."
+        "answer_text": "അതേ സ്ഥലത്ത് മറ്റൊരു അപകടം ഉണ്ടാകുന്നത് തടയുക."
       },
       {
         "id": "rta-hvb-115-b",
-        "answer_text": "Prevent other drivers from seeing you."
+        "answer_text": "മറ്റ് ഡ്രൈവർമാർ നിങ്ങളെ കാണുന്നത് തടയുക."
       },
       {
         "id": "rta-hvb-115-c",
-        "answer_text": "Ensure you have your license with you at that time."
+        "answer_text": "ആ സമയത്ത് നിങ്ങളുടെ കൈവശം ലൈസൻസ് ഉണ്ടെന്ന് ഉറപ്പാക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-116",
-    "question_text": "When putting out the fire, it is important to aim the extinguisher:",
+    "question_text": "തീ അണയ്ക്കുമ്പോൾ, അഗ്നിശമന ഉപകരണം ലക്ഷ്യം വെക്കേണ്ടത് പ്രധാനമാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-116-a",
-        "answer_text": "directly at the engine of the vehicle."
+        "answer_text": "നേരിട്ട് വാഹനത്തിന്റെ എഞ്ചിനിൽ."
       },
       {
         "id": "rta-hvb-116-b",
-        "answer_text": "directly at the top of the flames."
+        "answer_text": "നേരിട്ട് ജ്വാലകളുടെ മുകളിൽ."
       },
       {
         "id": "rta-hvb-116-c",
-        "answer_text": "directly at the base of the fire."
+        "answer_text": "നേരിട്ട് തീയുടെ അടിഭാഗത്ത്."
       }
     ]
   },
   {
     "id": "rta-hvb-118",
-    "question_text": "In a crash where there are injuries, why is it important to give your exact location?",
+    "question_text": "പരിക്കേറ്റവരുള്ള ഒരു അപകടത്തിൽ, നിങ്ങളുടെ കൃത്യമായ സ്ഥാനം അറിയിക്കുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-118-a",
-        "answer_text": "so emergency response can arrive without delay."
+        "answer_text": "അടിയന്തിര സഹായം കാലതാമസം കൂടാതെ എത്തിച്ചേരാൻ."
       },
       {
         "id": "rta-hvb-118-b",
-        "answer_text": "so emergency response can be arranged."
+        "answer_text": "അടിയന്തിര സഹായം ക്രമീകരിക്കാൻ."
       },
       {
         "id": "rta-hvb-118-c",
-        "answer_text": "so emergency actions can be decided fast."
+        "answer_text": "അടിയന്തിര നടപടികൾ വേഗത്തിൽ തീരുമാനിക്കാൻ."
       }
     ]
   },
   {
     "id": "rta-hvb-119",
-    "question_text": "If you are involved in a crash, you will be committing an offense if:",
+    "question_text": "ഒരു അപകടത്തിൽ പെട്ടാൽ, ഇനി പറയുന്നത് ചെയ്താൽ നിങ്ങൾ കുറ്റം ചെയ്യുന്നതാകും:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-119-a",
-        "answer_text": "you do not clean the area immediately."
+        "answer_text": "ഉടനടി സ്ഥലം വൃത്തിയാക്കുന്നില്ലെങ്കിൽ."
       },
       {
         "id": "rta-hvb-119-b",
-        "answer_text": "you call the police immediately."
+        "answer_text": "ഉടനടി പോലീസിനെ വിളിക്കുന്നു."
       },
       {
         "id": "rta-hvb-119-c",
-        "answer_text": "you do not stop your vehicle."
+        "answer_text": "നിങ്ങളുടെ വാഹനം നിർത്തുന്നില്ലെങ്കിൽ."
       }
     ]
   },
   {
     "id": "rta-hvb-127",
-    "question_text": "When driving a heavy vehicle, one way to prevent tiredness is to;",
+    "question_text": "ഭാരമേറിയ വാഹനം ഓടിക്കുമ്പോൾ, ക്ഷീണം തടയാനുള്ള ഒരു മാർഗ്ഗം:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-127-a",
-        "answer_text": "Take short breaks"
+        "answer_text": "ഹ്രസ്വ ഇടവേളകൾ എടുക്കുക."
       },
       {
         "id": "rta-hvb-127-b",
-        "answer_text": "Keep looking at scenery"
+        "answer_text": "കാഴ്ചകൾ നോക്കിക്കൊണ്ടിരിക്കുക."
       },
       {
         "id": "rta-hvb-127-c",
-        "answer_text": "Chat with some friends"
+        "answer_text": "സുഹൃത്തുക്കളുമായി സംസാരിക്കുക."
       }
     ]
   },
   {
     "id": "rta-hvb-129",
-    "question_text": "Touching your toes or knee-bends are just some of the physical exercises you can do while;",
+    "question_text": "കാൽവിരലുകൾ സ്പർശിക്കൽ അല്ലെങ്കിൽ മുട്ടുകൾ വളയ്ക്കൽ - ഇവ ചെയ്യാൻ കഴിയുന്ന ചില ശാരീരിക വ്യായാമങ്ങളാണ്:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-129-a",
-        "answer_text": "Taking a break from driving"
+        "answer_text": "ഡ്രൈവിംഗിൽ നിന്ന് ഇടവേള എടുക്കുമ്പോൾ."
       },
       {
         "id": "rta-hvb-129-b",
-        "answer_text": "Driving during the night"
+        "answer_text": "രാത്രിയിൽ ഓടിക്കുമ്പോൾ."
       },
       {
         "id": "rta-hvb-129-c",
-        "answer_text": "Stopping to take breaks"
+        "answer_text": "ഇടവേള്‍ക്കായി നിർത്തുമ്പോൾ."
       }
     ]
   },
   {
     "id": "rta-hvb-134",
-    "question_text": "Why is it important to be comfortable on the drivers seat especially on long drives?",
+    "question_text": "പ്രത്യേകിച്ച് ദീർഘദൂര യാത്രകളിൽ ഡ്രൈവറുടെ സീറ്റിൽ ആരാമദായകമായിരിക്കുന്നത് എന്തുകൊണ്ട് പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-134-a",
-        "answer_text": "In order not to get tired easily"
+        "answer_text": "എളുപ്പം ക്ഷീണിക്കാതിരിക്കാൻ"
       },
       {
         "id": "rta-hvb-134-b",
-        "answer_text": "So as to stay on schedule"
+        "answer_text": "സമയത്ത് എത്തിച്ചേരാൻ"
       },
       {
         "id": "rta-hvb-134-c",
-        "answer_text": "In order to drive for more than 10 hours straight"
+        "answer_text": "തുടർച്ചയായി 10 മണിക്കൂറിൽ കൂടുതൽ ഓടിക്കാൻ"
       }
     ]
   },
   {
     "id": "rta-hvb-135",
-    "question_text": "Sit with back and shoulders against the back rest and feet comfortably reaching the pedals in order to;",
+    "question_text": "പിൻഭാഗം ബാക്ക്‌റെസ്റ്റിനോട് ചേർത്ത് ഇരുന്ന്, പാദങ്ങൾ ആരാമദായകമായി പെഡലുകളിലെത്തുന്ന വിധത്തിൽ ഇരിക്കുക, അതിനുവേണ്ടി;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-135-a",
-        "answer_text": "Adjust the seat closest to the steering"
+        "answer_text": "സ്റ്റിയറിംഗിനോട് ഏറ്റവും അടുത്ത് സീറ്റ് ക്രമീകരിക്കുക"
       },
       {
         "id": "rta-hvb-135-b",
-        "answer_text": "Reach the destitution soonest"
+        "answer_text": "കഴിയുന്നതും വേഗത്തിൽ ലക്ഷ്യസ്ഥാനം കൊണ്ടത്തുക"
       },
       {
         "id": "rta-hvb-135-c",
-        "answer_text": "Stay comfortable especially while driving for longer hours"
+        "answer_text": "പ്രത്യേകിച്ച് ദീർഘ മണിക്കൂറുകൾ ഓടിക്കുമ്പോൾ ആരാമദായകമായിരിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-136",
-    "question_text": "ക്യാബിനിൽ ശുദ്ധവായു തുടർച്ചയായി വിതരണം ചെയ്യുന്നതിനായി വിൻഡോകൾ തുറക്കുന്നത് പ്രധാനമാണ്;",
+    "question_text": "കാബിനിൽ നിരന്തരം ശുദ്ധവായു ലഭിക്കുന്നതിനായി ജനലുകൾ തുറന്നിടുന്നത് ഇതിന് ആവശ്യമാണ്;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-136-a",
-        "answer_text": "രാവിലെയാണ് ഡ്രൈവിംഗ്"
+        "answer_text": "പ്രഭാതകാലത്ത് ഓടിക്കുന്നത്"
       },
       {
         "id": "rta-hvb-136-b",
-        "answer_text": "ജാഗ്രത നിലനിർത്തുകയും ക്ഷീണം തടയുകയും ചെയ്യുന്നു"
+        "answer_text": "ജാഗ്രത നിലനിർത്തുകയും ക്ഷീണം തടയുകയും ചെയ്യുക"
       },
       {
         "id": "rta-hvb-136-c",
-        "answer_text": "ചുറ്റുപാടും സുരക്ഷിതമായ ഇടം ഉറപ്പാക്കുന്നു"
+        "answer_text": "ചുറ്റും സുരക്ഷിതമായ ഇടം ഉറപ്പുവരുത്തുക"
       }
     ]
   },
   {
     "id": "rta-hvb-139",
-    "question_text": "ദീർഘദൂര യാത്രയിലായിരിക്കുമ്പോൾ ജാഗ്രത പാലിക്കാൻ നിങ്ങൾക്ക് എന്തെല്ലാം ഘട്ടങ്ങൾ ചെയ്യാനാകും?",
+    "question_text": "ദീർഘദൂര യാത്രയിൽ ജാഗ്രതയോടെ ഇരിക്കാൻ നിങ്ങൾക്ക് എന്ത് ചെയ്യാൻ കഴിയും?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-139-a",
-        "answer_text": "ധാരാളം ഉറങ്ങുക, ഇടവേളകൾ എടുക്കുക, ഭക്ഷണം കാണുക"
+        "answer_text": "ആവശ്യത്തിന് ഉറക്കം, ഇടവേളകൾ, ഭക്ഷണത്തിൽ ശ്രദ്ധ"
       },
       {
         "id": "rta-hvb-139-b",
-        "answer_text": "മദ്യം ഒഴിവാക്കുക, റോഡിൽ ശ്രദ്ധിച്ച് തുടർച്ചയായി വാഹനമോടിക്കുക"
+        "answer_text": "മദ്യം ഒഴിവാക്കുക, ശ്രദ്ധ റോഡിൽ നിലനിർത്തുക, തുടർച്ചയായി ഓടിക്കുക"
       },
       {
         "id": "rta-hvb-139-c",
-        "answer_text": "സുഖമായിരിക്കുക, തണുത്തതായിരിക്കുക, ഫ്രൈയോ പാസ്തയോ കഴിക്കുക"
+        "answer_text": "ആരാമദായകമായിരിക്കുക, തണുത്തിരിക്കുക, ഫ്രൈ അല്ലെങ്കിൽ പാസ്തа കഴിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-149",
-    "question_text": "നിങ്ങളുടെ യാത്രയ്ക്ക് മുമ്പുള്ള പരിശോധന നടത്തുമ്പോൾ ഒരു പ്രധാന പരിഗണന;",
+    "question_text": "യാത്രാ മുൻ പരിശോധന നടത്തുമ്പോൾ ഒരു പ്രധാന കാര്യം;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-149-a",
-        "answer_text": "സുരക്ഷ ലോഡ് ചെയ്യുക"
+        "answer_text": "ചരക്ക് സുരക്ഷ"
       },
       {
         "id": "rta-hvb-149-b",
-        "answer_text": "സുരക്ഷാ ഗേറ്റ് പാസ്"
+        "answer_text": "സെക്യൂരിറ്റി ഗേറ്റ് പാസ്"
       },
       {
         "id": "rta-hvb-149-c",
-        "answer_text": "ലോഡ് നിയമവിരുദ്ധമല്ല"
+        "answer_text": "ചരക്ക് നിയമവിരുദ്ധമല്ല"
       }
     ]
   },
   {
     "id": "rta-hvb-158",
-    "question_text": "ബെൽറ്റുകളും പുള്ളികളും പരിശോധിക്കുമ്പോൾ, ഏത് പ്രധാന വിവരങ്ങളാണ് നിങ്ങൾ ശ്രദ്ധിക്കേണ്ടത്?",
+    "question_text": "ബെൽറ്റുകളും പുള്ളികളും പരിശോധിക്കുമ്പോൾ ഏത് പ്രധാന വിവരം ശ്രദ്ധിക്കണം?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-158-a",
-        "answer_text": "അവ ദൃഢമായി കറങ്ങുന്നുവെന്ന് ഉറപ്പാക്കുക"
+        "answer_text": "അവ ഭദ്രമായി കറങ്ങുന്നുണ്ടെന്ന് ഉറപ്പുവരുത്തുക"
       },
       {
         "id": "rta-hvb-158-b",
-        "answer_text": "അവ കേടുകൂടാതെയാണെന്നും പൊട്ടുന്നില്ലെന്നും ഉറപ്പാക്കുക"
+        "answer_text": "അവ കേടില്ലാത്തവയും വിള്ളലില്ലാത്തവയുമാണെന്ന് ഉറപ്പുവരുത്തുക"
       },
       {
         "id": "rta-hvb-158-c",
-        "answer_text": "ചോർച്ചയൊന്നും നിരീക്ഷിക്കാൻ കഴിയില്ലെന്ന് ഉറപ്പാക്കുക"
+        "answer_text": "ചോർച്ചകൾ ഒന്നും കാണാനില്ലെന്ന് ഉറപ്പുവരുത്തുക"
       }
     ]
   },
   {
     "id": "rta-hvb-162",
-    "question_text": "പ്രാഥമിക നിയന്ത്രണങ്ങളിൽ ഒന്ന് (സ്റ്റിയറിങ് സിസ്റ്റം) പരിശോധിക്കുമ്പോൾ, ഏത് വിവരമാണ് പ്രധാനം?",
+    "question_text": "ഒരു പ്രാഥമിക നിയന്ത്രണം (സ്റ്റിയറിങ് സിസ്റ്റം) പരിശോധിക്കുമ്പോൾ, ഏത് വിവരം പ്രധാനമാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-162-a",
-        "answer_text": "എന്തെങ്കിലും മന്ദതയുണ്ടോയെന്ന് സ്റ്റിയറിംഗ് വീൽ പരിശോധിക്കുക"
+        "answer_text": "സ്റ്റിയറിങ് വീലിലെ ഏതെങ്കിലും ഉദ്ഗ്രഥനമില്ലായ്മ പരിശോധിക്കുക"
       },
       {
         "id": "rta-hvb-162-b",
-        "answer_text": "ഉയരത്തിനായി സ്റ്റിയറിംഗ് വീൽ പരിശോധിക്കുക"
+        "answer_text": "സ്റ്റിയറിങ് വീലിന്റെ ഉയരം പരിശോധിക്കുക"
       },
       {
         "id": "rta-hvb-162-c",
-        "answer_text": "ലൂബ്രിക്കേഷനായി സ്റ്റിയറിംഗ് വീൽ പരിശോധിക്കുക"
+        "answer_text": "സ്റ്റിയറിങ് വീലിന്റെ ലൂബ്രിക്കേഷൻ പരിശോധിക്കുക"
       }
     ]
   },
@@ -14380,21 +14380,21 @@
     "answers": [
       {
         "id": "rta-hvb-181-a",
-        "answer_text": "മുന്നിലും പിന്നിലും, ചക്രങ്ങളുടെ ഇരുവശവും"
+        "answer_text": "ചക്രങ്ങളുടെ മുൻഭാഗത്തും പിൻഭാഗത്തും, ഇരുവശങ്ങളിലും"
       },
       {
         "id": "rta-hvb-181-b",
-        "answer_text": "പിൻവശം, ചക്രങ്ങളുടെ ഇരുവശവും"
+        "answer_text": "ചക്രങ്ങളുടെ പിൻഭാഗത്ത്, ഇരുവശങ്ങളിലും"
       },
       {
         "id": "rta-hvb-181-c",
-        "answer_text": "മുന്നിലും പിന്നിലും, ചക്രങ്ങളുടെ വലതുവശം"
+        "answer_text": "ചക്രങ്ങളുടെ മുൻഭാഗത്തും പിൻഭാഗത്തും, വലതുഭാഗത്ത്"
       }
     ]
   },
   {
     "id": "rta-hvb-194",
-    "question_text": "അൺകൂപ്പ് ചെയ്യുമ്പോൾ ഉപരിതല ട്രെയിലറിനെ പിന്തുണയ്ക്കുമെന്ന് നിങ്ങൾക്ക് ഉറപ്പില്ല, അത് മികച്ചതാണ്;",
+    "question_text": "ട്രെയ്‌ലർ വേർപ്പെടുത്തുമ്പോൾ പ്രതലം ട്രെയ്‌ലറിനെ താങ്ങുമോ എന്ന് ഉറപ്പില്ലാത്തപ്പോൾ, ഏറ്റവും നല്ലത്;",
     "explanation": null,
     "answers": [
       {
@@ -14403,49 +14403,49 @@
       },
       {
         "id": "rta-hvb-194-b",
-        "answer_text": "പാർക്കിംഗ് ബ്രേക്കുകൾ ഉപയോഗിക്കുക, അത് ശരിയാകും"
+        "answer_text": "പാർക്കിംഗ് ബ്രേക്ക് ഉപയോഗിക്കുക, അത് ശരിയാകും"
       },
       {
         "id": "rta-hvb-194-c",
-        "answer_text": "ലാൻഡിംഗ് ഗിയറുകളുടെ അടിത്തറയെ പിന്തുണയ്ക്കാൻ അടിസ്ഥാന ബോർഡുകൾ ഉപയോഗിക്കുക"
+        "answer_text": "ലാൻഡിംഗ് ഗിയറിന്റെ അടിഭാഗം താങ്ങാൻ ബേസ് ബോർഡുകൾ ഉപയോഗിക്കുക"
       }
     ]
   },
   {
     "id": "rta-hvb-220",
-    "question_text": "വാഹനമോടിക്കുമ്പോൾ നിങ്ങൾക്ക് സുഖമില്ലെങ്കിൽ, എന്താണ് സംഭവിക്കാനുള്ള സാധ്യത?",
+    "question_text": "വാഹനം ഓടിക്കുമ്പോൾ നിങ്ങൾക്ക് സുഖം തോന്നുന്നില്ലെങ്കിൽ, ഏറ്റവും സാധ്യതയുള്ളത് എന്ത്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-220-a",
-        "answer_text": "കൂടുതൽ വേഗത്തിൽ ക്ഷീണിക്കുക"
+        "answer_text": "കൂടുതൽ വേഗം ക്ഷീണിക്കും"
       },
       {
         "id": "rta-hvb-220-b",
-        "answer_text": "കൂടുതൽ സമയം റോഡിലേക്ക് നോക്കുക"
+        "answer_text": "റോഡ് നോക്കുന്നതിൽ കൂടുതൽ സമയം ചെലവഴിക്കും"
       },
       {
         "id": "rta-hvb-220-c",
-        "answer_text": "ഡ്രൈവിംഗിൽ നല്ല ശ്രദ്ധ നിലനിർത്തുക"
+        "answer_text": "ഡ്രൈവിങ്ങിൽ നല്ല ശ്രദ്ധ നിലനിർത്തും"
       }
     ]
   },
   {
     "id": "rta-hvb-221",
-    "question_text": "ബെൽറ്റുകളും പുള്ളികളും പരിശോധിക്കുമ്പോൾ, നിങ്ങൾ ശ്രദ്ധിക്കേണ്ട പ്രധാന വിവരങ്ങൾ ഏതാണ്?",
+    "question_text": "ബെൽറ്റുകളും പുള്ളികളും പരിശോധിക്കുമ്പോൾ, നിങ്ങൾ ശ്രദ്ധിക്കേണ്ട പ്രധാനപ്പെട്ട വിവരങ്ങൾ എന്തൊക്കെയാണ്?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-221-a",
-        "answer_text": "അവ ദൃഢമായി കറങ്ങുന്നുവെന്ന് ഉറപ്പാക്കുക"
+        "answer_text": "അവ ഉറച്ചു കറങ്ങുന്നുണ്ടെന്ന് ഉറപ്പാക്കുക"
       },
       {
         "id": "rta-hvb-221-b",
-        "answer_text": "അവ കേടുകൂടാതെയാണെന്നും പൊട്ടുന്നില്ലെന്നും ഉറപ്പാക്കുക"
+        "answer_text": "അവ അഖണ്ഡമാണെന്നും പൊട്ടലുകൾ ഇല്ലെന്നും ഉറപ്പാക്കുക"
       },
       {
         "id": "rta-hvb-221-c",
-        "answer_text": "ചോർച്ചയൊന്നും നിരീക്ഷിക്കാൻ കഴിയില്ലെന്ന് ഉറപ്പാക്കുക"
+        "answer_text": "ഒരു ചോർച്ചയും ദൃശ്യമാകുന്നില്ലെന്ന് ഉറപ്പാക്കുക"
       }
     ]
   }

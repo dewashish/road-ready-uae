@@ -4243,3094 +4243,3094 @@
   },
   {
     "id": "rta-lmv-485",
-    "question_text": "Eco-friendly driving habits help protect the environment. It can also;",
+    "question_text": "पर्यावरण के अनुकूल ड्राइविंग की आदतें पर्यावरण की रक्षा करने में मदद करती हैं। यह इसके अलावा भी;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-485-a",
-        "answer_text": "help save money on fuel"
+        "answer_text": "ईंधन पर पैसे बचाने में मदद करती है"
       },
       {
         "id": "rta-lmv-485-b",
-        "answer_text": "help save time and money"
+        "answer_text": "समय और पैसे बचाने में मदद करती है"
       },
       {
         "id": "rta-lmv-485-c",
-        "answer_text": "help save money and water"
+        "answer_text": "पैसे और पानी बचाने में मदद करती है"
       }
     ]
   },
   {
     "id": "rta-lmv-486",
-    "question_text": "One of the many ways to drive in an eco friendly manner is;",
+    "question_text": "पर्यावरण के अनुकूल तरीके से गाड़ी चलाने के कई तरीकों में से एक यह है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-486-a",
-        "answer_text": "maintaining shorter following distance with other vehicles"
+        "answer_text": "अन्य वाहनों के साथ कम दूरी बनाए रखना"
       },
       {
         "id": "rta-lmv-486-b",
-        "answer_text": "gradual acceleration and braking"
+        "answer_text": "धीरे-धीरे गति बढ़ाना और ब्रेक लगाना"
       },
       {
         "id": "rta-lmv-486-c",
-        "answer_text": "more aggressive acceleration and braking"
+        "answer_text": "तेज़ी से गति बढ़ाना और ब्रेक लगाना"
       }
     ]
   },
   {
     "id": "rta-lmv-487",
-    "question_text": "Driving at lower engine speeds means lower emissions. It is a good demonstration of;",
+    "question_text": "कम इंजन गति पर गाड़ी चलाने से उत्सर्जन कम होता है। यह किस बात का अच्छा प्रदर्शन है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-487-a",
-        "answer_text": "eco-friendly driving habit and results to fuel economy"
+        "answer_text": "पर्यावरण के अनुकूल ड्राइविंग की आदत और ईंधन की बचत का परिणाम"
       },
       {
         "id": "rta-lmv-487-b",
-        "answer_text": "lower driving skills and results to delays"
+        "answer_text": "कमजोर ड्राइविंग कौशल और देरी का परिणाम"
       },
       {
         "id": "rta-lmv-487-c",
-        "answer_text": "trained driving skills resulting from experience"
+        "answer_text": "अनुभव से प्राप्त प्रशिक्षित ड्राइविंग कौशल"
       }
     ]
   },
   {
     "id": "rta-lmv-497",
-    "question_text": "The green car is indicating to turn left, what should be the correct behavior to stay safe?",
+    "question_text": "हरी कार बाईं ओर मुड़ने का संकेत दे रही है, सुरक्षित रहने के लिए सही व्यवहार क्या होना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-lmv-497-a",
-        "answer_text": "the car's position should be on the left lane"
+        "answer_text": "कार की स्थिति बाईं लेन में होनी चाहिए"
       },
       {
         "id": "rta-lmv-497-b",
-        "answer_text": "there is no problem with the car's position"
+        "answer_text": "कार की स्थिति में कोई समस्या नहीं है"
       },
       {
         "id": "rta-lmv-497-c",
-        "answer_text": "the car may still turn left if there are no other cars around"
+        "answer_text": "अगर आसपास कोई कार न हो तो कार फिर भी बाईं ओर मुड़ सकती है"
       }
     ]
   },
   {
     "id": "rta-fk-007",
-    "question_text": "A forklift is a vehicle similar to a small truck that has;",
+    "question_text": "फोर्कलिफ्ट एक छोटे ट्रक जैसा वाहन है जिसमें;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-007-a",
-        "answer_text": "Two metal forks on the front used to lift cargo"
+        "answer_text": "सामने दो धातु के कांटे होते हैं जो माल उठाने के लिए उपयोग किए जाते हैं"
       },
       {
         "id": "rta-fk-007-b",
-        "answer_text": "A metal bucket on the front used to lift cargo"
+        "answer_text": "सामने एक धातु की बाल्टी होती है जो माल उठाने के लिए उपयोग की जाती है"
       },
       {
         "id": "rta-fk-007-c",
-        "answer_text": "Two metal forks at the back used to lift cargo"
+        "answer_text": "पीछे दो धातु के कांटे होते हैं जो माल उठाने के लिए उपयोग किए जाते हैं"
       }
     ]
   },
   {
     "id": "rta-fk-008",
-    "question_text": "The metal forks of a forklift are also called;",
+    "question_text": "फोर्कलिफ्ट के धातु के कांटों को यह भी कहा जाता है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-008-a",
-        "answer_text": "Dredgers"
+        "answer_text": "ड्रेजर"
       },
       {
         "id": "rta-fk-008-b",
-        "answer_text": "Blades or Tines"
+        "answer_text": "ब्लेड या टाइन"
       },
       {
         "id": "rta-fk-008-c",
-        "answer_text": "Stackers"
+        "answer_text": "स्टैकर"
       }
     ]
   },
   {
     "id": "rta-fk-012",
-    "question_text": "If operating inside a warehouse, what type of forklift is most suitable to use?",
+    "question_text": "यदि गोदाम के अंदर काम कर रहे हैं, तो किस प्रकार की फोर्कलिफ्ट उपयोग करना सबसे उपयुक्त है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-012-a",
-        "answer_text": "Gas powered forklift"
+        "answer_text": "गैस चालित फोर्कलिफ्ट"
       },
       {
         "id": "rta-fk-012-b",
-        "answer_text": "Internal combustion forklift"
+        "answer_text": "आंतरिक दहन फोर्कलिफ्ट"
       },
       {
         "id": "rta-fk-012-c",
-        "answer_text": "Electric forklift"
+        "answer_text": "विद्युत फोर्कलिफ्ट"
       }
     ]
   },
   {
     "id": "rta-fk-015",
-    "question_text": "If you are handling batteries, wear protection for your;",
+    "question_text": "यदि आप बैटरियाँ संभाल रहे हैं, तो अपने इन हिस्सों की सुरक्षा करें;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-015-a",
-        "answer_text": "Eyes, face body, hand and feet"
+        "answer_text": "आँखें, चेहरा, शरीर, हाथ और पाँव"
       },
       {
         "id": "rta-fk-015-b",
-        "answer_text": "Clothes, shoes and gloves"
+        "answer_text": "कपड़े, जूते और दस्ताने"
       },
       {
         "id": "rta-fk-015-c",
-        "answer_text": "Eye glasses, face mask and boots"
+        "answer_text": "चश्मा, फेस मास्क और बूट"
       }
     ]
   },
   {
     "id": "rta-fk-016",
-    "question_text": "When recharging lead batteries, ensure there is no naked flame or sparks to;",
+    "question_text": "लेड बैटरियाँ रिचार्ज करते समय, कोई खुली आग या चिंगारी न हो ताकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-016-a",
-        "answer_text": "Avoid build up of hydrogen"
+        "answer_text": "हाइड्रोजन के निर्माण से बचा जा सके"
       },
       {
         "id": "rta-fk-016-b",
-        "answer_text": "Avoid possible explosion"
+        "answer_text": "संभावित विस्फोट से बचा जा सके"
       },
       {
         "id": "rta-fk-016-c",
-        "answer_text": "Avoid exposure to flame"
+        "answer_text": "आग की लपटों के संपर्क से बचा जा सके"
       }
     ]
   },
   {
     "id": "rta-fk-017",
-    "question_text": "Hydrogen level can build up when recharging lead batteries. This can be avoided by;",
+    "question_text": "लेड बैटरियाँ रिचार्ज करते समय हाइड्रोजन का स्तर बढ़ सकता है। इससे बचा जा सकता है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-017-a",
-        "answer_text": "Avoiding recharging during working hours"
+        "answer_text": "काम के घंटों के दौरान रिचार्जिंग से परहेज करके"
       },
       {
         "id": "rta-fk-017-b",
-        "answer_text": "Recharging at areas with good enclosure"
+        "answer_text": "बंद जगहों पर रिचार्जिंग करके"
       },
       {
         "id": "rta-fk-017-c",
-        "answer_text": "Recharging at areas with good ventilation"
+        "answer_text": "अच्छी हवादार जगहों पर रिचार्जिंग करके"
       }
     ]
   },
   {
     "id": "rta-fk-023",
-    "question_text": "This lever is used to make directional change. It is called;",
+    "question_text": "यह लीवर दिशा परिवर्तन के लिए उपयोग किया जाता है। इसे कहते हैं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-023-a",
-        "answer_text": "Forward-Reverse Lever"
+        "answer_text": "फॉरवर्ड-रिवर्स लीवर"
       },
       {
         "id": "rta-fk-023-b",
-        "answer_text": "Gear Shift Lever"
+        "answer_text": "गियर शिफ्ट लीवर"
       },
       {
         "id": "rta-fk-023-c",
-        "answer_text": "Lift Lever"
+        "answer_text": "लिफ्ट लीवर"
       }
     ]
   },
   {
     "id": "rta-fk-024",
-    "question_text": "This permits the selection of different gear ratios.",
+    "question_text": "यह विभिन्न गियर अनुपात चुनने की अनुमति देता है।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-024-a",
-        "answer_text": "Gear Shift Lever"
+        "answer_text": "गियर शिफ्ट लीवर"
       },
       {
         "id": "rta-fk-024-b",
-        "answer_text": "Tilt Lever"
+        "answer_text": "टिल्ट लीवर"
       },
       {
         "id": "rta-fk-024-c",
-        "answer_text": "Lift Lever"
+        "answer_text": "लिफ्ट लीवर"
       }
     ]
   },
   {
     "id": "rta-fk-025",
-    "question_text": "This is used to tilt the mast forward and backward.",
+    "question_text": "यह मास्ट को आगे और पीछे झुकाने के लिए उपयोग किया जाता है।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-025-a",
-        "answer_text": "Accelerator pedal"
+        "answer_text": "एक्सेलेरेटर पेडल"
       },
       {
         "id": "rta-fk-025-b",
-        "answer_text": "Lift Lever"
+        "answer_text": "लिफ्ट लीवर"
       },
       {
         "id": "rta-fk-025-c",
-        "answer_text": "Tilt Lever"
+        "answer_text": "टिल्ट लीवर"
       }
     ]
   },
   {
     "id": "rta-fk-027",
-    "question_text": "If you are operating an indoor forklift, this forklift will likely use;",
+    "question_text": "यदि आप इनडोर फोर्कलिफ्ट चला रहे हैं, तो इस फोर्कलिफ्ट में संभवतः उपयोग होते हैं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-027-a",
-        "answer_text": "Polyurethane tires"
+        "answer_text": "पॉलीयुरेथेन टायर"
       },
       {
         "id": "rta-fk-027-b",
-        "answer_text": "Solid rubber tires"
+        "answer_text": "ठोस रबर टायर"
       },
       {
         "id": "rta-fk-027-c",
-        "answer_text": "Pneumatic tires"
+        "answer_text": "न्यूमैटिक टायर"
       }
     ]
   },
   {
     "id": "rta-fk-028",
-    "question_text": "For greater maneuverability, forklifts will usually have;",
+    "question_text": "बेहतर चालाकी के लिए, फोर्कलिफ्ट में आमतौर पर होती है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-028-a",
-        "answer_text": "Front wheel steering"
+        "answer_text": "अगले पहिये की स्टीयरिंग"
       },
       {
         "id": "rta-fk-028-b",
-        "answer_text": "Rear wheel steering"
+        "answer_text": "पिछले पहिये की स्टीयरिंग"
       },
       {
         "id": "rta-fk-028-c",
-        "answer_text": "All wheel steering"
+        "answer_text": "सभी पहियों की स्टीयरिंग"
       }
     ]
   },
   {
     "id": "rta-fk-032",
-    "question_text": "A forklift attachment that is used for lifting and emptying heavy drums:",
+    "question_text": "एक फोर्कलिफ्ट अटैचमेंट जिसका उपयोग भारी ड्रम उठाने और खाली करने के लिए किया जाता है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-032-a",
-        "answer_text": "Long Spikes"
+        "answer_text": "लंबे स्पाइक्स"
       },
       {
         "id": "rta-fk-032-b",
-        "answer_text": "Drum Clamps"
+        "answer_text": "ड्रम क्लैम्प्स"
       },
       {
         "id": "rta-fk-032-c",
-        "answer_text": "Fixed Jib"
+        "answer_text": "फिक्स्ड जिब"
       }
     ]
   },
   {
     "id": "rta-fk-047",
-    "question_text": "When operating a forklift, the operator must know that the;",
+    "question_text": "फोर्कलिफ्ट चलाते समय, ऑपरेटर को यह जानना चाहिए कि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-047-a",
-        "answer_text": "Recommended limits of the forklift does not affect the safety"
+        "answer_text": "फोर्कलिफ्ट की अनुशंसित सीमाएं सुरक्षा को प्रभावित नहीं करतीं"
       },
       {
         "id": "rta-fk-047-b",
-        "answer_text": "Recommended limits of the forklift must not be exceeded"
+        "answer_text": "फोर्कलिफ्ट की अनुशंसित सीमाएं पार नहीं की जानी चाहिए"
       },
       {
         "id": "rta-fk-047-c",
-        "answer_text": "Recommended limits of the forklift can be  exceed a little"
+        "answer_text": "फोर्कलिफ्ट की अनुशंसित सीमाएं थोड़ी पार की जा सकती हैं"
       }
     ]
   },
   {
     "id": "rta-fk-050",
-    "question_text": "If work requires mounting and dismounting lift truck, it's best to wear;",
+    "question_text": "यदि काम में लिफ्ट ट्रक पर चढ़ना और उतरना शामिल हो, तो पहनना बेहतर है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-050-a",
-        "answer_text": "Fully laced boots with ankle support"
+        "answer_text": "टखने के सहारे वाले पूरी तरह बंधे बूट"
       },
       {
         "id": "rta-fk-050-b",
-        "answer_text": "Thick socks with your shoes"
+        "answer_text": "अपने जूतों के साथ मोटे मोजे"
       },
       {
         "id": "rta-fk-050-c",
-        "answer_text": "Spiked shoes for better traction"
+        "answer_text": "बेहतर पकड़ के लिए नुकीले जूते"
       }
     ]
   },
   {
     "id": "rta-fk-058",
-    "question_text": "The general condition and cleanliness of the equipment and workplace must be inspected;",
+    "question_text": "उपकरण और कार्यस्थल की सामान्य स्थिति और स्वच्छता का निरीक्षण करना चाहिए;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-058-a",
-        "answer_text": "After the scheduled shift"
+        "answer_text": "निर्धारित शिफ्ट के बाद"
       },
       {
         "id": "rta-fk-058-b",
-        "answer_text": "Before the scheduled shift"
+        "answer_text": "निर्धारित शिफ्ट से पहले"
       },
       {
         "id": "rta-fk-058-c",
-        "answer_text": "During the scheduled shift"
+        "answer_text": "निर्धारित शिफ्ट के दौरान"
       }
     ]
   },
   {
     "id": "rta-fk-063",
-    "question_text": "If you want to be sure there are no fluid leaks, what should you be looking for?",
+    "question_text": "यदि आप यह सुनिश्चित करना चाहते हैं कि कोई तरल रिसाव नहीं है, तो आपको क्या देखना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-063-a",
-        "answer_text": "No loose or rusty bolts"
+        "answer_text": "कोई ढीले या जंग लगे बोल्ट न हों"
       },
       {
         "id": "rta-fk-063-b",
-        "answer_text": "No damp spots or drips"
+        "answer_text": "कोई नमी के धब्बे या टपकाव न हों"
       },
       {
         "id": "rta-fk-063-c",
-        "answer_text": "No bent or loose pins"
+        "answer_text": "कोई मुड़े हुए या ढीले पिन न हों"
       }
     ]
   },
   {
     "id": "rta-fk-064",
-    "question_text": "If your forklift has pneumatic tires, you should be checking the;",
+    "question_text": "यदि आपके फोर्कलिफ्ट में न्यूमैटिक टायर हैं, तो आपको क्या जाँचना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-064-a",
-        "answer_text": "Wheels and tires for wear, damage and air pressure"
+        "answer_text": "पहिए और टायर घिसाव, क्षति और हवा के दबाव के लिए"
       },
       {
         "id": "rta-fk-064-b",
-        "answer_text": "Chain anchor pins are not worn, loose or bent"
+        "answer_text": "चेन एंकर पिन घिसे हुए, ढीले या मुड़े हुए न हों"
       },
       {
         "id": "rta-fk-064-c",
-        "answer_text": "Hoses are held securely; not loose, crimped, worn or rubbing"
+        "answer_text": "होज़ें सुरक्षित रूप से लगी हों; ढीली, मुड़ी हुई, घिसी हुई या रगड़ खाने वाली न हों"
       }
     ]
   },
   {
     "id": "rta-fk-069",
-    "question_text": "What action should you take if you detect a hydraulic oil leak?",
+    "question_text": "यदि आपको हाइड्रोलिक तेल का रिसाव पता चले तो आपको क्या कार्रवाई करनी चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-069-a",
-        "answer_text": "Place a warning tag on the forklift and report it to your supervisor"
+        "answer_text": "फोर्कलिफ्ट पर चेतावनी टैग लगाएं और अपने सुपरवाइज़र को रिपोर्ट करें"
       },
       {
         "id": "rta-fk-069-b",
-        "answer_text": "Find a clean cloth and wipe the leak clean"
+        "answer_text": "एक साफ कपड़ा लें और रिसाव को पोंछ दें"
       },
       {
         "id": "rta-fk-069-c",
-        "answer_text": "Immediately plug the leak with rubber band"
+        "answer_text": "तुरंत रबर बैंड से रिसाव को बंद करें"
       }
     ]
   },
   {
     "id": "rta-fk-076",
-    "question_text": "You are carrying load that is high and blocking your view. How should you travel?",
+    "question_text": "आप ऊंचा भार ले जा रहे हैं जो आपकी दृष्टि को अवरुद्ध कर रहा है। आपको कैसे यात्रा करनी चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-076-a",
-        "answer_text": "Travel in reverse looking at the direction of travel"
+        "answer_text": "यात्रा की दिशा की ओर देखते हुए उल्टा चलें"
       },
       {
         "id": "rta-fk-076-b",
-        "answer_text": "Travel in reverse looking at the mirrors for direction"
+        "answer_text": "दिशा के लिए दर्पण देखते हुए उल्टा चलें"
       },
       {
         "id": "rta-fk-076-c",
-        "answer_text": "Travel in reverse assisted by another person for direction"
+        "answer_text": "दिशा के लिए किसी अन्य व्यक्ति की सहायता से उल्टा चलें"
       }
     ]
   },
   {
     "id": "rta-fk-078",
-    "question_text": "Decrease speed at all corners, sound horn and watch the swing of both the rear of the lift truck and the load.",
+    "question_text": "सभी मोड़ों पर गति कम करें, हॉर्न बजाएं और लिफ्ट ट्रक के पिछले हिस्से और भार दोनों के घुमाव को देखें।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-078-a",
-        "answer_text": "Travel in reverse looking at the direction of travel"
+        "answer_text": "यात्रा की दिशा की ओर देखते हुए उल्टा चलें"
       },
       {
         "id": "rta-fk-078-b",
-        "answer_text": "Travel in reverse looking at the mirrors for direction"
+        "answer_text": "दिशा के लिए दर्पण देखते हुए उल्टा चलें"
       },
       {
         "id": "rta-fk-078-c",
-        "answer_text": "Travel in reverse assisted by another person for direction"
+        "answer_text": "दिशा के लिए किसी अन्य व्यक्ति की सहायता से उल्टा चलें"
       }
     ]
   },
   {
     "id": "rta-fk-079",
-    "question_text": "When moving a loaded forklift at speed, it is unsafe to;",
+    "question_text": "जब लदी हुई फोर्कलिफ्ट तेज गति से चल रही हो, तो यह असुरक्षित है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-079-a",
-        "answer_text": "Turn the lift truck steering sharply"
+        "answer_text": "लिफ्ट ट्रक की स्टीयरिंग को तेजी से मोड़ना"
       },
       {
         "id": "rta-fk-079-b",
-        "answer_text": "Carry the load by the front wheels"
+        "answer_text": "अगले पहियों से भार उठाना"
       },
       {
         "id": "rta-fk-079-c",
-        "answer_text": "Stop smoothly"
+        "answer_text": "सुचारू रूप से रुकना"
       }
     ]
   },
   {
     "id": "rta-fk-082",
-    "question_text": "In order to improve the stability, a forklift with extendable mast can;",
+    "question_text": "स्थिरता में सुधार के लिए, विस्तारयोग्य मास्ट वाली फोर्कलिफ्ट;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-082-a",
-        "answer_text": "Tilt the mast sideways"
+        "answer_text": "मास्ट को बगल में झुकाएं"
       },
       {
         "id": "rta-fk-082-b",
-        "answer_text": "Tilt the mast forwards"
+        "answer_text": "मास्ट को आगे झुकाएं"
       },
       {
         "id": "rta-fk-082-c",
-        "answer_text": "Tilt the mast backwards"
+        "answer_text": "मास्ट को पीछे झुकाएं"
       }
     ]
   },
   {
     "id": "rta-fk-083",
-    "question_text": "Before inserting the forks into a pallet, the mast must be;",
+    "question_text": "पैलेट में फोर्क्स डालने से पहले, मास्ट होना चाहिए;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-083-a",
-        "answer_text": "In an upright position"
+        "answer_text": "सीधी स्थिति में"
       },
       {
         "id": "rta-fk-083-b",
-        "answer_text": "Tilted forwards"
+        "answer_text": "आगे की ओर झुका हुआ"
       },
       {
         "id": "rta-fk-083-c",
-        "answer_text": "Tilted backwards"
+        "answer_text": "पीछे की ओर झुका हुआ"
       }
     ]
   },
   {
     "id": "rta-fk-088",
-    "question_text": "Driving fast, turning sharply, turning on sloping ground can be;",
+    "question_text": "तेज गति से चलाना, तेजी से मुड़ना, ढलान वाली जमीन पर मुड़ना हो सकते हैं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-088-a",
-        "answer_text": "Causes of tipping"
+        "answer_text": "पलटने के कारण"
       },
       {
         "id": "rta-fk-088-b",
-        "answer_text": "Good operator skills"
+        "answer_text": "ऑपरेटर का अच्छा कौशल"
       },
       {
         "id": "rta-fk-088-c",
-        "answer_text": "Good practice of an operator"
+        "answer_text": "ऑपरेटर का अच्छा अभ्यास"
       }
     ]
   },
   {
     "id": "rta-fk-090",
-    "question_text": "If your forklift becomes unstable and is overturning, the safest thing to do for the operator is;",
+    "question_text": "यदि आपकी फोर्कलिफ्ट अस्थिर हो जाए और पलटने लगे, तो ऑपरेटर के लिए सबसे सुरक्षित काम क्या है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-090-a",
-        "answer_text": "To remain inside the cabin"
+        "answer_text": "केबिन के अंदर रहना"
       },
       {
         "id": "rta-fk-090-b",
-        "answer_text": "To jump out of the forklift"
+        "answer_text": "फोर्कलिफ्ट से कूद जाना"
       },
       {
         "id": "rta-fk-090-c",
-        "answer_text": "To make the forklift stable"
+        "answer_text": "फोर्कलिफ्ट को स्थिर करना"
       }
     ]
   },
   {
     "id": "rta-fk-091",
-    "question_text": "When travelling up a ramp, why must the load face uphill?",
+    "question_text": "रैंप पर ऊपर जाते समय लोड का मुख ऊपर की ओर क्यों होना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-fk-091-a",
-        "answer_text": "To ensure the load gets lighter as it travels upwards"
+        "answer_text": "यह सुनिश्चित करने के लिए कि ऊपर जाने पर लोड हल्का होता जाए"
       },
       {
         "id": "rta-fk-091-b",
-        "answer_text": "To keep the forklift stable; AND to stop the load falling off the fork arms"
+        "answer_text": "फोर्कलिफ्ट को स्थिर रखने के लिए; और फोर्क भुजाओं से लोड को गिरने से रोकने के लिए"
       },
       {
         "id": "rta-fk-091-c",
-        "answer_text": "To keep the load gravity as high as possible"
+        "answer_text": "लोड की गुरुत्वाकर्षण को यथासंभव ऊंचा रखने के लिए"
       }
     ]
   },
   {
     "id": "rta-hfk-005",
-    "question_text": "The bucket at the end of the arms of the shovel is;",
+    "question_text": "शावेल की भुजाओं के अंत में बाल्टी;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-005-a",
-        "answer_text": "A permanent attachment of the shovel"
+        "answer_text": "शावेल का स्थायी अनुलग्नक है"
       },
       {
         "id": "rta-hfk-005-b",
-        "answer_text": "Either permanent or removal attachment of the shovel"
+        "answer_text": "शावेल का स्थायी या हटाने योग्य अनुलग्नक है"
       },
       {
         "id": "rta-hfk-005-c",
-        "answer_text": "Always a removal attachment of the shovel"
+        "answer_text": "हमेशा शावेल का हटाने योग्य अनुलग्नक होता है"
       }
     ]
   },
   {
     "id": "rta-hfk-009",
-    "question_text": "When you hear a warning alarm sound in your shovel, what is the safest thing to do?",
+    "question_text": "जब आप अपने शावेल में चेतावनी अलार्म की आवाज सुनें, तो सबसे सुरक्षित काम क्या है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-009-a",
-        "answer_text": "Ignore the alarm sound and continue working"
+        "answer_text": "अलार्म की आवाज को नजरअंदाज करें और काम जारी रखें"
       },
       {
         "id": "rta-hfk-009-b",
-        "answer_text": "Try and fix the shovel to stop the alarm"
+        "answer_text": "अलार्म बंद करने के लिए शावेल को ठीक करने की कोशिश करें"
       },
       {
         "id": "rta-hfk-009-c",
-        "answer_text": "Discontinue use of that shovel"
+        "answer_text": "उस शावेल का उपयोग बंद कर दें"
       }
     ]
   },
   {
     "id": "rta-hfk-010",
-    "question_text": "The controls to lift the bucket are float, lower, hold and;",
+    "question_text": "बाल्टी उठाने के नियंत्रण फ्लोट, लोअर, होल्ड और;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-010-a",
-        "answer_text": "Raise"
+        "answer_text": "रेज़"
       },
       {
         "id": "rta-hfk-010-b",
-        "answer_text": "Crowd"
+        "answer_text": "क्राउड"
       },
       {
         "id": "rta-hfk-010-c",
-        "answer_text": "Dump"
+        "answer_text": "डंप"
       }
     ]
   },
   {
     "id": "rta-hfk-011",
-    "question_text": "What should you do before inspecting underneath a bucket safely?",
+    "question_text": "बाल्टी के नीचे सुरक्षित रूप से जांच करने से पहले आपको क्या करना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-011-a",
-        "answer_text": "Lower the bucket first to the ground"
+        "answer_text": "पहले बाल्टी को जमीन पर नीचे करें"
       },
       {
         "id": "rta-hfk-011-b",
-        "answer_text": "Secure the raised bucket safe by engaging the park brakes"
+        "answer_text": "पार्क ब्रेक लगाकर उठी हुई बाल्टी को सुरक्षित करें"
       },
       {
         "id": "rta-hfk-011-c",
-        "answer_text": "Secure the raised bucket safe by using chocks, blocks or safety bars"
+        "answer_text": "चॉक्स, ब्लॉक या सेफ्टी बार का उपयोग करके उठी हुई बाल्टी को सुरक्षित करें"
       }
     ]
   },
   {
     "id": "rta-hfk-013",
-    "question_text": "As part of work site safety precaution, you should not wear oily clothes because;",
+    "question_text": "कार्यस्थल सुरक्षा सावधानी के तहत, आपको तेल लगे कपड़े नहीं पहनने चाहिए क्योंकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-013-a",
-        "answer_text": "Oily clothes are flammable"
+        "answer_text": "तेल लगे कपड़े ज्वलनशील होते हैं"
       },
       {
         "id": "rta-hfk-013-b",
-        "answer_text": "Oily clothes may be difficult to wash"
+        "answer_text": "तेल लगे कपड़े धोना मुश्किल हो सकता है"
       },
       {
         "id": "rta-hfk-013-c",
-        "answer_text": "Oily clothes may cause entanglement"
+        "answer_text": "तेल लगे कपड़े उलझन का कारण बन सकते हैं"
       }
     ]
   },
   {
     "id": "rta-hfk-017",
-    "question_text": "When adding air to the tire, why should you stand to one side of the wheel?",
+    "question_text": "टायर में हवा भरते समय आपको पहिए के एक तरफ क्यों खड़े होना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-017-a",
-        "answer_text": "To ensure quicker refilling of air"
+        "answer_text": "हवा भरने को तेज़ सुनिश्चित करने के लिए"
       },
       {
         "id": "rta-hfk-017-b",
-        "answer_text": "Tires have been known to fly off the rim."
+        "answer_text": "टायर रिम से उड़ने के मामले सामने आए हैं"
       },
       {
         "id": "rta-hfk-017-c",
-        "answer_text": "To ensure well balanced air distribution"
+        "answer_text": "हवा के संतुलित वितरण को सुनिश्चित करने के लिए"
       }
     ]
   },
   {
     "id": "rta-hfk-021",
-    "question_text": "Newly fitted tires with a demountable split rim should be inflated in a special safety cage  because;",
+    "question_text": "डिमाउंटेबल स्प्लिट रिम वाले नए लगाए गए टायरों को विशेष सुरक्षा पिंजरे में हवा भरनी चाहिए क्योंकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-021-a",
-        "answer_text": "The rim can fly off if you are not careful"
+        "answer_text": "यदि सावधान न हों तो रिम उड़ सकता है"
       },
       {
         "id": "rta-hfk-021-b",
-        "answer_text": "The rim has to be handled in a special way"
+        "answer_text": "रिम को विशेष तरीके से संभालना पड़ता है"
       },
       {
         "id": "rta-hfk-021-c",
-        "answer_text": "Careful handling of the rim for safety"
+        "answer_text": "सुरक्षा के लिए रिम को सावधानीपूर्वक संभालना"
       }
     ]
   },
   {
     "id": "rta-hfk-022",
-    "question_text": "When changing the wheel of a shovel, when is the right time to tighten the wheel nuts?",
+    "question_text": "शावल का पहिया बदलते समय व्हील नट कसने का सही समय कब है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-022-a",
-        "answer_text": "When the shovel has been re-started"
+        "answer_text": "जब शावल फिर से चालू की गई हो"
       },
       {
         "id": "rta-hfk-022-b",
-        "answer_text": "While the shovel is still jacked up"
+        "answer_text": "जब शावल अभी भी जैक पर हो"
       },
       {
         "id": "rta-hfk-022-c",
-        "answer_text": "When the shovel is fully lowered"
+        "answer_text": "जब शावल पूरी तरह से नीचे उतार दी गई हो"
       }
     ]
   },
   {
     "id": "rta-hfk-024",
-    "question_text": "Equipment should be refueled after use to cool the remaining fuel and;",
+    "question_text": "उपयोग के बाद उपकरण में ईंधन भरना चाहिए ताकि बचा हुआ ईंधन ठंडा हो और;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-024-a",
-        "answer_text": "Minimize the intake of moisture from atmosphere overnight"
+        "answer_text": "रात भर वातावरण से नमी का अवशोषण कम से कम हो"
       },
       {
         "id": "rta-hfk-024-b",
-        "answer_text": "Minimize the intake of fuel for the next day's work"
+        "answer_text": "अगले दिन के काम के लिए ईंधन की खपत कम हो"
       },
       {
         "id": "rta-hfk-024-c",
-        "answer_text": "Ensure the continuation of work the next day"
+        "answer_text": "अगले दिन काम जारी रहना सुनिश्चित हो"
       }
     ]
   },
   {
     "id": "rta-hfk-026",
-    "question_text": "Escaping hydraulic oil under pressure can penetrate skin. If oil is injected into skin, it must be;",
+    "question_text": "दबाव में निकलने वाला हाइड्रॉलिक तेल त्वचा में प्रवेश कर सकता है। यदि तेल त्वचा में घुस जाए तो उसे;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-026-a",
-        "answer_text": "Surgically removed within a few hours by a doctor or gangrene may result"
+        "answer_text": "कुछ घंटों के भीतर डॉक्टर द्वारा शल्य चिकित्सा से निकालना आवश्यक है अन्यथा गैंग्रीन हो सकता है"
       },
       {
         "id": "rta-hfk-026-b",
-        "answer_text": "Washed off thoroughly within the first few hours"
+        "answer_text": "पहले कुछ घंटों में अच्छी तरह धो देना चाहिए"
       },
       {
         "id": "rta-hfk-026-c",
-        "answer_text": "Cleaned with hot water and soap"
+        "answer_text": "गर्म पानी और साबुन से साफ करना चाहिए"
       }
     ]
   },
   {
     "id": "rta-hfk-027",
-    "question_text": "The fuel tank breather if uncleaned may cause  vacuum in the fuel tank. This can result to;",
+    "question_text": "ईंधन टैंक की ब्रीदर यदि साफ न की जाए तो टैंक में वैक्यूम बन सकता है। इसके परिणामस्वरूप;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-027-a",
-        "answer_text": "Efficient flow of fuel"
+        "answer_text": "ईंधन का कुशल प्रवाह"
       },
       {
         "id": "rta-hfk-027-b",
-        "answer_text": "Reduced or stoppage of fuel flow"
+        "answer_text": "ईंधन प्रवाह में कमी या रुकावट"
       },
       {
         "id": "rta-hfk-027-c",
-        "answer_text": "Reduced fuel consumption"
+        "answer_text": "ईंधन खपत में कमी"
       }
     ]
   },
   {
     "id": "rta-hfk-029",
-    "question_text": "When searching for hydraulic leaks, wear eye protection and do not use your hands. Instead;",
+    "question_text": "हाइड्रोलिक लीकेज की तलाश करते समय, आंखों की सुरक्षा पहनें और हाथों का उपयोग न करें। इसके बजाय;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-029-a",
-        "answer_text": "Use a dipstick or a metallic object"
+        "answer_text": "डिपस्टिक या धातु की वस्तु का उपयोग करें"
       },
       {
         "id": "rta-hfk-029-b",
-        "answer_text": "Use your foot and wear leather boots"
+        "answer_text": "अपने पैर का उपयोग करें और चमड़े के जूते पहनें"
       },
       {
         "id": "rta-hfk-029-c",
-        "answer_text": "Use a piece of cardboard or wood"
+        "answer_text": "गत्ते या लकड़ी के टुकड़े का उपयोग करें"
       }
     ]
   },
   {
     "id": "rta-hfk-038",
-    "question_text": "Always lower the work equipment completely to the ground, set the safety lock lever to the LOCK position;",
+    "question_text": "कार्य उपकरण को हमेशा जमीन पर पूरी तरह नीचे करें, सेफ्टी लॉक लीवर को LOCK स्थिति पर सेट करें;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-038-a",
-        "answer_text": "When starting the shovel"
+        "answer_text": "शॉवेल शुरू करते समय"
       },
       {
         "id": "rta-hfk-038-b",
-        "answer_text": "When leaving the Shovel"
+        "answer_text": "शॉवेल छोड़ते समय"
       },
       {
         "id": "rta-hfk-038-c",
-        "answer_text": "When reversing the shovel"
+        "answer_text": "शॉवेल को रिवर्स करते समय"
       }
     ]
   },
   {
     "id": "rta-hfk-040",
-    "question_text": "What you must never hold when getting on or getting off the shovel?",
+    "question_text": "शॉवेल पर चढ़ते या उतरते समय आपको क्या कभी नहीं पकड़ना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-040-a",
-        "answer_text": "Any of the control levers"
+        "answer_text": "कोई भी कंट्रोल लीवर"
       },
       {
         "id": "rta-hfk-040-b",
-        "answer_text": "Any of the handles"
+        "answer_text": "कोई भी हैंडल"
       },
       {
         "id": "rta-hfk-040-c",
-        "answer_text": "Any of the control pedals"
+        "answer_text": "कोई भी कंट्रोल पैडल"
       }
     ]
   },
   {
     "id": "rta-hfk-060",
-    "question_text": "If possible, remain inside the cabin if the shovel gets in contact with live power lines because;",
+    "question_text": "यदि संभव हो, तो शॉवेल के लाइव बिजली की लाइनों के संपर्क में आने पर केबिन के अंदर रहें, क्योंकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-060-a",
-        "answer_text": "When dismounting, you may step into wet floor and slip"
+        "answer_text": "उतरते समय, आप गीले फर्श पर कदम रखकर फिसल सकते हैं"
       },
       {
         "id": "rta-hfk-060-b",
-        "answer_text": "The electric current will cause the cabin to lock automatically"
+        "answer_text": "विद्युत प्रवाह केबिन को स्वतः बंद कर देगा"
       },
       {
         "id": "rta-hfk-060-c",
-        "answer_text": "When dismounting, you may touch the “live” truck, causing the power to earth through you"
+        "answer_text": "उतरते समय, आप 'लाइव' ट्रक को छू सकते हैं, जिससे बिजली आपके माध्यम से जमीन में जा सकती है"
       }
     ]
   },
   {
     "id": "rta-hfk-067",
-    "question_text": "One of the many considerations when planning for safety at workplace include;",
+    "question_text": "कार्यस्थल पर सुरक्षा की योजना बनाते समय कई विचारों में से एक शामिल है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-067-a",
-        "answer_text": "Locations of speed cameras on the roads"
+        "answer_text": "सड़कों पर स्पीड कैमरों की स्थिति"
       },
       {
         "id": "rta-hfk-067-b",
-        "answer_text": "Working safely around other shovels and people"
+        "answer_text": "अन्य शॉवेलों और लोगों के आसपास सुरक्षित रूप से काम करना"
       },
       {
         "id": "rta-hfk-067-c",
-        "answer_text": "Safety procedure for starting the shovel"
+        "answer_text": "शॉवेल शुरू करने की सुरक्षा प्रक्रिया"
       }
     ]
   },
   {
     "id": "rta-hfk-070",
-    "question_text": "When filling the bucket from a stockpile;",
+    "question_text": "भंडार से बाल्टी भरते समय;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-070-a",
-        "answer_text": "Set the shovel facing directly to the front"
+        "answer_text": "शॉवेल को सीधे सामने की ओर रखें"
       },
       {
         "id": "rta-hfk-070-b",
-        "answer_text": "Set the shovel slightly downwards"
+        "answer_text": "शॉवेल को थोड़ा नीचे की ओर रखें"
       },
       {
         "id": "rta-hfk-070-c",
-        "answer_text": "Set the shovel slightly upwards"
+        "answer_text": "शॉवेल को थोड़ा ऊपर की ओर रखें"
       }
     ]
   },
   {
     "id": "rta-hfk-072",
-    "question_text": "Smooth shovel operations enable efficient and speedy use of shovel. This also results in;",
+    "question_text": "सुचारू शॉवेल संचालन शॉवेल के कुशल और तेज उपयोग को सक्षम बनाता है। इसके परिणामस्वरूप भी;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-072-a",
-        "answer_text": "Less wear and tear to the shovel and less fatigue to the operator"
+        "answer_text": "शॉवेल में कम टूट-फूट और ऑपरेटर की कम थकान"
       },
       {
         "id": "rta-hfk-072-b",
-        "answer_text": "Less worktime for the shovel and for the operator"
+        "answer_text": "शॉवेल और ऑपरेटर के लिए कम काम का समय"
       },
       {
         "id": "rta-hfk-072-c",
-        "answer_text": "More safety and more rest time for the operator"
+        "answer_text": "ऑपरेटर के लिए अधिक सुरक्षा और अधिक आराम का समय"
       }
     ]
   },
   {
     "id": "rta-hfk-075",
-    "question_text": "How do you reduce the resistance when driving the shovel forward on level ground?",
+    "question_text": "समतल जमीन पर फावड़ा आगे चलाते समय प्रतिरोध कैसे कम करें?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-075-a",
-        "answer_text": "Operate the lift arm control lever heavy on one side"
+        "answer_text": "लिफ्ट आर्म कंट्रोल लीवर को एक तरफ जोर से चलाएं"
       },
       {
         "id": "rta-hfk-075-b",
-        "answer_text": "Operate the lift arm control lever slightly downwards"
+        "answer_text": "लिफ्ट आर्म कंट्रोल लीवर को थोड़ा नीचे की ओर चलाएं"
       },
       {
         "id": "rta-hfk-075-c",
-        "answer_text": "Operate the lift arm control lever slightly up and down"
+        "answer_text": "लिफ्ट आर्म कंट्रोल लीवर को थोड़ा ऊपर-नीचे चलाएं"
       }
     ]
   },
   {
     "id": "rta-hfk-080",
-    "question_text": "When performing levelling and pushing operations, it is best conducted with;",
+    "question_text": "समतल और धकेलने के काम करते समय, सबसे अच्छा तरीका है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-080-a",
-        "answer_text": "The shovel moving sideward"
+        "answer_text": "फावड़ा बगल की ओर चलते हुए"
       },
       {
         "id": "rta-hfk-080-b",
-        "answer_text": "The shovel moving forward"
+        "answer_text": "फावड़ा आगे चलते हुए"
       },
       {
         "id": "rta-hfk-080-c",
-        "answer_text": "The shovel in reverse"
+        "answer_text": "फावड़ा रिवर्स में"
       }
     ]
   },
   {
     "id": "rta-hfk-081",
-    "question_text": "When carrying out pushing operations, the bottom of the bucket should be;",
+    "question_text": "धकेलने के काम करते समय, बाल्टी का निचला भाग होना चाहिए;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-081-a",
-        "answer_text": "Set parallel to the ground surface"
+        "answer_text": "जमीन की सतह के समानांतर"
       },
       {
         "id": "rta-hfk-081-b",
-        "answer_text": "Set upwards against the ground surface"
+        "answer_text": "जमीन की सतह के विरुद्ध ऊपर की ओर"
       },
       {
         "id": "rta-hfk-081-c",
-        "answer_text": "Set downwards against the ground surface"
+        "answer_text": "जमीन की सतह के विरुद्ध नीचे की ओर"
       }
     ]
   },
   {
     "id": "rta-hfk-082",
-    "question_text": "When carrying out pushing operations, never set the bucket in;",
+    "question_text": "धकेलने के काम करते समय, बाल्टी को कभी भी इस स्थिति में न रखें;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-082-a",
-        "answer_text": "Scoop position"
+        "answer_text": "स्कूप स्थिति"
       },
       {
         "id": "rta-hfk-082-b",
-        "answer_text": "Dump position"
+        "answer_text": "डंप स्थिति"
       },
       {
         "id": "rta-hfk-082-c",
-        "answer_text": "Forward Position"
+        "answer_text": "आगे की स्थिति"
       }
     ]
   },
   {
     "id": "rta-hfk-083",
-    "question_text": "When travelling down incline, how do you minimize the need for brake operation?",
+    "question_text": "ढलान पर नीचे जाते समय, ब्रेक के उपयोग की आवश्यकता को कम से कम करने के लिए आप क्या करेंगे?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-083-a",
-        "answer_text": "Maximize engine braking by selecting low gear"
+        "answer_text": "कम गियर चुनकर इंजन ब्रेकिंग को अधिकतम करें"
       },
       {
         "id": "rta-hfk-083-b",
-        "answer_text": "Select a high gear and decrease speed"
+        "answer_text": "ऊंचा गियर चुनें और गति कम करें"
       },
       {
         "id": "rta-hfk-083-c",
-        "answer_text": "Select the neutral gear and freewheel"
+        "answer_text": "न्यूट्रल गियर चुनें और स्वतंत्र रूप से चलें"
       }
     ]
   },
   {
     "id": "rta-hfk-084",
-    "question_text": "When travelling across inclines, the center of gravity of the machine should be as low as possible and;",
+    "question_text": "ढलानों पर यात्रा करते समय, मशीन का गुरुत्व केंद्र जितना संभव हो उतना नीचा होना चाहिए और;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-084-a",
-        "answer_text": "Do not make any turns at all cost"
+        "answer_text": "हर हाल में कोई भी मोड़ न लें"
       },
       {
         "id": "rta-hfk-084-b",
-        "answer_text": "Avoid making sudden changes in speed or direction"
+        "answer_text": "गति या दिशा में अचानक बदलाव से बचें"
       },
       {
         "id": "rta-hfk-084-c",
-        "answer_text": "Avoid making changes to the position of the shovel"
+        "answer_text": "फावड़े की स्थिति में बदलाव से बचें"
       }
     ]
   },
   {
     "id": "rta-hfk-085",
-    "question_text": "The Clam shell operation of the bucket is used for;",
+    "question_text": "बाल्टी का क्लैम शेल ऑपरेशन किस काम के लिए उपयोग किया जाता है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-085-a",
-        "answer_text": "Spreading materials and grading"
+        "answer_text": "सामग्री फैलाने और ग्रेडिंग के लिए"
       },
       {
         "id": "rta-hfk-085-b",
-        "answer_text": "Picking up objects or grab and hold"
+        "answer_text": "वस्तुओं को उठाने या पकड़कर रखने के लिए"
       },
       {
         "id": "rta-hfk-085-c",
-        "answer_text": "Scraping and levelling"
+        "answer_text": "खुरचने और समतल करने के लिए"
       }
     ]
   },
   {
     "id": "rta-hfk-087",
-    "question_text": "When travelling up or down inclines, the loaded bucket should be;",
+    "question_text": "ढलानों पर ऊपर या नीचे यात्रा करते समय, भरी हुई बाल्टी होनी चाहिए;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-087-a",
-        "answer_text": "Uphill of the machine"
+        "answer_text": "मशीन का पहाड़ी की ओर"
       },
       {
         "id": "rta-hfk-087-b",
-        "answer_text": "Downhill of the machine"
+        "answer_text": "मशीन का नीचे की ओर"
       },
       {
         "id": "rta-hfk-087-c",
-        "answer_text": "Sideways of the machine"
+        "answer_text": "मशीन के बगल में"
       }
     ]
   },
   {
     "id": "rta-hfk-088",
-    "question_text": "A position of the multi-purpose bucket used for general pushing, spreading and grading:",
+    "question_text": "बहुउद्देशीय बकेट की वह स्थिति जो सामान्य धकेलने, फैलाने और ग्रेडिंग के लिए उपयोग की जाती है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-088-a",
-        "answer_text": "Blade"
+        "answer_text": "ब्लेड"
       },
       {
         "id": "rta-hfk-088-b",
-        "answer_text": "Clam Shell"
+        "answer_text": "क्लैम शेल"
       },
       {
         "id": "rta-hfk-088-c",
-        "answer_text": "Bucket"
+        "answer_text": "बकेट"
       }
     ]
   },
   {
     "id": "rta-hfk-090",
-    "question_text": "The job requires you to  prepare hard ground for removal. What attachment should be used?",
+    "question_text": "काम में कठोर जमीन को हटाने की तैयारी करनी है। कौन सी अटैचमेंट उपयोग करनी चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-090-a",
-        "answer_text": "Grabs"
+        "answer_text": "ग्रैब्स"
       },
       {
         "id": "rta-hfk-090-b",
-        "answer_text": "Rippers"
+        "answer_text": "रिपर्स"
       },
       {
         "id": "rta-hfk-090-c",
-        "answer_text": "Augers"
+        "answer_text": "ऑगर्स"
       }
     ]
   },
   {
     "id": "rta-hfk-091",
-    "question_text": "The job require logs and drums to be moved to another location. What attachment should be used?",
+    "question_text": "काम में लट्ठों और ड्रमों को दूसरी जगह ले जाना है। कौन सी अटैचमेंट उपयोग करनी चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hfk-091-a",
-        "answer_text": "Augers"
+        "answer_text": "ऑगर्स"
       },
       {
         "id": "rta-hfk-091-b",
-        "answer_text": "Rippers"
+        "answer_text": "रिपर्स"
       },
       {
         "id": "rta-hfk-091-c",
-        "answer_text": "Grabs"
+        "answer_text": "ग्रैब्स"
       }
     ]
   },
   {
     "id": "rta-moto-002",
-    "question_text": "When checking your brakes, the rear brake should be adjusted so that:",
+    "question_text": "अपने ब्रेक की जांच करते समय, पिछला ब्रेक इस तरह समायोजित होना चाहिए कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-002-a",
-        "answer_text": "it stops the motorcycle when the brake is lightly applied."
+        "answer_text": "ब्रेक हल्के से लगाने पर मोटरसाइकिल रुक जाए।"
       },
       {
         "id": "rta-moto-002-b",
-        "answer_text": "it stops the motorcycle when the brake is fully applied."
+        "answer_text": "ब्रेक पूरी तरह लगाने पर मोटरसाइकिल रुक जाए।"
       },
       {
         "id": "rta-moto-002-c",
-        "answer_text": "it does not stop the motorcycle when the brake is fully applied."
+        "answer_text": "ब्रेक पूरी तरह लगाने पर मोटरसाइकिल न रुके।"
       }
     ]
   },
   {
     "id": "rta-moto-003",
-    "question_text": "When checking your brakes, the front brake should be adjusted so that it:",
+    "question_text": "अपने ब्रेक की जांच करते समय, अगला ब्रेक इस तरह समायोजित होना चाहिए कि वह:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-003-a",
-        "answer_text": "stops the motorcycle when the brake is lightly applied."
+        "answer_text": "ब्रेक हल्के से लगाने पर मोटरसाइकिल रोक दे।"
       },
       {
         "id": "rta-moto-003-b",
-        "answer_text": "stops the motorcycle when the brake is fully applied."
+        "answer_text": "ब्रेक पूरी तरह लगाने पर मोटरसाइकिल रोक दे।"
       },
       {
         "id": "rta-moto-003-c",
-        "answer_text": "does not stop the motorcycle when the brake is fully applied."
+        "answer_text": "ब्रेक पूरी तरह लगाने पर मोटरसाइकिल न रोके।"
       }
     ]
   },
   {
     "id": "rta-moto-004",
-    "question_text": "What should each mirror fitted to your motorcycle let you see?",
+    "question_text": "आपकी मोटरसाइकिल पर लगा प्रत्येक दर्पण आपको क्या दिखाना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-004-a",
-        "answer_text": "Mainly the traffic in the lane behind you."
+        "answer_text": "मुख्य रूप से आपके पीछे वाली लेन का यातायात।"
       },
       {
         "id": "rta-moto-004-b",
-        "answer_text": "Only the lane next to you."
+        "answer_text": "केवल आपके बगल वाली लेन।"
       },
       {
         "id": "rta-moto-004-c",
-        "answer_text": "As much as possible of the lane next to you and of the traffic behind you"
+        "answer_text": "आपके बगल वाली लेन और पीछे के यातायात का अधिकतम हिस्सा।"
       }
     ]
   },
   {
     "id": "rta-moto-006",
-    "question_text": "When fully applied, which of the brakes should be able to hold a motorcycle?",
+    "question_text": "पूरी तरह लगाने पर, कौन सा ब्रेक मोटरसाइकिल को रोकने में सक्षम होना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-006-a",
-        "answer_text": "The front brake."
+        "answer_text": "अगला ब्रेक।"
       },
       {
         "id": "rta-moto-006-b",
-        "answer_text": "The rear brake."
+        "answer_text": "पिछला ब्रेक।"
       },
       {
         "id": "rta-moto-006-c",
-        "answer_text": "Both the front and rear brakes."
+        "answer_text": "अगला और पिछला दोनों ब्रेक।"
       }
     ]
   },
   {
     "id": "rta-moto-007",
-    "question_text": "When checking the throttle, if it is opened wide and released it should then:",
+    "question_text": "थ्रॉटल की जांच करते समय, यदि इसे पूरी तरह खोलकर छोड़ दिया जाए तो इसे:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-007-a",
-        "answer_text": "snap shut."
+        "answer_text": "तुरंत बंद हो जाना चाहिए।"
       },
       {
         "id": "rta-moto-007-b",
-        "answer_text": "gradually close."
+        "answer_text": "धीरे-धीरे बंद होना चाहिए।"
       },
       {
         "id": "rta-moto-007-c",
-        "answer_text": "remain where it is."
+        "answer_text": "जहां हो वहीं रहना चाहिए।"
       }
     ]
   },
   {
     "id": "rta-moto-008",
-    "question_text": "The drive chain of a motorcycle should:",
+    "question_text": "मोटरसाइकिल की ड्राइव चेन को:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-008-a",
-        "answer_text": "have no slack."
+        "answer_text": "बिल्कुल ढीली नहीं होनी चाहिए।"
       },
       {
         "id": "rta-moto-008-b",
-        "answer_text": "be lubricated and the tension adjusted correctly."
+        "answer_text": "स्नेहित और सही तरीके से तनाव समायोजित होनी चाहिए।"
       },
       {
         "id": "rta-moto-008-c",
-        "answer_text": "have 10-20 mm of slack."
+        "answer_text": "10-20 मिमी की ढील होनी चाहिए।"
       }
     ]
   },
   {
     "id": "rta-moto-011",
-    "question_text": "When turning or riding through a corner, a motorcycle rider should:",
+    "question_text": "मोड़ लेते या कोने से गुजरते समय, मोटरसाइकिल चालक को चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-011-a",
-        "answer_text": "stay as upright as possible, while letting the cycle lean."
+        "answer_text": "जितना संभव हो सीधे रहें, जबकि साइकिल को झुकने दें।"
       },
       {
         "id": "rta-moto-011-b",
-        "answer_text": "lean with the cycle while keeping his head up."
+        "answer_text": "साइकिल के साथ झुकें लेकिन सिर ऊंचा रखें।"
       },
       {
         "id": "rta-moto-011-c",
-        "answer_text": "lean, but keep the cycle as upright as possible."
+        "answer_text": "झुकें, लेकिन साइकिल को जितना संभव हो सीधा रखें।"
       }
     ]
   },
   {
     "id": "rta-moto-012",
-    "question_text": "When turning, you should:",
+    "question_text": "मोड़ लेते समय, आपको चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-012-a",
-        "answer_text": "watch carefully the road directly in front of you."
+        "answer_text": "अपने ठीक सामने की सड़क को ध्यान से देखें।"
       },
       {
         "id": "rta-moto-012-b",
-        "answer_text": "grasp the fuel tank firmly with your knees"
+        "answer_text": "घुटनों से फ्यूल टैंक को मजबूती से पकड़ें।"
       },
       {
         "id": "rta-moto-012-c",
-        "answer_text": "drag one foot along the ground."
+        "answer_text": "एक पैर जमीन पर घसीटें।"
       }
     ]
   },
   {
     "id": "rta-moto-014",
-    "question_text": "Which one of these statements is correct?",
+    "question_text": "इनमें से कौन सा कथन सही है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-014-a",
-        "answer_text": "Ride with your arms bent outwards."
+        "answer_text": "बाहों को बाहर की ओर मोड़कर राइड करें।"
       },
       {
         "id": "rta-moto-014-b",
-        "answer_text": "Do not bend your arms while you ride."
+        "answer_text": "राइड करते समय बाहें न मोड़ें।"
       },
       {
         "id": "rta-moto-014-c",
-        "answer_text": "Ride with your elbows slightly bent."
+        "answer_text": "कोहनियाँ थोड़ी मुड़ी हुई रखकर राइड करें।"
       }
     ]
   },
   {
     "id": "rta-moto-016",
-    "question_text": "When turning, should a rider lean with the motorcycle?",
+    "question_text": "मोड़ लेते समय, क्या चालक को मोटरसाइकिल के साथ झुकना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-016-a",
-        "answer_text": "No"
+        "answer_text": "नहीं"
       },
       {
         "id": "rta-moto-016-b",
-        "answer_text": "Yes, and keeping your sight level with the  road"
+        "answer_text": "हाँ, और सड़क के साथ नज़र का स्तर बनाए रखें"
       },
       {
         "id": "rta-moto-016-c",
-        "answer_text": "Yes, but less so as speed increases."
+        "answer_text": "हाँ, लेकिन गति बढ़ने पर कम।"
       }
     ]
   },
   {
     "id": "rta-moto-017",
-    "question_text": "In a right hand corner, you should:",
+    "question_text": "दाईं ओर के मोड़ पर, आपको चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-017-a",
-        "answer_text": "move to a position that will allow you to see through the corner."
+        "answer_text": "ऐसी स्थिति में आएं जहाँ से आप मोड़ के पार देख सकें।"
       },
       {
         "id": "rta-moto-017-b",
-        "answer_text": "move to the right of the lane."
+        "answer_text": "लेन के दाईं ओर चले जाएं।"
       },
       {
         "id": "rta-moto-017-c",
-        "answer_text": "stand up slightly on the footpegs."
+        "answer_text": "फुटपेग्स पर थोड़ा खड़े हों।"
       }
     ]
   },
   {
     "id": "rta-moto-018",
-    "question_text": "When braking, you should concentrate most upon:",
+    "question_text": "ब्रेक लगाते समय, आपको सबसे अधिक ध्यान देना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-018-a",
-        "answer_text": "counter steering."
+        "answer_text": "काउंटर स्टीयरिंग पर।"
       },
       {
         "id": "rta-moto-018-b",
-        "answer_text": "changing down gears."
+        "answer_text": "गियर नीचे करने पर।"
       },
       {
         "id": "rta-moto-018-c",
-        "answer_text": "not locking the wheels."
+        "answer_text": "पहियों को लॉक न होने देने पर।"
       }
     ]
   },
   {
     "id": "rta-moto-019",
-    "question_text": "When braking in a curve, pressure upon the brakes should be:",
+    "question_text": "मोड़ में ब्रेक लगाते समय, ब्रेक पर दबाव होना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-019-a",
-        "answer_text": "started off gently."
+        "answer_text": "धीरे-धीरे शुरू किया जाए।"
       },
       {
         "id": "rta-moto-019-b",
-        "answer_text": "increased after you have straightened up."
+        "answer_text": "सीधे होने के बाद बढ़ाया जाए।"
       },
       {
         "id": "rta-moto-019-c",
-        "answer_text": "kept constant as you slow."
+        "answer_text": "धीमे होने पर स्थिर रखा जाए।"
       }
     ]
   },
   {
     "id": "rta-moto-020",
-    "question_text": "When turning you should:",
+    "question_text": "मोड़ लेते समय आपको चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-020-a",
-        "answer_text": "lean the motorcycle."
+        "answer_text": "मोटरसाइकिल को झुकाएं।"
       },
       {
         "id": "rta-moto-020-b",
-        "answer_text": "increase your speed."
+        "answer_text": "गति बढ़ाएं।"
       },
       {
         "id": "rta-moto-020-c",
-        "answer_text": "use your brakes."
+        "answer_text": "ब्रेक का उपयोग करें।"
       }
     ]
   },
   {
     "id": "rta-moto-023",
-    "question_text": "When riding behind a car, it is best to ride:",
+    "question_text": "कार के पीछे राइड करते समय, सबसे अच्छा है कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-023-a",
-        "answer_text": "in the right wheel track of the car."
+        "answer_text": "कार के दाएं पहिए की ट्रैक में।"
       },
       {
         "id": "rta-moto-023-b",
-        "answer_text": "in the middle of the lane."
+        "answer_text": "लेन के बीच में।"
       },
       {
         "id": "rta-moto-023-c",
-        "answer_text": "in the left wheel track of the car."
+        "answer_text": "कार के बाएं पहिए की ट्रैक में।"
       }
     ]
   },
   {
     "id": "rta-moto-027",
-    "question_text": "When changing position within a lane, which one of the following is the best thing to do?",
+    "question_text": "लेन के अंदर स्थिति बदलते समय, निम्नलिखित में से कौन सा काम सबसे अच्छा है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-027-a",
-        "answer_text": "Use your indicator and move over quickly."
+        "answer_text": "इंडिकेटर का उपयोग करें और जल्दी से आगे बढ़ें।"
       },
       {
         "id": "rta-moto-027-b",
-        "answer_text": "Make a head check and use your mirrors."
+        "answer_text": "सिर घुमाकर जांच करें और अपने दर्पण का उपयोग करें।"
       },
       {
         "id": "rta-moto-027-c",
-        "answer_text": "Use your mirror and your indicator."
+        "answer_text": "अपना दर्पण और इंडिकेटर उपयोग करें।"
       }
     ]
   },
   {
     "id": "rta-moto-029",
-    "question_text": "In traffic, you can see better than car drivers by:",
+    "question_text": "ट्रैफिक में आप कार ड्राइवरों से बेहतर देख सकते हैं:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-029-a",
-        "answer_text": "riding between lanes."
+        "answer_text": "लेनों के बीच में चलकर।"
       },
       {
         "id": "rta-moto-029-b",
-        "answer_text": "looking through or over the tops of cars."
+        "answer_text": "गाड़ियों के ऊपर से या उनके शीशों से देखकर।"
       },
       {
         "id": "rta-moto-029-c",
-        "answer_text": "riding on the extreme right of the road."
+        "answer_text": "सड़क के एकदम दाईं ओर चलकर।"
       }
     ]
   },
   {
     "id": "rta-moto-030",
-    "question_text": "Under ordinary conditions, how much distance should an inexperienced rider keep from the vehicle ahead?",
+    "question_text": "सामान्य परिस्थितियों में, एक अनुभवहीन सवार को आगे के वाहन से कितनी दूरी बनाए रखनी चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-030-a",
-        "answer_text": "At least two seconds."
+        "answer_text": "कम से कम दो सेकंड।"
       },
       {
         "id": "rta-moto-030-b",
-        "answer_text": "At least three seconds."
+        "answer_text": "कम से कम तीन सेकंड।"
       },
       {
         "id": "rta-moto-030-c",
-        "answer_text": "At least four seconds."
+        "answer_text": "कम से कम चार सेकंड।"
       }
     ]
   },
   {
     "id": "rta-moto-036",
-    "question_text": "Riding at night is more difficult because:",
+    "question_text": "रात को चलाना अधिक कठिन होता है क्योंकि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-036-a",
-        "answer_text": "it is harder to see and be seen."
+        "answer_text": "देखना और दिखना कठिन होता है।"
       },
       {
         "id": "rta-moto-036-b",
-        "answer_text": "traffic is likely to be jammed."
+        "answer_text": "ट्रैफिक जाम होने की संभावना होती है।"
       },
       {
         "id": "rta-moto-036-c",
-        "answer_text": "it is harder to switch gear."
+        "answer_text": "गियर बदलना कठिन होता है।"
       }
     ]
   },
   {
     "id": "rta-moto-037",
-    "question_text": "At night, you should follow a vehicle ahead:",
+    "question_text": "रात को, आपको आगे के वाहन के पीछे चलना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-037-a",
-        "answer_text": "more closely than during the day."
+        "answer_text": "दिन के मुकाबले अधिक नजदीक से।"
       },
       {
         "id": "rta-moto-037-b",
-        "answer_text": "at the same distance as during the day."
+        "answer_text": "दिन के समान दूरी पर।"
       },
       {
         "id": "rta-moto-037-c",
-        "answer_text": "at a greater distance than during the day."
+        "answer_text": "दिन के मुकाबले अधिक दूरी पर।"
       }
     ]
   },
   {
     "id": "rta-moto-041",
-    "question_text": "Which of the following aspects of a motorcycles handling are affected by carrying a passenger?",
+    "question_text": "मोटरसाइकिल की हैंडलिंग के निम्नलिखित कौन से पहलू यात्री बिठाने से प्रभावित होते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-041-a",
-        "answer_text": "Braking and cornering."
+        "answer_text": "ब्रेक लगाना और मोड़ लेना।"
       },
       {
         "id": "rta-moto-041-b",
-        "answer_text": "Cornering and accelerating."
+        "answer_text": "मोड़ लेना और तेज करना।"
       },
       {
         "id": "rta-moto-041-c",
-        "answer_text": "Braking, cornering and accelerating"
+        "answer_text": "ब्रेक लगाना, मोड़ लेना और तेज करना।"
       }
     ]
   },
   {
     "id": "rta-moto-043",
-    "question_text": "If carrying a passenger who is not used to riding a bike you should:",
+    "question_text": "यदि आप ऐसे यात्री को ले जा रहे हैं जो बाइक पर सवारी करने का आदी नहीं है, तो आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-043-a",
-        "answer_text": "Ask him to relax and lean against the bike."
+        "answer_text": "उसे आराम से बैठने और बाइक के विपरीत झुकने के लिए कहें।"
       },
       {
         "id": "rta-moto-043-b",
-        "answer_text": "Ask him to relax and just lean with the bike."
+        "answer_text": "उसे आराम से बैठने और बाइक के साथ झुकने के लिए कहें।"
       },
       {
         "id": "rta-moto-043-c",
-        "answer_text": "Ask him to relax and lean forwards always."
+        "answer_text": "उसे आराम से बैठने और हमेशा आगे झुकने के लिए कहें।"
       }
     ]
   },
   {
     "id": "rta-moto-044",
-    "question_text": "Should a passenger on a motorcycle hold on to the rider's waist?",
+    "question_text": "क्या मोटरसाइकिल पर यात्री सवार की कमर पकड़ सकता है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-044-a",
-        "answer_text": "Yes, this is acceptable."
+        "answer_text": "हाँ, यह स्वीकार्य है।"
       },
       {
         "id": "rta-moto-044-b",
-        "answer_text": "No, the approved handgrip must be used."
+        "answer_text": "नहीं, अनुमोदित हैंडग्रिप का उपयोग करना अनिवार्य है।"
       },
       {
         "id": "rta-moto-044-c",
-        "answer_text": "No, unless the motorcycle does not have an approved handgrip."
+        "answer_text": "नहीं, जब तक कि मोटरसाइकिल में अनुमोदित हैंडग्रिप न हो।"
       }
     ]
   },
   {
     "id": "rta-moto-048",
-    "question_text": "If approaching a curve too fast, it is best to:",
+    "question_text": "यदि आप किसी मोड़ की ओर बहुत तेज गति से आ रहे हैं, तो सबसे अच्छा है कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-048-a",
-        "answer_text": "brake while in the curve."
+        "answer_text": "मोड़ के अंदर ब्रेक लगाएं।"
       },
       {
         "id": "rta-moto-048-b",
-        "answer_text": "brake before reaching the curve."
+        "answer_text": "मोड़ तक पहुँचने से पहले ब्रेक लगाएं।"
       },
       {
         "id": "rta-moto-048-c",
-        "answer_text": "begin braking as you enter the curve."
+        "answer_text": "मोड़ में प्रवेश करते समय ब्रेक लगाना शुरू करें।"
       }
     ]
   },
   {
     "id": "rta-moto-054",
-    "question_text": "If the rear tyre goes flat while you are riding along, you will probably feel:",
+    "question_text": "यदि सवारी करते समय पिछला टायर पंक्चर हो जाए, तो आप संभवतः महसूस करेंगे:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-054-a",
-        "answer_text": "the back of the cycle tend to slide from side to side."
+        "answer_text": "मोटरसाइकिल का पिछला हिस्सा इधर-उधर फिसलना।"
       },
       {
         "id": "rta-moto-054-b",
-        "answer_text": "the steering go \"heavy\"."
+        "answer_text": "स्टीयरिंग का \"भारी\" हो जाना।"
       },
       {
         "id": "rta-moto-054-c",
-        "answer_text": "the back of the cycle drop down slightly."
+        "answer_text": "मोटरसाइकिल का पिछला हिस्सा थोड़ा नीचे गिरना।"
       }
     ]
   },
   {
     "id": "rta-moto-057",
-    "question_text": "In counter steering, to make a quick turn to the right, you should:",
+    "question_text": "काउंटर स्टीयरिंग में दाईं ओर तेज मोड़ लेने के लिए आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-057-a",
-        "answer_text": "lean to the right."
+        "answer_text": "दाईं ओर झुकें।"
       },
       {
         "id": "rta-moto-057-b",
-        "answer_text": "press forward on the right handgrip."
+        "answer_text": "दाएं हैंडग्रिप को आगे की ओर दबाएं।"
       },
       {
         "id": "rta-moto-057-c",
-        "answer_text": "press forward on the left handgrip."
+        "answer_text": "बाएं हैंडग्रिप को आगे की ओर दबाएं।"
       }
     ]
   },
   {
     "id": "rta-moto-064",
-    "question_text": "If you ride under the influence of alcohol,",
+    "question_text": "यदि आप शराब के प्रभाव में सवारी करते हैं, तो",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-064-a",
-        "answer_text": "your riding skills improve."
+        "answer_text": "आपका सवारी कौशल बेहतर हो जाता है।"
       },
       {
         "id": "rta-moto-064-b",
-        "answer_text": "your reflexes become tired."
+        "answer_text": "आपकी सजगता थकी हुई हो जाती है।"
       },
       {
         "id": "rta-moto-064-c",
-        "answer_text": "your hazard awareness is reduced."
+        "answer_text": "खतरों के प्रति आपकी जागरूकता कम हो जाती है।"
       }
     ]
   },
   {
     "id": "rta-moto-065",
-    "question_text": "Because tiredness affects your  balance and vision, you should:",
+    "question_text": "चूंकि थकान आपके संतुलन और दृष्टि को प्रभावित करती है, इसलिए आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-065-a",
-        "answer_text": "Not ride if you are tired."
+        "answer_text": "थके होने पर सवारी न करें।"
       },
       {
         "id": "rta-moto-065-b",
-        "answer_text": "Not avoid riding if you are tired."
+        "answer_text": "थके होने पर सवारी से बचें नहीं।"
       },
       {
         "id": "rta-moto-065-c",
-        "answer_text": "Not delay riding if you are tired."
+        "answer_text": "थके होने पर सवारी में देरी न करें।"
       }
     ]
   },
   {
     "id": "rta-moto-066",
-    "question_text": "Make your ride less tiring by:",
+    "question_text": "सवारी को कम थकाऊ बनाएं:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-066-a",
-        "answer_text": "riding at night only."
+        "answer_text": "केवल रात में सवारी करके।"
       },
       {
         "id": "rta-moto-066-b",
-        "answer_text": "taking coffee or tea frequently."
+        "answer_text": "बार-बार चाय या कॉफी पीकर।"
       },
       {
         "id": "rta-moto-066-c",
-        "answer_text": "wearing protective clothing."
+        "answer_text": "सुरक्षात्मक कपड़े पहनकर।"
       }
     ]
   },
   {
     "id": "rta-moto-067",
-    "question_text": "Wearing bright clothing when riding is:",
+    "question_text": "सवारी के दौरान चमकदार कपड़े पहनना:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-067-a",
-        "answer_text": "enough to guarantee safety."
+        "answer_text": "सुरक्षा की गारंटी के लिए पर्याप्त है।"
       },
       {
         "id": "rta-moto-067-b",
-        "answer_text": "enough to expect others to see you."
+        "answer_text": "दूसरों से आपको देखने की उम्मीद के लिए पर्याप्त है।"
       },
       {
         "id": "rta-moto-067-c",
-        "answer_text": "not enough to guarantee safety."
+        "answer_text": "सुरक्षा की गारंटी के लिए पर्याप्त नहीं है।"
       }
     ]
   },
   {
     "id": "rta-moto-072",
-    "question_text": "To protect your eyes and face when riding, you must wear:",
+    "question_text": "सवारी करते समय अपनी आँखों और चेहरे की सुरक्षा के लिए, आपको पहनना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-072-a",
-        "answer_text": "a helmet."
+        "answer_text": "हेलमेट।"
       },
       {
         "id": "rta-moto-072-b",
-        "answer_text": "visors or goggles."
+        "answer_text": "वाइज़र या चश्मा।"
       },
       {
         "id": "rta-moto-072-c",
-        "answer_text": "helmet and gloves."
+        "answer_text": "हेलमेट और दस्ताने।"
       }
     ]
   },
   {
     "id": "rta-moto-075",
-    "question_text": "When riding with a pillion passenger, helmet is:",
+    "question_text": "पीछे बैठे यात्री के साथ सवारी करते समय, हेलमेट:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-075-a",
-        "answer_text": "required for the rider only."
+        "answer_text": "केवल सवार के लिए आवश्यक है।"
       },
       {
         "id": "rta-moto-075-b",
-        "answer_text": "not required for the pillion passenger."
+        "answer_text": "पीछे बैठे यात्री के लिए आवश्यक नहीं है।"
       },
       {
         "id": "rta-moto-075-c",
-        "answer_text": "required for both rider and pillion passenger."
+        "answer_text": "सवार और पीछे बैठे यात्री दोनों के लिए आवश्यक है।"
       }
     ]
   },
   {
     "id": "rta-moto-076",
-    "question_text": "It is best  to use bright colored helmet because:",
+    "question_text": "चमकीले रंग का हेलमेट उपयोग करना सबसे अच्छा है क्योंकि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-076-a",
-        "answer_text": "it makes the ride more enjoyable."
+        "answer_text": "यह सवारी को अधिक आनंददायक बनाता है।"
       },
       {
         "id": "rta-moto-076-b",
-        "answer_text": "it makes the ride a lot easier."
+        "answer_text": "यह सवारी को बहुत आसान बनाता है।"
       },
       {
         "id": "rta-moto-076-c",
-        "answer_text": "it helps the rider to be more visible."
+        "answer_text": "यह सवार को अधिक दृश्यमान होने में मदद करता है।"
       }
     ]
   },
   {
     "id": "rta-moto-078",
-    "question_text": "When riding, wearing bright colored clothing will help:",
+    "question_text": "सवारी करते समय चमकीले रंग के कपड़े पहनने से मदद मिलेगी:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-078-a",
-        "answer_text": "other road users see and able to avoid you."
+        "answer_text": "सड़क के अन्य उपयोगकर्ता आपको देख सकें और आपसे बच सकें।"
       },
       {
         "id": "rta-moto-078-b",
-        "answer_text": "other road users provide you direction."
+        "answer_text": "सड़क के अन्य उपयोगकर्ता आपको दिशा बताएं।"
       },
       {
         "id": "rta-moto-078-c",
-        "answer_text": "other road users stay closer to you."
+        "answer_text": "सड़क के अन्य उपयोगकर्ता आपके करीब रहें।"
       }
     ]
   },
   {
     "id": "rta-moto-079",
-    "question_text": "If you are riding in rough roads, slowing down will:",
+    "question_text": "यदि आप खराब सड़कों पर सवारी कर रहे हैं, तो धीमा करने से:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-079-a",
-        "answer_text": "help you become oriented."
+        "answer_text": "आपको दिशा समझने में मदद मिलेगी।"
       },
       {
         "id": "rta-moto-079-b",
-        "answer_text": "help reduce road shocks."
+        "answer_text": "सड़क के झटकों को कम करने में मदद मिलेगी।"
       },
       {
         "id": "rta-moto-079-c",
-        "answer_text": "help give you time to rest."
+        "answer_text": "आपको आराम करने का समय मिलेगा।"
       }
     ]
   },
   {
     "id": "rta-moto-086",
-    "question_text": "Compared to daytime, the speed and distance at night is:",
+    "question_text": "दिन की तुलना में रात में गति और दूरी:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-086-a",
-        "answer_text": "longer than daytime."
+        "answer_text": "दिन से अधिक होती है।"
       },
       {
         "id": "rta-moto-086-b",
-        "answer_text": "more difficult to judge."
+        "answer_text": "आंकना अधिक कठिन होता है।"
       },
       {
         "id": "rta-moto-086-c",
-        "answer_text": "more difficult to see."
+        "answer_text": "देखना अधिक कठिन होता है।"
       }
     ]
   },
   {
     "id": "rta-moto-091",
-    "question_text": "Improve your safety when riding at night by:",
+    "question_text": "रात में राइड करते समय अपनी सुरक्षा सुधारें:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-091-a",
-        "answer_text": "reducing your travel time."
+        "answer_text": "अपना यात्रा समय कम करके।"
       },
       {
         "id": "rta-moto-091-b",
-        "answer_text": "increasing your visibility."
+        "answer_text": "अपनी दृश्यता बढ़ाकर।"
       },
       {
         "id": "rta-moto-091-c",
-        "answer_text": "reducing your following distance."
+        "answer_text": "अपनी पीछे चलने की दूरी कम करके।"
       }
     ]
   },
   {
     "id": "rta-moto-094",
-    "question_text": "When the bike leans to the right, the pillion passenger should stabilize by:",
+    "question_text": "जब बाइक दाईं ओर झुके, तो पीछे बैठे यात्री को संतुलन बनाए रखने के लिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-094-a",
-        "answer_text": "leaning to the opposite side."
+        "answer_text": "विपरीत दिशा में झुकना चाहिए।"
       },
       {
         "id": "rta-moto-094-b",
-        "answer_text": "leaning to the same (right) side."
+        "answer_text": "उसी (दाईं) दिशा में झुकना चाहिए।"
       },
       {
         "id": "rta-moto-094-c",
-        "answer_text": "leaning forward."
+        "answer_text": "आगे की ओर झुकना चाहिए।"
       }
     ]
   },
   {
     "id": "rta-moto-096",
-    "question_text": "The chain in your bike should be properly adjusted,",
+    "question_text": "आपकी बाइक की चेन को उचित तरीके से समायोजित किया जाना चाहिए,",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-096-a",
-        "answer_text": "cleaned and lubricated"
+        "answer_text": "साफ और चिकनाई लगी हुई"
       },
       {
         "id": "rta-moto-096-b",
-        "answer_text": "clean and fixed."
+        "answer_text": "साफ और ठीक की हुई।"
       },
       {
         "id": "rta-moto-096-c",
-        "answer_text": "clean and tidy."
+        "answer_text": "साफ और व्यवस्थित।"
       }
     ]
   },
   {
     "id": "rta-moto-099",
-    "question_text": "You will know if your brake is still good by:",
+    "question_text": "आपको कैसे पता चलेगा कि आपका ब्रेक अभी भी अच्छा है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-099-a",
-        "answer_text": "looking at wear indicators of the brake pads."
+        "answer_text": "ब्रेक पैड के घिसाव संकेतकों को देखकर।"
       },
       {
         "id": "rta-moto-099-b",
-        "answer_text": "looking at the brake lever."
+        "answer_text": "ब्रेक लीवर को देखकर।"
       },
       {
         "id": "rta-moto-099-c",
-        "answer_text": "looking at the tires."
+        "answer_text": "टायरों को देखकर।"
       }
     ]
   },
   {
     "id": "rta-moto-100",
-    "question_text": "Loose or missing nuts and bolts is among those that:",
+    "question_text": "ढीले या गायब नट और बोल्ट उन चीजों में से हैं जो:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-100-a",
-        "answer_text": "must be checked before you go for a ride."
+        "answer_text": "सवारी पर जाने से पहले जांचे जाने चाहिए।"
       },
       {
         "id": "rta-moto-100-b",
-        "answer_text": "must be checked after you go for a ride."
+        "answer_text": "सवारी के बाद जांचे जाने चाहिए।"
       },
       {
         "id": "rta-moto-100-c",
-        "answer_text": "must be checked during the duration of the ride."
+        "answer_text": "सवारी के दौरान जांचे जाने चाहिए।"
       }
     ]
   },
   {
     "id": "rta-moto-102",
-    "question_text": "Before going for a ride, check for:",
+    "question_text": "सवारी पर जाने से पहले, जांचें:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-102-a",
-        "answer_text": "tire  pressure and tire damage."
+        "answer_text": "टायर का दबाव और टायर की क्षति।"
       },
       {
         "id": "rta-moto-102-b",
-        "answer_text": "the spare tire."
+        "answer_text": "स्पेयर टायर को।"
       },
       {
         "id": "rta-moto-102-c",
-        "answer_text": "tire proper lubrication."
+        "answer_text": "टायर का उचित स्नेहन।"
       }
     ]
   },
   {
     "id": "rta-moto-103",
-    "question_text": "To help ensure rider's safety, pre-drive checks:",
+    "question_text": "सवार की सुरक्षा सुनिश्चित करने में मदद के लिए, ड्राइविंग से पहले की जांच:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-103-a",
-        "answer_text": "should be conducted by every rider."
+        "answer_text": "हर सवार द्वारा की जानी चाहिए।"
       },
       {
         "id": "rta-moto-103-b",
-        "answer_text": "should be conducted by pillion passenger."
+        "answer_text": "पीछे बैठे यात्री द्वारा की जानी चाहिए।"
       },
       {
         "id": "rta-moto-103-c",
-        "answer_text": "should be conducted by a new rider."
+        "answer_text": "केवल नए सवार द्वारा की जानी चाहिए।"
       }
     ]
   },
   {
     "id": "rta-moto-104",
-    "question_text": "To prepare for many hazards on the road, build up your skills gradually by;",
+    "question_text": "सड़क पर कई खतरों की तैयारी के लिए, धीरे-धीरे अपने कौशल को बढ़ाएं:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-104-a",
-        "answer_text": "Riding in daylight before riding at night"
+        "answer_text": "रात को सवारी से पहले दिन में सवारी करें"
       },
       {
         "id": "rta-moto-104-b",
-        "answer_text": "Riding in night time mostly"
+        "answer_text": "अधिकतर रात को सवारी करें"
       },
       {
         "id": "rta-moto-104-c",
-        "answer_text": "Night time or day time is fine for practice riding"
+        "answer_text": "अभ्यास सवारी के लिए रात या दिन दोनों ठीक हैं"
       }
     ]
   },
   {
     "id": "rta-moto-105",
-    "question_text": "Be aware that your emotion can affect your ability to ride safely. This includes;",
+    "question_text": "जागरूक रहें कि आपकी भावनाएं सुरक्षित रूप से सवारी करने की आपकी क्षमता को प्रभावित कर सकती हैं। इसमें शामिल है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-105-a",
-        "answer_text": "Being cautious"
+        "answer_text": "सतर्क रहना"
       },
       {
         "id": "rta-moto-105-b",
-        "answer_text": "Being upset or angry"
+        "answer_text": "परेशान या क्रोधित होना"
       },
       {
         "id": "rta-moto-105-c",
-        "answer_text": "Being confident"
+        "answer_text": "आत्मविश्वासी होना"
       }
     ]
   },
   {
     "id": "rta-moto-106",
-    "question_text": "This makes it difficult to concentrate and control your bike at the same time.",
+    "question_text": "यह आपके लिए एक साथ ध्यान केंद्रित करना और बाइक को नियंत्रित करना कठिन बनाता है।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-106-a",
-        "answer_text": "Learning new techniques"
+        "answer_text": "नई तकनीक सीखना"
       },
       {
         "id": "rta-moto-106-b",
-        "answer_text": "Taking lots of practice ride"
+        "answer_text": "बहुत अधिक अभ्यास सवारी करना"
       },
       {
         "id": "rta-moto-106-c",
-        "answer_text": "Consuming alcohol"
+        "answer_text": "शराब का सेवन करना"
       }
     ]
   },
   {
     "id": "rta-moto-107",
-    "question_text": "What can affect your ability to ride safely on the roads?",
+    "question_text": "सड़कों पर सुरक्षित रूप से सवारी करने की आपकी क्षमता को क्या प्रभावित कर सकता है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-107-a",
-        "answer_text": "Being overconfident"
+        "answer_text": "अत्यधिक आत्मविश्वासी होना"
       },
       {
         "id": "rta-moto-107-b",
-        "answer_text": "Being patient"
+        "answer_text": "धैर्यवान होना"
       },
       {
         "id": "rta-moto-107-c",
-        "answer_text": "Riding in the best mood"
+        "answer_text": "सबसे अच्छे मूड में सवारी करना"
       }
     ]
   },
   {
     "id": "rta-moto-109",
-    "question_text": "This can make it difficult for you to concentrate and control your bike.",
+    "question_text": "यह आपके लिए ध्यान केंद्रित करना और अपनी बाइक को नियंत्रित करना कठिन बना सकता है।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-109-a",
-        "answer_text": "Eating healthy breakfast"
+        "answer_text": "स्वस्थ नाश्ता खाना"
       },
       {
         "id": "rta-moto-109-b",
-        "answer_text": "Taking lots of practice ride"
+        "answer_text": "बहुत अधिक अभ्यास सवारी करना"
       },
       {
         "id": "rta-moto-109-c",
-        "answer_text": "Consuming a small amount of alcohol"
+        "answer_text": "थोड़ी मात्रा में शराब का सेवन करना"
       }
     ]
   },
   {
     "id": "rta-moto-112",
-    "question_text": "How can you give yourself more space on the road when riding?",
+    "question_text": "सवारी के दौरान सड़क पर खुद को अधिक जगह कैसे दे सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-112-a",
-        "answer_text": "By riding slow"
+        "answer_text": "धीमी सवारी करके"
       },
       {
         "id": "rta-moto-112-b",
-        "answer_text": "By thinking ahead"
+        "answer_text": "आगे की सोच कर"
       },
       {
         "id": "rta-moto-112-c",
-        "answer_text": "By checking your mirrors"
+        "answer_text": "अपने दर्पण जांच कर"
       }
     ]
   },
   {
     "id": "rta-moto-115",
-    "question_text": "Wear protective clothing because it helps prevent dehydration. It also;",
+    "question_text": "सुरक्षात्मक कपड़े पहनें क्योंकि यह निर्जलीकरण को रोकने में मदद करता है। यह इसके अलावा भी;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-115-a",
-        "answer_text": "Makes your riding less tiring"
+        "answer_text": "आपकी सवारी को कम थकाऊ बनाता है"
       },
       {
         "id": "rta-moto-115-b",
-        "answer_text": "Helps to have more balance"
+        "answer_text": "अधिक संतुलन बनाए रखने में मदद करता है"
       },
       {
         "id": "rta-moto-115-c",
-        "answer_text": "Makes you more fatigued"
+        "answer_text": "आपको अधिक थका देता है"
       }
     ]
   },
   {
     "id": "rta-moto-116",
-    "question_text": "If you are riding for a long period, it helps to;",
+    "question_text": "यदि आप लंबे समय तक सवारी कर रहे हैं, तो इससे मदद मिलती है;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-116-a",
-        "answer_text": "Ride fast and arrive early"
+        "answer_text": "तेज सवारी करें और जल्दी पहुंचें"
       },
       {
         "id": "rta-moto-116-b",
-        "answer_text": "Have more frequent stops"
+        "answer_text": "अधिक बार रुकें"
       },
       {
         "id": "rta-moto-116-c",
-        "answer_text": "Have heavy meals when taking breaks"
+        "answer_text": "ब्रेक के दौरान भारी भोजन करें"
       }
     ]
   },
   {
     "id": "rta-moto-117",
-    "question_text": "Resting before you start. It helps in making your;",
+    "question_text": "शुरू करने से पहले आराम करें। यह आपकी सवारी को;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-117-a",
-        "answer_text": "Following distance longer"
+        "answer_text": "फॉलोइंग दूरी अधिक लंबी बनाता है"
       },
       {
         "id": "rta-moto-117-b",
-        "answer_text": "Ride less safe"
+        "answer_text": "सवारी को कम सुरक्षित बनाता है"
       },
       {
         "id": "rta-moto-117-c",
-        "answer_text": "Ride less tiring"
+        "answer_text": "सवारी को कम थकाऊ बनाता है"
       }
     ]
   },
   {
     "id": "rta-moto-119",
-    "question_text": "It is not advisable to buy a second hand helmet because:",
+    "question_text": "पुराना हेलमेट खरीदना उचित नहीं है क्योंकि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-119-a",
-        "answer_text": "Secondhand helmets affects your riding ability"
+        "answer_text": "पुराने हेलमेट आपकी सवारी क्षमता को प्रभावित करते हैं"
       },
       {
         "id": "rta-moto-119-b",
-        "answer_text": "Secondhand helmets may have damage you cannot see"
+        "answer_text": "पुराने हेलमेट में ऐसी क्षति हो सकती है जो दिखाई न दे"
       },
       {
         "id": "rta-moto-119-c",
-        "answer_text": "Secondhand helmets do not meet the safety standards"
+        "answer_text": "पुराने हेलमेट सुरक्षा मानकों को पूरा नहीं करते"
       }
     ]
   },
   {
     "id": "rta-moto-120",
-    "question_text": "How can you protect your eyes when riding?",
+    "question_text": "सवारी करते समय आप अपनी आंखों की सुरक्षा कैसे कर सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-120-a",
-        "answer_text": "Use eye drops"
+        "answer_text": "आई ड्रॉप्स का उपयोग करें"
       },
       {
         "id": "rta-moto-120-b",
-        "answer_text": "Wear high quality helmet"
+        "answer_text": "उच्च गुणवत्ता वाला हेलमेट पहनें"
       },
       {
         "id": "rta-moto-120-c",
-        "answer_text": "Wear goggles or visors"
+        "answer_text": "गॉगल्स या वाइज़र पहनें"
       }
     ]
   },
   {
     "id": "rta-moto-121",
-    "question_text": "If the googles or visors you are using is damaged, it can:",
+    "question_text": "यदि आपके गॉगल्स या वाइज़र क्षतिग्रस्त हैं, तो यह:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-121-a",
-        "answer_text": "Blur and distort light at night"
+        "answer_text": "रात में रोशनी को धुंधला और विकृत कर सकते हैं"
       },
       {
         "id": "rta-moto-121-b",
-        "answer_text": "Affect the effectiveness of your helmet"
+        "answer_text": "आपके हेलमेट की प्रभावशीलता को प्रभावित कर सकते हैं"
       },
       {
         "id": "rta-moto-121-c",
-        "answer_text": "Cause you to ride safely"
+        "answer_text": "आपको सुरक्षित सवारी करने में मदद कर सकते हैं"
       }
     ]
   },
   {
     "id": "rta-moto-123",
-    "question_text": "What can help other drivers to see and avoid you on the road especially in poorly lighted areas?",
+    "question_text": "सड़क पर विशेष रूप से कम रोशनी वाले क्षेत्रों में दूसरे चालकों को आपको देखने और बचने में क्या मदद कर सकता है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-123-a",
-        "answer_text": "If you ride fast enough"
+        "answer_text": "यदि आप काफी तेज सवारी करें"
       },
       {
         "id": "rta-moto-123-b",
-        "answer_text": "If your helmet is brand new"
+        "answer_text": "यदि आपका हेलमेट बिल्कुल नया हो"
       },
       {
         "id": "rta-moto-123-c",
-        "answer_text": "If you are wearing bright colored clothes"
+        "answer_text": "यदि आप चमकीले रंग के कपड़े पहने हों"
       }
     ]
   },
   {
     "id": "rta-moto-125",
-    "question_text": "As you conduct pre-drive check for your bike, the brake should;",
+    "question_text": "जब आप अपनी बाइक का प्री-ड्राइव चेक करें, तो ब्रेक को;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-125-a",
-        "answer_text": "Be well oiled"
+        "answer_text": "अच्छी तरह तेल लगी होनी चाहिए"
       },
       {
         "id": "rta-moto-125-b",
-        "answer_text": "Work smoothly"
+        "answer_text": "सुचारू रूप से काम करनी चाहिए"
       },
       {
         "id": "rta-moto-125-c",
-        "answer_text": "Pull the cables firmly"
+        "answer_text": "तारों को मजबूती से खींचना चाहिए"
       }
     ]
   },
   {
     "id": "rta-moto-126",
-    "question_text": "When is the best time to check and adjust your mirrors?",
+    "question_text": "दर्पणों की जांच और समायोजन करने का सबसे अच्छा समय कब है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-126-a",
-        "answer_text": "When doing head check"
+        "answer_text": "जब हेड चेक करते समय"
       },
       {
         "id": "rta-moto-126-b",
-        "answer_text": "While riding"
+        "answer_text": "सवारी के दौरान"
       },
       {
         "id": "rta-moto-126-c",
-        "answer_text": "During pre-ride checks"
+        "answer_text": "प्री-राइड चेक के दौरान"
       }
     ]
   },
   {
     "id": "rta-moto-129",
-    "question_text": "Proper setting up with your bike require your elbows should be slightly bent and tucked in. Why?",
+    "question_text": "बाइक पर सही तरीके से बैठने के लिए आपकी कोहनियाँ थोड़ी मुड़ी हुई और अंदर की ओर होनी चाहिए। क्यों?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-129-a",
-        "answer_text": "to hold the fuel tank firmly with your knees for balance"
+        "answer_text": "संतुलन के लिए घुटनों से ईंधन टैंक को मजबूती से पकड़ने के लिए"
       },
       {
         "id": "rta-moto-129-b",
-        "answer_text": "the soft seat allows you relax and ride safely"
+        "answer_text": "नरम सीट आपको आराम से और सुरक्षित तरीके से सवारी करने देती है"
       },
       {
         "id": "rta-moto-129-c",
-        "answer_text": "to absorb bumps when you brake"
+        "answer_text": "ब्रेक लगाते समय झटकों को अवशोषित करने के लिए"
       }
     ]
   },
   {
     "id": "rta-moto-138",
-    "question_text": "One of many ways to improve your safety when riding motorcycle is the use of brakes. How?",
+    "question_text": "मोटरसाइकिल चलाते समय सुरक्षा बढ़ाने के कई तरीकों में से एक ब्रेक का उपयोग है। कैसे?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-138-a",
-        "answer_text": "start braking early so drivers know you are slowing down"
+        "answer_text": "जल्दी ब्रेक लगाना शुरू करें ताकि ड्राइवरों को पता चले कि आप धीमे हो रहे हैं"
       },
       {
         "id": "rta-moto-138-b",
-        "answer_text": "use bright colored reflective clothing to become more visible"
+        "answer_text": "अधिक दिखाई देने के लिए चमकीले रंग के परावर्तक कपड़े पहनें"
       },
       {
         "id": "rta-moto-138-c",
-        "answer_text": "proper use of headlights during the day"
+        "answer_text": "दिन में हेडलाइट का उचित उपयोग"
       }
     ]
   },
   {
     "id": "rta-moto-144",
-    "question_text": "When you are riding behind a big vehicle, it may be wise to;",
+    "question_text": "जब आप किसी बड़े वाहन के पीछे चला रहे हों, तो समझदारी होगी कि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-144-a",
-        "answer_text": "Increase your following distance to more than 3 seconds"
+        "answer_text": "अपनी पिछली दूरी 3 सेकंड से अधिक बढ़ाएं"
       },
       {
         "id": "rta-moto-144-b",
-        "answer_text": "Increase your speed and reduce your following distance"
+        "answer_text": "अपनी गति बढ़ाएं और पिछली दूरी कम करें"
       },
       {
         "id": "rta-moto-144-c",
-        "answer_text": "Stay in that position for as long possible"
+        "answer_text": "जितना हो सके उतनी देर उसी स्थिति में रहें"
       }
     ]
   },
   {
     "id": "rta-moto-145",
-    "question_text": "As a rider, having more safe space is the best protection you may have. How far should a following distance be?",
+    "question_text": "एक राइडर के रूप में, अधिक सुरक्षित स्थान आपकी सबसे बेहतरीन सुरक्षा है। पिछली दूरी कितनी होनी चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-145-a",
-        "answer_text": "2-second gap"
+        "answer_text": "2 सेकंड का अंतर"
       },
       {
         "id": "rta-moto-145-b",
-        "answer_text": "3-second gap"
+        "answer_text": "3 सेकंड का अंतर"
       },
       {
         "id": "rta-moto-145-c",
-        "answer_text": "1-second gap"
+        "answer_text": "1 सेकंड का अंतर"
       }
     ]
   },
   {
     "id": "rta-moto-146",
-    "question_text": "You are riding behind a large vehicle and you estimate you have about 3 seconds behind. What should you do to be more safe?",
+    "question_text": "आप एक बड़े वाहन के पीछे चल रहे हैं और अनुमान लगाते हैं कि आपके बीच लगभग 3 सेकंड की दूरी है। अधिक सुरक्षित रहने के लिए आपको क्या करना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-146-a",
-        "answer_text": "improve your forward view by increasing the following distance"
+        "answer_text": "पिछली दूरी बढ़ाकर आगे का दृश्य बेहतर करें"
       },
       {
         "id": "rta-moto-146-b",
-        "answer_text": "maintain the current following distance"
+        "answer_text": "मौजूदा पिछली दूरी बनाए रखें"
       },
       {
         "id": "rta-moto-146-c",
-        "answer_text": "position away from the blind spots of the other vehicles"
+        "answer_text": "अन्य वाहनों के अंधे धब्बों से दूर स्थिति लें"
       }
     ]
   },
   {
     "id": "rta-moto-147",
-    "question_text": "On your ride you noticed that you are giving more attention  the vehicle in front of you. What should you do?",
+    "question_text": "सवारी के दौरान आपने देखा कि आप सामने वाले वाहन पर अधिक ध्यान दे रहे हैं। आपको क्या करना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-147-a",
-        "answer_text": "speed up, your following distance may be too long"
+        "answer_text": "गति बढ़ाएं, आपकी पिछली दूरी शायद बहुत ज्यादा है"
       },
       {
         "id": "rta-moto-147-b",
-        "answer_text": "slow down, your following distance may be too short"
+        "answer_text": "धीमा करें, आपकी पिछली दूरी शायद बहुत कम है"
       },
       {
         "id": "rta-moto-147-c",
-        "answer_text": "sound your horn, so the vehicle in front will move to the next lane"
+        "answer_text": "हॉर्न बजाएं ताकि सामने वाला वाहन अगली लेन में चला जाए"
       }
     ]
   },
   {
     "id": "rta-moto-161",
-    "question_text": "To improve safety, it is best for pillion passenger to;",
+    "question_text": "सुरक्षा बेहतर करने के लिए, पीछे बैठे यात्री के लिए सबसे अच्छा है कि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-161-a",
-        "answer_text": "serve as counter weight when the rider leans during turns"
+        "answer_text": "मोड़ के दौरान जब राइडर झुके तो काउंटर वेट का काम करें"
       },
       {
         "id": "rta-moto-161-b",
-        "answer_text": "sit as far back as possible"
+        "answer_text": "जितना हो सके पीछे बैठें"
       },
       {
         "id": "rta-moto-161-c",
-        "answer_text": "wear brightly colored protective clothing and helmet as the rider."
+        "answer_text": "राइडर की तरह चमकीले रंग के सुरक्षात्मक कपड़े और हेलमेट पहनें"
       }
     ]
   },
   {
     "id": "rta-moto-162",
-    "question_text": "During the ride, the rider and pillion passenger should avoid talking to each other because;",
+    "question_text": "सवारी के दौरान, राइडर और पीछे बैठे यात्री को आपस में बात करने से बचना चाहिए क्योंकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-162-a",
-        "answer_text": "this will improve the ride and make it safer"
+        "answer_text": "इससे सवारी बेहतर और सुरक्षित होगी"
       },
       {
         "id": "rta-moto-162-b",
-        "answer_text": "this will reduce the rider's focus and attention on the road"
+        "answer_text": "इससे राइडर का सड़क पर ध्यान और एकाग्रता कम होगी"
       },
       {
         "id": "rta-moto-162-c",
-        "answer_text": "talking on the phone while riding is not allowed"
+        "answer_text": "सवारी करते हुए फोन पर बात करना प्रतिबंधित है"
       }
     ]
   },
   {
     "id": "rta-moto-163",
-    "question_text": "You and your friend have seated on the bike and ready for a ride. To have a better view of the traffic around, what should you do?",
+    "question_text": "आप और आपके दोस्त बाइक पर बैठकर सवारी के लिए तैयार हैं। आसपास की ट्रैफिक का बेहतर नज़ारा पाने के लिए आपको क्या करना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-163-a",
-        "answer_text": "adjust the mirrors before the ride when both you and your friend have seated"
+        "answer_text": "सवारी से पहले दर्पण एडजस्ट करें जब आप दोनों बैठे हों"
       },
       {
         "id": "rta-moto-163-b",
-        "answer_text": "adjust the mirrors during the ride and when both you and your friend have seated"
+        "answer_text": "सवारी के दौरान दर्पण एडजस्ट करें जब आप दोनों बैठे हों"
       },
       {
         "id": "rta-moto-163-c",
-        "answer_text": "ask your friend to check the view from the rear view mirrors from time to time"
+        "answer_text": "अपने दोस्त से कहें कि वह समय-समय पर रियरव्यू मिरर से नज़ारा जांचे"
       }
     ]
   },
   {
     "id": "rta-moto-174",
-    "question_text": "The tire is not flat but your bike begins to wobble from side to side. What should you do first in this situation?",
+    "question_text": "टायर पंक्चर नहीं है लेकिन आपकी बाइक एक तरफ से दूसरी तरफ हिलने लगती है। इस स्थिति में आपको पहले क्या करना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-174-a",
-        "answer_text": "apply both brakes carefully and slow down gradually"
+        "answer_text": "दोनों ब्रेक सावधानी से लगाएं और धीरे-धीरे गति कम करें"
       },
       {
         "id": "rta-moto-174-b",
-        "answer_text": "check the tires for wear and tear"
+        "answer_text": "टायरों में घिसाव की जांच करें"
       },
       {
         "id": "rta-moto-174-c",
-        "answer_text": "a heavy load is evenly distributed"
+        "answer_text": "भारी सामान समान रूप से वितरित किया गया है"
       }
     ]
   },
   {
     "id": "rta-moto-176",
-    "question_text": "Your throttle is stuck  when you are not able to slow the speed of the engine. What are two (2) things you can do?",
+    "question_text": "आपका थ्रॉटल जाम हो गया है और आप इंजन की गति कम नहीं कर पा रहे। आप दो (2) काम क्या कर सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-176-a",
-        "answer_text": "try and unstock the throttle and then slow down to stop"
+        "answer_text": "थ्रॉटल को खोलने की कोशिश करें और फिर धीमे होकर रुकें"
       },
       {
         "id": "rta-moto-176-b",
-        "answer_text": "pull off the road and brake gently to a stop, then stop engine"
+        "answer_text": "सड़क से किनारे हटें और धीरे-धीरे ब्रेक लगाकर रुकें, फिर इंजन बंद करें"
       },
       {
         "id": "rta-moto-176-c",
-        "answer_text": "call emergency service immediately"
+        "answer_text": "तुरंत आपातकालीन सेवाओं को कॉल करें"
       }
     ]
   },
   {
     "id": "rta-moto-186",
-    "question_text": "The road is slippery making the riding condition poor. It is a good idea to;",
+    "question_text": "सड़क फिसलन भरी है जिससे सवारी की स्थिति खराब है। यह अच्छा विचार है कि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-186-a",
-        "answer_text": "increase the speed and reach destination quickly"
+        "answer_text": "गति बढ़ाएं और जल्दी मंजिल पर पहुंचें"
       },
       {
         "id": "rta-moto-186-b",
-        "answer_text": "increase the following distance to 3 seconds"
+        "answer_text": "अनुसरण दूरी 3 सेकंड तक बढ़ाएं"
       },
       {
         "id": "rta-moto-186-c",
-        "answer_text": "increase the following distance to more than 3 seconds"
+        "answer_text": "अनुसरण दूरी 3 सेकंड से अधिक बढ़ाएं"
       }
     ]
   },
   {
     "id": "rta-moto-187",
-    "question_text": "You are passing cars that are parked on the side, what precaution can you take to stay safe?",
+    "question_text": "आप किनारे पर खड़ी कारों के पास से गुजर रहे हैं, सुरक्षित रहने के लिए आप क्या सावधानी बरत सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-187-a",
-        "answer_text": "change position and have more space to maneuver"
+        "answer_text": "स्थिति बदलें और पैंतरेबाजी के लिए अधिक जगह बनाएं"
       },
       {
         "id": "rta-moto-187-b",
-        "answer_text": "speed up to pass the area quickly"
+        "answer_text": "क्षेत्र को जल्दी पार करने के लिए गति बढ़ाएं"
       },
       {
         "id": "rta-moto-187-c",
-        "answer_text": "look for alternative routes to use"
+        "answer_text": "उपयोग करने के लिए वैकल्पिक मार्ग खोजें"
       }
     ]
   },
   {
     "id": "rta-moto-191",
-    "question_text": "Riding on  bumpy roads, how can you let your bike suspension to work properly?",
+    "question_text": "ऊबड़-खाबड़ सड़कों पर राइडिंग करते समय, आप बाइक के सस्पेंशन को सही तरीके से काम करने देने के लिए क्या कर सकते हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-191-a",
-        "answer_text": "By speeding up"
+        "answer_text": "गति बढ़ाकर"
       },
       {
         "id": "rta-moto-191-b",
-        "answer_text": "by riding upright"
+        "answer_text": "सीधे बैठकर राइडिंग करके"
       },
       {
         "id": "rta-moto-191-c",
-        "answer_text": "by slowing down"
+        "answer_text": "गति कम करके"
       }
     ]
   },
   {
     "id": "rta-moto-192",
-    "question_text": "Riding on bumpy roads can affect your steering as well as the suspension. Improve your control by;",
+    "question_text": "ऊबड़-खाबड़ सड़कों पर राइडिंग आपकी स्टीयरिंग और सस्पेंशन दोनों को प्रभावित कर सकती है। इस प्रकार अपना नियंत्रण बेहतर बनाएं;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-moto-192-a",
-        "answer_text": "raising yourself a little on the foot pegs to lessen the shocks on knees and elbows."
+        "answer_text": "घुटनों और कोहनियों पर झटकों को कम करने के लिए फुट पेग्स पर थोड़ा उठकर बैठना"
       },
       {
         "id": "rta-moto-192-b",
-        "answer_text": "staying on seated position and reducing the speed"
+        "answer_text": "बैठने की स्थिति में रहना और गति कम करना"
       },
       {
         "id": "rta-moto-192-c",
-        "answer_text": "leaning forward and increasing the speed"
+        "answer_text": "आगे की ओर झुकना और गति बढ़ाना"
       }
     ]
   },
   {
     "id": "rta-hvb-001",
-    "question_text": "A Light Bus may seat:",
+    "question_text": "एक लाइट बस में बैठ सकते हैं:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-001-a",
-        "answer_text": "up to 26 passengers not including the driver."
+        "answer_text": "ड्राइवर को छोड़कर 26 यात्री तक।"
       },
       {
         "id": "rta-hvb-001-b",
-        "answer_text": "up to 12 adults, including the driver."
+        "answer_text": "ड्राइवर सहित 12 वयस्क तक।"
       },
       {
         "id": "rta-hvb-001-c",
-        "answer_text": "up to 12 adults, not including the driver."
+        "answer_text": "ड्राइवर को छोड़कर 12 वयस्क तक।"
       }
     ]
   },
   {
     "id": "rta-hvb-005",
-    "question_text": "If you must drive long distances with a cold, it's best to:",
+    "question_text": "यदि आपको सर्दी के साथ लंबी दूरी गाड़ी चलानी पड़े, तो बेहतर है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-005-a",
-        "answer_text": "take cold tablets."
+        "answer_text": "सर्दी की गोलियाँ लेना।"
       },
       {
         "id": "rta-hvb-005-b",
-        "answer_text": "drive longer periods before taking a break."
+        "answer_text": "ब्रेक लेने से पहले अधिक समय तक गाड़ी चलाना।"
       },
       {
         "id": "rta-hvb-005-c",
-        "answer_text": "drive with the cold."
+        "answer_text": "सर्दी के साथ गाड़ी चलाना।"
       }
     ]
   },
   {
     "id": "rta-hvb-006",
-    "question_text": "The best way to prevent fatigue is to make trips during:",
+    "question_text": "थकान को रोकने का सबसे अच्छा तरीका यह है कि यात्राएं _______ के दौरान की जाएं:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-006-a",
-        "answer_text": "hours you are normally awake."
+        "answer_text": "वे घंटे जब आप सामान्यतः जागते हैं।"
       },
       {
         "id": "rta-hvb-006-b",
-        "answer_text": "daylight hours only."
+        "answer_text": "केवल दिन के घंटों में।"
       },
       {
         "id": "rta-hvb-006-c",
-        "answer_text": "at night only."
+        "answer_text": "केवल रात को।"
       }
     ]
   },
   {
     "id": "rta-hvb-007",
-    "question_text": "During rest periods, light exercise such as touching your toes:",
+    "question_text": "आराम के विरामों के दौरान, हल्की कसरत जैसे पैर की उंगलियों को छूना:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-007-a",
-        "answer_text": "can help you keep awake."
+        "answer_text": "आपको जागने में मदद कर सकती है।"
       },
       {
         "id": "rta-hvb-007-b",
-        "answer_text": "does not affect your level of alertness."
+        "answer_text": "आपकी सतर्कता के स्तर को प्रभावित नहीं करती।"
       },
       {
         "id": "rta-hvb-007-c",
-        "answer_text": "should not be done before a long trip."
+        "answer_text": "लंबी यात्रा से पहले नहीं करनी चाहिए।"
       }
     ]
   },
   {
     "id": "rta-hvb-008",
-    "question_text": "Which is most likely to cause drowsiness when driving?",
+    "question_text": "गाड़ी चलाते समय नींद आने की सबसे अधिक संभावना किससे है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-008-a",
-        "answer_text": "Taking cold tablets."
+        "answer_text": "सर्दी की गोलियाँ लेना।"
       },
       {
         "id": "rta-hvb-008-b",
-        "answer_text": "Suffering from hay-fever."
+        "answer_text": "हे-फीवर से पीड़ित होना।"
       },
       {
         "id": "rta-hvb-008-c",
-        "answer_text": "Taking a short nap before driving."
+        "answer_text": "गाड़ी चलाने से पहले थोड़ी झपकी लेना।"
       }
     ]
   },
   {
     "id": "rta-hvb-009",
-    "question_text": "The best time to take a short break is:",
+    "question_text": "थोड़ा विराम लेने का सबसे अच्छा समय है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-009-a",
-        "answer_text": "before you become tired."
+        "answer_text": "थकान महसूस होने से पहले।"
       },
       {
         "id": "rta-hvb-009-b",
-        "answer_text": "as soon as you become tired."
+        "answer_text": "जैसे ही थकान महसूस हो।"
       },
       {
         "id": "rta-hvb-009-c",
-        "answer_text": "as soon as you reach your destination."
+        "answer_text": "जैसे ही आप अपने गंतव्य पर पहुँचें।"
       }
     ]
   },
   {
     "id": "rta-hvb-010",
-    "question_text": "Which food would be best for eating on a long trip?",
+    "question_text": "लंबी यात्रा में खाने के लिए सबसे अच्छा भोजन कौन सा होगा?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-010-a",
-        "answer_text": "A hamburger."
+        "answer_text": "एक हैमबर्गर।"
       },
       {
         "id": "rta-hvb-010-b",
-        "answer_text": "A bag of fruit."
+        "answer_text": "फलों की एक थैली।"
       },
       {
         "id": "rta-hvb-010-c",
-        "answer_text": "A bowl of pasta."
+        "answer_text": "पास्ता का एक कटोरा।"
       }
     ]
   },
   {
     "id": "rta-hvb-012",
-    "question_text": "Low tire pressure:",
+    "question_text": "टायर में कम हवा का दबाव:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-012-a",
-        "answer_text": "makes handling more difficult and increases the chance of a tire fire."
+        "answer_text": "वाहन चलाना कठिन बनाता है और टायर में आग लगने की संभावना बढ़ाता है।"
       },
       {
         "id": "rta-hvb-012-b",
-        "answer_text": "makes handling more difficult, but lessens the chance of a tire fire."
+        "answer_text": "वाहन चलाना कठिन बनाता है, लेकिन टायर में आग लगने की संभावना कम करता है।"
       },
       {
         "id": "rta-hvb-012-c",
-        "answer_text": "improves handling and increases the chance of a tire fire."
+        "answer_text": "वाहन चलाना बेहतर बनाता है और टायर में आग लगने की संभावना बढ़ाता है।"
       }
     ]
   },
   {
     "id": "rta-hvb-014",
-    "question_text": "The main worry about rust streaks around wheel nuts is that:",
+    "question_text": "पहिए के नट्स के आसपास जंग की धारियों की मुख्य चिंता यह है कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-014-a",
-        "answer_text": "the wheel nuts might be loose."
+        "answer_text": "पहिए के नट ढीले हो सकते हैं।"
       },
       {
         "id": "rta-hvb-014-b",
-        "answer_text": "the wheel might become damaged by rust."
+        "answer_text": "पहिया जंग से क्षतिग्रस्त हो सकता है।"
       },
       {
         "id": "rta-hvb-014-c",
-        "answer_text": "the tire is likely to lose pressure or come off the rim."
+        "answer_text": "टायर की हवा कम हो सकती है या वह रिम से उतर सकता है।"
       }
     ]
   },
   {
     "id": "rta-hvb-015",
-    "question_text": "To take a curve to the left, your vehicle should be steered:",
+    "question_text": "बाईं ओर मोड़ लेने के लिए, आपके वाहन को इस प्रकार चलाना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-015-a",
-        "answer_text": "close to the centre line."
+        "answer_text": "केंद्र रेखा के पास।"
       },
       {
         "id": "rta-hvb-015-b",
-        "answer_text": "close to the right side of your lane"
+        "answer_text": "अपनी लेन के दाईं ओर के पास।"
       },
       {
         "id": "rta-hvb-015-c",
-        "answer_text": "near the middle of your lane."
+        "answer_text": "अपनी लेन के बीच के पास।"
       }
     ]
   },
   {
     "id": "rta-hvb-016",
-    "question_text": "The amount of cut-in of a heavy vehicle depends on:",
+    "question_text": "भारी वाहन का कट-इन कितना होगा, यह निर्भर करता है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-016-a",
-        "answer_text": "the length of the vehicle and the sharpness of the turn."
+        "answer_text": "वाहन की लंबाई और मोड़ की तीव्रता पर।"
       },
       {
         "id": "rta-hvb-016-b",
-        "answer_text": "the width of the vehicle."
+        "answer_text": "वाहन की चौड़ाई पर।"
       },
       {
         "id": "rta-hvb-016-c",
-        "answer_text": "the width of the street you are entering."
+        "answer_text": "जिस सड़क में आप प्रवेश कर रहे हैं उसकी चौड़ाई पर।"
       }
     ]
   },
   {
     "id": "rta-hvb-023",
-    "question_text": "When driving a heavy vehicle on a left hand bend, you should drive:",
+    "question_text": "बाईं ओर के मोड़ पर भारी वाहन चलाते समय, आपको चलाना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-023-a",
-        "answer_text": "close to the right of the lane."
+        "answer_text": "लेन के दाईं ओर के पास।"
       },
       {
         "id": "rta-hvb-023-b",
-        "answer_text": "close to the left of the lane."
+        "answer_text": "लेन के बाईं ओर के पास।"
       },
       {
         "id": "rta-hvb-023-c",
-        "answer_text": "in the middle of the lane."
+        "answer_text": "लेन के बीच में।"
       }
     ]
   },
   {
     "id": "rta-hvb-024",
-    "question_text": "On a sharp left turn, cut-in is:",
+    "question_text": "तीखे बाईं ओर मुड़ने पर, कट-इन होता है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-024-a",
-        "answer_text": "more than on a wide turn."
+        "answer_text": "चौड़े मोड़ से अधिक।"
       },
       {
         "id": "rta-hvb-024-b",
-        "answer_text": "less than on a wide turn."
+        "answer_text": "चौड़े मोड़ से कम।"
       },
       {
         "id": "rta-hvb-024-c",
-        "answer_text": "the same as on a wide turn."
+        "answer_text": "चौड़े मोड़ के समान।"
       }
     ]
   },
   {
     "id": "rta-hvb-025",
-    "question_text": "For a longer vehicle, cut-in is:",
+    "question_text": "लंबे वाहन के लिए कट-इन होता है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-025-a",
-        "answer_text": "greater than it is for a shorter vehicle."
+        "answer_text": "छोटे वाहन से अधिक।"
       },
       {
         "id": "rta-hvb-025-b",
-        "answer_text": "smaller than it is for a shorter vehicle."
+        "answer_text": "छोटे वाहन से कम।"
       },
       {
         "id": "rta-hvb-025-c",
-        "answer_text": "the same as it is for a shorter vehicle."
+        "answer_text": "छोटे वाहन के समान।"
       }
     ]
   },
   {
     "id": "rta-hvb-027",
-    "question_text": "Because large vehicles take a longer time to slow down, you should know what is on the road ahead up to:",
+    "question_text": "चूंकि बड़े वाहनों को धीमा होने में अधिक समय लगता है, आपको आगे सड़क पर क्या है यह जानना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-027-a",
-        "answer_text": "8 to 10 seconds."
+        "answer_text": "8 से 10 सेकंड तक।"
       },
       {
         "id": "rta-hvb-027-b",
-        "answer_text": "12 to 15 seconds."
+        "answer_text": "12 से 15 सेकंड तक।"
       },
       {
         "id": "rta-hvb-027-c",
-        "answer_text": "4 to 6 seconds."
+        "answer_text": "4 से 6 सेकंड तक।"
       }
     ]
   },
   {
     "id": "rta-hvb-028",
-    "question_text": "When driving in the city, look ahead as far as:",
+    "question_text": "शहर में गाड़ी चलाते समय, इतनी दूर आगे देखें:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-028-a",
-        "answer_text": "one-quarter block."
+        "answer_text": "एक-चौथाई ब्लॉक।"
       },
       {
         "id": "rta-hvb-028-b",
-        "answer_text": "one-half block."
+        "answer_text": "आधा ब्लॉक।"
       },
       {
         "id": "rta-hvb-028-c",
-        "answer_text": "one full block."
+        "answer_text": "एक पूरा ब्लॉक।"
       }
     ]
   },
   {
     "id": "rta-hvb-034",
-    "question_text": "3 things a heavy vehicle driver must consider when reversing:",
+    "question_text": "पीछे जाते समय एक भारी वाहन चालक को 3 बातें सोचनी चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-034-a",
-        "answer_text": "Reverse slowly, check tires, adjust steering."
+        "answer_text": "धीरे पीछे जाएं, टायर जांचें, स्टीयरिंग समायोजित करें।"
       },
       {
         "id": "rta-hvb-034-b",
-        "answer_text": "Inspect path, check path, reverse on right side only."
+        "answer_text": "रास्ता देखें, रास्ता जांचें, केवल दाईं ओर से पीछे जाएं।"
       },
       {
         "id": "rta-hvb-034-c",
-        "answer_text": "Inspect path, Check clearance, Reverse slowly."
+        "answer_text": "रास्ता निरीक्षण करें, जगह जांचें, धीरे पीछे जाएं।"
       }
     ]
   },
   {
     "id": "rta-hvb-043",
-    "question_text": "Most brake system failures occur because of:",
+    "question_text": "ब्रेक सिस्टम की अधिकांश विफलताएं किस कारण होती हैं:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-043-a",
-        "answer_text": "unsuitable brake use."
+        "answer_text": "अनुचित ब्रेक उपयोग।"
       },
       {
         "id": "rta-hvb-043-b",
-        "answer_text": "poorly maintained brakes."
+        "answer_text": "खराब तरीके से रखरखाव की गई ब्रेक।"
       },
       {
         "id": "rta-hvb-043-c",
-        "answer_text": "damaged brakes."
+        "answer_text": "क्षतिग्रस्त ब्रेक।"
       }
     ]
   },
   {
     "id": "rta-hvb-062",
-    "question_text": "When uncoupling an articulated vehicle, if the turntable release handle will not move, release pressure by:",
+    "question_text": "आर्टिकुलेटेड वाहन को अलग करते समय, यदि टर्नटेबल रिलीज हैंडल नहीं हिलता, तो दबाव कम करें:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-062-a",
-        "answer_text": "gently reversing the prime mover."
+        "answer_text": "प्राइम मूवर को धीरे से पीछे करके।"
       },
       {
         "id": "rta-hvb-062-b",
-        "answer_text": "raising the landing gear slightly."
+        "answer_text": "लैंडिंग गियर को थोड़ा ऊपर उठाकर।"
       },
       {
         "id": "rta-hvb-062-c",
-        "answer_text": "lowering the landing gear further."
+        "answer_text": "लैंडिंग गियर को और नीचे करके।"
       }
     ]
   },
   {
     "id": "rta-hvb-072",
-    "question_text": "Before pulling out from a bus stop you should:",
+    "question_text": "बस स्टॉप से निकलने से पहले आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-072-a",
-        "answer_text": "close passenger doors, then re-check your mirrors."
+        "answer_text": "यात्री दरवाजे बंद करें, फिर अपने दर्पणों की दोबारा जाँच करें।"
       },
       {
         "id": "rta-hvb-072-b",
-        "answer_text": "ask all passengers to sit down."
+        "answer_text": "सभी यात्रियों को बैठने के लिए कहें।"
       },
       {
         "id": "rta-hvb-072-c",
-        "answer_text": "close doors while leaving the curb."
+        "answer_text": "सड़क किनारे छोड़ते समय दरवाजे बंद करें।"
       }
     ]
   },
   {
     "id": "rta-hvb-073",
-    "question_text": "Bus drivers are responsible for the safety of their passengers:",
+    "question_text": "बस चालक अपने यात्रियों की सुरक्षा के लिए जिम्मेदार हैं:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-073-a",
-        "answer_text": "only when they are getting on or off the bus."
+        "answer_text": "केवल तब जब वे बस में चढ़ या उतर रहे हों।"
       },
       {
         "id": "rta-hvb-073-b",
-        "answer_text": "only when they are travelling in a moving bus."
+        "answer_text": "केवल तब जब वे चलती बस में यात्रा कर रहे हों।"
       },
       {
         "id": "rta-hvb-073-c",
-        "answer_text": "at all times during their travel."
+        "answer_text": "यात्रा के दौरान हर समय।"
       }
     ]
   },
   {
     "id": "rta-hvb-074",
-    "question_text": "Before starting your bus trip you should check to see that:",
+    "question_text": "बस यात्रा शुरू करने से पहले आपको यह जाँचना चाहिए कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-074-a",
-        "answer_text": "passenger seats are free to slide and tilt."
+        "answer_text": "यात्री सीटें स्वतंत्र रूप से खिसक और झुक सकती हैं।"
       },
       {
         "id": "rta-hvb-074-b",
-        "answer_text": "steps and walkways are clear for passengers."
+        "answer_text": "यात्रियों के लिए सीढ़ियाँ और रास्ते साफ हैं।"
       },
       {
         "id": "rta-hvb-074-c",
-        "answer_text": "mirrors can be adjusted while you are driving."
+        "answer_text": "गाड़ी चलाते समय दर्पण ठीक किए जा सकते हैं।"
       }
     ]
   },
   {
     "id": "rta-hvb-076",
-    "question_text": "The bus driver is responsible for passengers:",
+    "question_text": "बस चालक यात्रियों का जिम्मेदार है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-076-a",
-        "answer_text": "only when the bus is moving."
+        "answer_text": "केवल जब बस चल रही हो।"
       },
       {
         "id": "rta-hvb-076-b",
-        "answer_text": "at all times."
+        "answer_text": "हर समय।"
       },
       {
         "id": "rta-hvb-076-c",
-        "answer_text": "when they are getting on and off the bus."
+        "answer_text": "जब वे बस में चढ़ और उतर रहे हों।"
       }
     ]
   },
   {
     "id": "rta-hvb-077",
-    "question_text": "A bus driver:",
+    "question_text": "एक बस चालक:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-077-a",
-        "answer_text": "is not responsible for passengers getting on or off the bus."
+        "answer_text": "बस में चढ़ने या उतरने वाले यात्रियों के लिए जिम्मेदार नहीं है।"
       },
       {
         "id": "rta-hvb-077-b",
-        "answer_text": "should make sure any passenger having difficulty getting on or off the bus has help."
+        "answer_text": "यह सुनिश्चित करना चाहिए कि बस में चढ़ने या उतरने में कठिनाई महसूस करने वाले किसी भी यात्री की सहायता की जाए।"
       },
       {
         "id": "rta-hvb-077-c",
-        "answer_text": "should insist that passengers get on or off quickly."
+        "answer_text": "यात्रियों पर जल्दी चढ़ने या उतरने के लिए दबाव डालना चाहिए।"
       }
     ]
   },
   {
     "id": "rta-hvb-084",
-    "question_text": "Because a 10-wheeler truck has many tires, it is acceptable to travel if:",
+    "question_text": "चूँकि 10 पहियों वाले ट्रक में कई टायर होते हैं, इसलिए यात्रा स्वीकार्य है यदि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-084-a",
-        "answer_text": "not one of the tires has any damage."
+        "answer_text": "किसी भी टायर को कोई नुकसान न हो।"
       },
       {
         "id": "rta-hvb-084-b",
-        "answer_text": "all front tires have no damage."
+        "answer_text": "सभी अगले टायर बिना नुकसान के हों।"
       },
       {
         "id": "rta-hvb-084-c",
-        "answer_text": "only one of the rear tires is damaged."
+        "answer_text": "केवल एक पिछला टायर क्षतिग्रस्त हो।"
       }
     ]
   },
   {
     "id": "rta-hvb-091",
-    "question_text": "When driving a loaded truck, one of the best times to change gear is:",
+    "question_text": "लदे हुए ट्रक को चलाते समय, गियर बदलने का सबसे अच्छा समय है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-091-a",
-        "answer_text": "when going downhill."
+        "answer_text": "ढलान पर उतरते समय।"
       },
       {
         "id": "rta-hvb-091-b",
-        "answer_text": "before going downhill."
+        "answer_text": "ढलान पर उतरने से पहले।"
       },
       {
         "id": "rta-hvb-091-c",
-        "answer_text": "after going downhill."
+        "answer_text": "ढलान पर उतरने के बाद।"
       }
     ]
   },
   {
     "id": "rta-hvb-093",
-    "question_text": "When travelling downhill, brake fade can occur due to:",
+    "question_text": "ढलान पर नीचे उतरते समय, ब्रेक फेड हो सकती है इसके कारण:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-093-a",
-        "answer_text": "continuous engine braking."
+        "answer_text": "लगातार इंजन ब्रेकिंग।"
       },
       {
         "id": "rta-hvb-093-b",
-        "answer_text": "Fanned braking."
+        "answer_text": "फैन्ड ब्रेकिंग।"
       },
       {
         "id": "rta-hvb-093-c",
-        "answer_text": "continuous heavy braking."
+        "answer_text": "लगातार भारी ब्रेकिंग।"
       }
     ]
   },
   {
     "id": "rta-hvb-100",
-    "question_text": "If your heavy vehicle is not equipped with power steering, you:",
+    "question_text": "यदि आपके भारी वाहन में पावर स्टीयरिंग नहीं है, तो आपको:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-100-a",
-        "answer_text": "will need to start turning early."
+        "answer_text": "मोड़ जल्दी शुरू करना होगा।"
       },
       {
         "id": "rta-hvb-100-b",
-        "answer_text": "will need to turn a little late."
+        "answer_text": "मोड़ थोड़ा देर से लेना होगा।"
       },
       {
         "id": "rta-hvb-100-c",
-        "answer_text": "will need to steer more aggressively."
+        "answer_text": "अधिक आक्रामक तरीके से स्टीयर करना होगा।"
       }
     ]
   },
   {
     "id": "rta-hvb-101",
-    "question_text": "What is the advantage of reversing slowly?",
+    "question_text": "धीरे रिवर्स करने का क्या फायदा है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-101-a",
-        "answer_text": "You can easily make  corrections in steering errors."
+        "answer_text": "आप स्टीयरिंग की गलतियों को आसानी से सुधार सकते हैं।"
       },
       {
         "id": "rta-hvb-101-b",
-        "answer_text": "You are able make adjustments in the speed."
+        "answer_text": "आप गति में समायोजन कर सकते हैं।"
       },
       {
         "id": "rta-hvb-101-c",
-        "answer_text": "You are able to complete the reverse faster."
+        "answer_text": "आप रिवर्स तेज़ी से पूरा कर सकते हैं।"
       }
     ]
   },
   {
     "id": "rta-hvb-102",
-    "question_text": "When driving a heavy vehicle, the cars on the ___are ___to see in the mirrors.",
+    "question_text": "भारी वाहन चलाते समय, ___ तरफ की कारें दर्पण में देखना ___ होता है।",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-102-a",
-        "answer_text": "right; easier."
+        "answer_text": "दाईं; आसान।"
       },
       {
         "id": "rta-hvb-102-b",
-        "answer_text": "left; difficult."
+        "answer_text": "बाईं; कठिन।"
       },
       {
         "id": "rta-hvb-102-c",
-        "answer_text": "right; difficult."
+        "answer_text": "दाईं; कठिन।"
       }
     ]
   },
   {
     "id": "rta-hvb-104",
-    "question_text": "गाड़ी चलाते समय शांत रहने और सड़क पर ध्यान केंद्रित करने का एक तरीका यह है:",
+    "question_text": "गाड़ी चलाते समय सड़क पर शांत और एकाग्र रहने का एक तरीका है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-104-a",
-        "answer_text": "सकारात्मक दृष्टिकोण बनाए रखें."
+        "answer_text": "सकारात्मक रवैया बनाए रखें।"
       },
       {
         "id": "rta-hvb-104-b",
-        "answer_text": "पर्याप्त दूरी बनाए रखें।"
+        "answer_text": "पर्याप्त फॉलोइंग दूरी बनाए रखें।"
       },
       {
         "id": "rta-hvb-104-c",
@@ -7340,12 +7340,12 @@
   },
   {
     "id": "rta-hvb-123",
-    "question_text": "यात्रा शुरू करने से पहले, बस चालक को यह सुनिश्चित करना होगा कि:",
+    "question_text": "यात्रा शुरू करने से पहले, बस चालक को सुनिश्चित करना चाहिए कि:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-123-a",
-        "answer_text": "सीटें उचित दूरी पर हों."
+        "answer_text": "सीटें उचित दूरी पर हैं।"
       },
       {
         "id": "rta-hvb-123-b",
@@ -7353,108 +7353,108 @@
       },
       {
         "id": "rta-hvb-123-c",
-        "answer_text": "सीटें किसी भी लेखन से मुक्त हैं."
+        "answer_text": "सीटें किसी लेखन से मुक्त हैं।"
       }
     ]
   },
   {
     "id": "rta-hvb-124",
-    "question_text": "दर्पणों का उचित समायोजन अवश्य किया जाना चाहिए:",
+    "question_text": "दर्पणों का उचित समायोजन कब किया जाना चाहिए:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-124-a",
-        "answer_text": "यात्रा ख़त्म होने से पहले."
+        "answer_text": "यात्रा समाप्त होने से पहले।"
       },
       {
         "id": "rta-hvb-124-b",
-        "answer_text": "यात्रा के दौरान ही."
+        "answer_text": "यात्रा के दौरान।"
       },
       {
         "id": "rta-hvb-124-c",
-        "answer_text": "यात्रा शुरू होने से पहले."
+        "answer_text": "यात्रा शुरू होने से पहले।"
       }
     ]
   },
   {
     "id": "rta-hvb-126",
-    "question_text": "यह जानते हुए कि अगले दिन आपको लंबी ड्राइव करनी है। आप इस यात्रा के लिए कैसे तैयारी करेंगे?",
+    "question_text": "जानते हुए कि अगले दिन आपकी लंबी ड्राइव है, आप इस यात्रा की तैयारी कैसे करेंगे?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-126-a",
-        "answer_text": "एक रात पहले खूब पानी पिएं"
+        "answer_text": "रात को खूब पानी पिएं।"
       },
       {
         "id": "rta-hvb-126-b",
-        "answer_text": "एक रात पहले भरपूर नींद लें"
+        "answer_text": "रात को खूब नींद लें।"
       },
       {
         "id": "rta-hvb-126-c",
-        "answer_text": "एक रात पहले खेल गतिविधियों में शामिल हों"
+        "answer_text": "रात को खेलकूद गतिविधियों में भाग लें।"
       }
     ]
   },
   {
     "id": "rta-hvb-128",
-    "question_text": "लंबी ड्राइव पर ब्रेक लेते समय, यह भी सहायक होता है;",
+    "question_text": "लंबी ड्राइव में ब्रेक लेते समय, यह भी सहायक है:",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-128-a",
-        "answer_text": "भारी भोजन करें"
+        "answer_text": "भारी भोजन खाएं।"
       },
       {
         "id": "rta-hvb-128-b",
-        "answer_text": "कुछ सरल शारीरिक व्यायाम करें, जैसे मौके पर दौड़ना"
+        "answer_text": "कुछ सरल शारीरिक व्यायाम करें, जैसे एक जगह दौड़ना।"
       },
       {
         "id": "rta-hvb-128-c",
-        "answer_text": "बहुत गर्म कॉफी या चाय लें"
+        "answer_text": "बहुत गर्म कॉफी या चाय पिएं।"
       }
     ]
   },
   {
     "id": "rta-hvb-130",
-    "question_text": "यदि आपको रात में गाड़ी चलाने की ज़रूरत है तो आपको अतिरिक्त सावधानी बरतने की ज़रूरत है क्योंकि आप आसानी से थक सकते हैं। क्यों?",
+    "question_text": "यदि आपको रात में गाड़ी चलानी है तो आपको बहुत सावधान रहना होगा क्योंकि आप आसानी से थक सकते हैं। क्यों?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-130-a",
-        "answer_text": "रात के समय ट्रैफिक कम होता है"
+        "answer_text": "रात के समय कम ट्रैफिक होती है"
       },
       {
         "id": "rta-hvb-130-b",
-        "answer_text": "दिन का समय अधिक व्यस्त रहता है"
+        "answer_text": "दिन का समय अधिक व्यस्त होता है"
       },
       {
         "id": "rta-hvb-130-c",
-        "answer_text": "रात्रि का समय प्रायः सोने में व्यतीत होता है"
+        "answer_text": "रात का समय आमतौर पर सोने के लिए होता है"
       }
     ]
   },
   {
     "id": "rta-hvb-131",
-    "question_text": "हालाँकि यह सबसे अच्छा समय नहीं है, लेकिन रात में गाड़ी चलाने से बचा नहीं जा सकता;",
+    "question_text": "हालांकि यह सबसे अच्छा समय नहीं है, रात में गाड़ी चलाने से बचा नहीं जा सकता क्योंकि;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-131-a",
-        "answer_text": "दिन के दौरान यातायात प्रतिबंध"
+        "answer_text": "दिन के दौरान ट्रैफिक प्रतिबंध"
       },
       {
         "id": "rta-hvb-131-b",
-        "answer_text": "दिन के दौरान यातायात की भीड़"
+        "answer_text": "दिन के दौरान ट्रैफिक जाम"
       },
       {
         "id": "rta-hvb-131-c",
-        "answer_text": "कुछ ड्राइवर रात में गाड़ी चलाना पसंद करते हैं"
+        "answer_text": "कुछ चालक रात में गाड़ी चलाना पसंद करते हैं"
       }
     ]
   },
   {
     "id": "rta-hvb-132",
-    "question_text": "लंबी ड्राइव करते समय, सुनिश्चित करें कि गाड़ी न चलाएं;",
+    "question_text": "लंबी ड्राइव करते समय, सुनिश्चित करें कि इससे अधिक न चलाएं;",
     "explanation": null,
     "answers": [
       {
@@ -7473,16 +7473,16 @@
   },
   {
     "id": "rta-hvb-137",
-    "question_text": "यदि आप लंबी ड्राइव के दौरान फ्राइज़, पास्ता या पाई जैसे खाद्य पदार्थ खाते हैं, तो इसका आपकी ड्राइविंग पर क्या प्रभाव पड़ेगा?",
+    "question_text": "यदि आप लंबी ड्राइव के दौरान फ्राइज, पास्ता या पाई जैसे खाद्य पदार्थ खाते हैं, तो यह आपकी गाड़ी चलाने पर कैसे असर करेगा?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-137-a",
-        "answer_text": "आपनी यात्रा का आनंद लें"
+        "answer_text": "अपनी यात्रा का आनंद लें"
       },
       {
         "id": "rta-hvb-137-b",
-        "answer_text": "अधिक जल्दी थक जाते हैं"
+        "answer_text": "अधिक जल्दी थक जाएं"
       },
       {
         "id": "rta-hvb-137-c",
@@ -7492,7 +7492,7 @@
   },
   {
     "id": "rta-hvb-146",
-    "question_text": "यदि आप भारी वस्तुएं उठाते हैं, तो आप इसे ठीक से कैसे करते हैं?",
+    "question_text": "भारी वस्तुएं उठाते समय उन्हें सही तरीके से कैसे उठाएं?",
     "explanation": null,
     "answers": [
       {
@@ -7505,75 +7505,75 @@
       },
       {
         "id": "rta-hvb-146-c",
-        "answer_text": "घुटने मुड़े, पीठ झुकी"
+        "answer_text": "घुटने मुड़े हुए, पीठ झुकी हुई"
       }
     ]
   },
   {
     "id": "rta-hvb-151",
-    "question_text": "यदि हम व्हील नट की जाँच कर रहे हैं, तो हमें क्या सुनिश्चित करना चाहिए?",
+    "question_text": "व्हील नट जांचते समय हमें क्या सुनिश्चित करना चाहिए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-151-a",
-        "answer_text": "कि अधिकांश पहिए के नट बरकरार हैं"
+        "answer_text": "कि अधिकांश व्हील नट मौजूद हैं"
       },
       {
         "id": "rta-hvb-151-b",
-        "answer_text": "कि एक भी पहिये का नट गायब नहीं है"
+        "answer_text": "कि एक भी व्हील नट गायब नहीं है"
       },
       {
         "id": "rta-hvb-151-c",
-        "answer_text": "वह उपलब्ध व्हील नट कसकर बंद हैं"
+        "answer_text": "कि उपलब्ध व्हील नट कसकर बंद हैं"
       }
     ]
   },
   {
     "id": "rta-hvb-152",
-    "question_text": "व्हील बेयरिंग और सील से ग्रीस लीक होने का खतरा क्या है?",
+    "question_text": "व्हील बेयरिंग और सील से ग्रीस का रिसाव कितना खतरनाक है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-152-a",
-        "answer_text": "इससे आग लग सकती है या पहिया लॉक हो सकता है"
+        "answer_text": "इससे आग लग सकती है या पहिया जाम हो सकता है"
       },
       {
         "id": "rta-hvb-152-b",
-        "answer_text": "यह भारी वाहन की गति को धीमा कर सकता है"
+        "answer_text": "इससे भारी वाहन की गति धीमी हो सकती है"
       },
       {
         "id": "rta-hvb-152-c",
-        "answer_text": "इससे भार एक तरफ झुक सकता है"
+        "answer_text": "इससे माल एक तरफ झुक सकता है"
       }
     ]
   },
   {
     "id": "rta-hvb-154",
-    "question_text": "दस पहिए वाले भारी वाहन के एक पहिए में खराबी;",
+    "question_text": "दस पहियों वाले भारी वाहन में, एक पहिए में समस्या;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-154-a",
-        "answer_text": "इसे नज़रअंदाज़ किया जा सकता है और यात्रा जारी रखी जा सकती है"
+        "answer_text": "को नजरअंदाज करके यात्रा जारी रखी जा सकती है"
       },
       {
         "id": "rta-hvb-154-b",
-        "answer_text": "नजरअंदाज नहीं किया जा सकता, यात्रा बंद करनी होगी।'"
+        "answer_text": "को नजरअंदाज नहीं किया जा सकता, यात्रा रोकनी होगी"
       },
       {
         "id": "rta-hvb-154-c",
-        "answer_text": "इससे अन्य पहियों को दिक्कत नहीं होगी"
+        "answer_text": "अन्य पहियों को नुकसान नहीं पहुंचाएगी"
       }
     ]
   },
   {
     "id": "rta-hvb-155",
-    "question_text": "आप सुनिश्चित करें कि टैंक मजबूती से जुड़ा हुआ है, ढक्कन कड़े हैं और कोई रिसाव नहीं है। आप किस सिस्टम की जाँच कर रहे हैं?",
+    "question_text": "आप सुनिश्चित करते हैं कि टैंक मजबूती से लगा है, ढक्कन कसे हुए हैं और कोई रिसाव नहीं है। आप किस प्रणाली की जांच कर रहे हैं?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-155-a",
-        "answer_text": "विद्युत व्यवस्था"
+        "answer_text": "विद्युत प्रणाली"
       },
       {
         "id": "rta-hvb-155-b",
@@ -7587,7 +7587,7 @@
   },
   {
     "id": "rta-hvb-171",
-    "question_text": "ब्रेक की जाँच करते समय, आपको वाहन एक तरफ खिंचता हुआ महसूस हुआ। सुरक्षित रहने के लिए आपको क्या करना चाहिए?",
+    "question_text": "ब्रेक जाँचते समय, आपने महसूस किया कि वाहन एक तरफ खिंच रहा है। सुरक्षित रहने के लिए आपको क्या करना चाहिए?",
     "explanation": null,
     "answers": [
       {
@@ -7596,7 +7596,7 @@
       },
       {
         "id": "rta-hvb-171-b",
-        "answer_text": "गाड़ी चलाने से पहले किसी योग्य मैकेनिक से वाहन की जांच कराएं"
+        "answer_text": "वाहन चलाने से पहले एक योग्य मैकेनिक से वाहन जंचवाएं"
       },
       {
         "id": "rta-hvb-171-c",
@@ -7606,73 +7606,73 @@
   },
   {
     "id": "rta-hvb-186",
-    "question_text": "रियर प्राइम मूवर पहियों के बाहरी किनारों को पंक्तिबद्ध करने के लिए दोनों दर्पणों का उपयोग करें। आपको भी चाहिए;",
+    "question_text": "प्राइम मूवर के पिछले पहियों के बाहरी किनारों को सीध में लाने के लिए दोनों आईने इस्तेमाल करें। आपको यह भी करना होगा;",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-186-a",
-        "answer_text": "बाहर निकलें और जांचें कि वे सही ढंग से पंक्तिबद्ध हैं"
+        "answer_text": "बाहर निकलें और जांचें कि वे सटीक रूप से सीध में हैं"
       },
       {
         "id": "rta-hvb-186-b",
-        "answer_text": "रुकें और देखें कि दोनों पक्ष स्पष्ट हैं"
+        "answer_text": "रुकें और देखें कि दोनों तरफ साफ है"
       },
       {
         "id": "rta-hvb-186-c",
-        "answer_text": "अपने आगे के दृश्य को स्पष्ट रूप से जांचें"
+        "answer_text": "अपना आगे का दृश्य स्पष्ट रूप से जांचें"
       }
     ]
   },
   {
     "id": "rta-hvb-203",
-    "question_text": "यदि एंकरिंग पॉइंट पर्याप्त मजबूत नहीं हैं या उनका उपयोग नहीं किया जा सकता है, तो सुरक्षित रहने के लिए क्या किया जा सकता है?",
+    "question_text": "यदि एंकरिंग पॉइंट पर्याप्त मजबूत न हों या उपयोग न किए जा सकें तो सुरक्षित रहने के लिए क्या किया जा सकता है?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-203-a",
-        "answer_text": "तिरपाल से पूरी तरह ढकें और मोटी रस्सी से सुरक्षित करें"
+        "answer_text": "तिरपाल से पूरी तरह ढकें और मोटी रस्सी से बांधें"
       },
       {
         "id": "rta-hvb-203-b",
-        "answer_text": "एंकरिंग पॉइंट को मजबूत करने के लिए मैकेनिक को बुलाएँ"
+        "answer_text": "एंकरिंग पॉइंट को मजबूत करने के लिए मैकेनिक बुलाएं"
       },
       {
         "id": "rta-hvb-203-c",
-        "answer_text": "अतिरिक्त चाबुक की जरूरत पड़ेगी."
+        "answer_text": "अतिरिक्त बंधन की आवश्यकता होगी"
       }
     ]
   },
   {
     "id": "rta-hvb-205",
-    "question_text": "चाबुकों को वाहन के तेज किनारों के संपर्क में आने से रोका जाना चाहिए। कैसे?",
+    "question_text": "बंधनों को वाहन के तेज किनारों से संपर्क में आने से कैसे रोका जाए?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-205-a",
-        "answer_text": "धारदार चाकू का प्रयोग"
+        "answer_text": "तेज चाकुओं का उपयोग"
       },
       {
         "id": "rta-hvb-205-b",
-        "answer_text": "कॉर्नर प्रोटेक्टर्स, स्लीव्स या अन्य पैकिंग सामग्री का उपयोग"
+        "answer_text": "कोने के संरक्षक, आस्तीन या अन्य पैकिंग सामग्री का उपयोग"
       },
       {
         "id": "rta-hvb-205-c",
-        "answer_text": "धातु के बोर्ड या धातु की चेन का प्रयोग करें"
+        "answer_text": "धातु की तख्तियों या धातु की जंजीरों का उपयोग"
       }
     ]
   },
   {
     "id": "rta-hvb-210",
-    "question_text": "जब आप किसी सड़क या गड्ढे से टकराते हैं तो आपने अपने भारी वाहन पर नियंत्रण खो दिया है। संभावित कारण क्या था?",
+    "question_text": "जब आपका भारी वाहन किसी कर्ब या गड्ढे से टकराने के बाद दिशा नियंत्रण खो गया, तो इसका संभावित कारण क्या था?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-210-a",
-        "answer_text": "ब्रेक की ठीक से जांच नहीं की गई"
+        "answer_text": "ब्रेक को ठीक से जांचा नहीं गया था"
       },
       {
         "id": "rta-hvb-210-b",
-        "answer_text": "टायरों में ठीक से हवा नहीं भरी गई है"
+        "answer_text": "टायर उचित रूप से फुलाए नहीं गए थे"
       },
       {
         "id": "rta-hvb-210-c",
@@ -7682,20 +7682,20 @@
   },
   {
     "id": "rta-hvb-218",
-    "question_text": "बाएं मोड़ पर पहुंचने पर, आप यह कैसे सुनिश्चित करते हैं कि पीछे के टायर बाईं ओर की बाधा को सुरक्षित रूप से पार कर सकते हैं?",
+    "question_text": "बाएं मोड़ के पास पहुंचने पर, आप कैसे सुनिश्चित करते हैं कि पिछले टायर बाईं ओर किसी बाधा से सुरक्षित गुजर सकें?",
     "explanation": null,
     "answers": [
       {
         "id": "rta-hvb-218-a",
-        "answer_text": "लेन के दाईं ओर चलें"
+        "answer_text": "लेन के दाईं ओर करीब रहते हुए चलाएं"
       },
       {
         "id": "rta-hvb-218-b",
-        "answer_text": "लेन के बायीं ओर चलें"
+        "answer_text": "लेन के बाईं ओर करीब रहते हुए चलाएं"
       },
       {
         "id": "rta-hvb-218-c",
-        "answer_text": "लेन के मध्य में बने रहें"
+        "answer_text": "लेन के बीच में रहें"
       }
     ]
   }
