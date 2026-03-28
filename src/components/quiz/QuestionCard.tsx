@@ -46,6 +46,12 @@ export function QuestionCard({
               {dict.quiz.edcad}
             </span>
           )}
+          {question.source === 'rta' && (
+            <span className="inline-flex items-center gap-1 bg-secondary/10 px-2 py-0.5 font-label text-[10px] font-bold text-secondary uppercase tracking-wider">
+              <span className="material-symbols-outlined" style={{ fontSize: 12 }}>shield</span>
+              RTA
+            </span>
+          )}
           <span className="font-label text-xs text-outline uppercase tracking-wider">
             {question.module.replace('_', ' ')}
           </span>
