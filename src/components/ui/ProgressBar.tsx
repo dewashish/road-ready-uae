@@ -41,6 +41,10 @@ export function ProgressBar({
           'w-full bg-surface-container-highest border-2 border-surface-container-lowest overflow-hidden',
           sizeStyles[size]
         )}
+        role="progressbar"
+        aria-valuenow={Math.round(percent)}
+        aria-valuemin={0}
+        aria-valuemax={100}
       >
         <div
           className={clsx(

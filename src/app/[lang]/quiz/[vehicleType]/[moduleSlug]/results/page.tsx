@@ -36,8 +36,11 @@ export default function ResultsPage() {
 
   const moduleTitle = (dict.modules as Record<string, { title: string; description: string }>)[moduleSlug]?.title ?? moduleSlug
 
-  const score = parseInt(searchParams.get('score') ?? '0', 10)
-  const total = parseInt(searchParams.get('total') ?? '30', 10)
+  const rawScore = parseInt(searchParams.get('score') ?? '0', 10)
+  const rawTotal = parseInt(searchParams.get('total') ?? '30', 10)
+  // Validate: total must be positive, score must be 0..total
+  const total = Math.max(1, rawTotal)
+  const score = Math.max(0, Math.min(rawScore, total))
   const percent = Math.round((score / total) * 100)
   const passed = percent >= 71
 

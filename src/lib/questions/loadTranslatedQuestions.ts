@@ -8,28 +8,27 @@ interface QuestionOverlay {
   answers?: { id: string; answer_text: string }[]
 }
 
-/**
- * Merge translated overlay onto English base questions.
- * Falls back to English for any missing translations.
- */
+/** Apply a single overlay to a question. Falls back to English for missing fields. */
+function applyOverlay(question: Question, translated: QuestionOverlay): Question {
+  return {
+    ...question,
+    question_text: translated.question_text ?? question.question_text,
+    explanation: translated.explanation !== undefined ? translated.explanation : question.explanation,
+    answers: question.answers.map((answer) => {
+      const translatedAnswer = translated.answers?.find((a) => a.id === answer.id)
+      return translatedAnswer
+        ? { ...answer, answer_text: translatedAnswer.answer_text }
+        : answer
+    }),
+  }
+}
+
+/** Merge translated overlays onto English base questions. */
 function mergeOverlay(base: Question[], overlay: QuestionOverlay[]): Question[] {
   const overlayMap = new Map(overlay.map((q) => [q.id, q]))
-
   return base.map((question) => {
     const translated = overlayMap.get(question.id)
-    if (!translated) return question
-
-    return {
-      ...question,
-      question_text: translated.question_text ?? question.question_text,
-      explanation: translated.explanation !== undefined ? translated.explanation : question.explanation,
-      answers: question.answers.map((answer) => {
-        const translatedAnswer = translated.answers?.find((a) => a.id === answer.id)
-        return translatedAnswer
-          ? { ...answer, answer_text: translatedAnswer.answer_text }
-          : answer
-      }),
-    }
+    return translated ? applyOverlay(question, translated) : question
   })
 }
 
@@ -143,18 +142,6 @@ export async function translateQuestionBatch(
 
   return questions.map((question) => {
     const translated = overlayMap.get(question.id)
-    if (!translated) return question
-
-    return {
-      ...question,
-      question_text: translated.question_text ?? question.question_text,
-      explanation: translated.explanation !== undefined ? translated.explanation : question.explanation,
-      answers: question.answers.map((answer) => {
-        const translatedAnswer = translated.answers?.find((a) => a.id === answer.id)
-        return translatedAnswer
-          ? { ...answer, answer_text: translatedAnswer.answer_text }
-          : answer
-      }),
-    }
+    return translated ? applyOverlay(question, translated) : question
   })
 }

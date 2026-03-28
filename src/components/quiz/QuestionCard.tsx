@@ -53,7 +53,7 @@ export function QuestionCard({
             </span>
           )}
           <span className="font-label text-xs text-outline uppercase tracking-wider">
-            {question.module.replace('_', ' ')}
+            {question.module.replaceAll('_', ' ')}
           </span>
         </div>
 

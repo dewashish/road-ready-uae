@@ -53,7 +53,7 @@ export function NeoButton({
       {...props}
     >
       {icon && (
-        <span className="material-symbols-outlined" style={{ fontSize: size === 'sm' ? 18 : 20 }}>
+        <span className="material-symbols-outlined" aria-hidden="true" style={{ fontSize: size === 'sm' ? 18 : 20 }}>
           {icon}
         </span>
       )}

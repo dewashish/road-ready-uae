@@ -108,9 +108,10 @@ export function selectMockExamQuestions(
   const exam = MOCK_EXAMS.find((e) => e.id === examId)
   if (!exam) return []
 
-  // Build wrong/seen maps from ALL history (not just mock exam history)
-  const wrongCounts = buildWrongCountMap(history)
-  const seenIds = buildSeenSet(history)
+  // Build wrong/seen maps filtered by vehicle type
+  const vehicleHistory = history.filter((s) => s.vehicleType === vehicleType)
+  const wrongCounts = buildWrongCountMap(vehicleHistory)
+  const seenIds = buildSeenSet(vehicleHistory)
 
   const allSelected: Question[] = []
 
@@ -133,11 +134,13 @@ export function selectMockExamQuestions(
     ;[allSelected[i], allSelected[j]] = [allSelected[j], allSelected[i]]
   }
 
-  // Shuffle answers within each question
-  return allSelected.map((q) => ({
-    ...q,
-    answers: [...q.answers]
-      .sort(() => Math.random() - 0.5)
-      .map((a, i) => ({ ...a, display_order: i + 1 })),
-  }))
+  // Shuffle answers within each question (Fisher-Yates)
+  return allSelected.map((q) => {
+    const answers = [...q.answers]
+    for (let i = answers.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [answers[i], answers[j]] = [answers[j], answers[i]]
+    }
+    return { ...q, answers: answers.map((a, i) => ({ ...a, display_order: i + 1 })) }
+  })
 }

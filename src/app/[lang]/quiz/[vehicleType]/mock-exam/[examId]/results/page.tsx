@@ -32,9 +32,11 @@ export default function MockExamResultsPage() {
   const locale = useLocale()
 
   const exam = MOCK_EXAMS.find((e) => e.id === examId)
-  const score = parseInt(searchParams.get('score') ?? '0', 10)
-  const total = parseInt(searchParams.get('total') ?? '45', 10)
+  const rawScore = parseInt(searchParams.get('score') ?? '0', 10)
+  const rawTotal = parseInt(searchParams.get('total') ?? '45', 10)
   const timeSpent = parseInt(searchParams.get('time') ?? '0', 10)
+  const total = Math.max(1, rawTotal)
+  const score = Math.max(0, Math.min(rawScore, total))
   const percent = Math.round((score / total) * 100)
   const passed = percent >= MOCK_EXAM_PASS_PERCENT
 

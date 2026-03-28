@@ -130,7 +130,7 @@ export function recordModuleCompletion(
     const yesterday = new Date(Date.now() - 86400000).toISOString().split('T')[0]
     if (progress.lastActiveDate === yesterday) {
       progress.currentStreak += 1
-    } else if (progress.lastActiveDate !== today) {
+    } else {
       progress.currentStreak = 1
     }
     progress.longestStreak = Math.max(progress.longestStreak, progress.currentStreak)

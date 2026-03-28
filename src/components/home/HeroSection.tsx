@@ -1,6 +1,6 @@
 'use client'
 
-import { useRef, useState, useEffect } from 'react'
+import { useRef, useState, useEffect, useLayoutEffect } from 'react'
 import { motion, useScroll, useTransform, useMotionValue, useMotionValueEvent, MotionValue } from 'motion/react'
 import { useDictionary } from '@/i18n/DictionaryContext'
 
@@ -57,6 +57,11 @@ export function VintageCar({ leftPercent }: { leftPercent: MotionValue<string> }
     if (fadeTimer.current) clearTimeout(fadeTimer.current)
     fadeTimer.current = setTimeout(() => smokeOpacity.set(0), 150)
   })
+
+  // Clear timer on unmount
+  useEffect(() => {
+    return () => { if (fadeTimer.current) clearTimeout(fadeTimer.current) }
+  }, [])
 
   return (
     <motion.div
@@ -329,10 +334,14 @@ export function HeroSection() {
   const { scrollY } = useScroll()
   const dict = useDictionary()
 
-  // Responsive initial font size — smaller on mobile to avoid overflow
+  // Responsive — use useLayoutEffect to avoid hydration flash
   const [isMobile, setIsMobile] = useState(false)
-  useEffect(() => {
-    setIsMobile(window.innerWidth < 640)
+  const useIsomorphicLayoutEffect = typeof window !== 'undefined' ? useLayoutEffect : useEffect
+  useIsomorphicLayoutEffect(() => {
+    const check = () => setIsMobile(window.innerWidth < 640)
+    check()
+    window.addEventListener('resize', check)
+    return () => window.removeEventListener('resize', check)
   }, [])
 
   // All animations must complete within ~380px of scroll (sticky scroll distance)

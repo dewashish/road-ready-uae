@@ -58,10 +58,12 @@ function weightedSample(entries: WeightedEntry[], count: number): Question[] {
     const totalWeight = remaining.reduce((sum, e) => sum + e.weight, 0)
     let r = Math.random() * totalWeight
     let idx = 0
-    for (; idx < remaining.length - 1; idx++) {
+    for (; idx < remaining.length; idx++) {
       r -= remaining[idx].weight
       if (r <= 0) break
     }
+    // Clamp index to valid range
+    idx = Math.min(idx, remaining.length - 1)
     selected.push(remaining[idx].question)
     remaining.splice(idx, 1)
   }
