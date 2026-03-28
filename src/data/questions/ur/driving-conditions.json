@@ -2988,5 +2988,1525 @@
         "answer_text": "2.0m"
       }
     ]
+  },
+  {
+    "id": "rta-lmv-003",
+    "question_text": "سڑک پر ڈرائیونگ کے حالات:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-003-a",
+        "answer_text": "خشک موسم میں زیادہ خراب ہوں گے۔"
+      },
+      {
+        "id": "rta-lmv-003-b",
+        "answer_text": "بارش کے موسم میں زیادہ خراب ہوں گے۔"
+      },
+      {
+        "id": "rta-lmv-003-c",
+        "answer_text": "خشک یا بارش کے موسم میں یکساں ہوں گے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-011",
+    "question_text": "ڈرائیونگ کے دوران 'ہیڈ چیک' کا مطلب ہے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-011-a",
+        "answer_text": "ہر وقت سر کو ساکن رکھنا"
+      },
+      {
+        "id": "rta-lmv-011-b",
+        "answer_text": "سائیڈ آئینوں میں پیچھے دیکھنا"
+      },
+      {
+        "id": "rta-lmv-011-c",
+        "answer_text": "سائیڈ کھڑکیوں سے دیکھنے کے لیے کندھوں کے اوپر سے نظر ڈالنا"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-024",
+    "question_text": "آپ توجہ کھونے لگتے ہیں اور دوسری لین میں چلے جاتے ہیں، یہ وقت ہے کہ",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-024-a",
+        "answer_text": "ڈرائیونگ پر توجہ مرکوز رکھنے کے لیے گولی لیں"
+      },
+      {
+        "id": "rta-lmv-024-b",
+        "answer_text": "کھڑکیاں کھولنے کا وقت نکالیں"
+      },
+      {
+        "id": "rta-lmv-024-c",
+        "answer_text": "ڈرائیونگ سے وقفہ لیں"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-071",
+    "question_text": "اچھے حالات میں آپ کو آگے والی گاڑی سے کم از کم دو سیکنڈ کا فاصلہ رکھنا چاہیے۔ آپ کو زیادہ فاصلہ کب رکھنا چاہیے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-071-a",
+        "answer_text": "ہر وقت۔"
+      },
+      {
+        "id": "rta-lmv-071-b",
+        "answer_text": "جب ٹریفک زیادہ ہو"
+      },
+      {
+        "id": "rta-lmv-071-c",
+        "answer_text": "جب ڈرائیونگ کے حالات خراب ہوں جیسے ریت کے طوفان یا بارش۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-072",
+    "question_text": "آپ ایکواپلیننگ سے کیسے بچ سکتے ہیں؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-072-a",
+        "answer_text": "ٹائروں میں ہوا کا دباؤ بڑھا کر۔"
+      },
+      {
+        "id": "rta-lmv-072-b",
+        "answer_text": "رفتار کم کر کے، فاصلہ بڑھا کر اور ممکن ہو تو درمیانی لینوں میں سفر کر کے"
+      },
+      {
+        "id": "rta-lmv-072-c",
+        "answer_text": "آگے والی گاڑی کے پٹری میں سفر نہ کر کے"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-142",
+    "question_text": "موسلادھار بارش یا دھند جیسے خراب موسمی حالات کی وجہ سے کم مرئیت اس حفاظتی نظام کی کارکردگی کو متاثر کر سکتی ہے۔",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-142-a",
+        "answer_text": "فارورڈ کولیژن مٹیگیشن"
+      },
+      {
+        "id": "rta-lmv-142-b",
+        "answer_text": "روایتی کروز کنٹرول"
+      },
+      {
+        "id": "rta-lmv-142-c",
+        "answer_text": "اینٹی لاک بریک سسٹم"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-164",
+    "question_text": "جدید گاڑیوں میں نائٹ مررز لگانے کا مقصد کیا ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-164-a",
+        "answer_text": "پیچھے آنے والی گاڑی کی لائٹوں سے چندھیانے کا امکان کم کرنا"
+      },
+      {
+        "id": "rta-lmv-164-b",
+        "answer_text": "آگے والی گاڑیوں کی مرئیت بڑھانا"
+      },
+      {
+        "id": "rta-lmv-164-c",
+        "answer_text": "سامنے سے آنے والی گاڑیوں کی لائٹوں سے چندھیانے سے بچنا"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-287",
+    "question_text": "آپ کو ہیڈ لائٹس اور ٹیل لائٹس کب جلا کر گاڑی چلانی چاہیے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-287-a",
+        "answer_text": "صرف اندھیرے میں۔"
+      },
+      {
+        "id": "rta-lmv-287-b",
+        "answer_text": "صرف امارات کی سڑکوں پر۔"
+      },
+      {
+        "id": "rta-lmv-287-c",
+        "answer_text": "غروب آفتاب سے طلوع آفتاب تک، اور جب موسمی حالات مرئیت کو کم کریں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-325",
+    "question_text": "اگر دھند کی وجہ سے نظر محدود ہو جائے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-325-a",
+        "answer_text": "آپ کو ہیزرڈ لائٹس ضرور جلانی چاہئیں۔"
+      },
+      {
+        "id": "rta-lmv-325-b",
+        "answer_text": "صبر رکھیں اور ٹریفک کو پار کرنے یا اوور ٹیک کرنے سے گریز کریں۔"
+      },
+      {
+        "id": "rta-lmv-325-c",
+        "answer_text": "اپنی رفتار برقرار رکھیں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-326",
+    "question_text": "دھندلی صورتحال اِدھر اُدھر ہو سکتی ہے، اس کا مطلب ہے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-326-a",
+        "answer_text": "کچھ علاقوں میں دھند چھٹ رہی ہے لیکن کچھ علاقوں میں دوبارہ دھند ہے۔"
+      },
+      {
+        "id": "rta-lmv-326-b",
+        "answer_text": "کچھ علاقوں میں دھند یکساں طور پر گھنی ہے۔"
+      },
+      {
+        "id": "rta-lmv-326-c",
+        "answer_text": "دھند چھٹ گئی ہے، رفتار بڑھانے کا وقت ہے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-327",
+    "question_text": "آگے والی گاڑی سے اپنا فاصلہ بڑھائیں۔ آپ کو حفاظت کے لیے اس کی ضرورت ہے۔",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-327-a",
+        "answer_text": "زیادہ تر وقت، سب سے زیادہ ضروری ہے۔"
+      },
+      {
+        "id": "rta-lmv-327-b",
+        "answer_text": "صرف دھندلی صورتحال میں ضروری ہے۔"
+      },
+      {
+        "id": "rta-lmv-327-c",
+        "answer_text": "دھند سے جلد از جلد نکلنے کے لیے سب سے زیادہ ضروری ہے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-329",
+    "question_text": "دھندلی صورتحال میں، آپ شاید سوچ سے زیادہ تیز جا رہے ہوں۔ اگر ایسا ہو تو:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-329-a",
+        "answer_text": "کم بیم لائٹس استعمال کریں۔"
+      },
+      {
+        "id": "rta-lmv-329-b",
+        "answer_text": "اپنی رفتار دیکھیں اور آہستہ آہستہ سست ہوں۔"
+      },
+      {
+        "id": "rta-lmv-329-c",
+        "answer_text": "فوری طور پر سست ہوں یا ضرورت پڑے تو رک جائیں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-330",
+    "question_text": "کچھ اقدامات دھند میں گاڑی چلانے کو زیادہ خطرناک بنا دیتے ہیں جیسے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-330-a",
+        "answer_text": "سڑک کے بیچ میں رکنا۔"
+      },
+      {
+        "id": "rta-lmv-330-b",
+        "answer_text": "صورتحال کے مطابق ڈھالنے کے لیے رفتار بڑھانا۔"
+      },
+      {
+        "id": "rta-lmv-330-c",
+        "answer_text": "ہائی بیم لائٹس جلانا۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-331",
+    "question_text": "اگر دھند اتنی گھنی ہو کہ آگے جاری رکھنا ممکن نہ ہو، تو بہتر ہے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-331-a",
+        "answer_text": "ہائی بیم لائٹس جلا کر گاڑی چلاتے رہیں۔"
+      },
+      {
+        "id": "rta-lmv-331-b",
+        "answer_text": "سڑک سے ہٹ جائیں اور ٹریفک سے دور پوزیشن لیں۔"
+      },
+      {
+        "id": "rta-lmv-331-c",
+        "answer_text": "لو بیم لائٹس جلا کر گاڑی چلاتے رہیں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-332",
+    "question_text": "دھند میں گاڑی چلاتے وقت خطرات کو کم کیا جا سکتا ہے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-332-a",
+        "answer_text": "کھڑکیوں اور آئینوں کو صاف رکھ کر۔"
+      },
+      {
+        "id": "rta-lmv-332-b",
+        "answer_text": "ریڈیو پر انتباہات سن کر۔"
+      },
+      {
+        "id": "rta-lmv-332-c",
+        "answer_text": "گاڑی کی ہیڈلائٹس کو زیادہ سے زیادہ روشنی پر استعمال کر کے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-339",
+    "question_text": "سیلاب میں سے گزرنے کے بعد گاڑی کی جانچ کروانا بہتر ہے کیونکہ:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-339-a",
+        "answer_text": "گاڑی کے حساس الیکٹرانک اجزاء خراب ہو سکتے ہیں۔"
+      },
+      {
+        "id": "rta-lmv-339-b",
+        "answer_text": "گاڑی کا نیویگیشن سسٹم خراب ہو سکتا ہے۔"
+      },
+      {
+        "id": "rta-lmv-339-c",
+        "answer_text": "زیادہ تر جدید گاڑیاں سیلاب میں نہیں چلائی جا سکتیں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-341",
+    "question_text": "عام سیڈان گاڑیوں کے لیے، سیلاب میں سے نہ گزریں اگر:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-341-a",
+        "answer_text": "سیلاب کا پانی ٹائر کی اونچائی کے 50 فیصد سے زیادہ ہو۔"
+      },
+      {
+        "id": "rta-lmv-341-b",
+        "answer_text": "سیلاب ابھی شروع ہو رہا ہو۔"
+      },
+      {
+        "id": "rta-lmv-341-c",
+        "answer_text": "سیلاب کا پانی کم ہو رہا ہو۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-343",
+    "question_text": "سیلاب میں گاڑی چلانا مشکل ہے کیونکہ:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-343-a",
+        "answer_text": "سیلاب سے مرئیت کم ہو جاتی ہے۔"
+      },
+      {
+        "id": "rta-lmv-343-b",
+        "answer_text": "سیلاب بہت غیر متوقع ہوتا ہے۔"
+      },
+      {
+        "id": "rta-lmv-343-c",
+        "answer_text": "آپ یہ نہیں دیکھ سکتے کہ راستے میں گہرے گڑھے ہیں یا نہیں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-344",
+    "question_text": "سیلاب میں سے گزرنے کے بعد:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-344-a",
+        "answer_text": "بریک کمزور ہو سکتے ہیں۔"
+      },
+      {
+        "id": "rta-lmv-344-b",
+        "answer_text": "بریک میں نمی رفتار کو متاثر کرتی ہے۔"
+      },
+      {
+        "id": "rta-lmv-344-c",
+        "answer_text": "بریک جام ہو سکتے ہیں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-364",
+    "question_text": "محفوظ انداز میں گاڑی چلانا:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-364-a",
+        "answer_text": "تمام ڈرائیور کر سکتے ہیں اگر وہ ٹھان لیں۔"
+      },
+      {
+        "id": "rta-lmv-364-b",
+        "answer_text": "صرف پولیس کی موجودگی میں کیا جا سکتا ہے۔"
+      },
+      {
+        "id": "rta-lmv-364-c",
+        "answer_text": "صرف شہری علاقوں میں کیا جا سکتا ہے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-365",
+    "question_text": "سفر کے لیے اضافی وقت مختص کرنا:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-365-a",
+        "answer_text": "راستے سے لطف اندوز ہونے کا موقع دے گا۔"
+      },
+      {
+        "id": "rta-lmv-365-b",
+        "answer_text": "ایک مشکل انتخاب ہے۔"
+      },
+      {
+        "id": "rta-lmv-365-c",
+        "answer_text": "اچھی ڈرائیونگ عادات میں سے ایک ہے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-427",
+    "question_text": "آگے سرنگ ہے، سرنگ میں داخل ہونے سے پہلے ڈرائیور کو کیا کرنا ضروری ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-427-a",
+        "answer_text": "ہارن بجائیں"
+      },
+      {
+        "id": "rta-lmv-427-b",
+        "answer_text": "ہائی بیم ہیڈلائٹ آن کریں"
+      },
+      {
+        "id": "rta-lmv-427-c",
+        "answer_text": "لو بیم ہیڈلائٹ آن کریں"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-428",
+    "question_text": "آگے ریت کے ٹیلوں کی وارننگ ہے۔ ممکنہ مسئلہ کیا ہو سکتا ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-428-a",
+        "answer_text": "ٹائروں کی ہوا نکالنے کی ضرورت ہے"
+      },
+      {
+        "id": "rta-lmv-428-b",
+        "answer_text": "سڑک پر ٹائر کی گرفت متاثر ہو سکتی ہے"
+      },
+      {
+        "id": "rta-lmv-428-c",
+        "answer_text": "نظر میں مسئلہ ہو سکتا ہے"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-429",
+    "question_text": "اگر آگے آڑی ہوا چل رہی ہو تو یہ کس چیز کو متاثر کر سکتی ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-429-a",
+        "answer_text": "بریکنگ سسٹم"
+      },
+      {
+        "id": "rta-lmv-429-b",
+        "answer_text": "ٹائر کا دباؤ"
+      },
+      {
+        "id": "rta-lmv-429-c",
+        "answer_text": "گاڑی کا توازن"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-480",
+    "question_text": "اگر حادثے میں شامل گاڑی کو نقصان پہنچے، تو مرمت نہیں کی جائے گی اگر؛",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-480-a",
+        "answer_text": "پولیس رپورٹ سفید فارم پر ہو"
+      },
+      {
+        "id": "rta-lmv-480-b",
+        "answer_text": "پولیس رپورٹ سرخ فارم پر ہو"
+      },
+      {
+        "id": "rta-lmv-480-c",
+        "answer_text": "مرمت کے وقت کوئی پولیس رپورٹ پیش نہ کی جائے"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-511",
+    "question_text": "If you are using the Dubai Police App and under the Community Services category, you may;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-511-a",
+        "answer_text": "File a labor complaint"
+      },
+      {
+        "id": "rta-lmv-511-b",
+        "answer_text": "Apply for road closure permit"
+      },
+      {
+        "id": "rta-lmv-511-c",
+        "answer_text": "Apply for Traffic training courses"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-001",
+    "question_text": "You have passed the required eye test. Are you now eligible to operate a forklift?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-001-a",
+        "answer_text": "No"
+      },
+      {
+        "id": "rta-fk-001-b",
+        "answer_text": "Yes"
+      },
+      {
+        "id": "rta-fk-001-c",
+        "answer_text": "More training is required"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-002",
+    "question_text": "After passing this theory test for forklift, what other tests are you required to pass?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-002-a",
+        "answer_text": "Multiple choice test"
+      },
+      {
+        "id": "rta-fk-002-b",
+        "answer_text": "Practical test"
+      },
+      {
+        "id": "rta-fk-002-c",
+        "answer_text": "Road test"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-005",
+    "question_text": "Set of requirements that must be fulfilled to be eligible for a forklift license:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-005-a",
+        "answer_text": "Forklift operation training, theoretical test, forklift operation test"
+      },
+      {
+        "id": "rta-fk-005-b",
+        "answer_text": "Forklift theoretical test, forklift operation test"
+      },
+      {
+        "id": "rta-fk-005-c",
+        "answer_text": "Forklift training, forklift operation test"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-006",
+    "question_text": "When training to operate a forklift, you must be accompanied by;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-006-a",
+        "answer_text": "An adult and licensed operator"
+      },
+      {
+        "id": "rta-fk-006-b",
+        "answer_text": "A licensed forklift instructor"
+      },
+      {
+        "id": "rta-fk-006-c",
+        "answer_text": "A licensed forklift assessor"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-042",
+    "question_text": "You noticed that there is a fuel leak in the forklift you are using. What is the very first thing you should do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-042-a",
+        "answer_text": "Immediately stop the machine"
+      },
+      {
+        "id": "rta-fk-042-b",
+        "answer_text": "Report to your supervisor"
+      },
+      {
+        "id": "rta-fk-042-c",
+        "answer_text": "Tag the area around the leak"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-053",
+    "question_text": "As part of safe working practice, the operator needs to;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-053-a",
+        "answer_text": "Remain seated on the forklift seat most of the time"
+      },
+      {
+        "id": "rta-fk-053-b",
+        "answer_text": "Remain alert and be ready for the unexpected"
+      },
+      {
+        "id": "rta-fk-053-c",
+        "answer_text": "Keep watching the movement of the other forklifts"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-055",
+    "question_text": "During your shift, you had a near-miss incident with another forklift. What should you do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-055-a",
+        "answer_text": "Report the incident to the Police"
+      },
+      {
+        "id": "rta-fk-055-b",
+        "answer_text": "Keep silent about it since there was no damage"
+      },
+      {
+        "id": "rta-fk-055-c",
+        "answer_text": "Report the incident to the supervisor"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-060",
+    "question_text": "During pre-use visual check, the floor must be inspected to ensure;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-060-a",
+        "answer_text": "It is clear of objects that could cause an accident"
+      },
+      {
+        "id": "rta-fk-060-b",
+        "answer_text": "It is cleanly polished and free of dust"
+      },
+      {
+        "id": "rta-fk-060-c",
+        "answer_text": "It is clearly marked indicating directions"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-062",
+    "question_text": "When conducting the pre-use visual checks, you should be taking notes of;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-062-a",
+        "answer_text": "Nearby storage areas"
+      },
+      {
+        "id": "rta-fk-062-b",
+        "answer_text": "Locations of the office equipment"
+      },
+      {
+        "id": "rta-fk-062-c",
+        "answer_text": "Nearby objects to avoid as you drive"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-071",
+    "question_text": "After starting the engine, why should you wait for about 5 minutes before operating the machine?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-071-a",
+        "answer_text": "The machine needs time to rest in order not to break"
+      },
+      {
+        "id": "rta-fk-071-b",
+        "answer_text": "Allow some time for some relaxation before starting work"
+      },
+      {
+        "id": "rta-fk-071-c",
+        "answer_text": "Allow the engine and components to warm up to operating temperature"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-001",
+    "question_text": "You have passed the required eye test. What else do you need to be eligible to operate a Shovel?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-001-a",
+        "answer_text": "Undergo theory training"
+      },
+      {
+        "id": "rta-hfk-001-b",
+        "answer_text": "Undergo required training and testing"
+      },
+      {
+        "id": "rta-hfk-001-c",
+        "answer_text": "Undergo practical training"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-015",
+    "question_text": "You are working with your shovel in a very dusty environment. What should you do to protect yourself?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-015-a",
+        "answer_text": "Wear a loose fitting shirt"
+      },
+      {
+        "id": "rta-hfk-015-b",
+        "answer_text": "Wear a cap and gloves"
+      },
+      {
+        "id": "rta-hfk-015-c",
+        "answer_text": "Wear safety glasses and mask for  breathing protection"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-018",
+    "question_text": "While checking the shovel, you noticed some visible tire damage. What should you do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-018-a",
+        "answer_text": "Start replacing the tire immediately"
+      },
+      {
+        "id": "rta-hfk-018-b",
+        "answer_text": "Take note of the damage and resume work"
+      },
+      {
+        "id": "rta-hfk-018-c",
+        "answer_text": "Report the matter to your supervisor"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-020",
+    "question_text": "When replacing a wheel of a shovel, it is a safe practice to;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-020-a",
+        "answer_text": "Always block the wheels on the front side of the shovel."
+      },
+      {
+        "id": "rta-hfk-020-b",
+        "answer_text": "Always block the wheels on the opposite side of the shovel"
+      },
+      {
+        "id": "rta-hfk-020-c",
+        "answer_text": "Always block the wheels on the rear side of the shovel."
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-023",
+    "question_text": "Before removing the fuel cap, why should you clean dirt and dust from around the filler?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-023-a",
+        "answer_text": "To prevent possibility of engine fire"
+      },
+      {
+        "id": "rta-hfk-023-b",
+        "answer_text": "To prevent contamination on the fuel"
+      },
+      {
+        "id": "rta-hfk-023-c",
+        "answer_text": "To ensure the fuel filter is working"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-033",
+    "question_text": "Because shovels work in rough grounds, its battery must be prevented from moving and be;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-033-a",
+        "answer_text": "Of high capacity"
+      },
+      {
+        "id": "rta-hfk-033-b",
+        "answer_text": "Securely restrained"
+      },
+      {
+        "id": "rta-hfk-033-c",
+        "answer_text": "Fully charged"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-055",
+    "question_text": "What should you do if you noticed your shovel begins to side slid on a grade?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-055-a",
+        "answer_text": "Raise the bucket off the ground"
+      },
+      {
+        "id": "rta-hfk-055-b",
+        "answer_text": "Immediately dispose of the load"
+      },
+      {
+        "id": "rta-hfk-055-c",
+        "answer_text": "Turn the shovel uphill"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-069",
+    "question_text": "For a shovel operator to fill the bucket to capacity at every attempt requires;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-069-a",
+        "answer_text": "Long hours of practice with hand controls"
+      },
+      {
+        "id": "rta-hfk-069-b",
+        "answer_text": "Long hours of practice with foot controls"
+      },
+      {
+        "id": "rta-hfk-069-c",
+        "answer_text": "Practice and good hand to eye coordination"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-071",
+    "question_text": "Powerlines, telephone, water, sewage, drainage are some of;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-071-a",
+        "answer_text": "On ground safety considerations"
+      },
+      {
+        "id": "rta-hfk-071-b",
+        "answer_text": "Underground safety considerations"
+      },
+      {
+        "id": "rta-hfk-071-c",
+        "answer_text": "Overhead safety considerations"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-001",
+    "question_text": "If you are fatigued you will:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-001-a",
+        "answer_text": "be able to make decisions quickly."
+      },
+      {
+        "id": "rta-moto-001-b",
+        "answer_text": "not be able to make decisions quickly."
+      },
+      {
+        "id": "rta-moto-001-c",
+        "answer_text": "not notice any difference in your riding."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-034",
+    "question_text": "When you are riding on a slippery surface:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-034-a",
+        "answer_text": "you should try not to use the front brake."
+      },
+      {
+        "id": "rta-moto-034-b",
+        "answer_text": "you should ride in the centre of the lane."
+      },
+      {
+        "id": "rta-moto-034-c",
+        "answer_text": "you should ride as upright as you can."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-035",
+    "question_text": "When riding on a slippery surface, you should change gears:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-035-a",
+        "answer_text": "raise yourself slightly on the foot pegs."
+      },
+      {
+        "id": "rta-moto-035-b",
+        "answer_text": "crouch forward over the handlebars."
+      },
+      {
+        "id": "rta-moto-035-c",
+        "answer_text": "sit as far back on the seat as possible."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-038",
+    "question_text": "A scratched visor blurs and distorts the light especially:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-038-a",
+        "answer_text": "at night."
+      },
+      {
+        "id": "rta-moto-038-b",
+        "answer_text": "in the daytime."
+      },
+      {
+        "id": "rta-moto-038-c",
+        "answer_text": "when it is raining."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-056",
+    "question_text": "If you have a tyre blowout while riding, the best advice is to:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-056-a",
+        "answer_text": "apply the brakes firmly and steer a straight course."
+      },
+      {
+        "id": "rta-moto-056-b",
+        "answer_text": "steer a straight course without using the brakes."
+      },
+      {
+        "id": "rta-moto-056-c",
+        "answer_text": "steer immediately to the side of the road."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-082",
+    "question_text": "The best way to deal with slippery surface is to:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-082-a",
+        "answer_text": "use both front and rear brakes."
+      },
+      {
+        "id": "rta-moto-082-b",
+        "answer_text": "reduce speed and avoid changing gear."
+      },
+      {
+        "id": "rta-moto-082-c",
+        "answer_text": "reduce speed and change gear."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-083",
+    "question_text": "Avoid braking when riding on slippery surfaces, but if you must:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-083-a",
+        "answer_text": "use both front and rear brakes frequently."
+      },
+      {
+        "id": "rta-moto-083-b",
+        "answer_text": "use front brake first and rear brake second."
+      },
+      {
+        "id": "rta-moto-083-c",
+        "answer_text": "use both brakes evenly."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-097",
+    "question_text": "Looking after your bike means:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-097-a",
+        "answer_text": "keeping it in full display always."
+      },
+      {
+        "id": "rta-moto-097-b",
+        "answer_text": "having it serviced regularly."
+      },
+      {
+        "id": "rta-moto-097-c",
+        "answer_text": "having it used regularly."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-135",
+    "question_text": "When checking the headlights, ensure that they are clean and in working order. This means;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-135-a",
+        "answer_text": "the high beam works properly and adjusted for night driving"
+      },
+      {
+        "id": "rta-moto-135-b",
+        "answer_text": "both low and high beam must be working properly"
+      },
+      {
+        "id": "rta-moto-135-c",
+        "answer_text": "the lighting system is sufficiently charged"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-137",
+    "question_text": "How does riding with your headlight on during the day help you to be safe?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-137-a",
+        "answer_text": "it helps other drivers understand your next move"
+      },
+      {
+        "id": "rta-moto-137-b",
+        "answer_text": "use the low beam when using the headlights during the day"
+      },
+      {
+        "id": "rta-moto-137-c",
+        "answer_text": "it helps the rider to be more visible to other road users"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-153",
+    "question_text": "If you encounter slippery patches on the road, you need to slow down and try to avoid them. Also avoid",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-153-a",
+        "answer_text": "using the brakes evenly"
+      },
+      {
+        "id": "rta-moto-153-b",
+        "answer_text": "braking or changing gears"
+      },
+      {
+        "id": "rta-moto-153-c",
+        "answer_text": "riding as upright as possible"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-154",
+    "question_text": "You are riding at night and noticed the tail lights of the vehicles in front are bouncing up and down. It could mean;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-154-a",
+        "answer_text": "do not wear dark visors at night"
+      },
+      {
+        "id": "rta-moto-154-b",
+        "answer_text": "you can expect a rough road surface ahead."
+      },
+      {
+        "id": "rta-moto-154-c",
+        "answer_text": "slow down and look at the side of the road ahead of you instead of at the vehicle"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-155",
+    "question_text": "You are dazzled by the bright lights of an oncoming vehicle. To stay on course and to be safe, what should  you do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-155-a",
+        "answer_text": "make sure your windshield is clear to be able to see clearly at night"
+      },
+      {
+        "id": "rta-moto-155-b",
+        "answer_text": "often there is a line at the edge of the road that you can use as a guide"
+      },
+      {
+        "id": "rta-moto-155-c",
+        "answer_text": "slow down, look at the side of the road ahead of you  instead of at the vehicle"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-156",
+    "question_text": "High beam lights may be used on highways with insufficient lighting. If another vehicle is approaching from opposite direction;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-156-a",
+        "answer_text": "high beam lights must not be used"
+      },
+      {
+        "id": "rta-moto-156-b",
+        "answer_text": "high beam lights may be used"
+      },
+      {
+        "id": "rta-moto-156-c",
+        "answer_text": "high beam lights is better than low beam lights"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-157",
+    "question_text": "High beam lights may dazzle the oncoming driver's eyes, what is the right thing to do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-157-a",
+        "answer_text": "switch off the head lights"
+      },
+      {
+        "id": "rta-moto-157-b",
+        "answer_text": "use dipped or low beam lights"
+      },
+      {
+        "id": "rta-moto-157-c",
+        "answer_text": "use low beam lights and hazard lights"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-158",
+    "question_text": "پیچھے سے دوسری گاڑی کے قریب آتے وقت، کون سی لائٹ استعمال کرنا مناسب ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-158-a",
+        "answer_text": "چمکتی ہوئی کم بیم لائٹس"
+      },
+      {
+        "id": "rta-moto-158-b",
+        "answer_text": "ہائی بیم لائٹس"
+      },
+      {
+        "id": "rta-moto-158-c",
+        "answer_text": "کم بیم لائٹس"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-172",
+    "question_text": "موٹر سائیکل پر سوار ہوتے وقت آپ کو کیڑے مکوڑے، پتھر اور ریت جیسی چیزوں کا نشانہ بنایا جائے گا۔ ان سے اپنے آپ کو بچائیں؛",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-172-a",
+        "answer_text": "ان کو اپنی آنکھوں سے دور رکھنے کے لیے ویزر یا چشمیں پہنیں۔"
+      },
+      {
+        "id": "rta-moto-172-b",
+        "answer_text": "صرف سست لین پر سواری"
+      },
+      {
+        "id": "rta-moto-172-c",
+        "answer_text": "عکاس لباس اور سواری کے جوتے پہننا"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-177",
+    "question_text": "اگر آپ کو اپنی موٹر سائیکل کو چیک کرنے کے لیے سڑک سے ہٹانے کی ضرورت ہے، تو محتاط رہنا یاد رکھیں کیونکہ؛",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-177-a",
+        "answer_text": "آپ گہری ریت میں پھنس سکتے ہیں۔"
+      },
+      {
+        "id": "rta-moto-177-b",
+        "answer_text": "سینڈی حصوں کو ہمیشہ انتباہ کے ساتھ نشان زد کیا جاتا ہے۔"
+      },
+      {
+        "id": "rta-moto-177-c",
+        "answer_text": "اپنے شیشوں کو چیک کریں اور لین تبدیل کرنے سے پہلے سر کی جانچ کریں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-190",
+    "question_text": "سڑک پر پھسلن کے پیچ کو دیکھ کر، آپ اپنی سواری کو محفوظ رکھنے کے لیے کیا کر سکتے ہیں؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-190-a",
+        "answer_text": "رفتار میں اضافہ، بریک سخت"
+      },
+      {
+        "id": "rta-moto-190-b",
+        "answer_text": "پھسلن سے بچنے کی کوشش کریں، اپنی رفتار کم کریں۔"
+      },
+      {
+        "id": "rta-moto-190-c",
+        "answer_text": "سخت بریک لگائیں اور بچیں"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-011",
+    "question_text": "دوہری ٹائروں کے درمیان چٹانیں یا کیچڑ پھنسی ہو سکتی ہے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-011-a",
+        "answer_text": "ڈرائیو ٹرین کو نقصان."
+      },
+      {
+        "id": "rta-hvb-011-b",
+        "answer_text": "غیر متوازن پہیے"
+      },
+      {
+        "id": "rta-hvb-011-c",
+        "answer_text": "دباؤ کم کرنے کے لیے ایک ٹائر۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-013",
+    "question_text": "ٹائر میں آگ اکثر اس کی وجہ سے ہوتی ہے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-013-a",
+        "answer_text": "پہنا ہوا ٹائر چلنا."
+      },
+      {
+        "id": "rta-hvb-013-b",
+        "answer_text": "کچی سڑک کی سطحیں۔"
+      },
+      {
+        "id": "rta-hvb-013-c",
+        "answer_text": "دوہری ٹائروں میں کم دباؤ۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-029",
+    "question_text": "جب پلٹتے ہیں اور بائیں طرف مڑتے ہیں، تو آپ اس میں مزید دیکھتے ہیں:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-029-a",
+        "answer_text": "بائیں آئینہ اور سائیڈ ونڈو سے باہر۔"
+      },
+      {
+        "id": "rta-hvb-029-b",
+        "answer_text": "بائیں آئینہ."
+      },
+      {
+        "id": "rta-hvb-029-c",
+        "answer_text": "بائیں اور دائیں دونوں آئینے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-080",
+    "question_text": "طویل سفر کے دوران چوکس رہنے کے لیے، بہترین چیزوں میں سے ایک یہ ہے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-080-a",
+        "answer_text": "ڈرائیونگ کے دوران کھڑکیاں کھلی رکھیں۔"
+      },
+      {
+        "id": "rta-hvb-080-b",
+        "answer_text": "سفر سے پہلے رات کو اچھی نیند لیں۔"
+      },
+      {
+        "id": "rta-hvb-080-c",
+        "answer_text": "سفر کے بعد رات کو اچھی نیند لیں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-087",
+    "question_text": "بوجھ کو محفوظ کرنے میں، یہ غیر محفوظ ہے اگر پلیٹ فارم کی سطح یہ ہے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-087-a",
+        "answer_text": "صاف اور اچھی رگڑ کے ساتھ."
+      },
+      {
+        "id": "rta-hvb-087-b",
+        "answer_text": "پھسلنا اور چکنائی سے پاک نہیں۔"
+      },
+      {
+        "id": "rta-hvb-087-c",
+        "answer_text": "خشک اور چکنائی سے پاک۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-088",
+    "question_text": "بوجھ کو محفوظ بنانے کے لیے بنیادی ضرورت یہ ہے کہ:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-088-a",
+        "answer_text": "بوجھ کو چلنے یا گرنے سے روکیں۔"
+      },
+      {
+        "id": "rta-hvb-088-b",
+        "answer_text": "بوجھ کو دیکھنے سے روکیں۔"
+      },
+      {
+        "id": "rta-hvb-088-c",
+        "answer_text": "ہمیشہ براہ راست پابندی سے مضبوطی سے محفوظ۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-097",
+    "question_text": "پنکھا بریک اس وقت ہوتا ہے جب بریک کو متبادل طور پر لگایا جاتا ہے اور چھوڑ دیا جاتا ہے۔",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-097-a",
+        "answer_text": "بارش کے وقت اس کا بہترین استعمال کیا جاتا ہے۔"
+      },
+      {
+        "id": "rta-hvb-097-b",
+        "answer_text": "یہ سب سے بہتر استعمال کیا جاتا ہے جب اچانک رکنے کی ضرورت ہوتی ہے."
+      },
+      {
+        "id": "rta-hvb-097-c",
+        "answer_text": "یہ ایئر بریک کے لیے بہترین استعمال ہوتا ہے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-109",
+    "question_text": "سڑک پر ٹائروں کی گرفت کھونا (پھسلنا) بنیادی طور پر اس کی وجہ سے ہوتا ہے:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-109-a",
+        "answer_text": "گاڑی، سڑک کی حالت پر منحصر ہے۔"
+      },
+      {
+        "id": "rta-hvb-109-b",
+        "answer_text": "ڈرائیور، سڑک کی حالت سے قطع نظر۔"
+      },
+      {
+        "id": "rta-hvb-109-c",
+        "answer_text": "ڈرائیور، سڑک کی حالت پر منحصر ہے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-143",
+    "question_text": "اگر آپ ٹرک کے کیبن کے اندر جانے کی کوشش کر رہے ہیں، تو آپ کو کیا یاد رکھنا چاہیے اگر آپ کو ٹائر پر قدم رکھنے کی ضرورت ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-143-a",
+        "answer_text": "ٹائر گیلے ہونے پر بہت پھسل سکتا ہے۔"
+      },
+      {
+        "id": "rta-hvb-143-b",
+        "answer_text": "ٹائر مستحکم اور قدم رکھنے کے لیے محفوظ ہے۔"
+      },
+      {
+        "id": "rta-hvb-143-c",
+        "answer_text": "کسی بھی وجہ سے ٹائر پر قدم نہ رکھیں"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-148",
+    "question_text": "ایک بھاری گاڑی کے ڈرائیور کے طور پر، آپ کو اپنی گاڑی چلانے سے پہلے اس کا روزانہ معائنہ کیوں کرنا چاہیے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-148-a",
+        "answer_text": "یہ تربیت کے حصے کے طور پر ضروری ہے۔"
+      },
+      {
+        "id": "rta-hvb-148-b",
+        "answer_text": "یہ آپ کے آجر کی طرف سے ایک ضرورت ہے۔"
+      },
+      {
+        "id": "rta-hvb-148-c",
+        "answer_text": "یہ ذاتی حفاظت اور دوسروں کی حفاظت کے لیے ہے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-157",
+    "question_text": "جانے سے ٹھیک پہلے، آپ نے بونٹ کے نیچے سے ایک معمولی رطوبت کا اخراج دیکھا۔ سب سے اچھی چیز کیا ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-157-a",
+        "answer_text": "مکینک کو کال کریں اور لیک کی جانچ کروائیں۔"
+      },
+      {
+        "id": "rta-hvb-157-b",
+        "answer_text": "واپس آنے کے بعد لیک کو چیک کریں۔"
+      },
+      {
+        "id": "rta-hvb-157-c",
+        "answer_text": "تمام سیال کنٹینرز کو زیادہ سے زیادہ سطح تک اوپر رکھیں"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-175",
+    "question_text": "اپنے پرائم موور اور سیمی ٹریلر کو چلانے سے پہلے، یقینی بنائیں کہ؛",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-175-a",
+        "answer_text": "ٹریلرز کی ٹانگیں اوپر کھینچی جاتی ہیں۔"
+      },
+      {
+        "id": "rta-hvb-175-b",
+        "answer_text": "سمیٹنے والا ہینڈل نہیں ہٹایا جاتا ہے۔"
+      },
+      {
+        "id": "rta-hvb-175-c",
+        "answer_text": "ٹریلر لائٹس اپنی جگہ پر ہیں۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-206",
+    "question_text": "لوڈ ریسٹرنٹ کمپن پروف بنانے کا مطلب ہے؛",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-206-a",
+        "answer_text": "لوڈ کو ترتیب دیا جانا چاہئے تاکہ یہ کمپن یا لوڈ کی نقل و حرکت سے جاری نہ ہو۔"
+      },
+      {
+        "id": "rta-hvb-206-b",
+        "answer_text": "لوڈ کا بندوبست ہونا چاہیے تاکہ اس میں کوئی کمپن نہ ہو۔"
+      },
+      {
+        "id": "rta-hvb-206-c",
+        "answer_text": "گاڑی کو آہستہ آہستہ چلنا چاہیے تاکہ بوجھ پر کمپن نہ ہو۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-207",
+    "question_text": "ریت یا بجری پر گاڑی چلاتے وقت، اگر آپ زیادہ تیز کرتے ہیں تو کیا ہو سکتا ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-207-a",
+        "answer_text": "پہیے بند ہو جائیں گے اور وقت پر رکنے کے قابل نہیں ہوں گے۔"
+      },
+      {
+        "id": "rta-hvb-207-b",
+        "answer_text": "پہیے گھوم جائیں گے، اور اگر آپ ٹریلر کو کھینچ رہے ہیں، تو یہ ایک طرف پھسل سکتا ہے۔"
+      },
+      {
+        "id": "rta-hvb-207-c",
+        "answer_text": "ABS بریک کام نہیں کریں گے اور پہیے گھوم جائیں گے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-213",
+    "question_text": "پھسلن والی سڑک کی سطح پر پنکھے والی بریک تکنیک (باری باری لگائیں اور چھوڑیں) استعمال کرنے کا کیا فائدہ ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-213-a",
+        "answer_text": "پھسلنے کے خطرے کو کم کرتا ہے اور ایک مختصر سٹاپ دیتا ہے۔"
+      },
+      {
+        "id": "rta-hvb-213-b",
+        "answer_text": "بریک کو زیادہ گرم کرنے سے بچتا ہے۔"
+      },
+      {
+        "id": "rta-hvb-213-c",
+        "answer_text": "کلچ کو ٹوٹ پھوٹ سے بچاتا ہے۔"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-217",
+    "question_text": "یہ تصویر دکھاتی ہے کہ بوجھ کو محفوظ کرنے کا کیا طریقہ ہے؟",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-217-a",
+        "answer_text": "براہ راست پابندی"
+      },
+      {
+        "id": "rta-hvb-217-b",
+        "answer_text": "بالواسطہ پابندی"
+      },
+      {
+        "id": "rta-hvb-217-c",
+        "answer_text": "رگڑ کا طریقہ"
+      }
+    ]
   }
 ]

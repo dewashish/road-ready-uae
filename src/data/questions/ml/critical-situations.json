@@ -2390,5 +2390,803 @@
         "answer_text": "ഡ്രൈവർ"
       }
     ]
+  },
+  {
+    "id": "rta-lmv-178",
+    "question_text": "മുൻ‌ വാഹനത്തിന്റെ തൊട്ടടുത്ത് ഓടിക്കൽ അല്ലെങ്കിൽ ടെയ്‌ൽഗേറ്റിംഗ്;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-178-a",
+        "answer_text": "മറ്റ് ഡ്രൈവർമാർ വഴുതിമാറാൻ ഇടയാക്കാം"
+      },
+      {
+        "id": "rta-lmv-178-b",
+        "answer_text": "മറ്റ് ഡ്രൈവർമാർ പെട്ടെന്ന് ലെയ്ൻ മാറ്റാൻ ഇടയാക്കാം"
+      },
+      {
+        "id": "rta-lmv-178-c",
+        "answer_text": "മറ്റ് ഡ്രൈവർമാർ ദൂരത്തേക്ക് നോക്കാൻ ഇടയാക്കാം"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-230",
+    "question_text": "അടിയന്തര വാഹനങ്ങൾക്ക് വഴി നൽകുന്ന കാര്യത്തിൽ, ഏതിന് നിങ്ങൾ വഴി നൽകണം?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-230-a",
+        "answer_text": "ഒരു സൈനിക വാഹനം"
+      },
+      {
+        "id": "rta-lmv-230-b",
+        "answer_text": "ഒരു പോലീസ് പട്രോൾ കാർ"
+      },
+      {
+        "id": "rta-lmv-230-c",
+        "answer_text": "സൈറൺ, ലൈറ്റ് ഇട്ടുകൊണ്ട് വരുന്ന ആംബുലൻസ്"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-379",
+    "question_text": "വാഹനം കേടുവന്നാൽ, മുന്നറിയിപ്പ് ത്രികോണം വയ്ക്കേണ്ട ശരിയായ സ്ഥലം ഏത്?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-379-a",
+        "answer_text": "കാറിൽ നിന്ന് 50 മീറ്റർ അകലെ, വരുന്ന ട്രാഫിക്കിന്റെ ദിശയിൽ"
+      },
+      {
+        "id": "rta-lmv-379-b",
+        "answer_text": "കാറിൽ നിന്ന് 40 മീറ്റർ അകലെ, വരുന്ന ട്രാഫിക്കിന്റെ ദിശയിൽ."
+      },
+      {
+        "id": "rta-lmv-379-c",
+        "answer_text": "കാറിൽ നിന്ന് 30 മീറ്റർ അകലെ, വരുന്ന ട്രാഫിക്കിന്റെ ദിശയിൽ."
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-415",
+    "question_text": "ഒരു അടിയന്തര വാഹനം നിങ്ങളെ കടന്ന് പോയ ശേഷം, ചെയ്യാൻ ഏറ്റവും നല്ലത് എന്താണ്?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-415-a",
+        "answer_text": "വേഗം എത്തിച്ചേരാൻ അതിന് പിന്നാലെ പോകുക"
+      },
+      {
+        "id": "rta-lmv-415-b",
+        "answer_text": "അടിയന്തര വാഹനങ്ങൾക്ക് പിന്നാലെ പോകരുത്"
+      },
+      {
+        "id": "rta-lmv-415-c",
+        "answer_text": "ഇടതുവശത്തേക്ക് നീങ്ങുക"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-417",
+    "question_text": "ഒരു റൗണ്ടബൗട്ടിലേക്ക് പ്രവേശിക്കുന്നതിന് തൊട്ടുമുമ്പ്, ഒരു അടിയന്തര വാഹനം വരുന്നു. നിങ്ങൾ എന്ത് ചെയ്യണം?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-417-a",
+        "answer_text": "പതുക്കെ റൗണ്ടബൗട്ടിലേക്ക് പ്രവേശിക്കുക"
+      },
+      {
+        "id": "rta-lmv-417-b",
+        "answer_text": "അടിയന്തര വാഹനങ്ങൾക്ക് പിന്നാലെ പോകരുത്"
+      },
+      {
+        "id": "rta-lmv-417-c",
+        "answer_text": "അടിയന്തര വാഹനത്തിന് റൗണ്ടബൗട്ടിൽ നിന്ന് ഇറങ്ങാൻ അനുവദിക്കുക"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-040",
+    "question_text": "Refueling your forklift must be carried out in well ventilated areas because;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-040-a",
+        "answer_text": "Fuel stations are very far"
+      },
+      {
+        "id": "rta-fk-040-b",
+        "answer_text": "Fumes from petrol and LPG are very explosive"
+      },
+      {
+        "id": "rta-fk-040-c",
+        "answer_text": "Fire extinguishers may not be available"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-059",
+    "question_text": "The visual pre-use check includes ensuring that;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-059-a",
+        "answer_text": "Fire extinguisher is properly located"
+      },
+      {
+        "id": "rta-fk-059-b",
+        "answer_text": "Fire extinguisher is present and charged"
+      },
+      {
+        "id": "rta-fk-059-c",
+        "answer_text": "Fire extinguisher is appropriately labeled"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-089",
+    "question_text": "The most common cause of death and injury in forklift accidents is when;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-089-a",
+        "answer_text": "Drivers stay inside the cabin on an overturning forklift"
+      },
+      {
+        "id": "rta-fk-089-b",
+        "answer_text": "Drivers attempt to jump from an overturning forklift."
+      },
+      {
+        "id": "rta-fk-089-c",
+        "answer_text": "Drivers attempt to stop an overturning forklift"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-014",
+    "question_text": "If you are operating a shovel, avoid loose clothing and jewelry, and loose, long hair because;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-014-a",
+        "answer_text": "They can cause the shovels to malfunction"
+      },
+      {
+        "id": "rta-hfk-014-b",
+        "answer_text": "They can catch on controls or moving parts and lead to serious accident."
+      },
+      {
+        "id": "rta-hfk-014-c",
+        "answer_text": "They can cause delay in the progress of work"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-035",
+    "question_text": "The action to be taken, who to report to and where and emergency phone numbers are;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-035-a",
+        "answer_text": "Part of owners manuals"
+      },
+      {
+        "id": "rta-hfk-035-b",
+        "answer_text": "Part of pre-operational checks"
+      },
+      {
+        "id": "rta-hfk-035-c",
+        "answer_text": "Part of worksite emergency procedures"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-057",
+    "question_text": "What two (2) immediate actions can you do in case your shovel catches fire? and look for;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-057-a",
+        "answer_text": "Look for fire extinguishers and call for help"
+      },
+      {
+        "id": "rta-hfk-057-b",
+        "answer_text": "Clear the workplace and warn the people"
+      },
+      {
+        "id": "rta-hfk-057-c",
+        "answer_text": "Stop the shovel and turn the engine off"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-061",
+    "question_text": "If you must leave the shovel's cabin because of fire or other reasons, make sure;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-061-a",
+        "answer_text": "To jump as far as possible from the shovel"
+      },
+      {
+        "id": "rta-hfk-061-b",
+        "answer_text": "To do so slowly and carefully"
+      },
+      {
+        "id": "rta-hfk-061-c",
+        "answer_text": "To use the usual dismounting procedure"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-063",
+    "question_text": "At the end of your shift, your shovel has steering failure. What should you do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-063-a",
+        "answer_text": "Go home, your shift has ended"
+      },
+      {
+        "id": "rta-hfk-063-b",
+        "answer_text": "Stay inside the cabin and wait for your supervisor"
+      },
+      {
+        "id": "rta-hfk-063-c",
+        "answer_text": "Report the problem before heading home"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-064",
+    "question_text": "If your shovel has brake failure on steep ramp or road, the bucket may be;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-064-a",
+        "answer_text": "Used as brakes when dropped"
+      },
+      {
+        "id": "rta-hfk-064-b",
+        "answer_text": "Used as guide to stop safely"
+      },
+      {
+        "id": "rta-hfk-064-c",
+        "answer_text": "Used as a tool for steering"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-065",
+    "question_text": "In this situation, it is best to stay inside the cabin and call for assistance.",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-065-a",
+        "answer_text": "Shovel has brake failures"
+      },
+      {
+        "id": "rta-hfk-065-b",
+        "answer_text": "Shovel rolls over or partially rolls on a slope"
+      },
+      {
+        "id": "rta-hfk-065-c",
+        "answer_text": "Shovel has steering failures"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-013",
+    "question_text": "Which of the following cases may cause the rear wheel to skid?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-013-a",
+        "answer_text": "Applying the front brake in a curve."
+      },
+      {
+        "id": "rta-moto-013-b",
+        "answer_text": "Accelerating too quickly."
+      },
+      {
+        "id": "rta-moto-013-c",
+        "answer_text": "Changing to a higher gear while going slowly."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-049",
+    "question_text": "The best way to handle a rear wheel skid caused by over braking is to:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-049-a",
+        "answer_text": "steer into the direction of the skid and release the rear brake."
+      },
+      {
+        "id": "rta-moto-049-b",
+        "answer_text": "ease off the brakes gradually, putting one foot to the ground."
+      },
+      {
+        "id": "rta-moto-049-c",
+        "answer_text": "steer slightly away from the skid and release the brakes rapidly."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-050",
+    "question_text": "Your rear wheel locks, the engine suddenly speeds up and your cycle starts to skid. The likely cause of this is:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-050-a",
+        "answer_text": "a broken chain."
+      },
+      {
+        "id": "rta-moto-050-b",
+        "answer_text": "a stuck throttle."
+      },
+      {
+        "id": "rta-moto-050-c",
+        "answer_text": "a rear wheel blowout."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-051",
+    "question_text": "If you have a tyre blowout the first thing you should do is:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-051-a",
+        "answer_text": "grip the handgrips firmly and try to steer a straight course."
+      },
+      {
+        "id": "rta-moto-051-b",
+        "answer_text": "brake gently using both brakes and ease off the throttle."
+      },
+      {
+        "id": "rta-moto-051-c",
+        "answer_text": "steer towards the side of the road."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-053",
+    "question_text": "You are trying to stop quickly, but your front wheel starts to skid. You should:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-053-a",
+        "answer_text": "apply the rear brake more firmly."
+      },
+      {
+        "id": "rta-moto-053-b",
+        "answer_text": "change down to a lower gear."
+      },
+      {
+        "id": "rta-moto-053-c",
+        "answer_text": "release the front brake immediately."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-055",
+    "question_text": "When braking, if the rear wheel starts skidding out to the right, you should:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-055-a",
+        "answer_text": "apply both brakes gently."
+      },
+      {
+        "id": "rta-moto-055-b",
+        "answer_text": "steer slightly to the right."
+      },
+      {
+        "id": "rta-moto-055-c",
+        "answer_text": "counter steer to the left."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-058",
+    "question_text": "If the back of the motorcycle starts skidding while accelerating, which of the following actions should the rider take immediately?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-058-a",
+        "answer_text": "Ease off the throttle."
+      },
+      {
+        "id": "rta-moto-058-b",
+        "answer_text": "Ease off the throttle, steer hard to the left and apply the rear brake gently."
+      },
+      {
+        "id": "rta-moto-058-c",
+        "answer_text": "Steer hard to the left, apply the rear brake gently and sit as far back on the seat as possible."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-092",
+    "question_text": "Keeping a safe distance of at least 3 seconds is important because:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-092-a",
+        "answer_text": "it gives you more time to stop in an emergency."
+      },
+      {
+        "id": "rta-moto-092-b",
+        "answer_text": "it allows you more room to accelerate faster."
+      },
+      {
+        "id": "rta-moto-092-c",
+        "answer_text": "you can swerve easily."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-168",
+    "question_text": "You are trying to make an emergency stop for your bike but your tire starts skidding. What could be the reason?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-168-a",
+        "answer_text": "the front brakes were not working properly"
+      },
+      {
+        "id": "rta-moto-168-b",
+        "answer_text": "the rear brake pedal was pressed too hard"
+      },
+      {
+        "id": "rta-moto-168-c",
+        "answer_text": "both front and rear brakes are working just fine"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-170",
+    "question_text": "If your bike skids for any reason, how should you position your feet while you are dealing with the skid?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-170-a",
+        "answer_text": "your feet should be positioned on the ground"
+      },
+      {
+        "id": "rta-moto-170-b",
+        "answer_text": "your feet should be kept positioned on the foot pegs"
+      },
+      {
+        "id": "rta-moto-170-c",
+        "answer_text": "your feet should be neither on the foot pegs nor the ground"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-171",
+    "question_text": "The most common cause of skidding is grabbing or suddenly applying the brakes. How?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-171-a",
+        "answer_text": "the brakes do not have any grip on the surface"
+      },
+      {
+        "id": "rta-moto-171-b",
+        "answer_text": "the front brakes not work as good as the rear brakes"
+      },
+      {
+        "id": "rta-moto-171-c",
+        "answer_text": "this can lock up one or both wheels while braking."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-173",
+    "question_text": "Having a tire blow-out is a result of a quick puncture to the tire. What is your best protection from this?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-173-a",
+        "answer_text": "ride your bike during day time only"
+      },
+      {
+        "id": "rta-moto-173-b",
+        "answer_text": "replace your tires before they become too worn"
+      },
+      {
+        "id": "rta-moto-173-c",
+        "answer_text": "replace your tires every six months"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-175",
+    "question_text": "The chain of your bike breaks and it locks the wheel. What should you do to stay safe?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-175-a",
+        "answer_text": "release the brakes and steer to the opposite direction of the skid"
+      },
+      {
+        "id": "rta-moto-175-b",
+        "answer_text": "put pressure on the brakes and steer to the direction of the skid"
+      },
+      {
+        "id": "rta-moto-175-c",
+        "answer_text": "release the brakes and steer to the direction of the skid"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-179",
+    "question_text": "A quick way to swerve around an obstacle called counter steering. When doing this;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-179-a",
+        "answer_text": "you should not use any of the brakes."
+      },
+      {
+        "id": "rta-moto-179-b",
+        "answer_text": "you may use the front brake"
+      },
+      {
+        "id": "rta-moto-179-c",
+        "answer_text": "you may use  the rear brake"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-180",
+    "question_text": "Riding towards an obstacle on the road that is flat like a card board or metal sheet, what should you do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-180-a",
+        "answer_text": "make an evasive maneuver"
+      },
+      {
+        "id": "rta-moto-180-b",
+        "answer_text": "ride straight over the top and do not brake"
+      },
+      {
+        "id": "rta-moto-180-c",
+        "answer_text": "do an emergency braking"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-181",
+    "question_text": "Riding towards an obstacle on the road that is bigger or a rough road, what should you do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-181-a",
+        "answer_text": "ride straight over the top and do not brake"
+      },
+      {
+        "id": "rta-moto-181-b",
+        "answer_text": "speed up and try to jump over the object"
+      },
+      {
+        "id": "rta-moto-181-c",
+        "answer_text": "if possible, brake before you reach the object, but release the brake before you hit it."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-182",
+    "question_text": "In dealing with riding emergency, what can you do to reduce the likelihood of falling over?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-182-a",
+        "answer_text": "try to keep the bike upright in a straight line"
+      },
+      {
+        "id": "rta-moto-182-b",
+        "answer_text": "try to use the front brake only"
+      },
+      {
+        "id": "rta-moto-182-c",
+        "answer_text": "try to wear the top quality helmets only"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-184",
+    "question_text": "To swerve quickly to the left and perform a counter steering, you need to;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-184-a",
+        "answer_text": "press forward on the left handgrip."
+      },
+      {
+        "id": "rta-moto-184-b",
+        "answer_text": "press forward on the right handgrip."
+      },
+      {
+        "id": "rta-moto-184-c",
+        "answer_text": "lean and turn your head to the right"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-188",
+    "question_text": "As a rider, you want to have more time to stop in case of emergency. How can you do this?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-188-a",
+        "answer_text": "by wearing highly reflective clothing"
+      },
+      {
+        "id": "rta-moto-188-b",
+        "answer_text": "by increasing your following distance and being alert"
+      },
+      {
+        "id": "rta-moto-188-c",
+        "answer_text": "by maintaining your bike properly"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-044",
+    "question_text": "In an emergency, to stop quickly and control the vehicle, you should use the brakes:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-044-a",
+        "answer_text": "until you lock the wheels and keep them locked."
+      },
+      {
+        "id": "rta-hvb-044-b",
+        "answer_text": "until you almost lock the wheels, then release the brakes and apply again."
+      },
+      {
+        "id": "rta-hvb-044-c",
+        "answer_text": "after changing through the gears."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-046",
+    "question_text": "To put out a fire, use the fire extinguisher until:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-046-a",
+        "answer_text": "the flame is gone."
+      },
+      {
+        "id": "rta-hvb-046-b",
+        "answer_text": "whatever was burning is cool."
+      },
+      {
+        "id": "rta-hvb-046-c",
+        "answer_text": "the smoke has cleared."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-052",
+    "question_text": "If you have accelerated too hard, and your drive wheels spin, you should:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-052-a",
+        "answer_text": "brake hard."
+      },
+      {
+        "id": "rta-hvb-052-b",
+        "answer_text": "press the clutch pedal."
+      },
+      {
+        "id": "rta-hvb-052-c",
+        "answer_text": "ease off the accelerator."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-112",
+    "question_text": "The three (3) very dangerous vehicle emergencies are;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-112-a",
+        "answer_text": "brake failure, fires, steering failure."
+      },
+      {
+        "id": "rta-hvb-112-b",
+        "answer_text": "tire failure, brake failure, fires."
+      },
+      {
+        "id": "rta-hvb-112-c",
+        "answer_text": "tire failure, brake failure, sleepiness."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-144",
+    "question_text": "If you have to change wheels by the road, how can you safely position your vehicle?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-144-a",
+        "answer_text": "The vehicle should be facing the opposite direction"
+      },
+      {
+        "id": "rta-hvb-144-b",
+        "answer_text": "Move as far off the road as possible"
+      },
+      {
+        "id": "rta-hvb-144-c",
+        "answer_text": "Move to the hard shoulder"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-153",
+    "question_text": "Excessive wear and worn tires can cause;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-153-a",
+        "answer_text": "Complete brake failure"
+      },
+      {
+        "id": "rta-hvb-153-b",
+        "answer_text": "Wheel nuts to loosen"
+      },
+      {
+        "id": "rta-hvb-153-c",
+        "answer_text": "Loss of steering control"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-191",
+    "question_text": "When backing up the prime mover under the semi-trailer skid plate, which gear must be used?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-191-a",
+        "answer_text": "The lowest possible reverse gear"
+      },
+      {
+        "id": "rta-hvb-191-b",
+        "answer_text": "The second lowest possible reverse gear"
+      },
+      {
+        "id": "rta-hvb-191-c",
+        "answer_text": "Any of the reverse gear is possible"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-197",
+    "question_text": "If you stand on or near the turntable to connect airlines or electrical cables, be careful because;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-197-a",
+        "answer_text": "It can cause fire or a wheel to lock"
+      },
+      {
+        "id": "rta-hvb-197-b",
+        "answer_text": "The fuel line may have leaks"
+      },
+      {
+        "id": "rta-hvb-197-c",
+        "answer_text": "It is easy to slip on greasy parts."
+      }
+    ]
   }
 ]

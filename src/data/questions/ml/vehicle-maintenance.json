@@ -4782,5 +4782,3007 @@
         "answer_text": "എഞ്ചിൻ ശബ്ദം"
       }
     ]
+  },
+  {
+    "id": "rta-lmv-039",
+    "question_text": "നിങ്ങൾ വാഹനം A ഓടിക്കുകയാണ്. വാഹനം B യുമായി നേർക്കുനേർ കൂട്ടിയിടി എങ്ങനെ ഒഴിവാക്കാം?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-039-a",
+        "answer_text": "കഴിയുന്നത്ര സുരക്ഷിതമായി വേഗം കുറയ്ക്കുക, സാധ്യമെങ്കിൽ റോഡിന്റെ വലത് ഭാഗത്തേക്ക് മാറുക."
+      },
+      {
+        "id": "rta-lmv-039-b",
+        "answer_text": "ഹെഡ്‌ലൈറ്റ് ഓണാക്കി ഹോൺ മുഴക്കുക."
+      },
+      {
+        "id": "rta-lmv-039-c",
+        "answer_text": "നേരെ മുന്നോട്ട് പോകുക, കാരണം വാഹനം B തെറ്റ് ചെയ്യുകയാണ്."
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-076",
+    "question_text": "നിങ്ങൾ തിരക്കേറിയ ട്രാഫിക്കിൽ വാഹനം ഓടിക്കുകയാണ്. ഇടത്തേക്ക് തിരിയുന്ന ഒരു വാഹനം നിങ്ങളുടെ ലെയ്ൻ തടഞ്ഞിരിക്കുന്നു. നിങ്ങൾ എന്ത് ചെയ്യണം?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-076-a",
+        "answer_text": "വാഹനം തിരിയുന്നതുവരെ കാത്തിരിക്കുക, തുടർന്ന് മുന്നോട്ട് പോകുക."
+      },
+      {
+        "id": "rta-lmv-076-b",
+        "answer_text": "വാഹനം തിരിയുന്നതുവരെ ഹോൺ മുഴക്കിക്കൊണ്ടിരിക്കുക."
+      },
+      {
+        "id": "rta-lmv-076-c",
+        "answer_text": "വാഹനത്തിന്റെ വലത്തെ ഫുട്ട്പാത്തിലൂടെ കടന്നുപോകാൻ ശ്രമിക്കുക."
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-082",
+    "question_text": "നിങ്ങൾ ഒരു പിക്കപ്പ് ട്രക്ക് ഓടിക്കുകയാണെങ്കിൽ നിങ്ങൾ",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-082-a",
+        "answer_text": "ട്രക്കിൽ കഴിയുന്നത്ര ഭാരം കയറ്റുക."
+      },
+      {
+        "id": "rta-lmv-082-b",
+        "answer_text": "എല്ലാ ഭാരവും ട്രക്കിന്റെ മുൻഭാഗത്ത് വയ്ക്കുക."
+      },
+      {
+        "id": "rta-lmv-082-c",
+        "answer_text": "ഭാരം ചലിക്കാതിരിക്കാൻ മൂടിവയ്ക്കുക."
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-160",
+    "question_text": "രാത്രി ഗ്രാമീണ റോഡുകളിൽ ഡ്രൈവ് ചെയ്യുകയാണെങ്കിൽ, എത്ര ദൂരം വരെ നിങ്ങൾക്ക് വ്യക്തമായി കാണാൻ കഴിയും;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-160-a",
+        "answer_text": "20 മീറ്റർ"
+      },
+      {
+        "id": "rta-lmv-160-b",
+        "answer_text": "നിങ്ങളുടെ വാഹനത്തിന്റെ നീളം വരെ"
+      },
+      {
+        "id": "rta-lmv-160-c",
+        "answer_text": "നിങ്ങളുടെ ഹെഡ്‌ലൈറ്റിന്റെ പരിധി വരെ"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-197",
+    "question_text": "3 SSS തത്ത്വം പ്രയോഗിക്കുമ്പോൾ, കാൽനടക്കാരന് നിങ്ങൾ എവിടെ ഉണ്ടെന്ന് അറിയുമെന്ന് ഉറപ്പാക്കാൻ നിങ്ങൾ എന്ത് ചെയ്യും?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-197-a",
+        "answer_text": "നിങ്ങളുടെ സാന്നിധ്യം അറിയിക്കാൻ ഹോൺ ഹൽക്കയായി അമർത്തി ശബ്ദം ഉപയോഗിക്കുക"
+      },
+      {
+        "id": "rta-lmv-197-b",
+        "answer_text": "നിങ്ങളുടെ സാന്നിധ്യം അറിയിക്കാൻ എഞ്ചിൻ റെവ് ചെയ്ത് ശബ്ദം ഉപയോഗിക്കുക"
+      },
+      {
+        "id": "rta-lmv-197-c",
+        "answer_text": "ഹെഡ്‌ലൈറ്റുകൾ ആവർത്തിച്ച് മിന്നിക്കുക"
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-321",
+    "question_text": "കാൽനടക്കാരുടെ ക്രോസിംഗ് കടക്കുമ്പോൾ ശരിയായ പെരുമാറ്റം",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-321-a",
+        "answer_text": "കാൽനടക്കാർ പൂർണ്ണമായി കടക്കുന്നത് വരെ കാത്തിരിക്കുക"
+      },
+      {
+        "id": "rta-lmv-321-b",
+        "answer_text": "പതുക്കെ നടക്കുന്ന കാൽനടക്കാർക്ക് ഹോൺ മുഴക്കുക"
+      },
+      {
+        "id": "rta-lmv-321-c",
+        "answer_text": "എഞ്ചിൻ ഉച്ചത്തിൽ റേവ് ചെയ്ത് അക്ഷമ കാണിക്കുക."
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-336",
+    "question_text": "വെള്ളപ്പൊക്കത്തിലൂടെ കടന്നുപോകേണ്ടി വന്നാൽ, ഏറ്റവും നല്ലത്:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-336-a",
+        "answer_text": "മറ്റ് ഡ്രൈവർമാരുടെ സഹായം തേടുക."
+      },
+      {
+        "id": "rta-lmv-336-b",
+        "answer_text": "താഴ്ന്ന ഗിയർ, കുറഞ്ഞ വേഗത, കുറഞ്ഞ എഞ്ചിൻ ആർ‌പി‌എം നിലനിർത്തുക."
+      },
+      {
+        "id": "rta-lmv-336-c",
+        "answer_text": "താഴ്ന്ന ഗിയർ, കുറഞ്ഞ വേഗതയിൽ ക്ലച്ച് സ്ലിപ്പ് ചെയ്യിക്കുന്നതിനൊപ്പം എഞ്ചിൻ റെവ് ചെയ്യുക."
+      }
+    ]
+  },
+  {
+    "id": "rta-lmv-407",
+    "question_text": "നിങ്ങൾ പൂർണമായി ലോഡ് ചെയ്ത ഒരു SUV ഓടിക്കുകയാണ്, ഈ ചിഹ്നം കണ്ടുമുട്ടുന്നു. മുന്നോട്ട് പോകുന്നതിന് മുമ്പ് എന്ത് കാര്യം പരിഗണിക്കണം?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-lmv-407-a",
+        "answer_text": "വാഹനത്തിന്റെ വേഗത"
+      },
+      {
+        "id": "rta-lmv-407-b",
+        "answer_text": "വാഹനത്തിന്റെ ഉയരം"
+      },
+      {
+        "id": "rta-lmv-407-c",
+        "answer_text": "വാഹനത്തിന്റെ മൊത്തം ഭാരം"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-004",
+    "question_text": "If applying for a forklift license, you will be tested in;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-004-a",
+        "answer_text": "A forklift with empty weight of more than 7.5 tons"
+      },
+      {
+        "id": "rta-fk-004-b",
+        "answer_text": "A forklift with empty weight of less than 7.5 tons"
+      },
+      {
+        "id": "rta-fk-004-c",
+        "answer_text": "A forklift with loaded weight of less than 7.5 tons"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-009",
+    "question_text": "Forklifts are used to:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-009-a",
+        "answer_text": "Move heavy goods vehicles"
+      },
+      {
+        "id": "rta-fk-009-b",
+        "answer_text": "Transport people between areas"
+      },
+      {
+        "id": "rta-fk-009-c",
+        "answer_text": "Transport loads between areas"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-013",
+    "question_text": "There are 2 main types of motors used in forklifts. The internal combustion and;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-013-a",
+        "answer_text": "Battery powered electric motors"
+      },
+      {
+        "id": "rta-fk-013-b",
+        "answer_text": "Solar powered motors"
+      },
+      {
+        "id": "rta-fk-013-c",
+        "answer_text": "Hydraulic powered motors"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-014",
+    "question_text": "Be safe when operating a battery powered forklift. Batteries contain;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-014-a",
+        "answer_text": "Distilled water"
+      },
+      {
+        "id": "rta-fk-014-b",
+        "answer_text": "Sulfuric acid"
+      },
+      {
+        "id": "rta-fk-014-c",
+        "answer_text": "Liquefied Petroleum Gas (LPG)"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-018",
+    "question_text": "How can you avoid sparks when disconnecting batteries of the forklift?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-018-a",
+        "answer_text": "Use the isolation switch to ensure that the forklift circuit is open"
+      },
+      {
+        "id": "rta-fk-018-b",
+        "answer_text": "Use the ignition  switch to turn off the engine"
+      },
+      {
+        "id": "rta-fk-018-c",
+        "answer_text": "Use the handbrakes to ensure the forklift is not moving."
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-019",
+    "question_text": "When disconnecting battery, these must not come into contact with terminals to avoid creating spark.",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-019-a",
+        "answer_text": "Hand gloves and jackets"
+      },
+      {
+        "id": "rta-fk-019-b",
+        "answer_text": "Metal tools or fittings"
+      },
+      {
+        "id": "rta-fk-019-c",
+        "answer_text": "Plastic or rubber tubes"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-021",
+    "question_text": "A key component of the forklift that prevents the load from falling to the operator.",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-021-a",
+        "answer_text": "Warning light"
+      },
+      {
+        "id": "rta-fk-021-b",
+        "answer_text": "Load backrest"
+      },
+      {
+        "id": "rta-fk-021-c",
+        "answer_text": "Mast"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-022",
+    "question_text": "This pedal, located on the left side of the steering column also works as a clutch. It is known as;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-022-a",
+        "answer_text": "Brake pedal"
+      },
+      {
+        "id": "rta-fk-022-b",
+        "answer_text": "Inching brake pedal"
+      },
+      {
+        "id": "rta-fk-022-c",
+        "answer_text": "Clutch pedal"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-026",
+    "question_text": "It is important not to overuse the inching brake pedal because it may;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-026-a",
+        "answer_text": "Affect the balance of the forklift"
+      },
+      {
+        "id": "rta-fk-026-b",
+        "answer_text": "Cause the automatic transmission oil to overheat"
+      },
+      {
+        "id": "rta-fk-026-c",
+        "answer_text": "Cause the brake fluid to expand"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-029",
+    "question_text": "If operating a powered steering forklift, never switch off the engine while moving as this can result to;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-029-a",
+        "answer_text": "Total loss of steering"
+      },
+      {
+        "id": "rta-fk-029-b",
+        "answer_text": "Total loss of brakes"
+      },
+      {
+        "id": "rta-fk-029-c",
+        "answer_text": "Breakage in the steering mechanism"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-031",
+    "question_text": "A forklift attachment that can be used to position heavy loads similar to cranes:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-031-a",
+        "answer_text": "Jibs"
+      },
+      {
+        "id": "rta-fk-031-b",
+        "answer_text": "Clamps"
+      },
+      {
+        "id": "rta-fk-031-c",
+        "answer_text": "Spikes"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-033",
+    "question_text": "How do you ensure your forklift is able to safely carry the loads you will be working on?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-033-a",
+        "answer_text": "Check the capacity of the protective cage"
+      },
+      {
+        "id": "rta-fk-033-b",
+        "answer_text": "Check the load capacity of the tires"
+      },
+      {
+        "id": "rta-fk-033-c",
+        "answer_text": "Check the Safe Working Load (SWL)"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-034",
+    "question_text": "Find out the load capacity and operating limits of your forklift by checking the;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-034-a",
+        "answer_text": "Forklift lifting mechanism"
+      },
+      {
+        "id": "rta-fk-034-b",
+        "answer_text": "Manufacturer's Data Plate"
+      },
+      {
+        "id": "rta-fk-034-c",
+        "answer_text": "Forklift number plate"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-036",
+    "question_text": "This attachment has fully adjustable reach with 1000 kgs Safe Working Load (SWL) at 1100mm.",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-036-a",
+        "answer_text": "Jibs"
+      },
+      {
+        "id": "rta-fk-036-b",
+        "answer_text": "Forklift economy Jib"
+      },
+      {
+        "id": "rta-fk-036-c",
+        "answer_text": "Forklift Extension Jib"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-037",
+    "question_text": "For reasons of safety, heavier loads must be;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-037-a",
+        "answer_text": "Moved quickly"
+      },
+      {
+        "id": "rta-fk-037-b",
+        "answer_text": "Moved slowly"
+      },
+      {
+        "id": "rta-fk-037-c",
+        "answer_text": "Moved first"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-038",
+    "question_text": "At your workplace, there are other traffic crossing your path. What adjustments should be made?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-038-a",
+        "answer_text": "Brighter warning lights  for all to see easily"
+      },
+      {
+        "id": "rta-fk-038-b",
+        "answer_text": "Load to lighten the forklift"
+      },
+      {
+        "id": "rta-fk-038-c",
+        "answer_text": "Speed to enable stopping safely if needed"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-041",
+    "question_text": "When refueling, the fuel may be ignited. What safety precaution must be taken to prevent this?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-041-a",
+        "answer_text": "The engine must not be running"
+      },
+      {
+        "id": "rta-fk-041-b",
+        "answer_text": "The engine must be on idle only"
+      },
+      {
+        "id": "rta-fk-041-c",
+        "answer_text": "The engine must not be raced"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-043",
+    "question_text": "Due to heavy workload, your supervisor wants you to continue using the forklift that has fuel leak. What is the safest thing to do here?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-043-a",
+        "answer_text": "Fix the fuel leak first, then resume work"
+      },
+      {
+        "id": "rta-fk-043-b",
+        "answer_text": "Fix the fuel leak after work is completed"
+      },
+      {
+        "id": "rta-fk-043-c",
+        "answer_text": "Complete the work as carefully as possible"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-045",
+    "question_text": "As part of safe working practice, the operator needs to know this with or without load.",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-045-a",
+        "answer_text": "The weight of the load"
+      },
+      {
+        "id": "rta-fk-045-b",
+        "answer_text": "The engine capacity"
+      },
+      {
+        "id": "rta-fk-045-c",
+        "answer_text": "The blind spots"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-048",
+    "question_text": "At the start of your shift, you know that you will be raising loads. What should you check for to be safe?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-048-a",
+        "answer_text": "An added lifting capacity"
+      },
+      {
+        "id": "rta-fk-048-b",
+        "answer_text": "An adequate floor space"
+      },
+      {
+        "id": "rta-fk-048-c",
+        "answer_text": "An adequate overhead clearance"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-051",
+    "question_text": "Stop if any pedestrian crosses the route being travelled, you should also;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-051-a",
+        "answer_text": "Maintain the position of the load"
+      },
+      {
+        "id": "rta-fk-051-b",
+        "answer_text": "Lower the load to the floor while waiting"
+      },
+      {
+        "id": "rta-fk-051-c",
+        "answer_text": "Sound the horn to warn the pedestrians"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-052",
+    "question_text": "When moving or shifting loads, protect your hands by wearing;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-052-a",
+        "answer_text": "Leather gloves"
+      },
+      {
+        "id": "rta-fk-052-b",
+        "answer_text": "Silicon gloves"
+      },
+      {
+        "id": "rta-fk-052-c",
+        "answer_text": "Rubber gloves"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-065",
+    "question_text": "Before the start of your work, the battery needs to be checked if fully charged. Battery check also includes;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-065-a",
+        "answer_text": "Hoses are held securely; not loose"
+      },
+      {
+        "id": "rta-fk-065-b",
+        "answer_text": "The cables for exposed wires; battery plug"
+      },
+      {
+        "id": "rta-fk-065-c",
+        "answer_text": "Horn is working and loud enough"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-067",
+    "question_text": "Identify at least four parts of a forklift which you must inspect daily.",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-067-a",
+        "answer_text": "Brakes, steering, controls, lights, warning gauges"
+      },
+      {
+        "id": "rta-fk-067-b",
+        "answer_text": "Tires, brakes, floor mats, overhead clearance"
+      },
+      {
+        "id": "rta-fk-067-c",
+        "answer_text": "Steering, attachments, forks, trap door"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-070",
+    "question_text": "If the engine fails to start within approximately 10 seconds, what is best to do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-070-a",
+        "answer_text": "Try starting again until it starts"
+      },
+      {
+        "id": "rta-fk-070-b",
+        "answer_text": "Wait for the starter to cool down and try again"
+      },
+      {
+        "id": "rta-fk-070-c",
+        "answer_text": "Request assistance to jumpstart the engine"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-072",
+    "question_text": "Before moving the forklift, you should;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-072-a",
+        "answer_text": "Raise all lowered attachments just clear of the ground"
+      },
+      {
+        "id": "rta-fk-072-b",
+        "answer_text": "Check that transmission control lever is in neutral position"
+      },
+      {
+        "id": "rta-fk-072-c",
+        "answer_text": "Lower all raised attachments to the ground"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-074",
+    "question_text": "The start up procedure and before moving should include safety check to ensure that;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-074-a",
+        "answer_text": "The area has been cleared of loads to be moved"
+      },
+      {
+        "id": "rta-fk-074-b",
+        "answer_text": "The machine is ready to operate for the day"
+      },
+      {
+        "id": "rta-fk-074-c",
+        "answer_text": "The area is clear of all personnel and equipment"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-075",
+    "question_text": "To maintain control when travelling, how should you position your load?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-075-a",
+        "answer_text": "Load is tilted forwards"
+      },
+      {
+        "id": "rta-fk-075-b",
+        "answer_text": "Load is tilted backwards"
+      },
+      {
+        "id": "rta-fk-075-c",
+        "answer_text": "Load is flat and not tilted"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-080",
+    "question_text": "When loading the forklift truck, the load's center of gravity should be;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-080-a",
+        "answer_text": "As high as possible"
+      },
+      {
+        "id": "rta-fk-080-b",
+        "answer_text": "As low as possible"
+      },
+      {
+        "id": "rta-fk-080-c",
+        "answer_text": "Centered to the fulcrum"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-085",
+    "question_text": "Before raising the load of the forklift, the operator must;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-085-a",
+        "answer_text": "Ensure there is enough overhead clearance"
+      },
+      {
+        "id": "rta-fk-085-b",
+        "answer_text": "Ensure the load is light enough for the forklift to raise"
+      },
+      {
+        "id": "rta-fk-085-c",
+        "answer_text": "Ensure the forklift is safe to operate"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-086",
+    "question_text": "Before raising or lowering the load of the forklift, the operator must ensure that;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-086-a",
+        "answer_text": "The forklift is in a stable ground and moving slow"
+      },
+      {
+        "id": "rta-fk-086-b",
+        "answer_text": "The forklift is stopped and braked"
+      },
+      {
+        "id": "rta-fk-086-c",
+        "answer_text": "The forklift has extendable mast"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-087",
+    "question_text": "Never exceed the recommended limit of the lift truck.  The information on the load limit can be found on the;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-087-a",
+        "answer_text": "Safety equipment"
+      },
+      {
+        "id": "rta-fk-087-b",
+        "answer_text": "Data plate of the load"
+      },
+      {
+        "id": "rta-fk-087-c",
+        "answer_text": "Data plate of the of the lift truck"
+      }
+    ]
+  },
+  {
+    "id": "rta-fk-092",
+    "question_text": "If the load is not positioned against the heel of the fork arms;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-fk-092-a",
+        "answer_text": "It makes the forklift more stable and easy to operate"
+      },
+      {
+        "id": "rta-fk-092-b",
+        "answer_text": "it can cause the forklift to slide sideward"
+      },
+      {
+        "id": "rta-fk-092-c",
+        "answer_text": "it can cause the forklift to tip forward"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-004",
+    "question_text": "Digging, levelling,  pushing, load and carry operations are just;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-004-a",
+        "answer_text": "Some features of the shovels"
+      },
+      {
+        "id": "rta-hfk-004-b",
+        "answer_text": "Some of the uses of shovels"
+      },
+      {
+        "id": "rta-hfk-004-c",
+        "answer_text": "The only use of the shovels"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-008",
+    "question_text": "When steering a loaded bucket, there is a danger of tipping because;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-008-a",
+        "answer_text": "The weight is shifted away from the body of the shovel."
+      },
+      {
+        "id": "rta-hfk-008-b",
+        "answer_text": "The body of the shovel shifts to either side"
+      },
+      {
+        "id": "rta-hfk-008-c",
+        "answer_text": "The weight of the shovel increases while moving"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-019",
+    "question_text": "What could be a potential problem with having uneven tire pressure in a shovel?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-019-a",
+        "answer_text": "Load may transfer to the side with the lower pressure and cause an overturn"
+      },
+      {
+        "id": "rta-hfk-019-b",
+        "answer_text": "Load may transfer to one side and slow down the work progress"
+      },
+      {
+        "id": "rta-hfk-019-c",
+        "answer_text": "It can cause heavy wear and tear to the steering"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-028",
+    "question_text": "When checking the correct transmission fluid level of you shovel, do this;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-028-a",
+        "answer_text": "When the shovel is parked and has cooled down"
+      },
+      {
+        "id": "rta-hfk-028-b",
+        "answer_text": "When the shovel is parked and engine is still hot"
+      },
+      {
+        "id": "rta-hfk-028-c",
+        "answer_text": "When the shovel is working during the day"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-030",
+    "question_text": "If you want to check if the fan belt is properly tensioned, how should you do it?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-030-a",
+        "answer_text": "Depress the belt at the top of the fan pulley"
+      },
+      {
+        "id": "rta-hfk-030-b",
+        "answer_text": "Depress the belt between the fan and the alternator pulleys"
+      },
+      {
+        "id": "rta-hfk-030-c",
+        "answer_text": "Pull the belt between the fan and the alternator pulleys"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-031",
+    "question_text": "The electrical wirings should be checked for;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-031-a",
+        "answer_text": "Damaged wires, and lights and horn are working."
+      },
+      {
+        "id": "rta-hfk-031-b",
+        "answer_text": "Damaged pulleys"
+      },
+      {
+        "id": "rta-hfk-031-c",
+        "answer_text": "Damaged headlights"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-032",
+    "question_text": "The battery terminals should be checked for tightness. Loose terminals can cause;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-032-a",
+        "answer_text": "Quick starting"
+      },
+      {
+        "id": "rta-hfk-032-b",
+        "answer_text": "A spark and even explosion"
+      },
+      {
+        "id": "rta-hfk-032-c",
+        "answer_text": "Supercharging"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-034",
+    "question_text": "The battery can over-heat and fail prematurely if;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-034-a",
+        "answer_text": "The electrolyte level is low"
+      },
+      {
+        "id": "rta-hfk-034-b",
+        "answer_text": "The electrolyte level is high"
+      },
+      {
+        "id": "rta-hfk-034-c",
+        "answer_text": "The connections are too tight"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-041",
+    "question_text": "Why do you need to walk around the shovel again before starting the engine?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-041-a",
+        "answer_text": "To enable quick start up procedure"
+      },
+      {
+        "id": "rta-hfk-041-b",
+        "answer_text": "To check the surrounding for bit of relaxation"
+      },
+      {
+        "id": "rta-hfk-041-c",
+        "answer_text": "To check the surrounding and ensure all around safety"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-044",
+    "question_text": "Before starting the engine of your shovel, what should you be checking first?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-044-a",
+        "answer_text": "Check that the park brake is set to neutral position"
+      },
+      {
+        "id": "rta-hfk-044-b",
+        "answer_text": "Check that the park brake is set to engaged position"
+      },
+      {
+        "id": "rta-hfk-044-c",
+        "answer_text": "Check that the park brake is disengaged"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-045",
+    "question_text": "After starting the engine of your shovel, what should you be checking?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-045-a",
+        "answer_text": "Check that the park brake is set to neutral position"
+      },
+      {
+        "id": "rta-hfk-045-b",
+        "answer_text": "Check the position and operation of park brakes and emergency devices"
+      },
+      {
+        "id": "rta-hfk-045-c",
+        "answer_text": "Check the fuel and oil pressure gauges to ensure that they are working"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-046",
+    "question_text": "Once the engine of your shovel has been started, the key should",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-046-a",
+        "answer_text": "Be returned to ON position"
+      },
+      {
+        "id": "rta-hfk-046-b",
+        "answer_text": "Be kept on the START position"
+      },
+      {
+        "id": "rta-hfk-046-c",
+        "answer_text": "Be returned to OFF position"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-047",
+    "question_text": "What should you do if the oil pressure gauge does not come up to operating pressure after starting?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-047-a",
+        "answer_text": "Take the shovel straight for maintenance"
+      },
+      {
+        "id": "rta-hfk-047-b",
+        "answer_text": "Shut the engine down immediately and have it checked before restarting"
+      },
+      {
+        "id": "rta-hfk-047-c",
+        "answer_text": "Shut the engine down and immediately restart"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-048",
+    "question_text": "When shutting down the engine of your shovel, you must;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-048-a",
+        "answer_text": "Engage the bucket control lever"
+      },
+      {
+        "id": "rta-hfk-048-b",
+        "answer_text": "Park on the ground you like most"
+      },
+      {
+        "id": "rta-hfk-048-c",
+        "answer_text": "Lower all ground engaging implements"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-049",
+    "question_text": "After engine shutdown and before leaving the shovel, walk around it and look for;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-049-a",
+        "answer_text": "The nearest exit"
+      },
+      {
+        "id": "rta-hfk-049-b",
+        "answer_text": "Any unfinished work that needs to be finished the next day"
+      },
+      {
+        "id": "rta-hfk-049-c",
+        "answer_text": "Any oil leaks or any damage that may have occurred during operation"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-050",
+    "question_text": "You must ensure this when shutting down the engine of your shovel;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-050-a",
+        "answer_text": "Apply the park brake"
+      },
+      {
+        "id": "rta-hfk-050-b",
+        "answer_text": "Transmission engaged in first gear"
+      },
+      {
+        "id": "rta-hfk-050-c",
+        "answer_text": "Ground engaging implements are raised"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-052",
+    "question_text": "After shutting down the engine, relieve pressure in the hydraulic lines by;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-052-a",
+        "answer_text": "Moving the bucket control levers through all positions"
+      },
+      {
+        "id": "rta-hfk-052-b",
+        "answer_text": "Allowing the bucket to swing back and forth"
+      },
+      {
+        "id": "rta-hfk-052-c",
+        "answer_text": "Placing the transmission levers into neutral"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-053",
+    "question_text": "Why is it better to refuel the shovel at the end of the day?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-053-a",
+        "answer_text": "It will help to reduce the amount of work for the day"
+      },
+      {
+        "id": "rta-hfk-053-b",
+        "answer_text": "It will help to reduce the amount of condensation in the fuel tank."
+      },
+      {
+        "id": "rta-hfk-053-c",
+        "answer_text": "It will be better for lubrication of the shovel engine"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-056",
+    "question_text": "You noticed that your shovel starts to slide, what part of shovel can you use as an  additional brake?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-056-a",
+        "answer_text": "Place the bucket on the ground to act as a brake"
+      },
+      {
+        "id": "rta-hfk-056-b",
+        "answer_text": "Disposing off the load immediately"
+      },
+      {
+        "id": "rta-hfk-056-c",
+        "answer_text": "Placing the transmission levers into neutral"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-059",
+    "question_text": "Warn all other personnel to keep clear from the shovel and not  touch any part of the machine in case;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-059-a",
+        "answer_text": "The shovel contacts live power lines"
+      },
+      {
+        "id": "rta-hfk-059-b",
+        "answer_text": "The shovel gets stuck in the mud"
+      },
+      {
+        "id": "rta-hfk-059-c",
+        "answer_text": "the shovel engine gets overheated"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-062",
+    "question_text": "If your shovel stalls on a steep ramp, what procedure should you do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-062-a",
+        "answer_text": "Stay inside the cabin Apply the brakes Bring shovel to a stop"
+      },
+      {
+        "id": "rta-hfk-062-b",
+        "answer_text": "Stay inside the cabin Apply the brakes Lower all the equipment"
+      },
+      {
+        "id": "rta-hfk-062-c",
+        "answer_text": "Stay inside the cabin Attempt to re-start the engine Chock the wheels"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-073",
+    "question_text": "To fill the bucket when digging and loading from a level ground, you must;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-073-a",
+        "answer_text": "Set the bucket facing directly facing forward"
+      },
+      {
+        "id": "rta-hfk-073-b",
+        "answer_text": "Set the edge of the bucket facing slightly down"
+      },
+      {
+        "id": "rta-hfk-073-c",
+        "answer_text": "Set the edge of the bucket facing slightly upwards"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-074",
+    "question_text": "To fill the bucket when digging and loading from a level ground. This operation should be;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-074-a",
+        "answer_text": "Carried out in first gear"
+      },
+      {
+        "id": "rta-hfk-074-b",
+        "answer_text": "Carried out in second gear"
+      },
+      {
+        "id": "rta-hfk-074-c",
+        "answer_text": "Carried out either on first or second gear"
+      }
+    ]
+  },
+  {
+    "id": "rta-hfk-078",
+    "question_text": "When transporting a full bucket, keep the loader's center of gravity low and;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hfk-078-a",
+        "answer_text": "Only raise the bucket just prior to discharge of the load"
+      },
+      {
+        "id": "rta-hfk-078-b",
+        "answer_text": "Maintain the load in high position while travelling"
+      },
+      {
+        "id": "rta-hfk-078-c",
+        "answer_text": "Only dip the bucket at the last moment"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-010",
+    "question_text": "To better control the throttle, brake and clutch levers:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-010-a",
+        "answer_text": "sit well back in the seat."
+      },
+      {
+        "id": "rta-moto-010-b",
+        "answer_text": "take pressure off the footpegs."
+      },
+      {
+        "id": "rta-moto-010-c",
+        "answer_text": "hold the handgrips firmly."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-039",
+    "question_text": "The best place to carry a load on a motorcycle is:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-039-a",
+        "answer_text": "in a bag on your back."
+      },
+      {
+        "id": "rta-moto-039-b",
+        "answer_text": "above or in front of the rear axle."
+      },
+      {
+        "id": "rta-moto-039-c",
+        "answer_text": "just above the tail light."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-040",
+    "question_text": "Where is the best place to carry a load on a motorcycle?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-040-a",
+        "answer_text": "Over or just in front of the rear axle."
+      },
+      {
+        "id": "rta-moto-040-b",
+        "answer_text": "On the handlebars."
+      },
+      {
+        "id": "rta-moto-040-c",
+        "answer_text": "In a bag on your back."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-046",
+    "question_text": "Which of the following points apply to correct loading of a motorcycle?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-046-a",
+        "answer_text": "Keep the load high and forward."
+      },
+      {
+        "id": "rta-moto-046-b",
+        "answer_text": "Keep the load high and evenly distributed."
+      },
+      {
+        "id": "rta-moto-046-c",
+        "answer_text": "Keep the load forward and evenly distributed."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-047",
+    "question_text": "Which of the following motorcycle parts require lubrication?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-047-a",
+        "answer_text": "Chain."
+      },
+      {
+        "id": "rta-moto-047-b",
+        "answer_text": "Chain, brake linings and shock absorbers."
+      },
+      {
+        "id": "rta-moto-047-c",
+        "answer_text": "Brake linings and shock absorbers."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-052",
+    "question_text": "If your throttle is stuck open in traffic, the first thing you should do is:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-052-a",
+        "answer_text": "apply the brakes."
+      },
+      {
+        "id": "rta-moto-052-b",
+        "answer_text": "move the throttle back and forth and try to unstick it."
+      },
+      {
+        "id": "rta-moto-052-c",
+        "answer_text": "pull in the clutch."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-080",
+    "question_text": "When riding, bumps on the road can :",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-080-a",
+        "answer_text": "affect your directional control."
+      },
+      {
+        "id": "rta-moto-080-b",
+        "answer_text": "affect your steering as well as suspension."
+      },
+      {
+        "id": "rta-moto-080-c",
+        "answer_text": "affect your destination"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-081",
+    "question_text": "If you are riding in rough roads, slowing down will.",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-081-a",
+        "answer_text": "help give your bike's suspension time to work."
+      },
+      {
+        "id": "rta-moto-081-b",
+        "answer_text": "help you raise yourself on foot pegs."
+      },
+      {
+        "id": "rta-moto-081-c",
+        "answer_text": "help you use the rear brakes."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-085",
+    "question_text": "Why must you ride slower at night than during day time?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-085-a",
+        "answer_text": "because your headlights show limited area only."
+      },
+      {
+        "id": "rta-moto-085-b",
+        "answer_text": "because other road users also travel slower."
+      },
+      {
+        "id": "rta-moto-085-c",
+        "answer_text": "because the road is slower at night."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-089",
+    "question_text": "When riding at night or when  visibility is poor, you must:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-089-a",
+        "answer_text": "switch on headlights."
+      },
+      {
+        "id": "rta-moto-089-b",
+        "answer_text": "switch on brake lights."
+      },
+      {
+        "id": "rta-moto-089-c",
+        "answer_text": "switch on streetlights."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-095",
+    "question_text": "When carrying load or passenger, how is motorcycle affected?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-095-a",
+        "answer_text": "it may take longer time to stop."
+      },
+      {
+        "id": "rta-moto-095-b",
+        "answer_text": "it will accelerate faster."
+      },
+      {
+        "id": "rta-moto-095-c",
+        "answer_text": "it may ride around corner easier."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-101",
+    "question_text": "To ensure you have proper maintenance guide, check:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-101-a",
+        "answer_text": "the mechanic nearby."
+      },
+      {
+        "id": "rta-moto-101-b",
+        "answer_text": "the owner's manual."
+      },
+      {
+        "id": "rta-moto-101-c",
+        "answer_text": "the parts of the bike."
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-118",
+    "question_text": "When buying a helmet, these are the factors that must be considered:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-118-a",
+        "answer_text": "New and good fitting"
+      },
+      {
+        "id": "rta-moto-118-b",
+        "answer_text": "Light weight and brightly colored"
+      },
+      {
+        "id": "rta-moto-118-c",
+        "answer_text": "Full face protection and foldable"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-128",
+    "question_text": "To have good control of the throttle and easily reach the clutch and brake levers;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-128-a",
+        "answer_text": "firmly hold the handgrips and keep your wrists high"
+      },
+      {
+        "id": "rta-moto-128-b",
+        "answer_text": "firmly hold the handgrips and keep your wrists low"
+      },
+      {
+        "id": "rta-moto-128-c",
+        "answer_text": "sit closest to the front of the bike"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-130",
+    "question_text": "You want to know what is the correct pressure on your tire. What should you do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-130-a",
+        "answer_text": "check your owner's manual for the correct pressure on the tire"
+      },
+      {
+        "id": "rta-moto-130-b",
+        "answer_text": "check that the tread depth is more than 2mm all over the tire tread."
+      },
+      {
+        "id": "rta-moto-130-c",
+        "answer_text": "make sure that the tire tread is free of cuts, nails or cracks"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-132",
+    "question_text": "Upon checking, you found that the tread depth of your tire is less than 2mm. What is the problem with this?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-132-a",
+        "answer_text": "no problem if the tire pressure is correct"
+      },
+      {
+        "id": "rta-moto-132-b",
+        "answer_text": "tire tread depth that is less than 2mm is very dangerous"
+      },
+      {
+        "id": "rta-moto-132-c",
+        "answer_text": "there is no problem with this"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-159",
+    "question_text": "You are riding at night with high beam lights on. As you approach another vehicle from behind, you should;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-159-a",
+        "answer_text": "sound your horn in a loud manner"
+      },
+      {
+        "id": "rta-moto-159-b",
+        "answer_text": "dip your headlights"
+      },
+      {
+        "id": "rta-moto-159-c",
+        "answer_text": "flash your headlights for a few seconds"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-160",
+    "question_text": "A motorcycle carrying a pillion passenger will accelerate slower and;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-160-a",
+        "answer_text": "have less cornering clearance in corners"
+      },
+      {
+        "id": "rta-moto-160-b",
+        "answer_text": "have more power to stop"
+      },
+      {
+        "id": "rta-moto-160-c",
+        "answer_text": "clutch will work more effectively"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-164",
+    "question_text": "When securing your load, what kind of material can potentially damage your eye?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-164-a",
+        "answer_text": "metal casing"
+      },
+      {
+        "id": "rta-moto-164-b",
+        "answer_text": "the use elastic straps with metal hooks"
+      },
+      {
+        "id": "rta-moto-164-c",
+        "answer_text": "ropes made of nylon material"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-165",
+    "question_text": "For stability and good handling of the bike, how would you arrange the placement of the load?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-165-a",
+        "answer_text": "heavy loads may be placed  at the back of the rider to be more secured"
+      },
+      {
+        "id": "rta-moto-165-b",
+        "answer_text": "load may be placed  behind the rear axle"
+      },
+      {
+        "id": "rta-moto-165-c",
+        "answer_text": "load should be placed  above or in front of the rear axle"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-166",
+    "question_text": "When placing load on your bike, make sure to balance the weight. How do you do this?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-166-a",
+        "answer_text": "Keep the load low and secured"
+      },
+      {
+        "id": "rta-moto-166-b",
+        "answer_text": "Keep the high low and secured"
+      },
+      {
+        "id": "rta-moto-166-c",
+        "answer_text": "Keep the load covered"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-167",
+    "question_text": "You are transporting a bulky load over a long distance. What should you remember to do during the ride?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-167-a",
+        "answer_text": "check the load frequently to make sure it is still secured"
+      },
+      {
+        "id": "rta-moto-167-b",
+        "answer_text": "remember to stop frequently"
+      },
+      {
+        "id": "rta-moto-167-c",
+        "answer_text": "remember to check your tires before leaving"
+      }
+    ]
+  },
+  {
+    "id": "rta-moto-183",
+    "question_text": "You suddenly felt a huge bang from the back of the bike and felt the bike free wheeling. What can you do?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-moto-183-a",
+        "answer_text": "keep the throttle on"
+      },
+      {
+        "id": "rta-moto-183-b",
+        "answer_text": "close the throttle and brake to a stop"
+      },
+      {
+        "id": "rta-moto-183-c",
+        "answer_text": "Try turning the engine off"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-004",
+    "question_text": "Reflective triangles must be used when a vehicle with an unladen weight of more than two and a half tones is disabled:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-004-a",
+        "answer_text": "at anytime and there are no street lights for 200 meters."
+      },
+      {
+        "id": "rta-hvb-004-b",
+        "answer_text": "at night and not visible for 200 meters in any direction."
+      },
+      {
+        "id": "rta-hvb-004-c",
+        "answer_text": "at night and not visible in street lights for 200 meters and not showing all required lights, or within 100 meters if approaching drivers can't see the vehicle."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-017",
+    "question_text": "In vehicles equipped with air brakes, braking begins:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-017-a",
+        "answer_text": "a short time after your foot presses the pedal."
+      },
+      {
+        "id": "rta-hvb-017-b",
+        "answer_text": "as your foot presses the pedal."
+      },
+      {
+        "id": "rta-hvb-017-c",
+        "answer_text": "only after full pressure is applied to the pedal."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-018",
+    "question_text": "If you hold the steering wheel with one hand and the vehicle hits a curb or pot  hole this may:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-018-a",
+        "answer_text": "result to loss of control."
+      },
+      {
+        "id": "rta-hvb-018-b",
+        "answer_text": "cause injury."
+      },
+      {
+        "id": "rta-hvb-018-c",
+        "answer_text": "damage the tires."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-019",
+    "question_text": "When turning a corner in an articulated vehicle, the trailer rear wheels follow:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-019-a",
+        "answer_text": "a shorter path than the prime mover rear wheels."
+      },
+      {
+        "id": "rta-hvb-019-b",
+        "answer_text": "a longer path than the prime mover rear wheels."
+      },
+      {
+        "id": "rta-hvb-019-c",
+        "answer_text": "the same path as the prime mover rear wheels."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-020",
+    "question_text": "Two (2) types of brake systems usually being used on heavy vehicles:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-020-a",
+        "answer_text": "Air brakes and hydraulic brakes."
+      },
+      {
+        "id": "rta-hvb-020-b",
+        "answer_text": "Air brakes and cable brakes."
+      },
+      {
+        "id": "rta-hvb-020-c",
+        "answer_text": "Hydraulic brakes and cable brakes."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-021",
+    "question_text": "With air brakes, it is wise to apply brake pressure:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-021-a",
+        "answer_text": "earlier than with hydraulic brakes."
+      },
+      {
+        "id": "rta-hvb-021-b",
+        "answer_text": "later than with hydraulic brakes."
+      },
+      {
+        "id": "rta-hvb-021-c",
+        "answer_text": "at the same time as with hydraulic brakes."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-022",
+    "question_text": "When carrying a light load, rather than a heavy load, a heavy vehicle takes:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-022-a",
+        "answer_text": "less distance to stop."
+      },
+      {
+        "id": "rta-hvb-022-b",
+        "answer_text": "more distance to stop."
+      },
+      {
+        "id": "rta-hvb-022-c",
+        "answer_text": "the same distance to stop."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-026",
+    "question_text": "Is the handling of your heavy vehicle affected by its load?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-026-a",
+        "answer_text": "No, not at all."
+      },
+      {
+        "id": "rta-hvb-026-b",
+        "answer_text": "No, unless it is badly loaded."
+      },
+      {
+        "id": "rta-hvb-026-c",
+        "answer_text": "Yes, in all circumstances."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-057",
+    "question_text": "When loading a truck, the centre of gravity should be kept as low as possible. This is done by placing heavy items:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-057-a",
+        "answer_text": "on each side of the vehicle."
+      },
+      {
+        "id": "rta-hvb-057-b",
+        "answer_text": "at the back of the load."
+      },
+      {
+        "id": "rta-hvb-057-c",
+        "answer_text": "at the bottom of the load."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-058",
+    "question_text": "To keep the centre of gravity of a load low, you should place:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-058-a",
+        "answer_text": "heavy items at the back of the load."
+      },
+      {
+        "id": "rta-hvb-058-b",
+        "answer_text": "heavy items at the bottom of the load."
+      },
+      {
+        "id": "rta-hvb-058-c",
+        "answer_text": "light items at the back of the load."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-060",
+    "question_text": "The maximum height of a vehicle and its load is measured from:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-060-a",
+        "answer_text": "the top of the trailer tray."
+      },
+      {
+        "id": "rta-hvb-060-b",
+        "answer_text": "the ground."
+      },
+      {
+        "id": "rta-hvb-060-c",
+        "answer_text": "the rear axle."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-061",
+    "question_text": "When loading a heavy vehicle, you must keep within:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-061-a",
+        "answer_text": "vehicle height and length limits only."
+      },
+      {
+        "id": "rta-hvb-061-b",
+        "answer_text": "vehicle wheel and axle load limits only."
+      },
+      {
+        "id": "rta-hvb-061-c",
+        "answer_text": "all vehicle specification limits."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-063",
+    "question_text": "When you are unhooking a trailer from a prime mover, support the trailer by lowering the landing gear until the wheels:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-063-a",
+        "answer_text": "just touch the ground."
+      },
+      {
+        "id": "rta-hvb-063-b",
+        "answer_text": "have touched the ground and the prime mover stops rising."
+      },
+      {
+        "id": "rta-hvb-063-c",
+        "answer_text": "have touched the ground and the trailer stops rising."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-064",
+    "question_text": "When hooking up a prime mover to a trailer, check that they are properly joined by:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-064-a",
+        "answer_text": "making a slow tight turn."
+      },
+      {
+        "id": "rta-hvb-064-b",
+        "answer_text": "looking under the trailer and checking that the jaws on the turntable have gone around the shaft."
+      },
+      {
+        "id": "rta-hvb-064-c",
+        "answer_text": "moving the whole vehicle slowly backwards and listening for unusual noises."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-065",
+    "question_text": "The trailer brakes should always be used:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-065-a",
+        "answer_text": "to keep the trailer stationary when coupling or uncoupling."
+      },
+      {
+        "id": "rta-hvb-065-b",
+        "answer_text": "to prevent a jack-knife."
+      },
+      {
+        "id": "rta-hvb-065-c",
+        "answer_text": "before using the foot brake on downhill slopes."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-066",
+    "question_text": "When uncoupling, first move the prime mover from the trailer:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-066-a",
+        "answer_text": "by moving in a straight line until the prime mover is clear of the trailer."
+      },
+      {
+        "id": "rta-hvb-066-b",
+        "answer_text": "no further than the air lines and electrical cables will reach."
+      },
+      {
+        "id": "rta-hvb-066-c",
+        "answer_text": "by moving the prime mover forward until the turntable begins to clear the semi-trailer skid plate."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-068",
+    "question_text": "When you are hooking up to a semi-trailer, you should line up using your:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-068-a",
+        "answer_text": "left mirror and right rear wheel of the prime mover and the right edge of the trailer."
+      },
+      {
+        "id": "rta-hvb-068-b",
+        "answer_text": "both mirrors and both rear wheels of the prime mover and both edges of the trailer."
+      },
+      {
+        "id": "rta-hvb-068-c",
+        "answer_text": "left mirror and left rear wheel of the prime mover and the left edge of the trailer."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-069",
+    "question_text": "The coupling mechanism should be checked:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-069-a",
+        "answer_text": "for damage."
+      },
+      {
+        "id": "rta-hvb-069-b",
+        "answer_text": "to see that it fits together correctly."
+      },
+      {
+        "id": "rta-hvb-069-c",
+        "answer_text": "both of these."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-070",
+    "question_text": "When coupling a prime mover to a trailer, the brake lines should be checked for:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-070-a",
+        "answer_text": "length for tight turns."
+      },
+      {
+        "id": "rta-hvb-070-b",
+        "answer_text": "height above the ground."
+      },
+      {
+        "id": "rta-hvb-070-c",
+        "answer_text": "clearance from the rear wheels."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-071",
+    "question_text": "When inspecting coupling equipment you should:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-071-a",
+        "answer_text": "not go under the nose of the semi-trailer, until it is supported by the prime mover."
+      },
+      {
+        "id": "rta-hvb-071-b",
+        "answer_text": "go under the nose of the semi-trailer only if the wheels are chocked."
+      },
+      {
+        "id": "rta-hvb-071-c",
+        "answer_text": "only go under the nose of the semi-trailer to inspect the landing gear."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-086",
+    "question_text": "When driving a loaded truck, these items must not be covered:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-086-a",
+        "answer_text": "light, medium and heavy loads."
+      },
+      {
+        "id": "rta-hvb-086-b",
+        "answer_text": "tarpaulins and lashings."
+      },
+      {
+        "id": "rta-hvb-086-c",
+        "answer_text": "lights, plate number, mirrors."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-089",
+    "question_text": "To maintain stability of load, heavy items should be placed at:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-089-a",
+        "answer_text": "the front side of the vehicle."
+      },
+      {
+        "id": "rta-hvb-089-b",
+        "answer_text": "the center line of the vehicle."
+      },
+      {
+        "id": "rta-hvb-089-c",
+        "answer_text": "to the rear side of the vehicle."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-092",
+    "question_text": "In most heavy  vehicles, brake operate:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-092-a",
+        "answer_text": "more efficiently when loaded."
+      },
+      {
+        "id": "rta-hvb-092-b",
+        "answer_text": "less efficiently when loaded."
+      },
+      {
+        "id": "rta-hvb-092-c",
+        "answer_text": "the same way whether loaded or not loaded."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-094",
+    "question_text": "Changing gears at the wrong engine speed can:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-094-a",
+        "answer_text": "damage the transmission."
+      },
+      {
+        "id": "rta-hvb-094-b",
+        "answer_text": "damage the engine."
+      },
+      {
+        "id": "rta-hvb-094-c",
+        "answer_text": "damage the clutch."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-095",
+    "question_text": "Changing gears without clutching properly will also:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-095-a",
+        "answer_text": "damage the transmission."
+      },
+      {
+        "id": "rta-hvb-095-b",
+        "answer_text": "damage the engine."
+      },
+      {
+        "id": "rta-hvb-095-c",
+        "answer_text": "damage the clutch."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-096",
+    "question_text": "There are the two ways to know when to change gears. These are:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-096-a",
+        "answer_text": "speed and load of the vehicle."
+      },
+      {
+        "id": "rta-hvb-096-b",
+        "answer_text": "speed and sound of engine."
+      },
+      {
+        "id": "rta-hvb-096-c",
+        "answer_text": "sound and speed of clutch."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-114",
+    "question_text": "When fighting heavy vehicles fire, 3 very important actions to remember:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-114-a",
+        "answer_text": "pull off the road, stop the engine, use correct fire extinguisher."
+      },
+      {
+        "id": "rta-hvb-114-b",
+        "answer_text": "stop the engine, isolate battery, remove the load."
+      },
+      {
+        "id": "rta-hvb-114-c",
+        "answer_text": "pull off the road, notify emergency service, bring plenty of water."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-122",
+    "question_text": "Bus drivers need to drive more smoothly compared to truck drivers because:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-122-a",
+        "answer_text": "bus load is made up of people."
+      },
+      {
+        "id": "rta-hvb-122-b",
+        "answer_text": "it is required by the company."
+      },
+      {
+        "id": "rta-hvb-122-c",
+        "answer_text": "buses stop frequently."
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-140",
+    "question_text": "How can you make sure your foot can freely operate the brake pedals when driving?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-140-a",
+        "answer_text": "Perform pre-drive checks outside the vehicle"
+      },
+      {
+        "id": "rta-hvb-140-b",
+        "answer_text": "Clear the floor or cabin of any loose things"
+      },
+      {
+        "id": "rta-hvb-140-c",
+        "answer_text": "Check the engine oil level"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-145",
+    "question_text": "If there is a need to change wheels by the road, what precautions should be taken?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-145-a",
+        "answer_text": "Switch on head lights"
+      },
+      {
+        "id": "rta-hvb-145-b",
+        "answer_text": "Use the horn and reflective vest"
+      },
+      {
+        "id": "rta-hvb-145-c",
+        "answer_text": "Use hazards warning lights and warning triangles"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-147",
+    "question_text": "Why is it important to conduct daily pre-trip inspections of your vehicle?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-147-a",
+        "answer_text": "Keeping the vehicle clean and tidy"
+      },
+      {
+        "id": "rta-hvb-147-b",
+        "answer_text": "Keeping your vehicle in good condition"
+      },
+      {
+        "id": "rta-hvb-147-c",
+        "answer_text": "Ensuring the lights are working properly"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-150",
+    "question_text": "As you will be driving through low bridges, what should you check?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-150-a",
+        "answer_text": "Load Security"
+      },
+      {
+        "id": "rta-hvb-150-b",
+        "answer_text": "Load Height"
+      },
+      {
+        "id": "rta-hvb-150-c",
+        "answer_text": "Vehicle Damage"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-156",
+    "question_text": "If you are checking the fluid levels, you should check for crank case oil, radiator coolant as well as;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-156-a",
+        "answer_text": "Power steering and lighter fluids"
+      },
+      {
+        "id": "rta-hvb-156-b",
+        "answer_text": "Battery and windscreen washer fluids"
+      },
+      {
+        "id": "rta-hvb-156-c",
+        "answer_text": "Automatic transmission and belt fluids"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-159",
+    "question_text": "You want to adjust a pulley that is loosely connected, how would you adjust it correctly?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-159-a",
+        "answer_text": "Adjust it according to your liking"
+      },
+      {
+        "id": "rta-hvb-159-b",
+        "answer_text": "Compare with that of the other vehicle"
+      },
+      {
+        "id": "rta-hvb-159-c",
+        "answer_text": "Check the manufacturer's handbook"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-160",
+    "question_text": "Some of the important emergency and safety equipment to be considered during pre-trip inspection are:",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-160-a",
+        "answer_text": "Seatbelts, fully charged fire extinguishers, reflective triangles"
+      },
+      {
+        "id": "rta-hvb-160-b",
+        "answer_text": "Drinking water, spare fuses, seatbelts"
+      },
+      {
+        "id": "rta-hvb-160-c",
+        "answer_text": "Fire extinguishers, first aid kit, battery"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-161",
+    "question_text": "The primary controls that need to be checked for proper working conditions are;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-161-a",
+        "answer_text": "Accelerator, horn and dashboard lights"
+      },
+      {
+        "id": "rta-hvb-161-b",
+        "answer_text": "Steering wheel, brakes, clutch and accelerator"
+      },
+      {
+        "id": "rta-hvb-161-c",
+        "answer_text": "Brake lights, reflectors and steering wheel"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-163",
+    "question_text": "How do you check if the clutch is working properly?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-163-a",
+        "answer_text": "Press and feel no resistance at all"
+      },
+      {
+        "id": "rta-hvb-163-b",
+        "answer_text": "Press until you feel a slight resistance"
+      },
+      {
+        "id": "rta-hvb-163-c",
+        "answer_text": "Press and feel hard resistance"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-164",
+    "question_text": "When checking your heavy vehicle with air brakes, what should you check for?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-164-a",
+        "answer_text": "Air intake filter is not clogged"
+      },
+      {
+        "id": "rta-hvb-164-b",
+        "answer_text": "Exhaust pipe is not clogged"
+      },
+      {
+        "id": "rta-hvb-164-c",
+        "answer_text": "Air escapes when brake pedal is depressed"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-165",
+    "question_text": "After turning the engine on, the gauge should show steady increase in air pressure. It should take;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-165-a",
+        "answer_text": "Less than one minute"
+      },
+      {
+        "id": "rta-hvb-165-b",
+        "answer_text": "Less than 5 minutes"
+      },
+      {
+        "id": "rta-hvb-165-c",
+        "answer_text": "Less than 3 minutes"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-166",
+    "question_text": "When clearing the air intake filter of air brakes and some oil that comes out, there is possible problem with;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-166-a",
+        "answer_text": "Engine"
+      },
+      {
+        "id": "rta-hvb-166-b",
+        "answer_text": "Compressor"
+      },
+      {
+        "id": "rta-hvb-166-c",
+        "answer_text": "Brake pedal"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-167",
+    "question_text": "What is the main benefit for conducting a pre-trip inspection?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-167-a",
+        "answer_text": "Keeping Your Vehicle in Good Condition"
+      },
+      {
+        "id": "rta-hvb-167-b",
+        "answer_text": "Keeping healthy diet"
+      },
+      {
+        "id": "rta-hvb-167-c",
+        "answer_text": "Ensuring the engine is working properly"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-168",
+    "question_text": "To check the brake of the trailer, apply trailer brakes only and try to move forward gently. The vehicle;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-168-a",
+        "answer_text": "Must hold for second and then move"
+      },
+      {
+        "id": "rta-hvb-168-b",
+        "answer_text": "Should not move"
+      },
+      {
+        "id": "rta-hvb-168-c",
+        "answer_text": "Should move just a little"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-169",
+    "question_text": "For vehicles with hydraulic brakes, what must you do before driving the vehicle?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-169-a",
+        "answer_text": "Must ensure there is no leak in the system"
+      },
+      {
+        "id": "rta-hvb-169-b",
+        "answer_text": "Have a qualified mechanic check the vehicle before driving"
+      },
+      {
+        "id": "rta-hvb-169-c",
+        "answer_text": "Must ensure wipers are working properly"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-172",
+    "question_text": "How will you check for slack in the coupling of semi trailer and prime mover?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-172-a",
+        "answer_text": "By pushing the trailer side to side"
+      },
+      {
+        "id": "rta-hvb-172-b",
+        "answer_text": "By making a sudden pull on the prime mover"
+      },
+      {
+        "id": "rta-hvb-172-c",
+        "answer_text": "By moving gently forward and back"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-173",
+    "question_text": "Before driving your heavy vehicle, always ask yourself;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-173-a",
+        "answer_text": "Have I checked the delivery checklist"
+      },
+      {
+        "id": "rta-hvb-173-b",
+        "answer_text": "Have I carried out my pre-trip inspection"
+      },
+      {
+        "id": "rta-hvb-173-c",
+        "answer_text": "Have I filled out the registration form"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-174",
+    "question_text": "As you drive, what should you regularly check?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-174-a",
+        "answer_text": "Make sure the battery is charged"
+      },
+      {
+        "id": "rta-hvb-174-b",
+        "answer_text": "Make sure the wirings are not cracked"
+      },
+      {
+        "id": "rta-hvb-174-c",
+        "answer_text": "Make sure that your load is secure"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-176",
+    "question_text": "Make sure the electrical leads are properly connected and working;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-176-a",
+        "answer_text": "While driving your prime mover and semi trailer"
+      },
+      {
+        "id": "rta-hvb-176-b",
+        "answer_text": "Before driving your prime mover and semi trailer"
+      },
+      {
+        "id": "rta-hvb-176-c",
+        "answer_text": "After you arrive at your destination"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-177",
+    "question_text": "When checking for slack in the turntable connection, ensure the;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-177-a",
+        "answer_text": "Trailers legs are down"
+      },
+      {
+        "id": "rta-hvb-177-b",
+        "answer_text": "The trailer brake is on"
+      },
+      {
+        "id": "rta-hvb-177-c",
+        "answer_text": "The prime mover brake is on"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-178",
+    "question_text": "How will you check for excessive heat radiating  from the brake drum?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-178-a",
+        "answer_text": "Place your hand near the brake drum"
+      },
+      {
+        "id": "rta-hvb-178-b",
+        "answer_text": "Touch the drum with your hands"
+      },
+      {
+        "id": "rta-hvb-178-c",
+        "answer_text": "Check your temperature gauge"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-179",
+    "question_text": "If you feel excessive heat radiating from the brake drum of your vehicle, it means;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-179-a",
+        "answer_text": "The clutch is not biting properly"
+      },
+      {
+        "id": "rta-hvb-179-b",
+        "answer_text": "Your brakes are not working"
+      },
+      {
+        "id": "rta-hvb-179-c",
+        "answer_text": "Your brakes are overheating"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-180",
+    "question_text": "When coupling semi-trailers, what must be long enough for making tight turns?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-180-a",
+        "answer_text": "Steering"
+      },
+      {
+        "id": "rta-hvb-180-b",
+        "answer_text": "Brake lines"
+      },
+      {
+        "id": "rta-hvb-180-c",
+        "answer_text": "Brake system"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-182",
+    "question_text": "How do you chock the wheels of a semi-trailer so it does not move?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-182-a",
+        "answer_text": "Place a wedge in front of the wheels"
+      },
+      {
+        "id": "rta-hvb-182-b",
+        "answer_text": "Place a wedge on both from and rear sides of the wheels"
+      },
+      {
+        "id": "rta-hvb-182-c",
+        "answer_text": "Place a wedge at the back of the wheels"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-183",
+    "question_text": "When coupling semi-trailers, which shows the correct step by step procedure?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-183-a",
+        "answer_text": "1. Inspect the area and secure the semi-trailer\n2. Inspect or check coupling devices for damage\n3. Check semi-trailer height"
+      },
+      {
+        "id": "rta-hvb-183-b",
+        "answer_text": "1. Check semi-trailer height\n2. Inspect the area and secure the semi-trailer\n3.Inspect or check coupling devices for damage"
+      },
+      {
+        "id": "rta-hvb-183-c",
+        "answer_text": "Front and back, 1. Back the prime mover slowly\n2. Check the semi-trailer height\n3.Inspect or check coupling devices for damage side of the wheels"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-184",
+    "question_text": "If your semi-trailer is equipped with spring loaded brakes, there is;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-184-a",
+        "answer_text": "No need to check the brakes"
+      },
+      {
+        "id": "rta-hvb-184-b",
+        "answer_text": "A need to chock the wheels"
+      },
+      {
+        "id": "rta-hvb-184-c",
+        "answer_text": "No need to chock the wheels"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-185",
+    "question_text": "What do you check for the coupling devices before coupling your semi-trailer?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-185-a",
+        "answer_text": "Check if the turntable is visible from the mirrors"
+      },
+      {
+        "id": "rta-hvb-185-b",
+        "answer_text": "Check for damage and to see that they will fit together correctly"
+      },
+      {
+        "id": "rta-hvb-185-c",
+        "answer_text": "The turntable is connected to the brake lines"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-187",
+    "question_text": "What can happen if the prime mover is not lined up accurately with the semi-trailer?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-187-a",
+        "answer_text": "You could damage the semi-trailer,  the load or the prime mover"
+      },
+      {
+        "id": "rta-hvb-187-b",
+        "answer_text": "The prime mover will not move"
+      },
+      {
+        "id": "rta-hvb-187-c",
+        "answer_text": "The semi-trailer will not have any damage"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-188",
+    "question_text": "When checking semi-trailer height, what could seriously injure or kill you?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-188-a",
+        "answer_text": "If the semi-trailer does not move"
+      },
+      {
+        "id": "rta-hvb-188-b",
+        "answer_text": "If the load is not properly secured"
+      },
+      {
+        "id": "rta-hvb-188-c",
+        "answer_text": "If the landing gear collapses"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-189",
+    "question_text": "During coupling procedure, how do you secure the prime mover?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-189-a",
+        "answer_text": "Apply the parking brake"
+      },
+      {
+        "id": "rta-hvb-189-b",
+        "answer_text": "Use the foot brakes properly"
+      },
+      {
+        "id": "rta-hvb-189-c",
+        "answer_text": "Switching off the engine"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-190",
+    "question_text": "When coupling trailer, ensure safety while climbing on the back of the prime mover by;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-190-a",
+        "answer_text": "Looking for the torch and safety shoes"
+      },
+      {
+        "id": "rta-hvb-190-b",
+        "answer_text": "Being careful of greasy and wet areas on the truck"
+      },
+      {
+        "id": "rta-hvb-190-c",
+        "answer_text": "Using only the best quality boots"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-192",
+    "question_text": "When uncoupling the trailer, find a surface that is able to support the trailer and;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-192-a",
+        "answer_text": "The bases of the landing gear"
+      },
+      {
+        "id": "rta-hvb-192-b",
+        "answer_text": "The surface maybe on inclined position"
+      },
+      {
+        "id": "rta-hvb-192-c",
+        "answer_text": "Perform the uncoupling quickly"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-193",
+    "question_text": "To complete the uncoupling procedure, when do you release the parking brake and pull clear of the trailer?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-193-a",
+        "answer_text": "Before inspecting the semi-trailer support and ensuring the ground is stable"
+      },
+      {
+        "id": "rta-hvb-193-b",
+        "answer_text": "After inspecting the semi-trailer support and ensuring the ground is stable"
+      },
+      {
+        "id": "rta-hvb-193-c",
+        "answer_text": "At anytime during the uncoupling procedure"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-195",
+    "question_text": "When uncoupling semi-trailer, secure the vehicle by applying the parking brakes and;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-195-a",
+        "answer_text": "If necessary, chock all the wheels of the semi-trailer"
+      },
+      {
+        "id": "rta-hvb-195-b",
+        "answer_text": "If necessary, chock the wheels of the prime mover"
+      },
+      {
+        "id": "rta-hvb-195-c",
+        "answer_text": "Check if possible to chock the wheels"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-196",
+    "question_text": "When coupling or uncoupling a semi-trailer, make sure to follow the steps and;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-196-a",
+        "answer_text": "Do the quickest possible procedure"
+      },
+      {
+        "id": "rta-hvb-196-b",
+        "answer_text": "Do not take shortcuts"
+      },
+      {
+        "id": "rta-hvb-196-c",
+        "answer_text": "Ensure to complete the process on time"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-199",
+    "question_text": "Perform vehicle safety checks and decide on the appropriate route for the load and height of the vehicle.",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-199-a",
+        "answer_text": "Do this during the trip"
+      },
+      {
+        "id": "rta-hvb-199-b",
+        "answer_text": "Do this before the trip"
+      },
+      {
+        "id": "rta-hvb-199-c",
+        "answer_text": "Do this right after the trip"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-201",
+    "question_text": "When driving a loaded truck, remember not expose persons or property to any danger and;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-201-a",
+        "answer_text": "Not allow soil or any harmful substance to leak from your vehicle"
+      },
+      {
+        "id": "rta-hvb-201-b",
+        "answer_text": "Conduct pre-drive checks"
+      },
+      {
+        "id": "rta-hvb-201-c",
+        "answer_text": "Check the transmission oil every trip"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-204",
+    "question_text": "What can you do to secure the load when the vehicle floor surface and the load surface are both metal?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-204-a",
+        "answer_text": "Place timber or rubber between the metal surfaces"
+      },
+      {
+        "id": "rta-hvb-204-b",
+        "answer_text": "Place paper or story foam between the metal surfaces"
+      },
+      {
+        "id": "rta-hvb-204-c",
+        "answer_text": "Place soil between the metal surfaces"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-208",
+    "question_text": "What is the first step in estimating the height of the heavy vehicle?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-208-a",
+        "answer_text": "Measure from ground to the top of cabin"
+      },
+      {
+        "id": "rta-hvb-208-b",
+        "answer_text": "Measure from top of cabin down to the seating level"
+      },
+      {
+        "id": "rta-hvb-208-c",
+        "answer_text": "Simply estimate the height of the load"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-211",
+    "question_text": "Brakes should be applied with steady pressure initially, and then eased off as the vehicle slows. This is for;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-211-a",
+        "answer_text": "Air brakes only"
+      },
+      {
+        "id": "rta-hvb-211-b",
+        "answer_text": "All types of brakes"
+      },
+      {
+        "id": "rta-hvb-211-c",
+        "answer_text": "Hydraulic brakes only"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-212",
+    "question_text": "When carrying heavy loads, braking should generally be;",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-212-a",
+        "answer_text": "Earlier and harder"
+      },
+      {
+        "id": "rta-hvb-212-b",
+        "answer_text": "Sudden and lighter"
+      },
+      {
+        "id": "rta-hvb-212-c",
+        "answer_text": "Smooth and lighter"
+      }
+    ]
+  },
+  {
+    "id": "rta-hvb-216",
+    "question_text": "What should be remembered when carrying high loads?",
+    "explanation": null,
+    "answers": [
+      {
+        "id": "rta-hvb-216-a",
+        "answer_text": "The stability is the same as lower loads"
+      },
+      {
+        "id": "rta-hvb-216-b",
+        "answer_text": "The load is less stable"
+      },
+      {
+        "id": "rta-hvb-216-c",
+        "answer_text": "The load is more stable"
+      }
+    ]
   }
 ]

@@ -25,6 +25,7 @@ export interface Question {
   image_url: string | null
   tags: string[]
   is_edcad_style: boolean
+  source?: 'edcad' | 'rta' | 'other'
   answers: Answer[]
 }
 
