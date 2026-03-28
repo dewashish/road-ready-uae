@@ -77,6 +77,15 @@ export default function QuizPage() {
     prevIsAnsweredRef.current = state.isAnswered
   }, [state.isAnswered, state.currentIndex, state.questions, state.answers])
 
+  // Navigate to results when quiz completes (must be before any early returns to keep hook order stable)
+  useEffect(() => {
+    if (state.status !== 'completed') return
+    localStorage.setItem('road-ready-last-session', JSON.stringify(state.sessionAnswers))
+    router.push(
+      localePath(locale, `/quiz/${vehicleType}/${moduleSlug}/results?score=${state.score}&total=${state.questions.length}`)
+    )
+  }, [state.status, state.sessionAnswers, state.score, state.questions.length, router, locale, vehicleType, moduleSlug])
+
   if (state.status === 'loading' || !currentQuestion) {
     return (
       <div className="min-h-dvh bg-background">
@@ -119,15 +128,6 @@ export default function QuizPage() {
       </div>
     )
   }
-
-  // Navigate to results when quiz completes (in useEffect to avoid render side-effects)
-  useEffect(() => {
-    if (state.status !== 'completed') return
-    localStorage.setItem('road-ready-last-session', JSON.stringify(state.sessionAnswers))
-    router.push(
-      localePath(locale, `/quiz/${vehicleType}/${moduleSlug}/results?score=${state.score}&total=${state.questions.length}`)
-    )
-  }, [state.status, state.sessionAnswers, state.score, state.questions.length, router, locale, vehicleType, moduleSlug])
 
   if (state.status === 'completed') return null
 
