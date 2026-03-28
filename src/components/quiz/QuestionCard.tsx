@@ -66,7 +66,7 @@ export function QuestionCard({
           </div>
         ) : question.image_url ? (
           <div className="mb-5 flex justify-center">
-            <div className="w-36 h-36 sm:w-48 sm:h-48 md:w-56 md:h-56 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center overflow-hidden">
+            <div className="w-36 h-36 sm:w-48 sm:h-48 md:w-56 md:h-56 bg-white border-2 border-surface-container-lowest flex items-center justify-center overflow-hidden p-2">
               <img
                 src={question.image_url}
                 alt="Question illustration"
