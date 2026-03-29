@@ -23,24 +23,24 @@ const postImages: Record<string, { src: string; alt: string }> = {
     alt: 'Dubai skyline and road at night',
   },
   'abu-dhabi-driving-theory-test-guide': {
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAjm_hDHf18418PIMG37mKGFbZNpTxhStBht1zomV_8PuqitrTzZzA1ioCHEXC5JXXS-r7cYC3JTk9Pd2amfR6CrpratO9dcE8iuytyktRP2wMNNhsXjkQUD4rJ350eNf8vkJ2z19YSuPqoCCWV0rLvhKk3Xv83H2TIaQVY3torv8DAKrl_RwgpI6nx63l0VQ25jxwb8goCl3Lgnxg31gg8M3pPYUZZmsoUnzFl8uX873GpE7ABl9ged5CyNqaHEw5wKqFBfvobKcY',
-    alt: 'Car steering wheel with digital dashboard',
+    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDE5Fqw7QaJFTmRR4tk2TEh3yt2RJa4ADgWJCjr5QRed7viBqOYjRB5x148l6p_FkXejkkjdeSvX619kuY1fl6fSFUWQ3mkgXpkXqDGCWmjIxipQyoTtjBqo4Ijfl4dsH5wP69jG2Mi7HS6H7uy0uMAnaUp1cXq9am1lXijAqR1-uPvI8vT8_Uu65yYbQ3uJ_VO2OYnBhtj-4xNnvqrXMxW5d01fK-0cH4PG58Ds2bnsW39VtWKY1TrX6jvFt8DeZGyzfCvbl2PBwc',
+    alt: 'Abu Dhabi Corniche road with Etihad Towers at golden hour',
   },
   'uae-road-signs-complete-guide': {
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBF6t3fjRXlWcRFZkj6K9_mUqjX6DMe_p9VYD4asWOqzatqrwq7Z1gzc5Q78Ozi_Bq_ITwlcPxwL8-8pxpeDVJecKC8cQLzy-RJS3_b7a3jbGNcUnf3yrha8Nd0zkDyQmfes5ftPCd8B9Wf1SSzqHK8B2GDZx1sbiulcvK9nHsyWJmX1O5p2GuapJ1yD42eBbDtNZk_nY3XyUuwl5SWSLub2wiGJIHa5BRsr69Ls8xKeZltl9HmcMxiH_EkgnqaP-Xnxr5OddYwCMM',
-    alt: 'Currency and car keys',
+    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuCyOGgby4QYP4iPkQiWilkH4MMiowfN8Rxc_uxFeV2Gvw85u5G2pnt5hqdOdE7YrTUjvwZFnca3CEeHg-SADoFPMEbFEm7cZyZjqLMmLOJuyC163c9ULVMy1EF6VfwpOeVQHg4XrMZVQlGwGU9NA1IYc0ncYd-PccKEQESGev-CPx8VlstDxZcf6WDjBO-RAzoIi4okKgQrAFTvOCBszDQ9NXYzrtZwb58qg1nLoBVVmJAgYS7GGhc1fxdYVggjK8ocQ8nJiBcllHU',
+    alt: 'UAE traffic signs on a desert highway at twilight',
   },
   'how-to-pass-rta-theory-test-first-time': {
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuD-YvvVhSUhZeLWbc7qrByMJFAdnD1UsPh7RWCIwoOk2J0ePQXxd6UZTcmkhrBca_tDItljXPKUUt9m_V60yrYB2XgIv5BBkA-mitI2GA1Y7cXAeu1IUlQx_ePriuw3LuiLkJCdtZyUXK_WHuBUuIqzEtJ_H-nusuhlJoUgxwskKZYXPFrHw6H3wwW_oxyHi__O1Lnplj0tV_AU7XtxHuuU7d52AbCW5l_XMdHBE87Bw-zAxDgVgvTx3QzPM3Q_mWJYERqA8LxA6vQ',
-    alt: 'Person studying for driving test at desk with laptop',
+    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAjm_hDHf18418PIMG37mKGFbZNpTxhStBht1zomV_8PuqitrTzZzA1ioCHEXC5JXXS-r7cYC3JTk9Pd2amfR6CrpratO9dcE8iuytyktRP2wMNNhsXjkQUD4rJ350eNf8vkJ2z19YSuPqoCCWV0rLvhKk3Xv83H2TIaQVY3torv8DAKrl_RwgpI6nx63l0VQ25jxwb8goCl3Lgnxg31gg8M3pPYUZZmsoUnzFl8uX873GpE7ABl9ged5CyNqaHEw5wKqFBfvobKcY',
+    alt: 'Car steering wheel with digital dashboard',
   },
   'rta-theory-test-questions-answers-2026': {
     src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuAmPti-LKQ7X_IUcO5bWd_yt796ZyZUGRXUJ44KpmowupeBL5anGWRgbuI_fRzv5tubBchbOS6AZsXvSdx1CVMGs5nJ7IIdBhPYMxcQ5V-uyTjpg3W0q8BVUZpJb2UlnZ6RGMZT5pTdNM0ALMdu54h6wr9BliqEtnOX2fKnpkWkx6PKJv9Xerk9n5TamCy5UE2xr0zc9os2RC1X5-ql4w32eSSZf_hMw0eViOse96mGvFxlAXPnNGjzFC6LoGw2AHFlhtRCbSAfMWQ',
     alt: 'Computer screen showing driving theory test questions',
   },
   'dubai-driving-license-cost-2026': {
-    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBTZyDlkxIsxhV8Mw-gD4Gr_70J3ivYjm8dPPymF5bfhhSnqxkObIF1yQ0e9qcQbF8AtqVY08BY2jEuNGqH5AA8azKY6WelzqrNLnKLeK1Kb4e0maHNi3VexEpfiQkkVg-sBg9jT4ahJDjztjTKQRw9yRTOSyrifJXYbbeOBlyfJQz7yndPHvbIfRyo4-UBwte11A60dzUNl5j4OEeXSfRtoqzfWyAANVHMLC0k7pJfS7DSHyOMowkBpfAZDnSQUGQng2aatV2pAL4',
-    alt: 'UAE Dirham banknotes and coins with car keys and license',
+    src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuBF6t3fjRXlWcRFZkj6K9_mUqjX6DMe_p9VYD4asWOqzatqrwq7Z1gzc5Q78Ozi_Bq_ITwlcPxwL8-8pxpeDVJecKC8cQLzy-RJS3_b7a3jbGNcUnf3yrha8Nd0zkDyQmfes5ftPCd8B9Wf1SSzqHK8B2GDZx1sbiulcvK9nHsyWJmX1O5p2GuapJ1yD42eBbDtNZk_nY3XyUuwl5SWSLub2wiGJIHa5BRsr69Ls8xKeZltl9HmcMxiH_EkgnqaP-Xnxr5OddYwCMM',
+    alt: 'Currency coins and car keys',
   },
   'uae-traffic-fines-black-points-2026': {
     src: 'https://lh3.googleusercontent.com/aida-public/AB6AXuDrlLRFrEpsy4rUqmge-YnqsIzbElel4AYEnp54u8fr_HDNkwIHN7zziLUW1ignLGUIWQtzgXTw_u_J_zGXdiDVvm1kaOYdRwMjoUmzNWzv4bdoYGwPHWq0GUe67UqOyEInFlzf5t9YvYK3EuFthDZzHHWDD9Tq3MtQodv2k2T2fnB8Iw_B9bDZzTsfY068961tkM04OA21uDzJYIk5lQ4_SQvCvzSkt9HfqEoUrKUv1eL_kpl-VAx8zs3eHxdZsHiDsJKUn36Pv8Y',
