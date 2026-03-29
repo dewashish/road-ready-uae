@@ -10,7 +10,7 @@ import { ProgressBar } from '@/components/ui/ProgressBar'
 import { useProgress } from '@/context/ProgressContext'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
 import { getModuleSeenStats } from '@/lib/questions/modulePools'
-import { MOCK_EXAMS } from '@/lib/questions/mockExamConfig'
+import { MOCK_EXAMS, MOCK_EXAM_PASS_PERCENT } from '@/lib/questions/mockExamConfig'
 import { useDictionary, useLocale } from '@/i18n/DictionaryContext'
 import { localePath } from '@/i18n/utils'
 
@@ -155,7 +155,6 @@ export default function ModulePathPage() {
           {/* Mock Exam */}
           <div className="relative">
             <div className="absolute left-7 -top-4 w-0.5 h-4 bg-surface-container-highest" />
-            {allModulesCompleted ? (
               <Link href={localePath(locale, `/quiz/${vehicleType}/mock-exam`)}>
                 <NeoCard level={2} shadow="secondary" className="neo-hover cursor-pointer border-secondary/50">
                   <div className="flex items-center gap-3 sm:gap-4">
@@ -168,11 +167,11 @@ export default function ModulePathPage() {
                       <div className="flex items-center gap-2 mb-1">
                         <h3 className="font-headline text-base font-bold text-secondary">{dict.mockExam.title}</h3>
                         {mockAttempts > 0 ? (
-                          <Badge variant={mockBest >= 71 ? 'success' : 'info'}>
+                          <Badge variant={mockBest >= MOCK_EXAM_PASS_PERCENT ? 'success' : 'info'}>
                             {dict.quiz.timesDone.replace('{count}', String(mockAttempts))}
                           </Badge>
                         ) : (
-                          <Badge variant="warning">{dict.mockExam.unlocked}</Badge>
+                          <Badge variant="warning">{dict.common.new}</Badge>
                         )}
                       </div>
                       <p className="text-sm text-on-surface-variant">
@@ -180,7 +179,7 @@ export default function ModulePathPage() {
                       </p>
                       {mockAttempts > 0 && (
                         <div className="flex items-center gap-3 mt-2">
-                          <ProgressBar value={mockBest} max={100} color={mockBest >= 71 ? 'success' : 'tertiary'} size="sm" className="flex-1" />
+                          <ProgressBar value={mockBest} max={100} color={mockBest >= MOCK_EXAM_PASS_PERCENT ? 'success' : 'tertiary'} size="sm" className="flex-1" />
                           <span className="font-label text-[10px] text-success font-bold whitespace-nowrap">
                             {dict.quiz.bestScore.replace('{percent}', String(mockBest))}
                           </span>
@@ -193,29 +192,6 @@ export default function ModulePathPage() {
                   </div>
                 </NeoCard>
               </Link>
-            ) : (
-              <NeoCard level={1} shadow="none" className="opacity-50">
-                <div className="flex items-center gap-3 sm:gap-4">
-                  <div className="flex-shrink-0 w-12 h-12 sm:w-14 sm:h-14 bg-secondary/10 border-2 border-secondary/30 flex items-center justify-center">
-                    <span className="material-symbols-outlined text-secondary/50" style={{ fontSize: 28 }}>
-                      military_tech
-                    </span>
-                  </div>
-                  <div className="flex-1">
-                    <div className="flex items-center gap-2 mb-1">
-                      <h3 className="font-headline text-base font-bold text-primary/50">{dict.mockExam.title}</h3>
-                      <Badge variant="locked">
-                        <span className="material-symbols-outlined" style={{ fontSize: 12 }}>lock</span>
-                        {dict.mockExam.completeAllModules}
-                      </Badge>
-                    </div>
-                    <p className="text-sm text-outline">
-                      {dict.mockExam.completeAllModulesDesc}
-                    </p>
-                  </div>
-                </div>
-              </NeoCard>
-            )}
           </div>
         </div>
       </main>
