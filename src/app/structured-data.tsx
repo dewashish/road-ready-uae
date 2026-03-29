@@ -1,5 +1,5 @@
 export function StructuredData() {
-  const jsonLd = {
+  const webApp = {
     '@context': 'https://schema.org',
     '@type': 'WebApplication',
     name: 'Road Ready UAE',
@@ -27,10 +27,31 @@ export function StructuredData() {
     ],
   }
 
+  const webSite = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Road Ready UAE',
+    url: 'https://www.roadreadyuae.com',
+    potentialAction: {
+      '@type': 'SearchAction',
+      target: {
+        '@type': 'EntryPoint',
+        urlTemplate: 'https://www.roadreadyuae.com/en/blog?q={search_term_string}',
+      },
+      'query-input': 'required name=search_term_string',
+    },
+  }
+
   return (
-    <script
-      type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
-    />
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(webApp) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(webSite) }}
+      />
+    </>
   )
 }

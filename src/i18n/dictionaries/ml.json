@@ -25,7 +25,8 @@
     "locked": "ലോക്ക് ചെയ്തു",
     "passed": "വിജയിച്ചു",
     "failed": "പരാജയപ്പെട്ടു",
-    "questionsAvailableInEnglish": "ചോദ്യങ്ങൾ നിലവിൽ ഇംഗ്ലീഷിൽ ലഭ്യമാണ്"
+    "questionsAvailableInEnglish": "ചോദ്യങ്ങൾ നിലവിൽ ഇംഗ്ലീഷിൽ ലഭ്യമാണ്",
+    "blog": "ബ്ലോഗ്"
   },
   "hero": {
     "uaes1": "UAE-യിലെ #1",

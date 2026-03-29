@@ -25,7 +25,8 @@
     "locked": "مقفل",
     "passed": "ناجح",
     "failed": "راسب",
-    "questionsAvailableInEnglish": "الأسئلة متوفرة حالياً باللغة الإنجليزية"
+    "questionsAvailableInEnglish": "الأسئلة متوفرة حالياً باللغة الإنجليزية",
+    "blog": "مدونة"
   },
   "hero": {
     "uaes1": "الأول في الإمارات",

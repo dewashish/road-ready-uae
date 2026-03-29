@@ -25,7 +25,8 @@
     "locked": "LOCKED",
     "passed": "PASSED",
     "failed": "FAILED",
-    "questionsAvailableInEnglish": "Questions currently available in English"
+    "questionsAvailableInEnglish": "Questions currently available in English",
+    "blog": "Blog"
   },
   "hero": {
     "uaes1": "UAE's #1",

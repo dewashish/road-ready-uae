@@ -342,6 +342,76 @@ body {
   font-family: var(--font-arabic, var(--font-nastaliq, "IBM Plex Sans Arabic")), "Space Grotesk", sans-serif;
 }
 
+/* === BLOG PROSE STYLES === */
+.blog-prose p {
+  margin-bottom: 1em;
+  line-height: 1.75;
+}
+.blog-prose strong {
+  color: #f9f9f9;
+  font-weight: 700;
+}
+.blog-prose ul,
+.blog-prose ol {
+  margin: 1em 0;
+  padding-inline-start: 1.5em;
+}
+.blog-prose ul {
+  list-style-type: disc;
+}
+.blog-prose ol {
+  list-style-type: decimal;
+}
+.blog-prose li {
+  margin-bottom: 0.5em;
+  line-height: 1.6;
+}
+.blog-prose li::marker {
+  color: #f5ce53;
+}
+.blog-prose a {
+  color: #81ecff;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+.blog-prose a:hover {
+  color: #f5ce53;
+}
+.blog-prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1em 0;
+  border: 2px solid #000000;
+}
+.blog-prose th {
+  background-color: #191919;
+  color: #f5ce53;
+  font-family: "Space Grotesk", sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 0.75rem;
+  padding: 0.75em 1em;
+  text-align: start;
+  border: 2px solid #000000;
+}
+.blog-prose td {
+  padding: 0.75em 1em;
+  border: 2px solid #000000;
+  font-size: 0.875rem;
+}
+.blog-prose tr:nth-child(even) {
+  background-color: #131313;
+}
+.blog-prose blockquote {
+  border-inline-start: 4px solid #f5ce53;
+  padding: 1em 1.5em;
+  margin: 1em 0;
+  background-color: #191919;
+  color: #ababab;
+  font-style: italic;
+}
+
 /* === REDUCED MOTION === */
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {

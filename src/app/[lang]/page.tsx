@@ -9,7 +9,7 @@ import dynamic from 'next/dynamic'
 
 const HeroSection = dynamic(
   () => import('@/components/home/HeroSection').then((m) => m.HeroSection),
-  { ssr: false, loading: () => <div className="h-[160vh]" /> }
+  { ssr: false, loading: () => <div className="h-[160vh] pointer-events-none" /> }
 )
 const VintageCar = dynamic(
   () => import('@/components/home/HeroSection').then((m) => m.VintageCar),
