@@ -68,56 +68,60 @@
   },
   "faq": [
     {
-      "question": "What are the main categories of road signs in the UAE?",
-      "answer": "UAE road signs are divided into four main categories: regulatory signs (circles that give orders, either mandatory or prohibitory), warning signs (triangles that alert you to hazards ahead), informational/guide signs (rectangles providing directions and facility information), and temporary/construction signs (yellow or orange background for work zones)."
+      "q": "What are the main categories of road signs in the UAE?",
+      "a": "UAE road signs are divided into four main categories: regulatory signs (circles that give orders, either mandatory or prohibitory), warning signs (triangles that alert you to hazards ahead), informational/guide signs (rectangles providing directions and facility information), and temporary/construction signs (yellow or orange background for work zones)."
     },
     {
-      "question": "What does a round sign with a red border mean in the UAE?",
-      "answer": "A round sign with a red border is a prohibitory regulatory sign. It tells you something you must not do, such as exceeding a speed limit, making a U-turn, overtaking, or parking. The symbol inside the circle indicates the specific prohibition."
+      "q": "What does a round sign with a red border mean in the UAE?",
+      "a": "A round sign with a red border is a prohibitory regulatory sign. It tells you something you must not do, such as exceeding a speed limit, making a U-turn, overtaking, or parking. The symbol inside the circle indicates the specific prohibition."
     },
     {
-      "question": "What is the difference between No Parking and No Stopping signs?",
-      "answer": "The No Parking sign has a blue circle with a red border and a single red diagonal line, meaning you cannot park but can stop briefly to pick up or drop off passengers. The No Stopping sign has a blue circle with a red border and a red X, meaning you cannot stop at all, not even briefly."
+      "q": "What is the difference between No Parking and No Stopping signs?",
+      "a": "The No Parking sign has a blue circle with a red border and a single red diagonal line, meaning you cannot park but can stop briefly to pick up or drop off passengers. The No Stopping sign has a blue circle with a red border and a red X, meaning you cannot stop at all, not even briefly."
     },
     {
-      "question": "What color are warning signs in the UAE?",
-      "answer": "Warning signs in the UAE are triangular with a white background, red border, and black symbols. This shape and color combination distinguishes them from regulatory signs (circles) and informational signs (rectangles). They alert you to hazards ahead such as curves, intersections, pedestrian crossings, and construction zones."
+      "q": "What color are warning signs in the UAE?",
+      "a": "Warning signs in the UAE are triangular with a white background, red border, and black symbols. This shape and color combination distinguishes them from regulatory signs (circles) and informational signs (rectangles). They alert you to hazards ahead such as curves, intersections, pedestrian crossings, and construction zones."
     },
     {
-      "question": "What is the penalty for running a red light in the UAE?",
-      "answer": "Running a red light in the UAE results in a fine of AED 1,000, 12 black points on your driving license, and a 30-day vehicle impoundment. This is one of the most severely penalized traffic violations, and red light cameras are installed at most signalized intersections."
+      "q": "What is the penalty for running a red light in the UAE?",
+      "a": "Running a red light in the UAE results in a fine of AED 1,000, 12 black points on your driving license, and a 30-day vehicle impoundment. This is one of the most severely penalized traffic violations, and red light cameras are installed at most signalized intersections."
     },
     {
-      "question": "What do yellow or orange road signs mean?",
-      "answer": "Yellow or orange road signs indicate temporary conditions, usually construction zones or road works. They warn of lane closures, detours, uneven road surfaces, reduced speed limits, and the presence of workers on the road. Temporary speed limits on these signs are legally enforceable."
+      "q": "What do yellow or orange road signs mean?",
+      "a": "Yellow or orange road signs indicate temporary conditions, usually construction zones or road works. They warn of lane closures, detours, uneven road surfaces, reduced speed limits, and the presence of workers on the road. Temporary speed limits on these signs are legally enforceable."
     },
     {
-      "question": "How many road sign questions are on the UAE theory test?",
-      "answer": "While the exact number varies (since questions are drawn randomly), you can typically expect 8-12 questions directly about road signs on the theory test, plus additional questions where recognizing signs is part of a scenario. Road signs represent one of the most heavily tested topics."
+      "q": "How many road sign questions are on the UAE theory test?",
+      "a": "While the exact number varies (since questions are drawn randomly), you can typically expect 8-12 questions directly about road signs on the theory test, plus additional questions where recognizing signs is part of a scenario. Road signs represent one of the most heavily tested topics."
     },
     {
-      "question": "What does a blue circular road sign mean?",
-      "answer": "A blue circular sign is a mandatory regulatory sign. It tells you what you must do, such as follow a specific direction, maintain a minimum speed, or use a designated path. Common examples include turn left/right, keep left/right, and minimum speed limit signs."
+      "q": "What does a blue circular road sign mean?",
+      "a": "A blue circular sign is a mandatory regulatory sign. It tells you what you must do, such as follow a specific direction, maintain a minimum speed, or use a designated path. Common examples include turn left/right, keep left/right, and minimum speed limit signs."
     },
     {
-      "question": "What is the difference between green and blue direction signs?",
-      "answer": "Green direction signs are used on highways and major roads, showing destinations, distances, and route numbers for inter-city travel. Blue direction signs are used for local urban navigation, showing street names, local landmarks, facilities, and city destinations."
+      "q": "What is the difference between green and blue direction signs?",
+      "a": "Green direction signs are used on highways and major roads, showing destinations, distances, and route numbers for inter-city travel. Blue direction signs are used for local urban navigation, showing street names, local landmarks, facilities, and city destinations."
     },
     {
-      "question": "What happens if you accumulate 24 black points in the UAE?",
-      "answer": "Accumulating 24 black points within one year results in your driving license being suspended. The first suspension is typically for 3 months, with subsequent suspensions increasing to 6 months and then 12 months. During suspension, you cannot legally drive in the UAE."
+      "q": "What happens if you accumulate 24 black points in the UAE?",
+      "a": "Accumulating 24 black points within one year results in your driving license being suspended. The first suspension is typically for 3 months, with subsequent suspensions increasing to 6 months and then 12 months. During suspension, you cannot legally drive in the UAE."
     },
     {
-      "question": "Are UAE road signs in Arabic only?",
-      "answer": "No, road signs in the UAE are displayed in both Arabic and English. Many signs also use universal pictograms and symbols that require no language comprehension. This bilingual approach ensures accessibility for the UAE's large expatriate population."
+      "q": "Are UAE road signs in Arabic only?",
+      "a": "No, road signs in the UAE are displayed in both Arabic and English. Many signs also use universal pictograms and symbols that require no language comprehension. This bilingual approach ensures accessibility for the UAE's large expatriate population."
     },
     {
-      "question": "What should I do when I see a construction zone sign?",
-      "answer": "When you see a construction zone sign, reduce your speed immediately, follow any temporary speed limits (which are legally enforceable), obey lane guidance from cones and barriers, watch for workers on or near the road, increase your following distance, and turn on your headlights even during the day for increased visibility."
+      "q": "What should I do when I see a construction zone sign?",
+      "a": "When you see a construction zone sign, reduce your speed immediately, follow any temporary speed limits (which are legally enforceable), obey lane guidance from cones and barriers, watch for workers on or near the road, increase your following distance, and turn on your headlights even during the day for increased visibility."
     }
   ],
-  "relatedQuizModules": ["road-signs"],
-  "internalLinks": ["/quiz/B/road-signs"],
+  "relatedQuizModules": [
+    "road-signs"
+  ],
+  "internalLinks": [
+    "/quiz/B/road-signs"
+  ],
   "relatedSlugs": [
     "rta-theory-test-dubai-complete-guide",
     "how-to-pass-rta-theory-test-first-time",

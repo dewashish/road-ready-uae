@@ -27,7 +27,6 @@ export function Header({ showBack, backHref = '/', title }: HeaderProps) {
 
   const NAV_LINKS = [
     { href: '/', label: dict.common.home, icon: 'home' },
-    { href: '/blog', label: dict.common.blog ?? 'Blog', icon: 'article' },
     { href: '/history', label: dict.common.history, icon: 'history' },
     { href: '/progress', label: dict.common.progress, icon: 'bar_chart' },
   ]

@@ -13,7 +13,6 @@ export function BottomNav() {
 
   const NAV_ITEMS = [
     { href: '/', icon: 'home', label: dict.common.home },
-    { href: '/blog', icon: 'article', label: dict.common.blog ?? 'Blog' },
     { href: '/history', icon: 'history', label: dict.common.history },
     { href: '/progress', icon: 'bar_chart', label: dict.common.progress },
   ]

@@ -68,56 +68,62 @@
   },
   "faq": [
     {
-      "question": "How many questions are on the Abu Dhabi driving theory test?",
-      "answer": "The Abu Dhabi driving theory test consists of 35 multiple-choice questions. You have 30 minutes to complete the test, and each question offers four answer options. You need to score at least 24 out of 35 to pass."
+      "q": "How many questions are on the Abu Dhabi driving theory test?",
+      "a": "The Abu Dhabi driving theory test consists of 35 multiple-choice questions. You have 30 minutes to complete the test, and each question offers four answer options. You need to score at least 24 out of 35 to pass."
     },
     {
-      "question": "What is the passing score for the Abu Dhabi theory test?",
-      "answer": "You need to answer at least 24 out of 35 questions correctly to pass the Abu Dhabi driving theory test, which is approximately 69%. There is no negative marking for incorrect answers, so attempt every question."
+      "q": "What is the passing score for the Abu Dhabi theory test?",
+      "a": "You need to answer at least 24 out of 35 questions correctly to pass the Abu Dhabi driving theory test, which is approximately 69%. There is no negative marking for incorrect answers, so attempt every question."
     },
     {
-      "question": "How much does the theory test cost in Abu Dhabi?",
-      "answer": "The theory test fee in Abu Dhabi is approximately AED 200 per attempt. If you fail and need to retake the test, you must pay this fee again. The total cost of the driving license process, including all training and tests, ranges from AED 5,000 to AED 8,500 or more."
+      "q": "How much does the theory test cost in Abu Dhabi?",
+      "a": "The theory test fee in Abu Dhabi is approximately AED 200 per attempt. If you fail and need to retake the test, you must pay this fee again. The total cost of the driving license process, including all training and tests, ranges from AED 5,000 to AED 8,500 or more."
     },
     {
-      "question": "Which driving institutes are authorized in Abu Dhabi?",
-      "answer": "The main authorized driving institutes in Abu Dhabi are Emirates Driving Company (EDC) with multiple branches, Al Wathba Driving Institute, Al Ain Driving Institute, and Bainounah Driving Institute in the Western Region. Emirates Driving Company is the largest and most widely used."
+      "q": "Which driving institutes are authorized in Abu Dhabi?",
+      "a": "The main authorized driving institutes in Abu Dhabi are Emirates Driving Company (EDC) with multiple branches, Al Wathba Driving Institute, Al Ain Driving Institute, and Bainounah Driving Institute in the Western Region. Emirates Driving Company is the largest and most widely used."
     },
     {
-      "question": "Is the Abu Dhabi theory test different from the Dubai RTA test?",
-      "answer": "The format is similar (35 questions, 30 minutes, pass mark 24/35), and both cover UAE federal traffic laws. However, the question banks are maintained independently, and some questions may be specific to each emirate. The booking systems and authorized institutes also differ between emirates."
+      "q": "Is the Abu Dhabi theory test different from the Dubai RTA test?",
+      "a": "The format is similar (35 questions, 30 minutes, pass mark 24/35), and both cover UAE federal traffic laws. However, the question banks are maintained independently, and some questions may be specific to each emirate. The booking systems and authorized institutes also differ between emirates."
     },
     {
-      "question": "Can I use my Abu Dhabi driving license in Dubai and other emirates?",
-      "answer": "Yes, a driving license issued in Abu Dhabi (or any UAE emirate) is valid across all seven emirates. You do not need to retake any tests or obtain additional permits to drive in Dubai, Sharjah, or any other emirate."
+      "q": "Can I use my Abu Dhabi driving license in Dubai and other emirates?",
+      "a": "Yes, a driving license issued in Abu Dhabi (or any UAE emirate) is valid across all seven emirates. You do not need to retake any tests or obtain additional permits to drive in Dubai, Sharjah, or any other emirate."
     },
     {
-      "question": "What documents do I need to take the theory test in Abu Dhabi?",
-      "answer": "You need your original Emirates ID for identity verification at the test center. No other documents are required for the test itself. However, for the initial enrollment at a driving institute, you will need your Emirates ID, passport copy, eye test certificate, and passport-size photographs."
+      "q": "What documents do I need to take the theory test in Abu Dhabi?",
+      "a": "You need your original Emirates ID for identity verification at the test center. No other documents are required for the test itself. However, for the initial enrollment at a driving institute, you will need your Emirates ID, passport copy, eye test certificate, and passport-size photographs."
     },
     {
-      "question": "How long is the Abu Dhabi theory test result valid?",
-      "answer": "Your theory test result is valid for one year from the date of passing. You must complete the entire driving license process (practical training, parking test, and road test) within this one-year period, or you may need to retake the theory test."
+      "q": "How long is the Abu Dhabi theory test result valid?",
+      "a": "Your theory test result is valid for one year from the date of passing. You must complete the entire driving license process (practical training, parking test, and road test) within this one-year period, or you may need to retake the theory test."
     },
     {
-      "question": "What happens if I fail the Abu Dhabi theory test?",
-      "answer": "If you fail, you receive a result slip showing your score and topic-wise performance. You must wait for a cooling-off period, pay the test fee again, and rebook. Your driving institute may recommend additional revision classes before your next attempt."
+      "q": "What happens if I fail the Abu Dhabi theory test?",
+      "a": "If you fail, you receive a result slip showing your score and topic-wise performance. You must wait for a cooling-off period, pay the test fee again, and rebook. Your driving institute may recommend additional revision classes before your next attempt."
     },
     {
-      "question": "What languages is the Abu Dhabi theory test available in?",
-      "answer": "The Abu Dhabi theory test is available in multiple languages including English, Arabic, Urdu, Hindi, Malayalam, Bengali, and several others. Check with your driving institute for the full list of available languages at your preferred test center."
+      "q": "What languages is the Abu Dhabi theory test available in?",
+      "a": "The Abu Dhabi theory test is available in multiple languages including English, Arabic, Urdu, Hindi, Malayalam, Bengali, and several others. Check with your driving institute for the full list of available languages at your preferred test center."
     },
     {
-      "question": "Where are the theory test centers in Abu Dhabi?",
-      "answer": "Theory test centers are located across Abu Dhabi emirate, including Emirates Driving Company branches in Musaffah, Abu Dhabi Island, Khalifa City, and MBZ City. Al Ain has its own test centers, and the Western Region is served by Bainounah Driving Institute in Madinat Zayed and EDC in Ruwais."
+      "q": "Where are the theory test centers in Abu Dhabi?",
+      "a": "Theory test centers are located across Abu Dhabi emirate, including Emirates Driving Company branches in Musaffah, Abu Dhabi Island, Khalifa City, and MBZ City. Al Ain has its own test centers, and the Western Region is served by Bainounah Driving Institute in Madinat Zayed and EDC in Ruwais."
     },
     {
-      "question": "How do I book the theory test in Abu Dhabi?",
-      "answer": "You can book the theory test through your driving institute's reception, their mobile app (such as the Emirates Driving Company app), or the TAMM government services platform. You must complete the mandatory 8 hours of theory classes before you are eligible to book the test."
+      "q": "How do I book the theory test in Abu Dhabi?",
+      "a": "You can book the theory test through your driving institute's reception, their mobile app (such as the Emirates Driving Company app), or the TAMM government services platform. You must complete the mandatory 8 hours of theory classes before you are eligible to book the test."
     }
   ],
-  "relatedQuizModules": ["road-signs", "traffic-rules"],
-  "internalLinks": ["/quiz/B/road-signs", "/quiz/B/traffic-rules"],
+  "relatedQuizModules": [
+    "road-signs",
+    "traffic-rules"
+  ],
+  "internalLinks": [
+    "/quiz/B/road-signs",
+    "/quiz/B/traffic-rules"
+  ],
   "relatedSlugs": [
     "rta-theory-test-dubai-complete-guide",
     "how-to-pass-rta-theory-test-first-time",

@@ -72,56 +72,62 @@
   },
   "faq": [
     {
-      "question": "How many questions are on the RTA theory test in Dubai?",
-      "answer": "The RTA theory test in Dubai consists of 35 multiple-choice questions. Each question has four answer options, and you must select the single correct answer. You have 30 minutes to complete the test."
+      "q": "How many questions are on the RTA theory test in Dubai?",
+      "a": "The RTA theory test in Dubai consists of 35 multiple-choice questions. Each question has four answer options, and you must select the single correct answer. You have 30 minutes to complete the test."
     },
     {
-      "question": "What is the passing score for the RTA theory test?",
-      "answer": "You need to answer at least 24 out of 35 questions correctly to pass the RTA theory test, which is approximately 69%. There is no negative marking, so you should attempt every question even if you are unsure."
+      "q": "What is the passing score for the RTA theory test?",
+      "a": "You need to answer at least 24 out of 35 questions correctly to pass the RTA theory test, which is approximately 69%. There is no negative marking, so you should attempt every question even if you are unsure."
     },
     {
-      "question": "How much does the RTA theory test cost in Dubai?",
-      "answer": "The RTA theory test fee for a light motor vehicle (Category B) license is approximately AED 200. This fee may vary slightly depending on the vehicle category and the driving institute you are enrolled with. If you fail and need to retake the test, you will need to pay the fee again."
+      "q": "How much does the RTA theory test cost in Dubai?",
+      "a": "The RTA theory test fee for a light motor vehicle (Category B) license is approximately AED 200. This fee may vary slightly depending on the vehicle category and the driving institute you are enrolled with. If you fail and need to retake the test, you will need to pay the fee again."
     },
     {
-      "question": "What languages is the RTA theory test available in?",
-      "answer": "The RTA theory test is available in multiple languages including English, Arabic, Urdu, Hindi, Malayalam, Bengali, Tamil, Chinese, Tagalog, Persian, and Russian, among others. Check with your driving institute for the full list of available languages at your chosen test center."
+      "q": "What languages is the RTA theory test available in?",
+      "a": "The RTA theory test is available in multiple languages including English, Arabic, Urdu, Hindi, Malayalam, Bengali, Tamil, Chinese, Tagalog, Persian, and Russian, among others. Check with your driving institute for the full list of available languages at your chosen test center."
     },
     {
-      "question": "Can I take the RTA theory test without attending driving school?",
-      "answer": "No, you must be enrolled at an RTA-authorized driving institute and complete the mandatory 8 hours of theory lectures before you are eligible to take the theory test. The driving institute will book the test for you or provide you with the authorization to book it yourself."
+      "q": "Can I take the RTA theory test without attending driving school?",
+      "a": "No, you must be enrolled at an RTA-authorized driving institute and complete the mandatory 8 hours of theory lectures before you are eligible to take the theory test. The driving institute will book the test for you or provide you with the authorization to book it yourself."
     },
     {
-      "question": "How long is the RTA theory test result valid?",
-      "answer": "Your RTA theory test result is valid for one year from the date you pass. If you do not complete the full driving license process (including practical training and road test) within this one-year period, you may need to retake the theory test."
+      "q": "How long is the RTA theory test result valid?",
+      "a": "Your RTA theory test result is valid for one year from the date you pass. If you do not complete the full driving license process (including practical training and road test) within this one-year period, you may need to retake the theory test."
     },
     {
-      "question": "What happens if I fail the RTA theory test?",
-      "answer": "If you fail, you will receive a result slip showing your score and the topic areas where you performed poorly. You must wait for a mandatory cooling-off period (usually 2-3 days), pay the test fee again, and rebook the test. Some driving institutes may require you to attend additional revision classes before rebooking."
+      "q": "What happens if I fail the RTA theory test?",
+      "a": "If you fail, you will receive a result slip showing your score and the topic areas where you performed poorly. You must wait for a mandatory cooling-off period (usually 2-3 days), pay the test fee again, and rebook the test. Some driving institutes may require you to attend additional revision classes before rebooking."
     },
     {
-      "question": "How many times can I retake the RTA theory test?",
-      "answer": "There is no official limit on the number of times you can retake the RTA theory test. However, you must pay the test fee for each attempt and wait for the mandatory cooling-off period between attempts. Repeated failures may prompt your driving institute to recommend additional study before allowing you to rebook."
+      "q": "How many times can I retake the RTA theory test?",
+      "a": "There is no official limit on the number of times you can retake the RTA theory test. However, you must pay the test fee for each attempt and wait for the mandatory cooling-off period between attempts. Repeated failures may prompt your driving institute to recommend additional study before allowing you to rebook."
     },
     {
-      "question": "What topics are covered in the RTA theory test?",
-      "answer": "The RTA theory test covers traffic rules and regulations, road signs and markings, safe driving behavior, driving in adverse conditions (rain, fog, sandstorms), vehicle maintenance basics, hazard perception, and emergency situations. Questions are drawn randomly from a large question bank."
+      "q": "What topics are covered in the RTA theory test?",
+      "a": "The RTA theory test covers traffic rules and regulations, road signs and markings, safe driving behavior, driving in adverse conditions (rain, fog, sandstorms), vehicle maintenance basics, hazard perception, and emergency situations. Questions are drawn randomly from a large question bank."
     },
     {
-      "question": "Do I need to bring anything to the RTA theory test?",
-      "answer": "You must bring your original Emirates ID (not a copy) to the test center. Your identity will be verified electronically. Mobile phones, bags, books, and other personal items must be stored outside the testing room. Arrive at least 15 minutes before your scheduled test time."
+      "q": "Do I need to bring anything to the RTA theory test?",
+      "a": "You must bring your original Emirates ID (not a copy) to the test center. Your identity will be verified electronically. Mobile phones, bags, books, and other personal items must be stored outside the testing room. Arrive at least 15 minutes before your scheduled test time."
     },
     {
-      "question": "Are the RTA theory test questions the same every time?",
-      "answer": "No, questions are drawn randomly from a large question bank, so each test is different. While the topics and difficulty level remain consistent, the specific questions you receive will vary. This is why understanding the concepts is more important than memorizing specific questions."
+      "q": "Are the RTA theory test questions the same every time?",
+      "a": "No, questions are drawn randomly from a large question bank, so each test is different. While the topics and difficulty level remain consistent, the specific questions you receive will vary. This is why understanding the concepts is more important than memorizing specific questions."
     },
     {
-      "question": "Is the RTA theory test in Dubai the same as in other emirates?",
-      "answer": "The theory test content is broadly similar across UAE emirates, as all follow federal traffic law. However, each emirate has its own transport authority (RTA in Dubai, ITC in Abu Dhabi, SRTA in Sharjah) that administers the test independently. The question bank, test format, and fees may differ slightly between emirates. A driving license obtained in any emirate is valid across the entire UAE."
+      "q": "Is the RTA theory test in Dubai the same as in other emirates?",
+      "a": "The theory test content is broadly similar across UAE emirates, as all follow federal traffic law. However, each emirate has its own transport authority (RTA in Dubai, ITC in Abu Dhabi, SRTA in Sharjah) that administers the test independently. The question bank, test format, and fees may differ slightly between emirates. A driving license obtained in any emirate is valid across the entire UAE."
     }
   ],
-  "relatedQuizModules": ["road-signs", "traffic-rules"],
-  "internalLinks": ["/quiz/B/road-signs", "/quiz/B/traffic-rules"],
+  "relatedQuizModules": [
+    "road-signs",
+    "traffic-rules"
+  ],
+  "internalLinks": [
+    "/quiz/B/road-signs",
+    "/quiz/B/traffic-rules"
+  ],
   "relatedSlugs": [
     "how-to-pass-rta-theory-test-first-time",
     "rta-theory-test-questions-answers-2026",

@@ -1,7 +1,7 @@
 import Link from 'next/link'
 import { NeoCard } from '@/components/ui/NeoCard'
 import { NeoButton } from '@/components/ui/NeoButton'
-import { TableOfContents } from './TableOfContents'
+import { MobileTOC, DesktopTOC } from './TableOfContents'
 import type { BlogPost, BlogContentLocale } from '@/types/blog'
 
 interface BlogLayoutProps {
@@ -35,9 +35,9 @@ export function BlogLayout({ post, locale, relatedPosts }: BlogLayoutProps) {
         <span className="text-primary truncate max-w-[200px] sm:max-w-none">{content.title}</span>
       </nav>
 
-      <div className="flex gap-8 items-start">
+      <div className="lg:grid lg:grid-cols-[1fr_240px] lg:gap-10 items-start">
         {/* Main content */}
-        <article className="flex-1 min-w-0">
+        <article className="min-w-0">
           {/* Header */}
           <header className="mb-8">
             <div className="flex items-center gap-3 mb-4">
@@ -62,7 +62,7 @@ export function BlogLayout({ post, locale, relatedPosts }: BlogLayoutProps) {
           </header>
 
           {/* Mobile TOC */}
-          <TableOfContents items={tocItems} />
+          <MobileTOC items={tocItems} />
 
           {/* Article sections */}
           <div className="blog-prose">
@@ -154,7 +154,7 @@ export function BlogLayout({ post, locale, relatedPosts }: BlogLayoutProps) {
         </article>
 
         {/* Desktop TOC sidebar */}
-        <TableOfContents items={tocItems} />
+        <DesktopTOC items={tocItems} />
       </div>
 
       {/* Related posts */}

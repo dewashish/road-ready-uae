@@ -19,6 +19,7 @@ import { NeoCard } from '@/components/ui/NeoCard'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
 import { useProgress } from '@/context/ProgressContext'
 import { useDictionary } from '@/i18n/DictionaryContext'
+import { BlogSection } from '@/components/home/BlogSection'
 
 const ALL_MODULE_SLUGS = [
   'road-signs', 'traffic-rules', 'hazard-perception',
@@ -132,6 +133,9 @@ export default function HomePage() {
               </div>
             </NeoCard>
           </motion.div>
+
+          {/* Blog section */}
+          <BlogSection />
         </div>
       </main>
       <BottomNav />
