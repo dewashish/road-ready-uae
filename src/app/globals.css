@@ -229,6 +229,24 @@ body {
   animation: slide-in-right 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 }
 
+/* Slide up from bottom (for bottom sheet) */
+@keyframes slide-up {
+  0% { transform: translateY(100%); }
+  100% { transform: translateY(0); }
+}
+.animate-slide-up {
+  animation: slide-up 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+/* Hide scrollbar for status strip */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
 /* Progress bar fill */
 @keyframes fill-progress {
   0% { width: 0%; }

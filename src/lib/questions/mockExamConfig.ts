@@ -96,7 +96,7 @@ export const MOCK_EXAMS: MockExamDef[] = [
 
 export const MOCK_EXAM_TIME_LIMIT = 30 * 60 // 30 minutes in seconds
 export const MOCK_EXAM_QUESTION_COUNT = 45
-export const MOCK_EXAM_PASS_PERCENT = 71
+export const MOCK_EXAM_PASS_PERCENT = 80
 export const MOCK_EXAM_XP = 200
 
 /** Select questions for a mock exam across all modules using weighted sampling */

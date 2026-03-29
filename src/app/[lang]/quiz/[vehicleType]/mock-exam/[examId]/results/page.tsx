@@ -160,7 +160,7 @@ export default function MockExamResultsPage() {
                       {answer.questionText}
                     </p>
                     <div className="space-y-1 mb-3">
-                      {answer.selectedAnswerText !== '(Skipped)' && (
+                      {answer.selectedAnswerText !== '(Skipped)' && answer.selectedAnswerText !== '(Unanswered)' && (
                         <div className="flex items-center gap-2">
                           <span className="material-symbols-outlined text-error" style={{ fontSize: 16 }}>close</span>
                           <span className="text-sm text-error line-through">{answer.selectedAnswerText}</span>

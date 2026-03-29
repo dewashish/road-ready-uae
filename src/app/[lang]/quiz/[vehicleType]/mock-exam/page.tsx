@@ -9,7 +9,7 @@ import { Badge } from '@/components/ui/Badge'
 import { ProgressBar } from '@/components/ui/ProgressBar'
 import { useProgress } from '@/context/ProgressContext'
 import { VEHICLE_CATEGORIES } from '@/types/quiz'
-import { MOCK_EXAMS } from '@/lib/questions/mockExamConfig'
+import { MOCK_EXAMS, MOCK_EXAM_PASS_PERCENT } from '@/lib/questions/mockExamConfig'
 import { useDictionary, useLocale } from '@/i18n/DictionaryContext'
 import { localePath } from '@/i18n/utils'
 
@@ -72,7 +72,7 @@ export default function MockExamSelectionPage() {
               {dict.mockExam.examInfo
                 .replace('{questions}', '45')
                 .replace('{minutes}', '30')
-                .replace('{percent}', '71')}
+                .replace('{percent}', String(MOCK_EXAM_PASS_PERCENT))}
             </p>
           </div>
         </NeoCard>
@@ -88,7 +88,7 @@ export default function MockExamSelectionPage() {
               <Link key={exam.id} href={localePath(locale, `/quiz/${vehicleType}/mock-exam/${exam.id}`)}>
                 <NeoCard
                   level={2}
-                  shadow={completions > 0 && bestPercent >= 71 ? 'secondary' : 'default'}
+                  shadow={completions > 0 && bestPercent >= MOCK_EXAM_PASS_PERCENT ? 'secondary' : 'default'}
                   className="neo-hover cursor-pointer"
                 >
                   <div className="flex items-center gap-4">
@@ -96,7 +96,7 @@ export default function MockExamSelectionPage() {
                       <span className="font-headline text-xl font-bold text-secondary">
                         {idx + 1}
                       </span>
-                      {completions > 0 && bestPercent >= 71 && (
+                      {completions > 0 && bestPercent >= MOCK_EXAM_PASS_PERCENT && (
                         <div className="absolute -top-2 -right-2 w-6 h-6 bg-success border-2 border-surface-container-lowest flex items-center justify-center">
                           <span className="material-symbols-outlined text-surface" style={{ fontSize: 14 }}>
                             check
@@ -108,7 +108,7 @@ export default function MockExamSelectionPage() {
                       <div className="flex items-center gap-2 mb-1">
                         <h3 className="font-headline text-base font-bold text-primary">{exam.title}</h3>
                         {completions > 0 ? (
-                          <Badge variant={bestPercent >= 71 ? 'success' : 'info'}>
+                          <Badge variant={bestPercent >= MOCK_EXAM_PASS_PERCENT ? 'success' : 'info'}>
                             {dict.quiz.timesDone.replace('{count}', String(completions))}
                           </Badge>
                         ) : (
@@ -119,7 +119,7 @@ export default function MockExamSelectionPage() {
                       <div className="flex items-center gap-3">
                         {completions > 0 ? (
                           <>
-                            <ProgressBar value={bestPercent} max={100} color={bestPercent >= 71 ? 'success' : 'tertiary'} size="sm" className="flex-1" />
+                            <ProgressBar value={bestPercent} max={100} color={bestPercent >= MOCK_EXAM_PASS_PERCENT ? 'success' : 'tertiary'} size="sm" className="flex-1" />
                             <span className="font-label text-[10px] text-success font-bold whitespace-nowrap">
                               {dict.quiz.bestScore.replace('{percent}', String(bestPercent))}
                             </span>
