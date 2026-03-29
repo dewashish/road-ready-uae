@@ -89,11 +89,11 @@ export default function MockExamSelectionPage() {
                 <NeoCard
                   level={2}
                   shadow={completions > 0 && bestPercent >= MOCK_EXAM_PASS_PERCENT ? 'secondary' : 'default'}
-                  className="neo-hover cursor-pointer"
+                  className="group neo-hover cursor-pointer"
                 >
                   <div className="flex items-center gap-4">
-                    <div className="flex-shrink-0 w-14 h-14 bg-secondary/10 border-2 border-secondary flex items-center justify-center relative">
-                      <span className="font-headline text-xl font-bold text-secondary">
+                    <div className="flex-shrink-0 w-14 h-14 bg-surface-container-lowest border-2 border-surface-container-lowest flex items-center justify-center relative transition-colors group-hover:bg-secondary">
+                      <span className="font-headline text-xl font-bold text-secondary transition-colors group-hover:text-surface-container-lowest">
                         {idx + 1}
                       </span>
                       {completions > 0 && bestPercent >= MOCK_EXAM_PASS_PERCENT && (
