@@ -72,7 +72,7 @@ export function QuestionCard({
               >
                 flag
               </span>
-              {isFlagged ? 'Flagged' : 'Flag'}
+              {isFlagged ? 'Flagged' : 'Flag for Review'}
             </button>
           )}
           {!examMode && question.is_edcad_style && (
