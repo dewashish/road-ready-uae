@@ -88,7 +88,7 @@ export default function MockExamResultsPage() {
 
   return (
     <div className="min-h-dvh bg-background">
-      <Header showBack backHref={localePath(locale, `/quiz/${vehicleType}/mock-exam`)} title={`${exam?.title ?? 'Mock Test'} ${dict.results.title}`} />
+      <Header showBack backHref={`/quiz/${vehicleType}/mock-exam`} title={`${exam?.title ?? 'Mock Test'} ${dict.results.title}`} />
       <main className="max-w-2xl mx-auto px-4 sm:px-6 py-8">
         {/* Score Display */}
         <NeoCard level={2} shadow={passed ? 'secondary' : 'default'} className="text-center mb-6">

@@ -33,7 +33,7 @@ export default function MockExamSelectionPage() {
 
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
-      <Header showBack backHref={localePath(locale, `/quiz/${vehicleType}`)} title={dict.mockExam.title} />
+      <Header showBack backHref={`/quiz/${vehicleType}`} title={dict.mockExam.title} />
       <main className="max-w-3xl mx-auto px-4 sm:px-6 py-8">
         {/* Header */}
         <div className="flex items-center gap-4 mb-2">
