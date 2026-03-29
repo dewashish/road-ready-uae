@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import { Header } from '@/components/layout/Header'
 import { BottomNav } from '@/components/layout/BottomNav'
-import { BlogCard } from '@/components/blog/BlogCard'
+import { BlogGrid } from '@/components/blog/BlogGrid'
 import { getAllPosts } from '@/lib/blog'
 import { locales, type Locale } from '@/i18n/config'
 
@@ -28,8 +28,6 @@ export default async function BlogIndexPage({
   const locale = lang as Locale
   const posts = getAllPosts()
 
-  const categories = ['all', ...new Set(posts.map((p) => p.category))] as const
-
   return (
     <div className="min-h-dvh bg-background pb-20 sm:pb-0">
       <Header />
@@ -45,32 +43,7 @@ export default async function BlogIndexPage({
           </p>
         </div>
 
-        {/* Category filters */}
-        <div className="flex flex-wrap gap-2 mb-8">
-          {categories.map((cat) => (
-            <span
-              key={cat}
-              className="px-3 py-1.5 text-xs font-label font-bold uppercase tracking-wider border-2 border-surface-container-lowest bg-surface-container text-on-surface-variant cursor-default"
-            >
-              {cat}
-            </span>
-          ))}
-        </div>
-
-        {/* Post grid */}
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {posts.map((post, i) => (
-            <BlogCard key={post.slug} post={post} locale={locale} index={i} />
-          ))}
-        </div>
-
-        {posts.length === 0 && (
-          <div className="text-center py-16 text-on-surface-variant">
-            <span className="material-symbols-outlined text-outline mb-4" style={{ fontSize: 48 }}>article</span>
-            <p className="font-headline text-lg font-bold">No posts yet</p>
-            <p className="text-sm mt-1">Check back soon for driving tips and guides.</p>
-          </div>
-        )}
+        <BlogGrid posts={posts} locale={locale} />
       </main>
       <BottomNav />
     </div>
