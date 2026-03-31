@@ -40,7 +40,12 @@
   "home": {
     "chooseVehicle": "Choose Your Vehicle",
     "dailyChallenge": "Daily Challenge",
-    "dailyChallengeDesc": "Answer {target} questions today to maintain your streak"
+    "dailyChallengeDesc": "Answer {target} questions today to maintain your streak",
+    "fromTheBlog": "From the",
+    "blog": "Blog",
+    "blogSubtitle": "Tips, guides & everything you need to pass.",
+    "viewAllArticles": "View All Articles",
+    "minRead": "MIN READ"
   },
   "vehicles": {
     "B": { "name": "Light Vehicle", "description": "Cars, SUVs & light vehicles up to 3,500 kg" },

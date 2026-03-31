@@ -40,7 +40,12 @@
   "home": {
     "chooseVehicle": "اختر نوع المركبة",
     "dailyChallenge": "التحدي اليومي",
-    "dailyChallengeDesc": "أجب على {target} سؤال اليوم للحفاظ على سلسلتك"
+    "dailyChallengeDesc": "أجب على {target} سؤال اليوم للحفاظ على سلسلتك",
+    "fromTheBlog": "من",
+    "blog": "المدونة",
+    "blogSubtitle": "نصائح وأدلة وكل ما تحتاجه للنجاح.",
+    "viewAllArticles": "عرض جميع المقالات",
+    "minRead": "دقيقة قراءة"
   },
   "vehicles": {
     "B": { "name": "مركبة خفيفة", "description": "سيارات ومركبات رباعية الدفع ومركبات خفيفة حتى 3,500 كجم" },

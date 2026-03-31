@@ -40,7 +40,12 @@
   "home": {
     "chooseVehicle": "আপনার যানবাহন বেছে নিন",
     "dailyChallenge": "দৈনিক চ্যালেঞ্জ",
-    "dailyChallengeDesc": "আপনার ধারা বজায় রাখতে আজ {target}টি প্রশ্নের উত্তর দিন"
+    "dailyChallengeDesc": "আপনার ধারা বজায় রাখতে আজ {target}টি প্রশ্নের উত্তর দিন",
+    "fromTheBlog": "আমাদের",
+    "blog": "ব্লগ",
+    "blogSubtitle": "টিপস, গাইড এবং পাস করার জন্য সবকিছু।",
+    "viewAllArticles": "সব নিবন্ধ দেখুন",
+    "minRead": "মিনিট পড়ুন"
   },
   "vehicles": {
     "B": { "name": "হালকা যানবাহন", "description": "কার, SUV এবং ৩,৫০০ কেজি পর্যন্ত হালকা যানবাহন" },

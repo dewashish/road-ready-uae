@@ -40,7 +40,12 @@
   "home": {
     "chooseVehicle": "अपना वाहन चुनें",
     "dailyChallenge": "दैनिक चुनौती",
-    "dailyChallengeDesc": "अपनी स्ट्रीक बनाए रखने के लिए आज {target} प्रश्नों के उत्तर दें"
+    "dailyChallengeDesc": "अपनी स्ट्रीक बनाए रखने के लिए आज {target} प्रश्नों के उत्तर दें",
+    "fromTheBlog": "हमारा",
+    "blog": "ब्लॉग",
+    "blogSubtitle": "टिप्स, गाइड और पास होने के लिए सब कुछ।",
+    "viewAllArticles": "सभी लेख देखें",
+    "minRead": "मिनट पढ़ें"
   },
   "vehicles": {
     "B": { "name": "हल्का वाहन", "description": "कार, SUV और 3,500 किलो तक के हल्के वाहन" },

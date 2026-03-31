@@ -1,7 +1,7 @@
 'use client'
 
 import Link from 'next/link'
-import { useLocale } from '@/i18n/DictionaryContext'
+import { useDictionary, useLocale } from '@/i18n/DictionaryContext'
 
 const FEATURED_POSTS = [
   {
@@ -38,6 +38,8 @@ const FEATURED_POSTS = [
 
 export function BlogSection() {
   const locale = useLocale()
+  const dict = useDictionary()
+  const homeDict = (dict as any).home ?? {}
 
   return (
     <section className="mt-12 mb-4">
@@ -46,19 +48,19 @@ export function BlogSection() {
         <div className="space-y-2">
           <h3 className="font-headline font-black text-4xl sm:text-5xl md:text-7xl tracking-tighter uppercase leading-none">
             <span className="block" style={{ WebkitTextStroke: '1.5px #f5ce53', color: 'transparent' }}>
-              From the
+              {homeDict.fromTheBlog ?? 'From the'}
             </span>
-            <span className="text-secondary">Blog</span>
+            <span className="text-secondary">{homeDict.blog ?? 'Blog'}</span>
           </h3>
           <p className="font-label text-tertiary tracking-widest text-xs sm:text-sm font-bold uppercase">
-            Tips, guides & everything you need to pass.
+            {homeDict.blogSubtitle ?? 'Tips, guides & everything you need to pass.'}
           </p>
         </div>
         <Link
           href={`/${locale}/blog`}
           className="neo-push flex items-center gap-2 bg-secondary text-surface-container-lowest py-3 sm:py-4 px-6 sm:px-8 font-label font-black text-xs sm:text-sm tracking-widest border-2 border-surface-container-lowest neo-shadow transition-all duration-75 group self-start sm:self-auto"
         >
-          View All Articles
+          {homeDict.viewAllArticles ?? 'View All Articles'}
           <span className="material-symbols-outlined font-bold group-hover:translate-x-1 transition-transform" style={{ fontSize: 18 }}>
             arrow_forward
           </span>
@@ -105,7 +107,7 @@ export function BlogSection() {
                 <div className="flex items-center justify-between pt-3 sm:pt-4 border-t-2 border-surface-container-low">
                   <div className="flex items-center gap-2 text-on-surface-variant font-label text-xs font-bold">
                     <span className="material-symbols-outlined" style={{ fontSize: 14 }}>schedule</span>
-                    {post.readTime} MIN READ
+                    {post.readTime} {homeDict.minRead ?? 'MIN READ'}
                   </div>
                   <span className={`material-symbols-outlined ${arrowClass} opacity-0 group-hover:opacity-100 transition-opacity`} style={{ fontSize: 20 }}>
                     north_east
@@ -123,7 +125,7 @@ export function BlogSection() {
           href={`/${locale}/blog`}
           className="neo-push flex items-center justify-center gap-2 w-full py-3 bg-secondary text-surface-container-lowest border-2 border-surface-container-lowest neo-shadow font-label text-sm font-black tracking-widest"
         >
-          View All Articles
+          {homeDict.viewAllArticles ?? 'View All Articles'}
           <span className="material-symbols-outlined" style={{ fontSize: 18 }}>arrow_forward</span>
         </Link>
       </div>

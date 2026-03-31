@@ -40,7 +40,12 @@
   "home": {
     "chooseVehicle": "اپنی گاڑی منتخب کریں",
     "dailyChallenge": "روزانہ چیلنج",
-    "dailyChallengeDesc": "اپنا سلسلہ برقرار رکھنے کے لیے آج {target} سوالات کے جواب دیں"
+    "dailyChallengeDesc": "اپنا سلسلہ برقرار رکھنے کے لیے آج {target} سوالات کے جواب دیں",
+    "fromTheBlog": "ہمارا",
+    "blog": "بلاگ",
+    "blogSubtitle": "ٹپس، گائیڈز اور پاس ہونے کے لیے سب کچھ۔",
+    "viewAllArticles": "تمام مضامین دیکھیں",
+    "minRead": "منٹ پڑھیں"
   },
   "vehicles": {
     "B": { "name": "ہلکی گاڑی", "description": "کاریں، SUVs اور 3,500 کلوگرام تک کی ہلکی گاڑیاں" },
