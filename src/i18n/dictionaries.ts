@@ -8,6 +8,9 @@ const dictionaries = {
   hi: () => import('./dictionaries/hi.json').then((m) => m.default),
   bn: () => import('./dictionaries/bn.json').then((m) => m.default),
   ml: () => import('./dictionaries/ml.json').then((m) => m.default),
+  tl: () => import('./dictionaries/tl.json').then((m) => m.default),
+  ta: () => import('./dictionaries/ta.json').then((m) => m.default),
+  si: () => import('./dictionaries/si.json').then((m) => m.default),
 }
 
 export async function getDictionary(locale: Locale) {

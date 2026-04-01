@@ -1,4 +1,4 @@
-export const locales = ['en', 'ar', 'ur', 'hi', 'bn', 'ml'] as const
+export const locales = ['en', 'ar', 'ur', 'hi', 'bn', 'ml', 'tl', 'ta', 'si'] as const
 export type Locale = (typeof locales)[number]
 
 export const defaultLocale: Locale = 'en'
@@ -20,4 +20,7 @@ export const localeNames: Record<Locale, string> = {
   hi: 'हिन्दी',
   bn: 'বাংলা',
   ml: 'മലയാളം',
+  tl: 'Filipino',
+  ta: 'தமிழ்',
+  si: 'සිංහල',
 }

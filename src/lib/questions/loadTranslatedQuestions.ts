@@ -84,6 +84,30 @@ const overlayLoaders: Record<string, () => Promise<{ default: QuestionOverlay[] 
   'ml/critical-situations': () => import('@/data/questions/ml/critical-situations.json'),
   'ml/driving-behavior': () => import('@/data/questions/ml/driving-behavior.json'),
   'ml/vehicle-maintenance': () => import('@/data/questions/ml/vehicle-maintenance.json'),
+
+  'tl/road-signs': () => import('@/data/questions/tl/road-signs.json'),
+  'tl/traffic-rules': () => import('@/data/questions/tl/traffic-rules.json'),
+  'tl/hazard-perception': () => import('@/data/questions/tl/hazard-perception.json'),
+  'tl/driving-conditions': () => import('@/data/questions/tl/driving-conditions.json'),
+  'tl/critical-situations': () => import('@/data/questions/tl/critical-situations.json'),
+  'tl/driving-behavior': () => import('@/data/questions/tl/driving-behavior.json'),
+  'tl/vehicle-maintenance': () => import('@/data/questions/tl/vehicle-maintenance.json'),
+
+  'ta/road-signs': () => import('@/data/questions/ta/road-signs.json'),
+  'ta/traffic-rules': () => import('@/data/questions/ta/traffic-rules.json'),
+  'ta/hazard-perception': () => import('@/data/questions/ta/hazard-perception.json'),
+  'ta/driving-conditions': () => import('@/data/questions/ta/driving-conditions.json'),
+  'ta/critical-situations': () => import('@/data/questions/ta/critical-situations.json'),
+  'ta/driving-behavior': () => import('@/data/questions/ta/driving-behavior.json'),
+  'ta/vehicle-maintenance': () => import('@/data/questions/ta/vehicle-maintenance.json'),
+
+  'si/road-signs': () => import('@/data/questions/si/road-signs.json'),
+  'si/traffic-rules': () => import('@/data/questions/si/traffic-rules.json'),
+  'si/hazard-perception': () => import('@/data/questions/si/hazard-perception.json'),
+  'si/driving-conditions': () => import('@/data/questions/si/driving-conditions.json'),
+  'si/critical-situations': () => import('@/data/questions/si/critical-situations.json'),
+  'si/driving-behavior': () => import('@/data/questions/si/driving-behavior.json'),
+  'si/vehicle-maintenance': () => import('@/data/questions/si/vehicle-maintenance.json'),
 }
 
 /**
