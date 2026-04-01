@@ -161,6 +161,23 @@
     "moduleMastery": "മൊഡ്യൂൾ വൈദഗ്ധ്യം",
     "noActivity": "ഇതുവരെ പ്രവർത്തനം ഇല്ല. നിങ്ങളുടെ പുരോഗതി കാണാൻ ഒരു ക്വിസ് ആരംഭിക്കുക!"
   },
+  "modulePath": {
+    "progressOverview": "പുരോഗതി അവലോകനം",
+    "totalEarned": "ആകെ നേടിയത്",
+    "consistency": "സ്ഥിരത",
+    "questionsSeen": "കണ്ട ചോദ്യങ്ങൾ",
+    "weeklyPerformance": "പ്രതിവാര പ്രകടനം",
+    "weakestTopic": "ഏറ്റവും ദുർബലമായ വിഷയം",
+    "weakestTopicAdvice": "നിങ്ങളുടെ സ്കോർ മെച്ചപ്പെടുത്താൻ ഈ മൊഡ്യൂളിൽ ശ്രദ്ധിക്കുക. പരിശീലനം തുടരുക!",
+    "upNext": "അടുത്തത്",
+    "startModule": "മൊഡ്യൂൾ ആരംഭിക്കുക",
+    "startMockExam": "മോക്ക് പരീക്ഷ ആരംഭിക്കുക",
+    "progress0": "പുരോഗതി: 0%",
+    "seen": "കണ്ടത്",
+    "xpEarned": "XP നേടി",
+    "modules": "മൊഡ്യൂളുകൾ",
+    "toPass": "പാസ്സാകാൻ"
+  },
   "leaderboard": {
     "title": "ലീഡർ",
     "titleHighlight": "ബോർഡ്",

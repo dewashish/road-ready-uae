@@ -161,6 +161,23 @@
     "moduleMastery": "ماڈیول میں مہارت",
     "noActivity": "ابھی تک کوئی سرگرمی نہیں۔ اپنی پیشرفت دیکھنے کے لیے کوئز شروع کریں!"
   },
+  "modulePath": {
+    "progressOverview": "پیشرفت کا جائزہ",
+    "totalEarned": "کل حاصل کیے گئے",
+    "consistency": "تسلسل",
+    "questionsSeen": "دیکھے گئے سوالات",
+    "weeklyPerformance": "ہفتہ وار کارکردگی",
+    "weakestTopic": "کمزور ترین موضوع",
+    "weakestTopicAdvice": "اپنے اسکور کو بہتر بنانے کے لیے اس ماڈیول پر توجہ دیں۔ مشق جاری رکھیں!",
+    "upNext": "اگلا",
+    "startModule": "ماڈیول شروع کریں",
+    "startMockExam": "تجرباتی امتحان شروع کریں",
+    "progress0": "پیشرفت: 0%",
+    "seen": "دیکھے گئے",
+    "xpEarned": "XP حاصل ہوئے",
+    "modules": "ماڈیولز",
+    "toPass": "پاس کرنے کے لیے"
+  },
   "leaderboard": {
     "title": "لیڈر",
     "titleHighlight": "بورڈ",

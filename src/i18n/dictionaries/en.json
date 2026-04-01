@@ -161,6 +161,23 @@
     "moduleMastery": "Module Mastery",
     "noActivity": "No activity yet. Start a quiz to see your progress!"
   },
+  "modulePath": {
+    "progressOverview": "Progress Overview",
+    "totalEarned": "Total Earned",
+    "consistency": "Consistency",
+    "questionsSeen": "Questions Seen",
+    "weeklyPerformance": "Weekly Performance",
+    "weakestTopic": "Weakest Topic",
+    "weakestTopicAdvice": "Focus on this module to improve your score. Keep practicing!",
+    "upNext": "Up Next",
+    "startModule": "Start Module",
+    "startMockExam": "Start Mock Exam",
+    "progress0": "Progress: 0%",
+    "seen": "Seen",
+    "xpEarned": "XP Earned",
+    "modules": "Modules",
+    "toPass": "to Pass"
+  },
   "leaderboard": {
     "title": "Leader",
     "titleHighlight": "board",

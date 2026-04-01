@@ -16,6 +16,12 @@ import {
   mergeHistories,
   pushAllSessionsToCloud,
 } from '@/lib/supabase/history-sync'
+import {
+  pushModuleProgressToCloud,
+  pullModuleProgressFromCloud,
+  pushAllModuleProgressToCloud,
+  mergeCloudProgressIntoLocal,
+} from '@/lib/supabase/progress-sync'
 
 interface QuizSessionRecord {
   id: string
@@ -95,12 +101,27 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
 
     async function syncOnLogin() {
       const local = getStoredHistory()
+      const localProg = getProgress()
 
-      // Push local sessions to cloud first (so nothing is lost)
-      await pushAllSessionsToCloud(user!.id, local)
+      // Compute questions seen per module from history
+      const seenMap: Record<string, number> = {}
+      for (const s of local) {
+        const key = `${s.vehicleType}:${s.moduleSlug}`
+        const uniqueQs = new Set(s.answers.map((a) => a.questionId))
+        seenMap[key] = (seenMap[key] ?? 0) + uniqueQs.size
+      }
 
-      // Then pull cloud sessions (includes what we just pushed + sessions from other devices)
-      const cloud = await pullSessionsFromCloud(user!.id)
+      // Push local sessions + module progress to cloud (so nothing is lost)
+      await Promise.all([
+        pushAllSessionsToCloud(user!.id, local),
+        pushAllModuleProgressToCloud(user!.id, localProg, seenMap),
+      ])
+
+      // Pull cloud data (includes what we just pushed + data from other devices)
+      const [cloud, cloudProgress] = await Promise.all([
+        pullSessionsFromCloud(user!.id),
+        pullModuleProgressFromCloud(user!.id),
+      ])
 
       if (cancelled) return
 
@@ -109,8 +130,9 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
       setLocalHistory(merged)
       setMergedHistory(merged)
 
-      // Rebuild progress stats from the merged history so they're consistent across devices
-      const rebuilt = rebuildProgressFromHistory(merged)
+      // Rebuild progress from merged history, then merge with cloud module progress
+      let rebuilt = rebuildProgressFromHistory(merged)
+      rebuilt = mergeCloudProgressIntoLocal(rebuilt, cloudProgress)
       saveProgress(rebuilt)
       setProgress(rebuilt)
     }
@@ -142,6 +164,18 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
     // Push to cloud using ref to avoid stale user closure
     if (userRef.current) {
       pushSessionToCloud(userRef.current.id, session)
+      // Also push module progress + weekly snapshot
+      pushModuleProgressToCloud(
+        userRef.current.id,
+        session.vehicleType,
+        session.moduleSlug,
+        session.score,
+        session.total,
+        updated.filter(
+          (s) => s.moduleSlug === session.moduleSlug && s.vehicleType === session.vehicleType
+        ).length,
+        session.xpEarned
+      )
     }
   }, [mergedHistory, localHistory])
 

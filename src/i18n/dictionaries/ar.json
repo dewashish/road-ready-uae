@@ -161,6 +161,23 @@
     "moduleMastery": "إتقان الوحدات",
     "noActivity": "لا يوجد نشاط بعد. ابدأ اختباراً لمتابعة تقدمك!"
   },
+  "modulePath": {
+    "progressOverview": "نظرة عامة على التقدم",
+    "totalEarned": "المجموع المكتسب",
+    "consistency": "الاستمرارية",
+    "questionsSeen": "الأسئلة المشاهدة",
+    "weeklyPerformance": "الأداء الأسبوعي",
+    "weakestTopic": "أضعف موضوع",
+    "weakestTopicAdvice": "ركّز على هذه الوحدة لتحسين نتيجتك. واصل التدريب!",
+    "upNext": "التالي",
+    "startModule": "ابدأ الوحدة",
+    "startMockExam": "ابدأ الاختبار التجريبي",
+    "progress0": "التقدم: 0%",
+    "seen": "مشاهَد",
+    "xpEarned": "XP مكتسبة",
+    "modules": "الوحدات",
+    "toPass": "للنجاح"
+  },
   "leaderboard": {
     "title": "لوحة",
     "titleHighlight": "المتصدرين",

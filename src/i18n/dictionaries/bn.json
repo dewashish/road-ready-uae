@@ -161,6 +161,23 @@
     "moduleMastery": "মডিউল দক্ষতা",
     "noActivity": "এখনও কোনো কার্যকলাপ নেই। আপনার অগ্রগতি দেখতে একটি কুইজ শুরু করুন!"
   },
+  "modulePath": {
+    "progressOverview": "অগ্রগতি সংক্ষিপ্তসার",
+    "totalEarned": "মোট অর্জিত",
+    "consistency": "ধারাবাহিকতা",
+    "questionsSeen": "দেখা প্রশ্ন",
+    "weeklyPerformance": "সাপ্তাহিক কর্মক্ষমতা",
+    "weakestTopic": "দুর্বলতম বিষয়",
+    "weakestTopicAdvice": "আপনার স্কোর উন্নত করতে এই মডিউলে মনোযোগ দিন। অনুশীলন চালিয়ে যান!",
+    "upNext": "পরবর্তী",
+    "startModule": "মডিউল শুরু করুন",
+    "startMockExam": "মক পরীক্ষা শুরু করুন",
+    "progress0": "অগ্রগতি: 0%",
+    "seen": "দেখা হয়েছে",
+    "xpEarned": "XP অর্জিত",
+    "modules": "মডিউল",
+    "toPass": "পাস করতে"
+  },
   "leaderboard": {
     "title": "লিডার",
     "titleHighlight": "বোর্ড",

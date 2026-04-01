@@ -161,6 +161,23 @@
     "moduleMastery": "தொகுதி தேர்ச்சி",
     "noActivity": "இதுவரை செயல்பாடு இல்லை. உங்கள் முன்னேற்றத்தைக் காண ஒரு வினாடி வினாவைத் தொடங்குங்கள்!"
   },
+  "modulePath": {
+    "progressOverview": "முன்னேற்ற மேலோட்டம்",
+    "totalEarned": "மொத்தம் பெற்றது",
+    "consistency": "நிலைத்தன்மை",
+    "questionsSeen": "பார்த்த கேள்விகள்",
+    "weeklyPerformance": "வாராந்திர செயல்திறன்",
+    "weakestTopic": "பலவீனமான தலைப்பு",
+    "weakestTopicAdvice": "உங்கள் மதிப்பெண்ணை மேம்படுத்த இந்த தொகுதியில் கவனம் செலுத்துங்கள். பயிற்சியைத் தொடருங்கள்!",
+    "upNext": "அடுத்தது",
+    "startModule": "தொகுதியைத் தொடங்கு",
+    "startMockExam": "போலி தேர்வைத் தொடங்கு",
+    "progress0": "முன்னேற்றம்: 0%",
+    "seen": "பார்த்தது",
+    "xpEarned": "XP பெற்றது",
+    "modules": "தொகுதிகள்",
+    "toPass": "தேர்ச்சிக்கு"
+  },
   "leaderboard": {
     "title": "தர",
     "titleHighlight": "வரிசை",

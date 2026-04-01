@@ -161,6 +161,23 @@
     "moduleMastery": "Kahusayan sa Module",
     "noActivity": "Wala pang aktibidad. Magsimula ng quiz para makita ang iyong progreso!"
   },
+  "modulePath": {
+    "progressOverview": "Pangkalahatang Progreso",
+    "totalEarned": "Kabuuang Nakuha",
+    "consistency": "Pagkakapare-pareho",
+    "questionsSeen": "Mga Tanong na Nakita",
+    "weeklyPerformance": "Lingguhang Pagganap",
+    "weakestTopic": "Pinakamahinang Paksa",
+    "weakestTopicAdvice": "Magtuon sa module na ito upang mapabuti ang iyong marka. Magpatuloy sa pagsasanay!",
+    "upNext": "Susunod",
+    "startModule": "Simulan ang Module",
+    "startMockExam": "Simulan ang Mock Exam",
+    "progress0": "Progreso: 0%",
+    "seen": "Nakita",
+    "xpEarned": "XP na Nakuha",
+    "modules": "Mga Module",
+    "toPass": "para Makapasa"
+  },
   "leaderboard": {
     "title": "Leader",
     "titleHighlight": "board",

@@ -161,6 +161,23 @@
     "moduleMastery": "मॉड्यूल दक्षता",
     "noActivity": "अभी तक कोई गतिविधि नहीं। अपनी प्रगति देखने के लिए एक क्विज़ शुरू करें!"
   },
+  "modulePath": {
+    "progressOverview": "प्रगति अवलोकन",
+    "totalEarned": "कुल अर्जित",
+    "consistency": "निरंतरता",
+    "questionsSeen": "देखे गए प्रश्न",
+    "weeklyPerformance": "साप्ताहिक प्रदर्शन",
+    "weakestTopic": "सबसे कमज़ोर विषय",
+    "weakestTopicAdvice": "अपना स्कोर सुधारने के लिए इस मॉड्यूल पर ध्यान दें। अभ्यास जारी रखें!",
+    "upNext": "अगला",
+    "startModule": "मॉड्यूल शुरू करें",
+    "startMockExam": "मॉक परीक्षा शुरू करें",
+    "progress0": "प्रगति: 0%",
+    "seen": "देखे गए",
+    "xpEarned": "XP अर्जित",
+    "modules": "मॉड्यूल",
+    "toPass": "पास करने के लिए"
+  },
   "leaderboard": {
     "title": "लीडर",
     "titleHighlight": "बोर्ड",

@@ -161,6 +161,23 @@
     "moduleMastery": "මොඩියුල ප්‍රවීණත්වය",
     "noActivity": "තවම ක්‍රියාකාරකමක් නැත. ඔබේ ප්‍රගතිය බැලීමට ප්‍රශ්නාවලියක් ආරම්භ කරන්න!"
   },
+  "modulePath": {
+    "progressOverview": "ප්‍රගති සාරාංශය",
+    "totalEarned": "මුළු ලැබූ",
+    "consistency": "අඛණ්ඩතාව",
+    "questionsSeen": "දුටු ප්‍රශ්න",
+    "weeklyPerformance": "සතිපතා කාර්ය සාධනය",
+    "weakestTopic": "දුර්වලතම මාතෘකාව",
+    "weakestTopicAdvice": "ඔබේ ලකුණු වැඩි දියුණු කිරීමට මෙම මොඩියුලයට අවධානය යොමු කරන්න. පුහුණුව දිගටම කරගෙන යන්න!",
+    "upNext": "ඊළඟට",
+    "startModule": "මොඩියුලය ආරම්භ කරන්න",
+    "startMockExam": "ආදර්ශ විභාගය ආරම්භ කරන්න",
+    "progress0": "ප්‍රගතිය: 0%",
+    "seen": "දුටුවා",
+    "xpEarned": "XP ලැබූ",
+    "modules": "මොඩියුල",
+    "toPass": "සමත් වීමට"
+  },
   "leaderboard": {
     "title": "ශ්‍රේණි",
     "titleHighlight": "ගත කිරීම",
