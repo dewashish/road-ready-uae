@@ -52,6 +52,15 @@ export default function ModulePathPage() {
   const completedCount = moduleStates.filter((s) => s === 'done').length
   const completionPercent = Math.round((completedCount / MODULES.length) * 100)
 
+  // Actual XP earned per module (from session history)
+  const moduleXpEarned: Record<string, number> = {}
+  for (const session of history) {
+    if (session.vehicleType === vehicleType) {
+      const key = session.moduleSlug
+      moduleXpEarned[key] = (moduleXpEarned[key] ?? 0) + session.xpEarned
+    }
+  }
+
   // Total questions seen
   const totalSeenStats = MODULES.reduce(
     (acc, m) => {
@@ -181,14 +190,14 @@ export default function ModulePathPage() {
           <div className="md:hidden space-y-0 relative">
             <div className="absolute left-[26px] top-8 bottom-8 w-1 bg-surface-container-highest z-0" />
             {MODULES.map((mod, idx) => (
-              <MobileModuleCard key={mod.slug} mod={mod} idx={idx} state={moduleStates[idx]} vehicleType={vehicleType} progress={progress} history={history} dict={dict} locale={locale} />
+              <MobileModuleCard key={mod.slug} mod={mod} idx={idx} state={moduleStates[idx]} vehicleType={vehicleType} progress={progress} history={history} dict={dict} locale={locale} actualXp={moduleXpEarned[mod.slug] ?? 0} />
             ))}
           </div>
 
           {/* Desktop modules */}
           <div className="hidden md:flex md:flex-col md:gap-8 md:mt-4">
             {MODULES.map((mod, idx) => (
-              <DesktopModuleCard key={mod.slug} mod={mod} idx={idx} isLast={idx === MODULES.length - 1} state={moduleStates[idx]} vehicleType={vehicleType} progress={progress} history={history} dict={dict} locale={locale} />
+              <DesktopModuleCard key={mod.slug} mod={mod} idx={idx} isLast={idx === MODULES.length - 1} state={moduleStates[idx]} vehicleType={vehicleType} progress={progress} history={history} dict={dict} locale={locale} actualXp={moduleXpEarned[mod.slug] ?? 0} />
             ))}
           </div>
         </div>
@@ -318,10 +327,10 @@ export default function ModulePathPage() {
    MOBILE MODULE CARD — 3 states: done / next / not-started
    ====================================================================== */
 function MobileModuleCard({
-  mod, idx, state, vehicleType, progress, history, dict, locale,
+  mod, idx, state, vehicleType, progress, history, dict, locale, actualXp,
 }: {
   mod: (typeof MODULES)[number]; idx: number; state: ModuleState
-  vehicleType: string; progress: any; history: any[]; dict: any; locale: string
+  vehicleType: string; progress: any; history: any[]; dict: any; locale: string; actualXp: number
 }) {
   const modProgress = progress.modules[`${vehicleType}:${mod.slug}`]
   const completions = modProgress?.completionCount ?? 0
@@ -378,7 +387,7 @@ function MobileModuleCard({
                 <span className="text-on-surface-variant">
                   {dict.quiz.questionsSeen.replace('{seen}', String(seenStats.seen)).replace('{total}', String(seenStats.total)).replace('{percent}', String(seenStats.percent))}
                 </span>
-                <span className="text-success">✓ {mod.xp * completions} {(dict as any).modulePath.xpEarned}</span>
+                <span className="text-success">✓ {actualXp} {(dict as any).modulePath.xpEarned}</span>
               </div>
             </div>
           </div>
@@ -432,10 +441,10 @@ function MobileModuleCard({
    DESKTOP MODULE CARD — 3 states: done / next / not-started
    ====================================================================== */
 function DesktopModuleCard({
-  mod, idx, isLast, state, vehicleType, progress, history, dict, locale,
+  mod, idx, isLast, state, vehicleType, progress, history, dict, locale, actualXp,
 }: {
   mod: (typeof MODULES)[number]; idx: number; isLast: boolean; state: ModuleState
-  vehicleType: string; progress: any; history: any[]; dict: any; locale: string
+  vehicleType: string; progress: any; history: any[]; dict: any; locale: string; actualXp: number
 }) {
   const modProgress = progress.modules[`${vehicleType}:${mod.slug}`]
   const completions = modProgress?.completionCount ?? 0
@@ -467,7 +476,7 @@ function DesktopModuleCard({
                 <h3 className="text-xl font-headline font-black uppercase tracking-tight text-primary">{modTitle}</h3>
               </div>
               <div className="flex items-center gap-2 bg-success/10 text-success px-3 py-1 text-xs font-bold uppercase tracking-tighter">
-                <span className="material-symbols-outlined text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>check_circle</span> {mod.xp * completions} {(dict as any).modulePath.xpEarned}
+                <span className="material-symbols-outlined text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>check_circle</span> {actualXp} {(dict as any).modulePath.xpEarned}
               </div>
             </div>
             <div className="flex items-center gap-6">
