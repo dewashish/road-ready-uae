@@ -176,7 +176,9 @@
     "seen": "Nakita",
     "xpEarned": "XP na Nakuha",
     "modules": "Mga Module",
-    "toPass": "para Makapasa"
+    "toPass": "para Makapasa",
+    "adaptiveTitle": "Smart Practice —",
+    "adaptiveDesc": "Sa bawat ulit, inuuna ang mga bagong tanong at mga dating mali ang sagot, para ma-master mo ang bawat paksa."
   },
   "leaderboard": {
     "title": "Leader",

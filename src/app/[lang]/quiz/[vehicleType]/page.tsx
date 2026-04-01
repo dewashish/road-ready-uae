@@ -173,6 +173,15 @@ export default function ModulePathPage() {
             </section>
           </Link>
 
+          {/* ── Adaptive learning info strip ── */}
+          <div className="flex items-start gap-3 p-4 bg-tertiary/5 border-2 border-tertiary/20">
+            <span className="material-symbols-outlined text-tertiary text-lg mt-0.5" style={{ fontVariationSettings: "'FILL' 1" }}>auto_awesome</span>
+            <p className="text-xs text-on-surface-variant leading-relaxed">
+              <span className="text-tertiary font-headline font-bold uppercase tracking-wider">{(dict as any).modulePath.adaptiveTitle}</span>{' '}
+              {(dict as any).modulePath.adaptiveDesc}
+            </p>
+          </div>
+
           {/* ================================================================
               MODULE LIST
               ================================================================ */}
