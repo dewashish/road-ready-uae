@@ -349,13 +349,15 @@ function MobileModuleCard({
           <div className="flex-1 bg-surface-container-high border-2 border-surface-container-lowest border-l-[8px] border-l-success neo-shadow p-4 neo-hover cursor-pointer">
             <div className="flex justify-between items-start mb-2">
               <div>
-                <h4 className="font-headline font-bold text-primary">{modTitle}</h4>
+                <div className="flex items-center gap-2 mb-0.5">
+                  <h4 className="font-headline font-bold text-primary">{modTitle}</h4>
+                  <span className="bg-success/20 text-success font-label font-black text-[9px] px-1.5 py-0.5 border border-success/30 uppercase">
+                    {dict.quiz.timesDone.replace('{count}', String(completions))}
+                  </span>
+                </div>
                 <p className="text-[11px] text-on-surface-variant font-medium leading-tight">{modDescription}</p>
               </div>
               <div className="text-right">
-                <span className="text-success font-label font-black text-[10px] uppercase block">
-                  {dict.quiz.timesDone.replace('{count}', String(completions))}
-                </span>
                 <span className="text-primary font-headline font-black text-sm">{bestPercent}%</span>
               </div>
             </div>
@@ -367,7 +369,7 @@ function MobileModuleCard({
                 <span className="text-on-surface-variant">
                   {dict.quiz.questionsSeen.replace('{seen}', String(seenStats.seen)).replace('{total}', String(seenStats.total)).replace('{percent}', String(seenStats.percent))}
                 </span>
-                <span className="text-success">✓ {mod.xp} {(dict as any).modulePath.xpEarned}</span>
+                <span className="text-success">✓ {mod.xp * completions} {(dict as any).modulePath.xpEarned}</span>
               </div>
             </div>
           </div>
@@ -447,11 +449,16 @@ function DesktopModuleCard({
           <div className="flex-grow p-6 bg-surface-container-high border-2 border-success neo-shadow neo-shadow-hover transition-all">
             <div className="flex justify-between items-start mb-4">
               <div>
-                <span className="font-headline text-xs text-on-surface-variant font-bold tracking-widest uppercase">Module {stepNum}</span>
+                <div className="flex items-center gap-3 mb-1">
+                  <span className="font-headline text-xs text-on-surface-variant font-bold tracking-widest uppercase">Module {stepNum}</span>
+                  <span className="bg-success/20 text-success font-label font-black text-[10px] px-2 py-0.5 border border-success/30 uppercase">
+                    {dict.quiz.timesDone.replace('{count}', String(completions))}
+                  </span>
+                </div>
                 <h3 className="text-xl font-headline font-black uppercase tracking-tight text-primary">{modTitle}</h3>
               </div>
               <div className="flex items-center gap-2 bg-success/10 text-success px-3 py-1 text-xs font-bold uppercase tracking-tighter">
-                <span className="material-symbols-outlined text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>check_circle</span> {mod.xp} {(dict as any).modulePath.xpEarned}
+                <span className="material-symbols-outlined text-sm" style={{ fontVariationSettings: "'FILL' 1" }}>check_circle</span> {mod.xp * completions} {(dict as any).modulePath.xpEarned}
               </div>
             </div>
             <div className="flex items-center gap-6">
