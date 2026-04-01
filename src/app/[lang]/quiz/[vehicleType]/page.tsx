@@ -52,14 +52,23 @@ export default function ModulePathPage() {
   const completedCount = moduleStates.filter((s) => s === 'done').length
   const completionPercent = Math.round((completedCount / MODULES.length) * 100)
 
-  // Actual XP earned per module (from session history)
+  // Vehicle-scoped stats from session history
   const moduleXpEarned: Record<string, number> = {}
+  let vehicleXp = 0
+  let vehicleQuizCount = 0
+  let vehicleTotalCorrect = 0
+  let vehicleTotalQuestions = 0
   for (const session of history) {
     if (session.vehicleType === vehicleType) {
       const key = session.moduleSlug
       moduleXpEarned[key] = (moduleXpEarned[key] ?? 0) + session.xpEarned
+      vehicleXp += session.xpEarned
+      vehicleQuizCount++
+      vehicleTotalCorrect += session.score
+      vehicleTotalQuestions += session.total
     }
   }
+  const vehicleAvgScore = vehicleTotalQuestions > 0 ? Math.round((vehicleTotalCorrect / vehicleTotalQuestions) * 100) : 0
 
   // Total questions seen
   const totalSeenStats = MODULES.reduce(
@@ -140,12 +149,12 @@ export default function ModulePathPage() {
             </div>
             <div className="grid grid-cols-3 gap-2 mt-6">
               <div className="bg-surface-container-low border-2 border-surface-container-lowest p-2 text-center">
-                <p className="font-label text-[10px] uppercase text-on-surface-variant font-bold">{dict.common.xp}</p>
-                <p className="font-headline font-black text-secondary">{progress.totalXp} XP</p>
+                <p className="font-label text-[10px] uppercase text-on-surface-variant font-bold">{(dict as any).modulePath.vehicleXp}</p>
+                <p className="font-headline font-black text-secondary">{vehicleXp} XP</p>
               </div>
               <div className="bg-surface-container-low border-2 border-surface-container-lowest p-2 text-center">
-                <p className="font-label text-[10px] uppercase text-on-surface-variant font-bold">{dict.progressPage.dayStreak}</p>
-                <p className="font-headline font-black text-tertiary">{progress.currentStreak} {dict.common.dayStreak}</p>
+                <p className="font-label text-[10px] uppercase text-on-surface-variant font-bold">{(dict as any).modulePath.quizzesDone}</p>
+                <p className="font-headline font-black text-tertiary">{vehicleQuizCount}</p>
               </div>
               <div className="bg-surface-container-low border-2 border-surface-container-lowest p-2 text-center">
                 <p className="font-label text-[10px] uppercase text-on-surface-variant font-bold">{dict.progressPage.moduleMastery}</p>
@@ -226,17 +235,17 @@ export default function ModulePathPage() {
                     <span className="material-symbols-outlined text-surface-container-lowest" style={{ fontVariationSettings: "'FILL' 1" }}>stars</span>
                   </div>
                   <div>
-                    <div className="text-lg font-headline font-black">{progress.totalXp} XP</div>
-                    <div className="text-[10px] uppercase font-bold text-on-surface-variant">{(dict as any).modulePath.totalEarned}</div>
+                    <div className="text-lg font-headline font-black">{vehicleXp} XP</div>
+                    <div className="text-[10px] uppercase font-bold text-on-surface-variant">{(dict as any).modulePath.vehicleXp}</div>
                   </div>
                 </div>
                 <div className="flex items-center gap-3">
                   <div className="w-10 h-10 bg-tertiary flex items-center justify-center neo-shadow">
-                    <span className="material-symbols-outlined text-surface-container-lowest" style={{ fontVariationSettings: "'FILL' 1" }}>local_fire_department</span>
+                    <span className="material-symbols-outlined text-surface-container-lowest" style={{ fontVariationSettings: "'FILL' 1" }}>quiz</span>
                   </div>
                   <div>
-                    <div className="text-lg font-headline font-black">{progress.currentStreak} {dict.common.dayStreak}</div>
-                    <div className="text-[10px] uppercase font-bold text-on-surface-variant">{(dict as any).modulePath.consistency}</div>
+                    <div className="text-lg font-headline font-black">{vehicleQuizCount}</div>
+                    <div className="text-[10px] uppercase font-bold text-on-surface-variant">{(dict as any).modulePath.quizzesDone}</div>
                   </div>
                 </div>
               </div>

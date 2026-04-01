@@ -177,6 +177,8 @@
     "xpEarned": "XP Earned",
     "modules": "Modules",
     "toPass": "to Pass",
+    "vehicleXp": "Vehicle XP",
+    "quizzesDone": "Quizzes Done",
     "adaptiveTitle": "Smart Practice —",
     "adaptiveDesc": "Each retry prioritises new unseen questions and ones you got wrong before, so you master every topic."
   },
