@@ -4,7 +4,7 @@ import { Header } from '@/components/layout/Header'
 import { BottomNav } from '@/components/layout/BottomNav'
 import { BlogLayout } from '@/components/blog/BlogLayout'
 import { getAllSlugs, getPostBySlug, getRelatedPosts } from '@/lib/blog'
-import { locales, type Locale } from '@/i18n/config'
+import { locales, ogLocaleMap, type Locale } from '@/i18n/config'
 
 export async function generateStaticParams() {
   const slugs = getAllSlugs()
@@ -28,9 +28,12 @@ export async function generateMetadata({
     keywords: post.seo.keywords,
     alternates: {
       canonical: `/${lang}/blog/${slug}`,
-      languages: Object.fromEntries(
-        locales.map((l) => [l, `/${l}/blog/${slug}`])
-      ),
+      languages: {
+        'x-default': `/en/blog/${slug}`,
+        ...Object.fromEntries(
+          locales.map((l) => [l, `/${l}/blog/${slug}`])
+        ),
+      },
     },
     openGraph: {
       title: post.seo.title,
@@ -41,7 +44,8 @@ export async function generateMetadata({
       publishedTime: post.publishedAt,
       modifiedTime: post.updatedAt,
       authors: [post.author],
-      locale: lang === 'ar' ? 'ar_AE' : 'en_AE',
+      locale: ogLocaleMap[lang as Locale] ?? 'en_AE',
+      alternateLocale: locales.filter((l) => l !== lang).map((l) => ogLocaleMap[l]),
     },
     twitter: {
       card: 'summary_large_image',

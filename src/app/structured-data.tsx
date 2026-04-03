@@ -24,6 +24,9 @@ export function StructuredData() {
       { '@type': 'Language', name: 'Hindi', alternateName: 'hi' },
       { '@type': 'Language', name: 'Bengali', alternateName: 'bn' },
       { '@type': 'Language', name: 'Malayalam', alternateName: 'ml' },
+      { '@type': 'Language', name: 'Filipino', alternateName: 'tl' },
+      { '@type': 'Language', name: 'Tamil', alternateName: 'ta' },
+      { '@type': 'Language', name: 'Sinhala', alternateName: 'si' },
     ],
   }
 

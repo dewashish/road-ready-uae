@@ -24,3 +24,15 @@ export const localeNames: Record<Locale, string> = {
   ta: 'தமிழ்',
   si: 'සිංහල',
 }
+
+export const ogLocaleMap: Record<Locale, string> = {
+  en: 'en_AE',
+  ar: 'ar_AE',
+  ur: 'ur_PK',
+  hi: 'hi_IN',
+  bn: 'bn_BD',
+  ml: 'ml_IN',
+  tl: 'tl_PH',
+  ta: 'ta_IN',
+  si: 'si_LK',
+}
