@@ -27,14 +27,14 @@ export async function generateMetadata({
   const { lang } = await params;
   const locale = (hasLocale(lang) ? lang : "en") as Locale;
   const ogLocale = ogLocaleMap[locale];
+  const dict = await getDictionary(locale);
 
   return {
     title: {
-      default: "Road Ready UAE – Free Driving Theory Test Practice",
+      default: dict.seo.title,
       template: "%s | Road Ready UAE",
     },
-    description:
-      "Pass your UAE driving theory test on the first try. 1,200+ real exam questions for Car, Motorcycle, Truck & Bus — in 9 languages. Mock exams, adaptive learning, 100% free.",
+    description: dict.seo.description,
     keywords: [
       "UAE driving theory test",
       "RTA theory test practice",
@@ -46,6 +46,16 @@ export async function generateMetadata({
       "Emirates driving theory",
       "driving license test UAE",
       "road test practice UAE",
+      "RTA mock test online free",
+      "Sharjah driving test",
+      "Ajman driving theory test",
+      "Ras Al Khaimah driving test",
+      "Fujairah driving test",
+      "Umm Al Quwain driving test",
+      "RTA theory test passing marks",
+      "RTA hazard perception test",
+      "driving test questions UAE 2026",
+      "free driving theory test UAE",
     ],
     verification: {
       google: "MEk7UVmCMF6Wp1ERJdvw0VLsJADYt4GnQgooawW4coY",
@@ -67,9 +77,8 @@ export async function generateMetadata({
       },
     },
     openGraph: {
-      title: "Road Ready UAE – Free Driving Theory Test Practice",
-      description:
-        "Pass your UAE driving test on the first try. 1,200+ real exam questions for Car, Motorcycle, Truck & Bus — in 9 languages. Mock exams, adaptive learning, 100% free.",
+      title: dict.seo.ogTitle,
+      description: dict.seo.ogDescription,
       url: `https://www.roadreadyuae.com/${locale}`,
       siteName: "Road Ready UAE",
       locale: ogLocale,
@@ -86,9 +95,8 @@ export async function generateMetadata({
     },
     twitter: {
       card: "summary_large_image",
-      title: "Road Ready UAE – Free Driving Theory Test Practice",
-      description:
-        "Pass your UAE driving test on the first try. 1,200+ questions, 9 languages, mock exams — 100% free.",
+      title: dict.seo.title,
+      description: dict.seo.description,
       images: ["/opengraph-image"],
     },
     robots: {
@@ -104,6 +112,10 @@ export async function generateMetadata({
     },
     icons: {
       icon: "/icon.svg",
+    },
+    other: {
+      "geo.region": "AE",
+      "geo.placename": "Dubai, Abu Dhabi, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, Fujairah, United Arab Emirates",
     },
   };
 }

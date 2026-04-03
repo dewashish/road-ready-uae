@@ -465,6 +465,26 @@
     {
       "q": "How often is the RTA question bank updated?",
       "a": "The RTA periodically updates its question bank to reflect changes in traffic laws, new road signs, and updated regulations. This is why you should always use current study materials and practice tests that are updated for 2026. Older study materials may contain outdated information."
+    },
+    {
+      "q": "How many questions are on the real RTA theory test in 2026?",
+      "a": "The real RTA theory test has exactly 35 multiple-choice questions with a 30-minute time limit. Each question has four options with one correct answer. You need at least 24 correct answers (approximately 69%) to pass."
+    },
+    {
+      "q": "Do questions on the real RTA test repeat from practice tests?",
+      "a": "The RTA draws from a large question bank, so you may encounter questions similar to those in quality practice tests, but they are not identical. The concepts, scenarios, and road signs tested are the same, which is why thorough practice with realistic questions is the best preparation strategy."
+    },
+    {
+      "q": "What are the most commonly failed topics on the RTA theory test?",
+      "a": "Right-of-way rules at roundabouts and intersections are the most commonly failed topics, followed by hazard perception scenarios and distinguishing between similar-looking road signs. Candidates also frequently struggle with questions about safe following distances and speed limits in different zones."
+    },
+    {
+      "q": "Can I flag and review questions during the RTA theory test?",
+      "a": "Yes, the RTA test interface allows you to flag questions for review and navigate freely between questions before final submission. You can skip difficult questions, answer easier ones first, and return to flagged questions with your remaining time. Your test is only finalized when you click submit or the timer expires."
+    },
+    {
+      "q": "Are there any trick questions on the RTA theory test?",
+      "a": "The RTA theory test is designed to assess practical driving knowledge, not to trick you. However, some questions have answer options that are very similar, particularly for road sign questions and right-of-way scenarios. Reading each question and all four options carefully before answering will help you avoid mistakes."
     }
   ],
   "relatedQuizModules": [

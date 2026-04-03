@@ -17,6 +17,16 @@ export function StructuredData() {
       '@type': 'Audience',
       audienceType: 'Driving license applicants in the UAE',
     },
+    areaServed: [
+      { '@type': 'Country', name: 'United Arab Emirates', alternateName: 'UAE' },
+      { '@type': 'City', name: 'Dubai' },
+      { '@type': 'City', name: 'Abu Dhabi' },
+      { '@type': 'City', name: 'Sharjah' },
+      { '@type': 'City', name: 'Ajman' },
+      { '@type': 'City', name: 'Umm Al Quwain' },
+      { '@type': 'City', name: 'Ras Al Khaimah' },
+      { '@type': 'City', name: 'Fujairah' },
+    ],
     availableLanguage: [
       { '@type': 'Language', name: 'English', alternateName: 'en' },
       { '@type': 'Language', name: 'Arabic', alternateName: 'ar' },
