@@ -188,14 +188,14 @@ function TrafficLight3D({ x, opacity }: { x: MotionValue<number>; opacity: Motio
           className="w-[52px] h-[130px] bg-surface-container-lowest border-2 border-surface-container-highest flex flex-col items-center justify-around py-2 -mt-1"
           style={{ boxShadow: '4px 4px 0 #f5ce53' }}
         >
-          {/* Green — lit during first 1/3 of cycle (top) */}
+          {/* Red — lit during last 1/3 of cycle (top) */}
           <motion.div
-            className="w-9 h-9 rounded-full border-2 border-success-dim"
+            className="w-9 h-9 rounded-full border-2 border-error-dim"
             animate={{
-              backgroundColor: ['rgba(74,222,128,0.8)', 'rgba(74,222,128,0.8)', 'rgba(74,222,128,0.15)', 'rgba(74,222,128,0.15)', 'rgba(74,222,128,0.15)', 'rgba(74,222,128,0.8)'],
-              boxShadow: ['0 0 14px rgba(74,222,128,0.7)', '0 0 14px rgba(74,222,128,0.7)', '0 0 0px transparent', '0 0 0px transparent', '0 0 0px transparent', '0 0 14px rgba(74,222,128,0.7)'],
+              backgroundColor: ['rgba(220,38,38,0.15)', 'rgba(220,38,38,0.15)', 'rgba(220,38,38,0.15)', 'rgba(220,38,38,0.8)', 'rgba(220,38,38,0.8)', 'rgba(220,38,38,0.15)'],
+              boxShadow: ['0 0 0px transparent', '0 0 0px transparent', '0 0 0px transparent', '0 0 14px rgba(220,38,38,0.7)', '0 0 14px rgba(220,38,38,0.7)', '0 0 0px transparent'],
             }}
-            transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut', times: [0, 0.3, 0.34, 0.65, 0.96, 1] }}
+            transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut', times: [0, 0.3, 0.63, 0.67, 0.96, 1] }}
           />
           {/* Amber — lit during middle 1/3 of cycle (middle) */}
           <motion.div
@@ -206,14 +206,14 @@ function TrafficLight3D({ x, opacity }: { x: MotionValue<number>; opacity: Motio
             }}
             transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut', times: [0, 0.3, 0.34, 0.63, 0.67, 1] }}
           />
-          {/* Red — lit during last 1/3 of cycle (bottom) */}
+          {/* Green — lit during first 1/3 of cycle (bottom) */}
           <motion.div
-            className="w-9 h-9 rounded-full border-2 border-error-dim"
+            className="w-9 h-9 rounded-full border-2 border-success-dim"
             animate={{
-              backgroundColor: ['rgba(220,38,38,0.15)', 'rgba(220,38,38,0.15)', 'rgba(220,38,38,0.15)', 'rgba(220,38,38,0.8)', 'rgba(220,38,38,0.8)', 'rgba(220,38,38,0.15)'],
-              boxShadow: ['0 0 0px transparent', '0 0 0px transparent', '0 0 0px transparent', '0 0 14px rgba(220,38,38,0.7)', '0 0 14px rgba(220,38,38,0.7)', '0 0 0px transparent'],
+              backgroundColor: ['rgba(74,222,128,0.8)', 'rgba(74,222,128,0.8)', 'rgba(74,222,128,0.15)', 'rgba(74,222,128,0.15)', 'rgba(74,222,128,0.15)', 'rgba(74,222,128,0.8)'],
+              boxShadow: ['0 0 14px rgba(74,222,128,0.7)', '0 0 14px rgba(74,222,128,0.7)', '0 0 0px transparent', '0 0 0px transparent', '0 0 0px transparent', '0 0 14px rgba(74,222,128,0.7)'],
             }}
-            transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut', times: [0, 0.3, 0.63, 0.67, 0.96, 1] }}
+            transition={{ duration: 6, repeat: Infinity, ease: 'easeInOut', times: [0, 0.3, 0.34, 0.65, 0.96, 1] }}
           />
         </div>
       </motion.div>
