@@ -75,7 +75,9 @@ function weightedSample(entries: WeightedEntry[], count: number): Question[] {
  * Select questions using tiered weighted sampling.
  *
  * Tier 1 — Unseen Official (EDCAD + RTA, never seen):
- *   Fill as many slots as possible. EDCAD weight 1.5, RTA weight 1.2.
+ *   Fill as many slots as possible.
+ *   Light vehicles (B): EDCAD weight 1.5, RTA weight 1.2.
+ *   Other vehicles: RTA weight 1.5, EDCAD weight 1.0.
  *
  * Tier 2 — Previously Wrong Official (EDCAD + RTA, answered wrong):
  *   Fill remaining slots. Weight: 1.0 + wrongCount × 2.0.
@@ -89,8 +91,11 @@ export function selectWeightedQuestions(
   pool: Question[],
   wrongCounts: Map<string, number>,
   seenIds: Set<string>,
-  count: number = 30
+  count: number = 30,
+  vehicleType: string = 'B'
 ): Question[] {
+  const isLightVehicle = vehicleType === 'B'
+
   if (pool.length <= count) return [...pool]
 
   const tier1: WeightedEntry[] = [] // unseen official
@@ -104,8 +109,12 @@ export function selectWeightedQuestions(
     const relevance = (q.relevance_rank ?? 8) / 8.0
 
     if (official && !seen) {
-      // Tier 1: unseen official — EDCAD slightly higher than RTA
-      const sourceWeight = q.is_edcad_style ? 1.5 : 1.2
+      // Tier 1: unseen official
+      // Light vehicles: EDCAD 1.5, RTA 1.2
+      // Other vehicles: RTA 1.5, EDCAD 1.0 (EDCAD less relevant)
+      const sourceWeight = isLightVehicle
+        ? (q.is_edcad_style ? 1.5 : 1.2)
+        : (q.source === 'rta' ? 1.5 : 1.0)
       tier1.push({ question: q, weight: sourceWeight * relevance })
     } else if (official && wrongCount > 0) {
       // Tier 2: wrong official — reinforce mistakes on official material

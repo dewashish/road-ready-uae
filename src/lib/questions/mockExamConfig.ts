@@ -124,7 +124,7 @@ export function selectMockExamQuestions(
       (q) => q.vehicle_types.includes(vehicleType) || q.vehicle_types.includes('B')
     )
 
-    const selected = selectWeightedQuestions(filtered, wrongCounts, seenIds, count)
+    const selected = selectWeightedQuestions(filtered, wrongCounts, seenIds, count, vehicleType)
     allSelected.push(...selected)
   }
 

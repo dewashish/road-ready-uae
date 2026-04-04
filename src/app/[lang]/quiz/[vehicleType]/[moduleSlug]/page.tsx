@@ -45,7 +45,7 @@ export default function QuizPage() {
       const sessions = getModuleHistory(moduleSlug).filter(s => s.vehicleType === vehicleType)
       const wrongCounts = buildWrongCountMap(sessions)
       const seenIds = buildSeenSet(sessions)
-      const shuffled = selectWeightedQuestions(filtered, wrongCounts, seenIds, 30)
+      const shuffled = selectWeightedQuestions(filtered, wrongCounts, seenIds, 30, vehicleType)
       // Translate questions for current locale
       const translated = await loadTranslatedQuestions(moduleSlug, locale, shuffled)
       // Shuffle answer order within each question
